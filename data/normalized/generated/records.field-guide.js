@@ -60,9 +60,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_74dcdc7fbb5d8eaf6916",
-    "text": "Companion to: Bible Deep Dive Study Notes  |  Last updated: 12 August 2026",
-    "raw_text": "Companion to: Bible Deep Dive Study Notes  |  Last updated: 12 August 2026",
+    "id": "rk_68a8e94c1fd825d98595",
+    "text": "Companion to: Bible Deep Dive Study Notes  |  Last updated: 3 September 2026",
+    "raw_text": "Companion to: Bible Deep Dive Study Notes  |  Last updated: 3 September 2026",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -34426,6 +34426,688 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨DOCUMENTED⟩"
     },
     "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_3cf32b8c3b8907031960",
+    "text": "Before Adam and Eve are even expelled, Genesis is already carrying multiple creation sequences, supernatural objects, etiologies, and different portrayals of God. Reading it as one seamless modern plot makes the material harder to understand.",
+    "raw_text": "⟨YOURS — live reading observation, 3 Sep 2026⟩ Before Adam and Eve are even expelled, Genesis is already carrying multiple creation sequences, supernatural objects, etiologies, and different portrayals of God. Reading it as one seamless modern plot makes the material harder to understand.",
+    "provenance_type": "MY_WORDS",
+    "representation_type": "VERBATIM",
+    "speaker": "user",
+    "topics": [
+      "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026",
+      "24.1 Genesis 1–3 Is Already Composite"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026 > 24.1 Genesis 1–3 Is Already Composite",
+    "source_reference": "paragraph:1101",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨YOURS⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_f535d06e31ecfff0fc9b",
+    "text": "John J. Collins [CRITICAL], A Short Introduction to the Hebrew Bible, 4th ed. (Fortress, 2025), ch. 3, treats Genesis 1–11 as woven from Priestly and non-Priestly/Yahwistic strands. Genesis 1 creates land animals and then humankind as male and female; Genesis 2 presents the man, then the animals in the search for a partner, then the woman. Mark Harris [CRITICAL], The Nature of Creation (2014), likewise treats the opening as preserving at least two creation traditions.",
+    "raw_text": "⟨DOCUMENTED⟩ John J. Collins [CRITICAL], *A Short Introduction to the Hebrew Bible*, 4th ed. (Fortress, 2025), ch. 3, treats Genesis 1–11 as woven from Priestly and non-Priestly/Yahwistic strands. Genesis 1 creates land animals and then humankind as male and female; Genesis 2 presents the man, then the animals in the search for a partner, then the woman. Mark Harris [CRITICAL], *The Nature of Creation* (2014), likewise treats the opening as preserving at least two creation traditions.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026",
+      "24.1 Genesis 1–3 Is Already Composite"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026 > 24.1 Genesis 1–3 Is Already Composite",
+    "source_reference": "paragraph:1102",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_c43310ec3eb69d331f50",
+    "text": "Strongest harmonizing response: Richard M. Davidson [CONSERVATIVE-ADVENTIST], The Genesis Account of Origins, reads Genesis 2 as a focused recapitulation of day six and argues Genesis 2:19 can be understood as animals God had already formed. The critical objection is that this is a harmonizing reading of a surface sequence that still differs from Genesis 1.",
+    "raw_text": "**Strongest harmonizing response:** Richard M. Davidson [CONSERVATIVE-ADVENTIST], *The Genesis Account of Origins*, reads Genesis 2 as a focused recapitulation of day six and argues Genesis 2:19 can be understood as animals God had already formed. The critical objection is that this is a harmonizing reading of a surface sequence that still differs from Genesis 1.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026",
+      "24.1 Genesis 1–3 Is Already Composite"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026 > 24.1 Genesis 1–3 Is Already Composite",
+    "source_reference": "paragraph:1103",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_66b7b4527bfca5ef4834",
+    "text": "Working model: layered, edited origin literature, not one narrator giving one uninterrupted chronology.",
+    "raw_text": "⟨INFERENCE⟩ Working model: **layered, edited origin literature**, not one narrator giving one uninterrupted chronology.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026",
+      "24.1 Genesis 1–3 Is Already Composite"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026 > 24.1 Genesis 1–3 Is Already Composite",
+    "source_reference": "paragraph:1104",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_2a4f5ef956472f6e6168",
+    "text": "Genesis 3:1 calls the character *הַנָּחָשׁ (ha-naḥash)*, the serpent/snake, one of the wild animals YHWH God made. It speaks; the story does not explain why. Robert R. Cargill [CRITICAL], University of Iowa Bible & Archaeology, “Is the Snake in the Garden of Eden Satan?” (2021), notes Genesis never calls it Satan; that identification is later.",
+    "raw_text": "⟨DOCUMENTED⟩ Genesis 3:1 calls the character **הַנָּחָשׁ (*ha-naḥash*)**, the serpent/snake, one of the wild animals YHWH God made. It speaks; the story does not explain why. Robert R. Cargill [CRITICAL], University of Iowa Bible & Archaeology, “Is the Snake in the Garden of Eden Satan?” (2021), notes Genesis never calls it Satan; that identification is later.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026",
+      "24.2 The Talking Serpent Does Not Mean All Animals Talked"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026 > 24.2 The Talking Serpent Does Not Mean All Animals Talked",
+    "source_reference": "paragraph:1105",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_95988d83c4bd4b21747f",
+    "text": "“All animals could talk then” is not in Genesis. It is an added explanation for something the story itself leaves unexplained.",
+    "raw_text": "⟨YOURS⟩ “All animals could talk then” is not in Genesis. It is an added explanation for something the story itself leaves unexplained.",
+    "provenance_type": "MY_WORDS",
+    "representation_type": "VERBATIM",
+    "speaker": "user",
+    "topics": [
+      "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026",
+      "24.2 The Talking Serpent Does Not Mean All Animals Talked"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026 > 24.2 The Talking Serpent Does Not Mean All Animals Talked",
+    "source_reference": "paragraph:1106",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨YOURS⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_045bda6634fd5ddb85e7",
+    "text": "A reader may speculate that the serpent was exceptional or that pre-curse animals had different capacities. Genesis never generalizes from this one talking animal to all animals.",
+    "raw_text": "⟨INFERENCE⟩ A reader may speculate that the serpent was exceptional or that pre-curse animals had different capacities. Genesis never generalizes from this one talking animal to all animals.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026",
+      "24.2 The Talking Serpent Does Not Mean All Animals Talked"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026 > 24.2 The Talking Serpent Does Not Mean All Animals Talked",
+    "source_reference": "paragraph:1107",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_23396285a676eb3c634b",
+    "text": "Exodus 33 says Moses speaks with YHWH “face to face” (33:11), then says no human can see YHWH’s face and live (33:20), and describes YHWH covering Moses with a “hand” so Moses may see the divine “back” but not the face (33:22–23).",
+    "raw_text": "⟨DOCUMENTED⟩ Exodus 33 says Moses speaks with YHWH “face to face” (33:11), then says no human can see YHWH’s face and live (33:20), and describes YHWH covering Moses with a “hand” so Moses may see the divine “back” but not the face (33:22–23).",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026",
+      "24.3 Exodus 33 — Did God, Not Jesus, Reveal Himself Bodily?"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026 > 24.3 Exodus 33 — Did God, Not Jesus, Reveal Himself Bodily?",
+    "source_reference": "paragraph:1108",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_f089d207d16fef72d0c9",
+    "text": "Benjamin D. Sommer [CRITICAL], The Bodies of God and the World of Ancient Israel (Cambridge, 2009), argues many Hebrew Bible texts assume divine embodiment and specifically treats Exodus 33 as preserving conflicting traditions about divine presence and how much of the divine body can be perceived. Kenneth Seeskin, Oxford Handbook of Apophatic Theology (2026), represents the later opposite trajectory: Exodus 33 becomes a key text for traditions denying that God can literally be described bodily.",
+    "raw_text": "⟨DOCUMENTED⟩ Benjamin D. Sommer [CRITICAL], *The Bodies of God and the World of Ancient Israel* (Cambridge, 2009), argues many Hebrew Bible texts assume divine embodiment and specifically treats Exodus 33 as preserving conflicting traditions about divine presence and how much of the divine body can be perceived. Kenneth Seeskin, *Oxford Handbook of Apophatic Theology* (2026), represents the later opposite trajectory: Exodus 33 becomes a key text for traditions denying that God can literally be described bodily.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026",
+      "24.3 Exodus 33 — Did God, Not Jesus, Reveal Himself Bodily?"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026 > 24.3 Exodus 33 — Did God, Not Jesus, Reveal Himself Bodily?",
+    "source_reference": "paragraph:1109",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_980182c7c4b6c8f83a0f",
+    "text": "CORRECTION: calling this figure “God the Father” imports later Trinitarian language backward. Exodus says YHWH.",
+    "raw_text": "**CORRECTION:** calling this figure “God the Father” imports later Trinitarian language backward. Exodus says **YHWH**.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026",
+      "24.3 Exodus 33 — Did God, Not Jesus, Reveal Himself Bodily?"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026 > 24.3 Exodus 33 — Did God, Not Jesus, Reveal Himself Bodily?",
+    "source_reference": "paragraph:1110",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_55202563aa88297e4c58",
+    "text": "So yes: Exodus 33 can count as God visibly revealing himself, and on a serious scholarly reading as bodily manifestation. It does not by itself settle the later metaphysical question of whether God permanently has a material humanlike body.",
+    "raw_text": "⟨INFERENCE⟩ So yes: Exodus 33 can count as God visibly revealing himself, and on a serious scholarly reading as bodily manifestation. It does not by itself settle the later metaphysical question of whether God permanently has a material humanlike body.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026",
+      "24.3 Exodus 33 — Did God, Not Jesus, Reveal Himself Bodily?"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026 > 24.3 Exodus 33 — Did God, Not Jesus, Reveal Himself Bodily?",
+    "source_reference": "paragraph:1111",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_9a626084fa9a5d8e1ab0",
+    "text": "The final Exodus narrative says both. YHWH announces divine hardening before the contest begins (Exodus 4:21; 7:3). In the early plague sequence Pharaoh is sometimes responsible for making his own heart heavy (8:15; 8:32). The first plague notice explicitly making YHWH the subject who hardens Pharaoh’s heart is 9:12; later divine hardening recurs.",
+    "raw_text": "⟨DOCUMENTED⟩ The final Exodus narrative says **both**. YHWH announces divine hardening before the contest begins (Exodus 4:21; 7:3). In the early plague sequence Pharaoh is sometimes responsible for making his own heart heavy (8:15; 8:32). The first plague notice explicitly making YHWH the subject who hardens Pharaoh’s heart is 9:12; later divine hardening recurs.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026",
+      "24.4 Pharaoh’s Heart — God or Pharaoh?"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026 > 24.4 Pharaoh’s Heart — God or Pharaoh?",
+    "source_reference": "paragraph:1112",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_e51da8edec4980777f77",
+    "text": "The Hebrew uses several roots — *חזק (ḥ-z-q), כבד (k-b-d), and קשׁה (q-sh-h)* — whose differences are flattened by the English shorthand “harden.” David Frankel [CRITICAL], “Taking Control of the Story: God Hardens Pharaoh’s Heart” (2016), argues source-critically that Exodus preserves multiple conceptions: Pharaoh’s stubbornness, divine foreknowledge, and direct divine causation.",
+    "raw_text": "⟨DOCUMENTED⟩ The Hebrew uses several roots — **חזק (*ḥ-z-q*)**, **כבד (*k-b-d*)**, and **קשׁה (*q-sh-h*)** — whose differences are flattened by the English shorthand “harden.” David Frankel [CRITICAL], “Taking Control of the Story: God Hardens Pharaoh’s Heart” (2016), argues source-critically that Exodus preserves multiple conceptions: Pharaoh’s stubbornness, divine foreknowledge, and direct divine causation.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026",
+      "24.4 Pharaoh’s Heart — God or Pharaoh?"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026 > 24.4 Pharaoh’s Heart — God or Pharaoh?",
+    "source_reference": "paragraph:1113",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_50e906841a641556d5ed",
+    "text": "Answer to the live question: “Pharaoh refused first and then God hardened him” is partly true of the narrated plague sequence, but not of the final story as a whole, because God announces the hardening beforehand.",
+    "raw_text": "**Answer to the live question:** “Pharaoh refused first and then God hardened him” is partly true of the narrated plague sequence, but not of the final story as a whole, because God announces the hardening beforehand.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026",
+      "24.4 Pharaoh’s Heart — God or Pharaoh?"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026 > 24.4 Pharaoh’s Heart — God or Pharaoh?",
+    "source_reference": "paragraph:1114",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_e34359d281af1575a51e",
+    "text": "The point is not that every Israelite is always favored over every non-Israelite. It is that the election texts explicitly make Israel chosen and specially favored; “Israelites and non-Israelites are equally valued by God” is not stated with the same directness in those passages.",
+    "raw_text": "⟨YOURS — conclusion refined through discussion, 3 Sep 2026⟩ The point is not that every Israelite is always favored over every non-Israelite. It is that the election texts explicitly make Israel chosen and specially favored; “Israelites and non-Israelites are equally valued by God” is not stated with the same directness in those passages.",
+    "provenance_type": "MY_WORDS",
+    "representation_type": "VERBATIM",
+    "speaker": "user",
+    "topics": [
+      "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026",
+      "24.5 Israel Is Explicitly Chosen; Equal Value Is a Further Claim"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026 > 24.5 Israel Is Explicitly Chosen; Equal Value Is a Further Claim",
+    "source_reference": "paragraph:1115",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨YOURS⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_e26a69102da654d94ae3",
+    "text": "Joel S. Kaminsky and Joel N. Lohr, “Election in the Bible,” Oxford Bibliographies, define biblical election as God favoring some individuals/groups over others. Joel N. Lohr [CRITICAL], Chosen and Unchosen (2009), emphasizes that Pentateuchal favor toward Israel can come at the cost of unchosen peoples; his 2011 Horizons in Biblical Theology article warns against forcing a universal agenda into Deuteronomy’s genuinely particularistic election theology.",
+    "raw_text": "⟨DOCUMENTED⟩ Joel S. Kaminsky and Joel N. Lohr, “Election in the Bible,” *Oxford Bibliographies*, define biblical election as God favoring some individuals/groups over others. Joel N. Lohr [CRITICAL], *Chosen and Unchosen* (2009), emphasizes that Pentateuchal favor toward Israel can come at the cost of unchosen peoples; his 2011 *Horizons in Biblical Theology* article warns against forcing a universal agenda into Deuteronomy’s genuinely particularistic election theology.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026",
+      "24.5 Israel Is Explicitly Chosen; Equal Value Is a Further Claim"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026 > 24.5 Israel Is Explicitly Chosen; Equal Value Is a Further Claim",
+    "source_reference": "paragraph:1116",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_d7288af924b9dbed3274",
+    "text": "Other texts universalize divine concern (e.g. Deut 10:14–19; Ps 145:18), and the Pontifical Biblical Commission (2001) argues Israel’s election need not imply rejection of other peoples.",
+    "raw_text": "⟨DOCUMENTED — broader-canon counter⟩ Other texts universalize divine concern (e.g. Deut 10:14–19; Ps 145:18), and the Pontifical Biblical Commission (2001) argues Israel’s election need not imply rejection of other peoples.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026",
+      "24.5 Israel Is Explicitly Chosen; Equal Value Is a Further Claim"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026 > 24.5 Israel Is Explicitly Chosen; Equal Value Is a Further Claim",
+    "source_reference": "paragraph:1117",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED — broader-canon counter⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_fdd336849b9ff5c2cfb0",
+    "text": "Most precise conclusion: special favor is explicit; equal human worth is a broader theological synthesis that must be argued, not a balancing sentence supplied by the election/conquest texts themselves.",
+    "raw_text": "⟨INFERENCE⟩ Most precise conclusion: **special favor is explicit; equal human worth is a broader theological synthesis that must be argued, not a balancing sentence supplied by the election/conquest texts themselves.**",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026",
+      "24.5 Israel Is Explicitly Chosen; Equal Value Is a Further Claim"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026 > 24.5 Israel Is Explicitly Chosen; Equal Value Is a Further Claim",
+    "source_reference": "paragraph:1118",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_5070418668ffc84bbb03",
+    "text": "Your concern is not that a religious person cannot reason in unrelated domains. It is that someone who retains a legitimate divine override — where “God requires this” may outrank another person’s evidence, autonomy, consent, rights, or secular standards — has a rule that can become controlling whenever religion is judged relevant.",
+    "raw_text": "⟨YOURS — normative position reconstructed from discussion, 3 Sep 2026⟩ Your concern is not that a religious person cannot reason in unrelated domains. It is that someone who retains a legitimate **divine override** — where “God requires this” may outrank another person’s evidence, autonomy, consent, rights, or secular standards — has a rule that can become controlling whenever religion is judged relevant.",
+    "provenance_type": "MY_WORDS",
+    "representation_type": "VERBATIM",
+    "speaker": "user",
+    "topics": [
+      "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026",
+      "24.6 Authority Over Other People — Your Position"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026 > 24.6 Authority Over Other People — Your Position",
+    "source_reference": "paragraph:1119",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨YOURS⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_77bab489bb749d3f85b1",
+    "text": "From that position, competence elsewhere does not answer the objection. The objection is precisely to the selective override. Your conclusion is therefore broader than “do not use religious reasons to write laws”: you do not want someone who reserves that override placed in consequential authority over another person where it could be used against them.",
+    "raw_text": "⟨YOURS⟩ From that position, competence elsewhere does not answer the objection. The objection is precisely to the selective override. Your conclusion is therefore broader than “do not use religious reasons to write laws”: you do not want someone who reserves that override placed in consequential authority over another person where it could be used against them.",
+    "provenance_type": "MY_WORDS",
+    "representation_type": "VERBATIM",
+    "speaker": "user",
+    "topics": [
+      "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026",
+      "24.6 Authority Over Other People — Your Position"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026 > 24.6 Authority Over Other People — Your Position",
+    "source_reference": "paragraph:1120",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨YOURS⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_7735d23cc8a728a40139",
+    "text": "Method note: this is your moral/political judgment, not an empirical finding about every religious person. Cross-reference Divine Command Theory (§1.3, §22.5, §23.3).",
+    "raw_text": "**Method note:** this is your moral/political judgment, not an empirical finding about every religious person. Cross-reference Divine Command Theory (§1.3, §22.5, §23.3).",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026",
+      "24.6 Authority Over Other People — Your Position"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026 > 24.6 Authority Over Other People — Your Position",
+    "source_reference": "paragraph:1121",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_b555afa444c7a067aa9e",
+    "text": "Collins, John J. A Short Introduction to the Hebrew Bible. 4th ed. Fortress Press, 2025.\nHarris, Mark. “Creation According to the Bible I: Genesis.” In The Nature of Creation. 2014.\nDavidson, Richard M. The Genesis Account of Origins. Geoscience Research Institute.\nCargill, Robert R. “Is the Snake in the Garden of Eden Satan?” University of Iowa Bible & Archaeology, 2021.\nSommer, Benjamin D. The Bodies of God and the World of Ancient Israel. Cambridge University Press, 2009.\nSeeskin, Kenneth. “Jewish Contributions to Apophatic Philosophy.” Oxford Handbook of Apophatic Theology. 2026.\nFrankel, David. “Taking Control of the Story: God Hardens Pharaoh’s Heart.” 2016.\nLohr, Joel N. Chosen and Unchosen. 2009; “Taming the Untamable,” Horizons in Biblical Theology 33.1 (2011).\nKaminsky, Joel S., and Joel N. Lohr. “Election in the Bible.” Oxford Bibliographies in Biblical Studies.",
+    "raw_text": "- Collins, John J. *A Short Introduction to the Hebrew Bible*. 4th ed. Fortress Press, 2025.\n- Harris, Mark. “Creation According to the Bible I: Genesis.” In *The Nature of Creation*. 2014.\n- Davidson, Richard M. *The Genesis Account of Origins*. Geoscience Research Institute.\n- Cargill, Robert R. “Is the Snake in the Garden of Eden Satan?” University of Iowa Bible & Archaeology, 2021.\n- Sommer, Benjamin D. *The Bodies of God and the World of Ancient Israel*. Cambridge University Press, 2009.\n- Seeskin, Kenneth. “Jewish Contributions to Apophatic Philosophy.” *Oxford Handbook of Apophatic Theology*. 2026.\n- Frankel, David. “Taking Control of the Story: God Hardens Pharaoh’s Heart.” 2016.\n- Lohr, Joel N. *Chosen and Unchosen*. 2009; “Taming the Untamable,” *Horizons in Biblical Theology* 33.1 (2011).\n- Kaminsky, Joel S., and Joel N. Lohr. “Election in the Bible.” *Oxford Bibliographies in Biblical Studies*.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026",
+      "Sources for §24"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "24. GENESIS / EXODUS LIVE TEXT CHECKS — 3 SEPTEMBER 2026 > Sources for §24",
+    "source_reference": "paragraph:1122",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
+    },
+    "review_required": true,
     "parser_version": "1.2.0"
   }
 ]);
