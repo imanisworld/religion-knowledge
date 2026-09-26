@@ -1,0 +1,31 @@
+# Source Registry
+
+## Primary legal sources
+
+- U.S. Constitution Annotated — https://constitution.congress.gov/
+- Congress.gov — https://www.congress.gov/
+- GovInfo — https://www.govinfo.gov/
+- Supreme Court opinions and U.S. Reports — https://www.supremecourt.gov/
+- India Code — https://www.indiacode.nic.in/
+- Légifrance — https://www.legifrance.gouv.fr/
+- EUR-Lex — https://eur-lex.europa.eu/
+
+## Comparative research hubs
+
+- NYU Globalex, Religious Legal Systems in Comparative Law — https://www.nyulawglobal.org/globalex/religious_legal_systems1.html
+- NYU Global Research Tools — https://www.law.nyu.edu/global/researchtools
+
+## Context and monitoring sources
+
+- U.S. Commission on International Religious Freedom (USCIRF) — https://www.uscirf.gov/
+- USCIRF legislation factsheet on blasphemy laws — https://www.uscirf.gov/publications/legislation-factsheet-blasphemy-laws
+- Pew Research Center, Religious Restrictions Around the World — https://www.pewresearch.org/religion/feature/religious-restrictions-around-the-world/
+- U.S. Department of State, International Religious Freedom Reports — https://www.state.gov/international-religious-freedom-reports/
+
+## Source-use rules
+
+1. Use an official legal text or controlling judicial opinion for the legal effect of a rule.
+2. Use legislative history, court history, archival material, or reputable legal history for a claim about historical causation.
+3. Use monitoring reports for enforcement or conditions, clearly labeled as such; do not use them as substitutes for code text.
+4. Record access date and last-verified date for every completed record.
+5. Where translations differ, retain the original-language source and identify the translator or official translation used.
