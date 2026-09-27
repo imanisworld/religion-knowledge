@@ -1,0 +1,23 @@
+{
+  "id": "dty_yahweh_early_israelite",
+  "name": "Yahweh (early Israelite)",
+  "region": [
+    "Levant"
+  ],
+  "identifications": [
+    {
+      "with_deity_id": "dty_el_canaanite",
+      "confidence": "HIGH",
+      "claim_id": "claim_yahweh_el_assimilation",
+      "note": "Historical assimilation/identification in early Israelite religion; this does not by itself establish Yahweh's ultimate geographic origin or prove Yahweh and El were always identical."
+    }
+  ],
+  "domain_history": [
+    {
+      "domain": "divine-war and storm-theophany imagery including motifs that scholarship compares with and traces through Baalistic/Canaanite imagery",
+      "period": null,
+      "claim_id": "claim_yahweh_baal_imagery_appropriation"
+    }
+  ],
+  "notes": "This node is intentionally historical and pre-exilic. It is not a timeless theological definition of the God of later Judaism or Christianity."
+}
