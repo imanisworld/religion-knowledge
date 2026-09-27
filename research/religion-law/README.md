@@ -20,6 +20,9 @@ A law's text, its historical cause, and its current enforceability are separate 
 
 - `methodology.md` — coding and evidence rules
 - `schema.json` — machine-readable record schema
+- `records/us-federal-starter.json` — normalized federal comparison records
+- `records/us-state-starter.json` — normalized state records promoted from verified state profiles
+- `records/us-md-maryland.json` — earlier Maryland structured baseline pending migration to the common schema
 - `us-constitutional-federal.md` — verified initial U.S. module
 - `us-state-law.md` — state-law research queue and controls
 - `comparative-constitutional-systems.md` — comparative constitutional and institutional queue
@@ -28,3 +31,5 @@ A law's text, its historical cause, and its current enforceability are separate 
 ## Status
 
 This module is published on `main`. Individual state and comparative records remain research-scoped according to their recorded verification status; publication does not mean the database is complete.
+
+The comparison table only includes law-level records whose classification and status are supported by the verified source profile. Items whose religion-causation classification is still pending remain in the state profile but are not forced into A–E for display.
