@@ -23,6 +23,9 @@ A law's text, its historical cause, and its current enforceability are separate 
 - `records/us-federal-starter.json` — normalized federal comparison records
 - `records/us-state-starter.json` — normalized state records promoted from verified state profiles
 - `records/us-md-maryland.json` — earlier Maryland structured baseline pending migration to the common schema
+- `context/state-context.schema.json` — schema for state religious-demographic and institutional-power context
+- `context/us-state-context.json` — 50-state context records; demographic/power coverage is tracked independently from legal coverage
+- `state-context-methodology.md` — sourcing, non-inference, denominator, and refresh rules for state context
 - `us-constitutional-federal.md` — verified initial U.S. module
 - `us-state-law.md` — state-law research queue and controls
 - `comparative-constitutional-systems.md` — comparative constitutional and institutional queue
@@ -33,3 +36,5 @@ A law's text, its historical cause, and its current enforceability are separate 
 This module is published on `main`. Individual state and comparative records remain research-scoped according to their recorded verification status; publication does not mean the database is complete.
 
 The comparison table only includes law-level records whose classification and status are supported by the verified source profile. Items whose religion-causation classification is still pending remain in the state profile but are not forced into A–E for display.
+
+State religious demographics and officeholder affiliations are maintained as a separate context layer. They may be compared with legal records, but they are not evidence that religion caused a law; causation still requires the methodology's independent historical evidence.
