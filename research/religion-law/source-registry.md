@@ -45,6 +45,13 @@
 - Ohio Laws — Constitution and Revised Code: https://codes.ohio.gov/
 - Oklahoma Senate — State Constitution and statutes: https://oksenate.gov/
 - Oregon Legislature — Constitution and Revised Statutes: https://www.oregonlegislature.gov/bills_laws/
+- Pennsylvania General Assembly — Constitution and statutes: https://www.palegis.us/statutes
+- Rhode Island General Assembly — Constitution: https://www.rilegislature.gov/riconstitution/Pages/default.aspx
+- Rhode Island General Assembly — General Laws: https://webserver.rilegislature.gov/Statutes/Statutes.html
+- South Carolina Legislature — Constitution: https://www.scstatehouse.gov/scconstitution/scconst.php
+- South Carolina Legislature — Code of Laws: https://www.scstatehouse.gov/code/statmast.php
+- South Carolina Judicial Branch — Published opinions: https://www.sccourts.org/opinions-orders/opinions/published-opinions/
+- South Dakota Legislature — Constitution and Codified Laws: https://sdlegislature.gov/Statutes
 
 ## Comparative research hubs
 

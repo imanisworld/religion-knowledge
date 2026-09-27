@@ -41,10 +41,10 @@ This directory is a research scaffold, not a completed legal database.
 | [Ohio](ohio.md) | First-pass baseline verified; expansion pending |
 | [Oklahoma](oklahoma.md) | First-pass baseline verified; expansion pending |
 | [Oregon](oregon.md) | First-pass baseline verified; expansion pending |
-| [Pennsylvania](pennsylvania.md) | Scaffold only — research pending |
-| [Rhode Island](rhode-island.md) | Scaffold only — research pending |
-| [South Carolina](south-carolina.md) | Scaffold only — research pending |
-| [South Dakota](south-dakota.md) | Scaffold only — research pending |
+| [Pennsylvania](pennsylvania.md) | First-pass baseline verified; expansion pending |
+| [Rhode Island](rhode-island.md) | First-pass baseline verified; expansion pending |
+| [South Carolina](south-carolina.md) | First-pass baseline verified; expansion pending |
+| [South Dakota](south-dakota.md) | First-pass baseline verified; expansion pending |
 | [Tennessee](tennessee.md) | Scaffold only — research pending |
 | [Texas](texas.md) | Anchor baseline verified; causation expansion pending |
 | [Utah](utah.md) | Scaffold only — research pending |

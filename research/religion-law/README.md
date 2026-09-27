@@ -27,4 +27,4 @@ A law's text, its historical cause, and its current enforceability are separate 
 
 ## Status
 
-This branch is intentionally isolated from `main` until the material is reviewed and ready for integration.
+This module is published on `main`. Individual state and comparative records remain research-scoped according to their recorded verification status; publication does not mean the database is complete.
