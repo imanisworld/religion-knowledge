@@ -18,6 +18,10 @@
 - Arizona Legislature — Revised Statutes: https://www.azleg.gov/arstitle/
 - California Legislature — Constitution and Codes: https://leginfo.legislature.ca.gov/
 - California Assembly Chief Clerk — Constitution publications: https://clerk.assembly.ca.gov/legislative-information/constitution-codes
+- Colorado General Assembly / OLLS — Colorado Revised Statutes and Constitution: https://olls.info/crs/
+- Delaware Code Online — Constitution: https://www.delcode.delaware.gov/constitution/
+- Florida Legislature — Constitution and Statutes: https://www.leg.state.fl.us/statutes/
+- Georgia Secretary of State — Georgia Constitution: https://sos.ga.gov/georgia-constitution
 
 ## Comparative research hubs
 

@@ -9,11 +9,11 @@ This directory is a research scaffold, not a completed legal database.
 | [Arizona](arizona.md) | First-pass baseline verified; expansion pending |
 | [Arkansas](arkansas.md) | Anchor baseline verified; expansion pending |
 | [California](california.md) | First-pass baseline verified; expansion pending |
-| [Colorado](colorado.md) | Scaffold only — research pending |
+| [Colorado](colorado.md) | First-pass baseline verified; expansion pending |
 | [Connecticut](connecticut.md) | Anchor baseline verified; causation expansion pending |
-| [Delaware](delaware.md) | Scaffold only — research pending |
-| [Florida](florida.md) | Scaffold only — research pending |
-| [Georgia](georgia.md) | Scaffold only — research pending |
+| [Delaware](delaware.md) | First-pass baseline verified; expansion pending |
+| [Florida](florida.md) | First-pass baseline verified; expansion pending |
+| [Georgia](georgia.md) | First-pass baseline verified; expansion pending |
 | [Hawaii](hawaii.md) | Scaffold only — research pending |
 | [Idaho](idaho.md) | Scaffold only — research pending |
 | [Illinois](illinois.md) | Scaffold only — research pending |
