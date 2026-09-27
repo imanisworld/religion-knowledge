@@ -80,47 +80,116 @@ function buildIndexHtml() {
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
 :root{
-  --ground:#EDEFEC; --paper:#FFFFFF; --ink:#17201D; --ink2:#4A5551; --ink3:#5F6A66;
-  --rule:#D3D8D4; --accent:#1F5E5B; --accent-soft:#E3EDEC;
+  --ground:#F5F1F0;--paper:#FFFDFC;--ink:#241B1E;--ink2:#62565A;--ink3:#807277;
+  --rule:#DDD2D5;--accent:#8B3A4A;--accent-strong:#6F2D3A;--accent-soft:#F4E7EA;
+  --shadow:0 18px 45px rgba(57,34,42,.07);
   --f-display:"Newsreader",Georgia,serif;
   --f-body:"IBM Plex Sans",system-ui,sans-serif;
 }
 *{box-sizing:border-box}
 html,body{overflow-x:hidden}
-body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--f-body);
-  line-height:1.5;-webkit-font-smoothing:antialiased}
-main{max-width:960px;margin:0 auto;padding:4rem 1.5rem 5rem}
-h1{font-family:var(--f-display);font-size:2.1rem;font-weight:500;letter-spacing:-.01em;margin:0 0 .4rem}
-main > p{color:var(--ink2);margin:0 0 2rem;max-width:60ch}
-.app-card{display:block;background:var(--ink);color:#F2F5F3;border-radius:12px;
-  padding:1.4rem 1.5rem;text-decoration:none;margin:0 0 2rem;transition:opacity .15s}
-.app-card:hover{opacity:.92}
-.app-card h2{font-family:var(--f-display);font-size:1.3rem;font-weight:500;margin:0 0 .35rem}
-.app-card p{margin:0;font-size:.92rem;color:#C9D2CE;line-height:1.45}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:1rem}
-.card{display:block;background:var(--paper);border:1px solid var(--rule);border-radius:10px;
-  padding:1.25rem 1.4rem;text-decoration:none;color:inherit;transition:border-color .15s}
-.card:hover{border-color:var(--accent)}
-.card h2{font-family:var(--f-display);font-size:1.15rem;font-weight:500;margin:0 0 .4rem;color:var(--ink)}
-.card p{margin:0;font-size:.92rem;color:var(--ink3);line-height:1.45}
-
-/* dark mode */
-:root[data-theme=dark]{--ground:#10130F;--paper:#17201D;--ink:#F2F5F3;--ink2:#A8B4B0;--ink3:#8A9792;--rule:#2C3833;--accent:#6FBFB5;--accent-soft:#1B3330}
-:root[data-theme=dark] .app-card{background:#17201D;border:1px solid #2C3833}
-@media (prefers-color-scheme:dark){
-:root:not([data-theme=light]){--ground:#10130F;--paper:#17201D;--ink:#F2F5F3;--ink2:#A8B4B0;--ink3:#8A9792;--rule:#2C3833;--accent:#6FBFB5;--accent-soft:#1B3330}
-:root:not([data-theme=light]) .app-card{background:#17201D;border:1px solid #2C3833}
+body{
+  margin:0;color:var(--ink);font-family:var(--f-body);line-height:1.58;
+  -webkit-font-smoothing:antialiased;
+  background:
+    radial-gradient(circle at 78% -10%,rgba(139,58,74,.09),transparent 34rem),
+    var(--ground)
+}
+main{max-width:1080px;margin:0 auto;padding:5rem 1.6rem 6rem}
+.hero{max-width:720px;margin-bottom:2.5rem}
+.eyebrow{
+  margin:0 0 .8rem;font-size:.68rem;font-weight:600;letter-spacing:.17em;
+  text-transform:uppercase;color:var(--accent)
+}
+h1{
+  font-family:var(--f-display);font-size:clamp(2.65rem,6vw,4.4rem);font-weight:500;
+  letter-spacing:-.035em;line-height:.98;margin:0 0 1rem
+}
+main>.hero>p{color:var(--ink2);margin:0;max-width:62ch;font-size:1.03rem}
+.app-card{
+  position:relative;display:block;overflow:hidden;
+  background:linear-gradient(135deg,var(--accent-strong),var(--accent));
+  color:#FFF8FA;border:1px solid rgba(255,255,255,.12);border-radius:18px;
+  padding:1.65rem 1.75rem;text-decoration:none;margin:0 0 2.1rem;
+  box-shadow:0 18px 45px rgba(111,45,58,.18);
+  transition:transform .18s ease,box-shadow .18s ease
+}
+.app-card::after{
+  content:"→";position:absolute;right:1.6rem;top:50%;transform:translateY(-52%);
+  font-size:1.45rem;opacity:.72;transition:transform .18s ease
+}
+.app-card:hover{
+  transform:translateY(-2px);
+  box-shadow:0 22px 52px rgba(111,45,58,.23)
+}
+.app-card:hover::after{transform:translate(.2rem,-52%)}
+.app-card h2{
+  font-family:var(--f-display);font-size:1.45rem;font-weight:500;margin:0 0 .35rem
+}
+.app-card p{margin:0;padding-right:3rem;font-size:.94rem;color:#F2DDE2;line-height:1.5}
+.section-label{
+  margin:2.2rem 0 .9rem;font-size:.7rem;font-weight:600;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink3)
+}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:1rem}
+.card{
+  display:block;min-height:150px;background:color-mix(in srgb,var(--paper) 96%,var(--accent-soft));
+  border:1px solid var(--rule);border-radius:14px;padding:1.35rem 1.45rem;
+  text-decoration:none;color:inherit;box-shadow:0 8px 24px rgba(57,34,42,.035);
+  transition:transform .16s ease,border-color .16s ease,box-shadow .16s ease,background .16s ease
+}
+.card:hover{
+  transform:translateY(-2px);border-color:color-mix(in srgb,var(--accent) 58%,var(--rule));
+  background:var(--paper);box-shadow:var(--shadow)
+}
+.card h2{
+  font-family:var(--f-display);font-size:1.2rem;font-weight:500;margin:0 0 .5rem;color:var(--ink)
+}
+.card p{margin:0;font-size:.91rem;color:var(--ink3);line-height:1.5}
+@media(max-width:620px){
+  main{padding:3.5rem 1rem 4rem}
+  .hero{margin-bottom:2rem}
+  .app-card{padding:1.4rem 1.35rem}
+  .app-card::after{right:1.2rem}
+  .grid{grid-template-columns:1fr}
+  .card{min-height:0}
+}
+:root[data-theme=dark]{
+  --ground:#120E10;--paper:#1C1518;--ink:#F7F2F3;--ink2:#C4B7BB;--ink3:#978A8F;
+  --rule:#382B30;--accent:#D8899A;--accent-strong:#8B3A4A;--accent-soft:#3A2028;
+  --shadow:0 18px 45px rgba(0,0,0,.22)
+}
+:root[data-theme=dark] .app-card{
+  background:linear-gradient(135deg,#5F2734,#8B3A4A);
+  border-color:#6F4650;box-shadow:0 18px 45px rgba(0,0,0,.26)
+}
+:root[data-theme=dark] .app-card p{color:#E8CCD3}
+@media(prefers-color-scheme:dark){
+  :root:not([data-theme=light]){
+    --ground:#120E10;--paper:#1C1518;--ink:#F7F2F3;--ink2:#C4B7BB;--ink3:#978A8F;
+    --rule:#382B30;--accent:#D8899A;--accent-strong:#8B3A4A;--accent-soft:#3A2028;
+    --shadow:0 18px 45px rgba(0,0,0,.22)
+  }
+  :root:not([data-theme=light]) .app-card{
+    background:linear-gradient(135deg,#5F2734,#8B3A4A);
+    border-color:#6F4650;box-shadow:0 18px 45px rgba(0,0,0,.26)
+  }
+  :root:not([data-theme=light]) .app-card p{color:#E8CCD3}
 }
 </style>
 <script>try{var __t=localStorage.getItem("religion-knowledge-theme");if(__t)document.documentElement.dataset.theme=__t}catch(e){}</script>
 </head><body>
 <main>
-  <h1>Bible Deep Dive</h1>
-  <p>A critical study of the Bible and religious belief systems, approached historically and analytically. Open the app to explore every claim with its sources and audit trail, or read the research documents directly.</p>
+  <div class="hero">
+    <p class="eyebrow">Religion Knowledge</p>
+    <h1>Bible Deep Dive</h1>
+    <p>A critical study of the Bible and religious belief systems, approached historically and analytically. Open the app to explore every claim with its sources and audit trail, or read the research documents directly.</p>
+  </div>
   <a class="app-card" href="app/">
     <h2>Open the app</h2>
     <p>Browse every record with provenance intact — search, topics, questions, audits, and the review queue.</p>
   </a>
+  <p class="section-label">Research library</p>
   <div class="grid">${cards}
   </div>
 </main>
