@@ -24,7 +24,7 @@ The current published Constitution still contains two provisions stating that a 
 - **Operative enforceability:** Unenforceable.
 - **Confidence:** High.
 
-In *Silverman v. Campbell*, 326 S.C. 208, 486 S.E.2d 1 (1997), the South Carolina Supreme Court affirmed that Article VI, §2 and Article XVII, §4 violate the First Amendment and the Religious Test Clause of the U.S. Constitution.
+In *Silverman v. Campbell*, 326 S.C. 208, 486 S.E.2d 1 (1997), the South Carolina Supreme Court affirmed the invalidation of the state's two “Supreme Being” officeholding provisions under the First Amendment and the Religious Test Clause of the U.S. Constitution. The duplicate provisions currently appear in Article VI, §2 and Article XVII, §4.
 
 ## Education and public funding
 
@@ -57,7 +57,7 @@ The Article VI and Article XVII “Supreme Being” clauses are a verified examp
 
 ## Landmark cases
 
-- *Silverman v. Campbell*, 326 S.C. 208, 486 S.E.2d 1 (1997) — Article VI, §2 and Article XVII, §4 violate the First Amendment and the federal Religious Test Clause.
+- *Silverman v. Campbell*, 326 S.C. 208, 486 S.E.2d 1 (1997) — the state's “Supreme Being” officeholding provisions are unconstitutional under the First Amendment and the federal Religious Test Clause.
 
 ## Evidence and sources
 
@@ -66,8 +66,7 @@ The Article VI and Article XVII “Supreme Being” clauses are a verified examp
 - South Carolina Legislature, Constitution, Article XI: https://www.scstatehouse.gov/scconstitution/A11.pdf
 - South Carolina Legislature, Constitution, Article XVII: https://www.scstatehouse.gov/scconstitution/A17.pdf
 - South Carolina Legislature, South Carolina Religious Freedom Act: https://www.scstatehouse.gov/code/t01c032.php
-- South Carolina Judicial Branch, May 1997 published opinions index, Opinion No. 24622, *Silverman v. Campbell*: https://www.sccourts.org/opinions-orders/opinions/published-opinions/supreme-court/?focus=prev&term=1997-05
-- Full opinion mirror, *Silverman v. Campbell*: https://law.justia.com/cases/south-carolina/supreme-court/1997/24622.html
+- South Carolina Judicial Branch, *Silverman v. Campbell*, Opinion No. 24622: https://www.sccourts.org/media/opinions/htmlfiles/SC/24622.htm
 
 ## Research caution
 
