@@ -224,6 +224,20 @@ Four different questions, four different kinds of evidence, four different answe
 
 **Use note:** apply this going forward, as a lens for new entries and audits, not as a retroactive re-tag of the corpus's existing records. When auditing an existing claim (§1), identify which tier it is actually making a claim at before verifying it — a claim can be right at one tier and overstated at another.
 
+## 6.1 Supernatural Conception Claims — What Historical and Scientific Method Can Establish
+
+⟨DOCUMENTED⟩ Matthew 1:18–25 and Luke 1:26–38 make supernatural conception claims. Historical method can establish that these texts make those claims, compare their literary forms, date and contextualize the sources, and ask what earlier traditions or scriptures they use. Historical method cannot independently observe or reproduce the alleged divine cause.
+
+⟨DOCUMENTED⟩ **Biological baseline:** ordinary human reproduction is biparental. Mammalian development is constrained by genomic imprinting, in which some genes are normally expressed differently depending on whether they are inherited maternally or paternally. Human oocytes can be activated parthenogenetically in laboratory research, but there is no verified healthy human live birth produced by true parthenogenesis. Experimental viable parthenogenetic offspring in mice have required substantial genetic/epigenetic intervention; that is not evidence of naturally occurring human parthenogenesis.
+
+⟨INFERENCE⟩ **Method limit:** “Science has not verified a human virgin birth” and “science proves the Gospel claim impossible” are not the same statement. The first is an evidence statement; the second would exceed what historical evidence can establish about a claimed singular miracle. Conversely, labeling an event “miraculous” does not supply independent evidence that it occurred. The proper status is: the texts make a supernatural claim; ordinary human reproductive biology does not provide a natural analogue; surviving historical evidence does not independently establish the biological paternity of Jesus.
+
+**Sources:**
+
+• Matthew 1:18–25; Luke 1:26–38.
+
+• Reviews of mammalian genomic imprinting and human parthenogenetic stem-cell research in the biomedical literature; see also work on experimentally generated parthenogenetic mice requiring targeted epigenetic rewriting.
+
 ## 7. Critical Thinking — Definition and How to Apply It
 
 This corpus runs on a method (§1) without ever defining the underlying skill the method is an application of. This section is that definition, built from named, verifiable sources rather than the vague "think critically" instruction that gets repeated without content.

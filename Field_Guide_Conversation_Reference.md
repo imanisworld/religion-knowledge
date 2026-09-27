@@ -962,6 +962,48 @@ N.T. Wright, *The Climax of the Covenant* (Fortress, 1992) [MODERATE EVANGELICAL
 
 ---
 
+## 12.3A Matthew 1 — Genealogy, Betrothal, and the Virgin-Conception Claim
+
+⟨DOCUMENTED⟩ **What Matthew actually builds:** Matthew 1:1–17 is not a complete generation-by-generation family tree. Verse 17 announces a three-part pattern of fourteen generations, and comparison with 1 Chronicles shows deliberate compression. Matthew omits Ahaziah, Joash, and Amaziah between Joram and Uzziah; Jehoiakim is also absent before Jeconiah. Selective genealogies were not unusual in antiquity, but the omissions matter because they show the list is literary/theological as well as genealogical. The common explanation for the repeated fourteen is its association with David; the exact symbolic intent is debated.
+
+⟨DOCUMENTED⟩ **Jeconiah is a real tension, not a clean gotcha:** Matthew includes Jeconiah in the Davidic line (Matt 1:11–12). Jeremiah 22:24–30 pronounces judgment on Jeconiah/Coniah and says none of his offspring will prosper sitting on David's throne. Later harmonizations argue that the judgment was limited, reversed, bypassed through legal rather than biological descent, or answered by Zerubbabel's later prominence. Matthew itself does not stop to explain the Jeremiah text. The careful conclusion is therefore: there is an intertextual tension that later interpreters resolve in different ways; the text alone does not select one harmonization.
+
+⟨DOCUMENTED⟩ **Joseph's genealogy is not biological paternity in Matthew's own story:** the repeated “X fathered Y” formula changes at Matthew 1:16: Joseph is identified as Mary's husband, and Jesus is born from Mary. Matthew 1:18 then says Mary was pregnant before Joseph and Mary lived together, “from the Holy Spirit.” On Matthew's own terms, Joseph is not Jesus' biological father. Traditional Christian interpretation treats Joseph's naming/acceptance of Jesus as establishing legal Davidic descent; this is a theological/legal explanation, not a biological genealogy through Joseph.
+
+⟨DOCUMENTED⟩ **The four earlier women do not have one settled scholarly meaning:** Tamar, Rahab, Ruth, and “the wife of Uriah” are unusual annotations in a patrilineal genealogy. Older interpretations often grouped them as sexually irregular or scandal-associated women who foreshadow Mary. Other scholarship emphasizes Gentile/marginal status, righteousness and loyalty, or broader narrative functions. There is no single scholarly consensus explaining why Matthew chose exactly these four. Their individual Hebrew Bible stories should therefore be read separately rather than flattened into “four sinful women.”
+
+• **Tamar (Genesis 38):** Judah fails to provide the expected family remedy after his sons die; Tamar secures offspring through Judah, who ultimately says she is more in the right than he is. Her story is legally and sexually irregular, but the narrative does not simply present her as the wrongdoer.
+
+• **Rahab (Joshua 2; 6):** a Jericho prostitute and outsider who aids Israel. Matthew's identification of her as an ancestor is not supplied by the Hebrew Bible genealogy itself.
+
+• **Ruth:** explicitly Moabite and an outsider who becomes integrated into Israel's story. Her inclusion raises ethnicity/boundary questions more directly than a “sexual sinner” category.
+
+• **“The wife of Uriah” (Bathsheba):** Matthew does not name her but identifies her through Uriah, keeping David's taking of another man's wife in view.
+
+⟨DOCUMENTED⟩ **Betrothal and divorce:** Matthew 1:18–19 assumes a betrothal more legally binding than modern engagement. Mary and Joseph are not yet living together, but Joseph contemplates divorce rather than simply ending an engagement. Adultery law is relevant background, but Deuteronomy 22:20–23 does not map cleanly onto every detail of Matthew's narrated situation; even the USCCB's historical notes caution against saying the law straightforwardly required Joseph to divorce Mary.
+
+⟨DOCUMENTED⟩ **Numbers 5 is background, not an event in Matthew:** Numbers 5 contains a husband-initiated ordeal for a wife suspected of adultery, so it is relevant to the broader legal world of suspicion and female sexual fidelity. Matthew 1 never says Joseph sought, threatened, or considered that ordeal. It should not be inserted into the narrative as though Matthew reports it.
+
+⟨DOCUMENTED⟩ **What the chapter can and cannot establish historically:** Matthew and Luke make supernatural conception claims; Matthew's text itself presents the conception as divine action. Historical method can establish that early Christian texts make this claim and analyze their literary, scriptural, and social context. It cannot independently demonstrate a supernatural cause. Outside the infancy narratives, Jesus' biological paternity is not recoverable from surviving historical evidence.
+
+**AUDIT STATUS:** Holds with qualification. The 3×14 structure is demonstrably selective; Joseph is explicitly non-biological in Matthew's conception narrative; betrothal/divorce belongs to a real first-century Jewish legal context; and Numbers 5 is only a contextual cross-reference. Claims that the genealogy is “fake,” that Jeconiah automatically disproves Matthew, or that all four women share one obvious scandal motif go beyond what the evidence establishes.
+
+**Sources — primary and scholarly:**
+
+• Matthew 1; Genesis 38; Joshua 2 and 6; Ruth; 2 Samuel 11–12; 1 Chronicles 3; Jeremiah 22:24–30; Deuteronomy 22; Numbers 5.
+
+• Raymond E. Brown, *The Birth of the Messiah*, updated ed. (Doubleday, 1993).
+
+• W. D. Davies and Dale C. Allison Jr., *A Critical and Exegetical Commentary on the Gospel According to Saint Matthew*, vol. 1 (T&T Clark, 1988).
+
+• John Nolland, “Jechoniah and His Brothers (Matthew 1:11),” *Bulletin for Biblical Research* 7 (1997): 169–178.
+
+• Richard Bauckham, “The Four (Five) Women and Other Annotations in Matthew's Genealogy,” *New Testament Studies* 56.3 (2010): 313–333.
+
+• E. Anne Clements, *Mothers on the Margin? The Significance of the Women in Matthew's Genealogy* (2014).
+
+• USCCB, Matthew 1 notes — useful concise historical-critical notes on the genealogy, betrothal, Joseph, and Deuteronomy 22: https://bible.usccb.org/bible/matthew/1
+
 ## 12.4 Mark 13:30 / Matthew 16:28
 
 **Commonly used for: **Usually not cited by believers — avoided.

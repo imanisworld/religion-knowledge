@@ -134,6 +134,16 @@ This period supplies the often-missing context between Malachi and Matthew, when
 
 **Reading and conversation note:** when ideas such as hell, Satan, angels, and resurrection appear in a discussion, compare their treatment in the Torah with their developed forms by the first century. The Second Temple period supplies essential historical context for that development.
 
+### 2.4a The wider Hellenistic and Greco-Roman supernatural world
+
+⟨DOCUMENTED⟩ Second Temple Jewish and early Christian claims about visions, dreams, angels, divine messages, postmortem existence, and resurrection arose in an ancient Mediterranean world where dreams, divination, apparitions, divine interventions, and multiple models of life after death were culturally familiar. Jewish apocalyptic literature itself makes extensive use of dreams and visions, including Daniel, 1 Enoch, 4 Ezra, and 2 Baruch.
+
+⟨DOCUMENTED⟩ That broader context does **not** make bodily resurrection simply a Greek “ghost” belief. Jewish resurrection traditions developed especially clearly in apocalyptic texts of the Hellenistic and Roman periods, while Greek and Roman afterlife traditions were diverse and often framed postmortem existence differently. Early Christianity emerged inside both environments: Jewish scripture and apocalyptic expectation supplied major conceptual roots, while the wider Greco-Roman world supplied a cultural setting in which visions, divine agents, and postmortem claims were intelligible categories.
+
+⟨INFERENCE⟩ The historical point is therefore contextual rather than reductive. Similarity of supernatural vocabulary or experience does not establish borrowing, and a shared cultural environment does not by itself explain a specific Christian claim. Any influence claim still requires chronology, contact/transmission, and meaningful correspondence.
+
+**Useful scholarship:** C. D. Elledge on resurrection in early Judaism; Outi Lehtipuu on ancient resurrection and postmortem beliefs; scholarship on dreams and visions in early Jewish and Christian apocalyptic discourse.
+
 ### 2.5 Roman Judea into the Christian era
 
 | Date | Event | Evidence status |
