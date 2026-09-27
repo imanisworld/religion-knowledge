@@ -49,6 +49,10 @@ Audit entries also carry a `CHECKED` date. Anything without one has not been ver
 
 Open `master-notes.html` first. All nine link to each other from the sidebar — keep them in the same folder or the links break.
 
+## Standalone app bundle
+
+`npm run build:standalone` generates `dist/religion-knowledge-standalone.html` for offline / no-server use. The generated 4+ MB bundle is intentionally not committed; CI builds it to verify that generation still succeeds.
+
 ## Current status
 
 - **Consolidation freeze:** the whole-document reader generator is now committed and CI-gated, but 200 Cited Persons entries remain unresolved. Keep major expansion paused while those source gaps and the remaining control-layer work are addressed.
