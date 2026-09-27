@@ -329,8 +329,8 @@ if [[ ! "$READER_ANCHOR_HREF" =~ master-notes\.html#s[0-9-]+$ ]]; then
   exit 1
 fi
 
-if ! grep -Fq 'class="app-link"' master-notes.html; then
-  echo "Reader docswitch is missing the App link back to the knowledge app" >&2
+if ! grep -Fq '<a href="app/">App</a>' master-notes.html; then
+  echo "Reader site navigation is missing the App link back to the knowledge app" >&2
   exit 1
 fi
 
