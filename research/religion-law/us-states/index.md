@@ -7,10 +7,10 @@ This directory now has a verified first-pass baseline for all 50 states. It rema
 | [Alabama](alabama.md) | First-pass baseline verified; expansion pending |
 | [Alaska](alaska.md) | First-pass baseline verified; expansion pending |
 | [Arizona](arizona.md) | First-pass baseline verified; expansion pending |
-| [Arkansas](arkansas.md) | Anchor baseline verified; expansion pending |
+| [Arkansas](arkansas.md) | Expanded anchor profile verified; targeted gaps remain |
 | [California](california.md) | First-pass baseline verified; expansion pending |
 | [Colorado](colorado.md) | First-pass baseline verified; expansion pending |
-| [Connecticut](connecticut.md) | Anchor baseline verified; causation expansion pending |
+| [Connecticut](connecticut.md) | Expanded anchor profile verified; contraception causation narrowed to mixed influences |
 | [Delaware](delaware.md) | First-pass baseline verified; expansion pending |
 | [Florida](florida.md) | First-pass baseline verified; expansion pending |
 | [Georgia](georgia.md) | First-pass baseline verified; expansion pending |
@@ -21,15 +21,15 @@ This directory now has a verified first-pass baseline for all 50 states. It rema
 | [Iowa](iowa.md) | First-pass baseline verified; expansion pending |
 | [Kansas](kansas.md) | First-pass baseline verified; expansion pending |
 | [Kentucky](kentucky.md) | First-pass baseline verified; expansion pending |
-| [Louisiana](louisiana.md) | Anchor baseline verified; expansion pending |
-| [Maine](maine.md) | Anchor baseline verified; expansion pending |
-| [Maryland](maryland.md) | Anchor baseline verified; expansion pending |
-| [Massachusetts](massachusetts.md) | Anchor baseline verified; causation expansion pending |
+| [Louisiana](louisiana.md) | Expanded anchor profile verified; targeted gaps remain |
+| [Maine](maine.md) | Expanded anchor profile verified; motor-vehicle Sunday-law motive still open |
+| [Maryland](maryland.md) | Expanded anchor profile verified; targeted gaps remain |
+| [Massachusetts](massachusetts.md) | Expanded anchor profile verified; no direct religious cause shown for pre-Goodridge exclusion |
 | [Michigan](michigan.md) | First-pass baseline verified; expansion pending |
 | [Minnesota](minnesota.md) | First-pass baseline verified; expansion pending |
 | [Mississippi](mississippi.md) | First-pass baseline verified; expansion pending |
 | [Missouri](missouri.md) | First-pass baseline verified; expansion pending |
-| [Montana](montana.md) | Anchor baseline verified; expansion pending |
+| [Montana](montana.md) | Expanded anchor profile verified; 1972 no-aid readoption motives need deeper review |
 | [Nebraska](nebraska.md) | First-pass baseline verified; expansion pending |
 | [Nevada](nevada.md) | First-pass baseline verified; expansion pending |
 | [New Hampshire](new-hampshire.md) | First-pass baseline verified; expansion pending |
@@ -46,7 +46,7 @@ This directory now has a verified first-pass baseline for all 50 states. It rema
 | [South Carolina](south-carolina.md) | First-pass baseline verified; expansion pending |
 | [South Dakota](south-dakota.md) | First-pass baseline verified; expansion pending |
 | [Tennessee](tennessee.md) | First-pass baseline verified; expansion pending |
-| [Texas](texas.md) | Anchor baseline verified; causation expansion pending |
+| [Texas](texas.md) | Expanded anchor profile verified; 1973 §21.06 motive still open |
 | [Utah](utah.md) | First-pass baseline verified; expansion pending |
 | [Vermont](vermont.md) | First-pass baseline verified; expansion pending |
 | [Virginia](virginia.md) | First-pass baseline verified; expansion pending |
