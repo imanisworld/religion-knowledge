@@ -1,0 +1,56 @@
+{
+  "id": "claim_memphite_ptah_creation",
+  "subject_type": "Narrative",
+  "subject_id": "nar_memphite_ptah_creation",
+  "statement": "The Shabaka Stone's Memphite creation text presents Ptah as creating through heart/thought and tongue/speech: what the heart devises the tongue commands, and through this process gods, arts, and other ordered features of the world come into being. The surviving stone is dated to 710 BCE; its claim to reproduce an ancient worm-eaten document is not accepted by the British Museum as straightforward historical evidence of an older copy.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Egypt"
+  ],
+  "evidence_types": [
+    "INSCRIPTION",
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "British Museum, Shabaka Stone (EA498), production date 710 BCE and collection commentary.",
+      "author": "British Museum",
+      "year": null,
+      "venue": "British Museum Collection",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "British Museum, Hieroglyphs: Unlocking Ancient Egypt — Shabaka Stone creation-text resources.",
+      "author": "British Museum",
+      "year": 2022,
+      "venue": "British Museum",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "Motif similarity with another tradition does not by itself demonstrate borrowing, common ancestry, or direct transmission."
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "The date of possible older theological content is separately disputed; this claim is about the extant inscription and its creation mechanism."
+}

@@ -1,0 +1,50 @@
+{
+  "id": "nar_hesiod_theogony",
+  "name": "Hesiodic Theogony cosmogony",
+  "genre": "cosmology",
+  "tradition_id": null,
+  "region": [
+    "Europe"
+  ],
+  "language": "Ancient Greek",
+  "source_label": "Hesiod, Theogony",
+  "motif_tags": [
+    "CHAOS",
+    "WORLD_PARENTS",
+    "DIVINE_SEXUAL_REPRODUCTION",
+    "DIVINE_WAR"
+  ],
+  "dating": {
+    "earliest_archaeological_evidence": null,
+    "earliest_written_attestation": null,
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": 1200,
+        "latest": 1299,
+        "precision": "CENTURY"
+      },
+      "note": "M. L. West notes that the earliest complete manuscripts of the Theogony date only from the end of the thirteenth century; this range stores the century rather than inventing an exact manuscript year."
+    },
+    "estimated_composition": {
+      "range": {
+        "earliest": -700,
+        "latest": -660,
+        "precision": "DECADE"
+      },
+      "method": "Modern philological datings cluster around the late eighth to mid-seventh century BCE: Janko c. 700–665 and West c. 680–660.",
+      "disputed": true
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "The poem narrates the coming-to-be and generations of gods in primordial time rather than assigning a historical date."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "The poem stands within an older Greek poetic/oral environment, but no absolute date for its precursors is asserted here.",
+      "confidence": "UNKNOWN"
+    },
+    "dating_summary": "Modern scholarship generally places the Theogony around the late eighth to mid-seventh century BCE; the earliest complete surviving manuscripts are much later, at the end of the thirteenth century CE."
+  },
+  "notes": "The narrative begins with Chaos, Gaia, Tartarus, and Eros and proceeds through divine generations and succession conflicts.",
+  "relationships": []
+}

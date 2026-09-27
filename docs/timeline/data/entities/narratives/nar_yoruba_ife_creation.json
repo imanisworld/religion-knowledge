@@ -1,0 +1,39 @@
+{
+  "id": "nar_yoruba_ife_creation",
+  "name": "Yorùbá Ifẹ̀ creation traditions (Obàtálá / Odùduwà)",
+  "genre": "creation_narrative",
+  "tradition_id": "trad_ifa_orisa",
+  "region": [
+    "West Africa"
+  ],
+  "language": "Yorùbá",
+  "source_label": "Multiple Yorùbá oral traditions centered on Ilé-Ifẹ̀",
+  "motif_tags": [
+    "PRIMORDIAL_WATER",
+    "EARTH_CLAY_HUMAN"
+  ],
+  "dating": {
+    "earliest_archaeological_evidence": {
+      "range": null,
+      "note": "Archaeology dates Ilé-Ifẹ̀'s urban and artistic development, but those dates do not by themselves date this specific creation narrative."
+    },
+    "earliest_written_attestation": {
+      "range": null,
+      "note": "This batch verifies the narrative through modern museum/ethnographic scholarship and does not claim an earliest written version until a specific early witness is independently pinned down."
+    },
+    "surviving_manuscript_date": null,
+    "estimated_composition": null,
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Multiple Yorùbá origin traditions identify Ilé-Ifẹ̀ as the place where land, human life, and/or civilization begin; versions differ over the roles and priority of Obàtálá and Odùduwà."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "The tradition is oral and variant. The exact date of the Obàtálá/Odùduwà narrative cannot be recovered from the sources used here.",
+      "confidence": "UNKNOWN"
+    },
+    "dating_summary": "The Ifẹ̀ creation tradition is securely documented as a living Yorùbá oral tradition with multiple versions, while its composition and oral-origin dates remain genuinely unknown; archaeological dates for Ilé-Ifẹ̀ are not used as dates for the story."
+  },
+  "notes": "Do not collapse competing Obàtálá/Odùduwà versions into one canonical Yorùbá account. The existing Ifá/Òrìṣà tradition entity separately records the broader tradition's documentary history.",
+  "relationships": []
+}

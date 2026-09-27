@@ -1,0 +1,82 @@
+{
+  "id": "claim_yoruba_ife_creation_variants",
+  "subject_type": "Narrative",
+  "subject_id": "nar_yoruba_ife_creation",
+  "statement": "Yorùbá Ifẹ̀ creation traditions exist in multiple variants. Commonly documented versions begin with a primordial watery world and Olódùmarè commissioning creation; some emphasize Obàtálá, including the molding of human bodies from clay, while others give Odùduwà the decisive role in spreading earth over the waters and founding Ilé-Ifẹ̀. The variation is part of the evidence and should not be flattened into one canonical version.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "West Africa"
+  ],
+  "evidence_types": [
+    "ORAL_TRADITION",
+    "LATER_HISTORICAL_ACCOUNT"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Metropolitan Museum of Art, Genesis: Ideas of Origin in African Sculpture, section “Genesis of Humanity — Yoruba.”",
+      "author": "Metropolitan Museum of Art",
+      "year": 2002,
+      "venue": "Metropolitan Museum of Art",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Metropolitan Museum of Art, “Ife (from ca. 6th Century).” Heilbrunn Timeline of Art History.",
+      "author": "Metropolitan Museum of Art",
+      "year": 2000,
+      "venue": "Metropolitan Museum of Art",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Smithsonian Folkways liner notes, Yoruba/Òrìṣà creation narrative drawing on Pierre Verger's documented variants.",
+      "author": null,
+      "year": null,
+      "venue": "Smithsonian Folkways",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "O. B. Lawuyi, “The Obatala Factor in Yoruba History.” History in Africa.",
+      "author": "O. B. Lawuyi",
+      "year": 2014,
+      "venue": "History in Africa / Cambridge University Press",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "Motif similarity with another tradition does not by itself demonstrate borrowing, common ancestry, or direct transmission."
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "The claim distinguishes living oral variants from attempts to read those myths as literal chronicles of an ancient political conquest."
+}

@@ -1,0 +1,68 @@
+{
+  "id": "claim_hesiod_theogony_cosmogony",
+  "subject_type": "Narrative",
+  "subject_id": "nar_hesiod_theogony",
+  "statement": "Hesiod's Theogony begins with Chaos followed by Gaia, Tartarus, and Eros, then narrates divine generation and succession/conflict across generations including Gaia and Uranus and the later struggles culminating in Zeus's order.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Europe"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Hesiod, Theogony, especially lines 104–210 and later succession narratives.",
+      "author": "Hesiod",
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Jenny Strauss Clay and Athanassios Vergados, eds., Hesiod: Theogony, Cambridge University Press introduction.",
+      "author": "Jenny Strauss Clay; Athanassios Vergados",
+      "year": null,
+      "venue": "Cambridge University Press",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "M. L. West, “The Medieval and Renaissance Manuscripts of Hesiod's Theogony.” Classical Quarterly.",
+      "author": "M. L. West",
+      "year": 2009,
+      "venue": "Classical Quarterly",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "Motif similarity with another tradition does not by itself demonstrate borrowing, common ancestry, or direct transmission."
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

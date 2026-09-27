@@ -1,0 +1,68 @@
+{
+  "id": "claim_genesis2_eden_creation",
+  "subject_type": "Narrative",
+  "subject_id": "nar_genesis2_eden",
+  "statement": "Genesis 2:4b–3:24 is a non-Priestly creation/Eden account distinct from Genesis 1:1–2:4a. It portrays YHWH God forming the human from ground/dust and then developing the garden, animals, and woman within a different narrative sequence from Genesis 1.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Levant"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Genesis 2:4b–3:24.",
+      "author": "Genesis",
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "David M. Carr, The Formation of Genesis 1–11: Biblical and Other Precursors, chs. 2 and 8. Oxford University Press, 2020.",
+      "author": "David M. Carr",
+      "year": 2020,
+      "venue": "Oxford University Press",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Konrad Schmid, “Genesis’ Two Creation Accounts Compiled and Interpreted as One.” TheTorah.com, 2023.",
+      "author": "Konrad Schmid",
+      "year": 2023,
+      "venue": "TheTorah.com",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "Motif similarity with another tradition does not by itself demonstrate borrowing, common ancestry, or direct transmission."
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

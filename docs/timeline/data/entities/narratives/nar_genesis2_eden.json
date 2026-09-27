@@ -1,0 +1,35 @@
+{
+  "id": "nar_genesis2_eden",
+  "name": "Genesis 2:4b–3:24 (Eden / non-Priestly creation account)",
+  "genre": "creation_narrative",
+  "tradition_id": null,
+  "region": [
+    "Levant"
+  ],
+  "language": "Biblical Hebrew",
+  "source_label": "Genesis 2:4b–3:24",
+  "motif_tags": [
+    "EARTH_CLAY_HUMAN"
+  ],
+  "dating": {
+    "earliest_archaeological_evidence": null,
+    "earliest_written_attestation": null,
+    "surviving_manuscript_date": {
+      "range": null,
+      "note": "No physical-witness date is assigned in this batch rather than conflating the text's literary formation with later surviving manuscripts."
+    },
+    "estimated_composition": null,
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "The narrative is set in primordial Eden and supplies no calendar date for its events."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "David M. Carr argues that parts of the Eden story may reflect earlier oral/literary precursors, but the evidence does not support an absolute oral-origin date.",
+      "confidence": "UNKNOWN"
+    },
+    "dating_summary": "Genesis 2:4b–3:24 is widely treated as a non-Priestly creation/Eden account distinct from Genesis 1. Its earliest layer is difficult to date securely, so this record leaves composition undated rather than forcing a false point or century."
+  },
+  "notes": "Carr's 2020 formation model treats the Eden story as the likely opening of an early independent non-Priestly primeval history; the exact dating of that layer remains poorly constrained.",
+  "relationships": []
+}

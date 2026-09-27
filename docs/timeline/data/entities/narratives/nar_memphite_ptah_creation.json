@@ -1,0 +1,62 @@
+{
+  "id": "nar_memphite_ptah_creation",
+  "name": "Memphite creation theology (Ptah / Shabaka Stone)",
+  "genre": "creation_narrative",
+  "tradition_id": null,
+  "region": [
+    "Egypt"
+  ],
+  "language": "Egyptian",
+  "source_label": "Shabaka Stone / Memphite Theology",
+  "motif_tags": [
+    "CREATION_BY_THOUGHT",
+    "CREATION_BY_SPEECH"
+  ],
+  "dating": {
+    "earliest_archaeological_evidence": {
+      "range": {
+        "earliest": -710,
+        "latest": -710,
+        "precision": "YEAR"
+      },
+      "note": "British Museum dates the Shabaka Stone itself to 710 BCE, Twenty-fifth Dynasty."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": -710,
+        "latest": -710,
+        "precision": "YEAR"
+      },
+      "note": "The extant inscription on the Shabaka Stone is the securely dated written attestation used here."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": -710,
+        "latest": -710,
+        "precision": "YEAR"
+      },
+      "note": "The surviving witness is an inscribed stone rather than a manuscript; this slot records the physical witness date without implying a papyrus survives."
+    },
+    "estimated_composition": {
+      "range": {
+        "earliest": -710,
+        "latest": -700,
+        "precision": "DECADE"
+      },
+      "method": "The British Museum notes that the text in its present form is generally accepted as a composition of Shabaka's own time; whether its religious content embodies older material remains disputed.",
+      "disputed": false
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "The inscription claims Shabaka copied an ancient worm-eaten document. The British Museum treats this antiquarian framing as a known royal-inscription rhetorical device rather than secure evidence of an older physical source."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "No oral-origin date is assigned. Possible older Memphite theological content is kept separate from the securely dated inscription.",
+      "confidence": "UNKNOWN"
+    },
+    "dating_summary": "The surviving Shabaka Stone is securely dated to 710 BCE. Its present literary form is generally treated as Twenty-fifth-Dynasty, while the possible antiquity of some underlying theology remains disputed."
+  },
+  "notes": "Egyptian creation traditions were plural, not one canonical account. This entity is specifically the Memphite/Ptah tradition preserved on the Shabaka Stone.",
+  "relationships": []
+}
