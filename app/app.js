@@ -530,15 +530,20 @@
   }
 
   function buildChains() {
-    const records = filteredRecords();
+    const records = currentRecords();
     const byId = new Map(records.map((r) => [r.id, r]));
     const chains = [];
+
     records.forEach((record) => {
       if (!['MY_WORDS', 'MY_POSITION', 'MY_QUESTION'].includes(record.provenance_type)) return;
       const related = (record.related_ids || []).map((id) => byId.get(id)).filter(Boolean);
       if (related.length) chains.push([record, ...related]);
     });
-    return chains;
+
+    const hasActiveFilters = state.query.trim() || state.provenance !== 'ALL' || state.type !== 'ALL';
+    return hasActiveFilters
+      ? chains.filter((chain) => chain.some((item) => matchesFilters(item)))
+      : chains;
   }
 
   function renderCompare() {
