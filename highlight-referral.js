@@ -244,8 +244,16 @@
     const duplicateHowto = document.querySelector('main > .howto');
     if (duplicateHowto) duplicateHowto.remove();
 
-    const hl = new URLSearchParams(location.search).get('hl');
-    if (hl && introDetails) introDetails.open = true;
+    if (introDetails) {
+      const openForHighlight = () => {
+        if (intro.querySelector('mark.hl-ref')) introDetails.open = true;
+      };
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', openForHighlight);
+      } else {
+        openForHighlight();
+      }
+    }
   }
 
   const docName = document.querySelector('.reader-doc')?.textContent.trim();
