@@ -1,0 +1,56 @@
+{
+  "id": "claim_anangu_tjukurpa_landscape_creation",
+  "subject_type": "Narrative",
+  "subject_id": "nar_anangu_tjukurpa_landscape",
+  "statement": "Public Anangu and Australian heritage descriptions of Tjukurpa state that ancestral beings travelled through the Uluru–Kata Tjuta landscape, shaping and creating its features while establishing law and responsibilities that continue in Anangu life. Tjukurpa is therefore presented as an ongoing law/cosmology embodied in landscape, story, ceremony, and practice rather than merely a past-time creation tale.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Australia"
+  ],
+  "evidence_types": [
+    "ORAL_TRADITION",
+    "LATER_HISTORICAL_ACCOUNT"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Australian Government DCCEEW, “Uluru-Kata Tjuta National Park” World/National Heritage description, updated 16 April 2026.",
+      "author": null,
+      "year": 2026,
+      "venue": "Department of Climate Change, Energy, the Environment and Water",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "National Museum of Australia, “Handback of Uluru to the Anangu,” public summary of Tjukurpa and ancestral landscape creation.",
+      "author": null,
+      "year": null,
+      "venue": "National Museum of Australia",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "Motif similarity with another tradition does not by itself demonstrate borrowing, common ancestry, or direct transmission."
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Only public material is represented; restricted ceremonial knowledge is outside this dataset."
+}
