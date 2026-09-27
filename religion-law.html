@@ -447,7 +447,8 @@ async function route(){
   const raw=location.hash.slice(1);
   const params=new URLSearchParams(raw);
   const state=params.get('state'),doc=params.get('doc');
-  const overview=raw===''||raw==='overview';
+  const overviewSections=new Set(['policy-overview','global-overview','practice-overview']);
+  const overview=raw===''||raw==='overview'||overviewSections.has(raw);
   try{
     if(state){
       const s=states.find(x=>x.slug===state);if(!s){location.hash='overview';return}
@@ -463,7 +464,11 @@ async function route(){
       $('#content').innerHTML=contentReturn(d.label)+renderMarkdown(md);
       setActive('doc',doc);return;
     }
-    if(overview){renderComparison();return}
+    if(overview){
+      renderComparison();
+      if(overviewSections.has(raw)) requestAnimationFrame(()=>document.getElementById(raw)?.scrollIntoView({block:'start'}));
+      return;
+    }
     location.hash='overview';
   }catch(err){$('#content').innerHTML=contentReturn('Load error')+'<h1>Could not load this research file</h1><p>'+esc(err.message)+'</p>'}
 }
