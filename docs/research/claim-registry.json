@@ -324,5 +324,165 @@
       }
     ],
     "notes": "Tracked set: governor, lieutenant governor, attorney general, House speaker, Senate president pro tempore/equivalent, and chief justice."
+  },
+  {
+    "claim_id": "CTX-ALDEMOG-001",
+    "claim_text": "Pew's 2023–24 Religious Landscape Study estimates Alabama adults as 43% evangelical Protestant, 13% historically Black Protestant, 10% mainline Protestant, 6% Catholic, 3% atheist, 2% agnostic, and 18% nothing in particular, with a ±6.2 percentage-point margin of error for adults in Alabama.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Pew Research Center, 2023–24 Religious Landscape Study — Alabama",
+        "locator": "State religious-composition table and margin-of-error note; https://www.pewresearch.org/religious-landscape-study/state/alabama/"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "These are survey estimates, not census counts. Differences within the margin of error should not be treated as precise population gaps, and figures may not sum to 100% because of rounding and categories reported as less than 1%.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Alabama"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=alabama"
+      }
+    ],
+    "notes": "Population context remains separate from legal-causation coding."
+  },
+  {
+    "claim_id": "CTX-ALPOWER-001",
+    "claim_text": "As of September 27, 2026, 5 of 6 tracked Alabama power positions have publicly documented Christian affiliations in the sources reviewed, so a majority of the tracked set is documented Christian; the House speaker's affiliation remains unknown.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Office of Alabama Governor — Kay Ivey biography",
+        "locator": "Member of First Baptist Church of Montgomery; https://governor.alabama.gov/governor/"
+      },
+      {
+        "source": "Alabama Lieutenant Governor — Will Ainsworth biography",
+        "locator": "Former youth pastor at Grace Fellowship Church; https://ltgov.alabama.gov/about/"
+      },
+      {
+        "source": "Alabama Attorney General — Steve Marshall biography",
+        "locator": "Member of Church of the Highlands; https://www.alabamaag.gov/about/"
+      },
+      {
+        "source": "Alabama Legislature — Past Speakers",
+        "locator": "Nathaniel Ledbetter listed as Speaker, 2023-present; https://alison.legislature.state.al.us/house-past-speakers"
+      },
+      {
+        "source": "State of Alabama principal officials report",
+        "locator": "Garlan Gudger listed as Senate President Pro Tempore; https://alison.legislature.state.al.us/files/pdf/eopa/audit_reports/26-237_26-237-ACFR.pdf"
+      },
+      {
+        "source": "Garlan Gudger biography",
+        "locator": "Member of Daystar Church; https://www.senatorgarlangudger.com/about"
+      },
+      {
+        "source": "Alabama Judicial System — Sarah H. Stewart biography",
+        "locator": "Chief Justice and member of Ashland Place Methodist Church; https://judicial.alabama.gov/CourtMemberBio/ViewBio?id=42"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "One of the six tracked positions has no affiliation coded. This snapshot does not describe every officeholder in Alabama and does not imply that religion caused any law or policy.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Alabama"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=alabama"
+      }
+    ],
+    "notes": "Tracked set: governor, lieutenant governor, attorney general, House speaker, Senate president pro tempore, and chief justice."
+  },
+  {
+    "claim_id": "CTX-AKDEMOG-001",
+    "claim_text": "Pew's 2023–24 Religious Landscape Study estimates Alaska adults as 26% evangelical Protestant, 15% Catholic, 9% mainline Protestant, 3% Latter-day Saint, 3% atheist, 9% agnostic, and 21% nothing in particular, with a ±7.7 percentage-point margin of error for adults in Alaska.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Pew Research Center, 2023–24 Religious Landscape Study — Alaska",
+        "locator": "State religious-composition table and margin-of-error note; https://www.pewresearch.org/religious-landscape-study/state/alaska/"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "These are survey estimates, not census counts. Alaska's state-level margin of error is relatively large, and figures may not sum to 100% because of rounding, nonresponse, and categories reported as less than 1%.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Alaska"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=alaska"
+      }
+    ],
+    "notes": "Population context remains separate from legal-causation coding."
+  },
+  {
+    "claim_id": "CTX-AKPOWER-001",
+    "claim_text": "As of September 27, 2026, only 1 of 6 tracked Alaska power positions has a publicly documented religious affiliation in the sources reviewed: Governor Mike Dunleavy is Catholic; the other five affiliations remain unknown, so the religious composition of the full tracked set cannot be determined.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Office of Alaska Governor — Mike Dunleavy biography",
+        "locator": "Current governor; https://gov.alaska.gov/meet-mike-dunleavy/"
+      },
+      {
+        "source": "Vote Smart — Mike Dunleavy biography",
+        "locator": "Religion field lists Catholic and Sacred Heart Catholic Church membership; https://justfacts.votesmart.org/candidate/biography/140395/michael-dunleavy"
+      },
+      {
+        "source": "Alaska Lieutenant Governor — Nancy Dahlstrom biography",
+        "locator": "Current lieutenant governor; no affiliation stated in biography reviewed; https://ltgov.alaska.gov/meet-lt-governor-nancy-dahlstrom/"
+      },
+      {
+        "source": "Alaska Department of Law — About",
+        "locator": "Cori Mills identified as Acting Attorney General; no affiliation stated; https://www.law.alaska.gov/department/about.html"
+      },
+      {
+        "source": "Alaska Legislature — Bryce Edgmon biography",
+        "locator": "Current Speaker; no affiliation stated; https://www.akleg.gov/basis/Member/Detail/34?code=edg"
+      },
+      {
+        "source": "Alaska Legislature — Gary Stevens biography",
+        "locator": "Current Senate President; no affiliation stated; https://www.akleg.gov/basis/Member/Detail/34?code=stg"
+      },
+      {
+        "source": "Alaska Court System — current judges",
+        "locator": "Susan M. Carney identified as Chief Justice; no affiliation stated; https://courts.alaska.gov/judges/"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "Five of six tracked affiliations are unknown. Unknown means no reliable public affiliation was identified in the sources reviewed, not that those officeholders are nonreligious.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Alaska"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=alaska"
+      }
+    ],
+    "notes": "Tracked set: governor, lieutenant governor, acting attorney general, House speaker, Senate president, and chief justice."
   }
 ]
