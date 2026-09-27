@@ -374,7 +374,122 @@ Shortest and earliest (~65-70 CE). Most human Jesus. No birth narrative. Jesus s
 
 ### 6.2 Matthew — Read Second
 
-Written for a Jewish audience, so it obsessively cites OT to prove Jesus is the Messiah. You will recognize the misquoted prophecies because you have read the originals. 'Virgin birth' comes from Matthew's mistranslation of Isaiah 7:14 (almah = young woman, not virgin). Heavy use of 'this was to fulfill what was written' — a rhetorical pattern, not independent evidence.
+Written in deep engagement with Jewish scripture, Matthew repeatedly uses fulfillment citations to present Jesus as Israel's Messiah. Read those citations against their original contexts rather than assuming that Matthew's application is the source text's original meaning. The virgin-conception argument in Matthew 1 does **not** come from Matthew personally mistranslating Isaiah 7:14: Matthew quotes the already-existing Septuagint *parthenos* rendering and applies it typologically to Jesus. Heavy use of "this was to fulfill what was written" is an editorial and theological pattern, not independent evidence that the narrated event occurred.
+
+#### ⚑ AUDIT — Matthew 1: Genealogy, Jeconiah, Betrothal, and the Virgin-Conception Narrative
+
+`CHECKED 27 SEPTEMBER 2026`
+
+**AS RECORDED:** Not previously audited as a dedicated Matthew 1 section.
+
+**STATUS: New entry.** The chapter is best read as a deliberately constructed theological genealogy plus a supernatural conception narrative, not as a modern exhaustive biological pedigree. Several common skeptical objections overstate the evidence, and several common harmonizations add mechanisms the text itself never states.
+
+**1. The 3×14 structure is literary and selective, not a complete generation-by-generation list.**
+
+⟨DOCUMENTED⟩ Matthew explicitly closes the genealogy by claiming three groups of fourteen generations (Matthew 1:17). The structure is not produced by simply copying the royal genealogy intact. The NABRE note to Matthew 1:17 identifies **Ahaziah, Joash, and Amaziah** as omitted between Joram and Uzziah (compare 1 Chronicles 3:11–12). The NET note to Matthew 1:11 also notes that later manuscripts insert **Jehoiakim** before Jeconiah in conformity with 1 Chronicles 3:15–16, but that the better-attested shorter reading preserves Matthew's selective fourteen-generation scheme.
+
+⟨DOCUMENTED⟩ The likely reason for the repeated number fourteen is Davidic symbolism: the Hebrew consonants of David's name, דוד (*d-w-d*), have the numerical values 4 + 6 + 4 = 14. Amy-Jill Levine and the NABRE notes both identify this as a major explanation for the pattern. The genealogy is therefore doing literary/theological work: it organizes Israel's history around Abraham, David, the exile, and Jesus.
+
+⟨DOCUMENTED⟩ The arithmetic itself is not perfectly transparent. The NABRE notes that the final post-exilic section apparently contains only thirteen names and records several proposed explanations. That does **not** make the whole genealogy a fraud; it does mean "Matthew gives an exact, unbroken list of forty-two biological generations" is not what the evidence supports.
+
+**Correct formulation:** *Matthew's genealogy is intentionally telescoped and numerically arranged. Omitting generations was compatible with ancient genealogical practice, but the omissions also show that the 3×14 structure is a literary construction rather than an exhaustive pedigree.*
+
+**2. Joseph's genealogy and non-biological paternity create a real internal tension — one Matthew addresses narratively, not biologically.**
+
+⟨DOCUMENTED⟩ Matthew's repeated "X fathered Y" formula changes at 1:16: Jacob fathers Joseph, but Joseph is called **"the husband of Mary, of whom Jesus was born."** The Greek relative pronoun referring to the one "of whom" Jesus was born is feminine and points to Mary. Matthew 1:18–25 then explicitly says Mary's pregnancy occurred before she and Joseph had sexual relations and attributes the conception to the Holy Spirit.
+
+That means Matthew's own narrative does **not** present Joseph as Jesus' biological father. The Davidic line in the genealogy therefore reaches Jesus through Joseph in a legal, social, or narrative sense rather than through biological paternity. Several interpreters understand Joseph's act of naming Jesus in 1:25 as the narrative mechanism by which Joseph acknowledges the child and places him within his Davidic household.
+
+**What this establishes:** Matthew wants both claims at once — Jesus is Son of David through Joseph's line, and Joseph did not biologically father him.
+
+**What it does not establish:** the genealogy itself is not independent evidence that Jesus was biologically descended from David. If the virgin-conception claim is accepted on Matthew's own terms, the listed Joseph-line cannot simultaneously function as a straightforward biological chain from David to Jesus.
+
+**3. Matthew and Luke do not give the same genealogy, and the text itself does not supply the later harmonizations.**
+
+⟨DOCUMENTED⟩ Matthew traces Joseph through **David → Solomon** and names Joseph's father **Jacob** (Matthew 1:6, 16). Luke traces the line through **David → Nathan** and names Joseph as son of **Heli** (Luke 3:23, 31). The lists overlap at a few points but diverge substantially.
+
+Later Christian interpreters proposed ways to reconcile them. Two famous approaches are:
+
+- **Julius Africanus's levirate explanation:** Jacob and Heli are related through marriages that produce a legal father in one genealogy and a biological father in the other.
+- **The "Luke is Mary's genealogy" explanation:** Luke is treated as tracing Mary's ancestry even though Luke 3:23 names Joseph, not Mary, at the head of the genealogy.
+
+These are genuine historical harmonizations, not inventions of modern internet apologetics. But **neither Matthew nor Luke states either mechanism.** They should therefore be labeled as proposed reconciliations, not as facts supplied by the Gospel texts.
+
+**Correct formulation:** *The two canonical genealogies are textually different. They may have different literary, legal, or theological functions. Later harmonizations exist, but no harmonization can be presented as the explicit explanation of either evangelist.*
+
+**4. Jeconiah/Jeremiah 22 is a real tension, but "the curse proves Matthew impossible" overstates the text.**
+
+⟨DOCUMENTED⟩ Matthew includes **Jeconiah/Jehoiachin** in Jesus' royal line (Matthew 1:11–12). Jeremiah 22:24–30 condemns Coniah/Jehoiachin and says that no man of his seed will prosper **"sitting on the throne of David and ruling again in Judah."**
+
+Two qualifications matter:
+
+- Jeremiah's "write this man childless/without succession" language cannot mean that Jehoiachin literally had no descendants. **1 Chronicles 3:17–19 lists descendants**, and the post-exilic line includes Zerubbabel.
+- Haggai 2:23 later calls Zerubbabel God's **"signet,"** deliberately echoing — and in the view of many scholars reversing — Jeremiah 22:24's image of God tearing Jehoiachin off like a signet. Zerubbabel nevertheless never became king.
+
+So the strongest version of the objection is not "Jeconiah had no children, therefore Matthew is false." That is contradicted by the Hebrew Bible itself. The actual issue is narrower: Matthew routes the Davidic claim through a line Jeremiah explicitly says will not again prosper by **sitting on David's throne and ruling Judah**.
+
+There is an additional Matthean complication: if Joseph is not Jesus' biological father, the Jeconiah line is already functioning legally/narratively rather than as biological descent. The common apologetic claim that the virgin birth conveniently "bypasses the Jeconiah curse" is therefore a theological harmonization, not something Matthew says.
+
+**5. Tamar, Rahab, Ruth, and "the wife of Uriah" are deliberate disruptions in a patrilineal list; their exact function is debated.**
+
+⟨DOCUMENTED⟩ Matthew unexpectedly names four women before Mary:
+
+- **Tamar** (Genesis 38): Judah withholds his son Shelah after Tamar is widowed; Tamar secures offspring through Judah himself, and Judah eventually declares her "more righteous than I" (Genesis 38:26). The story turns on family duty, lineage, sexuality, and Tamar's action inside a system controlled by Judah.
+- **Rahab** (Joshua 2; 6): a Canaanite/Jericho woman identified as a prostitute, inserted by Matthew into the Davidic ancestry.
+- **Ruth**: repeatedly identified in her book as a **Moabite**. Her marriage into the Judahite line sits in obvious canonical tension with Deuteronomy 23's exclusion of Moabites from the assembly. Later rabbinic interpretation restricted that prohibition to Moabite males; the Book of Ruth itself does not pause to give that later rule.
+- **"The wife of Uriah"** (Matthew 1:6): Matthew does not even name Bathsheba here; he identifies her through Uriah, keeping David's taking of Uriah's wife and arranging Uriah's death (2 Samuel 11) visible inside the royal genealogy.
+
+Scholars propose several overlapping functions for these women: Gentile presence in Israel's story, unusual or socially vulnerable sexual/marital situations, female initiative, reversals of male failure, and literary preparation for Mary's unexpected pregnancy. No single explanation has to carry all four cases.
+
+**Important limit:** do not flatten these women into "sexual sinners." In Genesis 38, the text vindicates Tamar over Judah. Ruth is presented positively. Bathsheba's degree of agency in 2 Samuel 11 is debated and the power imbalance with David is substantial. Matthew's wording "wife of Uriah" places David's compromised history in the genealogy rather than erasing it.
+
+**6. Mary and Joseph are betrothed in a legally serious relationship; "engaged" in the modern casual sense is misleading.**
+
+⟨DOCUMENTED⟩ Matthew 1:18–19 says Mary is betrothed to Joseph, calls Joseph her husband, and says he considers **divorcing/dismissing** her. This fits a two-stage marital process in which betrothal was already legally binding even before the couple began living together. The point is visible from Matthew itself: a mere modern engagement would not require divorce terminology.
+
+Deuteronomy 22:23–27 supplies important **Torah background** because it treats sex involving a betrothed woman as a serious sexual offense and distinguishes the legal treatment of a betrothed woman from an unbetrothed one.
+
+But a common retelling goes too far when it says, as a simple historical fact, "Mary would have been stoned." Deuteronomy records the ancient legal prescription; Matthew records Joseph contemplating quiet divorce, not initiating an execution. The text does not establish how, or whether, Deuteronomy 22's capital penalty would have been judicially enforced in the specific conditions of first-century Roman Judea/Galilee. Keep **Torah prescription**, **later Jewish interpretation**, and **first-century legal practice** separate.
+
+**7. Numbers 5 is a relevant cross-reference, but it should not be presented as the obvious procedure for Mary.**
+
+Numbers 5 describes the *sotah* ordeal for a wife suspected by her husband of adultery. That makes it relevant to the broader biblical treatment of suspected sexual infidelity, but it is not automatically the legal procedure Matthew's Mary would have faced.
+
+⟨DOCUMENTED — LATER RABBINIC EVIDENCE⟩ Mishnah Sotah 4:1, redacted well after the New Testament period, explicitly says a **betrothed woman does not drink the bitter water**, interpreting Numbers 5's "while under her husband" language as excluding her. The later Gemara discusses the same exclusion.
+
+That evidence is too late to prove exactly what every first-century Jewish community would have done. But it is enough to block the careless claim that Numbers 5 straightforwardly tells us what *must* have happened to Mary. Use Numbers 5 as a contextual comparison, not as a direct procedural description of Matthew 1.
+
+**8. What historical method can and cannot conclude from Matthew 1.**
+
+⟨DOCUMENTED⟩ Matthew claims supernatural conception by the Holy Spirit. Luke also contains a virgin-conception narrative, though its story and genealogy differ significantly from Matthew's. Mark and John do not narrate Jesus' conception, and Paul's undisputed letters do not describe a virgin birth.
+
+Historical analysis can establish what Matthew claims, how he structures the genealogy, which scriptures he reuses, and how the story functions literarily. It cannot turn Matthew's theological assertion that the conception was caused by the Holy Spirit into independently verified biological history merely by repeating the claim.
+
+Likewise, "science disproves Matthew" is too imprecise. Matthew is making a **miracle claim**, not proposing ordinary human parthenogenesis. The correct methodological point is narrower: ordinary evidence about human reproduction does not independently establish the miracle; accepting divine causation requires an additional theological premise.
+
+**Bottom line**
+
+Matthew 1 is strongest when read on its own terms:
+
+- The genealogy is **selective and symbolic**, not an exhaustive pedigree.
+- The Davidic claim runs through **Joseph**, while the conception narrative denies Joseph biological paternity.
+- Matthew and Luke preserve **different genealogies**; later reconciliations are possible proposals, not explanations supplied by the texts.
+- Jeconiah creates a **specific dynastic tension**, but Jeremiah 22 does not mean Jeconiah literally had no descendants.
+- Tamar, Rahab, Ruth, and Bathsheba/"wife of Uriah" bring complicated family, ethnic, and sexual histories into the line; Matthew does not sanitize them.
+- Betrothal and divorce language reflect a legally serious relationship, but Deuteronomy 22 and Numbers 5 should not be mechanically projected onto Mary's first-century case.
+- The virgin conception remains a **theological miracle claim**. Textual analysis can describe and contextualize it; it does not independently verify it.
+
+**Sources checked**
+
+**Primary texts:** Matthew 1:1–25; Luke 3:23–38; Genesis 38; Ruth 1–4; 2 Samuel 11; 1 Chronicles 3:10–19; Jeremiah 22:24–30; Haggai 2:20–23; Deuteronomy 22:23–27; Numbers 5; Mishnah Sotah 4:1 (later rabbinic evidence).
+
+**Textual/commentary controls:** *New American Bible, Revised Edition*, notes to Matthew 1:17–18 (omitted kings, fourteen-generation structure, legal/adoptive Davidic connection); *NET Bible*, note to Matthew 1:11 (later manuscript insertion of Jehoiakim and Matthew's selective scheme); Amy-Jill Levine, “The Jewish Origins of the Christmas Story” (Matthew/Luke genealogy divergence and the four women).
+
+**Scholarly/context sources:** Amy-Jill Levine, "The Jewish Origins of the Christmas Story," TheTorah.com (2019); David A. Glatt-Gilad, "Jehoiachin's Exile and the Division of Judah," TheTorah.com (2017); Mahri Leonard-Fleckman, "Judah Meets Tamar 'On the Road to Timnah,'" TheTorah.com (2020); Elsie R. Stern, "Kinship over Covenant: The Book of Ruth's Traditional Challenge to Deuteronomy," TheTorah.com (2025); Eugene Park, commentary on Matthew 1:18–25, Working Preacher/Luther Seminary (2025); Mishnah Sotah 4:1 via Sefaria.
+
+---
+
+---
 
 #### ⚑ AUDIT — Matthew's Fulfillment Formula: "Retrofitted" or Something Else?
 
