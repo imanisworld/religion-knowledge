@@ -1975,23 +1975,167 @@
   {
     "state": "Illinois",
     "slug": "illinois",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-09-27",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/illinois/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±4.8 percentage points for adults in Illinois",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "16%",
+          "percent": 16,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "23%",
+          "percent": 23,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "13%",
+          "percent": 13,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "7%",
+          "percent": 7,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "3%",
+          "percent": 3,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "5%",
+          "percent": 5,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "5%",
+          "percent": 5,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "19%",
+          "percent": 19,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Illinois table are Catholic (23%), Evangelical Protestant (16%), Mainline Protestant (13%), and Historically Black Protestant (7%). Pew lists 5% atheist, 5% agnostic, and 19% nothing in particular. Figures are survey estimates; the state margin of error is ±4.8 percentage points, 1% did not answer, and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
       "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 6,
+      "documented_affiliations": 4,
+      "summary": "Four of six tracked Illinois power positions have publicly documented religious identities or affiliations in the sources reviewed. Three are documented Christian (United Church of Christ, Baptist, and Catholic) and one has a documented Jewish identity/upbringing. The lieutenant governor and chief justice remain unknown, so the full six-position religious composition should not be inferred beyond the documented cases.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "JB Pritzker",
+          "affiliation_status": "documented",
+          "affiliation": "Jewish",
+          "affiliation_detail": "Jewish Telegraphic Agency reports that Pritzker has credited his Jewish upbringing and temple experience with shaping his outlook. This documents Jewish identity/background, not a claim about level of observance.",
+          "office_source": "https://gov.illinois.gov/",
+          "affiliation_source": "https://www.jta.org/2018/03/21/politics/j-b-pritzker-wins-democratic-nomination-illinois-governor-dan-lipinski-squeaks-face-off-nazi",
+          "source_note": "Current office is verified by the official governor site; the affiliation source is explicit about Jewish identity/upbringing."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "Juliana Stratton",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The current official biography reviewed does not state a religious affiliation.",
+          "office_source": "https://ltgov.illinois.gov/about.html",
+          "source_note": "No affiliation inferred from organizations, rhetoric, education, or policy positions."
+        },
+        {
+          "office": "Attorney General",
+          "name": "Kwame Raoul",
+          "affiliation_status": "documented",
+          "affiliation": "United Church of Christ / Christian",
+          "affiliation_detail": "Vote Smart lists Raoul's religion as United Church of Christ and lists Trinity United Church of Christ membership.",
+          "office_source": "https://illinoisattorneygeneral.gov/about/biography/",
+          "affiliation_source": "https://justfacts.votesmart.org/candidate/biography/33482/kwame-raoul",
+          "source_note": "Current office is verified by the official attorney-general biography; affiliation is separately documented by Vote Smart."
+        },
+        {
+          "office": "Speaker of the House",
+          "name": "Emanuel \"Chris\" Welch",
+          "affiliation_status": "documented",
+          "affiliation": "Baptist / Christian",
+          "affiliation_detail": "Vote Smart lists Welch's religion as Baptist.",
+          "office_source": "https://www.ilga.gov/House/Members/Details/3298?Primary=True",
+          "affiliation_source": "https://justfacts.votesmart.org/candidate/biography/58207/chris-welch",
+          "source_note": "Current office is verified by the Illinois General Assembly; affiliation is separately documented by Vote Smart."
+        },
+        {
+          "office": "Senate President",
+          "name": "Don Harmon",
+          "affiliation_status": "documented",
+          "affiliation": "Catholic / Christian",
+          "affiliation_detail": "Harmon's biography says he remains a member of St. Giles Parish in Oak Park; St. Giles identifies itself as a Catholic parish.",
+          "office_source": "https://www.ilga.gov/Senate/Members/Details/3268",
+          "affiliation_source": "https://harmonforillinois.com/",
+          "source_note": "Current office is verified by the Illinois General Assembly. Denominational classification is supported by St. Giles Catholic Parish: https://www.stgilesparish.org/"
+        },
+        {
+          "office": "Chief Justice",
+          "name": "P. Scott Neville, Jr.",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Current Illinois Courts materials identify Neville as Chief Justice; no reliable religious affiliation was identified in the sources reviewed.",
+          "office_source": "https://www.illinoiscourts.gov/supreme-court/illinois-judicial-conference/",
+          "source_note": "Neville has served as Chief Justice since October 26, 2025. No affiliation inferred."
+        }
+      ]
     }
   },
   {
@@ -2162,23 +2306,167 @@
   {
     "state": "Iowa",
     "slug": "iowa",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-09-27",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/iowa/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±7.8 percentage points for adults in Iowa",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "21%",
+          "percent": 21,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "15%",
+          "percent": 15,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "25%",
+          "percent": 25,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "3%",
+          "percent": 3,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "6%",
+          "percent": 6,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "22%",
+          "percent": 22,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Iowa table are Mainline Protestant (25%), Evangelical Protestant (21%), and Catholic (15%). Pew lists 3% atheist, 6% agnostic, and 22% nothing in particular. Figures are survey estimates; the state margin of error is ±7.8 percentage points, 2% did not answer, and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
       "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 6,
+      "documented_affiliations": 4,
+      "summary": "Four of six tracked Iowa power positions have some publicly documented religious identity or affiliation in the sources reviewed: Governor Kim Reynolds is listed as United Methodist; Attorney General Brenna Bird is documented as a member of All Saints Church; House Speaker Pat Grassley is listed as Methodist; and Senate President Amy Sinclair has publicly described herself as a person of faith while stating she had no current church membership. The lieutenant governor and chief justice remain unknown. The evidence does not support assigning one denomination to a majority of the full tracked set.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Kim Reynolds",
+          "affiliation_status": "documented",
+          "affiliation": "United Methodist / Christian",
+          "affiliation_detail": "Vote Smart lists Reynolds's religion as United Methodist and Osceola United Methodist Church membership.",
+          "office_source": "https://governor.iowa.gov/",
+          "affiliation_source": "https://justfacts.votesmart.org/candidate/biography/103324/kim-reynolds",
+          "source_note": "Current office is verified by the official governor site; affiliation is separately documented by Vote Smart."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "Chris Cournoyer",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The current official biography reviewed does not state a religious affiliation.",
+          "office_source": "https://governor.iowa.gov/meet-governor-kim-reynolds/meet-lieutenant-governor-chris-cournoyer",
+          "source_note": "No affiliation inferred from education, public language, or policy positions."
+        },
+        {
+          "office": "Attorney General",
+          "name": "Brenna Bird",
+          "affiliation_status": "documented",
+          "affiliation": "All Saints Church member",
+          "affiliation_detail": "The official Iowa Attorney General biography states that Bird is a member of All Saints Church. This record does not assign a denomination because the biography itself does not specify one.",
+          "office_source": "https://www.iowaattorneygeneral.gov/what-we-do/about-attorney-general-brenna-bird",
+          "affiliation_source": "https://www.iowaattorneygeneral.gov/what-we-do/about-attorney-general-brenna-bird",
+          "source_note": "Current office and church membership are both documented by the official biography; denomination is deliberately left unassigned."
+        },
+        {
+          "office": "Speaker of the House",
+          "name": "Pat Grassley",
+          "affiliation_status": "documented",
+          "affiliation": "Methodist / Christian",
+          "affiliation_detail": "Vote Smart lists Grassley's religion as Methodist and New Hartford Methodist Church membership.",
+          "office_source": "https://www.legis.iowa.gov/legislators/leadership",
+          "affiliation_source": "https://justfacts.votesmart.org/candidate/biography/56852/patrick-grassley",
+          "source_note": "Current speakership is verified by the Iowa Legislature; affiliation is separately documented by Vote Smart."
+        },
+        {
+          "office": "Senate President",
+          "name": "Amy Sinclair",
+          "affiliation_status": "documented",
+          "affiliation": "Religious / person of faith (no current church membership stated)",
+          "affiliation_detail": "In 2023 Senate closing remarks, Sinclair explicitly described herself as a person of faith and stated that she did not have a current membership in any church.",
+          "office_source": "https://www.legis.iowa.gov/legislators/leadership",
+          "affiliation_source": "https://iowasenaterepublicans.com/hf-732-closing-remarks-from-senate-president-amy-sinclair/",
+          "source_note": "The direct statement supports religious self-identification but does not justify assigning a denomination or current congregation."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "Susan Christensen",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The current Iowa Judicial Branch biography reviewed does not state a religious affiliation.",
+          "office_source": "https://www.iowacourts.gov/iowa-courts/supreme-court/justices/susan-christensen",
+          "source_note": "No affiliation inferred from educational institutions or judicial activity."
+        }
+      ]
     }
   },
   {

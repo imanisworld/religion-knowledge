@@ -2720,5 +2720,177 @@
       }
     ],
     "notes": "Bevan remains the Chief Justice in this September 27 snapshot; Robyn Brody's chief-justice term begins October 1, 2026."
+  },
+  {
+    "claim_id": "CTX-ILDEMOG-001",
+    "claim_text": "Pew's 2023–24 Religious Landscape Study estimates Illinois adults as 23% Catholic, 16% evangelical Protestant, 13% mainline Protestant, 7% historically Black Protestant, 5% atheist, 5% agnostic, and 19% nothing in particular, with a ±4.8 percentage-point margin of error for adults in Illinois.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Pew Research Center, 2023–24 Religious Landscape Study — Illinois",
+        "locator": "State religious-composition table and state margin-of-error note; https://www.pewresearch.org/religious-landscape-study/state/illinois/"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "These are survey estimates, not census counts. Small differences should not be treated as precise population gaps, and percentages can be affected by rounding, nonresponse, and categories reported as less than 1%.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Illinois"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=illinois"
+      }
+    ],
+    "notes": "The population context layer is kept separate from legal-causation coding."
+  },
+  {
+    "claim_id": "CTX-ILPOWER-001",
+    "claim_text": "As of September 27, 2026, 4 of 6 tracked Illinois power positions have publicly documented religious identities or affiliations in the sources reviewed: three documented Christian affiliations and one documented Jewish identity; two positions remain unknown, so the full six-position religious composition cannot be determined beyond the documented cases.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Illinois Governor",
+        "locator": "Current governor JB Pritzker; https://gov.illinois.gov/"
+      },
+      {
+        "source": "Jewish Telegraphic Agency",
+        "locator": "Pritzker Jewish identity/upbringing; https://www.jta.org/2018/03/21/politics/j-b-pritzker-wins-democratic-nomination-illinois-governor-dan-lipinski-squeaks-face-off-nazi"
+      },
+      {
+        "source": "Illinois Lieutenant Governor",
+        "locator": "Current lieutenant governor Juliana Stratton; no affiliation stated in official bio reviewed; https://ltgov.illinois.gov/about.html"
+      },
+      {
+        "source": "Illinois Attorney General",
+        "locator": "Current attorney general Kwame Raoul; https://illinoisattorneygeneral.gov/about/biography/"
+      },
+      {
+        "source": "Vote Smart — Kwame Raoul",
+        "locator": "Religion listed as United Church of Christ; https://justfacts.votesmart.org/candidate/biography/33482/kwame-raoul"
+      },
+      {
+        "source": "Illinois General Assembly — Chris Welch",
+        "locator": "Current House Speaker; https://www.ilga.gov/House/Members/Details/3298?Primary=True"
+      },
+      {
+        "source": "Vote Smart — Chris Welch",
+        "locator": "Religion listed as Baptist; https://justfacts.votesmart.org/candidate/biography/58207/chris-welch"
+      },
+      {
+        "source": "Illinois General Assembly — Don Harmon",
+        "locator": "Current Senate President; https://www.ilga.gov/Senate/Members/Details/3268"
+      },
+      {
+        "source": "Don Harmon biography",
+        "locator": "States he remains a member of St. Giles Parish; https://harmonforillinois.com/"
+      },
+      {
+        "source": "Illinois Courts",
+        "locator": "Current Chief Justice P. Scott Neville Jr.; no affiliation identified in sources reviewed; https://www.illinoiscourts.gov/supreme-court/illinois-judicial-conference/"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "Publicly documented coverage is incomplete, and Pritzker's source documents Jewish identity/upbringing rather than degree of religious observance. 'Unknown' means no reliable affiliation was identified in the sources reviewed, not that the officeholder is nonreligious.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Illinois"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=illinois"
+      }
+    ],
+    "notes": "Tracked set: governor, lieutenant governor, attorney general, House speaker, Senate president, and chief justice."
+  },
+  {
+    "claim_id": "CTX-IADEMOG-001",
+    "claim_text": "Pew's 2023–24 Religious Landscape Study estimates Iowa adults as 25% mainline Protestant, 21% evangelical Protestant, 15% Catholic, 1% historically Black Protestant, 3% atheist, 6% agnostic, and 22% nothing in particular, with a ±7.8 percentage-point margin of error for adults in Iowa.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Pew Research Center, 2023–24 Religious Landscape Study — Iowa",
+        "locator": "State religious-composition table and state margin-of-error note; https://www.pewresearch.org/religious-landscape-study/state/iowa/"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "These are survey estimates, not census counts. Iowa's ±7.8-point margin of error is large, so relatively close category differences should not be treated as precise population rankings.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Iowa"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=iowa"
+      }
+    ],
+    "notes": "The population context layer is kept separate from legal-causation coding."
+  },
+  {
+    "claim_id": "CTX-IAPOWER-001",
+    "claim_text": "As of September 27, 2026, 4 of 6 tracked Iowa power positions have some publicly documented religious identity or affiliation in the sources reviewed; the remaining two are unknown, and the evidence does not support assigning one denomination to a majority of the full tracked set.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Iowa Governor",
+        "locator": "Current Governor Kim Reynolds and Lieutenant Governor Chris Cournoyer; https://governor.iowa.gov/"
+      },
+      {
+        "source": "Vote Smart — Kim Reynolds",
+        "locator": "Religion listed as United Methodist and Osceola United Methodist Church membership; https://justfacts.votesmart.org/candidate/biography/103324/kim-reynolds"
+      },
+      {
+        "source": "Iowa Attorney General",
+        "locator": "Current Attorney General Brenna Bird and All Saints Church membership; https://www.iowaattorneygeneral.gov/what-we-do/about-attorney-general-brenna-bird"
+      },
+      {
+        "source": "Iowa Legislature — Leadership",
+        "locator": "Current House Speaker Pat Grassley and Senate President Amy Sinclair; https://www.legis.iowa.gov/legislators/leadership"
+      },
+      {
+        "source": "Vote Smart — Pat Grassley",
+        "locator": "Religion listed as Methodist and New Hartford Methodist Church membership; https://justfacts.votesmart.org/candidate/biography/56852/patrick-grassley"
+      },
+      {
+        "source": "Iowa Senate Republicans — Amy Sinclair",
+        "locator": "Direct 2023 statement: person of faith, no current church membership; https://iowasenaterepublicans.com/hf-732-closing-remarks-from-senate-president-amy-sinclair/"
+      },
+      {
+        "source": "Iowa Judicial Branch — Susan Christensen",
+        "locator": "Current Chief Justice; no affiliation stated in official bio reviewed; https://www.iowacourts.gov/iowa-courts/supreme-court/justices/susan-christensen"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "Public sources vary in specificity: Bird's official biography names a church but not a denomination, Sinclair identifies as a person of faith while disclaiming current church membership, and two officeholders remain unknown. These records should not be converted into unsupported denominational counts.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Iowa"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=iowa"
+      }
+    ],
+    "notes": "Tracked set: governor, lieutenant governor, attorney general, House speaker, Senate president, and chief justice."
   }
 ]
