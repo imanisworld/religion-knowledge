@@ -1,0 +1,57 @@
+{
+  "id": "claim_el_ugaritic_head_pantheon",
+  "subject_type": "Deity",
+  "subject_id": "dty_el_canaanite",
+  "statement": "Late Bronze Age Ugaritic evidence presents El as a senior patriarchal deity associated with leadership of the divine assembly; modern scholarship treats El and the divine council as central features of the Northwest Semitic religious world represented at Ugarit.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Levant"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY",
+    "COMPARATIVE_RECONSTRUCTION"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Mark S. Smith, The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts (Oxford University Press, 2001), ch. 2, “The Divine Council.”",
+      "author": "Mark S. Smith",
+      "year": 2001,
+      "venue": "Oxford University Press",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Oxford abstract describes the Ugaritic assemblies of El and Baal and the divine-council structure."
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Theodore J. Lewis, The Origin and Character of God (Oxford University Press, 2020), ch. 4, “El Worship.”",
+      "author": "Theodore J. Lewis",
+      "year": 2020,
+      "venue": "Oxford University Press",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Oxford abstract identifies El as father/divine kinsman and highlights El's role as head of a mythological divine council."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "This does not mean every biblical use of the common noun 'el' refers to the Ugaritic proper-name deity El.",
+    "This does not establish a standalone trans-cultural 'divine council religion' entity."
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}
