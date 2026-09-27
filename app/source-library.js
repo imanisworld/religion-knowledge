@@ -96,7 +96,7 @@
   const themeMeta = document.querySelector('meta[name="theme-color"]');
   const hiddenBottomViews = new Set(['topics', 'questions', 'sources', 'ai', 'compare', 'positions']);
 
-  if (search && !search.getAttribute('aria-label')) search.setAttribute('aria-label', 'Search notes, topics, and sources');
+  if (search && !search.getAttribute('aria-label')) search.setAttribute('aria-label', 'Search records, topics, questions, and sources');
   if (topicSearch && !topicSearch.getAttribute('aria-label')) topicSearch.setAttribute('aria-label', 'Filter topics');
   if (filterButton && !filterButton.getAttribute('aria-controls')) filterButton.setAttribute('aria-controls', 'filter-panel');
   if (recordDialog && !recordDialog.getAttribute('aria-labelledby')) recordDialog.setAttribute('aria-labelledby', 'dialog-title');
