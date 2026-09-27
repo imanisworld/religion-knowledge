@@ -75,6 +75,16 @@
 - Pew Research Center, Religious Restrictions Around the World — https://www.pewresearch.org/religion/feature/religious-restrictions-around-the-world/
 - U.S. Department of State, International Religious Freedom Reports — https://www.state.gov/international-religious-freedom-reports/
 
+
+## U.S. public-institution and practice sources
+
+- U.S. Office of Personnel Management, Federal Holidays — https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
+- White House, White House Easter Egg Roll — https://www.whitehouse.gov/white-house-easter-egg-roll/
+- U.S. House History, "The Legislation Placing 'In God We Trust' on National Currency" — https://history.house.gov/Historical-Highlights/1951-2000/The-legislation-placing-In-God-We-Trust-on-national-currency/
+- U.S. Mint, historical timeline — https://www.usmint.gov/learn/history/timeline
+- Pew Research Center, "Faith on the Hill" — https://www.pewresearch.org/religion/2025/01/02/faith-on-the-hill-2025/
+- U.S. Department of Education, 2026 Guidance on Constitutionally Protected Prayer and Religious Expression in Public Elementary and Secondary Schools — https://www.ed.gov/laws-and-policy/laws-preschool-grade-12-education/preschool-grade-12-policy-documents/guidance-on-constitutionally-protected-prayer-and-religious-expression-in-public-elementary-and-secondary-schools
+
 ## Source-use rules
 
 1. Use an official legal text or controlling judicial opinion for the legal effect of a rule.
