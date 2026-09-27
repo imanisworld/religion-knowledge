@@ -185,6 +185,7 @@ const DOCSWITCH = [
   { label: 'Method &amp; Reference', href: 'method-reference.html' },
   { label: 'Glossary',           href: 'glossary.html' },
   { label: 'Cited Persons',      href: 'cited-persons.html' },
+  { label: 'Religion &amp; Law', href: 'religion-law.html' },
   { label: 'Search',             href: 'search.html' },
 ];
 

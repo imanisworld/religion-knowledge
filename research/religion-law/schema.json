@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Religion and Law Record",
+  "type": "object",
+  "required": ["id", "jurisdiction", "legal_level", "formal_citation", "subject", "legal_effect", "classification", "primary_authority", "status", "last_verified", "confidence"],
+  "properties": {
+    "id": {"type": "string"},
+    "jurisdiction": {"type": "string"},
+    "subnational_jurisdiction": {"type": "string"},
+    "legal_level": {"enum": ["constitution", "statute", "regulation", "case", "religious_court_jurisdiction", "other"]},
+    "formal_citation": {"type": "string"},
+    "date_enacted_or_decided": {"type": "string"},
+    "subject": {"type": "string"},
+    "legal_effect": {"type": "string"},
+    "classification": {"enum": ["A_explicit_religious_basis", "B_historical_religious_origin", "C_mixed_religious_influence", "D_religion_limiting_rule", "E_principally_secular_purpose"]},
+    "religion_connection": {"type": "string"},
+    "evidence_type": {"type": "array", "items": {"enum": ["textual", "judicial", "legislative_history", "movement_history", "policy_history"]}},
+    "competing_causes": {"type": "array", "items": {"type": "string"}},
+    "scope_note": {"type": "string"},
+    "status": {"enum": ["in_force", "in_force_limited", "unenforceable", "repealed", "superseded", "contested_uncertain", "historical"]},
+    "enforcement_note": {"type": "string"},
+    "primary_authority": {"type": "string"},
+    "explanatory_authority": {"type": "string"},
+    "last_verified": {"type": "string", "format": "date"},
+    "review_priority": {"enum": ["low", "medium", "high"]},
+    "confidence": {"enum": ["high", "medium", "low", "contested"]},
+    "notes": {"type": "string"}
+  },
+  "additionalProperties": false
+}
