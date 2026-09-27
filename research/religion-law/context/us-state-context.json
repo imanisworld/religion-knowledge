@@ -395,10 +395,10 @@
           "name": "Mike Braun",
           "affiliation_status": "documented",
           "affiliation": "Catholic",
-          "affiliation_detail": "Pew/CQ Roll Call identified Braun as Catholic while he served in the U.S. Senate. The current governor biography discusses faith but does not restate a denomination.",
+          "affiliation_detail": "Vote Smart's current biography lists Braun's religion as Catholic.",
           "office_source": "https://www.in.gov/gov/about-the-governor/about-governor-mike-braun/",
-          "affiliation_source": "https://www.pewresearch.org/religion/wp-content/uploads/sites/7/2021/01/01.04.21_faith_on_the_hill_detailed.table_.update.pdf",
-          "source_note": "Affiliation documentation predates his governorship; retained as the latest high-quality direct biographical classification located in this pass."
+          "affiliation_source": "https://justfacts.votesmart.org/candidate/biography/148564/mike-braun",
+          "source_note": "Current office is verified from the official Indiana governor biography; religious affiliation is separately documented by Vote Smart."
         },
         {
           "office": "Lieutenant Governor",
