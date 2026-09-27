@@ -27,8 +27,14 @@
     "last_verified": "2026-09-26",
     "reviewer": "audit-2026-09-26",
     "public_locations": [
-      { "file": "Method_and_Reference.md", "anchor": "#5-4-how-the-church-and-the-canon-formed" },
-      { "file": "method-reference.html", "anchor": "#canon" }
+      {
+        "file": "Method_and_Reference.md",
+        "anchor": "#5-4-how-the-church-and-the-canon-formed"
+      },
+      {
+        "file": "method-reference.html",
+        "anchor": "#canon"
+      }
     ],
     "notes": "This is the single most commonly encountered popular misconception in this corpus's subject area. Flagged in Method §2 reference table as explicitly false."
   },
@@ -59,7 +65,10 @@
     "last_verified": "2026-09-26",
     "reviewer": "audit-2026-09-26",
     "public_locations": [
-      { "file": "Method_and_Reference.md", "anchor": "#5-1-before-and-during-the-kingdoms" }
+      {
+        "file": "Method_and_Reference.md",
+        "anchor": "#5-1-before-and-during-the-kingdoms"
+      }
     ],
     "notes": "The determinative sign on 'Israel' in the stele marks it as a people/ethnic group rather than a territory, which is the basis for the 'people not a place' distinction. This is the scholarly consensus reading."
   },
@@ -90,7 +99,10 @@
     "last_verified": "2026-09-26",
     "reviewer": "audit-2026-09-26",
     "public_locations": [
-      { "file": "Method_and_Reference.md", "anchor": "#5-1-before-and-during-the-kingdoms" }
+      {
+        "file": "Method_and_Reference.md",
+        "anchor": "#5-1-before-and-during-the-kingdoms"
+      }
     ],
     "notes": "Qualification added: corroboration is for the event, not the outcome. The 'best-corroborated' framing is defensible but should include this distinction in the public text."
   },
@@ -121,8 +133,116 @@
     "last_verified": "2026-09-26",
     "reviewer": "audit-2026-09-26",
     "public_locations": [
-      { "file": "Method_and_Reference.md", "anchor": "#5-3-jesus-and-the-new-testament" }
+      {
+        "file": "Method_and_Reference.md",
+        "anchor": "#5-3-jesus-and-the-new-testament"
+      }
     ],
     "notes": "The absence of birth narrative and empty tomb in Paul is a factual observation about Paul's surviving letters, not a theological claim. 1 Cor 15:3–8 does reference resurrection appearances, which should not be conflated with the empty-tomb narratives of the Gospels."
+  },
+  {
+    "claim_id": "RL-SUNDAY-001",
+    "claim_text": "The original Sunday labor laws were motivated by religious forces, while the Maryland law's purpose and effect by 1961 had become a secular day of rest and recreation.",
+    "claim_type": "causation_influence",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "McGowan v. Maryland, 366 U.S. 420 (1961)",
+        "locator": "pp. 431–449; https://www.law.cornell.edu/supremecourt/text/366/420"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "U.S. Supreme Court syllabus and opinion, McGowan v. Maryland, 366 U.S. 420 (1961)",
+        "locator": "Historical review and present-purpose analysis, pp. 431–449",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "The religious origin of Sunday-closing laws does not establish that the 1961 Maryland statute had a religious operative purpose. McGowan expressly separated origin from then-current secular rationale.",
+    "last_verified": "2026-09-26",
+    "reviewer": "audit-2026-09-26",
+    "public_locations": [
+      {
+        "file": "research/religion-law/us-states/maryland.md",
+        "anchor": "#former-article-27-521-sunday-retail-restrictions"
+      },
+      {
+        "file": "research/religion-law/records/us-state-starter.json",
+        "anchor": "US-MD-ART27-521-MCGOWAN"
+      }
+    ],
+    "notes": "This claim is used to demonstrate the project's core separation between historical origin and current legal rationale."
+  },
+  {
+    "claim_id": "RL-MORRILL-001",
+    "claim_text": "The Morrill Anti-Bigamy Act was aimed at Utah Mormons and plural marriage, while broader federal territorial and slavery/state-rights politics also shaped the legislative context.",
+    "claim_type": "causation_influence",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Act of July 1, 1862, ch. 126, 12 Stat. 501",
+        "locator": "12 Stat. 501; https://www.govinfo.gov/content/pkg/STATUTE-12/pdf/STATUTE-12-Pg499-2.pdf"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "U.S. Senate, Utah State Timeline",
+        "locator": "1862 entry; https://www.senate.gov/states/UT/timeline.shtml",
+        "stance": "supports"
+      },
+      {
+        "citation": "National Archives, 'The Revolutionary Summer of 1862'",
+        "locator": "Discussion of anti-polygamy legislation, territorial regulation, slavery, and states' rights; https://www.archives.gov/publications/prologue/2017/winter/summer-of-1862",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "The sources establish both a direct anti-polygamy/Mormon target and a broader political setting; they do not permit a precise numerical weighting of religious versus territorial or sectional motives.",
+    "last_verified": "2026-09-26",
+    "reviewer": "audit-2026-09-26",
+    "public_locations": [
+      {
+        "file": "research/religion-law/us-states/utah.md",
+        "anchor": "#morrill-anti-bigamy-act-of-1862"
+      },
+      {
+        "file": "research/religion-law/records/us-federal-starter.json",
+        "anchor": "US-FED-MORRILL-ANTIBIGAMY-1862"
+      }
+    ],
+    "notes": "Category C is used because official sources document both a religion-linked target and substantial nonreligious territorial/sectional context."
+  },
+  {
+    "claim_id": "RL-CHOICE-001",
+    "claim_text": "Indiana's Choice Scholarship Program has a documented secular educational-choice purpose even though religiously affiliated schools may participate.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Indiana Department of Education, Choice Scholarship Program",
+        "locator": "Current program description and statutory authorization under IC 20-51-1 and IC 20-51-4; https://www.in.gov/doe/students/indiana-choice-scholarship-program/"
+      },
+      {
+        "source": "Meredith v. Pence, 984 N.E.2d 1213 (Ind. 2013)",
+        "locator": "Discussion of direct beneficiaries and valid secular purpose; https://public.courts.in.gov/Decisions/api/Document/Opinion?Id=J05Ps3rV8U8J5E21jpQdtFtZSesxhcvjxGMBDHpC6068_qeh1SUJ_1q8NJaE72_C0"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "A secular program purpose does not establish that religious organizations played no role in school-choice advocacy or that religious schools receive no incidental benefit; Meredith expressly treated such school benefits as ancillary to family educational choice.",
+    "last_verified": "2026-09-26",
+    "reviewer": "audit-2026-09-26",
+    "public_locations": [
+      {
+        "file": "research/religion-law/us-states/indiana.md",
+        "anchor": "#choice-scholarship-program-indiana-code-article-20-51"
+      },
+      {
+        "file": "research/religion-law/records/us-state-starter.json",
+        "anchor": "US-IN-CHOICE-IC20-51"
+      }
+    ],
+    "notes": "Category E concerns documented program purpose, not a claim that every actor supporting the policy had a secular motive."
   }
 ]

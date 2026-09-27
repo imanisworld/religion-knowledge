@@ -862,5 +862,58 @@
     "review_priority": "low",
     "confidence": "high",
     "notes": "Effective July 1, 2025; current codification controls."
+  },
+  {
+    "id": "US-MD-ART27-521-MCGOWAN",
+    "jurisdiction": "United States",
+    "subnational_jurisdiction": "Maryland",
+    "legal_level": "statute",
+    "formal_citation": "Former Md. Ann. Code art. 27, § 521 (Sunday closing law at issue in McGowan v. Maryland)",
+    "subject": "Sunday closing and retail sales",
+    "legal_effect": "The former provision generally prohibited Sunday merchandise sales subject to statutory exceptions.",
+    "classification": "B_historical_religious_origin",
+    "religion_connection": "The U.S. Supreme Court's historical review stated that the original Sunday labor laws were motivated by religious forces, while concluding that the Maryland law's purpose and effect by 1961 had become a secular day of rest and recreation.",
+    "evidence_type": [
+      "judicial",
+      "policy_history"
+    ],
+    "competing_causes": [
+      "By 1961, the stated operative rationale emphasized uniform rest, recreation, and general welfare rather than religious observance."
+    ],
+    "scope_note": "This is a historical-causation record for the former provision litigated in McGowan. It does not classify current Maryland Sunday-sales restrictions.",
+    "status": "superseded",
+    "primary_authority": "Former Md. Ann. Code art. 27, § 521, as described in McGowan v. Maryland, 366 U.S. 420 (1961) — https://www.law.cornell.edu/supremecourt/text/366/420",
+    "explanatory_authority": "McGowan v. Maryland, 366 U.S. 420, 431–449 (1961) — https://supreme.justia.com/cases/federal/us/366/420/",
+    "last_verified": "2026-09-26",
+    "review_priority": "medium",
+    "confidence": "high",
+    "notes": "Category B records documented religious origin. The same case is explicit that the law's then-current purpose was secular; origin and current rationale are separate fields."
+  },
+  {
+    "id": "US-IN-CHOICE-IC20-51",
+    "jurisdiction": "United States",
+    "subnational_jurisdiction": "Indiana",
+    "legal_level": "statute",
+    "formal_citation": "Indiana Code art. 20-51 (Choice Scholarship Program)",
+    "subject": "K–12 tuition assistance and school choice",
+    "legal_effect": "Provides state-funded Choice Scholarships to eligible Indiana K–12 students to offset tuition at participating schools that satisfy program requirements.",
+    "classification": "E_principally_secular_purpose",
+    "religion_connection": "Religiously affiliated schools may participate and the program was challenged under Indiana's religion clauses, but eligibility is not limited to religious schools. The Indiana Supreme Court described the direct benefit as expanded educational options for families and identified that as a valid secular purpose.",
+    "evidence_type": [
+      "textual",
+      "judicial",
+      "policy_history"
+    ],
+    "competing_causes": [
+      "Religious-school participation created church-state litigation, but religion is not the program's eligibility basis or stated educational purpose."
+    ],
+    "scope_note": "Category E describes the documented program purpose; it does not imply that religious organizations played no role in school-choice advocacy.",
+    "status": "in_force",
+    "primary_authority": "Indiana Department of Education, Choice Scholarship Program (authorized under IC 20-51-1 and IC 20-51-4) — https://www.in.gov/doe/students/indiana-choice-scholarship-program/",
+    "explanatory_authority": "Meredith v. Pence, 984 N.E.2d 1213 (Ind. 2013) — https://public.courts.in.gov/Decisions/api/Document/Opinion?Id=J05Ps3rV8U8J5E21jpQdtFtZSesxhcvjxGMBDHpC6068_qeh1SUJ_1q8NJaE72_C0",
+    "last_verified": "2026-09-26",
+    "review_priority": "medium",
+    "confidence": "high",
+    "notes": "Current IDOE materials describe the program as expanding access to educational opportunities; Meredith held religious-school benefits ancillary to family educational choice."
   }
 ]
