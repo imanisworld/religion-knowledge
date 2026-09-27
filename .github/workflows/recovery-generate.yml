@@ -1,0 +1,47 @@
+name: Recovery branch generator
+
+on:
+  push:
+    branches:
+      - research/recover-genesis-exodus-v2-20260927
+
+permissions:
+  contents: write
+
+jobs:
+  regenerate:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Checkout recovery branch
+        uses: actions/checkout@v4
+        with:
+          ref: research/recover-genesis-exodus-v2-20260927
+          fetch-depth: 0
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+      - name: Install dependencies
+        run: npm ci
+      - name: Regenerate committed readers
+        run: npm run build:readers -- --output .
+      - name: Regenerate search index
+        run: npm run build:search-index
+      - name: Regenerate normalized records
+        run: npm run generate-records
+      - name: Regenerate standalone bundle
+        run: npm run build:standalone
+      - name: Commit generated outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add field-guide.html search-index.json data/normalized/generated
+          if git diff --cached --quiet; then
+            echo "No generated changes."
+            exit 0
+          fi
+          git commit -m "build: regenerate recovered research outputs"
+          git push origin HEAD:research/recover-genesis-exodus-v2-20260927
