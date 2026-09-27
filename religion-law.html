@@ -125,8 +125,8 @@ function classCode(value){const m=String(value||'').match(/^([A-E])(?:_|$)/);ret
 function statusKey(value){
   const s=String(value||'').toLowerCase();
   if(s.includes('unenforceable'))return'unenforceable';
-  if(s.includes('repealed')||s.includes('historical')||s.includes('no longer'))return'historical';
-  if(s.includes('limited')||s.includes('superseded'))return'limited';
+  if(s.includes('repealed')||s.includes('historical')||s.includes('no longer')||s.includes('superseded'))return'historical';
+  if(s.includes('limited'))return'limited';
   if(s.includes('in_force')||s.includes('in force')||s==='enforceable')return'in-force';
   return'other';
 }
