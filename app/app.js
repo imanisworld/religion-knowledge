@@ -136,6 +136,9 @@
   }
 
   function saveResumeState() {
+    // Home is a destination, not useful resume state. Preserve the last
+    // meaningful record/view instead of replacing it with "Home".
+    if (!openRecordId && state.view === 'home') return;
     try {
       const record = openRecordId ? baseRecords.find((r) => r.id === openRecordId) : null;
       const active = document.querySelector(`#view-${state.view}`);
@@ -395,7 +398,11 @@
     const lead = $('home-lead');
     if (!lead) return;
     const resume = loadResumeState();
-    if (resume && resume.hash && resume.hash !== '#/home') {
+    const meaningfulResume = resume
+      && resume.hash
+      && resume.hash !== '#/home'
+      && !(resume.view === 'search' && !resume.hash.includes('?'));
+    if (meaningfulResume) {
       const title = resume.recordTitle || resume.viewTitle || 'Where you left off';
       const context = resume.recordTitle ? `Record · ${resume.viewTitle || 'Home'}` : (resume.viewTitle || '');
       lead.innerHTML = `
@@ -578,6 +585,7 @@
 
   function showView(name, options = {}) {
     state.view = name;
+    if (name === 'home') renderHomeLead();
     views.forEach((view) => view.classList.toggle('active', view.id === `view-${name}`));
     navItems.forEach((item) => item.classList.toggle('active', item.dataset.view === name));
     const moreButton = $('nav-more');
@@ -818,7 +826,7 @@
 
   $('theme-toggle').addEventListener('click', () => {
     const root = document.documentElement;
-    const current = root.dataset.theme || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    const current = root.dataset.theme || 'light';
     root.dataset.theme = current === 'dark' ? 'light' : 'dark';
     try { localStorage.setItem('religion-knowledge-theme', root.dataset.theme); } catch {}
   });
@@ -840,6 +848,15 @@
     const saved = localStorage.getItem('religion-knowledge-theme');
     if (saved) document.documentElement.dataset.theme = saved;
   } catch {}
+
+  // Desktop navigation owns its scroll region. Wheel/trackpad input over the
+  // rail never falls through and moves the research pane underneath it.
+  const desktopNav = document.querySelector('.side-nav');
+  desktopNav?.addEventListener('wheel', (event) => {
+    if (!matchMedia('(min-width: 1024px)').matches || event.ctrlKey || !event.deltaY) return;
+    desktopNav.scrollTop += event.deltaY;
+    event.preventDefault();
+  }, { passive: false });
 
   // The standalone single-file build has no sibling index.html to link back
   // to — it is the whole app in one file — so hide the readers link there.

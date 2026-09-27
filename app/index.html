@@ -1,10 +1,11 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta name="theme-color" content="#211A1C">
+  <meta name="theme-color" content="#F4F2F1">
   <title>Religion Knowledge</title>
+  <script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light";var __m=document.querySelector('meta[name="theme-color"]');if(__m)__m.content=document.documentElement.dataset.theme==="dark"?"#141012":"#F4F2F1"}catch(e){document.documentElement.dataset.theme="light"}</script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
@@ -13,15 +14,18 @@
 <body>
   <div class="app-shell">
     <nav class="side-nav" aria-label="Primary navigation">
+      <p class="side-nav-label" aria-hidden="true">Explore</p>
       <button class="nav-item side-item" type="button" data-view="home"><span><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m3 10.5 9-7.5 9 7.5"/><path d="M5 9.5V21h14V9.5"/></svg></span><small>Home</small></button>
       <button class="nav-item side-item" type="button" data-view="thoughts"><span><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17 3a2.8 2.8 0 0 1 4 4L8 20l-5 1 1-5Z"/></svg></span><small>My Thoughts</small></button>
       <button class="nav-item side-item" type="button" data-view="topics"><span><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg></span><small>Topics</small></button>
       <button class="nav-item side-item" type="button" data-view="questions"><span><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M9.3 9.2a2.8 2.8 0 0 1 5.4.9c0 1.8-2.7 2.2-2.7 4"/><path d="M12 17.5h.01"/></svg></span><small>Questions</small></button>
       <button class="nav-item side-item" type="button" data-view="sources"><span><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4.5A2.5 2.5 0 0 1 6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5Z"/><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/></svg></span><small>Sources</small></button>
+      <p class="side-nav-label" aria-hidden="true">Analyze</p>
       <button class="nav-item side-item" type="button" data-view="ai"><span><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m12 3 1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9Z"/><path d="m18.5 15.5.8 2.2 2.2.8-2.2.8-.8 2.2-.8-2.2-2.2-.8 2.2-.8Z"/></svg></span><small>AI Analysis</small></button>
       <button class="nav-item side-item" type="button" data-view="audits"><span><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="m8.5 12.5 2.5 2.5 4.8-5.3"/></svg></span><small>Audits</small></button>
       <button class="nav-item side-item" type="button" data-view="compare"><span><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 3 4 7l4 4"/><path d="M4 7h16"/><path d="m16 21 4-4-4-4"/><path d="M20 17H4"/></svg></span><small>Compare</small></button>
       <button class="nav-item side-item" type="button" data-view="positions"><span><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m12 3 7 9-7 9-7-9Z"/></svg></span><small>Position History</small></button>
+      <p class="side-nav-label" aria-hidden="true">Workflow</p>
       <button class="nav-item side-item" type="button" data-view="review"><span><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7.5V13"/><path d="M12 16.5h.01"/></svg></span><small>Review Queue</small></button>
     </nav>
     <header class="topbar">
@@ -36,7 +40,7 @@
     <section class="search-strip" aria-label="Search and filters">
       <label class="search-box">
         <span aria-hidden="true">⌕</span>
-        <input id="search-input" type="search" placeholder="Search notes, topics, sources…" autocomplete="off">
+        <input id="search-input" type="search" placeholder="Search records, topics, questions, sources…" autocomplete="off">
       </label>
       <button id="filter-button" class="filter-button" type="button" aria-expanded="false">Filters<span id="filter-count" class="filter-count" aria-hidden="true"></span></button>
     </section>
@@ -84,7 +88,6 @@
     <main id="main-content" tabindex="-1">
       <section id="view-home" class="view active" data-title="Home">
         <div id="home-lead"></div>
-        <div id="stats-grid" class="stats-grid" aria-label="Knowledge base summary"></div>
         <section class="section-block">
           <div class="section-heading"><h2>What am I studying?</h2><button class="text-button" type="button" data-go="topics">All topics</button></div>
           <div id="home-topics" class="topic-chip-row"></div>
@@ -99,6 +102,7 @@
           <div id="home-review-list" class="card-list"></div>
         </section>
         <section class="section-block"><div class="section-heading"><h2>Recent records</h2></div><div id="recent-list" class="card-list"></div></section>
+        <section class="section-block section-summary"><div class="section-heading"><h2>At a glance</h2></div><div id="stats-grid" class="stats-grid" aria-label="Knowledge base summary"></div></section>
       </section>
 
       <section id="view-thoughts" class="view" data-title="My Thoughts"><div class="section-heading stacked"><div><p class="eyebrow">Your words only</p><h2>My Thoughts</h2></div><p class="muted">AI commentary is excluded unless it is opened through a related record.</p></div><div id="thoughts-list" class="card-list"></div></section>
