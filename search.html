@@ -115,6 +115,32 @@ mark{background:#FEF9C3;color:var(--ink);border-radius:2px;padding:0 1px}
   .topaction,#library summary,#themebtn{font-size:.58rem;padding:.4rem .48rem}
   main{padding:1.6rem 1rem 5rem}
 }
+
+/* ---------- visual refresh ---------- */
+:root{--ground:#F5F1F0;--paper:#FFFDFC;--ink:#241B1E;--ink2:#62565A;--ink3:#807277;--rule:#DDD2D5;--accent:#8B3A4A;--accent-soft:#F4E7EA}
+body{line-height:1.65}
+#topbar{background:#21181B;padding:.9rem 1.6rem}
+#topbar .brand{color:#FAF5F6;font-size:1.08rem}
+.topaction,#library summary,#themebtn{color:#B8A9AE;border-color:#47363C;border-radius:8px;padding:.48rem .65rem}
+.topaction:hover,#library summary:hover,#themebtn:hover,.topaction:focus-visible,#library summary:focus-visible,#themebtn:focus-visible{color:#fff;border-color:#8B5965;background:rgba(139,58,74,.12)}
+#library-menu{background:#21181B;border-color:#47363C;border-radius:10px}
+#library-menu a{color:#D5C8CC;border-radius:7px}
+#library-menu a:hover,#library-menu a:focus-visible{background:#3A2028}
+#searchband{background:rgba(245,241,240,.96);padding:1.15rem 1.5rem .8rem}
+#q{border-radius:10px;padding-top:.85rem;padding-bottom:.85rem}
+#q:focus{box-shadow:0 0 0 3px rgba(139,58,74,.14)}
+.fchip{border-radius:999px}
+main{max-width:800px;padding-top:2.35rem}
+.rcard{padding:1.15rem .15rem}
+.kbhint kbd{border-radius:5px}
+:root[data-theme=dark]{--ground:#120E10;--paper:#1C1518;--ink:#F7F2F3;--ink2:#C4B7BB;--ink3:#978A8F;--rule:#382B30;--accent:#D8899A;--accent-soft:#3A2028}
+:root[data-theme=dark] #topbar{background:#100C0E}
+:root[data-theme=dark] #searchband{background:rgba(18,14,16,.95)}
+@media(prefers-color-scheme:dark){
+:root:not([data-theme=light]){--ground:#120E10;--paper:#1C1518;--ink:#F7F2F3;--ink2:#C4B7BB;--ink3:#978A8F;--rule:#382B30;--accent:#D8899A;--accent-soft:#3A2028}
+:root:not([data-theme=light]) #topbar{background:#100C0E}
+:root:not([data-theme=light]) #searchband{background:rgba(18,14,16,.95)}
+}
 </style><script>try{var __t=localStorage.getItem("religion-knowledge-theme");if(__t)document.documentElement.dataset.theme=__t}catch(e){}</script></head><body>
 
 <div id="topbar">
