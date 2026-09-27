@@ -70,19 +70,19 @@ a:focus-visible,button:focus-visible{outline:3px solid color-mix(in srgb,var(--a
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 </style>
+<link rel="stylesheet" href="site-shell.css">
 </head>
-<body>
-<header class="sitebar">
-  <div class="sitebar-inner">
-    <nav class="site-links" aria-label="Religion Knowledge navigation">
+<body class="rk-with-sitebar rk-personal-page">
+<header class="rk-sitebar">
+  <div class="rk-sitebar-inner">
+    <a class="rk-brand" href="index.html">Religion Knowledge<small>Personal record</small></a>
+    <nav class="rk-global-nav" aria-label="Site navigation">
       <a href="index.html">Library</a>
-      <a href="app/">App</a>
       <a href="search.html">Search</a>
       <a href="religion-law.html">Religion &amp; Law</a>
-      <a href="method-reference.html">Method</a>
-      <a href="master-notes.html">Study Notes</a>
+      <a href="app/">App</a>
     </nav>
-    <button id="themebtn" type="button" aria-label="Toggle dark mode">Theme</button>
+    <button id="themebtn" class="rk-site-control" type="button" aria-label="Toggle dark mode">Theme</button>
   </div>
 </header>
 <main>
