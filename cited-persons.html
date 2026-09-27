@@ -1090,10 +1090,10 @@ hr+*{margin-top:0}
 const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
 
 /* keep wheel/trackpad scrolling inside the navigation rail */
-const rail=$('#rail'), railToc=$('#toc');
-if(rail&&railToc) rail.addEventListener('wheel',e=>{
+const scrollRail=$('#rail'), scrollToc=$('#toc');
+if(scrollRail&&scrollToc) scrollRail.addEventListener('wheel',e=>{
   if(e.ctrlKey||!e.deltaY)return;
-  railToc.scrollTop+=e.deltaY;
+  scrollToc.scrollTop+=e.deltaY;
   e.preventDefault();
 },{passive:false});
 
