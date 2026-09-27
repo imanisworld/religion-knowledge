@@ -34,11 +34,21 @@
   let inspectorOrigin = null;
 
   function claimDate(claim) {
-    const raw = claim?.date;
+    const entity = claim?.subject_id ? entityMap.get(claim.subject_id) : null;
+    // Some entity-scoped claims intentionally keep claim.date null because the
+    // period belongs to the entity itself. KnowledgeState is the first live
+    // example. This is a presentation fallback only; canonical claim data stays
+    // unchanged and the inspector labels the period as entity-scoped.
+    const raw = claim?.date || (entity?._entity_type === 'KnowledgeState' ? entity.period : null);
     if (!raw || !Number.isFinite(raw.earliest)) return null;
     const earliest = raw.earliest;
     const latest = Number.isFinite(raw.latest) ? raw.latest : earliest;
-    return { earliest: Math.min(earliest, latest), latest: Math.max(earliest, latest), precision: raw.precision || 'UNKNOWN' };
+    return {
+      earliest: Math.min(earliest, latest),
+      latest: Math.max(earliest, latest),
+      precision: raw.precision || 'UNKNOWN',
+      inheritedFromEntity: !claim?.date && entity?._entity_type === 'KnowledgeState',
+    };
   }
 
   function nearestZoom(span) {
@@ -340,6 +350,54 @@
     return `<div class="source-card"><cite>${escapeHtml(source.citation || 'Source')}</cite>${meta ? `<div class="source-meta">${escapeHtml(meta)}</div>` : ''}${verification ? `<div class="source-meta">Verification: ${escapeHtml(verification)}</div>` : ''}${source.access_note ? `<p class="muted">${escapeHtml(source.access_note)}</p>` : ''}</div>`;
   }
 
+  function knowledgeStateClaimRows(ids) {
+    if (!Array.isArray(ids)) return [];
+    return ids.map((id) => claims.find((claim) => claim.id === id)).filter(Boolean);
+  }
+
+  function knowledgeStateBucketHtml(title, ids, emptyCopy) {
+    const rows = knowledgeStateClaimRows(ids);
+    const items = rows.length
+      ? rows.map((item) => `<button class="knowledge-item" type="button" data-claim-id="${escapeHtml(item.id)}"><span class="knowledge-tier">${escapeHtml(humanize(item.claim_tier || 'Unknown'))}</span><strong>${escapeHtml(item.statement || item.id)}</strong><small>${escapeHtml(item.confidence || 'UNKNOWN')} confidence</small></button>`).join('')
+      : `<p class="knowledge-empty">${escapeHtml(emptyCopy)}</p>`;
+    return `<section class="knowledge-bucket"><h4>${escapeHtml(title)}</h4>${items}</section>`;
+  }
+
+  function knowledgeStatePanelHtml(claim) {
+    if (claim?.subject_type !== 'KnowledgeState') return '';
+    const entity = entityMap.get(claim.subject_id);
+    if (!entity || entity._entity_type !== 'KnowledgeState') return '';
+
+    const culture = entity.culture_id ? entityMap.get(entity.culture_id) : null;
+    const period = entity.period && Number.isFinite(entity.period.earliest)
+      ? formatRange({
+          earliest: entity.period.earliest,
+          latest: Number.isFinite(entity.period.latest) ? entity.period.latest : entity.period.earliest,
+          precision: entity.period.precision || 'UNKNOWN',
+        })
+      : 'Period not specified';
+
+    return `
+      <section class="detail-section knowledge-state-panel" aria-labelledby="knowledge-state-heading">
+        <div class="knowledge-heading">
+          <div>
+            <p class="eyebrow">Knowledge state</p>
+            <h3 id="knowledge-state-heading">What did they know?</h3>
+          </div>
+          <span class="status-chip">${escapeHtml(period)}</span>
+        </div>
+        ${culture ? `<p class="knowledge-scope"><strong>Scope:</strong> ${escapeHtml(culture.name || entity.culture_id)}. This is a documented slice of surviving evidence, not a claim about every person in the culture.</p>` : ''}
+        <div class="knowledge-grid">
+          ${knowledgeStateBucketHtml('Documented knowledge', entity.known_claim_ids, 'No sufficiently sourced knowledge claim has been added to this bucket yet.')}
+          ${knowledgeStateBucketHtml('Documented limits / unknowns', entity.unknown_claim_ids, 'No atomic unknown-state claim has been added. This does not mean there were no limits to knowledge.')}
+          ${knowledgeStateBucketHtml('Natural / observational explanations', entity.natural_explanation_claim_ids, 'No sufficiently sourced claim has been added to this bucket yet.')}
+          ${knowledgeStateBucketHtml('Supernatural / sacred explanations', entity.supernatural_explanation_claim_ids, 'No sufficiently sourced claim has been added to this bucket yet.')}
+        </div>
+        ${entity.methodology_note ? `<div class="knowledge-method"><strong>How to read this panel</strong><p>${escapeHtml(entity.methodology_note)}</p></div>` : ''}
+        ${entity.notes ? `<p class="muted knowledge-note">${escapeHtml(entity.notes)}</p>` : ''}
+      </section>`;
+  }
+
   function openInspector(id, { push = true, origin = document.activeElement } = {}) {
     const claim = claims.find((item) => item.id === id);
     if (!claim) return;
@@ -353,12 +411,13 @@
     const sources = Array.isArray(claim.sources) ? claim.sources : [];
     $('inspector-body').innerHTML = `
       <div class="detail-grid">
-        <div class="detail-card"><span>Date</span><strong>${escapeHtml(formatRange(date))}</strong><small>${escapeHtml(date?.precision || 'Unknown precision')}</small></div>
+        <div class="detail-card"><span>Date</span><strong>${escapeHtml(formatRange(date))}</strong><small>${escapeHtml(date?.precision || 'Unknown precision')}${date?.inheritedFromEntity ? ' · entity-scoped period' : ''}</small></div>
         <div class="detail-card"><span>Confidence</span><strong>${escapeHtml(claim.confidence || 'UNKNOWN')}</strong></div>
         <div class="detail-card"><span>Claim tier</span><strong>${escapeHtml(humanize(claim.claim_tier || 'Unknown'))}</strong></div>
         <div class="detail-card"><span>Date semantics</span><strong>${escapeHtml(humanize(claim.date_semantics || 'Unknown'))}</strong></div>
       </div>
       <section class="detail-section"><h3>What the claim says</h3><p>${escapeHtml(claim.statement || '')}</p><span class="status-chip">${escapeHtml(claim.status || 'unknown')}</span><span class="status-chip">${escapeHtml((claim.region || []).join(' · ') || 'Region unknown')}</span>${(claim.evidence_types || []).map((type) => `<span class="status-chip">${escapeHtml(humanize(type))}</span>`).join('')}</section>
+      ${knowledgeStatePanelHtml(claim)}
       ${claim.scholarly_disagreement ? `<section class="detail-section"><h3>Scholarly disagreement</h3><p>${escapeHtml(String(claim.scholarly_disagreement))}</p></section>` : ''}
       ${interpretations.length ? `<section class="detail-section"><h3>Interpretations</h3>${interpretations.map((item) => `<div class="source-card"><strong>${escapeHtml(item.position || 'Interpretation')}</strong>${item.strongest_case ? `<p>${escapeHtml(item.strongest_case)}</p>` : ''}${item.status ? `<div class="source-meta">${escapeHtml(item.status)}</div>` : ''}</div>`).join('')}</section>` : ''}
       ${limits.length ? `<section class="detail-section"><h3>What this does not demonstrate</h3><ul>${limits.map((item) => `<li>${escapeHtml(item)}</li>`).join('')}</ul></section>` : ''}

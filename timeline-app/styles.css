@@ -139,3 +139,30 @@ main{min-width:0}.section-heading{margin:18px 0 10px}.section-heading p{margin:0
 
 .lane-absence.filtered{background:var(--accent-soft);color:var(--text);border-style:solid;gap:.5rem;flex-wrap:wrap}
 .inline-reset{display:inline-flex;align-items:center;justify-content:center;min-height:36px;padding:.3rem .55rem;border:1px solid var(--accent);border-radius:8px;background:var(--panel);color:var(--accent);font-weight:700;font-size:.72rem}
+
+/* Phase 6 — KnowledgeState "What did they know?" panel */
+.knowledge-state-panel{background:color-mix(in srgb,var(--accent-soft) 42%,transparent);margin:0 -.45rem;padding:1rem .45rem;border-radius:12px}
+.knowledge-heading{display:flex;align-items:flex-end;justify-content:space-between;gap:1rem;margin-bottom:.7rem}
+.knowledge-heading h3{margin:.05rem 0 0}
+.knowledge-scope{margin:.3rem 0 .9rem;line-height:1.55}
+.knowledge-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.7rem}
+.knowledge-bucket{border:1px solid var(--line);border-radius:11px;background:var(--panel);padding:.7rem}
+.knowledge-bucket h4{font-family:var(--f-display);font-size:1rem;margin:0 0 .5rem}
+.knowledge-item{display:grid;width:100%;gap:.2rem;text-align:left;border:1px solid var(--line);background:var(--panel-2);border-radius:9px;padding:.65rem;margin-top:.42rem}
+.knowledge-item:first-of-type{margin-top:0}
+.knowledge-item strong{font-size:.82rem;line-height:1.42;font-weight:600}
+.knowledge-item small{color:var(--subtle);font-family:var(--f-mono);font-size:.61rem}
+.knowledge-tier{font-family:var(--f-mono);font-size:.58rem;text-transform:uppercase;letter-spacing:.07em;color:var(--accent)}
+.knowledge-empty{margin:0;color:var(--subtle);font-size:.77rem;line-height:1.45;border:1px dashed var(--line);border-radius:8px;padding:.6rem}
+.knowledge-method{margin-top:.8rem;border-left:3px solid var(--accent);padding:.65rem .75rem;background:var(--panel)}
+.knowledge-method strong{font-size:.78rem}
+.knowledge-method p{margin:.25rem 0 0;font-size:.78rem;line-height:1.5}
+.knowledge-note{font-size:.76rem;margin:.7rem 0 0!important}
+.claim-mark[data-layer="KnowledgeState"]{color:#356B68}
+:root[data-theme="dark"] .claim-mark[data-layer="KnowledgeState"]{color:#8FD1C8}
+
+@media(max-width:760px){
+  .knowledge-grid{grid-template-columns:1fr}
+  .knowledge-heading{align-items:flex-start;flex-direction:column;gap:.35rem}
+}
+
