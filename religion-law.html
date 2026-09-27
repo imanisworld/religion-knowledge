@@ -66,9 +66,9 @@ const $=s=>document.querySelector(s);
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 function inline(s){
   let x=esc(s);
-  x=x.replace(/**([^*]+)**/g,'<strong>$1</strong>');
+  x=x.replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>');
   x=x.replace(/\`([^\`]+)\`/g,'<code>$1</code>');
-  x=x.replace(/*([^*]+)*/g,'<em>$1</em>');
+  x=x.replace(/\*([^*]+)\*/g,'<em>$1</em>');
   x=x.replace(/(https?:\/\/[^\s<]+)/g,'<a href="$1" target="_blank" rel="noopener">$1</a>');
   return x;
 }
