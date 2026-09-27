@@ -10,6 +10,15 @@
 - Légifrance — https://www.legifrance.gouv.fr/
 - EUR-Lex — https://eur-lex.europa.eu/
 
+## U.S. state primary-source portals used in the 50-state module
+
+- Alabama Legislature — Constitution of Alabama 2022 portal: https://alison.legislature.state.al.us/constitution
+- Alaska Legislature — Constitution of the State of Alaska: https://akleg.gov/docs/pdf/AK_Const_layout.pdf
+- Arizona Legislature — State Constitution: https://www.azleg.gov/constitution/
+- Arizona Legislature — Revised Statutes: https://www.azleg.gov/arstitle/
+- California Legislature — Constitution and Codes: https://leginfo.legislature.ca.gov/
+- California Assembly Chief Clerk — Constitution publications: https://clerk.assembly.ca.gov/legislative-information/constitution-codes
+
 ## Comparative research hubs
 
 - NYU Globalex, Religious Legal Systems in Comparative Law — https://www.nyulawglobal.org/globalex/religious_legal_systems1.html
