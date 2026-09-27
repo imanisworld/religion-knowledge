@@ -269,6 +269,59 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
 @media(max-width:720px){
   .section-head{grid-template-columns:1fr;gap:.35rem;margin-top:2.35rem}
 }
+
+/* ---------- editorial landing: fewer cards, more hierarchy ---------- */
+:root{
+  --info:#486A8D;
+  --verified:#47654F;
+  --pending:#A8681B;
+}
+.app-card{
+  color:var(--ink);
+  background:color-mix(in srgb,var(--paper) 88%,var(--accent-soft));
+  border:0;
+  border-top:1px solid var(--rule);
+  border-bottom:1px solid var(--rule);
+  border-left:4px solid var(--accent);
+  border-radius:0;
+  box-shadow:none;
+}
+.app-card p{color:var(--ink2)}
+.app-card:hover{transform:none;box-shadow:none;background:var(--paper)}
+.grid{
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:0 2.4rem;
+  border-bottom:1px solid var(--rule);
+}
+.card{
+  min-height:0;
+  padding:1.15rem 2.3rem 1.15rem 0;
+  border:0;
+  border-top:1px solid var(--rule);
+  border-radius:0;
+  background:transparent;
+  box-shadow:none;
+}
+.card:hover{
+  transform:none;
+  border-color:var(--rule);
+  background:transparent;
+  box-shadow:none;
+}
+.card:hover h2,.card:focus-visible h2{color:var(--accent)}
+.card::after{right:0;top:1.2rem}
+.research-head .section-label{color:var(--accent)}
+.discovery-head .section-label{color:var(--info)}
+.personal-head .section-label{color:var(--verified)}
+:root[data-theme=dark]{
+  --info:#91AED0;
+  --verified:#8FB89B;
+  --pending:#D8B56E;
+}
+@media(max-width:620px){
+  .grid{grid-template-columns:1fr}
+  .app-card{padding:1.35rem 1rem}
+}
 </style>
 <link rel="stylesheet" href="site-shell.css">
 <script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script>
@@ -295,19 +348,19 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
     <h2>Explore the structured app</h2>
     <p>Best for cross-document browsing: records, topics, questions, audits, provenance, and the review queue.</p>
   </a>
-  <div class="section-head">
+  <div class="section-head research-head">
     <div><p class="section-label">Research library</p><h2>Browse by research area</h2></div>
     <p>Focused readers keep each line of research readable without flattening the whole project into one feed.</p>
   </div>
   <div class="grid">${researchCards}
   </div>
-  <div class="section-head">
+  <div class="section-head discovery-head">
     <div><p class="section-label">Discovery</p><h2>Find something specific</h2></div>
     <p>Search across readers, cited persons, and the Religion &amp; Law research set.</p>
   </div>
   <div class="grid compact-grid">${discoveryCards}
   </div>
-  <div class="section-head">
+  <div class="section-head personal-head">
     <div><p class="section-label">Personal record</p><h2>Belief history</h2></div>
     <p>A separate reconstruction of what you remember believing at different stages, with unknowns preserved.</p>
   </div>
