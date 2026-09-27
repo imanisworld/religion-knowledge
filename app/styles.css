@@ -70,6 +70,27 @@ button { color: inherit; }
   padding: 10px 2px 6px;
 }
 
+.app-global-links {
+  display: none;
+  align-items: center;
+  gap: 4px;
+  margin-left: auto;
+}
+.app-global-links a {
+  padding: 8px 10px;
+  border-radius: 10px;
+  color: var(--muted);
+  text-decoration: none;
+  font-size: .76rem;
+  font-weight: 700;
+}
+.app-global-links a:hover,
+.app-global-links a:focus-visible {
+  background: var(--accent-soft);
+  color: var(--accent);
+  outline: none;
+}
+
 .eyebrow {
   margin: 0 0 4px;
   color: var(--subtle);
@@ -561,6 +582,7 @@ button.stat-card:focus-visible::after { opacity: 1; }
 
 @media (min-width: 720px) {
   .app-shell { padding-left: 24px; padding-right: 24px; }
+  .app-global-links { display: flex; }
   .stats-grid { grid-template-columns: repeat(4, minmax(0,1fr)); }
   .topic-grid { grid-template-columns: repeat(3, minmax(0,1fr)); }
   .filter-panel { grid-template-columns: 1fr 1fr auto; align-items: end; }
