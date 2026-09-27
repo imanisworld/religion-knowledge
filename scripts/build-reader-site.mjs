@@ -11,6 +11,7 @@ const READERS = [
   ['translations.html', 'Translations', 'Translation history and the choices behind disputed renderings.'],
   ['method-reference.html', 'Method & Reference', 'Survey method, open audit queue, reading timeline.'],
   ['glossary.html', 'Glossary', 'Terms and definitions used across the study.'],
+  ['religion-law.html', 'Religion & Law', 'U.S. and comparative law research separating legal text, historical influence, current rationale, and enforceability.'],
   ['personal-belief-history.html', 'Personal Belief History', 'A reconstruction log for what I actually believed at different stages, with unknowns preserved.'],
   ['search.html', 'Search', 'Search across all research documents and cited persons by name, topic, or scholar.'],
 ];
@@ -40,6 +41,10 @@ const MISC_FILES = [
   'cited-persons.html',
 ];
 
+const RESEARCH_DIRS = [
+  'research/religion-law',
+];
+
 const CANONICAL_SOURCES = [
   'Bible_Deep_Dive_Master_Notes.md',
   'Field_Guide_Conversation_Reference.md',
@@ -51,6 +56,25 @@ const CANONICAL_SOURCES = [
   'Translations.md',
   'Personal_Belief_History.md',
 ];
+
+function copyDirectory(source, target) {
+  fs.mkdirSync(target, { recursive: true });
+  for (const entry of fs.readdirSync(source, { withFileTypes: true })) {
+    const from = path.join(source, entry.name);
+    const to = path.join(target, entry.name);
+    if (entry.isDirectory()) copyDirectory(from, to);
+    else fs.copyFileSync(from, to);
+  }
+}
+
+function countFiles(dir) {
+  let count = 0;
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const item = path.join(dir, entry.name);
+    count += entry.isDirectory() ? countFiles(item) : 1;
+  }
+  return count;
+}
 
 function parseArgs(argv) {
   const args = { output: 'dist/reader-site' };
@@ -251,6 +275,9 @@ const allFiles = [
 for (const file of allFiles) {
   if (!fs.existsSync(file)) throw new Error(`Deploy input missing: ${file}`);
 }
+for (const dir of RESEARCH_DIRS) {
+  if (!fs.existsSync(dir)) throw new Error(`Deploy research directory missing: ${dir}`);
+}
 
 fs.rmSync(output, { recursive: true, force: true });
 fs.mkdirSync(output, { recursive: true });
@@ -259,6 +286,9 @@ for (const file of allFiles) {
   const target = path.join(output, file);
   fs.mkdirSync(path.dirname(target), { recursive: true });
   fs.copyFileSync(file, target);
+}
+for (const dir of RESEARCH_DIRS) {
+  copyDirectory(dir, path.join(output, dir));
 }
 
 // app/index.html now owns the light-first theme bootstrap so local,
@@ -277,6 +307,8 @@ console.log(`READER_SITE_BUILD_SUMMARY=${JSON.stringify({
   app_files: APP_FILES.length,
   data_files: DATA_FILES.length + generatedFiles.length,
   canonical_sources: CANONICAL_SOURCES.length,
+  research_dirs: RESEARCH_DIRS.length,
+  research_files: RESEARCH_DIRS.reduce((total, dir) => total + countFiles(dir), 0),
   search_entries: searchIndex.length,
-  total_files: allFiles.length + 2,
+  total_files: allFiles.length + RESEARCH_DIRS.reduce((total, dir) => total + countFiles(dir), 0) + 2,
 })}`);

@@ -1,0 +1,75 @@
+{
+  "jurisdiction": "US-MD",
+  "jurisdiction_name": "Maryland, United States",
+  "jurisdiction_type": "us-state",
+  "profile_version": "1.0.0",
+  "last_verified": "2026-09-26",
+  "overall_confidence": "high",
+  "notes": "Maryland is historically significant as the site of the first religious-freedom experiment in the American colonies (Act Concerning Religion, 1649) and as the source of the last major Supreme Court invalidation of a state religious-test oath for public office.",
+
+  "constitutional_provisions": [
+    {
+      "id": "md-const-decl-rights-36",
+      "instrument": "Maryland Declaration of Rights",
+      "article": "Article 36",
+      "current_text": "That as it is the duty of every man to worship God in such manner as he thinks most acceptable to Him, all persons are equally entitled to protection in their religious liberty; wherefore, no person ought by any law to be molested in his person or estate, on account of his religious persuasion, or profession, or for his religious practice, unless, under the colour of religion, he shall disturb the good order, peace or safety of the State, or shall infringe the rights of others, or unless it be to contribute to the support of any place of worship or ministry, whose expenses he has contracted.",
+      "category": "D",
+      "category_note": "Religion-limiting rule protecting free exercise.",
+      "enforceability": "enforceable",
+      "source": "Maryland Constitution, Declaration of Rights, Art. 36 (current text)",
+      "confidence": "high"
+    },
+    {
+      "id": "md-const-decl-rights-37",
+      "instrument": "Maryland Declaration of Rights",
+      "article": "Article 37",
+      "current_text": "That no religious test ought ever to be required as a qualification for any office of profit or trust in this State, other than a declaration of belief in the existence of God; nor shall the Legislature prescribe any other oath of office than the oath prescribed by this Constitution.",
+      "category": "A",
+      "category_note": "Explicit religious requirement: belief in God required for office. This text remains in the Maryland Constitution but is unenforceable under federal constitutional law.",
+      "enforceability": "unenforceable — superseded by federal constitutional law",
+      "superseded_by": "Torcaso v. Watkins, 367 U.S. 488 (1961); U.S. Const. art. VI, cl. 3 (No Religious Test Clause)",
+      "source": "Maryland Constitution, Declaration of Rights, Art. 37 (current text)",
+      "confidence": "high",
+      "research_note": "The text has never been formally repealed or amended out of the Maryland Constitution; it simply cannot be enforced."
+    }
+  ],
+
+  "landmark_cases": [
+    {
+      "id": "md-case-torcaso-1961",
+      "case": "Torcaso v. Watkins",
+      "citation": "367 U.S. 488 (1961)",
+      "court": "Supreme Court of the United States",
+      "year": 1961,
+      "facts": "Roy Torcaso was appointed a notary public in Maryland but refused to declare his belief in God as required by Art. 37 of the Maryland Declaration of Rights. He was denied his commission.",
+      "holding": "The Supreme Court unanimously held that Maryland's requirement of a declaration of belief in God as a condition of holding public office unconstitutionally invaded freedom of belief and religion and could not be enforced against Torcaso.",
+      "constitutional_basis": "First and Fourteenth Amendments to the U.S. Constitution; U.S. Const. art. VI, cl. 3",
+      "significance": "Definitively established that no government — federal or state — may condition public office on religious belief or disbelief. The Court explicitly protected not only theistic belief but also non-theistic and atheistic positions.",
+      "current_effect": "Maryland Art. 37 remains textually in the state constitution but is a legal nullity.",
+      "confidence": "high",
+      "source": "367 U.S. 488 (1961), full text available via Justia and Library of Congress"
+    }
+  ],
+
+  "historical_provisions": [
+    {
+      "id": "md-hist-act-1649",
+      "name": "Maryland Toleration Act (Act Concerning Religion)",
+      "year": 1649,
+      "description": "Enacted by the Maryland General Assembly under the proprietorship of Cecil Calvert, 2nd Baron Baltimore. The act extended toleration to all Christians (including Catholics, who were a minority even in Maryland) while imposing the death penalty for blasphemy against the Trinity. It is frequently cited as a precursor to later American religious-freedom doctrine, though its scope was limited to Trinitarian Christians.",
+      "category": "B",
+      "category_note": "Historical religious origin — the act was explicitly framed in religious terms but also reflected the political interests of the Catholic proprietors.",
+      "enforceability": "no longer in effect — repealed in the colonial period",
+      "confidence": "high",
+      "source": "Maryland State Archives; Patricia Bonomi, Under the Cope of Heaven (1986)"
+    }
+  ],
+
+  "current_statutes": [],
+
+  "research_gaps": [
+    "Maryland has Sunday-closing-law history; current enforceability of any surviving Sunday laws has not been reviewed for this profile.",
+    "Maryland's constitutional conscience clause and its interaction with state anti-discrimination law (e.g., LGBTQ+ accommodation claims) has not been profiled here.",
+    "State RFRA: Maryland does not have a freestanding state RFRA; the scope of state constitutional free-exercise protection under Art. 36 relative to federal RFRA doctrine deserves a dedicated entry."
+  ]
+}

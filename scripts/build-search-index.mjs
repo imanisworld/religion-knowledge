@@ -83,6 +83,60 @@ function extractSections(html, filename, docTitle) {
   return entries;
 }
 
+function stripMarkdown(md) {
+  return md
+    .replace(/^#{1,6}\s+/gm, '')
+    .replace(/^[-*•]\s+/gm, '')
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+    .replace(/\*\*|__|\*|_/g, '')
+    .replace(/`([^`]+)`/g, '$1')
+    .replace(/^---+$/gm, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function extractReligionLaw(baseDir) {
+  const entries = [];
+  const root = path.join(baseDir, 'research', 'religion-law');
+  const statesDir = path.join(root, 'us-states');
+  if (!fs.existsSync(statesDir)) return entries;
+
+  for (const file of fs.readdirSync(statesDir).filter((name) =>
+    name.endsWith('.md') && !['index.md', 'profile-template.md', 'anchor-state-status.md'].includes(name)
+  ).sort()) {
+    const md = fs.readFileSync(path.join(statesDir, file), 'utf8');
+    const title = md.match(/^#\s+(.+)$/m)?.[1]?.trim() || file.replace(/\.md$/, '');
+    entries.push({
+      url: `religion-law.html#state=${file.replace(/\.md$/, '')}`,
+      doc: 'Religion & Law',
+      title,
+      text: stripMarkdown(md).slice(0, 1400),
+      flag: false,
+    });
+  }
+
+  const supportingDocs = [
+    ['methodology.md', 'Methodology', 'methodology'],
+    ['us-constitutional-federal.md', 'U.S. Constitutional & Federal Baseline', 'federal'],
+    ['us-state-law.md', 'U.S. State-Law Module', 'state-module'],
+    ['source-registry.md', 'Religion & Law Source Registry', 'sources'],
+    ['comparative-constitutional-systems.md', 'Comparative Constitutional Systems', 'comparative'],
+  ];
+  for (const [file, title, route] of supportingDocs) {
+    const fullPath = path.join(root, file);
+    if (!fs.existsSync(fullPath)) continue;
+    const md = fs.readFileSync(fullPath, 'utf8');
+    entries.push({
+      url: `religion-law.html#doc=${route}`,
+      doc: 'Religion & Law',
+      title,
+      text: stripMarkdown(md).slice(0, 1400),
+      flag: false,
+    });
+  }
+  return entries;
+}
+
 export function buildSearchIndex(baseDir = '.') {
   const index = [];
   for (const [filename, docTitle] of DOC_META) {
@@ -103,6 +157,7 @@ export function buildSearchIndex(baseDir = '.') {
     index.push(...entries);
     process.stdout.write(`  ${filename}: ${entries.length} entries\n`);
   }
+  index.push(...extractReligionLaw(baseDir));
   return index;
 }
 
