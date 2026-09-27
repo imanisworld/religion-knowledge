@@ -828,5 +828,169 @@
       }
     ],
     "notes": "Tracked set: governor, lieutenant governor, attorney general, House speaker, Senate president, and chief justice."
+  },
+  {
+    "claim_id": "CTX-CTDEMOG-001",
+    "claim_text": "Pew's 2023–24 Religious Landscape Study estimates Connecticut adults as 35% Catholic, 11% mainline Protestant, 6% evangelical Protestant, 4% atheist, 5% agnostic, and 21% nothing in particular, with a ±6.8 percentage-point margin of error for adults in Connecticut.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Pew Research Center, 2023–24 Religious Landscape Study — Connecticut",
+        "locator": "State religious-composition table and margin-of-error note; https://www.pewresearch.org/religious-landscape-study/state/connecticut/"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "These are survey estimates, not census counts. Small differences may fall within the state margin of error, 1% did not answer, and figures may not sum to 100% because of rounding and categories reported as less than 1%.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Connecticut"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=connecticut"
+      }
+    ],
+    "notes": "Population context remains separate from legal-causation coding."
+  },
+  {
+    "claim_id": "CTX-CTPOWER-001",
+    "claim_text": "As of September 27, 2026, only 1 of 6 tracked Connecticut power positions has a publicly documented current religious affiliation in the sources reviewed: Senate President Pro Tempore Martin Looney is Catholic and attends weekly Mass; the other five affiliations remain unknown.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Connecticut Governor — Ned Lamont biography",
+        "locator": "Current governor; no affiliation stated in biography reviewed; https://portal.ct.gov/governor/about/governor-ned-lamont"
+      },
+      {
+        "source": "Connecticut Lieutenant Governor — Susan Bysiewicz biography",
+        "locator": "Current lieutenant governor; no current affiliation stated; https://portal.ct.gov/lt-governor/about/about-the-lt-gov"
+      },
+      {
+        "source": "Connecticut Attorney General — William Tong biography",
+        "locator": "Current attorney general; no affiliation stated; https://portal.ct.gov/AG/About-the-AG/William-Tong-Biography-page"
+      },
+      {
+        "source": "Connecticut General Assembly — House leaders",
+        "locator": "Matt Ritter identified as Speaker; https://www.cga.ct.gov/hco/mem-leaders.asp"
+      },
+      {
+        "source": "Connecticut Secretary of the State — legislative leaders",
+        "locator": "Martin Looney identified as Senate President Pro Tempore; https://portal.ct.gov/en/sots/register-manual/section-ii/biographies---leaders-of-the-ct-general-assembly"
+      },
+      {
+        "source": "Connecticut Mirror — Martin Looney profile",
+        "locator": "Reports Looney and his wife attend weekly Mass and describes him as Catholic; https://ctmirror.org/2026/02/01/how-marty-looney-shapes-ct-politics-patience-and-persistence/"
+      },
+      {
+        "source": "Connecticut Secretary of the State — Judicial Department",
+        "locator": "Raheem L. Mullins identified as Chief Justice; no affiliation stated; https://portal.ct.gov/sots/register-manual/section-v/judicial-department---state-courts"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "Five of six tracked affiliations are unknown. Unknown means no reliable public affiliation was identified in the sources reviewed, not that those officeholders are nonreligious; family or spouse religion is not used as a substitute for the officeholder's own affiliation.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Connecticut"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=connecticut"
+      }
+    ],
+    "notes": "Tracked set: governor, lieutenant governor, attorney general, House speaker, Senate president pro tempore, and chief justice."
+  },
+  {
+    "claim_id": "CTX-DEDEMOG-001",
+    "claim_text": "Pew's 2023–24 Religious Landscape Study estimates Delaware adults as 19% evangelical Protestant, 19% Catholic, 16% mainline Protestant, 15% historically Black Protestant, 3% atheist, 6% agnostic, and 15% nothing in particular, with a ±7.4 percentage-point margin of error for adults in Delaware.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Pew Research Center, 2023–24 Religious Landscape Study — Delaware",
+        "locator": "State religious-composition table and margin-of-error note; https://www.pewresearch.org/religious-landscape-study/state/delaware/"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "These are survey estimates, not census counts. Delaware's state margin of error is relatively large, 1% did not answer, and figures may not sum to 100% because of rounding and categories reported as less than 1%.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Delaware"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=delaware"
+      }
+    ],
+    "notes": "Population context remains separate from legal-causation coding."
+  },
+  {
+    "claim_id": "CTX-DEPOWER-001",
+    "claim_text": "As of September 27, 2026, 2 of 6 tracked Delaware power positions have publicly documented affiliations in the sources reviewed: Governor Matt Meyer is Jewish and Senate President Pro Tempore David Sokola is Christian; the other four affiliations remain unknown, so the religious composition of the full tracked set cannot be determined.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Delaware Governor — Matt Meyer biography",
+        "locator": "Current governor; https://governor.delaware.gov/governor-bio/"
+      },
+      {
+        "source": "Jewish Insider — Matt Meyer interview/profile",
+        "locator": "Meyer discusses growing up in Delaware's Jewish community and pride in his Judaism; https://jewishinsider.com/2024/09/matt-meyer-delaware-gubernatorial-candidate-jewish-governor/"
+      },
+      {
+        "source": "Delaware Lieutenant Governor — Kyle Evans Gay biography",
+        "locator": "Current lieutenant governor; no affiliation stated; https://ltgov.delaware.gov/meet-the-lieutenant-governor/"
+      },
+      {
+        "source": "Delaware Department of Justice — Kathy Jennings biography",
+        "locator": "Current attorney general; no affiliation stated; https://attorneygeneral.delaware.gov/executive/biography/"
+      },
+      {
+        "source": "Delaware General Assembly — Melissa Minor-Brown profile",
+        "locator": "Current Speaker; no affiliation stated; https://legis.delaware.gov/AssemblyMember/152/MinorBrown"
+      },
+      {
+        "source": "Delaware General Assembly — David Sokola profile",
+        "locator": "Current Senate President Pro Tempore; https://www.legis.delaware.gov/AssemblyMember/151/Sokola"
+      },
+      {
+        "source": "Vote Smart — David Sokola biography",
+        "locator": "Religion field lists Christian; https://justfacts.votesmart.org/candidate/biography/5739/david-sokola"
+      },
+      {
+        "source": "Delaware Courts — Supreme Court justices",
+        "locator": "Collins J. Seitz, Jr. identified as Chief Justice; no affiliation stated; https://courts.delaware.gov/supreme/justices.aspx"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "Four of six tracked affiliations are unknown. Ceremonial use of a Bible, a clergy invocation, spouse religion, or education is not treated as sufficient evidence of an officeholder's personal affiliation.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Delaware"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=delaware"
+      }
+    ],
+    "notes": "Tracked set: governor, lieutenant governor, attorney general, House speaker, Senate president pro tempore, and chief justice."
   }
 ]
