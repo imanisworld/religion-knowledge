@@ -83,3 +83,59 @@
   .rk-global-nav a,.rk-site-control{padding:.42rem .5rem;font-size:.7rem}
   .rk-global-nav .rk-hide-phone{display:none}
 }
+
+
+/* ---------- page hierarchy polish ---------- */
+.rk-reader-page .masthead{
+  padding:2.8rem 0 1.8rem;
+  margin-bottom:2rem;
+}
+.rk-reader-page .masthead .lens,
+.rk-reader-page .reader-context,
+.rk-reader-page #rail .docsub,
+.rk-reader-page .docswitch a,
+.rk-reader-page .library summary,
+.rk-reader-page .tbtn{
+  font-family:var(--rk-body);
+  letter-spacing:0;
+  text-transform:none;
+}
+.rk-reader-page .masthead .lens{
+  font-size:.76rem;
+  font-weight:600;
+  margin-bottom:1rem;
+}
+.rk-reader-page .reader-context{
+  font-size:.72rem;
+  letter-spacing:0;
+  margin-bottom:1rem;
+}
+.rk-reader-page #rail .docsub{
+  font-size:.7rem;
+  line-height:1.35;
+  color:#9E9095;
+}
+.rk-reader-page .docswitch a,
+.rk-reader-page .library summary{
+  font-size:.7rem;
+  font-weight:600;
+}
+.rk-reader-page .tbtn{
+  border-radius:8px;
+  font-size:.72rem;
+  font-weight:600;
+}
+.rk-reader-page section{margin-bottom:3rem}
+.rk-reader-page h2{margin-top:3rem}
+.rk-reader-page .howto{border-radius:0 10px 10px 0}
+.rk-reader-page .audit{border-radius:10px}
+.rk-reader-page .related{border-radius:9px}
+.rk-reader-page .related b{
+  font-family:var(--rk-body);
+  letter-spacing:0;
+  text-transform:none;
+  font-size:.7rem;
+}
+@media(max-width:720px){
+  .rk-reader-page .masthead{padding:2.1rem 0 1.5rem;margin-bottom:1.5rem}
+}
