@@ -1,0 +1,129 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Claim Registry",
+  "description": "Schema for the religion-knowledge project claim-level fact-check ledger. Each entry records one factual or interpretive claim, its source support, confidence, and review status.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "claim_id",
+      "claim_text",
+      "claim_type",
+      "status",
+      "confidence",
+      "last_verified",
+      "public_locations"
+    ],
+    "additionalProperties": false,
+    "properties": {
+      "claim_id": {
+        "type": "string",
+        "description": "Stable unique ID for this claim. Format: PREFIX-TOPIC-NNN, e.g. HF-EXILE-001, TR-ALMAH-001.",
+        "pattern": "^[A-Z]{2,6}-[A-Z0-9]{2,12}-[0-9]{3}$"
+      },
+      "claim_text": {
+        "type": "string",
+        "description": "Exact wording of the claim as it appears (or should appear) in the public document. Do not paraphrase.",
+        "minLength": 10
+      },
+      "claim_type": {
+        "type": "string",
+        "description": "Classification of the claim. Determines the evidence standard required.",
+        "enum": [
+          "direct_textual",
+          "manuscript_textual_critical",
+          "historical_date_event",
+          "historical_interpretation",
+          "linguistic",
+          "scholarly_consensus",
+          "causation_influence",
+          "theological_confessional",
+          "ethical_polemical"
+        ]
+      },
+      "status": {
+        "type": "string",
+        "description": "Current audit verdict for this claim.",
+        "enum": [
+          "verified",
+          "verified_with_qualification",
+          "overstated",
+          "inaccurate",
+          "disputed",
+          "unreviewed",
+          "needs_qualification"
+        ]
+      },
+      "confidence": {
+        "type": "string",
+        "description": "Evidential confidence level, independent of status.",
+        "enum": ["high", "medium", "low", "contested"]
+      },
+      "primary_sources": {
+        "type": "array",
+        "description": "Primary texts, manuscripts, inscriptions, or archaeological evidence directly supporting or relevant to this claim.",
+        "items": {
+          "type": "object",
+          "required": ["source", "locator"],
+          "properties": {
+            "source": { "type": "string" },
+            "locator": { "type": "string", "description": "Page, section, verse, line, or URL" }
+          }
+        }
+      },
+      "secondary_sources": {
+        "type": "array",
+        "description": "Scholarly secondary literature. Each entry records author, title, locator, and stance.",
+        "items": {
+          "type": "object",
+          "required": ["citation", "locator", "stance"],
+          "properties": {
+            "citation": {
+              "type": "string",
+              "description": "Full bibliographic citation: Author, Title, Publisher, Year."
+            },
+            "locator": { "type": "string" },
+            "stance": {
+              "type": "string",
+              "enum": ["supports", "qualifies", "contradicts", "discusses"]
+            }
+          }
+        }
+      },
+      "counterargument": {
+        "type": "string",
+        "description": "Strongest serious competing interpretation or objection. Required for status=disputed or claim_type=ethical_polemical."
+      },
+      "prohibited_wording_exception": {
+        "type": "string",
+        "description": "If this claim uses high-certainty language (proves, all scholars agree, clearly means, etc.), explain here why it is justified for this specific claim."
+      },
+      "last_verified": {
+        "type": "string",
+        "description": "ISO 8601 date of last independent verification, e.g. 2026-09-26.",
+        "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+      },
+      "reviewer": {
+        "type": "string",
+        "description": "Name or role of the person who last verified this claim."
+      },
+      "public_locations": {
+        "type": "array",
+        "description": "Every public-facing document and anchor where this claim appears.",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "required": ["file", "anchor"],
+          "properties": {
+            "file": { "type": "string" },
+            "anchor": { "type": "string" }
+          }
+        }
+      },
+      "notes": {
+        "type": "string",
+        "description": "Free-text notes, correction history, or context not captured by other fields."
+      }
+    }
+  }
+}
