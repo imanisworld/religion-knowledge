@@ -1,0 +1,27 @@
+{
+  "id": "ks_classic_maya_250_900_ce",
+  "name": "Classic Maya — documented knowledge and explanatory practices",
+  "culture_id": "cul_maya",
+  "region": [
+    "Mesoamerica"
+  ],
+  "period": {
+    "earliest": 250,
+    "latest": 900,
+    "precision": "CENTURY"
+  },
+  "known_claim_ids": [
+    "claim_ks_maya_hieroglyphic_writing",
+    "claim_ks_maya_calendar_astronomy",
+    "claim_ks_maya_lunar_venus_observation"
+  ],
+  "unknown_claim_ids": [],
+  "natural_explanation_claim_ids": [
+    "claim_ks_maya_solar_agricultural_timing"
+  ],
+  "supernatural_explanation_claim_ids": [
+    "claim_ks_maya_divinatory_ritual_calendar"
+  ],
+  "methodology_note": "This panel is scoped to evidence securely relevant to Classic-period Maya traditions, especially inscriptions, calendrical records, and scholarship on lowland Maya astronomy/timekeeping. Monumental writing is strongly biased toward literate and political/ritual elites. Empty 'unknown' does not mean there were no limits to Maya knowledge; it means this panel does not infer absolute ignorance from missing evidence.",
+  "notes": "'Maya' is an umbrella Culture entity covering diverse Mayan-language communities. This panel should not be read as proof that every Classic Maya city or social group possessed identical specialist knowledge."
+}

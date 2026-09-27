@@ -1,0 +1,54 @@
+{
+  "id": "claim_ks_maya_solar_agricultural_timing",
+  "subject_type": "KnowledgeState",
+  "subject_id": "ks_classic_maya_250_900_ce",
+  "statement": "Maya timekeeping linked directly observed solar cycles to agricultural timing: observations of the Sun, including zenith passages and horizon positions, were used to organize seasonal and maize-growing cycles.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Mesoamerica"
+  ],
+  "evidence_types": [
+    "ASTRONOMICAL",
+    "ARCHAEOLOGY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Smithsonian National Museum of the American Indian, Living Maya Time, “Sun, Corn, and the Calendar.”",
+      "author": "Smithsonian NMAI",
+      "year": null,
+      "venue": "Smithsonian National Museum of the American Indian",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Susan Milbrath, “The Role of Solar Observations in Developing the Preclassic Maya Calendar,” Latin American Antiquity (2017).",
+      "author": "Susan Milbrath",
+      "year": 2017,
+      "venue": "Latin American Antiquity / Cambridge University Press",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Stored as a natural/observational explanatory-practice claim because seasonal planning is tied to recurring observable solar phenomena; this category does not imply Maya cosmology was secular."
+}

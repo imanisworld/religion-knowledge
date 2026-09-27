@@ -1,0 +1,54 @@
+{
+  "id": "claim_ks_maya_hieroglyphic_writing",
+  "subject_type": "KnowledgeState",
+  "subject_id": "ks_classic_maya_250_900_ce",
+  "statement": "Classic Maya scribes used a logosyllabic hieroglyphic writing system with hundreds of signs; surviving inscriptions on monuments and painted ceramics preserve calendar dates, political history, names, and ritual or religious material.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Mesoamerica"
+  ],
+  "evidence_types": [
+    "INSCRIPTION",
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Smithsonian National Museum of the American Indian, Living Maya Time, “Reading the Calendar Glyphs.”",
+      "author": "Smithsonian NMAI",
+      "year": null,
+      "venue": "Smithsonian National Museum of the American Indian",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Metropolitan Museum of Art, Lives of the Gods: Divinity in Maya Art, section “Knowledge.”",
+      "author": "Metropolitan Museum of Art",
+      "year": null,
+      "venue": "The Metropolitan Museum of Art",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Attests specialist scribal knowledge; it does not establish population-wide literacy."
+}
