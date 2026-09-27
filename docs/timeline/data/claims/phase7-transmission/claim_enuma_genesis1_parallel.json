@@ -1,0 +1,58 @@
+{
+  "id": "claim_enuma_genesis1_parallel",
+  "subject_type": "Narrative",
+  "subject_id": "nar_genesis1_priestly",
+  "statement": "Genesis 1 and Enūma Eliš both begin from a watery primordial setting and move toward an ordered cosmos, while differing sharply in divine conflict, theology, and the mechanism of creation.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Levant",
+    "Mesopotamia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY",
+    "COMPARATIVE_RECONSTRUCTION"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Genesis 1:1–2:4a.",
+      "author": "Genesis",
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Canonical text used only for the observable literary features stated here."
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Metropolitan Museum of Art, “Mesopotamian Creation Myths,” Heilbrunn Timeline of Art History.",
+      "author": "Metropolitan Museum of Art",
+      "year": 2009,
+      "venue": "Metropolitan Museum of Art",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Summarizes Enūma Eliš's primordial waters, Marduk-Tiamat combat, and ordering of the cosmos."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "Parallel motifs do not by themselves demonstrate direct literary borrowing.",
+    "The shared watery setting does not establish that Hebrew tehom is borrowed directly from the name Tiamat."
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "This observation is intentionally separate from the disputed causal-engagement claim."
+}
