@@ -1,0 +1,31 @@
+{
+  "id": "nar_genesis_flood",
+  "name": "Genesis 6–9 Flood Narrative",
+  "genre": "sacred_narrative",
+  "tradition_id": null,
+  "region": [
+    "Levant"
+  ],
+  "language": "Biblical Hebrew",
+  "source_label": "Genesis 6:5–9:17",
+  "motif_tags": [
+    "FLOOD"
+  ],
+  "dating": {
+    "earliest_archaeological_evidence": null,
+    "earliest_written_attestation": null,
+    "surviving_manuscript_date": {
+      "range": null,
+      "note": "Physical-witness dating is intentionally left unassigned here rather than conflated with composition history."
+    },
+    "estimated_composition": null,
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "The narrative is set in primordial history and provides no historical calendar date."
+    },
+    "estimated_oral_origin": null,
+    "dating_summary": "The present Genesis flood narrative is composite and its component dating remains debated; this entity models the narrative unit without assigning a fake-precise composition date."
+  },
+  "relationships": [],
+  "notes": "Modeled separately from Genesis 1 and Genesis 2/Eden. Transmission claims are stored as separate source-backed Phase 7 relationships."
+}
