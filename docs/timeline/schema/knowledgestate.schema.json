@@ -1,0 +1,115 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://religion-knowledge.local/timeline/knowledgestate.schema.json",
+  "title": "KnowledgeState",
+  "description": "Phase 6 backing entity for the 'What did they know?' panel. It groups independently sourced claims by culture and period without turning non-attestation into proof of ignorance.",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "culture_id",
+    "region",
+    "period",
+    "known_claim_ids",
+    "unknown_claim_ids",
+    "natural_explanation_claim_ids",
+    "supernatural_explanation_claim_ids",
+    "methodology_note"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^ks_[a-z0-9_-]+$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "culture_id": {
+      "type": "string",
+      "pattern": "^cul_[a-z0-9_-]+$"
+    },
+    "region": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      }
+    },
+    "period": {
+      "type": "object",
+      "required": [
+        "earliest",
+        "latest",
+        "precision"
+      ],
+      "properties": {
+        "earliest": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "latest": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "precision": {
+          "type": "string",
+          "enum": [
+            "YEAR",
+            "DECADE",
+            "CENTURY",
+            "MILLENNIUM",
+            "ORDER_OF_MAGNITUDE"
+          ]
+        }
+      }
+    },
+    "known_claim_ids": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^claim_[a-z0-9_-]+$"
+      }
+    },
+    "unknown_claim_ids": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^claim_[a-z0-9_-]+$"
+      }
+    },
+    "natural_explanation_claim_ids": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^claim_[a-z0-9_-]+$"
+      }
+    },
+    "supernatural_explanation_claim_ids": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^claim_[a-z0-9_-]+$"
+      }
+    },
+    "methodology_note": {
+      "type": "string",
+      "minLength": 1
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}
