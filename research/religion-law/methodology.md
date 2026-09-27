@@ -28,9 +28,14 @@ Use when strong historical evidence shows religion substantially produced origin
 
 Use when religious organizations, beliefs, or moral theology materially shaped enactment, retention, repeal, or expansion, while other substantial causes are documented.
 
-### D — Religion-limiting rule
+### D — Government/religion boundary
 
-Use for laws or constitutional doctrine limiting establishment, religious tests, coercion, state-sponsored religious exercise, or specified governmental burdens on religious practice.
+Use as the umbrella category for rules that define the boundary between government power and religious exercise. D records receive one or both of these parallel sub-tags:
+
+- **D1 — Protects religious exercise:** protects private religious belief, observance, expression, accommodation, or exercise from specified governmental or institutional burdens.
+- **D2 — Limits government religious power:** limits establishment, religious tests, compelled support, official religious coercion, government-sponsored religious exercise, sectarian control, or specified public support for religion.
+
+A single rule may carry both D1 and D2 when it simultaneously protects private religious exercise and limits government religious action. Do not collapse those two effects into a single plain-language label.
 
 ### E — Principally secular documented purpose
 
