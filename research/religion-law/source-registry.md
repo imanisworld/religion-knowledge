@@ -27,6 +27,10 @@
 - Illinois General Assembly — Illinois Constitution: https://ilga.gov/commission/lrb/conent.htm
 - Illinois General Assembly — Illinois Compiled Statutes: https://www.ilga.gov/legislation/ilcs/ilcs.asp
 - Indiana State Library — Indiana Constitution guide/current-link hub: https://www.in.gov/library/collections-and-services/indiana/subject-guides-to-indiana-collection-materials/indiana-constitution/
+- Iowa Legislature — Constitution: https://www.legis.iowa.gov/law/statutory/constitution
+- Kansas Legislature — Constitution/statutes portal: https://www.kslegislature.gov/
+- Kentucky General Assembly — Constitution: https://apps.legislature.ky.gov/law/constitution
+- Michigan Legislature — Constitution and Compiled Laws: https://www.legislature.mi.gov/
 
 ## Comparative research hubs
 

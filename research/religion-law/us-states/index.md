@@ -18,14 +18,14 @@ This directory is a research scaffold, not a completed legal database.
 | [Idaho](idaho.md) | First-pass baseline verified; expansion pending |
 | [Illinois](illinois.md) | First-pass baseline verified; expansion pending |
 | [Indiana](indiana.md) | First-pass baseline verified; expansion pending |
-| [Iowa](iowa.md) | Scaffold only — research pending |
-| [Kansas](kansas.md) | Scaffold only — research pending |
-| [Kentucky](kentucky.md) | Scaffold only — research pending |
+| [Iowa](iowa.md) | First-pass baseline verified; expansion pending |
+| [Kansas](kansas.md) | First-pass baseline verified; expansion pending |
+| [Kentucky](kentucky.md) | First-pass baseline verified; expansion pending |
 | [Louisiana](louisiana.md) | Anchor baseline verified; expansion pending |
 | [Maine](maine.md) | Anchor baseline verified; expansion pending |
 | [Maryland](maryland.md) | Anchor baseline verified; expansion pending |
 | [Massachusetts](massachusetts.md) | Anchor baseline verified; causation expansion pending |
-| [Michigan](michigan.md) | Scaffold only — research pending |
+| [Michigan](michigan.md) | First-pass baseline verified; expansion pending |
 | [Minnesota](minnesota.md) | Scaffold only — research pending |
 | [Mississippi](mississippi.md) | Scaffold only — research pending |
 | [Missouri](missouri.md) | Scaffold only — research pending |
