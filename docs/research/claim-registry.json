@@ -660,5 +660,173 @@
       }
     ],
     "notes": "Tracked set: governor, lieutenant governor, attorney general, House speaker, Senate president pro tempore, and chief justice."
+  },
+  {
+    "claim_id": "CTX-CADEMOG-001",
+    "claim_text": "Pew's 2023–24 Religious Landscape Study estimates California adults as 25% Catholic, 16% evangelical Protestant, 8% mainline Protestant, 2% historically Black Protestant, 6% atheist, 7% agnostic, and 20% nothing in particular, with a ±2.4 percentage-point margin of error for adults in California.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Pew Research Center, 2023–24 Religious Landscape Study — California",
+        "locator": "State religious-composition table and margin-of-error note; https://www.pewresearch.org/religious-landscape-study/state/california/"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "These are survey estimates, not census counts. Two percent did not answer the affiliation question, small differences may fall within the margin of error, and figures may not sum to 100% because of rounding.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "California"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=california"
+      }
+    ],
+    "notes": "Population context remains separate from legal-causation coding."
+  },
+  {
+    "claim_id": "CTX-CAPOWER-001",
+    "claim_text": "As of September 27, 2026, only 1 of 6 tracked California power positions has a current religious affiliation documented to the project's standard in the sources reviewed: Governor Gavin Newsom is Catholic; the other five affiliations remain unknown, so the religious composition of the full tracked set cannot be determined.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Governor of California — 2026 releases",
+        "locator": "Gavin Newsom is current governor; https://www.gov.ca.gov/"
+      },
+      {
+        "source": "Los Angeles Times — Newsom Vatican report",
+        "locator": "Explicitly describes Newsom as Catholic; https://www.latimes.com/california/story/2024-05-19/newsom-walks-away-from-the-vatican-with-popes-approval-on-death-penalty"
+      },
+      {
+        "source": "California Lieutenant Governor — current office",
+        "locator": "Eleni Kounalakis is current lieutenant governor; https://ltg.ca.gov/"
+      },
+      {
+        "source": "California Department of Justice — Rob Bonta biography",
+        "locator": "Current attorney general; no religious affiliation stated in biography reviewed; https://oag.ca.gov/about"
+      },
+      {
+        "source": "California Assembly — Robert Rivas biography",
+        "locator": "Current Speaker; no religious affiliation stated in biography reviewed; https://speaker.asmdc.org/biography"
+      },
+      {
+        "source": "California Senate — Senate Leadership",
+        "locator": "Monique Limón is current President pro Tempore; no religious affiliation stated in leadership materials reviewed; https://www.senate.ca.gov/senators/senate-leadership"
+      },
+      {
+        "source": "Supreme Court of California — Patricia Guerrero biography",
+        "locator": "Current Chief Justice; no religious affiliation stated in biography reviewed; https://supreme.courts.ca.gov/about-court/justices-court/chief-justice-patricia-guerrero"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "Biographical sources document Eleni Kounalakis's Greek Orthodox upbringing and engagement with Orthodox institutions, but this pass did not treat upbringing, heritage, or event attendance as sufficient evidence of a current religious affiliation. Unknown does not mean nonreligious.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "California"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=california"
+      }
+    ],
+    "notes": "Tracked set: governor, lieutenant governor, attorney general, Assembly speaker, Senate president pro tempore, and chief justice."
+  },
+  {
+    "claim_id": "CTX-CODEMOG-001",
+    "claim_text": "Pew's 2023–24 Religious Landscape Study estimates Colorado adults as 17% evangelical Protestant, 14% Catholic, 13% mainline Protestant, 3% Latter-day Saint, 8% atheist, 10% agnostic, and 22% nothing in particular, with a ±6.1 percentage-point margin of error for adults in Colorado.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Pew Research Center, 2023–24 Religious Landscape Study — Colorado",
+        "locator": "State religious-composition table and margin-of-error note; https://www.pewresearch.org/religious-landscape-study/state/colorado/"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "These are survey estimates, not census counts. One percent did not answer the affiliation question, differences may fall within the state margin of error, and figures may not sum to 100% because of rounding and categories reported as less than 1%.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Colorado"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=colorado"
+      }
+    ],
+    "notes": "Population context remains separate from legal-causation coding."
+  },
+  {
+    "claim_id": "CTX-COPOWER-001",
+    "claim_text": "As of September 27, 2026, 3 of 6 tracked Colorado power positions have publicly documented affiliations in the sources reviewed: Governor Jared Polis and Attorney General Phil Weiser are Jewish, and Senate President James Coleman has a documented Christian ministerial background; the other three affiliations remain unknown, so the religious composition of the full tracked set cannot be determined.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Colorado government materials — Jared Polis",
+        "locator": "Current governor identified in 2026 state materials; https://www.colorado.gov/governor/"
+      },
+      {
+        "source": "Vote Smart — Jared Polis biography",
+        "locator": "Religion field lists Jewish; https://justfacts.votesmart.org/candidate/biography/106220/jared-polis"
+      },
+      {
+        "source": "Colorado government materials — Dianne Primavera",
+        "locator": "Current lieutenant governor identified in 2026 official materials; https://ltgovernor.colorado.gov/"
+      },
+      {
+        "source": "Colorado Attorney General — Phil Weiser biography",
+        "locator": "Current attorney general; https://coag.gov/about-us/colorado-attorney-general/"
+      },
+      {
+        "source": "Jewish Insider — Phil Weiser interview",
+        "locator": "Weiser directly describes his Jewish identity and family/community history; https://jewishinsider.com/2024/08/phil-weiser-colorado-attorney-general-jewish-jared-polis/"
+      },
+      {
+        "source": "Colorado General Assembly — Julie McCluskie biography",
+        "locator": "Current House Speaker; no religious affiliation stated in biography reviewed; https://www.leg.colorado.gov/legislators/julie-mccluskie"
+      },
+      {
+        "source": "Colorado General Assembly — James Coleman biography",
+        "locator": "Current Senate President; https://leg.colorado.gov/legislators/james-coleman"
+      },
+      {
+        "source": "Urban Leadership Foundation of Colorado — James Coleman biography",
+        "locator": "States Coleman was licensed and ordained as a minister and preached in churches; https://ulfcolorado.org/alumni/james-coleman/"
+      },
+      {
+        "source": "Colorado Judicial Branch — Supreme Court Judges and Staff",
+        "locator": "Monica M. Márquez is current Chief Justice; no religious affiliation stated in official materials reviewed; https://www.coloradojudicial.gov/supreme-court/supreme-court-judges-and-staff"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "Three of the six tracked affiliations remain unknown. Unknown means no reliable public affiliation was identified in the sources reviewed, not that those officeholders are nonreligious. Coleman's broad Christian classification is based on documented church ministry; no denomination is assigned.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Colorado"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=colorado"
+      }
+    ],
+    "notes": "Tracked set: governor, lieutenant governor, attorney general, House speaker, Senate president, and chief justice."
   }
 ]
