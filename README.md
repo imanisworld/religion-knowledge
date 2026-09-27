@@ -43,7 +43,7 @@ Audit entries also carry a `CHECKED` date. Anything without one has not been ver
 ### Two corpus scopes
 
 - **Research corpus:** nine Markdown documents / nine reader HTML documents, including `Cited_Persons.md`.
-- **App dataset:** eight canonical sources. Cited Persons is intentionally excluded: its complete 365-name control pass currently classifies 180 entries as documented and 185 as unresolved, and including the index would duplicate person descriptions while presenting unresolved reference leads as app-ready data.
+- **App dataset:** eight canonical sources. Cited Persons is intentionally excluded: its complete 365-name control pass currently classifies 185 entries as documented and 180 as unresolved, and including the index would duplicate person descriptions while presenting unresolved reference leads as app-ready data.
 
 ## Reading order for the HTML set
 
@@ -55,7 +55,7 @@ Open `master-notes.html` first. The research readers share the Documents switche
 
 ## Current status
 
-- **Consolidation freeze:** the whole-document reader generator is now committed and CI-gated, but 185 Cited Persons entries remain unresolved. Keep major expansion paused while those source gaps and the remaining control-layer work are addressed.
+- **Consolidation freeze:** the whole-document reader generator is now committed and CI-gated, but 180 Cited Persons entries remain unresolved. Keep major expansion paused while those source gaps and the remaining control-layer work are addressed.
 - Audit: Study Notes queue closed — 11 of 11 complete (§11.2). Observations queue in progress — see Method & Reference §4.
 - Reading: Old Testament complete; New Testament through Acts; Pauline epistles in progress (Acts → Galatians → Romans → Corinthians).
 - Standing method at Study Notes §11.1 — applies to everything.
