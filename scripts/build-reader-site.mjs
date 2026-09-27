@@ -226,7 +226,7 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
   .card::after{right:1.1rem;top:1.2rem}
 }
 </style>
-<script>try{var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script>
+<script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script>
 </head><body>
 <main>
   <div class="hero">
@@ -283,7 +283,7 @@ let appIndexHtml = fs.readFileSync(deployedAppIndex, 'utf8');
 appIndexHtml = appIndexHtml.replace('<html lang="en">', '<html lang="en" data-theme="light">');
 appIndexHtml = appIndexHtml.replace(
   '<link rel="stylesheet" href="styles.css">',
-  '<script>try{var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light";var __m=document.querySelector(\'meta[name="theme-color"]\');if(__m)__m.content=document.documentElement.dataset.theme==="dark"?"#211A1C":"#F5F1F0"}catch(e){document.documentElement.dataset.theme="light"}</script>\n  <link rel="stylesheet" href="styles.css">'
+  '<script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light";var __m=document.querySelector(\'meta[name="theme-color"]\');if(__m)__m.content=document.documentElement.dataset.theme==="dark"?"#211A1C":"#F5F1F0"}catch(e){document.documentElement.dataset.theme="light"}</script>\n  <link rel="stylesheet" href="styles.css">'
 );
 fs.writeFileSync(deployedAppIndex, appIndexHtml, 'utf8');
 
