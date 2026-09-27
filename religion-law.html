@@ -74,6 +74,7 @@ const STATE_RECORDS=ROOT+'records/us-state-starter.json';
 const MARYLAND_RECORDS=ROOT+'records/us-md-maryland.json';
 const POLICY_DATA=ROOT+'records/policy-influence.json';
 const GLOBAL_DATA=ROOT+'records/global-legal-structure.json';
+const PRACTICE_DATA=ROOT+'records/institutional-practice.json';
 const DOCS=[
   {key:'federal',label:'U.S. constitutional & federal',file:'us-constitutional-federal.md'},
   {key:'formal-practice',label:'Formal law vs practice',file:'formal-law-institutional-practice.md'},
@@ -92,64 +93,7 @@ const RELATIONSHIPS={
 
 let policyRows=[];
 
-const PRACTICE_ROWS=[
-  {
-    layer:'Formal law / calendar',
-    example:'Christmas Day',
-    formal:'Christmas Day is a federal holiday on the OPM federal-holiday schedule.',
-    practice:'The federal calendar directly closes around a Christian-origin observance.',
-    meaning:'This is evidence of Christian historical and cultural embedding in a public institution. It is not evidence that the U.S. has an official religion. Cultural note: Matthew 1–2 and Luke 1–2 do not state a calendar date for Jesus’s birth; December 25 is the traditional observance date.',
-    sources:[
-      ['OPM — Federal Holidays','https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/'],
-      ['NRSVue — Matthew 1–2 / Luke 1–2','https://www.biblegateway.com/passage/?search=Matthew%201-2%3B%20Luke%201-2&version=NRSVUE']
-    ]
-  },
-  {
-    layer:'Official government practice',
-    example:'Easter',
-    formal:'Easter is not listed as a federal holiday on the OPM schedule.',
-    practice:'The White House nevertheless continues an official Easter Egg Roll tradition dating to 1878; the 2026 event was held on April 6.',
-    meaning:'This is a useful example of Christian-origin cultural visibility in government practice without federal-holiday status. The event itself is a civic/family tradition, not proof of compelled religious observance.',
-    sources:[
-      ['OPM — Federal Holidays','https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/'],
-      ['White House — Easter Egg Roll','https://www.whitehouse.gov/white-house-easter-egg-roll/'],
-      ['White House — 2026 event','https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-previews-2026-white-house-easter-egg-roll-activities/']
-    ]
-  },
-  {
-    layer:'Official civic language / symbols',
-    example:'“Under God” / “In God We Trust”',
-    formal:'Congress added “under God” to the Pledge of Allegiance in 1954. Federal legislation required “In God We Trust” on currency in 1955, and Congress declared it a national motto in 1956.',
-    practice:'Religious language is therefore present in recurring official civic symbols even though federal law does not establish an official church.',
-    meaning:'These are explicit government religious references, not merely private customs. Their constitutional treatment is a separate question from establishment of an official religion.',
-    sources:[
-      ['Congressional Record — June 7, 1954','https://www.congress.gov/83/crecb/1954/06/07/GPO-CRECB-1954-pt6-8-2.pdf'],
-      ['U.S. House History — currency motto','https://history.house.gov/Historical-Highlights/1951-2000/The-legislation-placing-In-God-We-Trust-on-national-currency/'],
-      ['U.S. Mint — historical timeline','https://www.usmint.gov/learn/history/timeline']
-    ]
-  },
-  {
-    layer:'Representation pattern',
-    example:'Religious composition of Congress',
-    formal:'Article VI bars a federal religious test for office.',
-    practice:'Pew reported that 87% of voting members of the 119th Congress identified as Christian, compared with 62% of U.S. adults. Less than 1% of Congress was religiously unaffiliated in Pew’s comparison, versus 28% of U.S. adults.',
-    meaning:'This establishes a representation gap. It does not, by itself, establish why the gap exists or prove an informal religious test.',
-    sources:[
-      ['Pew — Faith on the Hill','https://www.pewresearch.org/religion/2025/01/02/faith-on-the-hill-2025/'],
-      ['Pew — 2023–24 Religious Landscape Study','https://www.pewresearch.org/religion/2025/02/26/religious-landscape-study-executive-summary/']
-    ]
-  },
-  {
-    layer:'Institutional accommodation',
-    example:'Public-school religious observance',
-    formal:'Public schools may not observe religious holidays as religious events or favor one religion over another.',
-    practice:'Current federal guidance recognizes excusals and accommodations for prayer, fasting, religious holidays, and other observances.',
-    meaning:'This is an accommodation framework. Whether a particular district’s default calendar advantages one tradition must be shown with district-specific evidence rather than assumed nationally.',
-    sources:[
-      ['U.S. Department of Education — 2026 guidance','https://www.ed.gov/laws-and-policy/laws-preschool-grade-12-education/preschool-grade-12-policy-documents/guidance-on-constitutionally-protected-prayer-and-religious-expression-in-public-elementary-and-secondary-schools']
-    ]
-  }
-];
+let practiceRows=[];
 
 let globalRows=[];
 
@@ -325,7 +269,7 @@ function renderComparisonBody(){
 }
 
 function sourceLinks(sources){
-  const typeLabels={legal:'Legal',polling:'Polling',advocacy:'Advocacy',status_tracker:'Status',comparative:'Comparative',comparative_primary:'Primary law',research:'Research'};
+  const typeLabels={legal:'Legal',polling:'Polling',advocacy:'Advocacy',status_tracker:'Status',comparative:'Comparative',comparative_primary:'Primary law',government_practice:'Gov. practice',research:'Research'};
   return '<div class="source-links">'+(sources||[]).map(s=>{
     const item=Array.isArray(s)?{label:s[0],url:s[1],type:'research'}:s;
     const external=String(item.url||'').startsWith('http');
@@ -353,12 +297,12 @@ function renderPolicyTable(){
 }
 
 function renderPracticeTable(){
-  return '<section class="section-block"><h2>Formal law vs. institutional practice</h2>'+
+  return '<section class="section-block" id="practice-overview"><h2>Formal law vs. institutional practice</h2>'+
     '<p class="section-intro">A formal “zero” does not answer every religion-and-government question. This view separates <strong>what the law formally establishes</strong> from official traditions, institutional defaults, accommodation systems, and representation patterns.</p>'+
     '<div class="table-wrap"><table class="compare-table practice-table"><thead><tr><th>Layer</th><th>Example</th><th>Formal rule / status</th><th>What operates in practice</th><th>What the evidence supports</th></tr></thead><tbody>'+
-    PRACTICE_ROWS.map(r=>'<tr><td><span class="relationship">'+esc(r.layer)+'</span></td><td><div class="law-name">'+esc(r.example)+'</div></td><td>'+esc(r.formal)+'</td><td>'+esc(r.practice)+'</td><td>'+esc(r.meaning)+sourceLinks(r.sources)+'</td></tr>').join('')+
+    practiceRows.map(r=>'<tr><td><span class="relationship">'+esc(r.layer)+'</span></td><td><div class="law-name">'+esc(r.example)+'</div><div class="row-meta">'+esc(r.confidence)+' confidence · verified '+esc(r.last_verified)+'</div></td><td>'+esc(r.formal_status)+'</td><td>'+esc(r.observed_practice)+'</td><td>'+esc(r.interpretation)+sourceLinks(r.sources)+'<div class="scope-note">'+esc(r.scope_note)+'</div></td></tr>').join('')+
     '</tbody></table></div>'+
-    '<p class="scope-note">This section does not score cultural prevalence as legal coercion. It separates formal law, official government practice, institutional accommodation, and representation. <a href="#doc=formal-practice">Open the research notes and source rules →</a></p></section>';
+    '<p class="scope-note">This section does not score cultural prevalence as legal coercion. It separates formal law, official government practice, institutional accommodation, and representation.</p></section>';
 }
 
 function renderGlobalTable(){
@@ -407,11 +351,12 @@ async function route(){
 }
 async function init(){
   try{
-    const data=await Promise.all([getText(INDEX),getJson(FEDERAL_RECORDS),getJson(STATE_RECORDS),getJson(MARYLAND_RECORDS),getJson(POLICY_DATA),getJson(GLOBAL_DATA)]);
+    const data=await Promise.all([getText(INDEX),getJson(FEDERAL_RECORDS),getJson(STATE_RECORDS),getJson(MARYLAND_RECORDS),getJson(POLICY_DATA),getJson(GLOBAL_DATA),getJson(PRACTICE_DATA)]);
     states=parseIndex(data[0]);
     records=normalizeStructured(data[1]).concat(normalizeStructured(data[2]),normalizeMaryland(data[3]));
     policyRows=data[4];
     globalRows=data[5];
+    practiceRows=data[6];
     const verified=states.filter(s=>s.verified).length;
     $('#metrics').innerHTML='<span class="metric"><b>'+states.length+'</b> states scaffolded</span><span class="metric"><b>'+verified+'</b> first-pass baselines verified</span><span class="metric"><b>'+records.length+'</b> structured comparison records</span>';
     drawDocs();drawNav();route();
