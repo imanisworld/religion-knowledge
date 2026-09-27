@@ -1,0 +1,36 @@
+name: Validate Research Governance
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/research/claim-registry.json'
+      - 'docs/research/claim-registry.schema.json'
+      - 'scripts/validate-claim-registry.mjs'
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate-claim-registry:
+    name: Claim Registry Validation
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Validate claim registry structure
+        run: node scripts/validate-claim-registry.mjs
+
+      - name: Verify registry is not empty
+        run: |
+          COUNT=$(node -e "const r = JSON.parse(require('fs').readFileSync('docs/research/claim-registry.json','utf8')); console.log(r.length);")
+          echo "Registry contains $COUNT entries."
+          if [ "$COUNT" -lt 1 ]; then
+            echo "ERROR: claim-registry.json is empty. Add at least one entry."
+            exit 1
+          fi

@@ -1,0 +1,128 @@
+[
+  {
+    "claim_id": "MR-NICAEA-001",
+    "claim_text": "Nicaea (325) was about the Arian controversy and the Nicene Creed — NOT the canon.",
+    "claim_type": "historical_date_event",
+    "status": "verified",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Eusebius of Caesarea, Vita Constantini",
+        "locator": "Book III, chapters 4–24"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Henry Chadwick, The Early Church (Penguin, rev. ed. 1993)",
+        "locator": "pp. 125–132",
+        "stance": "supports"
+      },
+      {
+        "citation": "Frances Young, From Nicaea to Chalcedon (Baker Academic, 2nd ed. 2010)",
+        "locator": "pp. 1–30",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "Popular skeptic accounts claim Constantine assembled the council to select or suppress scriptures. No primary source supports this; the council's agenda was exclusively Christological and disciplinary.",
+    "last_verified": "2026-09-26",
+    "reviewer": "audit-2026-09-26",
+    "public_locations": [
+      { "file": "Method_and_Reference.md", "anchor": "#5-4-how-the-church-and-the-canon-formed" },
+      { "file": "method-reference.html", "anchor": "#canon" }
+    ],
+    "notes": "This is the single most commonly encountered popular misconception in this corpus's subject area. Flagged in Method §2 reference table as explicitly false."
+  },
+  {
+    "claim_id": "MR-MERNEPTAH-001",
+    "claim_text": "The Merneptah Stele (c. 1208 BCE) is the first extrabiblical mention of Israel, as a people not a place.",
+    "claim_type": "historical_date_event",
+    "status": "verified",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Merneptah Stele (Cairo Museum JE 31408)",
+        "locator": "Lines 26–27: the Canaanite campaign list"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "James K. Hoffmeier, Israel in Egypt (Oxford University Press, 1997)",
+        "locator": "pp. 27–31",
+        "stance": "supports"
+      },
+      {
+        "citation": "Frank J. Yurco, '3,200-Year-Old Picture of Israelites Found in Egypt,' Biblical Archaeology Review 16(5) 1990",
+        "locator": "pp. 20–38",
+        "stance": "supports"
+      }
+    ],
+    "last_verified": "2026-09-26",
+    "reviewer": "audit-2026-09-26",
+    "public_locations": [
+      { "file": "Method_and_Reference.md", "anchor": "#5-1-before-and-during-the-kingdoms" }
+    ],
+    "notes": "The determinative sign on 'Israel' in the stele marks it as a people/ethnic group rather than a territory, which is the basis for the 'people not a place' distinction. This is the scholarly consensus reading."
+  },
+  {
+    "claim_id": "MR-SENNACHERIB-001",
+    "claim_text": "Sennacherib's siege of Jerusalem (701 BCE) is the best-corroborated event in the Hebrew Bible.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Sennacherib Prism (Oriental Institute, Chicago)",
+        "locator": "Column III, lines 18–49"
+      },
+      {
+        "source": "2 Kings 18–19; Isaiah 36–37",
+        "locator": "Biblical account"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "William Hallo and K. Lawson Younger, eds., The Context of Scripture, vol. 2 (Brill, 2000)",
+        "locator": "pp. 302–303",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "'Best-corroborated' is a comparative claim. The Assyrian and biblical accounts diverge on outcome — Sennacherib claims tribute and withdrawal; the Bible records an angel destroying the army. The event's occurrence is corroborated; its outcome is contested between sources.",
+    "last_verified": "2026-09-26",
+    "reviewer": "audit-2026-09-26",
+    "public_locations": [
+      { "file": "Method_and_Reference.md", "anchor": "#5-1-before-and-during-the-kingdoms" }
+    ],
+    "notes": "Qualification added: corroboration is for the event, not the outcome. The 'best-corroborated' framing is defensible but should include this distinction in the public text."
+  },
+  {
+    "claim_id": "MR-PAULLETTERS-001",
+    "claim_text": "Paul's undisputed letters (c. 50–60 CE) are the earliest Christian writings that survive and contain no birth narrative, no empty tomb, no biography.",
+    "claim_type": "historical_date_event",
+    "status": "verified",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "1 Thessalonians, Galatians, 1–2 Corinthians, Romans, Philippians, Philemon",
+        "locator": "Full texts; see also 1 Corinthians 15:3–8 for the resurrection tradition"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Bart D. Ehrman, Forged (HarperOne, 2011)",
+        "locator": "pp. 92–114",
+        "stance": "supports"
+      },
+      {
+        "citation": "Raymond E. Brown, An Introduction to the New Testament (Doubleday, 1997)",
+        "locator": "pp. 422–430",
+        "stance": "supports"
+      }
+    ],
+    "last_verified": "2026-09-26",
+    "reviewer": "audit-2026-09-26",
+    "public_locations": [
+      { "file": "Method_and_Reference.md", "anchor": "#5-3-jesus-and-the-new-testament" }
+    ],
+    "notes": "The absence of birth narrative and empty tomb in Paul is a factual observation about Paul's surviving letters, not a theological claim. 1 Cor 15:3–8 does reference resurrection appearances, which should not be conflated with the empty-tomb narratives of the Gospels."
+  }
+]
