@@ -591,3 +591,75 @@ button.stat-card:focus-visible { border-color: var(--accent); }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; }
 }
+
+
+/* ---------- general UI polish ---------- */
+body{line-height:1.6}
+:where(button,a,input,select,textarea):focus-visible{
+  outline:3px solid color-mix(in srgb,var(--accent) 38%,transparent);
+  outline-offset:2px
+}
+.icon-button,
+.filter-button,
+.secondary-button,
+.nav-item,
+.side-item,
+.record-card,
+.topic-card,
+.stat-card,
+.topic-chip,
+.sheet-item{
+  transition:border-color .16s ease,background .16s ease,color .16s ease,transform .16s ease,box-shadow .16s ease
+}
+.icon-button:hover,
+.filter-button:hover,
+.secondary-button:hover{
+  border-color:color-mix(in srgb,var(--accent) 58%,var(--line));
+  background:color-mix(in srgb,var(--panel) 86%,var(--accent-soft))
+}
+.search-box:focus-within{
+  border-color:var(--accent);
+  box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 16%,transparent)
+}
+.hero-card{padding:24px}
+.hero-card h2{font-size:1.48rem}
+.hero-card p{font-size:.98rem;line-height:1.65}
+.stat-card{padding:16px}
+.stat-card strong{font-size:1.75rem}
+.record-card{padding:17px}
+.record-card h3{font-size:1.1rem;line-height:1.3}
+.record-card p{line-height:1.62}
+.record-card:hover,
+.topic-card:hover,
+button.stat-card:hover{
+  transform:translateY(-1px);
+  box-shadow:0 8px 22px color-mix(in srgb,var(--text) 7%,transparent)
+}
+.section-block{margin:30px 0}
+.section-heading{margin-bottom:14px}
+.topic-card{padding:17px}
+.topic-chip{min-height:44px}
+.bottom-nav{box-shadow:0 14px 42px rgba(0,0,0,.16)}
+.nav-item.active{box-shadow:inset 0 0 0 1px color-mix(in srgb,var(--accent) 24%,transparent)}
+.record-dialog{box-shadow:0 24px 72px rgba(0,0,0,.26)}
+#dialog-body{padding:20px 20px 28px}
+.detail-row{padding:14px}
+.raw-text{line-height:1.68}
+@media(min-width:1024px){
+  .app-shell{
+    grid-template-columns:236px minmax(0,1fr);
+    column-gap:40px;
+    padding-left:28px;
+    padding-right:28px
+  }
+  .side-nav{padding-top:78px;gap:6px}
+  .side-item{min-height:46px;border-radius:12px}
+  .side-item:hover{background:var(--panel-2);color:var(--accent)}
+  .side-item.active{background:var(--accent-soft);color:var(--accent)}
+  .topbar{padding-top:22px}
+  .hero-card{padding:26px}
+}
+@media(max-width:719px){
+  .hero-card{padding:20px}
+  .record-card{padding:15px}
+}
