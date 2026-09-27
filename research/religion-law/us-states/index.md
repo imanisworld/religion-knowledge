@@ -45,11 +45,11 @@ This directory is a research scaffold, not a completed legal database.
 | [Rhode Island](rhode-island.md) | First-pass baseline verified; expansion pending |
 | [South Carolina](south-carolina.md) | First-pass baseline verified; expansion pending |
 | [South Dakota](south-dakota.md) | First-pass baseline verified; expansion pending |
-| [Tennessee](tennessee.md) | Scaffold only — research pending |
+| [Tennessee](tennessee.md) | First-pass baseline verified; expansion pending |
 | [Texas](texas.md) | Anchor baseline verified; causation expansion pending |
-| [Utah](utah.md) | Scaffold only — research pending |
-| [Vermont](vermont.md) | Scaffold only — research pending |
-| [Virginia](virginia.md) | Scaffold only — research pending |
+| [Utah](utah.md) | First-pass baseline verified; expansion pending |
+| [Vermont](vermont.md) | First-pass baseline verified; expansion pending |
+| [Virginia](virginia.md) | First-pass baseline verified; expansion pending |
 | [Washington](washington.md) | Scaffold only — research pending |
 | [West Virginia](west-virginia.md) | Scaffold only — research pending |
 | [Wisconsin](wisconsin.md) | Scaffold only — research pending |
