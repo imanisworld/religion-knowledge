@@ -36,6 +36,10 @@ Audit entries also carry a `CHECKED` date. Anything without one has not been ver
 | 8 | **Glossary** | Every technical term in plain English |
 | 9 | **Cited Persons** | A source-orientation index showing who cited people are, their positions, and flags requiring verification |
 
+### Personal reflection companion
+
+- **Personal Belief History** — `Personal_Belief_History.md` / `personal-belief-history.html` reconstructs what the user actually remembers believing at different life stages while preserving unknowns. It is **not part of the nine-document research corpus**, is not evidence for or against a religious claim, is excluded from the app dataset, and is deliberately excluded from the scholarly cross-document search index.
+
 ### Two corpus scopes
 
 - **Research corpus:** nine Markdown documents / nine reader HTML documents, including `Cited_Persons.md`.
