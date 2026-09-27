@@ -80,6 +80,16 @@ main{margin-left:var(--rail);padding:0 3.5rem 8rem;max-width:calc(var(--measure)
 #progress{position:fixed;top:0;left:var(--rail);right:0;height:2px;background:transparent;z-index:50}
 #progress i{display:block;height:100%;background:var(--accent);width:0}
 
+.reader-context{
+  display:flex;align-items:center;gap:.45rem;max-width:var(--measure);min-width:0;
+  margin:0 0 1.25rem;color:var(--ink3);font-family:var(--f-mono);
+  font-size:.67rem;line-height:1.4;letter-spacing:.035em
+}
+.reader-context a{color:var(--accent);text-decoration:none;font-weight:500}
+.reader-context a:hover{text-decoration:underline;text-underline-offset:3px}
+.reader-context .sep{opacity:.45;flex:none}
+#reader-current{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0}
+
 .masthead{padding:4rem 0 2.2rem;border-bottom:1px solid var(--rule);margin-bottom:2.5rem}
 .masthead h1{font-family:var(--f-display);font-size:clamp(2.1rem,4.2vw,3.05rem);
   font-weight:400;letter-spacing:-.025em;line-height:1.06;margin:0 0 .8rem}
@@ -266,34 +276,6 @@ h2 span.flagmark{color:var(--collapses)}
 :root[data-theme=dark] .related b{color:#8FD4CC}
 :root[data-theme=dark] .flash{animation-name:flashdark}
 :root[data-theme=dark] :target > .flashwrap{animation-name:flashdark}
-@media (prefers-color-scheme:dark){
-:root:not([data-theme=light]){--ground:#10130F;--paper:#17201D;--ink:#F2F5F3;--ink2:#A8B4B0;--ink3:#8A9792;--rule:#2C3833;--accent:#6FBFB5;--accent-soft:#1B3330;--holds:#7FCB9E;--overstated:#E6B876;--collapses:#E8A3A3;--new:#6FBFB5;--camp:#B7ABE0;--camp-soft:#292344}
-:root:not([data-theme=light]) #rail{background:#0F1614}
-:root:not([data-theme=light]) .docswitch a.on{background:#1F5E5B;color:#fff;border-color:#1F5E5B}
-:root:not([data-theme=light]) #menu{background:#26332E;color:#F2F5F3}
-:root:not([data-theme=light]) #tools{background:rgba(16,19,15,.93)}
-:root:not([data-theme=light]) .tbtn.on{background:#26332E;color:#F2F5F3;border-color:#3E4C46}
-:root:not([data-theme=light]) #top{background:#26332E;color:#F2F5F3}
-:root:not([data-theme=light]) .audit > summary:hover{background:#1C2622}
-:root:not([data-theme=light]) tr:hover td{background:#1C2622}
-:root:not([data-theme=light]) .badge{background:#26332E;color:var(--ink2)}
-:root:not([data-theme=light]) .badge.overstated{background:#3A2E14;color:#E8C176}
-:root:not([data-theme=light]) .badge.collapses{background:#3A1A1A;color:#E8A3A3}
-:root:not([data-theme=light]) .badge.holds{background:#17332A;color:#8FD4AA}
-:root:not([data-theme=light]) .badge.new{background:#1B3330;color:#8FD4CC}
-:root:not([data-theme=light]) .mark.inf{background:#3A2E14;color:#E8C176;border-color:#5C4A22}
-:root:not([data-theme=light]) .mark.doc{background:#17332A;color:#8FD4AA;border-color:#245240}
-:root:not([data-theme=light]) .mark.unresolved{background:#3A2E14;color:#E8C176;border-color:#5C4A22}
-:root:not([data-theme=light]) .mark.you{background:#232B4A;color:#B7C2EE;border-color:#33406E}
-:root:not([data-theme=light]) .gloss{border-bottom-color:#8A7434}
-:root:not([data-theme=light]) .gloss:hover{background:#332B10}
-:root:not([data-theme=light]) .gloss:focus{background:#332B10}
-:root:not([data-theme=light]) a.ext{border-bottom-color:#3E5C58}
-:root:not([data-theme=light]) .related b{color:#8FD4CC}
-:root:not([data-theme=light]) .flash{animation-name:flashdark}
-:root:not([data-theme=light]) :target > .flashwrap{animation-name:flashdark}
-}
-
 /* ---------- reader visual refresh ---------- */
 :root{
   --ground:#F5F1F0;--paper:#FFFDFC;--ink:#241B1E;--ink2:#62565A;--ink3:#807277;
@@ -356,21 +338,6 @@ h2{margin-top:4rem}
 :root[data-theme=dark] .badge.new{background:var(--accent-soft);color:#EAB0BD}
 :root[data-theme=dark] .related b{color:#EAB0BD}
 :root[data-theme=dark] a.ext{border-bottom-color:#70414D}
-@media(prefers-color-scheme:dark){
-:root:not([data-theme=light]){--ground:#120E10;--paper:#1C1518;--ink:#F7F2F3;--ink2:#C4B7BB;--ink3:#978A8F;--rule:#382B30;--accent:#D8899A;--accent-soft:#3A2028;--new:#D8899A;--rail-bg:#100C0E;--rail-deep:#0C090A;--rail-rule:#2B2024;--rail-text:#FAF5F6;--rail-muted:#A99BA0;--rail-hover:#251A1E;--toolbar-bg:rgba(18,14,16,.94)}
-:root:not([data-theme=light]) #rail{background:linear-gradient(180deg,var(--rail-bg) 0%,var(--rail-deep) 100%)}
-:root:not([data-theme=light]) .docswitch a.on{background:var(--accent);border-color:var(--accent)}
-:root:not([data-theme=light]) #menu,:root:not([data-theme=light]) #top{background:var(--accent);color:#fff}
-:root:not([data-theme=light]) #tools{background:var(--toolbar-bg)}
-:root:not([data-theme=light]) .tbtn.on{background:var(--accent);color:#fff;border-color:var(--accent)}
-:root:not([data-theme=light]) .audit>summary:hover{background:var(--accent-soft)}
-:root:not([data-theme=light]) tr:hover td{background:#24191D}
-:root:not([data-theme=light]) .badge{background:#2A2024;color:var(--ink2)}
-:root:not([data-theme=light]) .badge.new{background:var(--accent-soft);color:#EAB0BD}
-:root:not([data-theme=light]) .related b{color:#EAB0BD}
-:root:not([data-theme=light]) a.ext{border-bottom-color:#70414D}
-}
-
 /* ---------- reader readability refinement ---------- */
 :root{--measure:66ch}
 body{font-size:17.25px;line-height:1.72}
@@ -401,7 +368,6 @@ table{font-size:.92rem;line-height:1.55}
 th{font-size:.66rem}
 td{padding:.65rem .75rem}
 :root[data-theme=dark]{--ink2:#D1C5C9;--ink3:#AA9CA1;--rule:#44343A}
-@media(prefers-color-scheme:dark){:root:not([data-theme=light]){--ink2:#D1C5C9;--ink3:#AA9CA1;--rule:#44343A}}
 @media(max-width:1080px){
   body{font-size:17px}
   main{padding-left:1.25rem;padding-right:1.25rem}
@@ -531,9 +497,6 @@ td{padding:.65rem .75rem}
   box-shadow:0 8px 22px rgba(33,26,28,.18)
 }
 :root[data-theme=dark] #search{background:#171114}
-@media(prefers-color-scheme:dark){
-  :root:not([data-theme=light]) #search{background:#171114}
-}
 @media(max-width:1080px){
   #rail{width:min(86vw,320px)}
   .masthead{padding-top:4rem;margin-bottom:1.4rem}
@@ -553,6 +516,8 @@ td{padding:.65rem .75rem}
   .masthead{padding-bottom:1.55rem}
   .masthead h1{font-size:2.2rem}
   .meta{gap:.4rem 1rem}
+  .reader-context{font-size:.63rem;margin-bottom:1rem}
+  .reader-context .reader-doc,.reader-context .reader-doc-sep{display:none}
 }
 
 /* ---------- focus reading mode ---------- */
@@ -727,14 +692,11 @@ figcaption{
 }
 hr+*{margin-top:0}
 
-:root[data-theme=dark] blockquote,
-:root:not([data-theme=light]) blockquote{
+:root[data-theme=dark] blockquote{
   background:color-mix(in srgb,var(--paper) 86%,var(--accent-soft))
 }
-@media(prefers-color-scheme:dark){
-  :root:not([data-theme=light]) tbody tr:nth-child(even) td{
-    background:color-mix(in srgb,var(--paper) 92%,var(--ground))
-  }
+:root[data-theme=dark] tbody tr:nth-child(even) td{
+  background:color-mix(in srgb,var(--paper) 92%,var(--ground))
 }
 @media(max-width:640px){
   blockquote{padding:.9rem 1rem}
@@ -751,7 +713,7 @@ hr+*{margin-top:0}
     <p class="doctitle">Bible Deep Dive: Study Notes</p>
     <p class="docsub">Findings &amp; textual analysis</p>
     <div class="quicknav"><a class="app-link" href="app/" title="Open the app">App</a><a class="search-link" href="search.html">Search</a></div>
-    <details class="library"><summary><span>Library</span><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></summary><div class="docswitch"><a class="on" href="#">Study Notes</a><a href="field-guide.html">Observations</a><a href="history.html">History</a><a href="sources.html">Sources</a><a href="other-side.html">The Strongest Case</a><a href="translations.html">Translations</a><a href="method-reference.html">Method &amp; Reference</a><a href="glossary.html">Glossary</a><a href="cited-persons.html">Cited Persons</a></div></details>
+    <details class="library"><summary><span>Library</span><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></summary><div class="docswitch"><a class="on" href="#">Study Notes</a><a href="field-guide.html">Observations</a><a href="history.html">History</a><a href="sources.html">Sources</a><a href="other-side.html">The Strongest Case</a><a href="translations.html">Translations</a><a href="method-reference.html">Method &amp; Reference</a><a href="glossary.html">Glossary</a><a href="cited-persons.html">Cited Persons</a><a href="religion-law.html">Religion &amp; Law</a><a href="personal-belief-history.html">Personal History</a></div></details>
   </header>
   <input id="search" type="search" placeholder="Search  ( / )" aria-label="Search document">
   <div id="toc"><a class="lvl2" href="#s0"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">0</span> Reading Approach &amp; Stance</a>
@@ -837,6 +799,7 @@ hr+*{margin-top:0}
 </nav>
 <main>
   <div class="masthead">
+    <nav class="reader-context" aria-label="Breadcrumb"><a href="index.html">Library</a><span class="sep">›</span><span class="reader-doc">Bible Deep Dive: Study Notes</span><span class="sep reader-doc-sep">›</span><span id="reader-current">Overview</span></nav>
     <p class="lens">Critical / Historical / Moral Lens</p>
     <h1>Bible Deep Dive: Study Notes</h1>
     <div class="meta"><span><b>Source</b>ESV + audiobook</span><span><b>Updated</b>August 2026</span><span><b>Companion</b><a href="field-guide.html">Observations</a></span></div>
@@ -1285,13 +1248,19 @@ addEventListener('scroll',()=>{
   $('#top').classList.toggle('show',h.scrollTop>600);
 },{passive:true});
 
-/* scrollspy */
-const heads=$$('h2[id],h3[id]');
+/* scrollspy + current location */
+const heads=$('h2[id],h3[id]');
+const currentLabel=$('#reader-current');
+const setCurrentLocation=text=>{
+  const label=(text||'Overview').trim();
+  $('#here').textContent=label;
+  if(currentLabel)currentLabel.textContent=label;
+};
 const spy=new IntersectionObserver(es=>{
   es.forEach(e=>{if(!e.isIntersecting)return;
     const id=e.target.id;
     $$('#toc a').forEach(a=>a.classList.toggle('here',a.getAttribute('href')==='#'+id));
-    const l=$('#toc a.here'); if(l){$('#here').textContent=l.textContent;
+    const l=$('#toc a.here'); if(l){setCurrentLocation(l.textContent);
       const r=l.getBoundingClientRect(),c=$('#toc').getBoundingClientRect();
       if(r.top<c.top||r.bottom>c.bottom)l.scrollIntoView({block:'center'});}
   });
@@ -1337,7 +1306,10 @@ addEventListener('click',e=>{
   const dd=t.matches('details')?t:null; if(dd)dd.open=true;
   t.classList.remove('flash'); void t.offsetWidth; t.classList.add('flash');
 });
-if(location.hash){const t=$(location.hash);const d=t&&t.closest('details');if(d)d.open=true;}
+if(location.hash){
+  const t=$(location.hash),d=t&&t.closest('details');if(d)d.open=true;
+  const a=tocA.find(link=>link.getAttribute('href')===location.hash);if(a)setCurrentLocation(a.textContent);
+}
 
 $$('.gloss').forEach(g=>g.addEventListener('mouseenter',()=>{
   const t=g.querySelector('.tip'); g.classList.remove('flip');
