@@ -1,6 +1,6 @@
 # Bible Deep Dive — Document Set
 
-*Nine-document research corpus. Last rebuilt August 2026.*
+*Nine-document research corpus. Last rebuilt September 2026.*
 
 ## The two formats, and why it matters
 
@@ -47,7 +47,7 @@ Audit entries also carry a `CHECKED` date. Anything without one has not been ver
 
 ## Reading order for the HTML set
 
-Open `master-notes.html` first. All nine link to each other from the sidebar — keep them in the same folder or the links break.
+Open `master-notes.html` first. The research readers share the Documents switcher, while the deployed site also links Library, Search, Religion & Law, Personal History, and the structured app.
 
 ## Standalone app bundle
 
