@@ -55,10 +55,11 @@
     '#cf-alt a{color:#1F5E5B}';
   /* correction UI polish */
   style.textContent +=
-    '#cf-btn{left:auto;right:1.25rem;bottom:1.25rem;background:#8B3A4A;border-radius:999px;' +
+    '#cf-btn{left:auto;right:1.25rem;bottom:4.8rem;background:#8B3A4A;border-radius:999px;' +
       'padding:.55rem .85rem;box-shadow:0 8px 24px rgba(33,26,28,.22)}' +
     '#cf-btn:hover{background:#6F2D3A;transform:translateY(-1px)}' +
     '#cf-btn:focus-visible{outline:3px solid rgba(139,58,74,.28);outline-offset:2px}' +
+    '@media(min-width:1081px){#cf-btn{left:1.25rem;right:auto;bottom:1.25rem}}' +
     '#cf-panel{border-top-color:#8B3A4A}' +
     '@media(min-width:640px){#cf-panel{border-color:#8B3A4A;border-radius:14px;box-shadow:0 18px 50px rgba(33,26,28,.20)}}' +
     '#cf-panel h3{color:#241B1E}' +
@@ -78,7 +79,13 @@
       '#cf-panel input,#cf-panel textarea,#cf-panel select{background:#120E10;color:#F7F2F3;border-color:#44343A}' +
       '#cf-panel input:focus,#cf-panel textarea:focus{outline-color:#D8899A;border-color:#D8899A}' +
       '#cf-submit{background:#8B3A4A}#cf-cancel{background:#2A2024;color:#C4B7BB;border-color:#44343A!important}' +
-      '#cf-alt{color:#978A8F}#cf-alt a{color:#D8899A}}';
+      '#cf-alt{color:#978A8F}#cf-alt a{color:#D8899A}}' +
+    ':root[data-theme=dark] #cf-panel{background:#1C1518;border-color:#D8899A;color:#F7F2F3}' +
+    ':root[data-theme=dark] #cf-panel h3{color:#F7F2F3}:root[data-theme=dark] #cf-panel h3 button{color:#BBAEB2}' +
+    ':root[data-theme=dark] #cf-panel label{color:#C4B7BB}' +
+    ':root[data-theme=dark] #cf-panel input,:root[data-theme=dark] #cf-panel textarea,:root[data-theme=dark] #cf-panel select{background:#120E10;color:#F7F2F3;border-color:#44343A}' +
+    ':root[data-theme=dark] #cf-submit{background:#8B3A4A}:root[data-theme=dark] #cf-cancel{background:#2A2024;color:#C4B7BB;border-color:#44343A!important}' +
+    ':root[data-theme=dark] #cf-alt{color:#978A8F}:root[data-theme=dark] #cf-alt a{color:#D8899A}';
 
   document.head.appendChild(style);
 
