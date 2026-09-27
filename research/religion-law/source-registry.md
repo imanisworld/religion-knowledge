@@ -22,6 +22,11 @@
 - Delaware Code Online — Constitution: https://www.delcode.delaware.gov/constitution/
 - Florida Legislature — Constitution and Statutes: https://www.leg.state.fl.us/statutes/
 - Georgia Secretary of State — Georgia Constitution: https://sos.ga.gov/georgia-constitution
+- Hawaii State Legislature — Constitution: https://data.capitol.hawaii.gov/hrscurrent/Vol01_Ch0001-0042F/05-CONST/CONST_.htm
+- Idaho Secretary of State — Idaho Constitution: https://sos.idaho.gov/elections/publications/Idaho_Constitution.pdf
+- Illinois General Assembly — Illinois Constitution: https://ilga.gov/commission/lrb/conent.htm
+- Illinois General Assembly — Illinois Compiled Statutes: https://www.ilga.gov/legislation/ilcs/ilcs.asp
+- Indiana State Library — Indiana Constitution guide/current-link hub: https://www.in.gov/library/collections-and-services/indiana/subject-guides-to-indiana-collection-materials/indiana-constitution/
 
 ## Comparative research hubs
 

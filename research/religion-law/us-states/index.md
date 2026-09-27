@@ -14,10 +14,10 @@ This directory is a research scaffold, not a completed legal database.
 | [Delaware](delaware.md) | First-pass baseline verified; expansion pending |
 | [Florida](florida.md) | First-pass baseline verified; expansion pending |
 | [Georgia](georgia.md) | First-pass baseline verified; expansion pending |
-| [Hawaii](hawaii.md) | Scaffold only — research pending |
-| [Idaho](idaho.md) | Scaffold only — research pending |
-| [Illinois](illinois.md) | Scaffold only — research pending |
-| [Indiana](indiana.md) | Scaffold only — research pending |
+| [Hawaii](hawaii.md) | First-pass baseline verified; expansion pending |
+| [Idaho](idaho.md) | First-pass baseline verified; expansion pending |
+| [Illinois](illinois.md) | First-pass baseline verified; expansion pending |
+| [Indiana](indiana.md) | First-pass baseline verified; expansion pending |
 | [Iowa](iowa.md) | Scaffold only — research pending |
 | [Kansas](kansas.md) | Scaffold only — research pending |
 | [Kentucky](kentucky.md) | Scaffold only — research pending |
