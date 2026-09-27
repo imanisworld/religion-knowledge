@@ -1,0 +1,21 @@
+{
+  "id": "dty_el_canaanite",
+  "name": "El / Ilu (Canaanite-Ugaritic)",
+  "region": [
+    "Levant"
+  ],
+  "identifications": [],
+  "domain_history": [
+    {
+      "domain": "senior/high god and patriarchal head of the Ugaritic divine assembly",
+      "period": {
+        "earliest": -1400,
+        "latest": -1200,
+        "precision": "CENTURY",
+        "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+      },
+      "claim_id": "claim_el_ugaritic_head_pantheon"
+    }
+  ],
+  "notes": "This node models El as a distinct deity in the Ugaritic/Canaanite evidence. It does not assume that every occurrence of the Northwest Semitic common noun 'el' means this proper-name deity."
+}

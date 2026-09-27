@@ -1,0 +1,59 @@
+{
+  "id": "claim_israelite_canaanite_continuity",
+  "subject_type": "Tradition",
+  "subject_id": "trad_early_israelite_yahwism",
+  "statement": "Modern critical scholarship commonly models early Israelite religion as developing at least partly within the Canaanite cultural-religious matrix rather than as an initially isolated system wholly separate from its Levantine neighbors.",
+  "claim_tier": "INTERPRETATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z3",
+  "zoom_max": "Z6",
+  "region": [
+    "Levant"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY",
+    "INSCRIPTION",
+    "COMPARATIVE_RECONSTRUCTION"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Mark S. Smith, The Early History of God: Yahweh and the Other Deities in Ancient Israel, 2nd ed. (Eerdmans, 2002).",
+      "author": "Mark S. Smith",
+      "year": 2002,
+      "venue": "Eerdmans",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Publisher summary explicitly states that Israelite religion developed, at least in part, from Canaanite religion and rejects a clean initial cultural-religious separation."
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Theodore J. Lewis, The Origin and Character of God (Oxford University Press, 2020), chs. 4 and 6.",
+      "author": "Theodore J. Lewis",
+      "year": 2020,
+      "venue": "Oxford University Press",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Oxford abstracts explicitly treat El worship, Yahweh's origins, and a Canaanite cultural continuum through the Late Bronze and Iron Ages."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "This does not mean every Israelite community practiced the same religion.",
+    "This does not establish that Yahweh himself originated as a Canaanite deity.",
+    "This does not turn every Canaanite-Israelite similarity into a borrowing event."
+  ],
+  "adversarial_counter": "Yahweh may have had a distinct southern origin; cultural continuity in Israel does not require Yahweh's own ultimate origin to be Canaanite.",
+  "status": "verified",
+  "notes": "Backs the tradition-level CULTURAL_FUSION relationship while preserving the separate southern-origin question."
+}

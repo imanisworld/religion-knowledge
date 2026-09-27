@@ -1,0 +1,72 @@
+{
+  "id": "claim_yahweh_baal_imagery_appropriation",
+  "subject_type": "Tradition",
+  "subject_id": "trad_early_israelite_yahwism",
+  "statement": "Critical scholarship identifies Yahwistic reuse and adaptation of Canaanite/Baalistic storm, kingship, and chaos-combat imagery; the strongest formulation is cultural inheritance and appropriation within the Northwest Semitic world, not direct copying of the surviving Ugaritic Baal Cycle tablets.",
+  "claim_tier": "INTERPRETATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Levant"
+  ],
+  "evidence_types": [
+    "LINGUISTIC",
+    "WRITTEN_PRIMARY",
+    "COMPARATIVE_RECONSTRUCTION"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "John Day, Yahweh and the Gods and Goddesses of Canaan (Sheffield Academic Press, 2000), ch. 4, “Yahweh's Appropriation of Baal Imagery.”",
+      "author": "John Day",
+      "year": 2000,
+      "venue": "Sheffield Academic Press",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Book contents explicitly identify a chapter devoted to Yahweh's appropriation of Baal imagery."
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "John Day, God's Conflict with the Dragon and the Sea (Cambridge University Press, 1985).",
+      "author": "John Day",
+      "year": 1985,
+      "venue": "Cambridge University Press",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Publisher summary states that Day demonstrates a source in Canaanite mythology for biblical dragon/sea conflict imagery."
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "David Noel Freedman and C. Franke Hyland, “Psalm 29: A Structural Analysis,” Harvard Theological Review 66 (1973): 237–256.",
+      "author": "David Noel Freedman; C. Franke Hyland",
+      "year": 1973,
+      "venue": "Harvard Theological Review",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Cambridge extract describes the voice of Yahweh in Psalm 29 as an adaptation of praises of Baal and notes Yahweh/Baal storm-kingship parallels."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "This does not establish direct literary borrowing from KTU 1.1–1.6 by biblical authors.",
+    "This does not mean all Yahwistic storm imagery derives uniquely from Baal.",
+    "This does not imply that appropriation and polemic against Baal could not coexist."
+  ],
+  "adversarial_counter": "Storm-war imagery also occurs beyond the Northwest Semitic sphere, and not every biblical use can be assigned a single Canaanite source or transmission route.",
+  "status": "verified",
+  "notes": "Backs a CULTURAL_FUSION edge from the Canaanite/Baal narrative horizon into early Israelite Yahwism."
+}

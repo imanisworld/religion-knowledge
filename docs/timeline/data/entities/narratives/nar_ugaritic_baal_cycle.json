@@ -1,0 +1,56 @@
+{
+  "id": "nar_ugaritic_baal_cycle",
+  "name": "Ugaritic Baal Cycle",
+  "genre": "sacred_narrative",
+  "tradition_id": "trad_late_bronze_canaanite_religion",
+  "region": [
+    "Levant"
+  ],
+  "language": "Ugaritic",
+  "source_label": "Baal Cycle, KTU 1.1–1.6",
+  "motif_tags": [
+    "DIVINE_WAR"
+  ],
+  "dating": {
+    "earliest_archaeological_evidence": {
+      "range": {
+        "earliest": -1400,
+        "latest": -1200,
+        "precision": "CENTURY"
+      },
+      "note": "The Baal Cycle survives on Late Bronze Age cuneiform tablets excavated at Ugarit/Ras Shamra."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": -1400,
+        "latest": -1200,
+        "precision": "CENTURY"
+      },
+      "note": "KTU 1.1–1.6 belong to the Ugaritic Late Bronze Age textual corpus."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": -1400,
+        "latest": -1200,
+        "precision": "CENTURY"
+      },
+      "note": "The surviving cuneiform tablets themselves provide the manuscript horizon."
+    },
+    "estimated_composition": null,
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "The cycle narrates divine conflicts and kingship rather than historical calendar events."
+    },
+    "estimated_oral_origin": null,
+    "dating_summary": "The Baal Cycle is securely preserved in the Late Bronze Age Ugaritic archive; this seed does not assign a point date to first composition or an earlier oral form."
+  },
+  "relationships": [
+    {
+      "edge_type": "CULTURAL_FUSION",
+      "target_id": "trad_early_israelite_yahwism",
+      "confidence": "HIGH",
+      "claim_id": "claim_yahweh_baal_imagery_appropriation"
+    }
+  ],
+  "notes": "Added for Phase 7 because scholarship explicitly discusses Yahwistic appropriation/adaptation of Baalistic storm and combat imagery. The narrative node itself does not assert that influence."
+}

@@ -1,0 +1,21 @@
+{
+  "id": "dty_baal_hadad",
+  "name": "Baal / Hadad (Ugaritic storm god)",
+  "region": [
+    "Levant"
+  ],
+  "identifications": [],
+  "domain_history": [
+    {
+      "domain": "storm/divine-war deity associated with cloud-riding imagery and conflict with Sea/Yamm",
+      "period": {
+        "earliest": -1400,
+        "latest": -1200,
+        "precision": "CENTURY",
+        "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+      },
+      "claim_id": "claim_baal_cycle_storm_war_imagery"
+    }
+  ],
+  "notes": "The title Baal ('lord') can be used broadly; this node is the Ugaritic Baal/Hadad figure represented especially in the Baal Cycle."
+}

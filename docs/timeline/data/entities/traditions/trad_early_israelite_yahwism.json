@@ -1,0 +1,21 @@
+{
+  "id": "trad_early_israelite_yahwism",
+  "name": "Early Israelite Yahwism (Iron Age, pre-exilic)",
+  "category_tags": [
+    "mixed"
+  ],
+  "region": [
+    "Levant"
+  ],
+  "dating": {
+    "dating_summary": "This entity models pre-exilic Iron Age Yahwistic religion as a changing field rather than a single timeless theology; its start is not assigned a fake point date, and later exclusive monotheism is not projected backward onto every early community.",
+    "earliest_archaeological_evidence": null,
+    "earliest_written_attestation": null,
+    "surviving_manuscript_date": null,
+    "estimated_composition": null,
+    "tradition_internal_claim": null,
+    "estimated_oral_origin": null
+  },
+  "relationships": [],
+  "notes": "The 'mixed' tag is deliberate: early Israelite religion changed across regions and centuries. This node does not claim that every Israelite group held the same pantheon, cult practice, or degree of exclusivity."
+}
