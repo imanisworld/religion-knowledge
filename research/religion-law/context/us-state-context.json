@@ -332,45 +332,323 @@
   {
     "state": "Arizona",
     "slug": "arizona",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-09-27",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/arizona/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±5.5 percentage points for adults in Arizona",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "19%",
+          "percent": 19,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "21%",
+          "percent": 21,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "10%",
+          "percent": 10,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "5%",
+          "percent": 5,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "3%",
+          "percent": 3,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "5%",
+          "percent": 5,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "22%",
+          "percent": 22,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Arizona table are Catholic (21%), Evangelical Protestant (19%), Mainline Protestant (10%), and Latter-day Saint (5%). Pew lists 3% atheist, 5% agnostic, and 22% nothing in particular. Figures are survey estimates; the state margin of error is ±5.5 percentage points, 2% did not answer, and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
       "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 5,
+      "documented_affiliations": 3,
+      "summary": "Arizona has five applicable tracked positions in this snapshot because the new lieutenant-governor office applies beginning with the term starting in 2027. Three of five current tracked officeholders have publicly documented affiliations in the sources reviewed: Catholic, Christian with an Apostolic pastoral background, and Latter-day Saint. The attorney general and chief justice remain unknown rather than inferred.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Katie Hobbs",
+          "affiliation_status": "documented",
+          "affiliation": "Catholic",
+          "affiliation_detail": "Vote Smart's current biography lists Hobbs's religion as Catholic.",
+          "office_source": "https://azgovernor.gov/",
+          "affiliation_source": "https://justfacts.votesmart.org/candidate/biography/123724/katie-hobbs",
+          "source_note": "Current office is verified by the official Arizona governor site; affiliation is separately documented by Vote Smart."
+        },
+        {
+          "office": "Attorney General",
+          "name": "Kris Mayes",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Current Arizona Attorney General materials reviewed do not state a religious affiliation.",
+          "office_source": "https://www.azag.gov/",
+          "source_note": "No affiliation inferred."
+        },
+        {
+          "office": "Speaker of the House",
+          "name": "Steve Montenegro",
+          "affiliation_status": "documented",
+          "affiliation": "Christian",
+          "affiliation_detail": "A prior official Arizona Legislature biography identifies Montenegro as a minister and assistant/youth pastor at Surprise Apostolic Assembly.",
+          "office_source": "https://www.azleg.gov/MemberRoster/",
+          "affiliation_source": "https://www.azleg.gov/house-member/?legislator=1651&legislature=52&session=115",
+          "source_note": "Current Speaker status is verified by the current legislative roster; the explicit pastoral affiliation comes from an older official legislative biography."
+        },
+        {
+          "office": "Senate President",
+          "name": "Warren Petersen",
+          "affiliation_status": "documented",
+          "affiliation": "Latter-day Saint",
+          "affiliation_detail": "An Arizona Capitol Times candidate profile explicitly listed Petersen's religious preference as LDS.",
+          "office_source": "https://www.azleg.gov/senate-member/?legislator=2139&legislature=56",
+          "affiliation_source": "https://azcapitoltimes.com/election-2012/2012/warren-petersen/",
+          "source_note": "Current Senate President status is verified by the Arizona Legislature; the affiliation source is an older explicit candidate profile and is labeled accordingly."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "Ann A. Scott Timmer",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Current Arizona Courts biography reviewed does not state a religious affiliation.",
+          "office_source": "https://www.azcourts.gov/MeetTheJustices/ChiefJusticeAnnAScottTimmer",
+          "source_note": "No affiliation inferred."
+        }
+      ]
     }
   },
   {
     "state": "Arkansas",
     "slug": "arkansas",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-09-27",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/arkansas/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±7.3 percentage points for adults in Arkansas",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "50%",
+          "percent": 50,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "5%",
+          "percent": 5,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "13%",
+          "percent": 13,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "8%",
+          "percent": 8,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "4%",
+          "percent": 4,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "12%",
+          "percent": 12,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Arkansas table are Evangelical Protestant (50%), Mainline Protestant (13%), Historically Black Protestant (8%), and Catholic (5%). Pew lists 2% atheist, 4% agnostic, and 12% nothing in particular. Figures are survey estimates; the state margin of error is ±7.3 percentage points and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
       "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 6,
+      "documented_affiliations": 4,
+      "summary": "Four of six tracked Arkansas power positions have publicly documented Christian affiliations in the sources reviewed: the governor identifies with Christian faith, and the attorney general, House speaker, and Senate president pro tempore have documented Baptist affiliations. The lieutenant governor and chief justice remain unknown, so no affiliation is inferred for them.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Sarah Huckabee Sanders",
+          "affiliation_status": "documented",
+          "affiliation": "Christian",
+          "affiliation_detail": "In a direct Baptist Press interview, Sanders discussed how her Christian faith intersects with her work.",
+          "office_source": "https://governor.arkansas.gov/administration/governor-sanders/",
+          "affiliation_source": "https://www.baptistpress.com/resource-library/news/sarah-huckabee-sanders-believer-mom-in-white-house/",
+          "source_note": "Current office is verified by the official governor biography; the affiliation source is a direct interview from her White House service."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "Leslie Rutledge",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Current official lieutenant-governor biography reviewed does not state a religious affiliation.",
+          "office_source": "https://ltgovernor.arkansas.gov/meet-leslie-rutledge/",
+          "source_note": "No affiliation inferred from prior political work or education."
+        },
+        {
+          "office": "Attorney General",
+          "name": "Tim Griffin",
+          "affiliation_status": "documented",
+          "affiliation": "Baptist / Christian",
+          "affiliation_detail": "Vote Smart lists Griffin as a member of Immanuel Baptist Church of Little Rock; Arkansas Attorney General releases have also stated that he attends Immanuel Baptist Church.",
+          "office_source": "https://arkansasag.gov/meet-tim/",
+          "affiliation_source": "https://justfacts.votesmart.org/candidate/biography/119213/tim-griffin",
+          "source_note": "Current office is verified by the official Attorney General biography."
+        },
+        {
+          "office": "Speaker of the House",
+          "name": "Brian S. Evans",
+          "affiliation_status": "documented",
+          "affiliation": "Baptist / Christian",
+          "affiliation_detail": "The current Arkansas Legislature profile lists Evans's church affiliation as Baptist.",
+          "office_source": "https://www.arkansashouse.org/representatives/meet-the-speaker/",
+          "affiliation_source": "https://www.arkleg.state.ar.us/Legislators/Detail?member=Evans",
+          "source_note": "Current Speaker status and Baptist affiliation are both supported by official legislative sources."
+        },
+        {
+          "office": "Senate President Pro Tempore",
+          "name": "Bart Hester",
+          "affiliation_status": "documented",
+          "affiliation": "Baptist / Christian",
+          "affiliation_detail": "The current Arkansas Legislature profile lists Hester's church affiliation as Baptist.",
+          "office_source": "https://senate.arkansas.gov/leadership/",
+          "affiliation_source": "https://arkleg.state.ar.us/Legislators/Detail?member=Hester",
+          "source_note": "Current leadership status and Baptist affiliation are both supported by official legislative sources."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "Karen R. Baker",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Current Arkansas Judiciary biography reviewed does not state a religious affiliation.",
+          "office_source": "https://arcourts.gov/courts/supreme-court/justices/chief-justice-karen-r-baker-position-1",
+          "source_note": "No affiliation inferred."
+        }
+      ]
     }
   },
   {
