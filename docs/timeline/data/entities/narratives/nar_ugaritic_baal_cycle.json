@@ -44,6 +44,13 @@
     "estimated_oral_origin": null,
     "dating_summary": "The Baal Cycle is securely preserved in the Late Bronze Age Ugaritic archive; this seed does not assign a point date to first composition or an earlier oral form."
   },
-  "relationships": [],
+  "relationships": [
+    {
+      "edge_type": "CULTURAL_FUSION",
+      "target_id": "trad_early_israelite_yahwism",
+      "confidence": "HIGH",
+      "claim_id": "claim_yahweh_baal_imagery_appropriation"
+    }
+  ],
   "notes": "Added for Phase 7 because scholarship explicitly discusses Yahwistic appropriation/adaptation of Baalistic storm and combat imagery. The narrative node itself does not assert that influence."
 }
