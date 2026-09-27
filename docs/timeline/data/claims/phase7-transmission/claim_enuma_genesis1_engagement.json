@@ -1,0 +1,85 @@
+{
+  "id": "claim_enuma_genesis1_engagement",
+  "subject_type": "Narrative",
+  "subject_id": "nar_genesis1_priestly",
+  "statement": "Scholars disagree over whether Genesis 1 shows specific literary engagement with Enūma Eliš or instead draws from a broader ancient West Asian cosmological environment; direct borrowing from Enūma Eliš is not established.",
+  "claim_tier": "CAUSAL_EXPLANATION",
+  "related_observation_id": "claim_enuma_genesis1_parallel",
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Levant",
+    "Mesopotamia"
+  ],
+  "evidence_types": [
+    "COMPARATIVE_RECONSTRUCTION"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "David M. Carr argues that Genesis 1 shows particular engagement with Enūma Eliš, while Alexander Heidel and others regard direct dependence as unproven and leave broader shared background or other precursors open.",
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "David M. Carr, The Formation of Genesis 1–11: Biblical and Other Precursors (Oxford University Press, 2020), ch. 1, “Precursors to the Priestly Creation Account (Gen 1:1–2:3).”",
+      "author": "David M. Carr",
+      "year": 2020,
+      "venue": "Oxford University Press",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Oxford abstract states that Carr builds a case for particular engagement with Enūma Eliš and then considers additional biblical and nonbiblical precursors."
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Alexander Heidel, The Babylonian Genesis: The Story of Creation, 2nd ed. (University of Chicago Press, 1963; orig. 1951).",
+      "author": "Alexander Heidel",
+      "year": 1963,
+      "venue": "University of Chicago Press",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "University of Chicago scan concludes that incontrovertible evidence for or against dependence could not be produced and leaves the question open."
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "Genesis 1 shows specific engagement with Enūma Eliš as part of its formation.",
+      "holders": [
+        {
+          "name": "David M. Carr",
+          "work": "The Formation of Genesis 1–11",
+          "year": 2020,
+          "camp": "specific literary engagement"
+        }
+      ],
+      "strongest_case": "The Priestly account can be read as responding to a recognizable Mesopotamian creation tradition in an exilic/post-exilic scribal setting.",
+      "status": "CONTESTED"
+    },
+    {
+      "position": "The similarities do not demonstrate direct dependence on Enūma Eliš and may reflect broader ancient West Asian background or multiple precursors.",
+      "holders": [
+        {
+          "name": "Alexander Heidel",
+          "work": "The Babylonian Genesis",
+          "year": 1963,
+          "camp": "non-demonstrated direct dependence"
+        }
+      ],
+      "strongest_case": "Differences are substantial and shared motifs are not unique to Enūma Eliš, so a unique source-target dependence cannot be established from resemblance alone.",
+      "status": "CONTESTED"
+    }
+  ],
+  "does_not_demonstrate": [
+    "This does not establish that Genesis 1 copied Enūma Eliš.",
+    "This does not establish a unique Babylonian source for every Genesis 1 motif.",
+    "This does not convert motif similarity into a transmission claim without the cited scholarly argument."
+  ],
+  "adversarial_counter": "The same motifs occur across multiple ancient West Asian traditions, and chronology/contact opportunity alone cannot identify a unique source.",
+  "status": "verified",
+  "notes": "Backs a DISPUTED UNCERTAIN_CONNECTION edge, not BORROWING."
+}

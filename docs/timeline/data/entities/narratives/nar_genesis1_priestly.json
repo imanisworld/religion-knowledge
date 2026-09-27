@@ -40,5 +40,12 @@
     "dating_summary": "Widely identified as Priestly material; this seed uses a broad disputed sixth-to-fifth-century BCE composition range rather than a point date."
   },
   "notes": "Modeled separately from Genesis 2:4b–3:24 because critical scholarship widely treats them as distinct creation accounts.",
-  "relationships": []
+  "relationships": [
+    {
+      "edge_type": "UNCERTAIN_CONNECTION",
+      "target_id": "nar_enuma_elish",
+      "confidence": "DISPUTED",
+      "claim_id": "claim_enuma_genesis1_engagement"
+    }
+  ]
 }

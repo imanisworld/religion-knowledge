@@ -46,5 +46,12 @@
     "dating_summary": "Modern scholarship generally places the Theogony around the late eighth to mid-seventh century BCE; the earliest complete surviving manuscripts are much later, at the end of the thirteenth century CE."
   },
   "notes": "The narrative begins with Chaos, Gaia, Tartarus, and Eros and proceeds through divine generations and succession conflicts.",
-  "relationships": []
+  "relationships": [
+    {
+      "edge_type": "CULTURAL_FUSION",
+      "target_id": "nar_song_of_emergence",
+      "confidence": "HIGH",
+      "claim_id": "claim_kumarbi_hesiod_transmission"
+    }
+  ]
 }
