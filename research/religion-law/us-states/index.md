@@ -26,13 +26,13 @@ This directory is a research scaffold, not a completed legal database.
 | [Maryland](maryland.md) | Anchor baseline verified; expansion pending |
 | [Massachusetts](massachusetts.md) | Anchor baseline verified; causation expansion pending |
 | [Michigan](michigan.md) | First-pass baseline verified; expansion pending |
-| [Minnesota](minnesota.md) | Scaffold only — research pending |
-| [Mississippi](mississippi.md) | Scaffold only — research pending |
-| [Missouri](missouri.md) | Scaffold only — research pending |
+| [Minnesota](minnesota.md) | First-pass baseline verified; expansion pending |
+| [Mississippi](mississippi.md) | First-pass baseline verified; expansion pending |
+| [Missouri](missouri.md) | First-pass baseline verified; expansion pending |
 | [Montana](montana.md) | Anchor baseline verified; expansion pending |
-| [Nebraska](nebraska.md) | Scaffold only — research pending |
-| [Nevada](nevada.md) | Scaffold only — research pending |
-| [New Hampshire](new-hampshire.md) | Scaffold only — research pending |
+| [Nebraska](nebraska.md) | First-pass baseline verified; expansion pending |
+| [Nevada](nevada.md) | First-pass baseline verified; expansion pending |
+| [New Hampshire](new-hampshire.md) | First-pass baseline verified; expansion pending |
 | [New Jersey](new-jersey.md) | Scaffold only — research pending |
 | [New Mexico](new-mexico.md) | Scaffold only — research pending |
 | [New York](new-york.md) | Scaffold only — research pending |

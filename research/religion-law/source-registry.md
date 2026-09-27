@@ -31,6 +31,12 @@
 - Kansas Legislature — Constitution/statutes portal: https://www.kslegislature.gov/
 - Kentucky General Assembly — Constitution: https://apps.legislature.ky.gov/law/constitution
 - Michigan Legislature — Constitution and Compiled Laws: https://www.legislature.mi.gov/
+- Minnesota Revisor of Statutes — Constitution and statutes: https://www.revisor.mn.gov/
+- Mississippi Secretary of State — Constitution: https://www.sos.ms.gov/content/documents/ed_pubs/pubs/Mississippi_Constitution.pdf
+- Missouri Revisor of Statutes — Constitution and statutes: https://revisor.mo.gov/
+- Nebraska Legislature — Constitution: https://www.nebraskalegislature.gov/laws/browse-constitution.php
+- Nevada Legislature — Constitution: https://www.leg.state.nv.us/Const/NVConst.html
+- New Hampshire General Court — Constitution/statutes: https://gc.nh.gov/
 
 ## Comparative research hubs
 
