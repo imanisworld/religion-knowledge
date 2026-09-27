@@ -34,9 +34,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_af12f6003727e2f92692",
-    "text": "Companion to: Bible Deep Dive Study Notes · Observations\nLast updated: 7 August 2026",
-    "raw_text": "**Companion to:** Bible Deep Dive Study Notes · Observations\n**Last updated:** 7 August 2026",
+    "id": "rk_444a6f1a92589ea5c88b",
+    "text": "Companion to: Bible Deep Dive Study Notes · Observations\nLast updated: 26 September 2026",
+    "raw_text": "**Companion to:** Bible Deep Dive Study Notes · Observations\n**Last updated:** 26 September 2026",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1975,9 +1975,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_58093a3050918a4b6074",
-    "text": "Tacitus, Annals 15.44, c. 115 CE. Records that Christus was executed under Pilate during Tiberius's reign and that the movement spread from Judea to Rome. <cite index=\"28-1\">Modern scholarship treats the reference as independent and hostile to Christianity, which strengthens its evidentiary weight.</cite> Hostile witnesses do not invent flattering origins for people they despise. Caveat added 7 Aug 2026: Tacitus does not name his source. He independently attests what he understood the movement's origin to be; whether the execution detail derives from Roman records or from what Christians in Rome said about themselves is unknown, and it should not be asserted as independently derived from official archives.",
-    "raw_text": "**Tacitus,** *Annals* 15.44, c. 115 CE. Records that Christus was executed under Pilate during Tiberius's reign and that the movement spread from Judea to Rome. <cite index=\"28-1\">Modern scholarship treats the reference as independent and hostile to Christianity, which strengthens its evidentiary weight.</cite> Hostile witnesses do not invent flattering origins for people they despise. **Caveat added 7 Aug 2026:** Tacitus does not name his source. He independently attests what he understood the movement's origin to be; whether the execution detail derives from Roman records or from what Christians in Rome said about themselves is unknown, and it should not be asserted as independently derived from official archives.",
+    "id": "rk_52daeabae74978a33116",
+    "text": "Tacitus, Annals 15.44, c. 115 CE. Records that Christus was executed under Pilate during Tiberius's reign and that the movement spread from Judea to Rome. Modern scholarship treats the reference as independent and hostile to Christianity, which strengthens its evidentiary weight. Hostile witnesses do not invent flattering origins for people they despise. Caveat added 7 Aug 2026: Tacitus does not name his source. He independently attests what he understood the movement's origin to be; whether the execution detail derives from Roman records or from what Christians in Rome said about themselves is unknown, and it should not be asserted as independently derived from official archives.",
+    "raw_text": "**Tacitus,** *Annals* 15.44, c. 115 CE. Records that Christus was executed under Pilate during Tiberius's reign and that the movement spread from Judea to Rome. Modern scholarship treats the reference as independent and hostile to Christianity, which strengthens its evidentiary weight. Hostile witnesses do not invent flattering origins for people they despise. **Caveat added 7 Aug 2026:** Tacitus does not name his source. He independently attests what he understood the movement's origin to be; whether the execution detail derives from Roman records or from what Christians in Rome said about themselves is unknown, and it should not be asserted as independently derived from official archives.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -2006,9 +2006,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fec8c8291da63f0527a3",
-    "text": "Josephus, two passages. The James reference (Antiquities 20.200) mentions James, \"the brother of Jesus who was called Christ,\" and <cite index=\"28-1\">is widely accepted as authentic.</cite> The longer Testimonium Flavianum (Antiquities 18.63–64) <cite index=\"28-1\">contains language — explicit affirmation of the resurrection and messianic titles — that many scholars regard as later Christian interpolation, while a substantial core describing a wise man executed by Pilate is argued by several recent scholars to be original.</cite>",
-    "raw_text": "**Josephus,** two passages. The James reference (*Antiquities* 20.200) mentions James, \"the brother of Jesus who was called Christ,\" and <cite index=\"28-1\">is widely accepted as authentic.</cite> The longer *Testimonium Flavianum* (*Antiquities* 18.63–64) <cite index=\"28-1\">contains language — explicit affirmation of the resurrection and messianic titles — that many scholars regard as later Christian interpolation, while a substantial core describing a wise man executed by Pilate is argued by several recent scholars to be original.</cite>",
+    "id": "rk_a88a5b8644bfafd17e94",
+    "text": "Josephus, two passages. The James reference (Antiquities 20.200) mentions James, \"the brother of Jesus who was called Christ,\" and is widely accepted as authentic. The longer Testimonium Flavianum (Antiquities 18.63–64) contains language — explicit affirmation of the resurrection and messianic titles — that many scholars regard as later Christian interpolation, while a substantial core describing a wise man executed by Pilate is argued by several recent scholars to be original.",
+    "raw_text": "**Josephus,** two passages. The James reference (*Antiquities* 20.200) mentions James, \"the brother of Jesus who was called Christ,\" and is widely accepted as authentic. The longer *Testimonium Flavianum* (*Antiquities* 18.63–64) contains language — explicit affirmation of the resurrection and messianic titles — that many scholars regard as later Christian interpolation, while a substantial core describing a wise man executed by Pilate is argued by several recent scholars to be original.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -2037,9 +2037,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8f22e4ce7a753cdedace",
-    "text": "Do not say the Testimonium is a forgery as though it were established. Tim O'Neill [ATHEIST, History for Atheists] documents this precisely: <cite index=\"29-1\">Ken Olson and Paul Hopper have argued the passage is a wholesale later insertion rather than a Josephan text with Christian additions — solid work by qualified scholars with no obvious agenda — but they remain in the minority, while the idea that the Testimonium is a \"forgery\" has become almost an article of faith among online mythicism enthusiasts, stated as hard fact rather than as a minority interpretation.</cite>",
-    "raw_text": "**Do not say the Testimonium is a forgery as though it were established.** Tim O'Neill [ATHEIST, History for Atheists] documents this precisely: <cite index=\"29-1\">Ken Olson and Paul Hopper have argued the passage is a wholesale later insertion rather than a Josephan text with Christian additions — solid work by qualified scholars with no obvious agenda — but they remain in the minority, while the idea that the Testimonium is a \"forgery\" has become almost an article of faith among online mythicism enthusiasts, stated as hard fact rather than as a minority interpretation.</cite>",
+    "id": "rk_c4693a247bbb10512e7d",
+    "text": "Do not say the Testimonium is a forgery as though it were established. Tim O'Neill [ATHEIST, History for Atheists] documents this precisely: Ken Olson and Paul Hopper have argued the passage is a wholesale later insertion rather than a Josephan text with Christian additions — solid work by qualified scholars with no obvious agenda — but they remain in the minority, while the idea that the Testimonium is a \"forgery\" has become almost an article of faith among online mythicism enthusiasts, stated as hard fact rather than as a minority interpretation.",
+    "raw_text": "**Do not say the Testimonium is a forgery as though it were established.** Tim O'Neill [ATHEIST, History for Atheists] documents this precisely: Ken Olson and Paul Hopper have argued the passage is a wholesale later insertion rather than a Josephan text with Christian additions — solid work by qualified scholars with no obvious agenda — but they remain in the minority, while the idea that the Testimonium is a \"forgery\" has become almost an article of faith among online mythicism enthusiasts, stated as hard fact rather than as a minority interpretation.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -2068,9 +2068,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_44bcdefaa0555f5aa050",
-    "text": "Also: Pliny the Younger (c. 112 CE, administrative correspondence on how to handle Christians), Suetonius, Lucian, and later Talmudic references. <cite index=\"28-1\">Individually limited, together they establish that early Christians worshipped a crucified founder, that Roman officials knew of them, and that Jewish polemicists recognized Jesus-centered factions.</cite>",
-    "raw_text": "**Also:** Pliny the Younger (c. 112 CE, administrative correspondence on how to handle Christians), Suetonius, Lucian, and later Talmudic references. <cite index=\"28-1\">Individually limited, together they establish that early Christians worshipped a crucified founder, that Roman officials knew of them, and that Jewish polemicists recognized Jesus-centered factions.</cite>",
+    "id": "rk_e5d1df3461d61a9a762e",
+    "text": "Also: Pliny the Younger (c. 112 CE, administrative correspondence on how to handle Christians), Suetonius, Lucian, and later Talmudic references. Individually limited, together they establish that early Christians worshipped a crucified founder, that Roman officials knew of them, and that Jewish polemicists recognized Jesus-centered factions.",
+    "raw_text": "**Also:** Pliny the Younger (c. 112 CE, administrative correspondence on how to handle Christians), Suetonius, Lucian, and later Talmudic references. Individually limited, together they establish that early Christians worshipped a crucified founder, that Roman officials knew of them, and that Jewish polemicists recognized Jesus-centered factions.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -2688,9 +2688,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_444f60be82166f67cc7b",
-    "text": "What Nicaea (325 CE) actually did: <cite index=\"23-1\">its key purpose was resolving the Arian controversy over the status of Jesus as God the Son in relation to God the Father, producing the Nicene Creed that became the basis for later Christological formulations.</cite> It also set a common date for Easter and issued disciplinary canons.",
-    "raw_text": "**What Nicaea (325 CE) actually did:** <cite index=\"23-1\">its key purpose was resolving the Arian controversy over the status of Jesus as God the Son in relation to God the Father, producing the Nicene Creed that became the basis for later Christological formulations.</cite> It also set a common date for Easter and issued disciplinary canons.",
+    "id": "rk_97eedb8b525ec3d77a57",
+    "text": "What Nicaea (325 CE) actually did: its key purpose was resolving the Arian controversy over the status of Jesus as God the Son in relation to God the Father, producing the Nicene Creed that became the basis for later Christological formulations. It also set a common date for Easter and issued disciplinary canons.",
+    "raw_text": "**What Nicaea (325 CE) actually did:** its key purpose was resolving the Arian controversy over the status of Jesus as God the Son in relation to God the Father, producing the Nicene Creed that became the basis for later Christological formulations. It also set a common date for Easter and issued disciplinary canons.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -2719,9 +2719,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_298a709982211defd8ed",
-    "text": "What it did not do: <cite index=\"23-1\">the council did not vote on or even discuss the biblical canon — which books counted as scripture, which were useful but not scriptural, and which were heretical.</cite> <cite index=\"20-1\">There is not a shred of evidence that the canon was raised at Nicaea at all.</cite>",
-    "raw_text": "**What it did not do:** <cite index=\"23-1\">the council did not vote on or even discuss the biblical canon — which books counted as scripture, which were useful but not scriptural, and which were heretical.</cite> <cite index=\"20-1\">There is not a shred of evidence that the canon was raised at Nicaea at all.</cite>",
+    "id": "rk_759995888f5b7c314a57",
+    "text": "What it did not do: the council did not vote on or even discuss the biblical canon — which books counted as scripture, which were useful but not scriptural, and which were heretical. There is not a shred of evidence that the canon was raised at Nicaea at all.",
+    "raw_text": "**What it did not do:** the council did not vote on or even discuss the biblical canon — which books counted as scripture, which were useful but not scriptural, and which were heretical. There is not a shred of evidence that the canon was raised at Nicaea at all.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -2750,9 +2750,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a042b9ae6215b0e2d94f",
-    "text": "Where the myth comes from: <cite index=\"22-1\">a late-ninth-century Greek manuscript, the Synodicon Vetus, claims that at Nicaea the canonical books were miraculously separated from the spurious ones by being placed on an altar, with the inspired works found on top after prayer. That account was later picked up by Voltaire in the eighteenth century</cite> and reached mass culture through The Da Vinci Code.",
-    "raw_text": "**Where the myth comes from:** <cite index=\"22-1\">a late-ninth-century Greek manuscript, the *Synodicon Vetus*, claims that at Nicaea the canonical books were miraculously separated from the spurious ones by being placed on an altar, with the inspired works found on top after prayer. That account was later picked up by Voltaire in the eighteenth century</cite> and reached mass culture through *The Da Vinci Code*.",
+    "id": "rk_9f9cf36b7ed65e51d6a6",
+    "text": "Where the myth comes from: a late-ninth-century Greek manuscript, the Synodicon Vetus, claims that at Nicaea the canonical books were miraculously separated from the spurious ones by being placed on an altar, with the inspired works found on top after prayer. That account was later picked up by Voltaire in the eighteenth century and reached mass culture through The Da Vinci Code.",
+    "raw_text": "**Where the myth comes from:** a late-ninth-century Greek manuscript, the *Synodicon Vetus*, claims that at Nicaea the canonical books were miraculously separated from the spurious ones by being placed on an altar, with the inspired works found on top after prayer. That account was later picked up by Voltaire in the eighteenth century and reached mass culture through *The Da Vinci Code*.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
