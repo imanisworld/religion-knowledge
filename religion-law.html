@@ -32,7 +32,7 @@
 .method-note{margin-top:1.15rem;color:var(--ink3);font-size:.78rem}.method-note a{font-weight:700}
 
 .overview-title{margin-bottom:.45rem!important}.overview-lede{margin:0 0 1rem;color:var(--ink2);max-width:82ch}.overview-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.9rem;margin:1rem 0 1.7rem}.overview-card{border:1px solid var(--rule);border-radius:15px;padding:1rem 1.05rem;background:color-mix(in srgb,var(--paper) 90%,var(--soft));min-width:0}.overview-card h2{border:0!important;padding:0!important;margin:0 0 .5rem!important;font-size:1.08rem!important}.overview-card p{margin:.35rem 0;color:var(--ink2);font-size:.88rem}.overview-stats{display:flex;gap:.45rem;flex-wrap:wrap;margin-top:.75rem}.overview-stat{border:1px solid var(--rule);border-radius:999px;padding:.3rem .55rem;background:var(--paper);font-size:.72rem;color:var(--ink2)}.overview-stat b{color:var(--ink)}
-.section-block{margin-top:2.2rem;padding-top:1.6rem;border-top:1px solid var(--rule)}.section-block h2{border:0!important;padding-top:0!important;margin:.05rem 0 .4rem!important}.section-intro{margin:0 0 1rem;color:var(--ink2);font-size:.92rem;max-width:82ch}.policy-table{min-width:980px}.global-table{min-width:860px}.source-links{display:flex;flex-wrap:wrap;gap:.35rem;margin-top:.4rem}.source-links a{font-size:.68rem;font-weight:700;text-decoration:none;border-bottom:1px solid color-mix(in srgb,var(--accent) 40%,transparent)}.source-links a:hover{border-color:var(--accent)}.scope-note{margin:.8rem 0 0;color:var(--ink3);font-size:.76rem}
+.section-block{margin-top:2.2rem;padding-top:1.6rem;border-top:1px solid var(--rule)}.section-block h2{border:0!important;padding-top:0!important;margin:.05rem 0 .4rem!important}.section-intro{margin:0 0 1rem;color:var(--ink2);font-size:.92rem;max-width:82ch}.policy-table{min-width:980px}.global-table{min-width:860px}.practice-table{min-width:1040px}.source-links{display:flex;flex-wrap:wrap;gap:.35rem;margin-top:.4rem}.source-links a{font-size:.68rem;font-weight:700;text-decoration:none;border-bottom:1px solid color-mix(in srgb,var(--accent) 40%,transparent)}.source-links a:hover{border-color:var(--accent)}.scope-note{margin:.8rem 0 0;color:var(--ink3);font-size:.76rem}
 @media(max-width:820px){.overview-grid{grid-template-columns:1fr}.layout{grid-template-columns:1fr}.sidebar{position:relative;top:0;max-height:none}.states{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.2rem}.topinner{padding:.65rem .8rem}.shell{padding:1.2rem .8rem 4rem}.navlink.hide-mobile{display:none}.db-head{display:block}.coverage{white-space:normal}.detail-grid{grid-template-columns:1fr}}
 @media(max-width:520px){.states{grid-template-columns:1fr}.content{padding:1.2rem}.hero{padding-top:.4rem}.hero h1{font-size:2.45rem}.compare-tools{margin-left:-.2rem;margin-right:-.2rem;padding:.8rem}.filter-row{gap:.38rem}.filter-chip{font-size:.72rem;padding:.34rem .58rem}}
 </style>
@@ -74,6 +74,7 @@ const STATE_RECORDS=ROOT+'records/us-state-starter.json';
 const MARYLAND_RECORDS=ROOT+'records/us-md-maryland.json';
 const DOCS=[
   {key:'federal',label:'U.S. constitutional & federal',file:'us-constitutional-federal.md'},
+  {key:'formal-practice',label:'Formal law vs practice',file:'formal-law-institutional-practice.md'},
   {key:'comparative',label:'Comparative systems',file:'comparative-constitutional-systems.md'},
   {key:'state-module',label:'State-law module',file:'us-state-law.md'},
   {key:'methodology',label:'Methodology',file:'methodology.md'},
@@ -146,6 +147,66 @@ const POLICY_ROWS=[
     religion:'Religious views differ. Catholic institutional teaching opposes capital punishment; views within Protestant and other traditions vary.',
     legal:'Capital punishment remains lawful under federal law and in some states, while other states have abolished it or imposed moratoria.',
     sources:[['Pew — morality survey','https://www.pewresearch.org/religion/2026/03/19/what-do-americans-consider-immoral/']]
+  }
+];
+
+
+const PRACTICE_ROWS=[
+  {
+    layer:'Formal law / calendar',
+    example:'Christmas Day',
+    formal:'Christmas Day is a federal holiday on the OPM federal-holiday schedule.',
+    practice:'The federal calendar directly closes around a Christian-origin observance.',
+    meaning:'This is evidence of Christian historical and cultural embedding in a public institution. It is not evidence that the U.S. has an official religion. Cultural note: Matthew 1–2 and Luke 1–2 do not state a calendar date for Jesus’s birth; December 25 is the traditional observance date.',
+    sources:[
+      ['OPM — Federal Holidays','https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/'],
+      ['NRSVue — Matthew 1–2 / Luke 1–2','https://www.biblegateway.com/passage/?search=Matthew%201-2%3B%20Luke%201-2&version=NRSVUE']
+    ]
+  },
+  {
+    layer:'Official government practice',
+    example:'Easter',
+    formal:'Easter is not listed as a federal holiday on the OPM schedule.',
+    practice:'The White House nevertheless continues an official Easter Egg Roll tradition dating to 1878; the 2026 event was held on April 6.',
+    meaning:'This is a useful example of Christian-origin cultural visibility in government practice without federal-holiday status. The event itself is a civic/family tradition, not proof of compelled religious observance.',
+    sources:[
+      ['OPM — Federal Holidays','https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/'],
+      ['White House — Easter Egg Roll','https://www.whitehouse.gov/white-house-easter-egg-roll/'],
+      ['White House — 2026 event','https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-previews-2026-white-house-easter-egg-roll-activities/']
+    ]
+  },
+  {
+    layer:'Official civic language / symbols',
+    example:'“Under God” / “In God We Trust”',
+    formal:'Congress added “under God” to the Pledge of Allegiance in 1954. Federal legislation required “In God We Trust” on currency in 1955, and Congress declared it a national motto in 1956.',
+    practice:'Religious language is therefore present in recurring official civic symbols even though federal law does not establish an official church.',
+    meaning:'These are explicit government religious references, not merely private customs. Their constitutional treatment is a separate question from establishment of an official religion.',
+    sources:[
+      ['Congressional Record — June 7, 1954','https://www.congress.gov/83/crecb/1954/06/07/GPO-CRECB-1954-pt6-8-2.pdf'],
+      ['U.S. House History — currency motto','https://history.house.gov/Historical-Highlights/1951-2000/The-legislation-placing-In-God-We-Trust-on-national-currency/'],
+      ['U.S. Mint — historical timeline','https://www.usmint.gov/learn/history/timeline']
+    ]
+  },
+  {
+    layer:'Representation pattern',
+    example:'Religious composition of Congress',
+    formal:'Article VI bars a federal religious test for office.',
+    practice:'Pew reported that 87% of voting members of the 119th Congress identified as Christian, compared with 62% of U.S. adults. Less than 1% of Congress was religiously unaffiliated in Pew’s comparison, versus 28% of U.S. adults.',
+    meaning:'This establishes a representation gap. It does not, by itself, establish why the gap exists or prove an informal religious test.',
+    sources:[
+      ['Pew — Faith on the Hill','https://www.pewresearch.org/religion/2025/01/02/faith-on-the-hill-2025/'],
+      ['Pew — 2023–24 Religious Landscape Study','https://www.pewresearch.org/religion/2025/02/26/religious-landscape-study-executive-summary/']
+    ]
+  },
+  {
+    layer:'Institutional accommodation',
+    example:'Public-school religious observance',
+    formal:'Public schools may not observe religious holidays as religious events or favor one religion over another.',
+    practice:'Current federal guidance recognizes excusals and accommodations for prayer, fasting, religious holidays, and other observances.',
+    meaning:'This is an accommodation framework. Whether a particular district’s default calendar advantages one tradition must be shown with district-specific evidence rather than assumed nationally.',
+    sources:[
+      ['U.S. Department of Education — 2026 guidance','https://www.ed.gov/laws-and-policy/laws-preschool-grade-12-education/preschool-grade-12-policy-documents/guidance-on-constitutionally-protected-prayer-and-religious-expression-in-public-elementary-and-secondary-schools']
+    ]
   }
 ];
 
@@ -375,6 +436,16 @@ function renderPolicyTable(){
     POLICY_ROWS.map(r=>'<tr><td><div class="law-name">'+esc(r.issue)+'</div></td><td>'+esc(r.government)+'</td><td>'+esc(r.religion)+sourceLinks(r.sources)+'</td><td>'+esc(r.legal)+'</td></tr>').join('')+
     '</tbody></table></div><p class="scope-note">This table maps advocacy and policy conflict. It does not by itself establish that religion caused a resulting law.</p></section>';
 }
+
+function renderPracticeTable(){
+  return '<section class="section-block"><h2>Formal law vs. institutional practice</h2>'+
+    '<p class="section-intro">A formal “zero” does not answer every religion-and-government question. This view separates <strong>what the law formally establishes</strong> from official traditions, institutional defaults, accommodation systems, and representation patterns.</p>'+
+    '<div class="table-wrap"><table class="compare-table practice-table"><thead><tr><th>Layer</th><th>Example</th><th>Formal rule / status</th><th>What operates in practice</th><th>What the evidence supports</th></tr></thead><tbody>'+
+    PRACTICE_ROWS.map(r=>'<tr><td><span class="relationship">'+esc(r.layer)+'</span></td><td><div class="law-name">'+esc(r.example)+'</div></td><td>'+esc(r.formal)+'</td><td>'+esc(r.practice)+'</td><td>'+esc(r.meaning)+sourceLinks(r.sources)+'</td></tr>').join('')+
+    '</tbody></table></div>'+
+    '<p class="scope-note">This section does not score cultural prevalence as legal coercion. It separates formal law, official government practice, institutional accommodation, and representation. <a href="#doc=formal-practice">Open the research notes and source rules →</a></p></section>';
+}
+
 function renderGlobalTable(){
   return '<section class="section-block"><h2>U.S. vs. global legal structure</h2>'+
     '<p class="section-intro">The U.S. often shows a formal “zero” on measures such as official religion, blasphemy offenses, and apostasy penalties. That does not answer separate questions about cultural dominance, advocacy, or unequal practical burdens.</p>'+
@@ -392,6 +463,7 @@ function renderComparison(){
     '<div class="table-wrap"><table class="compare-table"><thead><tr><th>Law / rule</th><th>Place</th><th>Religion relationship</th><th>What it does / did</th><th>Current status</th></tr></thead><tbody id="comparisonBody"></tbody></table></div></section>'+
     renderPolicyTable()+
     renderGlobalTable()+
+    renderPracticeTable()+
     '<p class="method-note">Plain-language labels are shown here; the A–E research codes remain internal. <a href="#doc=methodology">Methodology &amp; evidence rules</a></p>';
   renderComparisonBody();
   bindComparison();
