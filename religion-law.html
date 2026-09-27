@@ -59,11 +59,11 @@ try{const t=localStorage.getItem('religion-knowledge-theme');if(t==='dark'||t===
 </section>
 <div class="layout">
 <aside class="sidebar">
-<input class="search" id="stateSearch" type="search" placeholder="Find a state…" autocomplete="off">
-<div class="sidehead">Explore states</div>
-<div class="states" id="states"><div class="empty">Loading…</div></div>
 <div class="sidehead">Research reference</div>
 <div id="docs"></div>
+<div class="sidehead">Explore states</div>
+<input class="search" id="stateSearch" type="search" placeholder="Find a state…" autocomplete="off">
+<div class="states" id="states"><div class="empty">Loading…</div></div>
 </aside>
 <article class="content" id="content"><p class="loading">Loading research database…</p></article>
 </div>
@@ -77,7 +77,7 @@ const MARYLAND_RECORDS=ROOT+'records/us-md-maryland.json';
 const STATE_CONTEXT=ROOT+'context/us-state-context.json';
 const DOCS=[
   {key:'federal',label:'U.S. constitutional & federal',file:'us-constitutional-federal.md'},
-  {key:'formal-practice',label:'Formal law vs practice',file:'formal-law-institutional-practice.md'},
+  {key:'formal-practice',label:'Formal law vs practice — notes',file:'formal-law-institutional-practice.md'},
   {key:'comparative',label:'Comparative systems',file:'comparative-constitutional-systems.md'},
   {key:'state-module',label:'State-law module',file:'us-state-law.md'},
   {key:'state-context',label:'State demographics & power',file:'state-context-methodology.md'},
@@ -343,7 +343,9 @@ function drawNav(filter=''){
   document.querySelectorAll('[data-state]').forEach(b=>b.onclick=()=>{location.hash='state='+b.dataset.state});
 }
 function drawDocs(){
-  $('#docs').innerHTML=DOCS.map(d=>'<button class="docbtn" data-doc="'+d.key+'">'+esc(d.label)+'</button>').join('');
+  $('#docs').innerHTML='<button class="docbtn" data-overview="true">Overview &amp; tables</button>'+DOCS.map(d=>'<button class="docbtn" data-doc="'+d.key+'">'+esc(d.label)+'</button>').join('');
+  const overviewBtn=document.querySelector('[data-overview]');
+  if(overviewBtn)overviewBtn.onclick=()=>{history.pushState(null,'',location.pathname+location.search);route()};
   document.querySelectorAll('[data-doc]').forEach(b=>b.onclick=()=>{location.hash='doc='+b.dataset.doc});
 }
 function setActive(kind,key){
@@ -508,17 +510,19 @@ function composeStatePage(md,ctx){
 function renderComparison(){
   $('#content').innerHTML=
     renderOverview()+
+    renderPracticeTable()+
     '<section class="section-block"><div class="db-head"><div><h2>Compare laws</h2><p>Start with the relationship between religion and the rule, then check what the rule does and whether it still operates today.</p></div></div>'+
     '<p class="note"><strong>Coverage note:</strong> This table currently shows records already normalized into structured data. State profiles contain additional verified baseline research that is still being converted into law-level records.</p>'+
     renderFilters()+
     '<div class="table-wrap"><table class="compare-table"><thead><tr><th>Law / rule</th><th>Place</th><th>Religion relationship</th><th>What it does / did</th><th>Current status</th></tr></thead><tbody id="comparisonBody"></tbody></table></div></section>'+
     renderPolicyTable()+
     renderGlobalTable()+
-    renderPracticeTable()+
     '<p class="method-note">Plain-language labels are shown here; the A–E research codes remain internal. <a href="#doc=methodology">Methodology &amp; evidence rules</a></p>';
   renderComparisonBody();
   bindComparison();
   setActive('','');
+  const overviewBtn=document.querySelector('[data-overview]');
+  if(overviewBtn)overviewBtn.classList.add('active');
 }
 async function route(){
   const params=new URLSearchParams(location.hash.slice(1));
