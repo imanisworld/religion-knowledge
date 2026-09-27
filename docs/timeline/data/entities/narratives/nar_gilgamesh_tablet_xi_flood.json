@@ -1,0 +1,35 @@
+{
+  "id": "nar_gilgamesh_tablet_xi_flood",
+  "name": "Gilgamesh Tablet XI flood account",
+  "genre": "sacred_narrative",
+  "tradition_id": null,
+  "region": [
+    "Mesopotamia"
+  ],
+  "language": "Akkadian",
+  "source_label": "Standard Babylonian Epic of Gilgamesh, Tablet XI",
+  "motif_tags": [
+    "FLOOD"
+  ],
+  "dating": {
+    "earliest_archaeological_evidence": null,
+    "earliest_written_attestation": null,
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": -700,
+        "latest": -600,
+        "precision": "CENTURY"
+      },
+      "note": "The standard Babylonian epic is preserved in first-millennium BCE copies including the Nineveh library tradition."
+    },
+    "estimated_composition": null,
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Utnapishtim recounts a primordial flood; no historical calendar date is supplied."
+    },
+    "estimated_oral_origin": null,
+    "dating_summary": "Tablet XI belongs to the standard Babylonian Gilgamesh tradition preserved in first-millennium BCE witnesses; its flood section reworks older Mesopotamian flood material, so its ultimate source history is older than the surviving manuscripts."
+  },
+  "relationships": [],
+  "notes": "Added for Phase 7 to model the well-supported Atraḫasīs → Gilgamesh flood relationship and to keep any possible Gilgamesh → Genesis connection separate from stronger Atraḫasīs evidence."
+}

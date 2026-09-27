@@ -1,0 +1,69 @@
+{
+  "id": "claim_atrahasis_gilgamesh_flood_borrowing",
+  "subject_type": "Narrative",
+  "subject_id": "nar_gilgamesh_tablet_xi_flood",
+  "statement": "Gilgamesh Tablet XI's flood story is a later literary reworking of the older Atraḫasīs flood tradition; scholarship treats Atraḫasīs as the source for the flood section incorporated into the later Gilgamesh epic.",
+  "claim_tier": "INTERPRETATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Mesopotamia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY",
+    "COMPARATIVE_RECONSTRUCTION"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Jeffrey H. Tigay, The Evolution of the Gilgamesh Epic (University of Pennsylvania Press, 1982; reprint 2002), pp. 214–240.",
+      "author": "Jeffrey H. Tigay",
+      "year": 1982,
+      "venue": "University of Pennsylvania Press",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": "A scholarly dissertation citing Tigay reproduces his conclusion that Atraḫasīs served as the source for Tablet XI and summarizes the textual reasons."
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Andrew R. George, The Babylonian Gilgamesh Epic: Introduction, Critical Edition and Cuneiform Texts (Oxford University Press, 2003), discussion of Tablet XI and the older Atraḫasīs flood tradition.",
+      "author": "Andrew R. George",
+      "year": 2003,
+      "venue": "Oxford University Press",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": "Academic reference summaries based on George's critical edition describe the Tablet XI flood as imported from the older Atraḫasīs tradition."
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "A. R. George and F. N. H. Al-Rawi, “Tablets from the Sippar Library VI. Atra-ḫasīs,” Iraq 58 (1996): 147–190.",
+      "author": "Andrew R. George; F. N. H. Al-Rawi",
+      "year": 1996,
+      "venue": "Iraq / Cambridge University Press",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Peer-reviewed Atraḫasīs study establishing the older epic and its flood narrative context."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "The exact intermediary manuscript history between the Old Babylonian Atraḫasīs tradition and the standard Gilgamesh version is not fully recoverable."
+  ],
+  "adversarial_counter": "The main uncertainty concerns intermediate textual stages, not whether the Gilgamesh flood section derives from the older Atraḫasīs tradition.",
+  "status": "verified",
+  "notes": "Backs a BORROWING/HIGH Narrative edge."
+}

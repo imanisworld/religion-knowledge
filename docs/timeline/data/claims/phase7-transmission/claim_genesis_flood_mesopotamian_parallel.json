@@ -1,0 +1,58 @@
+{
+  "id": "claim_genesis_flood_mesopotamian_parallel",
+  "subject_type": "Narrative",
+  "subject_id": "nar_genesis_flood",
+  "statement": "Genesis 6–9 shares a clustered flood-story sequence with earlier Mesopotamian traditions: divine decision to destroy humanity, warning of a favored survivor, construction of a vessel, preservation of life, survival of the deluge, post-flood sacrifice, and a divine response after the sacrifice.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Levant",
+    "Mesopotamia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY",
+    "COMPARATIVE_RECONSTRUCTION"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Genesis 6:5–9:17.",
+      "author": "Genesis",
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Used for the observable sequence in the biblical narrative."
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "John Day, “Comparative Ancient Near Eastern Study: The Genesis Flood Narrative in Relation to Ancient Near Eastern Flood Accounts,” in Biblical Interpretation and Method (Oxford University Press, 2013), pp. 74–88.",
+      "author": "John Day",
+      "year": 2013,
+      "venue": "Oxford University Press",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Oxford abstract explicitly compares Genesis with the Sumerian, Atraḫasīs, Gilgamesh, and Berossus flood traditions and weighs parallels rather than merely counting them."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "Shared narrative structure does not by itself identify a single Mesopotamian source text.",
+    "The comparison does not prove the Genesis authors had direct access to a surviving Atraḫasīs or Gilgamesh manuscript."
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Observation claim supporting the separate transmission interpretation."
+}

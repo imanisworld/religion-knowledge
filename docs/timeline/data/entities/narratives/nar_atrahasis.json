@@ -58,5 +58,18 @@
     "dating_summary": "Atraḫasīs is securely attested in the Old Babylonian period and continued to be copied later. The physical witness history is firmer than the date of first composition or any oral precursor."
   },
   "notes": "Creation and flood belong to the same epic narrative. This entity does not turn later similarities with Genesis into an influence edge; any transmission claim belongs in Phase 7 and requires its own source.",
-  "relationships": []
+  "relationships": [
+    {
+      "edge_type": "BORROWING",
+      "target_id": "nar_gilgamesh_tablet_xi_flood",
+      "confidence": "HIGH",
+      "claim_id": "claim_atrahasis_gilgamesh_flood_borrowing"
+    },
+    {
+      "edge_type": "CULTURAL_FUSION",
+      "target_id": "nar_genesis_flood",
+      "confidence": "MODERATE",
+      "claim_id": "claim_atrahasis_genesis_flood_transmission"
+    }
+  ]
 }

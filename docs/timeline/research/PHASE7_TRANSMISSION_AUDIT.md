@@ -113,3 +113,44 @@ No standalone “divine council tradition” entity is created. The divine counc
 - Genesis Flood / Atraḫasīs / Gilgamesh XI: next Phase 7 batch.
 - Zoroastrian concept-level influence: still held concept-by-concept; no blanket edge.
 
+## Batch 3 — Flood transmission
+
+**Status:** independently checked 27 September 2026.
+
+### Canonical entities added
+
+- Genesis 6–9 Flood Narrative
+- Gilgamesh Tablet XI flood account
+
+### Canonical relationships added
+
+#### Atraḫasīs → Gilgamesh Tablet XI
+
+**Edge:** `BORROWING`, HIGH confidence.
+
+Jeffrey H. Tigay's literary analysis treats Atraḫasīs as the source of the flood story inserted into the later Gilgamesh epic. Andrew George's critical work likewise places Tablet XI within the older Atraḫasīs flood tradition.
+
+**Limit:** intermediate manuscript stages are not fully recoverable.
+
+#### Atraḫasīs → Genesis Flood
+
+**Edge:** `CULTURAL_FUSION`, MODERATE confidence.
+
+John Day argues that the non-P/Yahwist Genesis flood is closer to Atraḫasīs than to Gilgamesh and explicitly evaluates direct versus indirect Mesopotamian dependence. David Carr argues that both the pre-P and Priestly Genesis flood narratives were modeled on earlier Mesopotamian flood traditions especially represented by Atraḫasīs and Gilgamesh XI.
+
+**Limit:** the exact transmission chain is not documented. This edge does not claim direct access to a specific Atraḫasīs tablet and does not exclude mediation through Gilgamesh, oral circulation, or other Mesopotamian flood traditions.
+
+### Held
+
+#### Gilgamesh Tablet XI → Genesis Flood
+
+Specific details such as bird release and mountain landing make this a live comparative candidate, but the present evidence does not justify a second directed edge on top of the stronger Atraḫasīs/Mesopotamian-source model. Keep as research-only unless a focused source pass establishes a defensible independent transmission claim.
+
+#### Babylonian Exile as context
+
+Historically important as a contact environment, but the current Timeline schema has no Event entity type. Do not force the exile into a Polity, Tradition, or Narrative node merely to visualize context. A future schema pass can decide whether historical context/events deserve their own entity type.
+
+#### Zoroastrian concept-level transmission
+
+No blanket edge. The returned audit finds cosmic dualism the strongest concept-level candidate, but still DISPUTED; resurrection is explicitly weaker. Keep these as research holds unless a later concept-specific pass produces an edge that clears the causation bar.
+
