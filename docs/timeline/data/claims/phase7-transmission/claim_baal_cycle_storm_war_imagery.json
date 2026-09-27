@@ -1,0 +1,57 @@
+{
+  "id": "claim_baal_cycle_storm_war_imagery",
+  "subject_type": "Deity",
+  "subject_id": "dty_baal_hadad",
+  "statement": "The Ugaritic Baal Cycle presents Baal/Hadad within a storm-and-divine-war repertoire that includes kingship, conflict with Sea/Yamm, and storm imagery; this repertoire supplies the comparative baseline for later Yahwistic appropriation claims.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Levant"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY",
+    "COMPARATIVE_RECONSTRUCTION"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Mark S. Smith, The Ugaritic Baal Cycle, vol. II (Brill, 2009).",
+      "author": "Mark S. Smith",
+      "year": 2009,
+      "venue": "Brill",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Bibliographic preview and contents confirm the work's treatment of Baal, Yamm, cloud-rider language, kingship, and the Ugaritic narrative cycle."
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "David Noel Freedman and C. Franke Hyland, “Psalm 29: A Structural Analysis,” Harvard Theological Review 66 (1973): 237–256.",
+      "author": "David Noel Freedman; C. Franke Hyland",
+      "year": 1973,
+      "venue": "Harvard Theological Review",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Cambridge extract summarizes Canaanite storm-god/Baal elements used as the comparative background for Psalm 29."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "This does not establish direct literary borrowing from the surviving Ugaritic tablets into a biblical text.",
+    "Storm-god motifs are not unique to Ugarit, so specific transmission claims require additional evidence."
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}
