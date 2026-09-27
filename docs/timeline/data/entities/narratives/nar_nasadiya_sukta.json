@@ -1,0 +1,44 @@
+{
+  "id": "nar_nasadiya_sukta",
+  "name": "Nāsadīya Sūkta (Ṛgveda 10.129)",
+  "genre": "cosmology",
+  "tradition_id": null,
+  "region": [
+    "South Asia"
+  ],
+  "language": "Vedic Sanskrit",
+  "source_label": "Ṛgveda, Mandala 10, hymn 129",
+  "motif_tags": [
+    "PRIMORDIAL_WATER",
+    "CHAOS"
+  ],
+  "dating": {
+    "earliest_archaeological_evidence": null,
+    "earliest_written_attestation": null,
+    "surviving_manuscript_date": {
+      "range": null,
+      "note": "The Vedic corpus was transmitted orally for centuries; no early physical manuscript date is asserted here."
+    },
+    "estimated_composition": {
+      "range": {
+        "earliest": -1500,
+        "latest": -900,
+        "precision": "CENTURY"
+      },
+      "method": "Broad range anchored to standard Ṛgvedic chronology and the relative lateness of Mandala 10; not a point date for hymn 10.129.",
+      "disputed": true
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Questions cosmic origins rather than dating them."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "Pre-compositional oral history cannot be dated from the sources used here.",
+      "confidence": "UNKNOWN"
+    },
+    "dating_summary": "A later-layer Ṛgvedic hymn within a corpus composed and collected over centuries; exact hymn dating is not recoverable."
+  },
+  "notes": "Its concluding uncertainty is preserved in claim text rather than converted into an influence claim.",
+  "relationships": []
+}
