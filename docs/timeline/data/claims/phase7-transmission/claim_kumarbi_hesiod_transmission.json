@@ -1,0 +1,71 @@
+{
+  "id": "claim_kumarbi_hesiod_transmission",
+  "subject_type": "Narrative",
+  "subject_id": "nar_hesiod_theogony",
+  "statement": "Modern scholarship explicitly argues that a Near Eastern version of the divine-succession myth preserved in the Hurro-Hittite Song of Emergence was transmitted through eastern Mediterranean intercultural contact and adapted in Hesiod's Theogony.",
+  "claim_tier": "CAUSAL_EXPLANATION",
+  "related_observation_id": "claim_kumarbi_hesiod_parallel",
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Anatolia",
+    "Levant",
+    "Europe"
+  ],
+  "evidence_types": [
+    "COMPARATIVE_RECONSTRUCTION"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Amir Gilan, “Let Those Important Primeval Deities Listen: The Social Setting of the Hurro-Hittite Song of Emergence,” in Gods and Mortals in Early Greek and Near Eastern Mythology (Cambridge University Press, 2021), pp. 19–36.",
+      "author": "Amir Gilan",
+      "year": 2021,
+      "venue": "Cambridge University Press",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Cambridge summary calls this the clearest evidence for Greek reception of Near Eastern mythology and proposes performance near Mount Hazzi as a plausible transfer context."
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Kostas Vlassopoulos, “The Barbarian repertoire in Greek culture,” in Greeks and Barbarians (Cambridge University Press, 2013), pp. 161–225.",
+      "author": "Kostas Vlassopoulos",
+      "year": 2013,
+      "venue": "Cambridge University Press",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "The chapter explicitly states that a version of the myth was transmitted through intercultural communication and adapted in Hesiod's Theogony."
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Ian Rutherford, Hittite Texts and Greek Religion: Contact, Interaction, and Comparison (Oxford University Press, 2020), ch. 7, “Generations of Gods and the South-East.”",
+      "author": "Ian Rutherford",
+      "year": 2020,
+      "venue": "Oxford University Press",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Oxford abstract identifies the north-east Mediterranean/Levant-Cilicia zone as the most likely route if the Kingship in Heaven myths reached Greece."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "The exact human transmitter, single route, and date of transmission are not known.",
+    "The evidence does not establish direct line-by-line textual copying from one surviving Hittite manuscript."
+  ],
+  "adversarial_counter": "The route and mechanism remain partly reconstructive, and isolated motifs can be independently generated; the stronger case rests on the clustered succession pattern plus documented eastern Mediterranean contact.",
+  "status": "verified",
+  "notes": "Backs a CULTURAL_FUSION edge rather than a claim of direct textual copying."
+}
