@@ -1,0 +1,62 @@
+{
+  "id": "nar_atrahasis",
+  "name": "Atraḫasīs creation-and-flood narrative",
+  "genre": "creation_narrative",
+  "tradition_id": null,
+  "region": [
+    "Mesopotamia"
+  ],
+  "language": "Akkadian",
+  "source_label": "Atraḫasīs / Atrahasis",
+  "motif_tags": [
+    "EARTH_CLAY_HUMAN",
+    "FLOOD"
+  ],
+  "dating": {
+    "earliest_archaeological_evidence": {
+      "range": {
+        "earliest": -1700,
+        "latest": -1600,
+        "precision": "CENTURY"
+      },
+      "note": "Old Babylonian Atraḫasīs tablets are physical cuneiform witnesses; CDLI identifies a principal manuscript as Old Babylonian and preserves an Ammi-ṣaduqa year-12 date reference."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": -1700,
+        "latest": -1600,
+        "precision": "CENTURY"
+      },
+      "note": "The earliest secure written form used here is the Old Babylonian manuscript tradition; absolute conversion of the Ammi-ṣaduqa regnal date varies by chronology."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": -1700,
+        "latest": -1600,
+        "precision": "CENTURY"
+      },
+      "note": "Old Babylonian tablets survive, alongside later Assyrian/Babylonian copies; a Metropolitan Museum copy is 7th–6th century BCE."
+    },
+    "estimated_composition": {
+      "range": {
+        "earliest": -1900,
+        "latest": -1600,
+        "precision": "CENTURY"
+      },
+      "method": "The epic is best known from Old Babylonian copies. This broad range avoids pretending the earliest surviving copy is necessarily the moment of first composition.",
+      "disputed": true
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Narrative events are set in primordial human history and do not supply a historical calendar date."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "No absolute oral-origin date is assigned; older Sumerian/Akkadian parallels are not treated as a dated oral Atraḫasīs narrative.",
+      "confidence": "UNKNOWN"
+    },
+    "dating_summary": "Atraḫasīs is securely attested in the Old Babylonian period and continued to be copied later. The physical witness history is firmer than the date of first composition or any oral precursor."
+  },
+  "notes": "Creation and flood belong to the same epic narrative. This entity does not turn later similarities with Genesis into an influence edge; any transmission claim belongs in Phase 7 and requires its own source.",
+  "relationships": []
+}
