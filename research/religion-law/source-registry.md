@@ -41,6 +41,10 @@
 - New Mexico Secretary of State — State Constitution: https://www.sos.nm.gov/legislation-and-lobbying/legal-resources/nm-constitution/
 - New York State Senate — Constitution and Laws: https://www.nysenate.gov/legislation/laws
 - North Carolina General Assembly — State Constitution and statutes: https://www.ncleg.gov/Laws/Constitution
+- North Dakota Legislative Branch — State Constitution: https://ndlegis.gov/constitution
+- Ohio Laws — Constitution and Revised Code: https://codes.ohio.gov/
+- Oklahoma Senate — State Constitution and statutes: https://oksenate.gov/
+- Oregon Legislature — Constitution and Revised Statutes: https://www.oregonlegislature.gov/bills_laws/
 
 ## Comparative research hubs
 

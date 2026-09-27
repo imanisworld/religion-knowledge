@@ -37,10 +37,10 @@ This directory is a research scaffold, not a completed legal database.
 | [New Mexico](new-mexico.md) | First-pass baseline verified; expansion pending |
 | [New York](new-york.md) | First-pass baseline verified; expansion pending |
 | [North Carolina](north-carolina.md) | First-pass baseline verified; expansion pending |
-| [North Dakota](north-dakota.md) | Scaffold only — research pending |
-| [Ohio](ohio.md) | Scaffold only — research pending |
-| [Oklahoma](oklahoma.md) | Scaffold only — research pending |
-| [Oregon](oregon.md) | Scaffold only — research pending |
+| [North Dakota](north-dakota.md) | First-pass baseline verified; expansion pending |
+| [Ohio](ohio.md) | First-pass baseline verified; expansion pending |
+| [Oklahoma](oklahoma.md) | First-pass baseline verified; expansion pending |
+| [Oregon](oregon.md) | First-pass baseline verified; expansion pending |
 | [Pennsylvania](pennsylvania.md) | Scaffold only — research pending |
 | [Rhode Island](rhode-island.md) | Scaffold only — research pending |
 | [South Carolina](south-carolina.md) | Scaffold only — research pending |
