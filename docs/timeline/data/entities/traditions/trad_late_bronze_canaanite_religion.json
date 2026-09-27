@@ -30,6 +30,13 @@
     "tradition_internal_claim": null,
     "estimated_oral_origin": null
   },
-  "relationships": [],
+  "relationships": [
+    {
+      "edge_type": "CULTURAL_FUSION",
+      "target_id": "trad_early_israelite_yahwism",
+      "confidence": "HIGH",
+      "claim_id": "claim_israelite_canaanite_continuity"
+    }
+  ],
   "notes": "Do not collapse all Canaanite religion into Ugarit. The Ugaritic corpus is used because it preserves direct Northwest Semitic evidence for El, Baal/Hadad, divine council structures, and mythic language that can be compared with early Israelite religion."
 }
