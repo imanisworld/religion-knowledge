@@ -187,31 +187,21 @@ main{max-width:860px}
   .rcard{margin:0 -.35rem;padding:1.1rem .35rem}
   #filters{padding-right:1.25rem}
 }
-</style><script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script></head><body>
+</style><script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script><link rel="stylesheet" href="site-shell.css">
+</head><body class="rk-with-sitebar rk-search-page">
 
-<div id="topbar">
-  <a class="brand" href="index.html">Bible Deep Dive</a>
-  <div id="topactions">
-    <a class="topaction" href="app/" title="Open the app">App</a>
-    <details id="library">
-      <summary>Library <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></summary>
-      <nav id="library-menu" aria-label="Research documents">
-        <a href="master-notes.html">Study Notes</a>
-        <a href="field-guide.html">Observations</a>
-        <a href="history.html">History</a>
-        <a href="sources.html">Sources</a>
-        <a href="other-side.html">The Strongest Case</a>
-        <a href="translations.html">Translations</a>
-        <a href="method-reference.html">Method &amp; Reference</a>
-        <a href="glossary.html">Glossary</a>
-        <a href="cited-persons.html">Cited Persons</a>
-        <a href="religion-law.html">Religion &amp; Law</a>
-        <a href="personal-belief-history.html">Personal History</a>
-      </nav>
-    </details>
-    <button id="themebtn" type="button" aria-label="Toggle color theme">Theme</button>
+<header class="rk-sitebar">
+  <div class="rk-sitebar-inner">
+    <a class="rk-brand" href="index.html">Religion Knowledge<small>Search</small></a>
+    <nav class="rk-global-nav" aria-label="Site navigation">
+      <a href="index.html">Library</a>
+      <a href="search.html" aria-current="page">Search</a>
+      <a href="religion-law.html">Religion &amp; Law</a>
+      <a href="app/">App</a>
+    </nav>
+    <button id="themebtn" class="rk-site-control" type="button" aria-label="Toggle color theme">Theme</button>
   </div>
-</div>
+</header>
 
 <div id="searchband">
   <div id="qwrap">
@@ -456,7 +446,7 @@ document.addEventListener('keydown', e => {
   }
   if (e.key === 'Escape') {
     if (qEl.value) { qEl.value = ''; runSearch(''); qEl.focus(); }
-    else if (document.getElementById('library').open) document.getElementById('library').open = false;
+    else { const lib=document.getElementById('library'); if(lib&&lib.open) lib.open=false; }
     return;
   }
   const cards = document.querySelectorAll('.rcard');
