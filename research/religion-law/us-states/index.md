@@ -1,6 +1,6 @@
 # U.S. 50-State Religion & Law Research Index
 
-This directory is a research scaffold, not a completed legal database.
+This directory now has a verified first-pass baseline for all 50 states. It remains a research scaffold rather than a completed or exhaustive legal database.
 
 | State | Status |
 |---|---|
