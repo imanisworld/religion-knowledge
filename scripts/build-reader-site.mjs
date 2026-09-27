@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { buildSearchIndex } from './build-search-index.mjs';
 
-const READERS = [
+const RESEARCH_READERS = [
   ['master-notes.html', 'Study Notes', 'The full study — audits, corrections, and the reading in progress.'],
   ['field-guide.html', 'Observations', 'Reading and conversation reference: claims, context, questions, and sources.'],
   ['history.html', 'Historical Framework', 'Chronology, empires, textual history, and canon formation.'],
@@ -11,10 +11,16 @@ const READERS = [
   ['translations.html', 'Translations', 'Translation history and the choices behind disputed renderings.'],
   ['method-reference.html', 'Method & Reference', 'Survey method, open audit queue, reading timeline.'],
   ['glossary.html', 'Glossary', 'Terms and definitions used across the study.'],
+  ['cited-persons.html', 'Cited Persons', 'Who the cited scholars, theologians, historians, and other sources are — including relevant context and flags.'],
   ['religion-law.html', 'Religion & Law', 'U.S. and comparative law research separating legal text, historical influence, current rationale, and enforceability.'],
+];
+const PERSONAL_PAGES = [
   ['personal-belief-history.html', 'Personal Belief History', 'A reconstruction log for what I actually believed at different stages, with unknowns preserved.'],
+];
+const DISCOVERY_PAGES = [
   ['search.html', 'Search', 'Search across all research documents and cited persons by name, topic, or scholar.'],
 ];
+const READERS = [...RESEARCH_READERS, ...PERSONAL_PAGES, ...DISCOVERY_PAGES];
 
 // The deployed site is the full product, mirroring the repo layout so the
 // app's relative paths (../data/…, ../master-notes.html) work unchanged:
@@ -38,7 +44,6 @@ const DATA_FILES = [
 const MISC_FILES = [
   'highlight-referral.js',
   'correction-form.js',
-  'cited-persons.html',
 ];
 
 const RESEARCH_DIRS = [
@@ -89,11 +94,14 @@ function parseArgs(argv) {
 }
 
 function buildIndexHtml() {
-  const cards = READERS.map(([file, title, blurb]) => `
+  const cardsFor = (items) => items.map(([file, title, blurb]) => `
       <a class="card" href="${file}">
         <h2>${title}</h2>
         <p>${blurb}</p>
       </a>`).join('');
+  const researchCards = cardsFor(RESEARCH_READERS);
+  const personalCards = cardsFor(PERSONAL_PAGES);
+  const discoveryCards = cardsFor(DISCOVERY_PAGES);
 
   return `<!DOCTYPE html>
 <html lang="en" data-theme="light"><head><meta charset="utf-8">
@@ -156,6 +164,7 @@ main>.hero>p{color:var(--ink2);margin:0;max-width:62ch;font-size:1.03rem}
   text-transform:uppercase;color:var(--ink3)
 }
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:1rem}
+.compact-grid{grid-template-columns:minmax(250px,520px)}
 .card{
   display:block;min-height:150px;background:color-mix(in srgb,var(--paper) 96%,var(--accent-soft));
   border:1px solid var(--rule);border-radius:14px;padding:1.35rem 1.45rem;
@@ -249,7 +258,13 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
     <p>Browse every record with provenance intact — search, topics, questions, audits, and the review queue.</p>
   </a>
   <p class="section-label">Research library</p>
-  <div class="grid">${cards}
+  <div class="grid">${researchCards}
+  </div>
+  <p class="section-label">Personal record</p>
+  <div class="grid compact-grid">${personalCards}
+  </div>
+  <p class="section-label">Discovery</p>
+  <div class="grid compact-grid">${discoveryCards}
   </div>
 </main>
 </body></html>
