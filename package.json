@@ -12,7 +12,8 @@
     "build:reader-site": "node scripts/build-reader-site.mjs --output dist/reader-site",
     "build:readers": "node scripts/build-readers.mjs",
     "deploy:reader-site": "wrangler deploy",
-    "validate:timeline": "node docs/timeline/scripts/validate-timeline.mjs"
+    "validate:timeline": "node docs/timeline/scripts/validate-timeline.mjs",
+    "validate:religion-law-overview": "node scripts/validate-religion-law-overview.mjs"
   },
   "dependencies": {
     "marked": "^18.0.9"
