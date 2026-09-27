@@ -842,7 +842,7 @@ addEventListener('scroll',()=>{
 },{passive:true});
 
 /* scrollspy + current location */
-const heads=$('h2[id],h3[id]');
+const heads=$$('h2[id],h3[id]');
 const currentLabel=$('#reader-current');
 const setCurrentLocation=text=>{
   const label=(text||'Overview').trim();
