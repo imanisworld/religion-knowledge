@@ -164,19 +164,6 @@ main>.hero>p{color:var(--ink2);margin:0;max-width:62ch;font-size:1.03rem}
   border-color:#6F4650;box-shadow:0 18px 45px rgba(0,0,0,.26)
 }
 :root[data-theme=dark] .app-card p{color:#E8CCD3}
-@media(prefers-color-scheme:dark){
-  :root:not([data-theme=light]){
-    --ground:#120E10;--paper:#1C1518;--ink:#F7F2F3;--ink2:#C4B7BB;--ink3:#978A8F;
-    --rule:#382B30;--accent:#D8899A;--accent-strong:#8B3A4A;--accent-soft:#3A2028;
-    --shadow:0 18px 45px rgba(0,0,0,.22)
-  }
-  :root:not([data-theme=light]) .app-card{
-    background:linear-gradient(135deg,#5F2734,#8B3A4A);
-    border-color:#6F4650;box-shadow:0 18px 45px rgba(0,0,0,.26)
-  }
-  :root:not([data-theme=light]) .app-card p{color:#E8CCD3}
-}
-
 /* ---------- landing readability refinement ---------- */
 body{line-height:1.66}
 main{padding-top:5.5rem}
@@ -194,7 +181,6 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
   outline-offset:3px
 }
 :root[data-theme=dark]{--ink2:#D1C5C9;--ink3:#AA9CA1;--rule:#44343A}
-@media(prefers-color-scheme:dark){:root:not([data-theme=light]){--ink2:#D1C5C9;--ink3:#AA9CA1;--rule:#44343A}}
 @media(max-width:620px){
   main{padding-top:4rem}
   main>.hero>p{font-size:1rem}
@@ -275,17 +261,8 @@ for (const file of allFiles) {
   fs.copyFileSync(file, target);
 }
 
-// Deployed app starts in light mode on first visit while preserving an
-// explicit saved theme. Keep this deployment-only so the committed standalone
-// bundle remains byte-consistent with app source until its next regeneration.
-const deployedAppIndex = path.join(output, 'app/index.html');
-let appIndexHtml = fs.readFileSync(deployedAppIndex, 'utf8');
-appIndexHtml = appIndexHtml.replace('<html lang="en">', '<html lang="en" data-theme="light">');
-appIndexHtml = appIndexHtml.replace(
-  '<link rel="stylesheet" href="styles.css">',
-  '<script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light";var __m=document.querySelector(\'meta[name="theme-color"]\');if(__m)__m.content=document.documentElement.dataset.theme==="dark"?"#211A1C":"#F5F1F0"}catch(e){document.documentElement.dataset.theme="light"}</script>\n  <link rel="stylesheet" href="styles.css">'
-);
-fs.writeFileSync(deployedAppIndex, appIndexHtml, 'utf8');
+// app/index.html now owns the light-first theme bootstrap so local,
+// standalone, and deployed builds all share the same behavior.
 
 fs.writeFileSync(path.join(output, 'index.html'), buildIndexHtml(), 'utf8');
 
