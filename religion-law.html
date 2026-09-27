@@ -470,6 +470,8 @@ function renderComparison(){
   renderComparisonBody();
   bindComparison();
   setActive('','');
+  const overviewBtn=document.querySelector('[data-overview]');
+  if(overviewBtn)overviewBtn.classList.add('active');
 }
 async function route(){
   const params=new URLSearchParams(location.hash.slice(1));
