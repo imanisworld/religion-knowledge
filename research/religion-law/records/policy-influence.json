@@ -1,0 +1,203 @@
+[
+  {
+    "id": "POL-ABORTION",
+    "issue": "Abortion",
+    "government_question": "Legality, gestational limits, medication access, public funding, and state constitutional protections.",
+    "religion_involvement": "Religious involvement is not uniform. Pew's 2026 data show large differences in abortion views by religious affiliation. The U.S. Conference of Catholic Bishops continues federal anti-abortion advocacy, while the National Council of Jewish Women actively advocates expanding abortion access.",
+    "legal_status": "Dobbs v. Jackson Women's Health Organization (2022) overruled Roe and Casey, leaving a state-by-state regulatory landscape alongside continuing federal statutory and constitutional disputes.",
+    "sources": [
+      {
+        "label": "Dobbs v. Jackson Women's Health Organization",
+        "url": "https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf",
+        "type": "legal"
+      },
+      {
+        "label": "Pew — abortion views by religious affiliation, 2026",
+        "url": "https://www.pewresearch.org/religion/fact-sheet/public-opinion-on-abortion/",
+        "type": "polling"
+      },
+      {
+        "label": "USCCB — 2026 pro-life policy advocacy",
+        "url": "https://www.usccb.org/prolife/policy-issues",
+        "type": "advocacy"
+      },
+      {
+        "label": "NCJW — expanding abortion access",
+        "url": "https://www.ncjw.org/work/reproductive-healthcare-access-equity/",
+        "type": "advocacy"
+      }
+    ],
+    "last_verified": "2026-09-27",
+    "confidence": "high",
+    "scope_note": "Religious public opinion and organizational advocacy are evidence of involvement in the policy debate, not proof that religion caused any particular abortion statute."
+  },
+  {
+    "id": "POL-LGBTQ-MARRIAGE",
+    "issue": "LGBTQ+ rights & marriage",
+    "government_question": "Marriage recognition, nondiscrimination rules, public accommodations, education, and religious exemptions.",
+    "religion_involvement": "Religious positions are not uniform. Pew's Religious Landscape Study reports large differences among religious groups on same-sex marriage and LGBTQ issues, and a 2026 Pew survey found that some regular worship attenders report hearing clergy address homosexuality and transgender identity in different directions.",
+    "legal_status": "Obergefell v. Hodges (2015) recognizes a constitutional right of same-sex couples to marry. The Respect for Marriage Act also establishes federal and interstate recognition rules for marriages valid where entered. Other LGBTQ+ and religious-exemption questions vary by issue and jurisdiction.",
+    "sources": [
+      {
+        "label": "Obergefell v. Hodges",
+        "url": "https://www.supremecourt.gov/opinions/boundvolumes/576BV.pdf",
+        "type": "legal"
+      },
+      {
+        "label": "Respect for Marriage Act, Pub. L. 117-228",
+        "url": "https://www.govinfo.gov/app/details/PLAW-117publ228",
+        "type": "legal"
+      },
+      {
+        "label": "Pew — religion and LGBTQ views, 2025",
+        "url": "https://www.pewresearch.org/religion/2025/02/26/religion-and-views-on-lgbtq-issues-and-abortion/",
+        "type": "polling"
+      },
+      {
+        "label": "Pew — political issues heard in church, 2026",
+        "url": "https://www.pewresearch.org/religion/2026/05/27/what-political-issues-do-americans-hear-about-in-church/",
+        "type": "polling"
+      }
+    ],
+    "last_verified": "2026-09-27",
+    "confidence": "high",
+    "scope_note": "This row describes variation in religious constituencies and the current marriage-law baseline; it does not assign a single religious position to a tradition or claim that religion caused all LGBTQ-related law."
+  },
+  {
+    "id": "POL-SCHOOL-OPTOUTS",
+    "issue": "Public-school curriculum & opt-outs",
+    "government_question": "Curriculum requirements, parental opt-outs, religious exercise, and how public schools handle instructional material that parents say conflicts with their faith.",
+    "religion_involvement": "In Mahmoud v. Taylor, parents from multiple religious backgrounds challenged a public-school system's no-opt-out policy on Free Exercise grounds.",
+    "legal_status": "In Mahmoud v. Taylor (2025), the Supreme Court held that the parents were entitled to a preliminary injunction because they were likely to succeed on their claim that the challenged no-opt-out policy unconstitutionally burdened their religious exercise and the other preliminary-injunction factors were satisfied.",
+    "sources": [
+      {
+        "label": "Mahmoud v. Taylor",
+        "url": "https://www.supremecourt.gov/opinions/24pdf/24-297_4f14.pdf",
+        "type": "legal"
+      }
+    ],
+    "last_verified": "2026-09-27",
+    "confidence": "high",
+    "scope_note": "The holding is tied to the preliminary-injunction posture and the policy before the Court; this row does not describe a general parental veto over public-school curricula."
+  },
+  {
+    "id": "POL-RELIGIOUS-SCHOOL-FUNDING",
+    "issue": "Religious-school funding",
+    "government_question": "Whether neutral public-benefit, tuition-assistance, or voucher programs may exclude otherwise eligible religious schools.",
+    "religion_involvement": "Religious-school participation raises Free Exercise and church-state questions when public benefit programs distinguish between religious and nonreligious schools.",
+    "legal_status": "Carson v. Makin (2022) held that Maine's nonsectarian requirement for its tuition-assistance program violated the Free Exercise Clause when it excluded otherwise eligible schools because they provided religious instruction.",
+    "sources": [
+      {
+        "label": "Carson v. Makin",
+        "url": "https://www.supremecourt.gov/opinions/21pdf/20-1088_dbfi.pdf",
+        "type": "legal"
+      }
+    ],
+    "last_verified": "2026-09-27",
+    "confidence": "high",
+    "scope_note": "The constitutional treatment of public funding depends on program design and controlling precedent; this row does not imply that every form of public funding for a religious institution is constitutionally required or forbidden."
+  },
+  {
+    "id": "POL-CONTRACEPTION-EXEMPTIONS",
+    "issue": "Contraception & employer exemptions",
+    "government_question": "Insurance coverage requirements and religious or moral exemptions from generally applicable health-benefit rules.",
+    "religion_involvement": "The federal contraceptive-mandate litigation includes religious employers and organizations that object to providing or facilitating contraceptive coverage on religious grounds.",
+    "legal_status": "Little Sisters of the Poor v. Pennsylvania (2020) held that federal agencies had statutory authority under the Affordable Care Act to create religious and moral exemptions to the contraceptive coverage requirement. The Court did not hold that RFRA itself required those exemptions.",
+    "sources": [
+      {
+        "label": "Little Sisters of the Poor v. Pennsylvania",
+        "url": "https://www.supremecourt.gov/opinions/19pdf/19-431_5i36.pdf",
+        "type": "legal"
+      }
+    ],
+    "last_verified": "2026-09-27",
+    "confidence": "high",
+    "scope_note": "This is a federal legal baseline. Coverage rules and litigation can change through regulation, statute, and later cases."
+  },
+  {
+    "id": "POL-END-OF-LIFE",
+    "issue": "End-of-life policy",
+    "government_question": "Medical aid in dying, treatment refusal, advance directives, palliative care, and conscience protections.",
+    "religion_involvement": "The U.S. Conference of Catholic Bishops maintains institutional opposition to physician-assisted suicide and euthanasia. Other religious institutions and individuals may hold different views.",
+    "legal_status": "Medical-aid-in-dying law is state-specific, and authorization, eligibility rules, and safeguards vary by jurisdiction. A current status tracker is used here only as an overview; a specific state's legal status should be verified against its primary law.",
+    "sources": [
+      {
+        "label": "USCCB — assisted suicide & euthanasia",
+        "url": "https://www.usccb.org/prolife/assisted-suicide-euthanasia",
+        "type": "advocacy"
+      },
+      {
+        "label": "Death with Dignity — 2026 legislative status",
+        "url": "https://deathwithdignity.org/news/2026/06/end-of-session-legislative-update/",
+        "type": "status_tracker"
+      }
+    ],
+    "last_verified": "2026-09-27",
+    "confidence": "medium",
+    "scope_note": "The status tracker is published by an advocacy organization and is not a substitute for a jurisdiction's statute, regulation, or controlling case."
+  },
+  {
+    "id": "POL-IMMIGRATION-REFUGEES",
+    "issue": "Immigration & refugee policy",
+    "government_question": "Enforcement, asylum, refugee admission, detention, humanitarian services, family unity, and faith-based service providers.",
+    "religion_involvement": "Catholic (USCCB), Jewish (HIAS), and evangelical Christian (World Relief) organizations maintain active immigration and refugee advocacy programs, while their specific policy positions and priorities are not identical.",
+    "legal_status": "The Immigration and Nationality Act remains the core federal statutory framework, while executive policy, regulations, appropriations, and litigation can alter how particular programs operate.",
+    "sources": [
+      {
+        "label": "Immigration and Nationality Act — GovInfo compilation",
+        "url": "https://www.govinfo.gov/app/details/COMPS-1376",
+        "type": "legal"
+      },
+      {
+        "label": "USCCB — migration policy and advocacy",
+        "url": "https://www.usccb.org/migrationpolicy",
+        "type": "advocacy"
+      },
+      {
+        "label": "HIAS — refugee and asylum advocacy",
+        "url": "https://hias.org/take-action/",
+        "type": "advocacy"
+      },
+      {
+        "label": "World Relief — faith and immigration advocacy",
+        "url": "https://worldrelief.org/faith-in-action/",
+        "type": "advocacy"
+      }
+    ],
+    "last_verified": "2026-09-27",
+    "confidence": "high",
+    "scope_note": "These organizations illustrate documented faith-based advocacy; they do not represent every Catholic, Jewish, evangelical, or other religious view on immigration."
+  },
+  {
+    "id": "POL-DEATH-PENALTY",
+    "issue": "Death penalty",
+    "government_question": "Whether capital punishment is authorized, which offenses are death-eligible, and how capital cases and executions are administered.",
+    "religion_involvement": "Religious views differ. Pew's 2026 morality data show substantial differences by religious affiliation, while the U.S. Conference of Catholic Bishops advocates ending use of the death penalty.",
+    "legal_status": "Federal capital punishment remains authorized under federal law and Department of Justice procedures. State law varies: some states retain the death penalty and others have abolished it or do not carry out executions.",
+    "sources": [
+      {
+        "label": "DOJ Justice Manual — capital crimes",
+        "url": "https://www.justice.gov/jm/jm-9-10000-capital-crimes",
+        "type": "legal"
+      },
+      {
+        "label": "Death Penalty Information Center — state by state",
+        "url": "https://deathpenaltyinfo.org/state-and-federal-info/state-by-state",
+        "type": "status_tracker"
+      },
+      {
+        "label": "Pew — morality and death penalty by religion, 2026",
+        "url": "https://www.pewresearch.org/religion/2026/03/19/appendix-detailed-tables-us-morality/",
+        "type": "polling"
+      },
+      {
+        "label": "USCCB — death penalty policy and advocacy",
+        "url": "https://www.usccb.org/committees/domestic-justice-and-human-development/death-penalty-capital-punishment",
+        "type": "advocacy"
+      }
+    ],
+    "last_verified": "2026-09-27",
+    "confidence": "high",
+    "scope_note": "The state-by-state tracker is an overview source; specific state rules should be verified against current primary law before making a jurisdiction-specific legal claim."
+  }
+]
