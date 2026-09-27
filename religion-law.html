@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#F5F1F0">
 <title>Religion & Law — Religion Knowledge</title>
 <meta name="description" content="Research database on religion and law, separating legal text, historical influence, current rationale, and enforceability.">
 <style>
@@ -13,13 +14,24 @@
 .topinner{max-width:1280px;margin:auto;padding:.75rem 1.2rem;display:flex;align-items:center;gap:.65rem}.brand{font-family:var(--serif);font-size:1.12rem;font-weight:600;margin-right:auto}.navlink,.theme{border:0;background:transparent;color:var(--ink2);text-decoration:none;padding:.45rem .6rem;border-radius:8px;cursor:pointer}.navlink:hover,.theme:hover{background:var(--soft);color:var(--ink)}
 .shell{max-width:1280px;margin:auto;padding:2rem 1.2rem 5rem}.hero{padding:1rem 0 2rem}.eyebrow{font-size:.7rem;letter-spacing:.15em;text-transform:uppercase;font-weight:700;color:var(--accent);margin:0 0 .55rem}.hero h1{font-family:var(--serif);font-size:clamp(2.4rem,5vw,4.2rem);font-weight:500;line-height:1;margin:.1rem 0 .8rem;letter-spacing:-.035em}.hero p{max-width:76ch;margin:0;color:var(--ink2)}
 .metrics{display:flex;gap:.6rem;flex-wrap:wrap;margin-top:1.1rem}.metric{background:var(--paper);border:1px solid var(--rule);border-radius:999px;padding:.38rem .7rem;font-size:.82rem;color:var(--ink2)}.metric b{color:var(--ink)}
-.layout{display:grid;grid-template-columns:300px minmax(0,1fr);gap:1.4rem}.sidebar{position:sticky;top:4.6rem;align-self:start;max-height:calc(100vh - 6rem);overflow:auto;background:var(--paper);border:1px solid var(--rule);border-radius:16px;padding:1rem;box-shadow:var(--shadow)}
+.layout{display:grid;grid-template-columns:300px minmax(0,1fr);gap:1.4rem}.sidebar{position:sticky;top:4.6rem;align-self:start;max-height:calc(100vh - 6rem);overflow:auto;overscroll-behavior:contain;background:var(--paper);border:1px solid var(--rule);border-radius:16px;padding:1rem;box-shadow:var(--shadow)}
 .search{width:100%;border:1px solid var(--rule);background:var(--ground);color:var(--ink);border-radius:10px;padding:.72rem .8rem;outline:none}.search:focus{border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 14%,transparent)}
 .sidehead{font-size:.68rem;text-transform:uppercase;letter-spacing:.12em;color:var(--ink3);font-weight:700;margin:1rem .25rem .45rem}.docbtn,.statebtn{width:100%;border:0;background:transparent;color:var(--ink);text-align:left;border-radius:9px;padding:.55rem .62rem;cursor:pointer}.docbtn:hover,.statebtn:hover,.statebtn.active,.docbtn.active{background:var(--soft)}.statebtn{display:flex;gap:.55rem;align-items:center;justify-content:space-between}.statebtn small{font-size:.64rem;color:var(--ink3);white-space:nowrap}.dot{width:.52rem;height:.52rem;border-radius:50%;background:var(--pending);display:inline-block;margin-right:.4rem}.dot.verified{background:var(--ok)}
 .content{min-width:0;background:var(--paper);border:1px solid var(--rule);border-radius:18px;padding:clamp(1.25rem,3vw,2.5rem);box-shadow:var(--shadow)}.content h1,.content h2,.content h3,.content h4{font-family:var(--serif);line-height:1.16;scroll-margin-top:5rem}.content h1{font-size:clamp(2rem,4vw,3rem);font-weight:500;margin-top:0}.content h2{font-size:1.55rem;margin-top:2rem;border-top:1px solid var(--rule);padding-top:1.4rem}.content h3{font-size:1.22rem;margin-top:1.5rem}.content p{max-width:82ch}.content li{margin:.42rem 0}.content code{background:var(--soft);padding:.12rem .3rem;border-radius:5px}.content hr{border:0;border-top:1px solid var(--rule);margin:2rem 0}.content .note{background:var(--soft);border-left:3px solid var(--accent);padding:.8rem 1rem;border-radius:0 9px 9px 0}.loading{color:var(--ink3)}
 .empty{padding:.7rem;color:var(--ink3);font-size:.9rem}.statusline{display:flex;flex-wrap:wrap;gap:.5rem;margin:.5rem 0 1.4rem}.pill{font-size:.76rem;padding:.3rem .55rem;border-radius:999px;background:var(--soft);color:var(--ink2)}
-@media(max-width:820px){.layout{grid-template-columns:1fr}.sidebar{position:relative;top:0;max-height:none}.states{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.2rem}.topinner{padding:.65rem .8rem}.shell{padding:1.2rem .8rem 4rem}.navlink.hide-mobile{display:none}}
-@media(max-width:520px){.states{grid-template-columns:1fr}.content{padding:1.2rem}.hero{padding-top:.4rem}.hero h1{font-size:2.45rem}}
+.db-head{display:flex;align-items:flex-start;justify-content:space-between;gap:1rem;margin-bottom:.9rem}.db-head h1{margin-bottom:.35rem}.db-head p{margin:0;color:var(--ink2);font-size:.94rem}.coverage{color:var(--ink3);font-size:.78rem;white-space:nowrap;padding-top:.35rem}
+.compare-tools{display:grid;gap:.8rem;margin:1rem 0 1.2rem;padding:1rem;border:1px solid var(--rule);border-radius:14px;background:color-mix(in srgb,var(--paper) 88%,var(--soft))}
+.compare-search{width:100%;border:1px solid var(--rule);background:var(--paper);color:var(--ink);border-radius:10px;padding:.72rem .8rem;outline:none}.compare-search:focus{border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 14%,transparent)}
+.filter-row{display:flex;align-items:center;gap:.45rem;flex-wrap:wrap}.filter-label{margin-right:.15rem;color:var(--ink3);font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase}.filter-chip{border:1px solid var(--rule);background:var(--paper);color:var(--ink2);border-radius:999px;padding:.38rem .66rem;font-size:.76rem;cursor:pointer}.filter-chip:hover{border-color:var(--accent);color:var(--accent)}.filter-chip.active{background:var(--accent);border-color:var(--accent);color:#fff}.filter-chip:disabled{opacity:.45;cursor:not-allowed}
+.result-count{color:var(--ink3);font-size:.78rem}
+.table-wrap{overflow:auto;border:1px solid var(--rule);border-radius:13px}
+.compare-table{width:100%;min-width:880px;border-collapse:collapse;font-size:.88rem;line-height:1.48;background:var(--paper)}.compare-table th,.compare-table td{padding:.82rem .78rem;border-bottom:1px solid var(--rule);text-align:left;vertical-align:top}.compare-table th{position:sticky;top:0;z-index:1;background:var(--ground);color:var(--ink3);font-size:.66rem;letter-spacing:.08em;text-transform:uppercase}.compare-table tbody tr:last-child td{border-bottom:0}.compare-table tbody tr:hover{background:color-mix(in srgb,var(--soft) 55%,transparent)}
+.law-name{font-weight:700;color:var(--ink);line-height:1.35}.law-subject{margin-top:.2rem;color:var(--ink3);font-size:.74rem}.relationship{display:inline-flex;align-items:center;border-radius:999px;padding:.25rem .5rem;background:var(--soft);color:var(--accent2);font-size:.7rem;font-weight:700;white-space:nowrap}.status{display:inline-flex;border-radius:999px;padding:.25rem .5rem;background:color-mix(in srgb,var(--ground) 70%,var(--soft));color:var(--ink2);font-size:.7rem;font-weight:700}.status.in-force{color:var(--ok)}.status.unenforceable,.status.historical{color:var(--pending)}
+.record-details{margin-top:.48rem}.record-details summary{color:var(--accent);font-size:.72rem;font-weight:700;cursor:pointer;list-style:none}.record-details summary::-webkit-details-marker{display:none}.record-details summary::after{content:" +";font-weight:400}.record-details[open] summary::after{content:" −"}.detail-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.55rem 1rem;margin-top:.65rem;padding:.75rem;border-radius:10px;background:var(--ground);font-size:.78rem;color:var(--ink2)}.detail-grid b{display:block;color:var(--ink3);font-size:.64rem;letter-spacing:.07em;text-transform:uppercase;margin-bottom:.15rem}.detail-grid .wide{grid-column:1/-1}.profile-link{display:inline-block;margin-top:.35rem;font-size:.72rem;font-weight:700;text-decoration:none}.profile-link:hover{text-decoration:underline}
+.no-results{padding:2rem;text-align:center;color:var(--ink3)}
+.method-note{margin-top:1.15rem;color:var(--ink3);font-size:.78rem}.method-note a{font-weight:700}
+@media(max-width:820px){.layout{grid-template-columns:1fr}.sidebar{position:relative;top:0;max-height:none}.states{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.2rem}.topinner{padding:.65rem .8rem}.shell{padding:1.2rem .8rem 4rem}.navlink.hide-mobile{display:none}.db-head{display:block}.coverage{white-space:normal}.detail-grid{grid-template-columns:1fr}}
+@media(max-width:520px){.states{grid-template-columns:1fr}.content{padding:1.2rem}.hero{padding-top:.4rem}.hero h1{font-size:2.45rem}.compare-tools{margin-left:-.2rem;margin-right:-.2rem;padding:.8rem}.filter-row{gap:.38rem}.filter-chip{font-size:.72rem;padding:.34rem .58rem}}
 </style>
 <script>
 try{const t=localStorage.getItem('religion-knowledge-theme');if(t==='dark'||t==='light')document.documentElement.dataset.theme=t}catch(e){}
@@ -43,10 +55,10 @@ try{const t=localStorage.getItem('religion-knowledge-theme');if(t==='dark'||t===
 <div class="layout">
 <aside class="sidebar">
 <input class="search" id="stateSearch" type="search" placeholder="Find a state…" autocomplete="off">
-<div class="sidehead">Research framework</div>
-<div id="docs"></div>
-<div class="sidehead">U.S. states</div>
+<div class="sidehead">Explore states</div>
 <div class="states" id="states"><div class="empty">Loading…</div></div>
+<div class="sidehead">Research reference</div>
+<div id="docs"></div>
 </aside>
 <article class="content" id="content"><p class="loading">Loading research database…</p></article>
 </div>
@@ -54,16 +66,26 @@ try{const t=localStorage.getItem('religion-knowledge-theme');if(t==='dark'||t===
 <script>
 const ROOT='research/religion-law/';
 const INDEX=ROOT+'us-states/index.md';
+const FEDERAL_RECORDS=ROOT+'records/us-federal-starter.json';
+const MARYLAND_RECORDS=ROOT+'records/us-md-maryland.json';
 const DOCS=[
-  {key:'methodology',label:'Methodology',file:'methodology.md'},
   {key:'federal',label:'U.S. constitutional & federal',file:'us-constitutional-federal.md'},
-  {key:'state-module',label:'State-law module',file:'us-state-law.md'},
   {key:'comparative',label:'Comparative systems',file:'comparative-constitutional-systems.md'},
+  {key:'state-module',label:'State-law module',file:'us-state-law.md'},
+  {key:'methodology',label:'Methodology',file:'methodology.md'},
   {key:'sources',label:'Source registry',file:'source-registry.md'}
 ];
-let states=[];
+const RELATIONSHIPS={
+  A:{label:'Explicitly Religious',slug:'explicit'},
+  B:{label:'Religious Historical Origin',slug:'historical-origin'},
+  C:{label:'Mixed Religious Influence',slug:'mixed'},
+  D:{label:'Protects / Limits Religion',slug:'protects-limits'},
+  E:{label:'Primarily Secular',slug:'secular'}
+};
+let states=[],records=[];
+let relationshipFilter='all',statusFilter='all',recordQuery='';
 const $=s=>document.querySelector(s);
-const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 function inline(s){
   let x=esc(s);
   x=x.replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>');
@@ -97,6 +119,52 @@ function parseIndex(md){
   }).filter(Boolean);
 }
 async function getText(url){const r=await fetch(url);if(!r.ok)throw new Error('Could not load '+url);return r.text()}
+async function getJson(url){const r=await fetch(url);if(!r.ok)throw new Error('Could not load '+url);return r.json()}
+function classCode(value){const m=String(value||'').match(/^([A-E])(?:_|$)/);return m?m[1]:''}
+function statusKey(value){
+  const s=String(value||'').toLowerCase();
+  if(s.includes('unenforceable'))return'unenforceable';
+  if(s.includes('repealed')||s.includes('historical')||s.includes('no longer'))return'historical';
+  if(s.includes('limited')||s.includes('superseded'))return'limited';
+  if(s.includes('in_force')||s.includes('in force')||s==='enforceable')return'in-force';
+  return'other';
+}
+function statusLabel(value){
+  const key=statusKey(value);
+  return {'in-force':'In force','limited':'Limited / narrowed','unenforceable':'Unenforceable','historical':'Historical / repealed','other':'Status review'}[key];
+}
+function normalizeFederal(list){
+  return list.map(r=>{
+    const code=classCode(r.classification);
+    return {
+      id:r.id,name:r.formal_citation,jurisdiction:r.jurisdiction,subject:r.subject||'',
+      classification:code,relationship:(RELATIONSHIPS[code]||{}).label||'Unclassified',
+      legalEffect:r.legal_effect||'',religionConnection:r.religion_connection||'',
+      otherCauses:(r.competing_causes||[]).join('; '),status:r.status||'',
+      evidence:[...(r.evidence_type||[]),r.primary_authority,r.explanatory_authority].filter(Boolean).join(' · '),
+      lastVerified:r.last_verified||'',route:'#doc=federal'
+    };
+  });
+}
+function normalizeMaryland(profile){
+  const constitutional=(profile.constitutional_provisions||[]).map(r=>({
+    id:r.id,name:r.instrument+' — '+r.article,jurisdiction:profile.jurisdiction_name,
+    subject:'constitutional provision',classification:r.category||'',
+    relationship:(RELATIONSHIPS[r.category]||{}).label||'Unclassified',
+    legalEffect:r.current_text||'',religionConnection:r.category_note||'',
+    otherCauses:'',status:r.enforceability||'',evidence:r.source||'',
+    lastVerified:profile.last_verified||'',route:'#state=maryland'
+  }));
+  const historical=(profile.historical_provisions||[]).map(r=>({
+    id:r.id,name:r.name+(r.year?' ('+r.year+')':''),jurisdiction:profile.jurisdiction_name,
+    subject:'historical provision',classification:r.category||'',
+    relationship:(RELATIONSHIPS[r.category]||{}).label||'Unclassified',
+    legalEffect:r.description||'',religionConnection:r.category_note||'',
+    otherCauses:'',status:r.enforceability||'historical',evidence:r.source||'',
+    lastVerified:profile.last_verified||'',route:'#state=maryland'
+  }));
+  return constitutional.concat(historical);
+}
 function drawNav(filter=''){
   const q=filter.trim().toLowerCase();
   const list=states.filter(s=>!q||s.name.toLowerCase().includes(q)||s.status.toLowerCase().includes(q));
@@ -111,9 +179,83 @@ function setActive(kind,key){
   document.querySelectorAll('.statebtn,.docbtn').forEach(b=>b.classList.remove('active'));
   const el=document.querySelector(kind==='state'?'[data-state="'+key+'"]':'[data-doc="'+key+'"]');if(el)el.classList.add('active');
 }
-function overview(){
+function relationshipCounts(){
+  const counts={A:0,B:0,C:0,D:0,E:0};
+  records.forEach(r=>{if(counts[r.classification]!==undefined)counts[r.classification]++});
+  return counts;
+}
+function statusCounts(){
+  const counts={'in-force':0,limited:0,unenforceable:0,historical:0};
+  records.forEach(r=>{const k=statusKey(r.status);if(counts[k]!==undefined)counts[k]++});
+  return counts;
+}
+function filteredRecords(){
+  const q=recordQuery.trim().toLowerCase();
+  return records.filter(r=>{
+    const rel=relationshipFilter==='all'||r.classification===relationshipFilter;
+    const stat=statusFilter==='all'||statusKey(r.status)===statusFilter;
+    const hay=[r.name,r.jurisdiction,r.subject,r.relationship,r.legalEffect,r.religionConnection,r.otherCauses,r.status,r.evidence].join(' ').toLowerCase();
+    return rel&&stat&&(!q||hay.includes(q));
+  });
+}
+function renderFilters(){
+  const rc=relationshipCounts(),sc=statusCounts();
+  const relationshipButtons=[
+    ['all','All',records.length],['A','Explicitly Religious',rc.A],['B','Religious Historical Origin',rc.B],
+    ['C','Mixed Religious Influence',rc.C],['D','Protects / Limits Religion',rc.D],['E','Primarily Secular',rc.E]
+  ];
+  const statusButtons=[
+    ['all','All statuses',records.length],['in-force','In force',sc['in-force']],['limited','Limited',sc.limited],
+    ['unenforceable','Unenforceable',sc.unenforceable],['historical','Historical / repealed',sc.historical]
+  ];
+  return '<div class="compare-tools">'+
+    '<input id="recordSearch" class="compare-search" type="search" placeholder="Filter laws, subjects, or places…" value="'+esc(recordQuery)+'" aria-label="Filter comparison table">'+
+    '<div class="filter-row"><span class="filter-label">Relationship</span>'+relationshipButtons.map(x=>'<button class="filter-chip '+(relationshipFilter===x[0]?'active':'')+'" data-rel="'+x[0]+'" '+(x[2]===0?'disabled':'')+'>'+esc(x[1])+' · '+x[2]+'</button>').join('')+'</div>'+
+    '<div class="filter-row"><span class="filter-label">Status</span>'+statusButtons.map(x=>'<button class="filter-chip '+(statusFilter===x[0]?'active':'')+'" data-status="'+x[0]+'" '+(x[2]===0?'disabled':'')+'>'+esc(x[1])+' · '+x[2]+'</button>').join('')+'</div>'+
+    '<div class="result-count" id="resultCount"></div>'+
+  '</div>';
+}
+function recordRow(r){
+  const relationship=(RELATIONSHIPS[r.classification]||{}).label||r.relationship||'Unclassified';
+  const effect=r.legalEffect.length>220?r.legalEffect.slice(0,217)+'…':r.legalEffect;
+  const details=[
+    r.religionConnection?'<div><b>Religion connection</b>'+esc(r.religionConnection)+'</div>':'',
+    r.otherCauses?'<div><b>Other causes</b>'+esc(r.otherCauses)+'</div>':'',
+    r.evidence?'<div class="wide"><b>Evidence / authority</b>'+esc(r.evidence)+'</div>':'',
+    r.lastVerified?'<div><b>Last verified</b>'+esc(r.lastVerified)+'</div>':'',
+    '<div><b>Current status</b>'+esc(statusLabel(r.status))+'</div>',
+    r.route?'<div class="wide"><a class="profile-link" href="'+esc(r.route)+'">Open supporting research →</a></div>':''
+  ].join('');
+  return '<tr>'+
+    '<td><div class="law-name">'+esc(r.name)+'</div><div class="law-subject">'+esc(r.subject)+'</div><details class="record-details"><summary>Details</summary><div class="detail-grid">'+details+'</div></details></td>'+
+    '<td>'+esc(r.jurisdiction)+'</td>'+
+    '<td><span class="relationship">'+esc(relationship)+'</span></td>'+
+    '<td>'+esc(effect)+'</td>'+
+    '<td><span class="status '+statusKey(r.status)+'">'+esc(statusLabel(r.status))+'</span></td>'+
+  '</tr>';
+}
+function bindComparison(){
+  const search=$('#recordSearch');
+  if(search)search.addEventListener('input',e=>{recordQuery=e.target.value;renderComparisonBody()});
+  document.querySelectorAll('[data-rel]').forEach(b=>b.onclick=()=>{relationshipFilter=b.dataset.rel;renderComparison()});
+  document.querySelectorAll('[data-status]').forEach(b=>b.onclick=()=>{statusFilter=b.dataset.status;renderComparison()});
+}
+function renderComparisonBody(){
+  const list=filteredRecords();
+  const body=$('#comparisonBody'),count=$('#resultCount');
+  if(body)body.innerHTML=list.length?list.map(recordRow).join(''):'<tr><td colspan="5"><div class="no-results">No structured records match these filters yet.</div></td></tr>';
+  if(count)count.textContent=list.length+' of '+records.length+' structured records shown';
+}
+function renderComparison(){
   const verified=states.filter(s=>s.verified).length;
-  $('#content').innerHTML='<h1>Research overview</h1><div class="statusline"><span class="pill">'+verified+' first-pass state baselines verified</span><span class="pill">'+states.length+' states scaffolded</span></div><p class="note"><strong>Important:</strong> “first-pass baseline verified” does not mean a complete state survey. It means the cited baseline entries have primary legal authority and a verification date. Historical-causation claims remain separate and require their own evidence.</p><h2>How to read this database</h2><p>Each rule is kept separate across four questions: <strong>legal effect</strong>, <strong>religion connection</strong>, <strong>historical causation</strong>, and <strong>current enforceability</strong>. A law can have religious history without a religious current rationale; a religiously worded provision can remain printed but be unenforceable; and a rule affecting religion can be designed to limit government rather than impose religion.</p><h2>Start here</h2><p>Use the state list for jurisdiction profiles. Use <strong>Methodology</strong> for the A–E classification system, <strong>U.S. constitutional & federal</strong> for the national baseline, and <strong>Source registry</strong> for the primary-source hierarchy.</p>';
+  $('#content').innerHTML=
+    '<div class="db-head"><div><h1>Compare laws</h1><p>Start with the relationship between religion and the rule, then check what the rule does and whether it still operates today.</p></div><div class="coverage">'+verified+' state baselines verified</div></div>'+
+    '<p class="note"><strong>Coverage note:</strong> This table currently shows records already normalized into structured data. The state profiles contain additional verified baseline research that is still being converted into law-level records.</p>'+
+    renderFilters()+
+    '<div class="table-wrap"><table class="compare-table"><thead><tr><th>Law / rule</th><th>Place</th><th>Religion relationship</th><th>What it does / did</th><th>Current status</th></tr></thead><tbody id="comparisonBody"></tbody></table></div>'+
+    '<p class="method-note">Plain-language labels are shown here; the A–E research codes remain internal. <a href="#doc=methodology">Methodology &amp; evidence rules</a></p>';
+  renderComparisonBody();
+  bindComparison();
   setActive('','');
 }
 async function route(){
@@ -121,27 +263,29 @@ async function route(){
   const state=params.get('state'),doc=params.get('doc');
   try{
     if(state){
-      const s=states.find(x=>x.slug===state);if(!s)return overview();
+      const s=states.find(x=>x.slug===state);if(!s)return renderComparison();
       $('#content').innerHTML='<p class="loading">Loading '+esc(s.name)+'…</p>';
       const md=await getText(ROOT+'us-states/'+s.file);
       $('#content').innerHTML=renderMarkdown(md);
       setActive('state',state);return;
     }
     if(doc){
-      const d=DOCS.find(x=>x.key===doc);if(!d)return overview();
+      const d=DOCS.find(x=>x.key===doc);if(!d)return renderComparison();
       $('#content').innerHTML='<p class="loading">Loading '+esc(d.label)+'…</p>';
       const md=await getText(ROOT+d.file);
       $('#content').innerHTML=renderMarkdown(md);
       setActive('doc',doc);return;
     }
-    overview();
+    renderComparison();
   }catch(err){$('#content').innerHTML='<h1>Could not load this research file</h1><p>'+esc(err.message)+'</p>'}
 }
 async function init(){
   try{
-    states=parseIndex(await getText(INDEX));
+    const data=await Promise.all([getText(INDEX),getJson(FEDERAL_RECORDS),getJson(MARYLAND_RECORDS)]);
+    states=parseIndex(data[0]);
+    records=normalizeFederal(data[1]).concat(normalizeMaryland(data[2]));
     const verified=states.filter(s=>s.verified).length;
-    $('#metrics').innerHTML='<span class="metric"><b>'+states.length+'</b> states scaffolded</span><span class="metric"><b>'+verified+'</b> first-pass baselines verified</span><span class="metric">Primary-source status tracking</span>';
+    $('#metrics').innerHTML='<span class="metric"><b>'+states.length+'</b> states scaffolded</span><span class="metric"><b>'+verified+'</b> first-pass baselines verified</span><span class="metric"><b>'+records.length+'</b> structured comparison records</span>';
     drawDocs();drawNav();route();
   }catch(err){$('#content').innerHTML='<h1>Research index unavailable</h1><p>'+esc(err.message)+'</p>';$('#states').innerHTML='<div class="empty">Index unavailable.</div>'}
 }
