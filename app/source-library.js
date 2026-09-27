@@ -141,7 +141,7 @@
     themeButton.setAttribute('aria-label', `Switch to ${next} mode`);
     themeButton.setAttribute('title', `Switch to ${next} mode`);
     themeButton.setAttribute('aria-pressed', String(dark));
-    if (themeMeta) themeMeta.setAttribute('content', dark ? '#10130F' : '#EDEFEC');
+    if (themeMeta) themeMeta.setAttribute('content', dark ? '#141012' : '#F4F2F1');
   };
   syncTheme();
   new MutationObserver(syncTheme).observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
