@@ -1,0 +1,54 @@
+{
+  "id": "claim_ks_anangu_tjukurpa_landscape_framework",
+  "subject_type": "KnowledgeState",
+  "subject_id": "ks_anangu_public_1985_2026",
+  "statement": "Public Anangu/heritage descriptions present Tjukurpa as a continuing law, knowledge, and spiritual-philosophical framework in which ancestral beings shaped the landscape and established responsibilities governing relationships among people, land, plants, animals, water, ceremony, and social life.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z6",
+  "zoom_max": "Z7",
+  "region": [
+    "Australia"
+  ],
+  "evidence_types": [
+    "ORAL_TRADITION",
+    "ETHNOGRAPHIC"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Australian Government, Uluru–Kata Tjuta National Park World Heritage description, updated 16 Apr. 2026.",
+      "author": null,
+      "year": 2026,
+      "venue": "Australian Government DCCEEW",
+      "contemporary_with_event": true,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Public-facing material only."
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Australian Government, Uluru–Kata Tjuta National Park — Park management: Tjukurpa and management, updated 4 Mar. 2026.",
+      "author": null,
+      "year": 2026,
+      "venue": "Australian Government DCCEEW",
+      "contemporary_with_event": true,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Public-facing material only."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Placed in the product's supernatural/cosmological comparison bucket only to support cross-cultural UI comparison. The record itself preserves the sources' broader categories of law, philosophy, spirituality, knowledge, and landscape responsibility."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ks_anangu_public_1985_2026",
+  "name": "Anangu — publicly documented ecological knowledge and Tjukurpa in joint management",
+  "culture_id": "cul_anangu",
+  "region": [
+    "Australia"
+  ],
+  "period": {
+    "earliest": 1985,
+    "latest": 2026,
+    "precision": "DECADE"
+  },
+  "known_claim_ids": [
+    "claim_ks_anangu_ecological_knowledge",
+    "claim_ks_anangu_water_knowledge"
+  ],
+  "unknown_claim_ids": [],
+  "natural_explanation_claim_ids": [
+    "claim_ks_anangu_fire_management_mechanism"
+  ],
+  "supernatural_explanation_claim_ids": [
+    "claim_ks_anangu_tjukurpa_landscape_framework"
+  ],
+  "methodology_note": "This is a contemporary public-knowledge slice beginning with the 1985 handback/joint-management era, not a date for the origin of Anangu knowledge. It uses only information Anangu and Australian park/heritage authorities make public. Restricted men's/women's law and ceremonial knowledge are explicitly outside the dataset. Empty 'unknown' does not imply absence of knowledge.",
+  "notes": "The comparative product field 'supernatural_explanation' is an analytic UI bucket, not an Anangu self-description. Tjukurpa is represented from sources as law, philosophy, spirituality, knowledge, story, and responsibility together rather than reduced to a Western 'religion versus science' split."
+}

@@ -1,0 +1,55 @@
+{
+  "id": "claim_ks_anangu_fire_management_mechanism",
+  "subject_type": "KnowledgeState",
+  "subject_id": "ks_anangu_public_1985_2026",
+  "statement": "Anangu patch burning uses small, cool-season burns to create a mosaic of burnt and unburnt country; public management sources explain that this reduces fuel for large summer wildfires, encourages fresh growth and bush foods, and creates habitat and food for animals.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z6",
+  "zoom_max": "Z7",
+  "region": [
+    "Australia"
+  ],
+  "evidence_types": [
+    "ORAL_TRADITION",
+    "ETHNOGRAPHIC",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Parks Australia, “Cultural burning at Uluru-Kata Tjuta National Park” fact sheet.",
+      "author": null,
+      "year": 2024,
+      "venue": "Parks Australia",
+      "contemporary_with_event": true,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Public-facing material only."
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Australian Government, Uluru–Kata Tjuta National Park World Heritage description, updated 16 Apr. 2026.",
+      "author": null,
+      "year": 2026,
+      "venue": "Australian Government DCCEEW",
+      "contemporary_with_event": true,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Public-facing material only."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Stored as natural/observational explanatory practice because the public sources explicitly connect burning conditions and spatial pattern to ecological outcomes. This does not separate the practice from Tjukurpa."
+}
