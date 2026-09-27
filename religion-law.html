@@ -24,9 +24,9 @@
 .compare-search{width:100%;border:1px solid var(--rule);background:var(--paper);color:var(--ink);border-radius:10px;padding:.72rem .8rem;outline:none}.compare-search:focus{border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 14%,transparent)}
 .filter-row{display:flex;align-items:center;gap:.45rem;flex-wrap:wrap}.filter-label{margin-right:.15rem;color:var(--ink3);font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase}.filter-chip{border:1px solid var(--rule);background:var(--paper);color:var(--ink2);border-radius:999px;padding:.38rem .66rem;font-size:.76rem;cursor:pointer}.filter-chip:hover{border-color:var(--accent);color:var(--accent)}.filter-chip.active{background:var(--accent);border-color:var(--accent);color:#fff}.filter-chip:disabled{opacity:.45;cursor:not-allowed}
 .result-count{color:var(--ink3);font-size:.78rem}
-.table-wrap{overflow:auto;border:1px solid var(--rule);border-radius:13px}
-.compare-table{width:100%;min-width:880px;border-collapse:collapse;font-size:.88rem;line-height:1.48;background:var(--paper)}.compare-table th,.compare-table td{padding:.82rem .78rem;border-bottom:1px solid var(--rule);text-align:left;vertical-align:top}.compare-table th{position:sticky;top:0;z-index:1;background:var(--ground);color:var(--ink3);font-size:.66rem;letter-spacing:.08em;text-transform:uppercase}.compare-table tbody tr:last-child td{border-bottom:0}.compare-table tbody tr:hover{background:color-mix(in srgb,var(--soft) 55%,transparent)}
-.law-name{font-weight:700;color:var(--ink);line-height:1.35}.law-subject{margin-top:.2rem;color:var(--ink3);font-size:.74rem}.relationship{display:inline-flex;align-items:center;border-radius:999px;padding:.25rem .5rem;background:var(--soft);color:var(--accent2);font-size:.7rem;font-weight:700;white-space:nowrap}.status{display:inline-flex;border-radius:999px;padding:.25rem .5rem;background:color-mix(in srgb,var(--ground) 70%,var(--soft));color:var(--ink2);font-size:.7rem;font-weight:700}.status.in-force{color:var(--ok)}.status.unenforceable,.status.historical{color:var(--pending)}
+.table-wrap{overflow:auto;border:1px solid var(--rule);border-radius:14px;background:var(--paper);box-shadow:0 8px 24px rgba(57,34,42,.045)}
+.compare-table{width:100%;min-width:880px;border-collapse:collapse;font-size:.86rem;line-height:1.5;background:var(--paper)}.compare-table th,.compare-table td{padding:.9rem .85rem;border-bottom:1px solid var(--rule);text-align:left;vertical-align:top}.compare-table th{position:sticky;top:0;z-index:1;background:color-mix(in srgb,var(--ground) 92%,var(--paper));color:var(--ink3);font-size:.64rem;letter-spacing:.09em;text-transform:uppercase}.compare-table tbody tr:nth-child(even){background:color-mix(in srgb,var(--soft) 22%,transparent)}.compare-table tbody tr:last-child td{border-bottom:0}.compare-table tbody tr:hover{background:color-mix(in srgb,var(--soft) 58%,transparent)}.law-table th:nth-child(1){width:27%}.law-table th:nth-child(2){width:13%}.law-table th:nth-child(3){width:20%}.law-table th:nth-child(4){width:28%}.law-table th:nth-child(5){width:12%}
+.law-name{font-weight:700;color:var(--ink);line-height:1.35}.relationship-stack{display:flex;flex-wrap:wrap;gap:.35rem}.relationship.protects,.relationship.limits{white-space:normal;line-height:1.25}.law-subject{margin-top:.2rem;color:var(--ink3);font-size:.74rem}.relationship{display:inline-flex;align-items:center;border-radius:999px;padding:.25rem .5rem;background:var(--soft);color:var(--accent2);font-size:.7rem;font-weight:700;white-space:nowrap}.status{display:inline-flex;border-radius:999px;padding:.25rem .5rem;background:color-mix(in srgb,var(--ground) 70%,var(--soft));color:var(--ink2);font-size:.7rem;font-weight:700}.status.in-force{color:var(--ok)}.status.unenforceable,.status.historical{color:var(--pending)}
 .record-details{margin-top:.48rem}.record-details summary{color:var(--accent);font-size:.72rem;font-weight:700;cursor:pointer;list-style:none}.record-details summary::-webkit-details-marker{display:none}.record-details summary::after{content:" +";font-weight:400}.record-details[open] summary::after{content:" −"}.detail-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.55rem 1rem;margin-top:.65rem;padding:.75rem;border-radius:10px;background:var(--ground);font-size:.78rem;color:var(--ink2)}.detail-grid b{display:block;color:var(--ink3);font-size:.64rem;letter-spacing:.07em;text-transform:uppercase;margin-bottom:.15rem}.detail-grid .wide{grid-column:1/-1}.profile-link{display:inline-block;margin-top:.35rem;font-size:.72rem;font-weight:700;text-decoration:none}.profile-link:hover{text-decoration:underline}
 .no-results{padding:2rem;text-align:center;color:var(--ink3)}
 .method-note{margin-top:1.15rem;color:var(--ink3);font-size:.78rem}.method-note a{font-weight:700}.content-return{display:flex;align-items:center;justify-content:space-between;gap:.8rem;margin:-.2rem 0 1.15rem;padding-bottom:.8rem;border-bottom:1px solid var(--rule)}.content-return a{font-size:.78rem;font-weight:700;text-decoration:none;color:var(--accent2)}.content-return a:hover{text-decoration:underline}.content-return span{color:var(--ink3);font-size:.72rem}
@@ -35,8 +35,22 @@
 .section-block{margin-top:2.2rem;padding-top:1.6rem;border-top:1px solid var(--rule)}.section-block h2{border:0!important;padding-top:0!important;margin:.05rem 0 .4rem!important}.section-intro{margin:0 0 1rem;color:var(--ink2);font-size:.92rem;max-width:82ch}.policy-table{min-width:980px}.global-table{min-width:860px}.practice-table{min-width:1040px}.source-links{display:flex;flex-wrap:wrap;gap:.35rem;margin-top:.4rem}.source-links a{font-size:.68rem;font-weight:700;text-decoration:none;border-bottom:1px solid color-mix(in srgb,var(--accent) 40%,transparent)}.source-links a:hover{border-color:var(--accent)}.scope-note{margin:.8rem 0 0;color:var(--ink3);font-size:.76rem}
 .context-layer{margin:1.5rem 0 2rem;padding:1.05rem;border:1px solid var(--rule);border-radius:16px;background:color-mix(in srgb,var(--paper) 90%,var(--soft))}
 .context-layer h2{border:0!important;padding:0!important;margin:0 0 .4rem!important;font-size:1.45rem!important}.context-layer h3{font-family:var(--sans);font-size:.78rem!important;letter-spacing:.08em;text-transform:uppercase;color:var(--ink3);margin:1.2rem 0 .55rem!important}.context-intro{margin:.1rem 0 .85rem;color:var(--ink2);font-size:.9rem;max-width:82ch}.context-warning{margin:.65rem 0 1rem;padding:.68rem .8rem;border-left:3px solid var(--accent);background:var(--paper);border-radius:0 9px 9px 0;color:var(--ink2);font-size:.78rem}.context-meta{display:flex;flex-wrap:wrap;gap:.4rem;margin:.55rem 0 .8rem}.context-meta span{border:1px solid var(--rule);background:var(--paper);border-radius:999px;padding:.28rem .52rem;color:var(--ink2);font-size:.7rem}.share-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.55rem}.share-item{min-width:0;border:1px solid var(--rule);background:var(--paper);border-radius:11px;padding:.68rem .72rem}.share-value{display:block;font-family:var(--serif);font-size:1.42rem;line-height:1;color:var(--accent2);margin-bottom:.28rem}.share-label{display:block;font-size:.73rem;line-height:1.3;color:var(--ink2)}.context-summary{margin:.7rem 0;color:var(--ink2);font-size:.82rem}.context-source{display:inline-block;font-size:.72rem;font-weight:700;text-decoration:none;margin-top:.2rem}.context-source:hover{text-decoration:underline}.power-wrap{overflow:auto;border:1px solid var(--rule);border-radius:11px;background:var(--paper)}.power-table{width:100%;min-width:700px;border-collapse:collapse;font-size:.78rem;line-height:1.4}.power-table th,.power-table td{padding:.66rem .7rem;border-bottom:1px solid var(--rule);text-align:left;vertical-align:top}.power-table th{background:var(--ground);font-size:.62rem;letter-spacing:.07em;text-transform:uppercase;color:var(--ink3)}.power-table tr:last-child td{border-bottom:0}.affiliation{font-weight:700;color:var(--ink)}.affiliation.unknown{font-weight:500;color:var(--ink3)}.evidence-links{display:flex;gap:.35rem;flex-wrap:wrap}.evidence-links a{font-size:.68rem;font-weight:700;text-decoration:none}.context-empty{padding:.8rem;border:1px dashed var(--rule);border-radius:10px;color:var(--ink3);font-size:.8rem;background:var(--paper)}
-@media(max-width:820px){.share-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.overview-grid{grid-template-columns:1fr}.layout{grid-template-columns:1fr}.sidebar{position:relative;top:0;max-height:none;overflow:visible}.state-browser{overflow:visible;margin:.45rem 0 0;padding:0;border-top:1px solid var(--rule)}.states{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.2rem}.topinner{padding:.65rem .8rem}.shell{padding:1.2rem .8rem 4rem}.navlink.hide-mobile{display:none}.db-head{display:block}.coverage{white-space:normal}.detail-grid{grid-template-columns:1fr}}
-@media(max-width:520px){.share-grid{grid-template-columns:1fr 1fr}.states{grid-template-columns:1fr}.content{padding:1.2rem}.hero{padding-top:.4rem}.hero h1{font-size:2.45rem}.compare-tools{margin-left:-.2rem;margin-right:-.2rem;padding:.8rem}.filter-row{gap:.38rem}.filter-chip{font-size:.72rem;padding:.34rem .58rem}}
+@media(max-width:1100px){.shell{padding-left:1rem;padding-right:1rem}.layout{grid-template-columns:260px minmax(0,1fr);gap:1rem}.content{padding:1.5rem}.compare-table{font-size:.82rem}}
+@media(max-width:720px){
+  .table-wrap,.power-wrap{overflow:visible;border:0;background:transparent;box-shadow:none}
+  .responsive-table{display:block;min-width:0!important;width:100%;background:transparent;border-collapse:separate}
+  .responsive-table thead{display:none}
+  .responsive-table tbody{display:grid;gap:.8rem}
+  .responsive-table tr{display:block;border:1px solid var(--rule);border-radius:13px;background:var(--paper);box-shadow:0 6px 18px rgba(57,34,42,.045);overflow:hidden}
+  .responsive-table td{display:block;width:100%;border:0!important;padding:.62rem .8rem!important}
+  .responsive-table td+td{border-top:1px solid color-mix(in srgb,var(--rule) 70%,transparent)!important}
+  .responsive-table td::before{content:attr(data-label);display:block;margin-bottom:.2rem;color:var(--ink3);font-size:.61rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase}
+  .responsive-table td[data-label="Law / rule"],.responsive-table td[data-label="Policy issue"],.responsive-table td[data-label="Example"],.responsive-table td[data-label="Issue"]{padding-top:.78rem!important}
+  .responsive-table td[data-label="Law / rule"]::before,.responsive-table td[data-label="Policy issue"]::before,.responsive-table td[data-label="Example"]::before,.responsive-table td[data-label="Issue"]::before{display:none}
+  .relationship-stack{gap:.3rem}.relationship{white-space:normal}
+  .detail-grid{grid-template-columns:1fr}
+}@media(max-width:820px){.share-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.overview-grid{grid-template-columns:1fr}.layout{grid-template-columns:1fr}.sidebar{position:relative;top:0;max-height:none;overflow:visible}.state-browser{max-height:18rem;overflow:auto;margin:.45rem 0 0;padding:0 .15rem .2rem 0;border-top:1px solid var(--rule)}#docs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.2rem}.states{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.2rem}.topinner{padding:.65rem .8rem}.shell{padding:1.2rem .8rem 4rem}.navlink.hide-mobile{display:none}.db-head{display:block}.coverage{white-space:normal}.detail-grid{grid-template-columns:1fr}}
+@media(max-width:520px){.share-grid{grid-template-columns:1fr 1fr}#docs{grid-template-columns:1fr}.states{grid-template-columns:1fr}.content{padding:1rem}.content-return{align-items:flex-start;flex-direction:column;gap:.2rem}.hero{padding-top:.4rem}.hero h1{font-size:2.45rem}.compare-tools{margin-left:-.2rem;margin-right:-.2rem;padding:.8rem}.filter-row{gap:.38rem}.filter-chip{font-size:.72rem;padding:.34rem .58rem}}
 </style>
 <script>
 try{const t=localStorage.getItem('religion-knowledge-theme');if(t==='dark'||t==='light')document.documentElement.dataset.theme=t}catch(e){}
@@ -90,9 +104,50 @@ const RELATIONSHIPS={
   A:{label:'Explicitly Religious',slug:'explicit'},
   B:{label:'Religious Historical Origin',slug:'historical-origin'},
   C:{label:'Mixed Religious Influence',slug:'mixed'},
-  D:{label:'Protects / Limits Religion',slug:'protects-limits'},
+  D:{label:'Government / religion boundary',slug:'government-religion-boundary'},
   E:{label:'Primarily Secular',slug:'secular'}
 };
+const D_FACETS={
+  'US-CONST-ARTVI-RELTEST':['limits'],
+  'US-SCOTUS-ENGEL-1962':['limits'],
+  'US-CA-CONST-ARTI-S4':['protects','limits'],
+  'US-CA-CONST-ARTIX-S8':['limits'],
+  'US-CA-CONST-ARTXVI-S5':['limits'],
+  'US-CA-GOV-12940L':['protects'],
+  'US-IN-CONST-ARTI-S2-S5':['protects','limits'],
+  'US-IN-CONST-ARTI-S6':['limits'],
+  'US-ME-20A-2951-2':['limits'],
+  'US-MT-CONST-ARTX-S6':['limits'],
+  'US-UT-CONST-ARTI-S4':['protects','limits'],
+  'US-UT-CONST-ARTX-S8-S9':['limits'],
+  'US-UT-63G-33-201':['protects'],
+  'US-UT-53G-10-202-SB268':['protects','limits'],
+  'US-TN-CONST-ARTI-S3-S4-S6':['protects','limits'],
+  'US-TN-TCA-4-1-407':['protects'],
+  'US-WA-CONST-ARTI-S11-LIBERTY':['protects','limits'],
+  'US-WA-CONST-ARTI-S11-NOAID':['limits'],
+  'US-WA-CONST-ARTIX-S4':['limits'],
+  'US-WA-RCW-28A-600-025':['protects','limits'],
+  'US-WV-CONST-ARTIII-S15':['protects','limits'],
+  'US-WV-35-1A':['protects'],
+  'US-WV-18-33':['protects','limits'],
+  'US-WI-CONST-ARTI-S18':['protects','limits'],
+  'US-WI-CONST-ARTX-S3-SECTARIAN':['limits'],
+  'US-WI-111-337':['protects'],
+  'US-WY-CONST-ARTI-S18':['protects','limits'],
+  'US-WY-CONST-ARTI-S19':['limits'],
+  'US-WY-CONST-ARTVII-S8-S12':['limits'],
+  'US-WY-9-29-101-104':['protects'],
+  'md-const-decl-rights-36':['protects']
+};
+function dFacetsFor(id){return D_FACETS[id]||[]}
+function relationshipHtml(r){
+  if(r.classification!=='D')return '<span class="relationship">'+esc((RELATIONSHIPS[r.classification]||{}).label||r.relationship||'Unclassified')+'</span>';
+  const facets=r.dFacets||[];
+  if(!facets.length)return '<span class="relationship">Government / religion boundary</span>';
+  return '<span class="relationship-stack">'+facets.map(f=>'<span class="relationship '+f+'">'+(f==='protects'?'Protects religious exercise':'Limits government religious power')+'</span>').join('')+'</span>';
+}
+
 
 const POLICY_ROWS=[
   {
@@ -310,7 +365,7 @@ function normalizeStructured(list){
     const jurisdiction=sub?sub+', '+r.jurisdiction:r.jurisdiction;
     return {
       id:r.id,name:r.formal_citation,jurisdiction,subject:r.subject||'',
-      classification:code,relationship:(RELATIONSHIPS[code]||{}).label||'Unclassified',
+      classification:code,relationship:(RELATIONSHIPS[code]||{}).label||'Unclassified',dFacets:code==='D'?dFacetsFor(r.id):[],
       legalEffect:r.legal_effect||'',religionConnection:r.religion_connection||'',
       otherCauses:(r.competing_causes||[]).join('; '),status:r.status||'',
       evidence:[...(r.evidence_type||[]),r.primary_authority,r.explanatory_authority].filter(Boolean).join(' · '),
@@ -323,7 +378,7 @@ function normalizeMaryland(profile){
   const constitutional=(profile.constitutional_provisions||[]).map(r=>({
     id:r.id,name:r.instrument+' — '+r.article,jurisdiction:profile.jurisdiction_name,
     subject:'constitutional provision',classification:r.category||'',
-    relationship:(RELATIONSHIPS[r.category]||{}).label||'Unclassified',
+    relationship:(RELATIONSHIPS[r.category]||{}).label||'Unclassified',dFacets:r.category==='D'?dFacetsFor(r.id):[],
     legalEffect:r.current_text||'',religionConnection:r.category_note||'',
     otherCauses:'',status:r.enforceability||'',evidence:r.source||'',
     lastVerified:profile.last_verified||'',route:'#state=maryland'
@@ -331,7 +386,7 @@ function normalizeMaryland(profile){
   const historical=(profile.historical_provisions||[]).map(r=>({
     id:r.id,name:r.name+(r.year?' ('+r.year+')':''),jurisdiction:profile.jurisdiction_name,
     subject:'historical provision',classification:r.category||'',
-    relationship:(RELATIONSHIPS[r.category]||{}).label||'Unclassified',
+    relationship:(RELATIONSHIPS[r.category]||{}).label||'Unclassified',dFacets:r.category==='D'?dFacetsFor(r.id):[],
     legalEffect:r.description||'',religionConnection:r.category_note||'',
     otherCauses:'',status:r.enforceability||'historical',evidence:r.source||'',
     lastVerified:profile.last_verified||'',route:'#state=maryland'
@@ -362,8 +417,12 @@ function contentReturn(label='Research view'){
   return '<div class="content-return"><a href="#overview">← Research overview</a><span>'+esc(label)+'</span></div>';
 }
 function relationshipCounts(){
-  const counts={A:0,B:0,C:0,D:0,E:0};
-  records.forEach(r=>{if(counts[r.classification]!==undefined)counts[r.classification]++});
+  const counts={A:0,B:0,C:0,D:0,E:0,DP:0,DL:0};
+  records.forEach(r=>{
+    if(counts[r.classification]!==undefined)counts[r.classification]++;
+    if((r.dFacets||[]).includes('protects'))counts.DP++;
+    if((r.dFacets||[]).includes('limits'))counts.DL++;
+  });
   return counts;
 }
 function statusCounts(){
@@ -374,9 +433,9 @@ function statusCounts(){
 function filteredRecords(){
   const q=recordQuery.trim().toLowerCase();
   return records.filter(r=>{
-    const rel=relationshipFilter==='all'||r.classification===relationshipFilter;
+    const rel=relationshipFilter==='all'||(relationshipFilter==='DP'?(r.dFacets||[]).includes('protects'):relationshipFilter==='DL'?(r.dFacets||[]).includes('limits'):r.classification===relationshipFilter);
     const stat=statusFilter==='all'||statusKey(r.status)===statusFilter;
-    const hay=[r.name,r.jurisdiction,r.subject,r.relationship,r.legalEffect,r.religionConnection,r.otherCauses,r.status,r.evidence].join(' ').toLowerCase();
+    const hay=[r.name,r.jurisdiction,r.subject,r.relationship,...(r.dFacets||[]),r.legalEffect,r.religionConnection,r.otherCauses,r.status,r.evidence].join(' ').toLowerCase();
     return rel&&stat&&(!q||hay.includes(q));
   });
 }
@@ -384,7 +443,7 @@ function renderFilters(){
   const rc=relationshipCounts(),sc=statusCounts();
   const relationshipButtons=[
     ['all','All',records.length],['A','Explicitly Religious',rc.A],['B','Religious Historical Origin',rc.B],
-    ['C','Mixed Religious Influence',rc.C],['D','Protects / Limits Religion',rc.D],['E','Primarily Secular',rc.E]
+    ['C','Mixed Religious Influence',rc.C],['DP','Protects Religious Exercise',rc.DP],['DL','Limits Government Religious Power',rc.DL],['E','Primarily Secular',rc.E]
   ];
   const statusButtons=[
     ['all','All statuses',records.length],['in-force','In force',sc['in-force']],['limited','Limited',sc.limited],
@@ -398,7 +457,6 @@ function renderFilters(){
   '</div>';
 }
 function recordRow(r){
-  const relationship=(RELATIONSHIPS[r.classification]||{}).label||r.relationship||'Unclassified';
   const effect=r.legalEffect.length>220?r.legalEffect.slice(0,217)+'…':r.legalEffect;
   const details=[
     r.religionConnection?'<div><b>Religion connection</b>'+esc(r.religionConnection)+'</div>':'',
@@ -409,11 +467,11 @@ function recordRow(r){
     r.route?'<div class="wide"><a class="profile-link" href="'+esc(r.route)+'">Open supporting research →</a></div>':''
   ].join('');
   return '<tr>'+
-    '<td><div class="law-name">'+esc(r.name)+'</div><div class="law-subject">'+esc(r.subject)+'</div><details class="record-details"><summary>Details</summary><div class="detail-grid">'+details+'</div></details></td>'+
-    '<td>'+esc(r.jurisdiction)+'</td>'+
-    '<td><span class="relationship">'+esc(relationship)+'</span></td>'+
-    '<td>'+esc(effect)+'</td>'+
-    '<td><span class="status '+statusKey(r.status)+'">'+esc(statusLabel(r.status))+'</span></td>'+
+    '<td data-label="Law / rule"><div class="law-name">'+esc(r.name)+'</div><div class="law-subject">'+esc(r.subject)+'</div><details class="record-details"><summary>Details</summary><div class="detail-grid">'+details+'</div></details></td>'+
+    '<td data-label="Place">'+esc(r.jurisdiction)+'</td>'+
+    '<td data-label="Religion relationship">'+relationshipHtml(r)+'</td>'+
+    '<td data-label="What it does / did">'+esc(effect)+'</td>'+
+    '<td data-label="Current status"><span class="status '+statusKey(r.status)+'">'+esc(statusLabel(r.status))+'</span></td>'+
   '</tr>';
 }
 function bindComparison(){
@@ -440,23 +498,23 @@ function renderOverview(){
     '<p class="note"><strong>Important:</strong> “first-pass baseline verified” does not mean a complete state survey. It means the cited baseline entries have primary legal authority and a verification date. Historical-causation claims remain separate and require their own evidence.</p>'+
     '<div class="overview-grid">'+
       '<section class="overview-card"><h2>Included here</h2><p><strong>Current law:</strong> statutes, constitutional provisions, and controlling doctrines that explicitly concern religion or religious exercise.</p><p><strong>Historical law:</strong> repealed or superseded rules when they matter to the religion-and-law record.</p><div class="overview-stats"><span class="overview-stat"><b>'+rc.A+'</b> explicitly religious</span><span class="overview-stat"><b>'+rc.B+'</b> historical origin</span></div></section>'+
-      '<section class="overview-card"><h2>Also mapped</h2><p><strong>Mixed influence:</strong> religion materially shaped a rule alongside other causes.</p><p><strong>Protections / limits:</strong> laws that restrict establishment or protect religious exercise are tracked separately from laws that impose religious rules.</p><div class="overview-stats"><span class="overview-stat"><b>'+rc.C+'</b> mixed influence</span><span class="overview-stat"><b>'+rc.D+'</b> protects / limits</span></div></section>'+
+      '<section class="overview-card"><h2>Also mapped</h2><p><strong>Mixed influence:</strong> religion materially shaped a rule alongside other causes.</p><p><strong>Religion / government boundary:</strong> protections for private religious exercise are separated from limits on government religious power. Some rules do both.</p><div class="overview-stats"><span class="overview-stat"><b>'+rc.C+'</b> mixed influence</span><span class="overview-stat"><b>'+rc.DP+'</b> protects exercise</span><span class="overview-stat"><b>'+rc.DL+'</b> limits government religious power</span></div></section>'+
       '<section class="overview-card"><h2>Not automatically “religion-caused”</h2><p>A law is not coded as caused by religion merely because religious people support it, it concerns morality, or it affects a religious group.</p><p>Historical causation requires evidence, competing explanations, and a separate current-status analysis.</p><div class="overview-stats"><span class="overview-stat"><b>'+rc.E+'</b> secular-purpose controls</span></div></section>'+
     '</div>';
 }
 function renderPolicyTable(){
   return '<section class="section-block"><h2>Religion &amp; U.S. policy</h2>'+
     '<p class="section-intro">This is a different question from legal causation: <strong>what policy questions are religious organizations, institutions, and constituencies trying to influence?</strong> Positions within religions are not treated as uniform.</p>'+
-    '<div class="table-wrap"><table class="compare-table policy-table"><thead><tr><th>Policy issue</th><th>What government is deciding</th><th>Documented religious involvement</th><th>Legal arena</th></tr></thead><tbody>'+
-    POLICY_ROWS.map(r=>'<tr><td><div class="law-name">'+esc(r.issue)+'</div></td><td>'+esc(r.government)+'</td><td>'+esc(r.religion)+sourceLinks(r.sources)+'</td><td>'+esc(r.legal)+'</td></tr>').join('')+
+    '<div class="table-wrap"><table class="compare-table policy-table responsive-table"><thead><tr><th>Policy issue</th><th>What government is deciding</th><th>Documented religious involvement</th><th>Legal arena</th></tr></thead><tbody>'+
+    POLICY_ROWS.map(r=>'<tr><td data-label="Policy issue"><div class="law-name">'+esc(r.issue)+'</div></td><td data-label="What government is deciding">'+esc(r.government)+'</td><td data-label="Documented religious involvement">'+esc(r.religion)+sourceLinks(r.sources)+'</td><td data-label="Legal arena">'+esc(r.legal)+'</td></tr>').join('')+
     '</tbody></table></div><p class="scope-note">This table maps advocacy and policy conflict. It does not by itself establish that religion caused a resulting law.</p></section>';
 }
 
 function renderPracticeTable(){
   return '<section class="section-block"><h2>Formal law vs. institutional practice</h2>'+
     '<p class="section-intro">A formal “zero” does not answer every religion-and-government question. This view separates <strong>what the law formally establishes</strong> from official traditions, institutional defaults, accommodation systems, and representation patterns.</p>'+
-    '<div class="table-wrap"><table class="compare-table practice-table"><thead><tr><th>Layer</th><th>Example</th><th>Formal rule / status</th><th>What operates in practice</th><th>What the evidence supports</th></tr></thead><tbody>'+
-    PRACTICE_ROWS.map(r=>'<tr><td><span class="relationship">'+esc(r.layer)+'</span></td><td><div class="law-name">'+esc(r.example)+'</div></td><td>'+esc(r.formal)+'</td><td>'+esc(r.practice)+'</td><td>'+esc(r.meaning)+sourceLinks(r.sources)+'</td></tr>').join('')+
+    '<div class="table-wrap"><table class="compare-table practice-table responsive-table"><thead><tr><th>Layer</th><th>Example</th><th>Formal rule / status</th><th>What operates in practice</th><th>What the evidence supports</th></tr></thead><tbody>'+
+    PRACTICE_ROWS.map(r=>'<tr><td data-label="Layer"><span class="relationship">'+esc(r.layer)+'</span></td><td data-label="Example"><div class="law-name">'+esc(r.example)+'</div></td><td data-label="Formal rule / status">'+esc(r.formal)+'</td><td data-label="What operates in practice">'+esc(r.practice)+'</td><td data-label="What the evidence supports">'+esc(r.meaning)+sourceLinks(r.sources)+'</td></tr>').join('')+
     '</tbody></table></div>'+
     '<p class="scope-note">This section does not score cultural prevalence as legal coercion. It separates formal law, official government practice, institutional accommodation, and representation. <a href="#doc=formal-practice">Open the research notes and source rules →</a></p></section>';
 }
@@ -464,8 +522,8 @@ function renderPracticeTable(){
 function renderGlobalTable(){
   return '<section class="section-block"><h2>U.S. vs. global legal structure</h2>'+
     '<p class="section-intro">The U.S. often shows a formal “zero” on measures such as official religion, blasphemy offenses, and apostasy penalties. That does not answer separate questions about cultural dominance, advocacy, or unequal practical burdens.</p>'+
-    '<div class="table-wrap"><table class="compare-table global-table"><thead><tr><th>Issue</th><th>United States</th><th>Global comparison</th></tr></thead><tbody>'+
-    GLOBAL_ROWS.map(r=>'<tr><td><div class="law-name">'+esc(r.issue)+'</div></td><td>'+esc(r.us)+'</td><td>'+esc(r.global)+sourceLinks(r.sources)+'</td></tr>').join('')+
+    '<div class="table-wrap"><table class="compare-table global-table responsive-table"><thead><tr><th>Issue</th><th>United States</th><th>Global comparison</th></tr></thead><tbody>'+
+    GLOBAL_ROWS.map(r=>'<tr><td data-label="Issue"><div class="law-name">'+esc(r.issue)+'</div></td><td data-label="United States">'+esc(r.us)+'</td><td data-label="Global comparison">'+esc(r.global)+sourceLinks(r.sources)+'</td></tr>').join('')+
     '</tbody></table></div><p class="scope-note">Global counts are dated to the cited source year unless a current jurisdiction profile independently verifies them.</p></section>';
 }
 
@@ -488,14 +546,14 @@ function renderStateContext(ctx){
       (pop.summary_note?'<p class="context-summary">'+esc(pop.summary_note)+'</p>':'')
     : '<div class="context-empty">Detailed state percentages have not yet been coded into this repository. The state-level Pew source is linked below.</div>';
   const powerHtml=holders.length
-    ? '<div class="power-wrap"><table class="power-table"><thead><tr><th>Power position</th><th>Current holder</th><th>Publicly documented religion</th><th>Evidence</th></tr></thead><tbody>'+
+    ? '<div class="power-wrap"><table class="power-table responsive-table"><thead><tr><th>Power position</th><th>Current holder</th><th>Publicly documented religion</th><th>Evidence</th></tr></thead><tbody>'+
       holders.map(h=>{
         const links=[
           h.office_source?'<a href="'+esc(h.office_source)+'" target="_blank" rel="noopener">Office ↗</a>':'',
           h.affiliation_source?'<a href="'+esc(h.affiliation_source)+'" target="_blank" rel="noopener">Affiliation ↗</a>':''
         ].filter(Boolean).join('');
         const cls=h.affiliation_status==='unknown'?'affiliation unknown':'affiliation';
-        return '<tr><td>'+esc(h.office)+'</td><td>'+esc(h.name)+'</td><td><div class="'+cls+'">'+esc(h.affiliation)+'</div>'+(h.affiliation_detail?'<div class="law-subject">'+esc(h.affiliation_detail)+'</div>':'')+'</td><td><div class="evidence-links">'+links+'</div>'+(h.source_note?'<div class="law-subject">'+esc(h.source_note)+'</div>':'')+'</td></tr>';
+        return '<tr><td data-label="Power position">'+esc(h.office)+'</td><td data-label="Current holder">'+esc(h.name)+'</td><td data-label="Publicly documented religion"><div class="'+cls+'">'+esc(h.affiliation)+'</div>'+(h.affiliation_detail?'<div class="law-subject">'+esc(h.affiliation_detail)+'</div>':'')+'</td><td data-label="Evidence"><div class="evidence-links">'+links+'</div>'+(h.source_note?'<div class="law-subject">'+esc(h.source_note)+'</div>':'')+'</td></tr>';
       }).join('')+'</tbody></table></div>'+
       (power.summary?'<p class="context-summary">'+esc(power.summary)+'</p>':'')
     : '<div class="context-empty">The standard power-position review has not yet been completed for this state. Unknown affiliations will remain unknown rather than being inferred.</div>';
@@ -523,7 +581,7 @@ function renderComparison(){
     '<section class="section-block"><div class="db-head"><div><h2>Compare laws</h2><p>Start with the relationship between religion and the rule, then check what the rule does and whether it still operates today.</p></div></div>'+
     '<p class="note"><strong>Coverage note:</strong> This table currently shows records already normalized into structured data. State profiles contain additional verified baseline research that is still being converted into law-level records.</p>'+
     renderFilters()+
-    '<div class="table-wrap"><table class="compare-table"><thead><tr><th>Law / rule</th><th>Place</th><th>Religion relationship</th><th>What it does / did</th><th>Current status</th></tr></thead><tbody id="comparisonBody"></tbody></table></div></section>'+
+    '<div class="table-wrap"><table class="compare-table responsive-table law-table"><thead><tr><th>Law / rule</th><th>Place</th><th>Religion relationship</th><th>What it does / did</th><th>Current status</th></tr></thead><tbody id="comparisonBody"></tbody></table></div></section>'+
     renderPolicyTable()+
     renderGlobalTable()+
     '<p class="method-note">Plain-language labels are shown here; the A–E research codes remain internal. <a href="#doc=methodology">Methodology &amp; evidence rules</a></p>';
