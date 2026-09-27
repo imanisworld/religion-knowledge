@@ -873,7 +873,7 @@ function buildDocswitch(currentHref) {
     return `<a${on ? ' class="on" href="#"' : ` href="${href}"`}>${label}</a>`;
   }).join('');
   const caret = `<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>`;
-  return `<details class="library"><summary><span>Library</span>${caret}</summary>` +
+  return `<details class="library"><summary><span>Documents</span>${caret}</summary>` +
     `<div class="docswitch">${docLinks}</div></details>`;
 }
 
