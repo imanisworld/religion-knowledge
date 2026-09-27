@@ -1,0 +1,56 @@
+{
+  "id": "claim_ranginui_papatuanuku_world_parents",
+  "subject_type": "Narrative",
+  "subject_id": "nar_ranginui_papatuanuku",
+  "statement": "In documented Māori creation traditions, Ranginui/Rangi (sky) and Papatūānuku/Papa (earth) are primal parents whose children separate them, bringing the world of light into being; multiple Māori versions exist.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Polynesia"
+  ],
+  "evidence_types": [
+    "ORAL_TRADITION",
+    "LATER_HISTORICAL_ACCOUNT"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Te Ahukaramū Charles Royal, “Māori creation traditions” and “Papatūānuku – the land,” Te Ara Encyclopedia of New Zealand.",
+      "author": "Te Ahukaramū Charles Royal",
+      "year": 2009,
+      "venue": "Te Ara Encyclopedia of New Zealand",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Rāwiri Taonui, “Ranginui – the sky,” Te Ara Encyclopedia of New Zealand.",
+      "author": "Rāwiri Taonui",
+      "year": 2009,
+      "venue": "Te Ara Encyclopedia of New Zealand",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "Motif similarity with another tradition does not by itself demonstrate borrowing, common ancestry, or direct transmission."
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "The entity deliberately describes multiple documented versions rather than presenting one account as a universal Māori canon."
+}
