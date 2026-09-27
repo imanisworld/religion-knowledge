@@ -28,6 +28,8 @@ const SWITCHER_LABELS = [
   'Method & Reference',
   'Glossary',
   'Cited Persons',
+  'Religion & Law',
+  'Personal History',
 ];
 
 const decode = (value) => value
@@ -72,6 +74,11 @@ const compare = (label, expected, actual, failures) => {
     if (!expectedCounts.has(item)) failures.push(`${label}: reader-only entry (${found}): ${item}`);
   }
 };
+
+// Some site-level targets are created by build-reader-site.mjs rather than
+// committed at the repository root. Reader links to these are valid in the
+// deployed site and should not be reported as missing during root-reader checks.
+const GENERATED_SITE_TARGETS = new Set(['index.html']);
 
 const failures = [];
 const summaries = [];
@@ -129,6 +136,7 @@ for (const [markdownFile, htmlFile, expectedTitle] of DOCUMENTS) {
     const [targetPath, fragment] = href.split('#');
     const targetFile = targetPath || htmlFile;
     if (!fs.existsSync(targetFile)) {
+      if (GENERATED_SITE_TARGETS.has(targetFile)) continue;
       failures.push(`${htmlFile}: local link target is missing: ${href}`);
       continue;
     }
@@ -155,6 +163,7 @@ for (const [htmlFile, expectedTitle] of STANDALONE_READERS) {
     const [targetPath, fragment] = href.split('#');
     const targetFile = targetPath || htmlFile;
     if (!fs.existsSync(targetFile)) {
+      if (GENERATED_SITE_TARGETS.has(targetFile)) continue;
       failures.push(`${htmlFile}: local link target is missing: ${href}`);
       continue;
     }
