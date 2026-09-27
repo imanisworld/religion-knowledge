@@ -101,14 +101,6 @@ mark{background:#FEF9C3;color:var(--ink);border-radius:2px;padding:0 1px}
 :root[data-theme=dark] #searchband{background:rgba(16,19,15,.95)}
 :root[data-theme=dark] mark{background:#5C4A22;color:#F2F5F3}
 :root[data-theme=dark] .flag-chip{background:#3A2E14;border-color:#5C4A22;color:#E8C176}
-@media (prefers-color-scheme:dark){
-:root:not([data-theme=light]){--ground:#10130F;--paper:#17201D;--ink:#F2F5F3;--ink2:#A8B4B0;--ink3:#8A9792;--rule:#2C3833;--accent:#6FBFB5;--accent-soft:#1B3330;--overstated:#E6B876}
-:root:not([data-theme=light]) #topbar{background:#0F1614}
-:root:not([data-theme=light]) #searchband{background:rgba(16,19,15,.95)}
-:root:not([data-theme=light]) mark{background:#5C4A22;color:#F2F5F3}
-:root:not([data-theme=light]) .flag-chip{background:#3A2E14;border-color:#5C4A22;color:#E8C176}
-}
-
 @media(max-width:560px){
   #topbar{padding:.7rem 1rem}
   #searchband{padding:.85rem 1rem .6rem}
@@ -136,12 +128,6 @@ main{max-width:800px;padding-top:2.35rem}
 :root[data-theme=dark]{--ground:#120E10;--paper:#1C1518;--ink:#F7F2F3;--ink2:#C4B7BB;--ink3:#978A8F;--rule:#382B30;--accent:#D8899A;--accent-soft:#3A2028}
 :root[data-theme=dark] #topbar{background:#100C0E}
 :root[data-theme=dark] #searchband{background:rgba(18,14,16,.95)}
-@media(prefers-color-scheme:dark){
-:root:not([data-theme=light]){--ground:#120E10;--paper:#1C1518;--ink:#F7F2F3;--ink2:#C4B7BB;--ink3:#978A8F;--rule:#382B30;--accent:#D8899A;--accent-soft:#3A2028}
-:root:not([data-theme=light]) #topbar{background:#100C0E}
-:root:not([data-theme=light]) #searchband{background:rgba(18,14,16,.95)}
-}
-
 /* ---------- search readability refinement ---------- */
 body{font-size:16.75px;line-height:1.68}
 #topbar{padding:1rem 1.6rem}
@@ -156,7 +142,6 @@ main{max-width:840px;padding-top:2.6rem}
 .rdoc{font-size:.67rem}
 .kbhint{margin-top:3.5rem}
 :root[data-theme=dark]{--ink2:#D1C5C9;--ink3:#AA9CA1;--rule:#44343A}
-@media(prefers-color-scheme:dark){:root:not([data-theme=light]){--ink2:#D1C5C9;--ink3:#AA9CA1;--rule:#44343A}}
 @media(max-width:560px){
   body{font-size:16.25px}
   #topbar{padding:.8rem 1rem}
@@ -220,6 +205,7 @@ main{max-width:860px}
         <a href="method-reference.html">Method &amp; Reference</a>
         <a href="glossary.html">Glossary</a>
         <a href="cited-persons.html">Cited Persons</a>
+        <a href="personal-belief-history.html">Personal History</a>
       </nav>
     </details>
     <button id="themebtn" type="button" aria-label="Toggle color theme">Theme</button>
@@ -441,7 +427,6 @@ if (matchMedia('(pointer:fine)').matches) qEl.focus();
 
 /* ---- theme ---- */
 const themeBtn = document.getElementById('themebtn');
-const themeMedia = matchMedia('(prefers-color-scheme: dark)');
 function effectiveTheme() {
   const explicit = document.documentElement.dataset.theme;
   if (explicit === 'dark' || explicit === 'light') return explicit;
@@ -460,7 +445,6 @@ themeBtn.addEventListener('click', () => {
   try { localStorage.setItem('religion-knowledge-theme', document.documentElement.dataset.theme); } catch {}
   syncThemeButton();
 });
-if (typeof themeMedia.addEventListener === 'function') themeMedia.addEventListener('change', syncThemeButton);
 syncThemeButton();
 
 /* ---- keyboard navigation ---- */
