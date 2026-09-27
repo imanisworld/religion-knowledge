@@ -107,7 +107,7 @@ function buildIndexHtml() {
   return `<!DOCTYPE html>
 <html lang="en" data-theme="light"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Bible Deep Dive</title>
+<title>Religion Knowledge</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
@@ -263,9 +263,9 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
 </header>
 <main>
   <div class="hero">
-    <p class="eyebrow">Religion Knowledge</p>
-    <h1>Bible Deep Dive</h1>
-    <p>A critical study of the Bible and religious belief systems, approached historically and analytically. Open the app to explore every claim with its sources and audit trail, or read the research documents directly.</p>
+    <p class="eyebrow">Research library</p>
+    <h1>Religion Knowledge</h1>
+    <p>A source-forward research library for biblical texts, religion, history, law, belief, and claim auditing. Use the readers for focused research or open the app to explore the structured record set.</p>
   </div>
   <a class="app-card" href="app/">
     <h2>Open the app</h2>
