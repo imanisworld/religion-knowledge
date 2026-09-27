@@ -155,6 +155,30 @@
 
 **Arianism** — The view that the Son was created by the Father and therefore not co-eternal. The losing side at Nicaea.
 
+**free will** — The disputed kind of control over action needed for genuine agency or moral responsibility. Philosophers disagree about whether it requires alternative possibilities, ultimate sourcehood, or neither.
+
+**free choice (project working term)** — In this corpus, selecting among presented options without assuming the stronger metaphysical claim of libertarian free will. This is a project distinction, not a universally standardized philosophical usage.
+
+**libertarian free will** — The view that genuine freedom is incompatible with determinism; libertarian accounts usually require the agent to be an appropriate source of the action and commonly require a real ability to do otherwise.
+
+**compatibilism** — The view that free will or moral responsibility can coexist with determinism. Different compatibilist theories define the required freedom differently.
+
+**theological fatalism** — The argument that infallible divine foreknowledge makes future human acts necessary in a way that threatens libertarian freedom.
+
+**open theism** — A Christian view on which the future includes genuinely open free decisions, so God does not have exhaustive settled foreknowledge of those undetermined choices. Open theists usually define omniscience as knowing every truth that can be known.
+
+**omniscience** — Complete knowledge; in classical theism this normally includes exhaustive knowledge of the actual future, though open theists dispute that future free contingents are settled truths available to be known.
+
+**omnipotence** — Maximal divine power, usually formulated as the power to do anything logically possible rather than the power to make contradictions true.
+
+**omnibenevolence** — Perfect or unsurpassable goodness attributed to God.
+
+**Oriental Orthodox** — The family including the Coptic, Syriac, Armenian, Ethiopian, Eritrean, and Malankara Orthodox churches. They accept the first three ecumenical councils and did not accept the Council of Chalcedon (451); they are distinct from Eastern Orthodox churches.
+
+**Council of Chalcedon** — The 451 CE council that defined Christ as one person in two natures, divine and human. Its formula was accepted by the churches that became Eastern Orthodox and Roman Catholic and rejected by the churches now called Oriental Orthodox.
+
+**miaphysitism** — The Christological language associated with the Oriental Orthodox tradition: Christ has one united incarnate nature that is fully divine and fully human. It should not simply be equated with Monophysitism, which implies the humanity is absorbed or denied.
+
 **theodicy** — An argument defending God's goodness given the existence of suffering.
 
 **skeptical theism** — The reply that we shouldn't expect to understand God's reasons, so suffering isn't evidence against God.

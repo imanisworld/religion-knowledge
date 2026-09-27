@@ -645,6 +645,35 @@ A human-parent analogy is limited here. A human parent does not know every futur
 
 **⟨YOURS⟩ Moral test:** The relevant question is not only "why would God allow this?" but "is the act itself just, merciful, or loving?" An explanation can alter how agency is assigned or what the author intended; it does not by itself change the moral character of rape, infant killing, torture, or other atrocities if those events are taken literally as described.
 
+
+### 9.3.2 Free Choice, Foreknowledge, and the Creator Analogy
+
+**⟨DOCUMENTED⟩ Terminology:** "Free choice" is not a universally standardized philosophical category distinct from "free will." In this corpus, use it as a **working distinction only**: *free choice* means an agent selects among presented options; *libertarian free will* is the stronger metaphysical claim that the agent is the relevant source of the act and, on most libertarian accounts, has genuine alternative possibilities. Compatibilists argue that determinism does not necessarily eliminate every meaningful kind of freedom. Hunt and Zagzebski frame theological fatalism specifically as the dispute over whether infallible divine foreknowledge is compatible with libertarian freedom; McKenna and Coates survey compatibilist accounts that do not all require the ability to do otherwise.
+
+**⟨YOURS⟩ Parent/dinner analogy:** Knowing which dinner a child will probably choose can show that ordinary prediction does not itself cause the choice. It leaves out the features doing the work in the classical-theist problem: infallible foreknowledge, creator status, omnipotence, and the ability to alter surrounding conditions or consequences. The analogy therefore does not by itself establish compatibility between classical divine attributes and libertarian freedom.
+
+**⟨YOURS⟩ Choice vs. successful harm:** An agent can choose or attempt harm even if another agent stops the harm from succeeding. Intervention in consequences is not identical to erasing the preceding intention or choice. Therefore, "God must allow every chosen harm to succeed or else free will disappears" requires an additional argument; it does not follow simply from the existence of choice.
+
+**⟨DOCUMENTED⟩ Open theism:** One established Christian response is to deny exhaustive infallible foreknowledge of undetermined future free acts while retaining omniscience as knowledge of every truth that can be known. William Hasker and the contributors to *The Openness of God* defend versions of this approach. Molinists and other defenders of exhaustive foreknowledge instead attempt to preserve both divine foreknowledge and libertarian freedom. A "branching future" is therefore not merely an ad hoc internet move; it is a recognized theological position, but it revises the classical claim of exhaustive settled foreknowledge and creates separate questions about providence and prophecy.
+
+**⟨INFERENCE⟩ Cross-pressure between defenses:**
+
+•  A stable-law or nonintervention defense needs a separate explanation when the same theology also affirms selective miracles, providence, or answered prayer. If selective intervention can occur without destroying meaningful agency or cosmic order, nonintervention alone does not explain why extreme harms must remain uninterrupted.
+
+•  Skeptical theism limits what humans can infer from apparently pointless suffering. Used broadly, that same limitation also pressures confident claims that an unseen "greater good" explains a specific horror. This does not refute skeptical theism; it limits what can be established by appealing to unknown reasons.
+
+**Sources — definitions and competing models:**
+
+•  Hunt, David & Linda Zagzebski. "Foreknowledge and Free Will." *Stanford Encyclopedia of Philosophy*, Spring 2026.
+
+•  McKenna, Michael & D. Justin Coates. "Compatibilism." *Stanford Encyclopedia of Philosophy*, Summer 2024.
+
+•  Hasker, William. *God, Time, and Knowledge* (1989) — major philosophical defense of limited foreknowledge/open-future approaches.
+
+•  Pinnock, Clark H.; Richard Rice; John Sanders; William Hasker; David Basinger. *The Openness of God* (1994) — systematic statement of open theism.
+
+•  Craig, William Lane. *The Only Wise God* (2000 ed.) — defense of compatibility between divine foreknowledge and libertarian freedom through a Molinist framework.
+
 ## 9.4 "God is outside of time"
 
 **The claim: **God exists beyond temporal categories, so human logic about sequence, causality, and time does not apply to him.
