@@ -63,6 +63,13 @@
 - Wisconsin Legislature — Constitution and Statutes: https://docs.legis.wisconsin.gov/
 - Wyoming Legislature — Constitution and Statutes: https://www.wyoleg.gov/statutes
 
+## U.S. religious-demographic and officeholder context sources
+
+- Pew Research Center — 2023–24 Religious Landscape Study: https://www.pewresearch.org/religious-landscape-study/
+- Pew Research Center — state-level Religious Landscape Study pages: https://www.pewresearch.org/religious-landscape-study/state/
+- Vote Smart — current candidate and officeholder biographies used only when a religious affiliation is explicitly reported: https://justfacts.votesmart.org/
+- Current state executive, legislative, and judicial official biographies are used to verify officeholders and, only when explicitly stated, religious affiliation. Absence of a stated affiliation is recorded as unknown rather than inferred.
+
 ## Comparative research hubs
 
 - NYU Globalex, Religious Legal Systems in Comparative Law — https://www.nyulawglobal.org/globalex/religious_legal_systems1.html
