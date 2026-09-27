@@ -187,6 +187,36 @@ main{max-width:860px}
   .rcard{margin:0 -.35rem;padding:1.1rem .35rem}
   #filters{padding-right:1.25rem}
 }
+.search-intro{
+  max-width:860px;
+  margin:0 auto;
+  padding:2.25rem 1.5rem 1.15rem;
+}
+.search-intro .eyebrow{
+  margin:0 0 .35rem;
+  color:var(--accent);
+  font-size:.72rem;
+  font-weight:700;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+}
+.search-intro h1{
+  margin:0;
+  font-family:var(--f-display);
+  font-size:clamp(2rem,4vw,2.8rem);
+  font-weight:500;
+  letter-spacing:-.025em;
+  line-height:1.05;
+}
+.search-intro p:last-child{
+  margin:.55rem 0 0;
+  max-width:64ch;
+  color:var(--ink2);
+  font-size:.94rem;
+}
+@media(max-width:560px){
+  .search-intro{padding:1.65rem 1rem .9rem}
+}
 </style><script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script><link rel="stylesheet" href="site-shell.css">
 </head><body class="rk-with-sitebar rk-search-page">
 
@@ -203,12 +233,18 @@ main{max-width:860px}
   </div>
 </header>
 
+<section class="search-intro" aria-labelledby="search-title">
+  <p class="eyebrow">Discovery</p>
+  <h1 id="search-title">Search the research library</h1>
+  <p>Search readers, cited persons, Religion &amp; Law, and indexed research notes from one place.</p>
+</section>
+
 <div id="searchband">
   <div id="qwrap">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
       <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
     </svg>
-    <input id="q" type="search" placeholder="Search all documents and cited persons&#8230;" aria-label="Search all documents and cited persons" autocomplete="off" spellcheck="false">
+    <input id="q" type="search" placeholder="Search a person, topic, claim, law, or source&#8230;" aria-label="Search all documents and cited persons" autocomplete="off" spellcheck="false">
   </div>
   <div id="filters" aria-label="Filter search by document"></div>
 </div>
