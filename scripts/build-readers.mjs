@@ -928,7 +928,7 @@ body{margin:0;overflow-x:clip;background:var(--ground);color:var(--ink);font-fam
   background:#0F1614;color:#E6EDEA;font-family:var(--f-body);font-size:.85rem;width:calc(100% - 2.8rem)}
 #search::placeholder{color:#5E6C67}
 #search:focus{outline:2px solid var(--accent);outline-offset:1px;border-color:transparent}
-#toc{flex:1;overflow-y:auto;padding:0 .7rem 2rem}
+#toc{flex:1;overflow-y:auto;overscroll-behavior-y:contain;scrollbar-gutter:stable;padding:0 .7rem 2rem}
 #toc a{display:block;text-decoration:none;color:#A8B4B0;padding:.32rem .7rem;
   border-radius:3px;font-size:.845rem;line-height:1.35;border-left:2px solid transparent}
 #toc a:hover{color:#F2F5F3;background:#212C28}
@@ -1617,6 +1617,14 @@ hr+*{margin-top:0}
 
 const JS = `
 const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
+
+/* keep wheel/trackpad scrolling inside the navigation rail */
+const rail=$('#rail'), railToc=$('#toc');
+if(rail&&railToc) rail.addEventListener('wheel',e=>{
+  if(e.ctrlKey||!e.deltaY)return;
+  railToc.scrollTop+=e.deltaY;
+  e.preventDefault();
+},{passive:false});
 
 /* progress */
 addEventListener('scroll',()=>{
