@@ -51,13 +51,17 @@
       </article>`;
   }).join('');
 
+  const libraryHelp = embeddedSources
+    ? 'Browse records by original document or open the embedded source copy.'
+    : 'Browse records by original document or open the corresponding reader.';
+
   library.innerHTML = `
     <div class="section-heading stacked">
       <div>
         <p class="eyebrow">Canonical documents</p>
         <h2>Source Library</h2>
       </div>
-      <p class="muted">Browse records by original document or open the untouched Markdown source.</p>
+      <p class="muted">${libraryHelp}</p>
     </div>
     <div class="card-list">${cards}</div>
     <div class="section-heading stacked">
