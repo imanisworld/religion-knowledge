@@ -120,6 +120,7 @@ function extractReligionLaw(baseDir) {
     ['us-constitutional-federal.md', 'U.S. Constitutional & Federal Baseline', 'federal'],
     ['formal-law-institutional-practice.md', 'Formal Law vs. Institutional Practice', 'formal-practice'],
     ['us-state-law.md', 'U.S. State-Law Module', 'state-module'],
+    ['state-context-methodology.md', 'State Demographics & Power Methodology', 'state-context'],
     ['source-registry.md', 'Religion & Law Source Registry', 'sources'],
     ['comparative-constitutional-systems.md', 'Comparative Constitutional Systems', 'comparative'],
   ];
@@ -134,6 +135,30 @@ function extractReligionLaw(baseDir) {
       text: stripMarkdown(md).slice(0, 1400),
       flag: false,
     });
+  }
+
+  const overviewData = [
+    ['records/policy-influence.json', 'Policy influence', 'issue'],
+    ['records/global-legal-structure.json', 'Global legal structure', 'issue'],
+    ['records/institutional-practice.json', 'Institutional practice', 'example'],
+  ];
+  for (const [file, group, titleField] of overviewData) {
+    const fullPath = path.join(root, file);
+    if (!fs.existsSync(fullPath)) continue;
+    const rows = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
+    for (const row of rows) {
+      const text = Object.entries(row)
+        .filter(([key]) => !['id', 'sources'].includes(key))
+        .map(([, value]) => String(value))
+        .join(' ');
+      entries.push({
+        url: 'religion-law.html#overview',
+        doc: 'Religion & Law',
+        title: `${group}: ${row[titleField] || row.id}`,
+        text: text.slice(0, 1400),
+        flag: false,
+      });
+    }
   }
   return entries;
 }
