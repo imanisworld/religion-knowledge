@@ -57,11 +57,11 @@ try{const t=localStorage.getItem('religion-knowledge-theme');if(t==='dark'||t===
 </section>
 <div class="layout">
 <aside class="sidebar">
-<input class="search" id="stateSearch" type="search" placeholder="Find a state…" autocomplete="off">
-<div class="sidehead">Explore states</div>
-<div class="states" id="states"><div class="empty">Loading…</div></div>
 <div class="sidehead">Research reference</div>
 <div id="docs"></div>
+<div class="sidehead">Explore states</div>
+<input class="search" id="stateSearch" type="search" placeholder="Find a state…" autocomplete="off">
+<div class="states" id="states"><div class="empty">Loading…</div></div>
 </aside>
 <article class="content" id="content"><p class="loading">Loading research database…</p></article>
 </div>
@@ -457,13 +457,13 @@ function renderGlobalTable(){
 function renderComparison(){
   $('#content').innerHTML=
     renderOverview()+
+    renderPracticeTable()+
     '<section class="section-block"><div class="db-head"><div><h2>Compare laws</h2><p>Start with the relationship between religion and the rule, then check what the rule does and whether it still operates today.</p></div></div>'+
     '<p class="note"><strong>Coverage note:</strong> This table currently shows records already normalized into structured data. State profiles contain additional verified baseline research that is still being converted into law-level records.</p>'+
     renderFilters()+
     '<div class="table-wrap"><table class="compare-table"><thead><tr><th>Law / rule</th><th>Place</th><th>Religion relationship</th><th>What it does / did</th><th>Current status</th></tr></thead><tbody id="comparisonBody"></tbody></table></div></section>'+
     renderPolicyTable()+
     renderGlobalTable()+
-    renderPracticeTable()+
     '<p class="method-note">Plain-language labels are shown here; the A–E research codes remain internal. <a href="#doc=methodology">Methodology &amp; evidence rules</a></p>';
   renderComparisonBody();
   bindComparison();
