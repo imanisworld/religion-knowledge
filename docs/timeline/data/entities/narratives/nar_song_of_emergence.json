@@ -1,0 +1,50 @@
+{
+  "id": "nar_song_of_emergence",
+  "name": "Hurro-Hittite Song of Emergence (formerly Song of Kumarbi)",
+  "genre": "sacred_narrative",
+  "tradition_id": null,
+  "region": [
+    "Anatolia",
+    "Levant"
+  ],
+  "language": "Hittite adaptation of an earlier, probably Hurrian composition",
+  "source_label": "Song of Emergence / former Song of Kumarbi",
+  "motif_tags": [
+    "DIVINE_WAR"
+  ],
+  "dating": {
+    "earliest_archaeological_evidence": {
+      "range": {
+        "earliest": -1400,
+        "latest": -1200,
+        "precision": "CENTURY"
+      },
+      "note": "The narrative survives in Hittite cuneiform material from the Late Bronze Age Hittite imperial archive. This broad range avoids assigning a false exact tablet date."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": -1400,
+        "latest": -1200,
+        "precision": "CENTURY"
+      },
+      "note": "The surviving Hittite adaptation belongs to the second millennium BCE; scholarship treats it as adapting an earlier, now-lost and probably Hurrian composition."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": -1400,
+        "latest": -1200,
+        "precision": "CENTURY"
+      },
+      "note": "Hittite-language cuneiform witnesses preserve the narrative; the exact date of each fragment is not collapsed into a single year here."
+    },
+    "estimated_composition": null,
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "The narrative concerns primordial divine kingship and does not give a historical calendar date."
+    },
+    "estimated_oral_origin": null,
+    "dating_summary": "The Song survives in a Late Bronze Age Hittite adaptation of an earlier, probably Hurrian composition; the surviving textual horizon is much firmer than the date or form of any earlier oral version."
+  },
+  "relationships": [],
+  "notes": "Added for Phase 7 transmission analysis. Similarity to Hesiod is not itself treated as influence; the separate relationship claim carries the transmission argument and its evidentiary limits."
+}
