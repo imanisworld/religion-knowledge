@@ -25,6 +25,7 @@ A law's text, its historical cause, and its current enforceability are separate 
 - `records/us-md-maryland.json` — earlier Maryland structured baseline pending migration to the common schema
 - `records/policy-influence.json` — sourced U.S. policy-influence overview; religious advocacy/public opinion is kept separate from legal causation
 - `records/global-legal-structure.json` — sourced U.S.-vs.-global structural comparison rows
+- `records/institutional-practice.json` — sourced records separating formal law from official practice, representation patterns, and accommodation frameworks
 - `overview-records.schema.json` — schema for the policy/global overview datasets
 - `us-constitutional-federal.md` — verified initial U.S. module
 - `us-state-law.md` — state-law research queue and controls
@@ -37,4 +38,4 @@ This module is published on `main`. Individual state and comparative records rem
 
 The comparison table only includes law-level records whose classification and status are supported by the verified source profile. Items whose religion-causation classification is still pending remain in the state profile but are not forced into A–E for display.
 
-The policy-influence table answers a different question from A–E causation: it records documented religious public opinion, litigation, or organizational advocacy around a policy area. Presence in that table is **not** evidence that religion caused the resulting law. Source links are typed so legal authorities, polling, advocacy materials, status trackers, and comparative primary law are visibly distinguishable.
+The policy-influence table answers a different question from A–E causation: it records documented religious public opinion, litigation, or organizational advocacy around a policy area. Presence in that table is **not** evidence that religion caused the resulting law. The institutional-practice table separately records formal rules, official practices, representation patterns, and accommodation frameworks without treating cultural visibility as legal coercion. Source links are typed so legal authorities, polling, advocacy materials, status trackers, government-practice sources, and comparative primary law are visibly distinguishable.
