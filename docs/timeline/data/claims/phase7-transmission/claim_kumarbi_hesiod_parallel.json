@@ -1,0 +1,58 @@
+{
+  "id": "claim_kumarbi_hesiod_parallel",
+  "subject_type": "Narrative",
+  "subject_id": "nar_hesiod_theogony",
+  "statement": "The Hurro-Hittite Song of Emergence and Hesiod's Theogony share a distinctive divine-succession pattern that includes one generation displacing another, a castration episode, abnormal divine birth, and the eventual rise of a storm-god ruler.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Anatolia",
+    "Levant",
+    "Europe"
+  ],
+  "evidence_types": [
+    "COMPARATIVE_RECONSTRUCTION"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Jenny Strauss Clay and Athanassios Vergados, eds., Hesiod: Theogony (Cambridge University Press, 2015), introduction discussing the Song of Emergence / former Song of Kumarbi and the Hesiodic Succession Myth.",
+      "author": "Jenny Strauss Clay; Athanassios Vergados",
+      "year": 2015,
+      "venue": "Cambridge University Press",
+      "contemporary_with_event": null,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Cambridge excerpt directly describes the shared succession structure and narrative details."
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "R. D. Barnett, “The Epic of Kumarbi and the Theogony of Hesiod,” Journal of Hellenic Studies 65 (1945): 100–101.",
+      "author": "R. D. Barnett",
+      "year": 1945,
+      "venue": "Journal of Hellenic Studies",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Cambridge Core extract identifies the Hurrian background and summarizes the succession narrative."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "Structural similarity by itself does not identify the exact transmitter, route, or date of transmission.",
+    "The comparison does not require direct copying of a surviving Hittite tablet by Hesiod."
+  ],
+  "adversarial_counter": "Some individual motifs can arise independently; the historical transmission claim therefore requires evidence beyond motif matching.",
+  "status": "verified",
+  "notes": "This observation is deliberately separated from the causal transmission claim."
+}
