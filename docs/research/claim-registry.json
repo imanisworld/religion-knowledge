@@ -484,5 +484,181 @@
       }
     ],
     "notes": "Tracked set: governor, lieutenant governor, acting attorney general, House speaker, Senate president, and chief justice."
+  },
+  {
+    "claim_id": "CTX-AZDEMOG-001",
+    "claim_text": "Pew's 2023–24 Religious Landscape Study estimates Arizona adults as 21% Catholic, 19% evangelical Protestant, 10% mainline Protestant, 5% Latter-day Saint, 3% atheist, 5% agnostic, and 22% nothing in particular, with a ±5.5 percentage-point margin of error for adults in Arizona.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Pew Research Center, 2023–24 Religious Landscape Study — Arizona",
+        "locator": "State religious-composition table and margin-of-error note; https://www.pewresearch.org/religious-landscape-study/state/arizona/"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "These are survey estimates, not census counts. Two percent did not answer the affiliation question, small differences may fall within the state margin of error, and figures may not sum to 100% because of rounding and categories reported as less than 1%.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Arizona"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=arizona"
+      }
+    ],
+    "notes": "Population context remains separate from legal-causation coding."
+  },
+  {
+    "claim_id": "CTX-AZPOWER-001",
+    "claim_text": "As of September 27, 2026, Arizona has five applicable tracked power positions because the lieutenant-governor office applies beginning with the term starting in 2027; 3 of those 5 current officeholders have publicly documented affiliations in the sources reviewed: Katie Hobbs is Catholic, Steve Montenegro has a Christian Apostolic pastoral background, and Warren Petersen has an older explicit Latter-day Saint identification, while Kris Mayes and Ann Timmer remain unknown.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Arizona Governor — official site",
+        "locator": "Katie Hobbs is current governor; https://azgovernor.gov/"
+      },
+      {
+        "source": "Vote Smart — Katie Hobbs biography",
+        "locator": "Religion field lists Catholic; https://justfacts.votesmart.org/candidate/biography/123724/katie-hobbs"
+      },
+      {
+        "source": "Arizona Legislature — Proposition 131/SCR 1024 fact sheet",
+        "locator": "Lieutenant-governor office applies beginning with the election for a term starting in 2027; https://www.azleg.gov/legtext/55leg/2R/summary/S.SCR1024GOV.DOCX.htm"
+      },
+      {
+        "source": "Arizona Attorney General — official site",
+        "locator": "Kris Mayes is current Attorney General; no affiliation stated in materials reviewed; https://www.azag.gov/"
+      },
+      {
+        "source": "Arizona Legislature — current member roster",
+        "locator": "Steve Montenegro listed as Speaker; https://www.azleg.gov/MemberRoster/"
+      },
+      {
+        "source": "Arizona Legislature — prior Steve Montenegro biography",
+        "locator": "Identifies Montenegro as a minister and assistant/youth pastor at Surprise Apostolic Assembly; https://www.azleg.gov/house-member/?legislator=1651&legislature=52&session=115"
+      },
+      {
+        "source": "Arizona Legislature — Warren Petersen biography",
+        "locator": "Current President of the Senate; https://www.azleg.gov/senate-member/?legislator=2139&legislature=56"
+      },
+      {
+        "source": "Arizona Capitol Times — Warren Petersen candidate profile",
+        "locator": "2012 profile lists religious preference as LDS; https://azcapitoltimes.com/election-2012/2012/warren-petersen/"
+      },
+      {
+        "source": "Arizona Courts — Chief Justice Ann A. Scott Timmer biography",
+        "locator": "Current Chief Justice; no affiliation stated in biography reviewed; https://www.azcourts.gov/MeetTheJustices/ChiefJusticeAnnAScottTimmer"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "Two of the five current tracked affiliations are unknown, and two of the three documented religion sources predate the current term. The snapshot therefore reports source coverage and does not infer the unknown affiliations or treat religion as a cause of law.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Arizona"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=arizona"
+      }
+    ],
+    "notes": "The standard set has five applicable positions in Arizona in this snapshot because no lieutenant governor is serving before the term beginning in 2027."
+  },
+  {
+    "claim_id": "CTX-ARDEMOG-001",
+    "claim_text": "Pew's 2023–24 Religious Landscape Study estimates Arkansas adults as 50% evangelical Protestant, 13% mainline Protestant, 8% historically Black Protestant, 5% Catholic, 2% atheist, 4% agnostic, and 12% nothing in particular, with a ±7.3 percentage-point margin of error for adults in Arkansas.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Pew Research Center, 2023–24 Religious Landscape Study — Arkansas",
+        "locator": "State religious-composition table and margin-of-error note; https://www.pewresearch.org/religious-landscape-study/state/arkansas/"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "These are survey estimates, not census counts. Arkansas's state margin of error is relatively large, and figures may not sum to 100% because of rounding and categories reported as less than 1%.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Arkansas"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=arkansas"
+      }
+    ],
+    "notes": "Population context remains separate from legal-causation coding."
+  },
+  {
+    "claim_id": "CTX-ARPOWER-001",
+    "claim_text": "As of September 27, 2026, 4 of 6 tracked Arkansas power positions have publicly documented Christian affiliations in the sources reviewed: Sarah Huckabee Sanders identifies with Christian faith, and Tim Griffin, Brian Evans, and Bart Hester have documented Baptist affiliations; Leslie Rutledge and Chief Justice Karen Baker remain unknown.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Arkansas Governor — Sarah Huckabee Sanders biography",
+        "locator": "Current governor; https://governor.arkansas.gov/administration/governor-sanders/"
+      },
+      {
+        "source": "Baptist Press — direct Sarah Huckabee Sanders interview",
+        "locator": "Discusses how her Christian faith intersects with her work; https://www.baptistpress.com/resource-library/news/sarah-huckabee-sanders-believer-mom-in-white-house/"
+      },
+      {
+        "source": "Arkansas Lieutenant Governor — Leslie Rutledge biography",
+        "locator": "Current lieutenant governor; no affiliation stated in biography reviewed; https://ltgovernor.arkansas.gov/meet-leslie-rutledge/"
+      },
+      {
+        "source": "Arkansas Attorney General — Tim Griffin biography",
+        "locator": "Current attorney general; https://arkansasag.gov/meet-tim/"
+      },
+      {
+        "source": "Vote Smart — Tim Griffin biography",
+        "locator": "Lists membership in Immanuel Baptist Church of Little Rock; https://justfacts.votesmart.org/candidate/biography/119213/tim-griffin"
+      },
+      {
+        "source": "Arkansas Legislature — Brian S. Evans profile",
+        "locator": "Speaker of the House 2025 and Church Affiliation: Baptist; https://www.arkleg.state.ar.us/Legislators/Detail?member=Evans"
+      },
+      {
+        "source": "Arkansas Senate — leadership",
+        "locator": "Bart Hester is President Pro Tempore; https://senate.arkansas.gov/leadership/"
+      },
+      {
+        "source": "Arkansas Legislature — Bart Hester profile",
+        "locator": "President Pro Tempore and Church Affiliation: Baptist; https://arkleg.state.ar.us/Legislators/Detail?member=Hester"
+      },
+      {
+        "source": "Arkansas Judiciary — Karen R. Baker biography",
+        "locator": "Chief Justice 2025-present; no affiliation stated in biography reviewed; https://arcourts.gov/courts/supreme-court/justices/chief-justice-karen-r-baker-position-1"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "Two of the six tracked affiliations remain unknown. Unknown means no reliable public affiliation was identified in the sources reviewed, not that those officeholders are nonreligious; the snapshot also does not establish that religion caused any law or policy.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Arkansas"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=arkansas"
+      }
+    ],
+    "notes": "Tracked set: governor, lieutenant governor, attorney general, House speaker, Senate president pro tempore, and chief justice."
   }
 ]
