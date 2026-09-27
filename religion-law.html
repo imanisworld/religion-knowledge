@@ -30,7 +30,10 @@
 .record-details{margin-top:.48rem}.record-details summary{color:var(--accent);font-size:.72rem;font-weight:700;cursor:pointer;list-style:none}.record-details summary::-webkit-details-marker{display:none}.record-details summary::after{content:" +";font-weight:400}.record-details[open] summary::after{content:" −"}.detail-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.55rem 1rem;margin-top:.65rem;padding:.75rem;border-radius:10px;background:var(--ground);font-size:.78rem;color:var(--ink2)}.detail-grid b{display:block;color:var(--ink3);font-size:.64rem;letter-spacing:.07em;text-transform:uppercase;margin-bottom:.15rem}.detail-grid .wide{grid-column:1/-1}.profile-link{display:inline-block;margin-top:.35rem;font-size:.72rem;font-weight:700;text-decoration:none}.profile-link:hover{text-decoration:underline}
 .no-results{padding:2rem;text-align:center;color:var(--ink3)}
 .method-note{margin-top:1.15rem;color:var(--ink3);font-size:.78rem}.method-note a{font-weight:700}
-@media(max-width:820px){.layout{grid-template-columns:1fr}.sidebar{position:relative;top:0;max-height:none}.states{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.2rem}.topinner{padding:.65rem .8rem}.shell{padding:1.2rem .8rem 4rem}.navlink.hide-mobile{display:none}.db-head{display:block}.coverage{white-space:normal}.detail-grid{grid-template-columns:1fr}}
+
+.overview-title{margin-bottom:.45rem!important}.overview-lede{margin:0 0 1rem;color:var(--ink2);max-width:82ch}.overview-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.9rem;margin:1rem 0 1.7rem}.overview-card{border:1px solid var(--rule);border-radius:15px;padding:1rem 1.05rem;background:color-mix(in srgb,var(--paper) 90%,var(--soft));min-width:0}.overview-card h2{border:0!important;padding:0!important;margin:0 0 .5rem!important;font-size:1.08rem!important}.overview-card p{margin:.35rem 0;color:var(--ink2);font-size:.88rem}.overview-stats{display:flex;gap:.45rem;flex-wrap:wrap;margin-top:.75rem}.overview-stat{border:1px solid var(--rule);border-radius:999px;padding:.3rem .55rem;background:var(--paper);font-size:.72rem;color:var(--ink2)}.overview-stat b{color:var(--ink)}
+.section-block{margin-top:2.2rem;padding-top:1.6rem;border-top:1px solid var(--rule)}.section-block h2{border:0!important;padding-top:0!important;margin:.05rem 0 .4rem!important}.section-intro{margin:0 0 1rem;color:var(--ink2);font-size:.92rem;max-width:82ch}.policy-table{min-width:980px}.global-table{min-width:860px}.source-links{display:flex;flex-wrap:wrap;gap:.35rem;margin-top:.4rem}.source-links a{font-size:.68rem;font-weight:700;text-decoration:none;border-bottom:1px solid color-mix(in srgb,var(--accent) 40%,transparent)}.source-links a:hover{border-color:var(--accent)}.scope-note{margin:.8rem 0 0;color:var(--ink3);font-size:.76rem}
+@media(max-width:820px){.overview-grid{grid-template-columns:1fr}.layout{grid-template-columns:1fr}.sidebar{position:relative;top:0;max-height:none}.states{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.2rem}.topinner{padding:.65rem .8rem}.shell{padding:1.2rem .8rem 4rem}.navlink.hide-mobile{display:none}.db-head{display:block}.coverage{white-space:normal}.detail-grid{grid-template-columns:1fr}}
 @media(max-width:520px){.states{grid-template-columns:1fr}.content{padding:1.2rem}.hero{padding-top:.4rem}.hero h1{font-size:2.45rem}.compare-tools{margin-left:-.2rem;margin-right:-.2rem;padding:.8rem}.filter-row{gap:.38rem}.filter-chip{font-size:.72rem;padding:.34rem .58rem}}
 </style>
 <script>
@@ -83,6 +86,102 @@ const RELATIONSHIPS={
   D:{label:'Protects / Limits Religion',slug:'protects-limits'},
   E:{label:'Primarily Secular',slug:'secular'}
 };
+
+const POLICY_ROWS=[
+  {
+    issue:'Abortion',
+    government:'Legality, gestational limits, medication access, funding, and state constitutional protections.',
+    religion:'Religious advocacy is divided. Catholic bishops and many evangelical organizations advocate restrictions, while some Jewish, mainline Protestant, and other religious organizations advocate abortion access. Public opinion also differs substantially by religious tradition.',
+    legal:'After Dobbs (2022), regulation is primarily state-driven, subject to federal constitutional and statutory questions.',
+    sources:[
+      ['Pew — religion & abortion views','https://www.pewresearch.org/religion/2025/02/26/religion-and-views-on-lgbtq-issues-and-abortion/'],
+      ['Pew — abortion views by state','https://www.pewresearch.org/short-reads/2025/06/12/americans-views-on-abortion-differ-by-state/']
+    ]
+  },
+  {
+    issue:'LGBTQ+ rights & marriage',
+    government:'Marriage recognition, nondiscrimination rules, public accommodations, education, and religious exemptions.',
+    religion:'Religious positions are not uniform. Pew finds large differences among evangelical Protestants, Catholics, mainline Protestants, Jews, Latter-day Saints, Hindus, Buddhists, Muslims, and the religiously unaffiliated.',
+    legal:'Marriage equality remains protected by Obergefell and federal statute; other LGBTQ+ and religious-exemption questions vary by issue and jurisdiction.',
+    sources:[['Pew — religion & LGBTQ views','https://www.pewresearch.org/religion/2025/02/26/religion-and-views-on-lgbtq-issues-and-abortion/']]
+  },
+  {
+    issue:'Public-school curriculum & opt-outs',
+    government:'Curriculum requirements, parental opt-outs, religious exercise, and how schools handle contested instructional material.',
+    religion:'Religious parents and organizations have challenged curriculum rules that they argue burden religious exercise; other religious and secular groups take different positions.',
+    legal:'In Mahmoud v. Taylor (2025), the Supreme Court held that the challenged no-opt-out policy burdened the parents’ free-exercise rights under the facts of that case.',
+    sources:[['Supreme Court — Mahmoud v. Taylor','https://www.supremecourt.gov/opinions/24pdf/24-297_4f14.pdf']]
+  },
+  {
+    issue:'Religious-school funding',
+    government:'Whether neutral public-benefit, tuition-assistance, or voucher programs may exclude otherwise eligible religious schools.',
+    religion:'Religious-school organizations often seek equal access to generally available benefit programs; church-state organizations may argue for stricter separation depending on program design.',
+    legal:'Carson v. Makin (2022) held Maine could not exclude otherwise eligible schools from its tuition-assistance program because they provided religious instruction.',
+    sources:[['Supreme Court — Carson v. Makin','https://www.supremecourt.gov/opinions/21pdf/20-1088_dbfi.pdf']]
+  },
+  {
+    issue:'Contraception & employer exemptions',
+    government:'Insurance coverage requirements and religious exemptions from generally applicable health-benefit rules.',
+    religion:'Some religious employers and institutions object to covering contraception; other religious groups do not share that position.',
+    legal:'Federal litigation has repeatedly addressed the interaction between contraception mandates, RFRA, and religious exemptions.',
+    sources:[['Supreme Court — Burwell v. Hobby Lobby','https://www.supremecourt.gov/opinions/13pdf/13-354_olp1.pdf']]
+  },
+  {
+    issue:'End-of-life policy',
+    government:'Physician-assisted death, treatment refusal, advance directives, and conscience protections.',
+    religion:'Religious institutions take varied positions; Catholic institutional advocacy is strongly opposed to physician-assisted death.',
+    legal:'The legal status is state-specific; there is no single national assisted-dying rule.',
+    sources:[['USCCB — life issues','https://www.usccb.org/prolife']]
+  },
+  {
+    issue:'Immigration & refugee policy',
+    government:'Enforcement, asylum, refugee admission, detention, humanitarian services, and faith-based service providers.',
+    religion:'Religious advocacy cuts across ideological lines. Catholic, Jewish, evangelical, Muslim, and interfaith organizations have participated in immigration and refugee policy debates.',
+    legal:'Federal immigration law governs the core system, with continuing litigation and administrative policy changes.',
+    sources:[['USCCB — Migration and Refugee Services','https://www.usccb.org/committees/migration']]
+  },
+  {
+    issue:'Death penalty',
+    government:'Whether and how capital punishment is authorized and administered.',
+    religion:'Religious views differ. Catholic institutional teaching opposes capital punishment; views within Protestant and other traditions vary.',
+    legal:'Capital punishment remains lawful under federal law and in some states, while other states have abolished it or imposed moratoria.',
+    sources:[['Pew — morality survey','https://www.pewresearch.org/religion/2026/03/19/what-do-americans-consider-immoral/']]
+  }
+];
+
+const GLOBAL_ROWS=[
+  {
+    issue:'Official or favored religion',
+    us:'No official or government-favored religion at the federal level; the Constitution bars establishment and religious tests for federal office.',
+    global:'Pew’s 2015-based global study counted 43 countries with an official state religion and 40 more that favored a religion. This is a dated baseline, not a 2026 count.',
+    sources:[['Pew global baseline (2015 data)','https://www.pewresearch.org/religion/2017/10/03/many-countries-favor-specific-religions-officially-or-unofficially/']]
+  },
+  {
+    issue:'Blasphemy laws',
+    us:'No enforceable federal blasphemy offense. Government punishment of protected religious criticism would face First Amendment limits.',
+    global:'USCIRF’s 2023 compendium listed 95 countries with national-level legislation criminalizing expressions that insult or offend religious feelings, figures, or symbols.',
+    sources:[['USCIRF — blasphemy laws','https://www.uscirf.gov/news-room/releases-statements/uscirf-releases-updated-blasphemy-factsheet-and-blasphemy-law']]
+  },
+  {
+    issue:'Anti-conversion / apostasy-related laws',
+    us:'No national legal regime penalizes changing religion or leaving a religion.',
+    global:'USCIRF’s 2023 compendium identified 46 countries with at least one national anti-conversion law, covering anti-proselytism, interfaith marriage, apostasy, or identity-documentation rules.',
+    sources:[['USCIRF — anti-conversion laws','https://www.uscirf.gov/publications/anti-conversion-laws-compendium']]
+  },
+  {
+    issue:'Religious-source-of-law provisions',
+    us:'Federal law does not designate a sacred text or religious doctrine as a source that legislation must follow.',
+    global:'Some constitutions expressly give a religion or religious criteria legal authority. The effect varies by country and must be analyzed rule by rule.',
+    sources:[['Pew — official/favored religion baseline','https://www.pewresearch.org/religion/2017/10/03/many-countries-favor-specific-religions-officially-or-unofficially/']]
+  },
+  {
+    issue:'Religious courts / personal-status law',
+    us:'Civil courts administer marriage, divorce, inheritance, and criminal law. Private religious tribunals may operate only within the limits of ordinary civil law.',
+    global:'Some jurisdictions assign family or personal-status matters to religious courts or religiously defined legal systems. Scope varies by religion, territory, subject, and citizenship.',
+    sources:[['Comparative systems research','research/religion-law/comparative-constitutional-systems.md']]
+  }
+];
+
 let states=[],records=[];
 let relationshipFilter='all',statusFilter='all',recordQuery='';
 const $=s=>document.querySelector(s);
@@ -253,13 +352,46 @@ function renderComparisonBody(){
   if(body)body.innerHTML=list.length?list.map(recordRow).join(''):'<tr><td colspan="5"><div class="no-results">No structured records match these filters yet.</div></td></tr>';
   if(count)count.textContent=list.length+' of '+records.length+' structured records shown';
 }
-function renderComparison(){
+
+function sourceLinks(sources){
+  return '<div class="source-links">'+(sources||[]).map(s=>'<a href="'+esc(s[1])+'" '+(String(s[1]).startsWith('http')?'target="_blank" rel="noopener"':'')+'>'+esc(s[0])+' ↗</a>').join('')+'</div>';
+}
+function renderOverview(){
   const verified=states.filter(s=>s.verified).length;
+  const rc=relationshipCounts();
+  return '<h1 class="overview-title">Research overview</h1>'+
+    '<div class="statusline"><span class="pill">'+verified+' first-pass state baselines verified</span><span class="pill">'+states.length+' states scaffolded</span><span class="pill">'+records.length+' structured law records</span></div>'+
+    '<p class="note"><strong>Important:</strong> “first-pass baseline verified” does not mean a complete state survey. It means the cited baseline entries have primary legal authority and a verification date. Historical-causation claims remain separate and require their own evidence.</p>'+
+    '<div class="overview-grid">'+
+      '<section class="overview-card"><h2>Included here</h2><p><strong>Current law:</strong> statutes, constitutional provisions, and controlling doctrines that explicitly concern religion or religious exercise.</p><p><strong>Historical law:</strong> repealed or superseded rules when they matter to the religion-and-law record.</p><div class="overview-stats"><span class="overview-stat"><b>'+rc.A+'</b> explicitly religious</span><span class="overview-stat"><b>'+rc.B+'</b> historical origin</span></div></section>'+
+      '<section class="overview-card"><h2>Also mapped</h2><p><strong>Mixed influence:</strong> religion materially shaped a rule alongside other causes.</p><p><strong>Protections / limits:</strong> laws that restrict establishment or protect religious exercise are tracked separately from laws that impose religious rules.</p><div class="overview-stats"><span class="overview-stat"><b>'+rc.C+'</b> mixed influence</span><span class="overview-stat"><b>'+rc.D+'</b> protects / limits</span></div></section>'+
+      '<section class="overview-card"><h2>Not automatically “religion-caused”</h2><p>A law is not coded as caused by religion merely because religious people support it, it concerns morality, or it affects a religious group.</p><p>Historical causation requires evidence, competing explanations, and a separate current-status analysis.</p><div class="overview-stats"><span class="overview-stat"><b>'+rc.E+'</b> secular-purpose controls</span></div></section>'+
+    '</div>';
+}
+function renderPolicyTable(){
+  return '<section class="section-block"><h2>Religion &amp; U.S. policy</h2>'+
+    '<p class="section-intro">This is a different question from legal causation: <strong>what policy questions are religious organizations, institutions, and constituencies trying to influence?</strong> Positions within religions are not treated as uniform.</p>'+
+    '<div class="table-wrap"><table class="compare-table policy-table"><thead><tr><th>Policy issue</th><th>What government is deciding</th><th>Documented religious involvement</th><th>Legal arena</th></tr></thead><tbody>'+
+    POLICY_ROWS.map(r=>'<tr><td><div class="law-name">'+esc(r.issue)+'</div></td><td>'+esc(r.government)+'</td><td>'+esc(r.religion)+sourceLinks(r.sources)+'</td><td>'+esc(r.legal)+'</td></tr>').join('')+
+    '</tbody></table></div><p class="scope-note">This table maps advocacy and policy conflict. It does not by itself establish that religion caused a resulting law.</p></section>';
+}
+function renderGlobalTable(){
+  return '<section class="section-block"><h2>U.S. vs. global legal structure</h2>'+
+    '<p class="section-intro">The U.S. often shows a formal “zero” on measures such as official religion, blasphemy offenses, and apostasy penalties. That does not answer separate questions about cultural dominance, advocacy, or unequal practical burdens.</p>'+
+    '<div class="table-wrap"><table class="compare-table global-table"><thead><tr><th>Issue</th><th>United States</th><th>Global comparison</th></tr></thead><tbody>'+
+    GLOBAL_ROWS.map(r=>'<tr><td><div class="law-name">'+esc(r.issue)+'</div></td><td>'+esc(r.us)+'</td><td>'+esc(r.global)+sourceLinks(r.sources)+'</td></tr>').join('')+
+    '</tbody></table></div><p class="scope-note">Global counts are dated to the cited source year unless a current jurisdiction profile independently verifies them.</p></section>';
+}
+
+function renderComparison(){
   $('#content').innerHTML=
-    '<div class="db-head"><div><h1>Compare laws</h1><p>Start with the relationship between religion and the rule, then check what the rule does and whether it still operates today.</p></div><div class="coverage">'+verified+' state baselines verified</div></div>'+
-    '<p class="note"><strong>Coverage note:</strong> This table currently shows records already normalized into structured data. The state profiles contain additional verified baseline research that is still being converted into law-level records.</p>'+
+    renderOverview()+
+    '<section class="section-block"><div class="db-head"><div><h2>Compare laws</h2><p>Start with the relationship between religion and the rule, then check what the rule does and whether it still operates today.</p></div></div>'+
+    '<p class="note"><strong>Coverage note:</strong> This table currently shows records already normalized into structured data. State profiles contain additional verified baseline research that is still being converted into law-level records.</p>'+
     renderFilters()+
-    '<div class="table-wrap"><table class="compare-table"><thead><tr><th>Law / rule</th><th>Place</th><th>Religion relationship</th><th>What it does / did</th><th>Current status</th></tr></thead><tbody id="comparisonBody"></tbody></table></div>'+
+    '<div class="table-wrap"><table class="compare-table"><thead><tr><th>Law / rule</th><th>Place</th><th>Religion relationship</th><th>What it does / did</th><th>Current status</th></tr></thead><tbody id="comparisonBody"></tbody></table></div></section>'+
+    renderPolicyTable()+
+    renderGlobalTable()+
     '<p class="method-note">Plain-language labels are shown here; the A–E research codes remain internal. <a href="#doc=methodology">Methodology &amp; evidence rules</a></p>';
   renderComparisonBody();
   bindComparison();
