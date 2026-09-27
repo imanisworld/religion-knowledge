@@ -658,3 +658,18 @@ button.stat-card:focus-visible::after { opacity: 1; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; }
 }
+
+
+/* ---------- home hierarchy polish ---------- */
+.home-summary{
+  margin-top:0;
+  padding-top:0;
+  border-top:0;
+}
+@media (max-width:719px){
+  .stats-grid .stat-card:last-child:nth-child(odd){grid-column:1/-1}
+}
+@media (min-width:720px){
+  .stats-grid{grid-template-columns:repeat(5,minmax(0,1fr))}
+  .stats-grid .stat-card:last-child:nth-child(odd){grid-column:auto}
+}
