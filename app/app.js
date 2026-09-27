@@ -585,6 +585,7 @@
 
   function showView(name, options = {}) {
     state.view = name;
+    if (name === 'home') renderHomeLead();
     views.forEach((view) => view.classList.toggle('active', view.id === `view-${name}`));
     navItems.forEach((item) => item.classList.toggle('active', item.dataset.view === name));
     const moreButton = $('nav-more');
