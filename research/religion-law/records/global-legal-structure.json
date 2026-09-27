@@ -1,0 +1,117 @@
+[
+  {
+    "id": "GLOBAL-OFFICIAL-RELIGION",
+    "issue": "Official or favored religion",
+    "us_structure": "At the federal level, the First Amendment bars establishment of religion, and Article VI bars religious tests as qualifications for federal office or public trust.",
+    "global_structure": "Pew's 2015-based global study counted 43 countries with an official state religion and 40 more whose governments favored a religion. This is a dated comparative baseline, not a 2026 count.",
+    "sources": [
+      {
+        "label": "U.S. Constitution — First Amendment",
+        "url": "https://constitution.congress.gov/constitution/amendment-1/",
+        "type": "legal"
+      },
+      {
+        "label": "U.S. Constitution — Article VI",
+        "url": "https://constitution.congress.gov/constitution/article-6/",
+        "type": "legal"
+      },
+      {
+        "label": "Pew — official and favored religions, 2015 data",
+        "url": "https://www.pewresearch.org/religion/2017/10/03/many-countries-favor-specific-religions-officially-or-unofficially/",
+        "type": "comparative"
+      }
+    ],
+    "last_verified": "2026-09-27",
+    "confidence": "high",
+    "scope_note": "Official/favored-religion categories describe formal state relationships and do not by themselves measure practical religious freedom or cultural dominance."
+  },
+  {
+    "id": "GLOBAL-BLASPHEMY",
+    "issue": "Blasphemy laws",
+    "us_structure": "The First Amendment protects speech and bars establishment of religion. This project has not identified a federal offense that criminalizes blasphemy as such.",
+    "global_structure": "USCIRF's 2023 compendium identified 95 countries with national-level legislation criminalizing expressions that insult or offend religious feelings, figures, or symbols.",
+    "sources": [
+      {
+        "label": "U.S. Constitution — First Amendment",
+        "url": "https://constitution.congress.gov/constitution/amendment-1/",
+        "type": "legal"
+      },
+      {
+        "label": "USCIRF — blasphemy laws factsheet",
+        "url": "https://www.uscirf.gov/publications/legislation-factsheet-blasphemy-laws",
+        "type": "comparative"
+      }
+    ],
+    "last_verified": "2026-09-27",
+    "confidence": "high",
+    "scope_note": "The U.S. statement is deliberately scoped to the federal level and to this project's verified baseline; state historical laws require separate review."
+  },
+  {
+    "id": "GLOBAL-CONVERSION-APOSTASY",
+    "issue": "Anti-conversion / apostasy-related laws",
+    "us_structure": "The First Amendment protects free exercise of religion. This project has not identified a federal regime that penalizes a person merely for changing or leaving a religion.",
+    "global_structure": "USCIRF's 2023 compendium identified 46 countries with at least one national anti-conversion law in force, spanning anti-proselytism, interfaith-marriage, apostasy, and identity-documentation rules.",
+    "sources": [
+      {
+        "label": "U.S. Constitution — First Amendment",
+        "url": "https://constitution.congress.gov/constitution/amendment-1/",
+        "type": "legal"
+      },
+      {
+        "label": "USCIRF — anti-conversion laws compendium",
+        "url": "https://www.uscirf.gov/publications/anti-conversion-laws-compendium",
+        "type": "comparative"
+      }
+    ],
+    "last_verified": "2026-09-27",
+    "confidence": "high",
+    "scope_note": "The USCIRF category groups several distinct legal mechanisms; country-level analysis should preserve those distinctions."
+  },
+  {
+    "id": "GLOBAL-RELIGIOUS-SOURCE-LAW",
+    "issue": "Religious-source-of-law provisions",
+    "us_structure": "The federal Constitution contains no designation of a sacred text or religious doctrine as the source that federal legislation must follow; it instead bars establishment and religious tests.",
+    "global_structure": "Some constitutional systems expressly assign religious sources a foundational legal role. Saudi Arabia's Basic Law states that Islam is the state religion and that the Quran and Sunnah are the constitution.",
+    "sources": [
+      {
+        "label": "U.S. Constitution — First Amendment",
+        "url": "https://constitution.congress.gov/constitution/amendment-1/",
+        "type": "legal"
+      },
+      {
+        "label": "U.S. Constitution — Article VI",
+        "url": "https://constitution.congress.gov/constitution/article-6/",
+        "type": "legal"
+      },
+      {
+        "label": "Saudi National Platform — Basic Law principles",
+        "url": "https://my.gov.sa/en/content/govmechanism",
+        "type": "comparative_primary"
+      }
+    ],
+    "last_verified": "2026-09-27",
+    "confidence": "high",
+    "scope_note": "A religious-source clause does not establish how every law is interpreted or enforced; implementation must be researched separately."
+  },
+  {
+    "id": "GLOBAL-RELIGIOUS-COURTS",
+    "issue": "Religious courts / personal-status law",
+    "us_structure": "This project has not identified an analogous federal system that assigns civil family-law jurisdiction according to a person's religion. Private religious arbitration and state family law are separate questions and are not summarized by this row.",
+    "global_structure": "Some jurisdictions assign defined personal-status matters by religion. Israel's 1953 law gives rabbinical courts exclusive jurisdiction over marriage and divorce of Jews who are citizens or residents, and India's Muslim Personal Law (Shariat) Application Act specifies application of Muslim personal law in defined matters.",
+    "sources": [
+      {
+        "label": "Knesset — Rabbinical Courts Jurisdiction Law 1953",
+        "url": "https://main.knesset.gov.il/EN/about/history/documents/kns2_rabbiniccourts_eng.pdf",
+        "type": "comparative_primary"
+      },
+      {
+        "label": "India Code — Muslim Personal Law (Shariat) Application Act 1937",
+        "url": "https://www.indiacode.nic.in/bitstream/123456789/2303/1/A1937-26.pdf",
+        "type": "comparative_primary"
+      }
+    ],
+    "last_verified": "2026-09-27",
+    "confidence": "high",
+    "scope_note": "Religious-court and personal-law jurisdiction varies by community, subject matter, citizenship, territory, and later amendment; each country needs a dedicated profile."
+  }
+]
