@@ -1,0 +1,55 @@
+{
+  "id": "nar_heliopolitan_atum_creation",
+  "name": "Heliopolitan Atum / Ennead creation tradition",
+  "genre": "creation_narrative",
+  "tradition_id": null,
+  "region": [
+    "Egypt"
+  ],
+  "language": "Egyptian",
+  "source_label": "Heliopolitan creation tradition in Pyramid Texts and later Egyptian sources",
+  "motif_tags": [
+    "PRIMORDIAL_WATER",
+    "DIVINE_SEXUAL_REPRODUCTION",
+    "WORLD_PARENTS"
+  ],
+  "dating": {
+    "earliest_archaeological_evidence": {
+      "range": {
+        "earliest": -2350,
+        "latest": -2150,
+        "precision": "CENTURY"
+      },
+      "note": "The Pyramid Texts appear in royal pyramid chambers from the late Fifth Dynasty onward; Cambridge sources place the corpus broadly in late Dynasty V–VI."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": -2350,
+        "latest": -2150,
+        "precision": "CENTURY"
+      },
+      "note": "Old Kingdom Pyramid Texts are the earliest written witnesses used here for Atum/Heliopolitan cosmogonic material."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": -2350,
+        "latest": -2150,
+        "precision": "CENTURY"
+      },
+      "note": "The earliest witnesses are monumental pyramid inscriptions rather than manuscripts; this slot records the surviving physical textual evidence."
+    },
+    "estimated_composition": null,
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "The tradition concerns primordial creation and divine genealogy rather than a calendar-dated event."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "No absolute oral-origin date is assigned. The first surviving written witnesses do not establish when the tradition first circulated.",
+      "confidence": "UNKNOWN"
+    },
+    "dating_summary": "Heliopolitan creation is already attested in Old Kingdom Pyramid Texts. Those inscriptions securely anchor the surviving evidence while the tradition's prior oral or compositional history remains unknown."
+  },
+  "notes": "Ancient Egyptian creation theology was plural. This record complements, rather than replaces, the separate Memphite/Ptah record.",
+  "relationships": []
+}
