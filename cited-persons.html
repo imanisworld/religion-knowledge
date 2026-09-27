@@ -516,6 +516,153 @@ html.focus-reading .masthead{width:100%}
     padding-right:1.25rem
   }
 }
+
+/* ---------- reader content hierarchy ---------- */
+blockquote{
+  max-width:var(--measure);
+  margin:1.35rem 0 1.7rem;
+  padding:1rem 1.2rem;
+  border-left:4px solid color-mix(in srgb,var(--accent) 70%,var(--rule));
+  border-radius:0 10px 10px 0;
+  background:color-mix(in srgb,var(--paper) 88%,var(--accent-soft));
+  color:var(--ink2)
+}
+blockquote p{margin-bottom:.78rem}
+blockquote p:last-child{margin-bottom:0}
+blockquote strong{color:var(--ink)}
+
+.audit{
+  transition:border-color .16s ease,box-shadow .16s ease,background .16s ease
+}
+.audit[open]{
+  border-color:color-mix(in srgb,var(--accent) 28%,var(--rule));
+  box-shadow:0 12px 30px rgba(57,34,42,.065)
+}
+.audit>summary{
+  min-height:3.8rem;
+  align-items:center;
+  gap:.7rem
+}
+.audit[open]>summary{
+  background:color-mix(in srgb,var(--paper) 72%,var(--accent-soft))
+}
+.siglum{
+  display:grid;
+  place-items:center;
+  width:1.55rem;
+  height:1.55rem;
+  border-radius:999px;
+  background:color-mix(in srgb,var(--paper) 72%,var(--rule));
+  font-size:.82rem
+}
+.audit .atitle{
+  font-size:1.08rem;
+  line-height:1.34
+}
+.badge{
+  font-size:.63rem;
+  padding:.32rem .58rem;
+  line-height:1.2
+}
+.stamp{
+  font-size:.6rem;
+  padding:.3rem .48rem;
+  border-radius:999px
+}
+.chev{
+  display:grid;
+  place-items:center;
+  width:1.55rem;
+  height:1.55rem;
+  border-radius:999px;
+  background:color-mix(in srgb,var(--paper) 78%,var(--rule));
+  margin-top:0
+}
+.abody{
+  background:color-mix(in srgb,var(--paper) 94%,var(--ground));
+  padding-top:.55rem
+}
+.abody>p:first-child{margin-top:1rem}
+.fld{
+  padding-top:.2rem;
+  color:color-mix(in srgb,var(--ink3) 86%,var(--accent))
+}
+
+table{
+  border-collapse:separate;
+  border-spacing:0;
+  border:1px solid var(--rule);
+  border-radius:12px;
+  background:var(--paper);
+  box-shadow:0 7px 20px rgba(57,34,42,.035)
+}
+th{
+  background:color-mix(in srgb,var(--paper) 72%,var(--accent-soft));
+  padding:.7rem .8rem
+}
+td{padding:.72rem .8rem}
+th+th,td+td{border-left:1px solid color-mix(in srgb,var(--rule) 74%,transparent)}
+tbody tr:nth-child(even) td{
+  background:color-mix(in srgb,var(--paper) 96%,var(--ground))
+}
+tbody tr:last-child td{border-bottom:0}
+tr:hover td{
+  background:color-mix(in srgb,var(--paper) 82%,var(--accent-soft))
+}
+
+pre{
+  max-width:var(--measure);
+  overflow:auto;
+  margin:1.35rem 0 1.7rem;
+  padding:1rem 1.1rem;
+  border:1px solid var(--rule);
+  border-radius:10px;
+  background:color-mix(in srgb,var(--paper) 84%,var(--ground));
+  font-family:var(--f-mono);
+  font-size:.84rem;
+  line-height:1.6
+}
+code{
+  font-family:var(--f-mono);
+  font-size:.88em
+}
+p code,li code,td code{
+  padding:.08rem .28rem;
+  border-radius:5px;
+  background:color-mix(in srgb,var(--paper) 72%,var(--accent-soft))
+}
+figure{
+  max-width:var(--measure);
+  margin:1.7rem 0
+}
+img{
+  max-width:100%;
+  height:auto;
+  border-radius:10px
+}
+figcaption{
+  margin-top:.55rem;
+  color:var(--ink3);
+  font-size:.82rem;
+  line-height:1.5
+}
+hr+*{margin-top:0}
+
+:root[data-theme=dark] blockquote,
+:root:not([data-theme=light]) blockquote{
+  background:color-mix(in srgb,var(--paper) 86%,var(--accent-soft))
+}
+@media(prefers-color-scheme:dark){
+  :root:not([data-theme=light]) tbody tr:nth-child(even) td{
+    background:color-mix(in srgb,var(--paper) 92%,var(--ground))
+  }
+}
+@media(max-width:640px){
+  blockquote{padding:.9rem 1rem}
+  .audit>summary{padding-left:1.25rem;padding-right:1rem}
+  .stamp{display:none}
+  th,td{padding:.62rem .68rem}
+}
 </style><script>try{var __t=localStorage.getItem("religion-knowledge-theme");if(__t)document.documentElement.dataset.theme=__t}catch(e){}</script></head><body>
 <button id="menu" aria-label="Toggle navigation"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
 <div id="overlay"></div>
