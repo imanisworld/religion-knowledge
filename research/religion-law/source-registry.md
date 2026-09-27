@@ -37,6 +37,10 @@
 - Nebraska Legislature — Constitution: https://www.nebraskalegislature.gov/laws/browse-constitution.php
 - Nevada Legislature — Constitution: https://www.leg.state.nv.us/Const/NVConst.html
 - New Hampshire General Court — Constitution/statutes: https://gc.nh.gov/
+- New Jersey Legislature — State Constitution: https://www.njleg.state.nj.us/constitution
+- New Mexico Secretary of State — State Constitution: https://www.sos.nm.gov/legislation-and-lobbying/legal-resources/nm-constitution/
+- New York State Senate — Constitution and Laws: https://www.nysenate.gov/legislation/laws
+- North Carolina General Assembly — State Constitution and statutes: https://www.ncleg.gov/Laws/Constitution
 
 ## Comparative research hubs
 

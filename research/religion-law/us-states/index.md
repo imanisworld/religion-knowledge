@@ -33,10 +33,10 @@ This directory is a research scaffold, not a completed legal database.
 | [Nebraska](nebraska.md) | First-pass baseline verified; expansion pending |
 | [Nevada](nevada.md) | First-pass baseline verified; expansion pending |
 | [New Hampshire](new-hampshire.md) | First-pass baseline verified; expansion pending |
-| [New Jersey](new-jersey.md) | Scaffold only — research pending |
-| [New Mexico](new-mexico.md) | Scaffold only — research pending |
-| [New York](new-york.md) | Scaffold only — research pending |
-| [North Carolina](north-carolina.md) | Scaffold only — research pending |
+| [New Jersey](new-jersey.md) | First-pass baseline verified; expansion pending |
+| [New Mexico](new-mexico.md) | First-pass baseline verified; expansion pending |
+| [New York](new-york.md) | First-pass baseline verified; expansion pending |
+| [North Carolina](north-carolina.md) | First-pass baseline verified; expansion pending |
 | [North Dakota](north-dakota.md) | Scaffold only — research pending |
 | [Ohio](ohio.md) | Scaffold only — research pending |
 | [Oklahoma](oklahoma.md) | Scaffold only — research pending |
@@ -58,4 +58,4 @@ This directory is a research scaffold, not a completed legal database.
 ## Promotion rule
 A state profile is not verified until its substantive entries have primary legal authority, separate explanatory or causation sourcing where needed, current-status verification, and a recorded verification date.
 
-Maryland's structured baseline is stored at `../records/us-md-maryland.json`. The eight anchor profiles plus Alabama, Alaska, Arizona, and California now contain verified first-pass baselines; all remaining states are scaffold-only unless their individual profile says otherwise. A first-pass baseline is not a complete state survey.
+Maryland's structured baseline is stored at `../records/us-md-maryland.json`. State-by-state first-pass baselines are being promoted as verified primary-source reviews are completed; use the table above as the current status authority. A first-pass baseline is not a complete state survey.
