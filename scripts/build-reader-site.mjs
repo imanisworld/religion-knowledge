@@ -72,7 +72,7 @@ function buildIndexHtml() {
       </a>`).join('');
 
   return `<!DOCTYPE html>
-<html lang="en"><head><meta charset="utf-8">
+<html lang="en" data-theme="light"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Bible Deep Dive</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -226,7 +226,7 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
   .card::after{right:1.1rem;top:1.2rem}
 }
 </style>
-<script>try{var __t=localStorage.getItem("religion-knowledge-theme");if(__t)document.documentElement.dataset.theme=__t}catch(e){}</script>
+<script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script>
 </head><body>
 <main>
   <div class="hero">
@@ -274,6 +274,19 @@ for (const file of allFiles) {
   fs.mkdirSync(path.dirname(target), { recursive: true });
   fs.copyFileSync(file, target);
 }
+
+// Deployed app starts in light mode on first visit while preserving an
+// explicit saved theme. Keep this deployment-only so the committed standalone
+// bundle remains byte-consistent with app source until its next regeneration.
+const deployedAppIndex = path.join(output, 'app/index.html');
+let appIndexHtml = fs.readFileSync(deployedAppIndex, 'utf8');
+appIndexHtml = appIndexHtml.replace('<html lang="en">', '<html lang="en" data-theme="light">');
+appIndexHtml = appIndexHtml.replace(
+  '<link rel="stylesheet" href="styles.css">',
+  '<script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light";var __m=document.querySelector(\'meta[name="theme-color"]\');if(__m)__m.content=document.documentElement.dataset.theme==="dark"?"#211A1C":"#F5F1F0"}catch(e){document.documentElement.dataset.theme="light"}</script>\n  <link rel="stylesheet" href="styles.css">'
+);
+fs.writeFileSync(deployedAppIndex, appIndexHtml, 'utf8');
+
 fs.writeFileSync(path.join(output, 'index.html'), buildIndexHtml(), 'utf8');
 
 // Build search index from the reader HTML files already copied to dist
