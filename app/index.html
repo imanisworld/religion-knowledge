@@ -95,8 +95,9 @@
     <main id="main-content" tabindex="-1">
       <section id="view-home" class="view active" data-title="Home">
         <div id="home-lead"></div>
+        <section class="section-block section-summary home-summary"><div class="section-heading"><h2>At a glance</h2></div><div id="stats-grid" class="stats-grid" aria-label="Knowledge base summary"></div></section>
         <section class="section-block">
-          <div class="section-heading"><h2>What am I studying?</h2><button class="text-button" type="button" data-go="topics">All topics</button></div>
+          <div class="section-heading"><h2>Topics in the corpus</h2><button class="text-button" type="button" data-go="topics">All topics</button></div>
           <div id="home-topics" class="topic-chip-row"></div>
         </section>
         <section class="section-block">
@@ -104,12 +105,11 @@
           <div id="home-questions-list" class="card-list"></div>
         </section>
         <section class="section-block">
-          <div class="section-heading"><h2 id="home-review-heading">Needs attention</h2><button class="text-button" type="button" data-go="review">Open review queue</button></div>
+          <div class="section-heading"><h2 id="home-review-heading">Needs attention</h2><button class="text-button" type="button" data-go="review">Review queue</button></div>
           <p id="home-backup-status" class="muted" hidden></p>
           <div id="home-review-list" class="card-list"></div>
         </section>
         <section class="section-block"><div class="section-heading"><h2>Recent records</h2></div><div id="recent-list" class="card-list"></div></section>
-        <section class="section-block section-summary"><div class="section-heading"><h2>At a glance</h2></div><div id="stats-grid" class="stats-grid" aria-label="Knowledge base summary"></div></section>
       </section>
 
       <section id="view-thoughts" class="view" data-title="My Thoughts"><div class="section-heading stacked"><div><p class="eyebrow">Your words only</p><h2>My Thoughts</h2></div><p class="muted">AI commentary is excluded unless it is opened through a related record.</p></div><div id="thoughts-list" class="card-list"></div></section>
