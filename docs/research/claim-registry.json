@@ -1140,5 +1140,473 @@
         "locator": "https://www.indiacode.nic.in/bitstream/123456789/2303/1/A1937-26.pdf"
       }
     ]
+  },
+  {
+    "claim_id": "RL-PRACXMAS-001",
+    "claim_text": "Christmas Day is listed as a federal holiday on the Office of Personnel Management federal-holiday schedule.",
+    "claim_type": "direct_textual",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-CHRISTMAS-FEDERAL-HOLIDAY"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Formal-law/status claim for the institutional-practice comparison.",
+    "primary_sources": [
+      {
+        "source": "OPM — Federal Holidays",
+        "locator": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACXMAS-002",
+    "claim_text": "The federal work calendar therefore closes for most federal employees around a holiday explicitly named Christmas Day, subject to the statutory rules for weekend observance.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-CHRISTMAS-FEDERAL-HOLIDAY"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Observed government or institutional-practice claim; the source date and scope are preserved in the underlying record.",
+    "primary_sources": [
+      {
+        "source": "OPM — Federal Holidays",
+        "locator": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACXMAS-003",
+    "claim_text": "This documents Christian-origin terminology embedded in a federal civic calendar. It is not evidence that the United States has an official religion.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-CHRISTMAS-FEDERAL-HOLIDAY"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Interpretive claim intentionally distinguishes cultural or institutional visibility from legal establishment or coercion.",
+    "primary_sources": [
+      {
+        "source": "OPM — Federal Holidays",
+        "locator": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACEASTER-001",
+    "claim_text": "Easter is not listed as a federal employee holiday on the OPM federal-holiday schedule.",
+    "claim_type": "direct_textual",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-EASTER-WHITE-HOUSE"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Formal-law/status claim for the institutional-practice comparison.",
+    "primary_sources": [
+      {
+        "source": "OPM — Federal Holidays",
+        "locator": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "White House — 2026 Easter Egg Roll announcement",
+        "locator": "https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-announces-2026-white-house-easter-egg-roll/",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACEASTER-002",
+    "claim_text": "The White House continues an official Easter Egg Roll tradition dating to 1878; the 2026 event was held on April 6, 2026.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-EASTER-WHITE-HOUSE"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Observed government or institutional-practice claim; the source date and scope are preserved in the underlying record.",
+    "primary_sources": [
+      {
+        "source": "OPM — Federal Holidays",
+        "locator": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "White House — 2026 Easter Egg Roll announcement",
+        "locator": "https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-announces-2026-white-house-easter-egg-roll/",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACEASTER-003",
+    "claim_text": "This is evidence of Christian-origin cultural visibility in official government practice without federal-holiday status. The event is presented as a civic and family tradition rather than compelled religious observance.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-EASTER-WHITE-HOUSE"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Interpretive claim intentionally distinguishes cultural or institutional visibility from legal establishment or coercion.",
+    "primary_sources": [
+      {
+        "source": "OPM — Federal Holidays",
+        "locator": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "White House — 2026 Easter Egg Roll announcement",
+        "locator": "https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-announces-2026-white-house-easter-egg-roll/",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACMOTTO-001",
+    "claim_text": "Congress added “under God” to the Pledge of Allegiance in 1954; federal legislation required “In God We Trust” on currency in 1955 and established it as the national motto in 1956.",
+    "claim_type": "direct_textual",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-CIVIC-RELIGIOUS-LANGUAGE"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Formal-law/status claim for the institutional-practice comparison.",
+    "primary_sources": [
+      {
+        "source": "Congressional Record — June 7, 1954",
+        "locator": "https://www.congress.gov/83/crecb/1954/06/07/GPO-CRECB-1954-pt6-8-2.pdf"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "U.S. House History — currency motto legislation",
+        "locator": "https://history.house.gov/Historical-Highlights/1951-2000/The-legislation-placing-In-God-We-Trust-on-national-currency/",
+        "stance": "supports"
+      },
+      {
+        "citation": "U.S. Mint — historical timeline",
+        "locator": "https://www.usmint.gov/learn/history/timeline",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACMOTTO-002",
+    "claim_text": "Religious language remains present in recurring federal civic symbols and currency.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-CIVIC-RELIGIOUS-LANGUAGE"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Observed government or institutional-practice claim; the source date and scope are preserved in the underlying record.",
+    "primary_sources": [
+      {
+        "source": "Congressional Record — June 7, 1954",
+        "locator": "https://www.congress.gov/83/crecb/1954/06/07/GPO-CRECB-1954-pt6-8-2.pdf"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "U.S. House History — currency motto legislation",
+        "locator": "https://history.house.gov/Historical-Highlights/1951-2000/The-legislation-placing-In-God-We-Trust-on-national-currency/",
+        "stance": "supports"
+      },
+      {
+        "citation": "U.S. Mint — historical timeline",
+        "locator": "https://www.usmint.gov/learn/history/timeline",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACMOTTO-003",
+    "claim_text": "These are explicit government religious references. Their presence is analytically separate from whether the federal government establishes an official religion.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-CIVIC-RELIGIOUS-LANGUAGE"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Interpretive claim intentionally distinguishes cultural or institutional visibility from legal establishment or coercion.",
+    "primary_sources": [
+      {
+        "source": "Congressional Record — June 7, 1954",
+        "locator": "https://www.congress.gov/83/crecb/1954/06/07/GPO-CRECB-1954-pt6-8-2.pdf"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "U.S. House History — currency motto legislation",
+        "locator": "https://history.house.gov/Historical-Highlights/1951-2000/The-legislation-placing-In-God-We-Trust-on-national-currency/",
+        "stance": "supports"
+      },
+      {
+        "citation": "U.S. Mint — historical timeline",
+        "locator": "https://www.usmint.gov/learn/history/timeline",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACCONG-001",
+    "claim_text": "Article VI of the U.S. Constitution bars a religious test as a qualification for federal office or public trust.",
+    "claim_type": "direct_textual",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-CONGRESS-RELIGIOUS-COMPOSITION"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Formal-law/status claim for the institutional-practice comparison.",
+    "primary_sources": [
+      {
+        "source": "U.S. Constitution — Article VI",
+        "locator": "https://constitution.congress.gov/constitution/article-6/"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Pew — Religious Composition of the 119th Congress",
+        "locator": "https://www.pewresearch.org/religion/2025/01/02/faith-on-the-hill-2025/",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACCONG-002",
+    "claim_text": "Pew reported that Christians made up 87% of voting members expected in the 119th Congress at its January 2025 convening, compared with 62% of U.S. adults; less than 1% of Congress was categorized as religiously unaffiliated, compared with 28% of U.S. adults.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-CONGRESS-RELIGIOUS-COMPOSITION"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Observed government or institutional-practice claim; the source date and scope are preserved in the underlying record.",
+    "primary_sources": [
+      {
+        "source": "U.S. Constitution — Article VI",
+        "locator": "https://constitution.congress.gov/constitution/article-6/"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Pew — Religious Composition of the 119th Congress",
+        "locator": "https://www.pewresearch.org/religion/2025/01/02/faith-on-the-hill-2025/",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACCONG-003",
+    "claim_text": "This establishes a dated representation difference. It does not establish why the difference exists and is not evidence of an informal religious test by itself.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-CONGRESS-RELIGIOUS-COMPOSITION"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Interpretive claim intentionally distinguishes cultural or institutional visibility from legal establishment or coercion.",
+    "primary_sources": [
+      {
+        "source": "U.S. Constitution — Article VI",
+        "locator": "https://constitution.congress.gov/constitution/article-6/"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Pew — Religious Composition of the 119th Congress",
+        "locator": "https://www.pewresearch.org/religion/2025/01/02/faith-on-the-hill-2025/",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACSCHOOL-001",
+    "claim_text": "Current U.S. Department of Education guidance says public schools may teach about religion and religious holidays but may not observe holidays as religious events or promote student religious observance.",
+    "claim_type": "direct_textual",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-PUBLIC-SCHOOL-ACCOMMODATION"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Formal-law/status claim for the institutional-practice comparison.",
+    "primary_sources": [
+      {
+        "source": "U.S. Department of Education — 2026 prayer and religious-expression guidance",
+        "locator": "https://www.ed.gov/laws-and-policy/education-policy/guidance-on-constitutionally-protected-prayer-and-religious-expression-in-public-elementary-and-secondary-schools"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACSCHOOL-002",
+    "claim_text": "The same 2026 federal guidance recognizes religious excusals and accommodations in defined circumstances, including prayer, religious exercise, and religiously motivated requests for excusal.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-PUBLIC-SCHOOL-ACCOMMODATION"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Observed government or institutional-practice claim; the source date and scope are preserved in the underlying record.",
+    "primary_sources": [
+      {
+        "source": "U.S. Department of Education — 2026 prayer and religious-expression guidance",
+        "locator": "https://www.ed.gov/laws-and-policy/education-policy/guidance-on-constitutionally-protected-prayer-and-religious-expression-in-public-elementary-and-secondary-schools"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACSCHOOL-003",
+    "claim_text": "This is an accommodation framework. Whether a particular district's default calendar or practice advantages one tradition requires district-specific evidence rather than a national assumption.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-PUBLIC-SCHOOL-ACCOMMODATION"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Interpretive claim intentionally distinguishes cultural or institutional visibility from legal establishment or coercion.",
+    "primary_sources": [
+      {
+        "source": "U.S. Department of Education — 2026 prayer and religious-expression guidance",
+        "locator": "https://www.ed.gov/laws-and-policy/education-policy/guidance-on-constitutionally-protected-prayer-and-religious-expression-in-public-elementary-and-secondary-schools"
+      }
+    ]
   }
 ]
