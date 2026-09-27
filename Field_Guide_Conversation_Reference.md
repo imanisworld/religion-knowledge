@@ -1885,7 +1885,9 @@ The subordination, silencing, and sexualization of women is structurally embedde
 
 •  Deuteronomy 22:28-29 — if a man rapes an unbetrothed virgin, he pays her father 50 shekels of silver and must marry her. The victim has no voice. The fine goes to the father — her owner — not her. The rapist gets a wife.
 
-•  Numbers 5 — the "bitter water" ordeal for a wife suspected of adultery. She drinks water mixed with dust from the tabernacle floor. If she is guilty, her body swells and she becomes infertile. No equivalent exists for men. Adultery by men is addressed differently.
+•  Numbers 5 — the "bitter water" ordeal for a wife suspected of adultery. She drinks water mixed with dust from the tabernacle floor. If she is guilty, the curse is described with difficult Hebrew commonly rendered literally along the lines of her belly distending/swelling and her thigh falling/sagging. The physiological meaning is disputed: translations and interpreters variously understand reproductive injury or infertility, miscarriage/pregnancy loss, or another bodily affliction. The procedure is triggered by a husband's suspicion of his wife; Numbers 5 gives no corresponding wife-initiated ordeal for a suspected husband.
+
+⟨DOCUMENTED⟩ **Translation audit:** Numbers 5:21–22, 27 in the NRSVue renders the curse as the woman's "uterus" dropping and "womb" discharging, while its footnotes give the more literal Hebrew as the thigh falling and belly distending. The NIV explicitly renders miscarriage. Recent scholarly treatments likewise disagree: Calum Miller (2023, *Christian Bioethics*) emphasizes the lexical uncertainty and argues against a miscarriage reading; Aslan Cohen Mizrahi (2026, TheTorah.com) reads the swollen belly/sagging thigh as a bodily affliction associated with infertility. Because competent translations and interpreters disagree, this corpus should not state a single physiological outcome as settled.
 
 •  Leviticus 12 — a woman is ritually unclean for 33 days after bearing a son, 66 days after bearing a daughter. Having a daughter makes a mother twice as unclean. The reason is not stated. The asymmetry is.
 
