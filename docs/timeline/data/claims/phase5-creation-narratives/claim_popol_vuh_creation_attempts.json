@@ -1,0 +1,55 @@
+{
+  "id": "claim_popol_vuh_creation_attempts",
+  "subject_type": "Narrative",
+  "subject_id": "nar_popol_vuh_creation",
+  "statement": "The Popol Vuh creation cycle includes unsuccessful attempts to make satisfactory humans before a successful creation of people from yellow and white maize; the surviving Ximénez manuscript is an early-18th-century transcription of an earlier K’iche’ text and tradition.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Mesoamerica"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Library of Congress, “Popol Vuh: Transcription in Quiché Mayan and Translation into Spanish,” World Digital Library/Newberry manuscript description.",
+      "author": null,
+      "year": null,
+      "venue": "Library of Congress",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Smithsonian National Museum of the American Indian, “Creation Story of the Maya,” Living Maya Time.",
+      "author": null,
+      "year": null,
+      "venue": "Smithsonian NMAI",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "Motif similarity with another tradition does not by itself demonstrate borrowing, common ancestry, or direct transmission."
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}
