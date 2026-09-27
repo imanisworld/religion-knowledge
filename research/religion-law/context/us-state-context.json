@@ -2,45 +2,331 @@
   {
     "state": "Alabama",
     "slug": "alabama",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-09-27",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/alabama/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±6.2 percentage points for adults in Alabama",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "43%",
+          "percent": 43,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "6%",
+          "percent": 6,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "10%",
+          "percent": 10,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "13%",
+          "percent": 13,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "3%",
+          "percent": 3,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "18%",
+          "percent": 18,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Alabama table are Evangelical Protestant (43%), Historically Black Protestant (13%), Mainline Protestant (10%), and Catholic (6%). Pew lists 3% atheist, 2% agnostic, and 18% nothing in particular. Figures are survey estimates; the state margin of error is ±6.2 percentage points and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
       "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 6,
+      "documented_affiliations": 5,
+      "summary": "Five of six tracked Alabama power positions have publicly documented Christian affiliations in the sources reviewed. Because 5 of 6 are documented Christian, a majority of the tracked set is documented Christian; the House speaker remains unknown rather than inferred.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Kay Ivey",
+          "affiliation_status": "documented",
+          "affiliation": "Baptist / Christian",
+          "affiliation_detail": "Official governor biography states she is a member of First Baptist Church of Montgomery.",
+          "office_source": "https://governor.alabama.gov/governor/",
+          "affiliation_source": "https://governor.alabama.gov/governor/",
+          "source_note": "Current office and church membership are both documented by the official governor biography."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "Will Ainsworth",
+          "affiliation_status": "documented",
+          "affiliation": "Christian",
+          "affiliation_detail": "Official lieutenant-governor biography states he previously worked as a youth pastor at Grace Fellowship Church.",
+          "office_source": "https://ltgov.alabama.gov/about/",
+          "affiliation_source": "https://ltgov.alabama.gov/about/",
+          "source_note": "Broad Christian affiliation is supported by the official pastoral biography; no denomination is assigned from that source."
+        },
+        {
+          "office": "Attorney General",
+          "name": "Steve Marshall",
+          "affiliation_status": "documented",
+          "affiliation": "Christian",
+          "affiliation_detail": "Official attorney-general biography states he is a member of Church of the Highlands in Montgomery.",
+          "office_source": "https://www.alabamaag.gov/about/",
+          "affiliation_source": "https://www.alabamaag.gov/about/",
+          "source_note": "Church membership is explicitly stated in the official biography."
+        },
+        {
+          "office": "Speaker of the House",
+          "name": "Nathaniel Ledbetter",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Current office is verified by the Alabama Legislature; no reliable affiliation source was used in this pass.",
+          "office_source": "https://alison.legislature.state.al.us/house-past-speakers",
+          "source_note": "Religion is not inferred from secondary unsourced biographical claims."
+        },
+        {
+          "office": "Senate President Pro Tempore",
+          "name": "Garlan Gudger",
+          "affiliation_status": "documented",
+          "affiliation": "Christian",
+          "affiliation_detail": "Gudger's biography states he is a member of Daystar Church and has participated in mission trips.",
+          "office_source": "https://alison.legislature.state.al.us/files/pdf/eopa/audit_reports/26-237_26-237-ACFR.pdf",
+          "affiliation_source": "https://www.senatorgarlangudger.com/about",
+          "source_note": "Current office is verified by an official Alabama state report; affiliation is from the officeholder's own biography."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "Sarah H. Stewart",
+          "affiliation_status": "documented",
+          "affiliation": "Methodist / Christian",
+          "affiliation_detail": "Official Alabama Judicial System biography states she has been active in the Mobile community as a member of Ashland Place Methodist Church.",
+          "office_source": "https://judicial.alabama.gov/CourtMemberBio/ViewBio?id=42",
+          "affiliation_source": "https://judicial.alabama.gov/CourtMemberBio/ViewBio?id=42",
+          "source_note": "Current office and church membership are both documented by the official judicial biography."
+        }
+      ]
     }
   },
   {
     "state": "Alaska",
     "slug": "alaska",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-09-27",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/alaska/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±7.7 percentage points for adults in Alaska",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "26%",
+          "percent": 26,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "15%",
+          "percent": 15,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "9%",
+          "percent": 9,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "3%",
+          "percent": 3,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "3%",
+          "percent": 3,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "9%",
+          "percent": 9,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "21%",
+          "percent": 21,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Alaska table are Evangelical Protestant (26%), Catholic (15%), Mainline Protestant (9%), and Latter-day Saint (3%). Pew lists 3% atheist, 9% agnostic, and 21% nothing in particular. Figures are survey estimates; the state margin of error is ±7.7 percentage points and categories may not sum to 100% because of rounding, nonresponse, and <1% groups."
     },
     "power": {
       "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 6,
+      "documented_affiliations": 1,
+      "summary": "Only one of six tracked Alaska power positions has a publicly documented religious affiliation in the sources reviewed: Governor Mike Dunleavy is Catholic. The remaining five are unknown, so the religious composition of the full tracked set cannot be determined.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Mike Dunleavy",
+          "affiliation_status": "documented",
+          "affiliation": "Catholic",
+          "affiliation_detail": "Vote Smart lists Dunleavy's religion as Catholic and Sacred Heart Catholic Church membership; an Alaska Legislature biography also lists Sacred Heart Catholic Church.",
+          "office_source": "https://gov.alaska.gov/meet-mike-dunleavy/",
+          "affiliation_source": "https://justfacts.votesmart.org/candidate/biography/140395/michael-dunleavy",
+          "source_note": "Current office is verified by the official governor biography; religion is separately documented by Vote Smart and historical Alaska legislative biography."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "Nancy Dahlstrom",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Current official biography reviewed; no religious affiliation is stated.",
+          "office_source": "https://ltgov.alaska.gov/meet-lt-governor-nancy-dahlstrom/",
+          "source_note": "No affiliation inferred from attendance at Wayland Baptist University."
+        },
+        {
+          "office": "Acting Attorney General",
+          "name": "Cori Mills",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Alaska Department of Law identifies Mills as Acting Attorney General; no religious affiliation is stated in the official biography reviewed.",
+          "office_source": "https://www.law.alaska.gov/department/about.html",
+          "source_note": "Treg Taylor resigned in August 2025; this record uses the current acting officeholder."
+        },
+        {
+          "office": "Speaker of the House",
+          "name": "Bryce Edgmon",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Current Alaska Legislature biography reviewed; no religious affiliation is stated.",
+          "office_source": "https://www.akleg.gov/basis/Member/Detail/34?code=edg",
+          "source_note": "No affiliation inferred."
+        },
+        {
+          "office": "Senate President",
+          "name": "Gary Stevens",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Current Alaska Legislature biography reviewed; no religious affiliation is stated.",
+          "office_source": "https://www.akleg.gov/basis/Member/Detail/34?code=stg",
+          "source_note": "No affiliation inferred from legislative prayers or education."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "Susan M. Carney",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Current Alaska Court System materials identify Carney as Chief Justice but do not state a religious affiliation.",
+          "office_source": "https://courts.alaska.gov/judges/",
+          "source_note": "No affiliation inferred."
+        }
+      ]
     }
   },
   {
