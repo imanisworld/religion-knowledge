@@ -246,3 +246,68 @@
   .rk-reader-page .reader-intro-labels small{font-size:.68rem}
   .rk-reader-page .reader-intro-body{padding:.85rem .9rem 1rem}
 }
+
+
+/* ---------- personal history scan order ---------- */
+.rk-personal-page main{
+  display:flex;
+  flex-direction:column;
+}
+.rk-personal-page main>.breadcrumb,
+.rk-personal-page main>.eyebrow,
+.rk-personal-page main>h1,
+.rk-personal-page main>.lede,
+.rk-personal-page main>.scope-note,
+.rk-personal-page main>.section-nav{order:0}
+.rk-personal-page main>section:has(#purpose){order:1}
+.rk-personal-page main>section:has(#currently-established){order:2}
+.rk-personal-page main>section:has(#timeline){order:3}
+.rk-personal-page main>section:has(#questions){order:4}
+.rk-personal-page main>section:has(#evidence-rules){order:5}
+.rk-personal-page main>section:has(#sources-to-recover){order:6}
+.rk-personal-page main>section:has(#no-backfill){order:7}
+.rk-personal-page .section-nav a[href="#purpose"]{order:1}
+.rk-personal-page .section-nav a[href="#currently-established"]{order:2}
+.rk-personal-page .section-nav a[href="#timeline"]{order:3}
+.rk-personal-page .section-nav a[href="#questions"]{order:4}
+.rk-personal-page .section-nav a[href="#evidence-rules"]{order:5}
+.rk-personal-page .section-nav a[href="#sources-to-recover"]{order:6}
+.rk-personal-page .section-nav a[href="#no-backfill"]{order:7}
+.rk-personal-page main>section:has(#currently-established),
+.rk-personal-page main>section:has(#timeline){
+  border-color:color-mix(in srgb,var(--accent) 25%,var(--rule));
+  box-shadow:0 10px 30px rgba(57,34,42,.055);
+}
+@media(max-width:700px){
+  .rk-personal-page .table-wrap{overflow:visible;border:0;border-radius:0}
+  .rk-personal-page table{min-width:0;background:transparent}
+  .rk-personal-page thead{display:none}
+  .rk-personal-page tbody,
+  .rk-personal-page tr,
+  .rk-personal-page td{display:block;width:100%}
+  .rk-personal-page tr{
+    margin:0 0 .8rem;
+    overflow:hidden;
+    border:1px solid var(--rule);
+    border-radius:11px;
+    background:var(--paper);
+  }
+  .rk-personal-page td{
+    display:grid;
+    grid-template-columns:92px minmax(0,1fr);
+    gap:.7rem;
+    padding:.72rem .78rem;
+    border-bottom:1px solid var(--rule);
+  }
+  .rk-personal-page td:last-child{border-bottom:0}
+  .rk-personal-page td::before{
+    color:var(--ink3);
+    font-size:.72rem;
+    font-weight:700;
+    letter-spacing:.04em;
+    text-transform:uppercase;
+  }
+  .rk-personal-page td:nth-child(1)::before{content:"Period"}
+  .rk-personal-page td:nth-child(2)::before{content:"Supported"}
+  .rk-personal-page td:nth-child(3)::before{content:"Unknown"}
+}
