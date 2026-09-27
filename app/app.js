@@ -415,8 +415,8 @@
       lead.innerHTML = `
         <div class="hero-card">
           <p class="eyebrow">Religion Knowledge</p>
-          <h2>Your words, Claude's analysis, and named sources — kept separate.</h2>
-          <p>Every record keeps who said it and where it came from.</p>
+          <h2>Research records with provenance kept visible.</h2>
+          <p>Your words, AI analysis, and named sources stay separate so you can see what each claim rests on.</p>
         </div>`;
     }
   }
