@@ -1,0 +1,44 @@
+{
+  "id": "nar_genesis1_priestly",
+  "name": "Genesis 1:1–2:4a (Priestly creation account)",
+  "genre": "creation_narrative",
+  "tradition_id": null,
+  "region": [
+    "Levant"
+  ],
+  "language": "Biblical Hebrew",
+  "source_label": "Genesis 1:1–2:4a",
+  "motif_tags": [
+    "PRIMORDIAL_WATER",
+    "CREATION_BY_SPEECH"
+  ],
+  "dating": {
+    "earliest_archaeological_evidence": null,
+    "earliest_written_attestation": null,
+    "surviving_manuscript_date": {
+      "range": null,
+      "note": "Physical-witness dating is left unassigned in this seed rather than conflated with composition."
+    },
+    "estimated_composition": {
+      "range": {
+        "earliest": -600,
+        "latest": -400,
+        "precision": "CENTURY"
+      },
+      "method": "Broad exilic/post-exilic range representing a common critical dating of Priestly composition/editing while preserving live debate about earlier dating.",
+      "disputed": true
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Narrates primordial creation without a historical calendar date."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "No specific oral-origin date is defensible for this literary account.",
+      "confidence": "UNKNOWN"
+    },
+    "dating_summary": "Widely identified as Priestly material; this seed uses a broad disputed sixth-to-fifth-century BCE composition range rather than a point date."
+  },
+  "notes": "Modeled separately from Genesis 2:4b–3:24 because critical scholarship widely treats them as distinct creation accounts.",
+  "relationships": []
+}
