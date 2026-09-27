@@ -380,7 +380,11 @@ Written in deep engagement with Jewish scripture, Matthew repeatedly uses fulfil
 
 `CHECKED 27 SEPTEMBER 2026`
 
-**STATUS: The chapter is best read as a deliberately constructed theological genealogy plus a supernatural conception narrative, not as a modern exhaustive biological pedigree. Several common skeptical objections overstate the evidence, and several common harmonizations add mechanisms the text itself never states.**
+**AS RECORDED:** Not previously a standalone treatment of Matthew 1's genealogy, the Jeconiah/Jeremiah 22 issue, betrothal, or the virgin-conception narrative.
+
+**STATUS: New entry. The chapter is best read as a deliberately constructed theological genealogy plus a supernatural conception narrative, not as a modern exhaustive biological pedigree. Several common skeptical objections overstate the evidence, and several common harmonizations add mechanisms the text itself never states.**
+
+**AUDIT**
 
 **1. The 3×14 structure is literary and selective, not a complete generation-by-generation list.**
 
