@@ -1,0 +1,50 @@
+{
+  "id": "nar_enuma_elish",
+  "name": "Enūma Eliš",
+  "genre": "creation_narrative",
+  "tradition_id": null,
+  "region": [
+    "Mesopotamia"
+  ],
+  "language": "Akkadian",
+  "source_label": "Enūma Eliš, seven-tablet Babylonian creation poem",
+  "motif_tags": [
+    "PRIMORDIAL_WATER",
+    "DIVINE_WAR",
+    "PRIMORDIAL_BEING",
+    "CREATION_FROM_BODY"
+  ],
+  "dating": {
+    "earliest_archaeological_evidence": null,
+    "earliest_written_attestation": null,
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": -700,
+        "latest": -600,
+        "precision": "CENTURY"
+      },
+      "note": "First-millennium copies survive; this seed does not claim the exact earliest physical witness."
+    },
+    "estimated_composition": {
+      "range": {
+        "earliest": -1200,
+        "latest": -1000,
+        "precision": "CENTURY"
+      },
+      "method": "Scholarly dating by language, Marduk theology, and historical context; exact composition remains debated.",
+      "disputed": true
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Set in primordial time; no calendar date."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "Earlier Mesopotamian motifs exist, but no date for an oral Enūma Eliš precursor is assigned.",
+      "confidence": "UNKNOWN"
+    },
+    "dating_summary": "Generally placed in the later second millennium BCE; surviving tablet witnesses are later, so composition and manuscript dates are kept separate."
+  },
+  "notes": "Motif tags describe the poem only. No borrowing/influence edge is asserted.",
+  "relationships": []
+}

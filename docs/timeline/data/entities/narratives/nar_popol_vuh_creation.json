@@ -1,0 +1,55 @@
+{
+  "id": "nar_popol_vuh_creation",
+  "name": "Popol Vuh creation cycle",
+  "genre": "creation_narrative",
+  "tradition_id": "trad_kiche_maya_religion",
+  "region": [
+    "Mesoamerica"
+  ],
+  "language": "K’iche’",
+  "source_label": "Popol Vuh / Popol Wuj",
+  "motif_tags": [
+    "FAILED_HUMAN_CREATIONS",
+    "MAIZE_PLANT_CREATION"
+  ],
+  "dating": {
+    "earliest_archaeological_evidence": null,
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 1500,
+        "latest": 1599,
+        "precision": "CENTURY"
+      },
+      "note": "Library of Congress describes a lost predecessor probably prepared in the 16th century by a K’iche’ speaker using Latin characters."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": 1700,
+        "latest": 1715,
+        "precision": "DECADE"
+      },
+      "note": "Francisco Ximénez transcription; Library of Congress describes it as one of the earliest surviving copies."
+    },
+    "estimated_composition": {
+      "range": {
+        "earliest": 1500,
+        "latest": 1599,
+        "precision": "CENTURY"
+      },
+      "method": "Dates the colonial-era alphabetic composition, not the older underlying traditions.",
+      "disputed": false
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Set in primordial/sacred time."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "Earlier oral and codex traditions are probable, but no defensible absolute origin date is assigned.",
+      "confidence": "UNKNOWN"
+    },
+    "dating_summary": "Extant witness is early 18th century and derives from an earlier 16th-century K’iche’ text; older tradition is recognized without pretending to date its origin."
+  },
+  "notes": "Do not turn shared motifs with other traditions into transmission edges.",
+  "relationships": []
+}

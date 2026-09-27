@@ -1,0 +1,107 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://religion-knowledge.local/timeline/narrative.schema.json",
+  "title": "Narrative",
+  "description": "Phase 5 Narrative entity. Motif tags support comparison only and never imply borrowing. Full TraditionDating is mandatory; dated slots may be null but may not be omitted.",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "genre",
+    "region",
+    "motif_tags",
+    "dating",
+    "relationships"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^nar_[a-z0-9_-]+$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "genre": {
+      "type": "string",
+      "enum": [
+        "creation_narrative",
+        "cosmology",
+        "sacred_narrative"
+      ]
+    },
+    "tradition_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "region": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      }
+    },
+    "language": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source_label": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "motif_tags": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "enum": [
+          "PRIMORDIAL_WATER",
+          "CHAOS",
+          "COSMIC_EGG",
+          "EARTH_CLAY_HUMAN",
+          "CREATION_BY_SPEECH",
+          "CREATION_BY_THOUGHT",
+          "DIVINE_SEXUAL_REPRODUCTION",
+          "WORLD_PARENTS",
+          "PRIMORDIAL_BEING",
+          "CREATION_FROM_BODY",
+          "COSMIC_SACRIFICE",
+          "DIVINE_WAR",
+          "FLOOD",
+          "FAILED_HUMAN_CREATIONS",
+          "MAIZE_PLANT_CREATION",
+          "ANCESTRAL_LANDSCAPE_CREATION",
+          "EMERGENCE_FROM_UNDERWORLD"
+        ]
+      }
+    },
+    "dating": {
+      "type": "object",
+      "required": [
+        "earliest_archaeological_evidence",
+        "earliest_written_attestation",
+        "surviving_manuscript_date",
+        "estimated_composition",
+        "tradition_internal_claim",
+        "estimated_oral_origin",
+        "dating_summary"
+      ]
+    },
+    "relationships": {
+      "type": "array"
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}

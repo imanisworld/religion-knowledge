@@ -1,0 +1,47 @@
+{
+  "id": "nar_ranginui_papatuanuku",
+  "name": "Ranginui and Papatūānuku separation traditions",
+  "genre": "creation_narrative",
+  "tradition_id": null,
+  "region": [
+    "Polynesia"
+  ],
+  "language": "Māori",
+  "source_label": "Multiple Māori iwi/hapū creation traditions",
+  "motif_tags": [
+    "WORLD_PARENTS",
+    "DIVINE_SEXUAL_REPRODUCTION"
+  ],
+  "dating": {
+    "earliest_archaeological_evidence": null,
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 1800,
+        "latest": 1899,
+        "precision": "CENTURY"
+      },
+      "note": "Te Ara cites 19th-century dictated accounts, including Hūkiki Te Ahukaramū and Wiremu Maihi Te Rangikāheke."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": 1800,
+        "latest": 1899,
+        "precision": "CENTURY"
+      },
+      "note": "The written witnesses used in this seed are 19th-century recorded accounts; this is not an origin date."
+    },
+    "estimated_composition": null,
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Operates in Te Pō/Te Ao Mārama and genealogical sacred time rather than calendar history."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "No defensible absolute origin date for specific currently documented Rangi/Papa versions is asserted.",
+      "confidence": "UNKNOWN"
+    },
+    "dating_summary": "Multiple Māori versions are documented in 19th-century written records; their oral antiquity is not converted into a fake precise date."
+  },
+  "notes": "Do not universalize one Māori version across all Māori or across Polynesia.",
+  "relationships": []
+}
