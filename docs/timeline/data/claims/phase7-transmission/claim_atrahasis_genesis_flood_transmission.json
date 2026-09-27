@@ -1,0 +1,58 @@
+{
+  "id": "claim_atrahasis_genesis_flood_transmission",
+  "subject_type": "Narrative",
+  "subject_id": "nar_genesis_flood",
+  "statement": "Genesis 6–9 was shaped within a Mesopotamian flood-story tradition in which Atraḫasīs is a particularly important precursor; John Day argues the non-P/Yahwist account is closer to Atraḫasīs than to Gilgamesh, while David Carr argues both pre-P and Priestly flood narratives were modeled on earlier Mesopotamian flood traditions especially represented by Atraḫasīs and Gilgamesh XI.",
+  "claim_tier": "CAUSAL_EXPLANATION",
+  "related_observation_id": "claim_genesis_flood_mesopotamian_parallel",
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Levant",
+    "Mesopotamia"
+  ],
+  "evidence_types": [
+    "COMPARATIVE_RECONSTRUCTION"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "John Day, “Comparative Ancient Near Eastern Study: The Genesis Flood Narrative in Relation to Ancient Near Eastern Flood Accounts,” in Biblical Interpretation and Method (Oxford University Press, 2013), pp. 74–88.",
+      "author": "John Day",
+      "year": 2013,
+      "venue": "Oxford University Press",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Oxford abstract says the Yahwist account is closer to Atraḫasīs, itself the source of the Gilgamesh version, and discusses direct versus indirect Mesopotamian dependence."
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "David M. Carr, The Formation of Genesis 1–11: Biblical and Other Precursors (Oxford University Press, 2020), ch. 6, “Precursors to the Flood Narrative (Gen 6:5–9:17).”",
+      "author": "David M. Carr",
+      "year": 2020,
+      "venue": "Oxford University Press",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Oxford abstract states that both the pre-P and Priestly flood narratives appear modeled on earlier Mesopotamian flood traditions, especially Atraḫasīs and Gilgamesh XI."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "This does not prove direct access to a specific Atraḫasīs manuscript.",
+    "This does not exclude mediation through Gilgamesh, oral circulation, or other Mesopotamian flood traditions.",
+    "This does not mean every feature of Genesis 6–9 derives from Mesopotamia."
+  ],
+  "adversarial_counter": "The exact transmission chain is undocumented; Atraḫasīs, Gilgamesh XI, and wider Mesopotamian flood tradition may all stand behind different features of Genesis.",
+  "status": "verified",
+  "notes": "Backs a CULTURAL_FUSION/MODERATE edge rather than a direct BORROWING claim."
+}
