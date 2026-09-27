@@ -11,7 +11,8 @@ const READERS = [
   ['translations.html', 'Translations', 'Translation history and the choices behind disputed renderings.'],
   ['method-reference.html', 'Method & Reference', 'Survey method, open audit queue, reading timeline.'],
   ['glossary.html', 'Glossary', 'Terms and definitions used across the study.'],
-  ['search.html', 'Search', 'Search across all documents and cited persons by name, topic, or scholar.'],
+  ['personal-belief-history.html', 'Personal Belief History', 'A reconstruction log for what I actually believed at different stages, with unknowns preserved.'],
+  ['search.html', 'Search', 'Search across all research documents and cited persons by name, topic, or scholar.'],
 ];
 
 // The deployed site is the full product, mirroring the repo layout so the
@@ -48,6 +49,7 @@ const CANONICAL_SOURCES = [
   'Sources_and_Primary_Texts.md',
   'The_Other_Side.md',
   'Translations.md',
+  'Personal_Belief_History.md',
 ];
 
 function parseArgs(argv) {
