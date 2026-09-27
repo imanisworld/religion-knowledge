@@ -138,11 +138,11 @@ function extractReligionLaw(baseDir) {
   }
 
   const overviewData = [
-    ['records/policy-influence.json', 'Policy influence', 'issue'],
-    ['records/global-legal-structure.json', 'Global legal structure', 'issue'],
-    ['records/institutional-practice.json', 'Institutional practice', 'example'],
+    ['records/policy-influence.json', 'Policy influence', 'issue', 'policy-overview'],
+    ['records/global-legal-structure.json', 'Global legal structure', 'issue', 'global-overview'],
+    ['records/institutional-practice.json', 'Institutional practice', 'example', 'practice-overview'],
   ];
-  for (const [file, group, titleField] of overviewData) {
+  for (const [file, group, titleField, anchor] of overviewData) {
     const fullPath = path.join(root, file);
     if (!fs.existsSync(fullPath)) continue;
     const rows = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
@@ -152,7 +152,7 @@ function extractReligionLaw(baseDir) {
         .map(([, value]) => String(value))
         .join(' ');
       entries.push({
-        url: 'religion-law.html#overview',
+        url: `religion-law.html#${anchor}`,
         doc: 'Religion & Law',
         title: `${group}: ${row[titleField] || row.id}`,
         text: text.slice(0, 1400),
