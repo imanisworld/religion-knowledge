@@ -64,6 +64,15 @@
 .rk-search-page #searchband{top:var(--rk-nav-h);background:color-mix(in srgb,var(--ground) 94%,transparent)}
 .rk-search-page #topbar{display:none!important}
 .rk-law-page .topbar,.rk-personal-page .sitebar{display:none!important}
+
+.rk-reader-page #rail{background:#241B1E}
+.rk-reader-page #rail header{border-bottom-color:#44343A}
+.rk-reader-page .library summary,.rk-reader-page .docswitch a{border-color:#44343A;color:#B9ADB1}
+.rk-reader-page .library summary:hover,.rk-reader-page .docswitch a:hover{border-color:#6B555D;color:#FFF7F9}
+.rk-reader-page .docswitch a.on{background:#8B3A4A!important;border-color:#8B3A4A!important;color:#fff!important}
+.rk-reader-page #search{background:#171113;border-color:#44343A;color:#F7F2F3}
+:root[data-theme=dark] .rk-reader-page #rail{background:#171113}
+:root[data-theme=dark] .rk-reader-page .docswitch a.on{background:#8B3A4A!important;border-color:#8B3A4A!important}
 @media(max-width:720px){
   :root{--rk-nav-h:52px}
   .rk-sitebar-inner{min-height:var(--rk-nav-h);padding:.42rem .7rem;gap:.45rem}
