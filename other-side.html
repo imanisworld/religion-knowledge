@@ -530,9 +530,9 @@ td{padding:.65rem .75rem}
   height:2.75rem;
   box-shadow:0 8px 22px rgba(33,26,28,.18)
 }
-:root[data-theme=dark] #search,
-:root:not([data-theme=light]) #search{
-  background:#171114
+:root[data-theme=dark] #search{background:#171114}
+@media(prefers-color-scheme:dark){
+  :root:not([data-theme=light]) #search{background:#171114}
 }
 @media(max-width:1080px){
   #rail{width:min(86vw,320px)}
