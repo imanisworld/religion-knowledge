@@ -567,7 +567,6 @@ async function init(){
 }
 $('#stateSearch').addEventListener('input',e=>drawNav(e.target.value));
 window.addEventListener('hashchange',route);
-window.addEventListener('popstate',route);
 $('#themeBtn').onclick=()=>{const next=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=next;try{localStorage.setItem('religion-knowledge-theme',next)}catch(e){}};
 init();
 </script>
