@@ -37,6 +37,28 @@ a{text-underline-offset:2px}
 @media(prefers-color-scheme:dark){
 :root{--ground:#120E10;--paper:#1C1518;--ink:#F7F2F3;--ink2:#C4B7BB;--rule:#382B30;--accent:#D8899A;--soft:#3A2028}
 }
+
+/* ---------- belief history readability refinement ---------- */
+body{font-size:17px;line-height:1.7}
+main{max-width:900px;padding-top:4rem}
+nav{line-height:1.6}
+h1{font-size:2.65rem;margin-bottom:.7rem}
+h2{font-size:1.65rem;margin-top:2.6rem}
+.lede{font-size:1.03rem;line-height:1.72}
+.note{padding:1.15rem 1.25rem;line-height:1.68}
+section{padding:1.4rem 1.55rem;margin:1.2rem 0}
+section p,section li{line-height:1.72}
+li{margin-bottom:.42rem}
+table{font-size:.96rem;line-height:1.58}
+th,td{padding:.8rem}
+a:focus-visible{outline:3px solid color-mix(in srgb,var(--accent) 34%,transparent);outline-offset:3px}
+@media(prefers-color-scheme:dark){:root{--ink2:#D1C5C9;--rule:#44343A}}
+@media(max-width:700px){
+  body{font-size:16.5px}
+  main{padding:2.6rem 1rem 4rem}
+  h1{font-size:2.3rem}
+  section{padding:1.15rem 1.2rem}
+}
 </style>
 </head>
 <body>
