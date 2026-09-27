@@ -4,8 +4,9 @@ const ROOT = 'research/religion-law/records';
 const inputs = [
   { file: `${ROOT}/policy-influence.json`, kind: 'policy', prefix: 'POL-', fields: ['id','issue','government_question','religion_involvement','legal_status','sources','last_verified','confidence','scope_note'] },
   { file: `${ROOT}/global-legal-structure.json`, kind: 'global', prefix: 'GLOBAL-', fields: ['id','issue','us_structure','global_structure','sources','last_verified','confidence','scope_note'] },
+  { file: `${ROOT}/institutional-practice.json`, kind: 'practice', prefix: 'PRACTICE-', fields: ['id','layer','example','formal_status','observed_practice','interpretation','sources','last_verified','confidence','scope_note'] },
 ];
-const sourceTypes = new Set(['legal','polling','advocacy','status_tracker','comparative','comparative_primary','research']);
+const sourceTypes = new Set(['legal','polling','advocacy','status_tracker','comparative','comparative_primary','government_practice','research']);
 const confidence = new Set(['high','medium','low','contested']);
 const seen = new Set();
 const errors = [];
