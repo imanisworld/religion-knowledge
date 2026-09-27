@@ -44,6 +44,7 @@ const DATA_FILES = [
 const MISC_FILES = [
   'highlight-referral.js',
   'correction-form.js',
+  'site-shell.css',
 ];
 
 const RESEARCH_DIRS = [
@@ -245,8 +246,21 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
   .card::after{right:1.1rem;top:1.2rem}
 }
 </style>
+<link rel="stylesheet" href="site-shell.css">
 <script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script>
-</head><body>
+</head><body class="rk-with-sitebar rk-landing-page">
+<header class="rk-sitebar">
+  <div class="rk-sitebar-inner">
+    <a class="rk-brand" href="index.html">Religion Knowledge<small>Research library</small></a>
+    <nav class="rk-global-nav" aria-label="Site navigation">
+      <a href="index.html" aria-current="page">Library</a>
+      <a href="search.html">Search</a>
+      <a href="religion-law.html">Religion &amp; Law</a>
+      <a href="app/">App</a>
+    </nav>
+    <button id="landingTheme" class="rk-site-control" type="button" aria-label="Toggle theme">Theme</button>
+  </div>
+</header>
 <main>
   <div class="hero">
     <p class="eyebrow">Religion Knowledge</p>
@@ -267,6 +281,14 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
   <div class="grid compact-grid">${discoveryCards}
   </div>
 </main>
+<script>
+const landingTheme=document.getElementById('landingTheme');
+if(landingTheme)landingTheme.addEventListener('click',()=>{
+  const root=document.documentElement;
+  root.dataset.theme=root.dataset.theme==='dark'?'light':'dark';
+  try{localStorage.setItem('religion-knowledge-theme',root.dataset.theme)}catch(e){}
+});
+</script>
 </body></html>
 `;
 }
