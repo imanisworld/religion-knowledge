@@ -673,3 +673,96 @@ button.stat-card:focus-visible::after { opacity: 1; }
   .stats-grid{grid-template-columns:repeat(5,minmax(0,1fr))}
   .stats-grid .stat-card:last-child:nth-child(odd){grid-column:auto}
 }
+
+
+/* ---------- de-cardification + semantic color balance ---------- */
+.hero-card{
+  padding:10px 0 18px;
+  margin:2px 0 20px;
+  border:0;
+  border-bottom:1px solid var(--line);
+  border-radius:0;
+  background:transparent;
+  box-shadow:none;
+}
+.filter-panel{
+  padding:14px 0 16px;
+  border-width:1px 0;
+  border-radius:0;
+  box-shadow:none;
+  background:transparent;
+}
+.stats-grid{
+  gap:0;
+  border-top:1px solid var(--line);
+  border-bottom:1px solid var(--line);
+}
+.stat-card{
+  min-height:78px;
+  border:0;
+  border-right:1px solid var(--line);
+  border-radius:0;
+  background:transparent;
+}
+.stat-card:nth-child(even){border-right:0}
+button.stat-card:hover,
+button.stat-card:focus-visible{
+  background:var(--panel-2);
+  transform:none;
+}
+.card-list,.compare-list{gap:0;border-bottom:1px solid var(--line)}
+.record-card{
+  border:0;
+  border-top:1px solid var(--line);
+  border-radius:0;
+  background:transparent;
+  padding:15px 4px;
+  box-shadow:none;
+}
+.record-card:hover,
+.record-card:focus-visible{
+  border-color:var(--line);
+  background:var(--panel-2);
+  box-shadow:none;
+  transform:none;
+}
+.topic-grid{
+  gap:0;
+  border-top:1px solid var(--line);
+  border-bottom:1px solid var(--line);
+}
+.topic-card{
+  min-height:96px;
+  border:0;
+  border-right:1px solid var(--line);
+  border-bottom:1px solid var(--line);
+  border-radius:0;
+  background:transparent;
+}
+.topic-card:nth-child(even){border-right:0}
+.compare-chain{
+  padding:14px 0;
+  border-width:1px 0;
+  border-radius:0;
+  background:transparent;
+}
+.compare-step{
+  border-radius:0;
+  border-left:3px solid var(--line);
+  background:transparent;
+}
+.compare-step[data-provenance="SOURCE"]{border-left-color:var(--success)}
+.compare-step[data-provenance="MY_WORDS"],
+.compare-step[data-provenance="MY_QUESTION"]{border-left-color:var(--mark-you-text)}
+.compare-step[data-provenance="CLAUDE"],
+.compare-step[data-provenance="INFERENCE"]{border-left-color:var(--warning)}
+.empty-state{
+  border-width:1px 0;
+  border-radius:0;
+  background:transparent;
+}
+@media(max-width:620px){
+  .stat-card{border-right:0;border-bottom:1px solid var(--line)}
+  .stat-card:last-child{border-bottom:0}
+  .topic-card{border-right:0}
+}

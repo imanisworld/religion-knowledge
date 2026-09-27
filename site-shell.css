@@ -311,3 +311,56 @@
   .rk-personal-page td:nth-child(2)::before{content:"Supported"}
   .rk-personal-page td:nth-child(3)::before{content:"Unknown"}
 }
+
+
+/* ---------- de-cardification + mixed semantic palette ---------- */
+.rk-with-sitebar{
+  --rk-info:#486A8D;
+  --rk-verified:#47654F;
+  --rk-pending:#A8681B;
+}
+:root[data-theme=dark] .rk-with-sitebar{
+  --rk-info:#91AED0;
+  --rk-verified:#8FB89B;
+  --rk-pending:#D8B56E;
+}
+.rk-reader-page .reader-intro{
+  border-width:1px 0;
+  border-radius:0;
+  background:transparent;
+}
+.rk-reader-page .reader-intro>summary{padding-left:0;padding-right:0}
+.rk-reader-page .reader-intro>summary:hover,
+.rk-reader-page .reader-intro>summary:focus-visible{
+  background:transparent;
+  color:var(--accent);
+}
+.rk-reader-page .reader-intro-body{padding-left:0;padding-right:0}
+.rk-reader-page .related{
+  border:0!important;
+  border-left:2px solid var(--rk-info)!important;
+  border-radius:0!important;
+  background:transparent!important;
+  box-shadow:none!important;
+}
+.rk-cited-persons-page section>p{
+  margin:0;
+  padding:.95rem 0;
+  border:0;
+  border-bottom:1px solid var(--rule);
+  border-radius:0;
+  background:transparent;
+  box-shadow:none;
+}
+.rk-cited-persons-page section>p:first-of-type{border-top:1px solid var(--rule)}
+.rk-cited-persons-page section>p:hover{
+  border-color:var(--rule);
+  background:transparent;
+}
+.rk-cited-persons-page section>p code{
+  color:var(--rk-verified);
+}
+.rk-personal-page main>section:has(#currently-established),
+.rk-personal-page main>section:has(#timeline){
+  box-shadow:none;
+}
