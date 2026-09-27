@@ -530,7 +530,7 @@
   }
 
   function buildChains() {
-    const records = currentRecords();
+    const records = filteredRecords();
     const byId = new Map(records.map((r) => [r.id, r]));
     const chains = [];
     records.forEach((record) => {
@@ -543,9 +543,37 @@
 
   function renderCompare() {
     const chains = buildChains();
-    $('compare-list').innerHTML = chains.length
-      ? chains.slice(0, LIST_PAGE_SIZE).map((chain) => `<article class="compare-chain">${chain.map((item) => `<div class="compare-step"><div class="record-meta"><span class="badge ${badgeClass(item.provenance_type)}">${escapeHtml(badgeText(item.provenance_type))}</span></div><strong>${escapeHtml(item.text || item.raw_text || item.id)}</strong>${item.source_file ? `<p class="record-source">${escapeHtml(DOC_TITLES[item.source_file] || item.source_file)}</p>` : ''}</div>`).join('')}</article>`).join('')
-      : emptyState('No comparison chains yet', 'Comparison requires source-backed relationships between original words, AI interpretation, evidence, audits, and later positions.');
+    const target = $('compare-list');
+    if (!target) return;
+
+    const summary = document.querySelector('#view-compare .section-heading .muted');
+    if (summary) {
+      const filtered = state.query.trim() || state.provenance !== 'ALL' || state.type !== 'ALL';
+      summary.textContent = `${chains.length} linked chain${chains.length === 1 ? '' : 's'}${filtered ? ' matching current filters' : ''} · Original words → AI interpretation → evidence → audit → current position.`;
+    }
+
+    if (!chains.length) {
+      target.innerHTML = emptyState(
+        'No comparison chains match',
+        'Comparison requires linked records. Clear the current search or filters if you expected a chain here.'
+      );
+      return;
+    }
+
+    const limit = state.listLimits['compare-list'] || LIST_PAGE_SIZE;
+    const visible = chains.slice(0, limit);
+    const remaining = chains.length - visible.length;
+    const footer = remaining > 0
+      ? `<div class="list-more"><p class="muted">Showing ${visible.length} of ${chains.length} chains</p><button class="secondary-button" type="button" data-show-more="compare-list">Show ${Math.min(LIST_PAGE_SIZE, remaining)} more</button></div>`
+      : chains.length > LIST_PAGE_SIZE
+        ? `<div class="list-more"><p class="muted">Showing all ${chains.length} chains</p></div>`
+        : '';
+
+    target.innerHTML = visible.map((chain) =>
+      `<article class="compare-chain">${chain.map((item) =>
+        `<div class="compare-step"><div class="record-meta"><span class="badge ${badgeClass(item.provenance_type)}">${escapeHtml(badgeText(item.provenance_type))}</span></div><strong>${escapeHtml(item.text || item.raw_text || item.id)}</strong>${item.source_file ? `<p class="record-source">${escapeHtml(DOC_TITLES[item.source_file] || item.source_file)}</p>` : ''}</div>`
+      ).join('')}</article>`
+    ).join('') + footer;
   }
 
   function renderSearch() {
