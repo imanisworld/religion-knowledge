@@ -1,0 +1,27 @@
+{
+  "id": "ks_old_babylonian_1900_1600_bce",
+  "name": "Old Babylonian Mesopotamia — documented knowledge and explanatory practices",
+  "culture_id": "cul_old_babylonian",
+  "region": [
+    "Mesopotamia"
+  ],
+  "period": {
+    "earliest": -1900,
+    "latest": -1600,
+    "precision": "CENTURY"
+  },
+  "known_claim_ids": [
+    "claim_ks_ob_scribal_training",
+    "claim_ks_ob_mathematics",
+    "claim_ks_ob_jurisprudence",
+    "claim_ks_ob_medical_practice"
+  ],
+  "unknown_claim_ids": [],
+  "natural_explanation_claim_ids": [],
+  "supernatural_explanation_claim_ids": [
+    "claim_ks_ob_extispicy",
+    "claim_ks_ob_incantations"
+  ],
+  "methodology_note": "This panel records practices directly attested in Old Babylonian or securely early-second-millennium sources. Empty 'unknown' and 'natural explanation' arrays mean this first research pass has not yet added a sufficiently sourced atomic claim in those categories; they do not mean Old Babylonian people knew nothing else or lacked naturalistic reasoning. Evidence is heavily biased toward literate institutions and surviving tablets.",
+  "notes": "Do not generalize scribal, mathematical, legal, medical, or divinatory specialist knowledge to every person in Old Babylonian Mesopotamia."
+}
