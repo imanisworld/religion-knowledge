@@ -1,23 +1,22 @@
 # Connecticut — Religion & Law Profile
 
-**Research status:** Not yet verified
-**Queue:** Anchor-state priority
-**Legal conclusions:** None are asserted in this scaffold.
+**Research status:** Anchor case verified; historical-causation work pending
+**Last verified:** 2026-09-26
 
-## Constitutional provisions
-Pending verification from official state constitutional text and controlling case law.
+## Historical contraception restriction
 
-## Education and public funding
-Pending verification.
+*Griswold v. Connecticut*, 381 U.S. 479 (1965), concerned a Connecticut law criminalizing use of contraceptives and assistance or counseling connected with that prohibition.
 
-## Religious accommodation and liberty
-Pending verification.
+- **Legal effect of decision:** The U.S. Supreme Court invalidated application of the contraception ban to married couples.
+- **Classification:** The constitutional decision belongs in the liberty/privacy line of cases. This pass does **not** classify the underlying Connecticut statute as religiously caused.
+- **Religion connection:** Pending. Religious moral advocacy may be relevant historically, but a causal classification requires enactment-era Connecticut evidence rather than inference from subject matter.
+- **Status:** Unenforceable under *Griswold* within the rule decided there.
+- **Confidence:** High for the holding; historical religious-causation status remains unverified.
 
-## Current religion-linked statutes
-Pending statute-by-statute verification. Do not infer religious origin from topic alone.
+## Research caution
 
-## Historical or unenforceable rules
-Pending primary-source and historical-causation review.
+Do not code “contraception law = religious law” without separate Connecticut legislative/history evidence.
 
-## Evidence and sources
-A completed entry requires exact primary authority, neutral legal effect, separate causation evidence where relevant, current status, last-verified date, and confidence.
+## Sources
+
+- *Griswold v. Connecticut*, 381 U.S. 479 (1965).

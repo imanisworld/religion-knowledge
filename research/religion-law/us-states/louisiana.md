@@ -1,23 +1,25 @@
 # Louisiana — Religion & Law Profile
 
-**Research status:** Not yet verified
-**Queue:** Anchor-state priority
-**Legal conclusions:** None are asserted in this scaffold.
+**Research status:** Anchor issue verified; broader state profile pending
+**Last verified:** 2026-09-26
 
-## Constitutional provisions
-Pending verification from official state constitutional text and controlling case law.
+## Education — creation science
 
-## Education and public funding
-Pending verification.
+Louisiana's Balanced Treatment for Creation-Science and Evolution-Science Act is still displayed in the official Revised Statutes at R.S. 17:286.1–286.7.
 
-## Religious accommodation and liberty
-Pending verification.
+- **Primary text:** R.S. 17:286.1 names the Balanced Treatment Act; related provisions define “creation-science” and prescribe aspects of curriculum development.
+- **Controlling case:** *Edwards v. Aguillard*, 482 U.S. 578 (1987).
+- **Current enforceability:** The Louisiana Legislature's own current code pages flag the Act as unconstitutional under *Edwards*.
+- **Classification:** Historical statute = A because creation-science is explicit in the text; controlling constitutional rule = D.
+- **Status:** Printed in code but unconstitutional / unenforceable.
+- **Confidence:** High.
 
-## Current religion-linked statutes
-Pending statute-by-statute verification. Do not infer religious origin from topic alone.
+## Research caution
 
-## Historical or unenforceable rules
-Pending primary-source and historical-causation review.
+The presence of unconstitutional provisions in the online code should not be represented as operative Louisiana education policy.
 
-## Evidence and sources
-A completed entry requires exact primary authority, neutral legal effect, separate causation evidence where relevant, current status, last-verified date, and confidence.
+## Sources
+
+- Louisiana Legislature, R.S. 17:286.1: https://www.legis.la.gov/legis/Law.aspx?d=80458
+- Louisiana Legislature, R.S. 17:286.3: https://www.legis.la.gov/legis/LawPrint.aspx?d=80460
+- *Edwards v. Aguillard*, 482 U.S. 578 (1987).

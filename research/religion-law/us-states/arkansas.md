@@ -1,23 +1,24 @@
 # Arkansas — Religion & Law Profile
 
-**Research status:** Not yet verified
-**Queue:** Anchor-state priority
-**Legal conclusions:** None are asserted in this scaffold.
+**Research status:** Anchor issue verified; broader state profile pending
+**Last verified:** 2026-09-26
 
-## Constitutional provisions
-Pending verification from official state constitutional text and controlling case law.
+## Education — anti-evolution law
 
-## Education and public funding
-Pending verification.
+Arkansas Initiated Act No. 1 of 1928 barred teaching that humans descended from a lower order of animals in state-supported schools.
 
-## Religious accommodation and liberty
-Pending verification.
+- **Controlling case:** *Epperson v. Arkansas*, 393 U.S. 97 (1968).
+- **Legal effect of decision:** The U.S. Supreme Court held the Arkansas anti-evolution restriction unconstitutional under the Establishment Clause.
+- **Religion connection:** The Court treated the restriction as impermissibly aligned with a particular religious account of origins. Arkansas historical material also documents organized fundamentalist support for the 1928 initiative.
+- **Classification:** D for the controlling constitutional rule. Any broader B/C historical-causation coding should remain tied to the 1928 enactment, not generalized to Arkansas education law.
+- **Status:** Historical / unenforceable as a constitutional restriction on evolution instruction.
+- **Confidence:** High for the case holding; broader statutory-history work remains open.
 
-## Current religion-linked statutes
-Pending statute-by-statute verification. Do not infer religious origin from topic alone.
+## Research caution
 
-## Historical or unenforceable rules
-Pending primary-source and historical-causation review.
+This record does not imply that current Arkansas science standards or all curriculum disputes share the same origin.
 
-## Evidence and sources
-A completed entry requires exact primary authority, neutral legal effect, separate causation evidence where relevant, current status, last-verified date, and confidence.
+## Sources
+
+- *Epperson v. Arkansas*, 393 U.S. 97 (1968).
+- Encyclopedia of Arkansas, “Epperson v. Arkansas” (state historical reference): https://encyclopediaofarkansas.net/entries/epperson-v-arkansas-2528/
