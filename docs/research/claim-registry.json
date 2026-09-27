@@ -244,5 +244,85 @@
       }
     ],
     "notes": "Category E concerns documented program purpose, not a claim that every actor supporting the policy had a secular motive."
+  },
+  {
+    "claim_id": "CTX-INDEMOG-001",
+    "claim_text": "Pew's 2023–24 Religious Landscape Study estimates Indiana adults as 32% evangelical Protestant, 16% Catholic, 11% mainline Protestant, 3% historically Black Protestant, 5% atheist, 4% agnostic, and 21% nothing in particular, with a ±5.0 percentage-point margin of error for adults in Indiana.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Pew Research Center, 2023–24 Religious Landscape Study — Indiana",
+        "locator": "State religious-composition table and state margin-of-error note; https://www.pewresearch.org/religious-landscape-study/state/indiana/"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "These are survey estimates, not census counts. Small differences should not be treated as precise population gaps, and percentages can be affected by rounding and categories reported as less than 1%.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Indiana"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=indiana"
+      }
+    ],
+    "notes": "The population context layer is kept separate from legal-causation coding."
+  },
+  {
+    "claim_id": "CTX-INPOWER-001",
+    "claim_text": "As of September 27, 2026, 3 of 6 tracked Indiana power positions have publicly documented religious affiliations in the sources reviewed; all three documented affiliations are Christian, while the remaining three are unknown, so the religious composition of the full six-position set cannot be determined.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Indiana Governor — official biography of Mike Braun",
+        "locator": "Current governor identity; https://www.in.gov/gov/about-the-governor/about-governor-mike-braun/"
+      },
+      {
+        "source": "Vote Smart — Mike Braun biography",
+        "locator": "Religion field lists Catholic; https://justfacts.votesmart.org/candidate/biography/148564/mike-braun"
+      },
+      {
+        "source": "Indiana Lieutenant Governor — official biography of Micah Beckwith",
+        "locator": "Biography states more than 15 years as Worship Pastor and Campus Pastor; https://www.in.gov/lg/about-the-office/biography/"
+      },
+      {
+        "source": "Indiana Senate Republicans — Rodric Bray biography",
+        "locator": "Current office and First United Methodist Church of Martinsville listed in activities; https://www.indianasenaterepublicans.com/bray"
+      },
+      {
+        "source": "Indiana Attorney General — official biography of Todd Rokita",
+        "locator": "Current officeholder; no affiliation stated in biography reviewed; https://www.in.gov/attorneygeneral/about-the-office/about-the-attorney-general/"
+      },
+      {
+        "source": "Indiana House Republicans — Todd Huston biography",
+        "locator": "Current Speaker; no affiliation stated in biography reviewed; https://www.indianahouserepublicans.com/members/leadership/todd-huston/"
+      },
+      {
+        "source": "Indiana Judicial Branch — Chief Justice Loretta H. Rush biography",
+        "locator": "Current Chief Justice; no affiliation stated in biography reviewed; https://www.in.gov/courts/supreme/justices/loretta-rush"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "Publicly documented coverage is incomplete. 'Unknown' means no reliable affiliation was identified in the sources reviewed, not that the officeholder is nonreligious. The documented subset therefore cannot establish a religious majority across all six tracked positions.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Indiana"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=indiana"
+      }
+    ],
+    "notes": "Tracked set: governor, lieutenant governor, attorney general, House speaker, Senate president pro tempore/equivalent, and chief justice."
   }
 ]
