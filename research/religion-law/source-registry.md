@@ -57,6 +57,11 @@
 - Utah Legislature — Constitution and Utah Code: https://le.utah.gov/xcode/
 - Vermont General Assembly — Constitution and statutes: https://legislature.vermont.gov/statutes/
 - Virginia Law — Constitution and Code of Virginia: https://law.lis.virginia.gov/
+- Washington State Legislature — Constitution: https://leg.wa.gov/state-laws-and-rules/washington-state-constitution
+- Washington State Legislature — Revised Code of Washington: https://app.leg.wa.gov/rcw/
+- West Virginia Legislature — Constitution and Code: https://code.wvlegislature.gov/
+- Wisconsin Legislature — Constitution and Statutes: https://docs.legis.wisconsin.gov/
+- Wyoming Legislature — Constitution and Statutes: https://www.wyoleg.gov/statutes
 
 ## Comparative research hubs
 
