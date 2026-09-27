@@ -992,5 +992,181 @@
       }
     ],
     "notes": "Tracked set: governor, lieutenant governor, attorney general, House speaker, Senate president pro tempore, and chief justice."
+  },
+  {
+    "claim_id": "CTX-FLDEMOG-001",
+    "claim_text": "Pew's 2023–24 Religious Landscape Study estimates Florida adults as 22% evangelical Protestant, 22% Catholic, 9% mainline Protestant, 7% historically Black Protestant, 4% atheist, 5% agnostic, and 18% nothing in particular, with a ±3.1 percentage-point margin of error for adults in Florida.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Pew Research Center, 2023–24 Religious Landscape Study — Florida",
+        "locator": "State religious-composition table and margin-of-error note; https://www.pewresearch.org/religious-landscape-study/state/florida/"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "These are survey estimates, not census counts. One percent did not answer, small differences may fall within the state margin of error, and figures may not sum to 100% because of rounding.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Florida"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=florida"
+      }
+    ],
+    "notes": "Population context remains separate from legal-causation coding."
+  },
+  {
+    "claim_id": "CTX-FLPOWER-001",
+    "claim_text": "As of September 27, 2026, 5 of 6 tracked Florida power positions have publicly documented Christian affiliations in the sources reviewed: Ron DeSantis is Catholic, Jay Collins attends a Christian church, James Uthmeier is an active Catholic parishioner, Acting House Speaker Wyman Duggan is Christian, and Senate President Ben Albritton is Christian; Chief Justice John Couriel remains unknown.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Florida Executive Office of the Governor — Ron DeSantis",
+        "locator": "Current governor; https://www.flgov.com/eog/leadership/people/ron-desantis"
+      },
+      {
+        "source": "Council on Foreign Relations — Ron DeSantis profile",
+        "locator": "Religion listed as Catholic; https://www.cfr.org/articles/meet-ron-desantis-republican-presidential-candidate"
+      },
+      {
+        "source": "Florida Executive Office of the Governor — Jay Collins",
+        "locator": "Current lieutenant governor; family attends Grace Family Church; https://www.flgov.com/eog/leadership/people/jay-collins"
+      },
+      {
+        "source": "Grace Family Church — About",
+        "locator": "Church describes itself as nondenominational, Bible-based Christian; https://my.dctampa.org/about"
+      },
+      {
+        "source": "Florida Attorney General — James Uthmeier biography",
+        "locator": "Active parishioners at Co-Cathedral of St. Thomas More; https://www.myfloridalegal.com/ag-bio"
+      },
+      {
+        "source": "WUSF/WLRN — Daniel Perez resignation",
+        "locator": "Perez resignation effective August 21, 2026; Speaker pro tempore Wyman Duggan assumes powers and duties; https://www.wusf.org/local-state/2026-08-08/confirmed-as-ambassador-to-brazil-florida-house-speaker-daniel-perez-formally-submits-resignation"
+      },
+      {
+        "source": "Florida House — Wyman Duggan biography",
+        "locator": "Speaker pro tempore; Religious Affiliation: Christian; https://flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4712"
+      },
+      {
+        "source": "Florida Senate — Office of Senate President",
+        "locator": "Ben Albritton identified as President; https://www.flsenate.gov/Offices/President"
+      },
+      {
+        "source": "Florida Senate — Ben Albritton biography",
+        "locator": "Religious Affiliation: Christian; elder at First Christian Church of Wauchula; https://www.flsenate.gov/Senators/S27"
+      },
+      {
+        "source": "Florida Supreme Court — John D. Couriel biography",
+        "locator": "Current Chief Justice; no affiliation stated; https://supremecourt.flcourts.gov/the-court/about-the-court/justices/justice-john-d.-couriel"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "One of the six tracked affiliations remains unknown. The Florida House website contains some stale Perez-era labels after his August resignation, so acting-Speaker status is tied to the documented resignation and House succession rule rather than those stale page labels.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Florida"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=florida"
+      }
+    ],
+    "notes": "Because five of six positions are documented Christian, a majority of the tracked set is documented Christian. This is descriptive representation context, not evidence of legal causation."
+  },
+  {
+    "claim_id": "CTX-GADEMOG-001",
+    "claim_text": "Pew's 2023–24 Religious Landscape Study estimates Georgia adults as 33% evangelical Protestant, 14% historically Black Protestant, 10% mainline Protestant, 8% Catholic, 3% atheist, 3% agnostic, and 20% nothing in particular, with a ±4.7 percentage-point margin of error for adults in Georgia.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Pew Research Center, 2023–24 Religious Landscape Study — Georgia",
+        "locator": "State religious-composition table and margin-of-error note; https://www.pewresearch.org/religious-landscape-study/state/georgia/"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "These are survey estimates, not census counts. Fewer than 1% did not answer, small differences may fall within the state margin of error, and figures may not sum to 100% because of rounding and categories reported as less than 1%.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Georgia"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=georgia"
+      }
+    ],
+    "notes": "Population context remains separate from legal-causation coding."
+  },
+  {
+    "claim_id": "CTX-GAPOWER-001",
+    "claim_text": "As of September 27, 2026, 5 of 6 tracked Georgia power positions have publicly documented Christian affiliations in the sources reviewed: Brian Kemp is active in an Episcopal church, Burt Jones is active in Rock Springs Church, Jon Burns is active at Mizpah Church, Senate President Pro Tempore Larry Walker III is Methodist, and Chief Justice Nels Peterson teaches Sunday school at a Baptist church; Attorney General Chris Carr remains unknown.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Georgia Governor — Brian Kemp",
+        "locator": "Current governor; https://gov.georgia.gov/brian-p-kemp"
+      },
+      {
+        "source": "Georgia Department of Community Affairs — Brian Kemp biography",
+        "locator": "Kemp family active members of Emmanuel Episcopal Church; https://dca.georgia.gov/financing-tools/infrastructure/onegeorgia-authority/governing-board-overview-committee/brian-p-kemp"
+      },
+      {
+        "source": "Georgia Lieutenant Governor — Burt Jones biography",
+        "locator": "Current lieutenant governor; active members of Rock Springs Church; https://ltgov.georgia.gov/burt-jones"
+      },
+      {
+        "source": "Georgia Attorney General — Chris Carr biography",
+        "locator": "Current attorney general; no affiliation stated; https://law.georgia.gov/biography-attorney-general"
+      },
+      {
+        "source": "Georgia House — Jon Burns biography",
+        "locator": "Current Speaker; active members at Mizpah Church; https://www.legis.ga.gov/api/document/docs/default-source/bios/burns-jon-73.pdf"
+      },
+      {
+        "source": "Georgia Senate Press Office — Larry Walker III",
+        "locator": "Elected President Pro Tempore January 12, 2026; https://senatepress.net/sen-larry-walker-iii-elected-president-pro-tempore-of-georgia-state-senate.html"
+      },
+      {
+        "source": "Vote Smart — Larry Walker III biography",
+        "locator": "Religion listed as Methodist; https://justfacts.votesmart.org/candidate/biography/157220/larry-walker-iii"
+      },
+      {
+        "source": "Georgia Supreme Court — Nels S.D. Peterson biography",
+        "locator": "Current Chief Justice; teaches adult Sunday school at Johnson Ferry Baptist Church; https://www.gasupreme.us/court-information/biographies/justice-nels-s-d-peterson/"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "One of the six tracked affiliations remains unknown. Older sources referring to John F. Kennedy as Senate President Pro Tempore are superseded by Larry Walker III's January 2026 election to that role.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Georgia"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=georgia"
+      }
+    ],
+    "notes": "Because five of six positions are documented Christian, a majority of the tracked set is documented Christian. This is descriptive representation context, not evidence of legal causation."
   }
 ]
