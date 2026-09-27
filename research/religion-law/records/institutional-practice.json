@@ -1,0 +1,112 @@
+[
+  {
+    "id": "PRACTICE-CHRISTMAS-FEDERAL-HOLIDAY",
+    "layer": "Formal law / calendar",
+    "example": "Christmas Day",
+    "formal_status": "Christmas Day is listed as a federal holiday on the Office of Personnel Management federal-holiday schedule.",
+    "observed_practice": "The federal work calendar therefore closes for most federal employees around a holiday explicitly named Christmas Day, subject to the statutory rules for weekend observance.",
+    "interpretation": "This documents Christian-origin terminology embedded in a federal civic calendar. It is not evidence that the United States has an official religion.",
+    "sources": [
+      {
+        "label": "OPM — Federal Holidays",
+        "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "type": "legal"
+      }
+    ],
+    "last_verified": "2026-09-27",
+    "confidence": "high",
+    "scope_note": "This record concerns the federal employee holiday calendar, not every state, school, court, or private employer calendar."
+  },
+  {
+    "id": "PRACTICE-EASTER-WHITE-HOUSE",
+    "layer": "Official government practice",
+    "example": "Easter",
+    "formal_status": "Easter is not listed as a federal employee holiday on the OPM federal-holiday schedule.",
+    "observed_practice": "The White House continues an official Easter Egg Roll tradition dating to 1878; the 2026 event was held on April 6, 2026.",
+    "interpretation": "This is evidence of Christian-origin cultural visibility in official government practice without federal-holiday status. The event is presented as a civic and family tradition rather than compelled religious observance.",
+    "sources": [
+      {
+        "label": "OPM — Federal Holidays",
+        "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "type": "legal"
+      },
+      {
+        "label": "White House — 2026 Easter Egg Roll announcement",
+        "url": "https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-announces-2026-white-house-easter-egg-roll/",
+        "type": "government_practice"
+      }
+    ],
+    "last_verified": "2026-09-27",
+    "confidence": "high",
+    "scope_note": "An official tradition can show cultural visibility without creating a legal obligation to observe the underlying religion."
+  },
+  {
+    "id": "PRACTICE-CIVIC-RELIGIOUS-LANGUAGE",
+    "layer": "Official civic language / symbols",
+    "example": "“Under God” / “In God We Trust”",
+    "formal_status": "Congress added “under God” to the Pledge of Allegiance in 1954; federal legislation required “In God We Trust” on currency in 1955 and established it as the national motto in 1956.",
+    "observed_practice": "Religious language remains present in recurring federal civic symbols and currency.",
+    "interpretation": "These are explicit government religious references. Their presence is analytically separate from whether the federal government establishes an official religion.",
+    "sources": [
+      {
+        "label": "Congressional Record — June 7, 1954",
+        "url": "https://www.congress.gov/83/crecb/1954/06/07/GPO-CRECB-1954-pt6-8-2.pdf",
+        "type": "legal"
+      },
+      {
+        "label": "U.S. House History — currency motto legislation",
+        "url": "https://history.house.gov/Historical-Highlights/1951-2000/The-legislation-placing-In-God-We-Trust-on-national-currency/",
+        "type": "government_practice"
+      },
+      {
+        "label": "U.S. Mint — historical timeline",
+        "url": "https://www.usmint.gov/learn/history/timeline",
+        "type": "government_practice"
+      }
+    ],
+    "last_verified": "2026-09-27",
+    "confidence": "high",
+    "scope_note": "This record documents official language and symbols; constitutional doctrine concerning ceremonial religious language is a separate legal question."
+  },
+  {
+    "id": "PRACTICE-CONGRESS-RELIGIOUS-COMPOSITION",
+    "layer": "Representation pattern",
+    "example": "Religious composition of Congress",
+    "formal_status": "Article VI of the U.S. Constitution bars a religious test as a qualification for federal office or public trust.",
+    "observed_practice": "Pew reported that Christians made up 87% of voting members expected in the 119th Congress at its January 2025 convening, compared with 62% of U.S. adults; less than 1% of Congress was categorized as religiously unaffiliated, compared with 28% of U.S. adults.",
+    "interpretation": "This establishes a dated representation difference. It does not establish why the difference exists and is not evidence of an informal religious test by itself.",
+    "sources": [
+      {
+        "label": "U.S. Constitution — Article VI",
+        "url": "https://constitution.congress.gov/constitution/article-6/",
+        "type": "legal"
+      },
+      {
+        "label": "Pew — Religious Composition of the 119th Congress",
+        "url": "https://www.pewresearch.org/religion/2025/01/02/faith-on-the-hill-2025/",
+        "type": "polling"
+      }
+    ],
+    "last_verified": "2026-09-27",
+    "confidence": "high",
+    "scope_note": "The congressional figures describe Pew's January 2025 roster analysis and should not be presented as a continuously updated membership count."
+  },
+  {
+    "id": "PRACTICE-PUBLIC-SCHOOL-ACCOMMODATION",
+    "layer": "Institutional accommodation",
+    "example": "Public-school religious observance",
+    "formal_status": "Current U.S. Department of Education guidance says public schools may teach about religion and religious holidays but may not observe holidays as religious events or promote student religious observance.",
+    "observed_practice": "The same 2026 federal guidance recognizes religious excusals and accommodations in defined circumstances, including prayer, religious exercise, and religiously motivated requests for excusal.",
+    "interpretation": "This is an accommodation framework. Whether a particular district's default calendar or practice advantages one tradition requires district-specific evidence rather than a national assumption.",
+    "sources": [
+      {
+        "label": "U.S. Department of Education — 2026 prayer and religious-expression guidance",
+        "url": "https://www.ed.gov/laws-and-policy/education-policy/guidance-on-constitutionally-protected-prayer-and-religious-expression-in-public-elementary-and-secondary-schools",
+        "type": "legal"
+      }
+    ],
+    "last_verified": "2026-09-27",
+    "confidence": "high",
+    "scope_note": "Department guidance summarizes the federal constitutional baseline; state law and local policy may add requirements or accommodations."
+  }
+]
