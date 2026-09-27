@@ -1,0 +1,77 @@
+name: Regenerate PR103 artifacts
+
+on:
+  push:
+    branches:
+      - chatgpt/regenerate-pr103-artifacts-20260926
+
+permissions:
+  contents: write
+
+jobs:
+  regenerate:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v4
+        with:
+          ref: chatgpt/regenerate-pr103-artifacts-20260926
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Regenerate reader HTML
+        run: npm run build:readers -- --output .
+
+      - name: Regenerate search index
+        run: npm run build:search-index
+
+      - name: Regenerate normalized records
+        run: npm run generate-records
+
+      - name: Regenerate standalone bundle
+        run: npm run build:standalone
+
+      - name: Verify PR103 content propagated
+        shell: bash
+        run: |
+          set -euo pipefail
+          grep -qi "open theism" glossary.html
+          grep -q "Free Choice, Foreknowledge, and the Creator Analogy" master-notes.html
+          grep -qi "open theism" search-index.json
+          grep -qi "open theism" data/normalized/generated/records.glossary.js
+          grep -q "Free Choice, Foreknowledge, and the Creator Analogy" data/normalized/generated/records.master.js
+          grep -qi "open theism" dist/religion-knowledge-standalone.html
+
+      - name: Run relevant validation
+        run: |
+          npm run validate:reader-sync
+          node scripts/import/validate-app-data.mjs
+          node scripts/import/validate-corpus.mjs
+          node scripts/validate-claim-registry.mjs
+
+      - name: Commit generated artifacts
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add \
+            master-notes.html field-guide.html history.html sources.html \
+            other-side.html translations.html method-reference.html glossary.html \
+            search-index.json data/normalized/generated \
+            dist/religion-knowledge-standalone.html
+          if git diff --cached --quiet; then
+            echo "No generated changes were necessary."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: regenerate artifacts after PR 103"
+          git push origin HEAD:chatgpt/regenerate-pr103-artifacts-20260926
