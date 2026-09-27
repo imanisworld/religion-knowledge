@@ -50,10 +50,10 @@ This directory is a research scaffold, not a completed legal database.
 | [Utah](utah.md) | First-pass baseline verified; expansion pending |
 | [Vermont](vermont.md) | First-pass baseline verified; expansion pending |
 | [Virginia](virginia.md) | First-pass baseline verified; expansion pending |
-| [Washington](washington.md) | Scaffold only — research pending |
-| [West Virginia](west-virginia.md) | Scaffold only — research pending |
-| [Wisconsin](wisconsin.md) | Scaffold only — research pending |
-| [Wyoming](wyoming.md) | Scaffold only — research pending |
+| [Washington](washington.md) | First-pass baseline verified; expansion pending |
+| [West Virginia](west-virginia.md) | First-pass baseline verified; expansion pending |
+| [Wisconsin](wisconsin.md) | First-pass baseline verified; expansion pending |
+| [Wyoming](wyoming.md) | First-pass baseline verified; expansion pending |
 
 ## Promotion rule
 A state profile is not verified until its substantive entries have primary legal authority, separate explanatory or causation sourcing where needed, current-status verification, and a recorded verification date.
