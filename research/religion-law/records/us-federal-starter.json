@@ -9,7 +9,9 @@
     "legal_effect": "Bars a religious test as a qualification for federal office or public trust.",
     "classification": "D_religion_limiting_rule",
     "religion_connection": "Expressly limits religious qualification by the federal government.",
-    "evidence_type": ["textual"],
+    "evidence_type": [
+      "textual"
+    ],
     "competing_causes": [],
     "scope_note": "Directly addresses federal office; state-office rules require separate analysis.",
     "status": "in_force",
@@ -30,7 +32,9 @@
     "legal_effect": "Held unconstitutional official use of a state-composed prayer in public schools.",
     "classification": "D_religion_limiting_rule",
     "religion_connection": "Limits government-sponsored religious exercise in public education.",
-    "evidence_type": ["judicial"],
+    "evidence_type": [
+      "judicial"
+    ],
     "competing_causes": [],
     "scope_note": "Does not itself prohibit private prayer or all private religious expression in public schools.",
     "status": "in_force",
@@ -51,8 +55,13 @@
     "legal_effect": "Creates statutory protection against specified substantial governmental burdens on religious exercise through a compelling-interest and least-restrictive-means test.",
     "classification": "A_explicit_religious_basis",
     "religion_connection": "The statute expressly protects religious exercise and was enacted after Employment Division v. Smith.",
-    "evidence_type": ["textual", "legislative_history"],
-    "competing_causes": ["constitutional federalism and remedial-power limits shape present scope"],
+    "evidence_type": [
+      "textual",
+      "legislative_history"
+    ],
+    "competing_causes": [
+      "constitutional federalism and remedial-power limits shape present scope"
+    ],
     "scope_note": "City of Boerne v. Flores limited RFRA’s application to state and local governments; federal applications remain central.",
     "status": "in_force_limited",
     "primary_authority": "Religious Freedom Restoration Act of 1993, Pub. L. 103-141, 107 Stat. 1488; 42 U.S.C. §§ 2000bb–2000bb-4",
@@ -61,5 +70,32 @@
     "review_priority": "high",
     "confidence": "high",
     "notes": "May also be indexed as a D-type government-burden limitation in a multi-label implementation."
+  },
+  {
+    "id": "US-FED-MORRILL-ANTIBIGAMY-1862",
+    "jurisdiction": "United States",
+    "legal_level": "statute",
+    "formal_citation": "Act of July 1, 1862, ch. 126, 12 Stat. 501 (Morrill Anti-Bigamy Act)",
+    "date_enacted_or_decided": "1862-07-01",
+    "subject": "polygamy in U.S. territories and Utah territorial church structure",
+    "legal_effect": "Criminalized bigamy in U.S. territories and other places under exclusive federal jurisdiction and annulled specified Utah territorial enactments concerning the Church of Jesus Christ of Latter-day Saints.",
+    "classification": "C_mixed_religious_influence",
+    "religion_connection": "The U.S. Senate's Utah history describes the act as aimed at Utah Mormons and their practice of plural marriage.",
+    "evidence_type": [
+      "textual",
+      "legislative_history",
+      "policy_history"
+    ],
+    "competing_causes": [
+      "Federal territorial control and the slavery/state-rights dispute also shaped congressional treatment of Utah and the timing of anti-polygamy legislation; National Archives history notes Southern resistance to federal regulation of territorial 'domestic institutions' because of the precedent for slavery."
+    ],
+    "scope_note": "Category C records a direct religion-linked target alongside substantial nonreligious territorial and sectional politics. It does not reduce the act to a single motive.",
+    "status": "superseded",
+    "primary_authority": "Act of July 1, 1862, ch. 126, 12 Stat. 501 — https://www.govinfo.gov/content/pkg/STATUTE-12/pdf/STATUTE-12-Pg499-2.pdf",
+    "explanatory_authority": "U.S. Senate, Utah timeline — https://www.senate.gov/states/UT/timeline.shtml; National Archives, The Revolutionary Summer of 1862 — https://www.archives.gov/publications/prologue/2017/winter/summer-of-1862",
+    "last_verified": "2026-09-26",
+    "review_priority": "medium",
+    "confidence": "high",
+    "notes": "Later federal anti-polygamy legislation and Utah's statehood framework superseded this historical regime."
   }
 ]
