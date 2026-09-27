@@ -57,15 +57,21 @@
 <script>
 try{const t=localStorage.getItem('religion-knowledge-theme');if(t==='dark'||t==='light')document.documentElement.dataset.theme=t}catch(e){}
 </script>
+<link rel="stylesheet" href="site-shell.css">
 </head>
-<body>
-<header class="topbar"><div class="topinner">
-<div class="brand">Religion & Law</div>
-<a class="navlink" href="./">Library</a>
-<a class="navlink hide-mobile" href="search.html">Search</a>
-<a class="navlink hide-mobile" href="app/">App</a>
-<button class="theme" id="themeBtn" type="button" aria-label="Toggle theme">◐</button>
-</div></header>
+<body class="rk-with-sitebar rk-law-page">
+<header class="rk-sitebar">
+  <div class="rk-sitebar-inner">
+    <a class="rk-brand" href="index.html">Religion Knowledge<small>Religion &amp; Law</small></a>
+    <nav class="rk-global-nav" aria-label="Site navigation">
+      <a href="index.html">Library</a>
+      <a href="search.html">Search</a>
+      <a href="religion-law.html" aria-current="page">Religion &amp; Law</a>
+      <a href="app/">App</a>
+    </nav>
+    <button class="rk-site-control" id="themeBtn" type="button" aria-label="Toggle theme">Theme</button>
+  </div>
+</header>
 <main class="shell">
 <section class="hero">
 <p class="eyebrow">Religion Knowledge · Research Database</p>
