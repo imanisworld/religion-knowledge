@@ -179,3 +179,103 @@
     if (typeof media.addEventListener === 'function') media.addEventListener('change', syncTheme);
   }
 })();
+
+/* Reader presentation polish: reduce repeated chrome without altering the
+   research source files or generated reader structure. */
+(function () {
+  if (!document.body.classList.contains('rk-reader-page')) return;
+
+  const sitebarInner = document.querySelector('.rk-sitebar-inner');
+  const themeButton = document.getElementById('themebtn');
+  if (themeButton && sitebarInner && themeButton.parentElement !== sitebarInner) {
+    themeButton.classList.remove('tbtn');
+    themeButton.classList.add('rk-site-control', 'rk-reader-theme');
+    sitebarInner.appendChild(themeButton);
+  }
+
+  const masthead = document.querySelector('.masthead');
+  const mastheadTitle = masthead?.querySelector('h1');
+  const railSub = document.querySelector('#rail .docsub');
+  if (masthead && mastheadTitle && railSub && !masthead.querySelector('.reader-deck')) {
+    const deck = document.createElement('p');
+    deck.className = 'reader-deck';
+    deck.textContent = railSub.textContent.trim();
+    mastheadTitle.insertAdjacentElement('afterend', deck);
+  }
+
+  const search = document.getElementById('search');
+  if (search) search.placeholder = 'Search this document…';
+
+  const wrapAbout = (container, title, subtitle) => {
+    if (!container || container.querySelector(':scope > .reader-intro')) return null;
+    const details = document.createElement('details');
+    details.className = 'reader-intro';
+
+    const summary = document.createElement('summary');
+    const labels = document.createElement('span');
+    labels.className = 'reader-intro-labels';
+
+    const heading = document.createElement('strong');
+    heading.textContent = title;
+    const sub = document.createElement('small');
+    sub.textContent = subtitle;
+    labels.append(heading, sub);
+    summary.appendChild(labels);
+
+    const body = document.createElement('div');
+    body.className = 'reader-intro-body';
+    while (container.firstChild) body.appendChild(container.firstChild);
+
+    details.append(summary, body);
+    container.appendChild(details);
+    return details;
+  };
+
+  const intro = document.getElementById('sec-intro');
+  let introDetails = null;
+  if (intro) {
+    intro.classList.add('reader-intro-section');
+    introDetails = wrapAbout(
+      intro,
+      'About this document',
+      'Provenance, scope, reading context, and marker definitions'
+    );
+
+    const duplicateHowto = document.querySelector('main > .howto');
+    if (duplicateHowto) duplicateHowto.remove();
+
+    const hl = new URLSearchParams(location.search).get('hl');
+    if (hl && introDetails) introDetails.open = true;
+  }
+
+  const docName = document.querySelector('.reader-doc')?.textContent.trim();
+  if (docName === 'Cited Persons') {
+    document.body.classList.add('rk-cited-persons-page');
+    if (search) search.placeholder = 'Search name, field, affiliation, or flag…';
+
+    const howto = document.querySelector('main > .howto');
+    if (howto) {
+      const holder = document.createElement('div');
+      howto.insertAdjacentElement('beforebegin', holder);
+      while (howto.firstChild) holder.appendChild(howto.firstChild);
+      howto.remove();
+      wrapAbout(holder, 'About this index', 'Purpose, source context, and flagging rules');
+      holder.className = 'cited-intro-holder';
+    }
+  }
+
+  if (search && introDetails) {
+    search.addEventListener('input', () => {
+      const q = search.value.trim().toLowerCase();
+      if (q && intro.textContent.toLowerCase().includes(q)) introDetails.open = true;
+    });
+  }
+
+  const toolsBar = document.getElementById('tools');
+  if (toolsBar?.querySelector('.filt') && !toolsBar.querySelector('.reader-tool-label')) {
+    const label = document.createElement('span');
+    label.className = 'reader-tool-label';
+    label.textContent = 'Audits';
+    toolsBar.insertBefore(label, toolsBar.firstChild);
+  }
+})();
