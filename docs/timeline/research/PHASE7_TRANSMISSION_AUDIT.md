@@ -65,3 +65,51 @@ Unless later scholarship establishes a historical transmission mechanism, do not
 - Frank Moore Cross, *Canaanite Myth and Hebrew Epic* (Harvard University Press, 1973/1997 printing).
 - Mark S. Smith, *The Early History of God*, 2nd ed. (Eerdmans, 2002).
 - John Day, *Yahweh and the Gods and Goddesses of Canaan* (Sheffield Academic Press, 2000; reprint 2002).
+
+## Batch 2 — Ancient Levant modeling
+
+**Status:** independently checked 27 September 2026.
+
+### Canonical entities added
+
+- Late Bronze Age Canaanite religion (Ugaritic textual horizon)
+- Early Israelite Yahwism (pre-exilic Iron Age)
+- El / Ilu (Canaanite-Ugaritic)
+- Baal / Hadad (Ugaritic storm god)
+- Yahweh (early Israelite)
+- Ugaritic Baal Cycle (KTU 1.1–1.6)
+
+### Canonical relationships added
+
+#### Canaanite religious matrix → Early Israelite Yahwism
+
+**Edge:** `CULTURAL_FUSION`, HIGH confidence.
+
+Mark S. Smith explicitly argues that Israelite religion developed at least partly from Canaanite religion rather than beginning as a clean religious-cultural rupture. Theodore J. Lewis treats El worship, Yahweh's origin, and the Canaanite cultural continuum as related but separable historical questions.
+
+**Limit:** this does not make every Israelite community identical and does not settle Yahweh's ultimate geographic origin.
+
+#### El ↔ Yahweh
+
+**Model:** Deity `identifications[]`, HIGH confidence.
+
+The edge represents historical convergence/assimilation: Yahweh came to absorb or be identified with El's titles, functions, and senior status. It is deliberately **not** a claim that Yahweh and El were always one deity. A southern-origin Yahweh remains compatible with later convergence.
+
+#### Baal/Canaanite imagery → Early Israelite Yahwism
+
+**Edge:** `CULTURAL_FUSION`, HIGH confidence.
+
+John Day's scholarship explicitly treats Yahweh's appropriation of Baal imagery, while Psalm 29 scholarship identifies adapted Canaanite/Baalistic storm and kingship language. The model therefore records cultural inheritance/appropriation rather than direct literary borrowing from the surviving Ugaritic tablets.
+
+**Limit:** not every storm-war motif is uniquely Baal-derived, and the exact transmission route is not known for each biblical text.
+
+### Explicit non-node decision
+
+No standalone “divine council tradition” entity is created. The divine council is modeled as a comparative structural feature within Canaanite/Ugaritic and Israelite materials, not as a historical tradition with its own discrete community or transmission chain.
+
+### Held
+
+- Yahweh's southern origin / Shasu-Yhw / Kenite-Midianite hypotheses: historically important but still separate from the El/Yahweh convergence edge.
+- Genesis Flood / Atraḫasīs / Gilgamesh XI: next Phase 7 batch.
+- Zoroastrian concept-level influence: still held concept-by-concept; no blanket edge.
+
