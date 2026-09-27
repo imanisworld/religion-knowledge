@@ -1,0 +1,55 @@
+{
+  "id": "claim_ks_anangu_ecological_knowledge",
+  "subject_type": "KnowledgeState",
+  "subject_id": "ks_anangu_public_1985_2026",
+  "statement": "Public Uluru–Kata Tjuta management and heritage documentation describes Anangu traditional ecological knowledge as a detailed body of knowledge about ecological zones, plant and animal behaviour and distribution, foraging, and landscape management; park authorities state that this knowledge contributes directly to ecological research and management.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z6",
+  "zoom_max": "Z7",
+  "region": [
+    "Australia"
+  ],
+  "evidence_types": [
+    "ORAL_TRADITION",
+    "ETHNOGRAPHIC",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Australian Government, Uluru–Kata Tjuta National Park World Heritage description, updated 16 Apr. 2026.",
+      "author": null,
+      "year": 2026,
+      "venue": "Australian Government DCCEEW",
+      "contemporary_with_event": true,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Public-facing material only."
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Uluru–Kata Tjuta National Park Plan of Management, section on Tjukurpa and looking after country.",
+      "author": null,
+      "year": null,
+      "venue": "Australian Government DCCEEW",
+      "contemporary_with_event": true,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Public-facing material only."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "This documents living, publicly shared knowledge used in management; it does not expose or summarize restricted knowledge."
+}
