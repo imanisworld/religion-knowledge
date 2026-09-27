@@ -1309,45 +1309,335 @@
   {
     "state": "Florida",
     "slug": "florida",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-09-27",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/florida/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±3.1 percentage points for adults in Florida",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "22%",
+          "percent": 22,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "22%",
+          "percent": 22,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "9%",
+          "percent": 9,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "7%",
+          "percent": 7,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "3%",
+          "percent": 3,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "4%",
+          "percent": 4,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "5%",
+          "percent": 5,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "18%",
+          "percent": 18,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Florida table are Evangelical Protestant (22%), Catholic (22%), Mainline Protestant (9%), and Historically Black Protestant (7%). Pew lists 4% atheist, 5% agnostic, and 18% nothing in particular. Figures are survey estimates; the state margin of error is ±3.1 percentage points, 1% did not answer, and categories may not sum to 100% because of rounding."
     },
     "power": {
       "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 6,
+      "documented_affiliations": 5,
+      "summary": "Five of six tracked Florida power positions have publicly documented Christian affiliations in the sources reviewed: Governor Ron DeSantis is Catholic, Lieutenant Governor Jay Collins attends a Christian church, Attorney General James Uthmeier is an active Catholic parishioner, Acting House Speaker Wyman Duggan is Christian, and Senate President Ben Albritton is Christian. Chief Justice John Couriel remains unknown. Because 5 of 6 are documented Christian, a majority of the tracked set is documented Christian.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Ron DeSantis",
+          "affiliation_status": "documented",
+          "affiliation": "Catholic",
+          "affiliation_detail": "Council on Foreign Relations' biographical profile lists DeSantis's religion as Catholic.",
+          "office_source": "https://www.flgov.com/eog/leadership/people/ron-desantis",
+          "affiliation_source": "https://www.cfr.org/articles/meet-ron-desantis-republican-presidential-candidate",
+          "source_note": "Current office is verified by the Executive Office of the Governor; religion is separately documented by CFR."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "Jay Collins",
+          "affiliation_status": "documented",
+          "affiliation": "Christian",
+          "affiliation_detail": "The official lieutenant-governor biography states that Collins and his family attend Grace Family Church; the church describes itself as a nondenominational, Bible-based Christian church.",
+          "office_source": "https://www.flgov.com/eog/leadership/people/jay-collins",
+          "affiliation_source": "https://my.dctampa.org/about",
+          "source_note": "Current office and church attendance are documented by the official governor site; the church's Christian identity is documented by its own site."
+        },
+        {
+          "office": "Attorney General",
+          "name": "James Uthmeier",
+          "affiliation_status": "documented",
+          "affiliation": "Catholic",
+          "affiliation_detail": "The official Attorney General biography states that Uthmeier and his family are active parishioners at the Co-Cathedral of St. Thomas More in Tallahassee.",
+          "office_source": "https://www.myfloridalegal.com/ag-bio",
+          "affiliation_source": "https://www.myfloridalegal.com/ag-bio",
+          "source_note": "Current office and Catholic parish membership are both documented by the official biography."
+        },
+        {
+          "office": "Acting Speaker of the House",
+          "name": "Wyman Duggan",
+          "affiliation_status": "documented",
+          "affiliation": "Christian",
+          "affiliation_detail": "Florida House materials list Duggan's religious affiliation as Christian. Reporting on Daniel Perez's August 21, 2026 resignation states that Speaker pro tempore Duggan assumed the Speaker's duties, powers, and prerogatives through the end of the term.",
+          "office_source": "https://www.wusf.org/local-state/2026-08-08/confirmed-as-ambassador-to-brazil-florida-house-speaker-daniel-perez-formally-submits-resignation",
+          "affiliation_source": "https://flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4712",
+          "source_note": "The official House site still contains stale Perez speaker labels in some places, so the acting-speaker status is tied to the documented resignation/succession rule rather than that stale label."
+        },
+        {
+          "office": "Senate President",
+          "name": "Ben Albritton",
+          "affiliation_status": "documented",
+          "affiliation": "Christian",
+          "affiliation_detail": "The current Florida Senate biography lists Albritton's religious affiliation as Christian and identifies him as an elder at First Christian Church of Wauchula.",
+          "office_source": "https://www.flsenate.gov/Offices/President",
+          "affiliation_source": "https://www.flsenate.gov/Senators/S27",
+          "source_note": "Current office and affiliation are both documented by Florida Senate sources."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "John D. Couriel",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The current Florida Supreme Court biography identifies Couriel as Chief Justice but does not state a religious affiliation.",
+          "office_source": "https://supremecourt.flcourts.gov/the-court/about-the-court/justices/justice-john-d.-couriel",
+          "source_note": "No affiliation inferred from schooling, family history, investiture remarks, or ceremonial use of scripture."
+        }
+      ]
     }
   },
   {
     "state": "Georgia",
     "slug": "georgia",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-09-27",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/georgia/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±4.7 percentage points for adults in Georgia",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "33%",
+          "percent": 33,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "8%",
+          "percent": 8,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "10%",
+          "percent": 10,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "14%",
+          "percent": 14,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "3%",
+          "percent": 3,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "3%",
+          "percent": 3,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "20%",
+          "percent": 20,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Georgia table are Evangelical Protestant (33%), Historically Black Protestant (14%), Mainline Protestant (10%), and Catholic (8%). Pew lists 3% atheist, 3% agnostic, and 20% nothing in particular. Figures are survey estimates; the state margin of error is ±4.7 percentage points, fewer than 1% did not answer, and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
       "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 6,
+      "documented_affiliations": 5,
+      "summary": "Five of six tracked Georgia power positions have publicly documented Christian affiliations in the sources reviewed: Governor Brian Kemp is active in an Episcopal church, Lieutenant Governor Burt Jones is active in Rock Springs Church, House Speaker Jon Burns is active at Mizpah Church, Senate President Pro Tempore Larry Walker III is Methodist, and Chief Justice Nels Peterson teaches Sunday school at a Baptist church. Attorney General Chris Carr remains unknown. Because 5 of 6 are documented Christian, a majority of the tracked set is documented Christian.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Brian P. Kemp",
+          "affiliation_status": "documented",
+          "affiliation": "Episcopalian / Christian",
+          "affiliation_detail": "An official Georgia Department of Community Affairs biography states that Kemp and his family are active members of Emmanuel Episcopal Church.",
+          "office_source": "https://gov.georgia.gov/brian-p-kemp",
+          "affiliation_source": "https://dca.georgia.gov/financing-tools/infrastructure/onegeorgia-authority/governing-board-overview-committee/brian-p-kemp",
+          "source_note": "Current office is verified by the Governor's official site; church affiliation is separately documented by another official Georgia agency."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "Burt Jones",
+          "affiliation_status": "documented",
+          "affiliation": "Christian",
+          "affiliation_detail": "The official lieutenant-governor biography states that Jones and his family are active members of Rock Springs Church.",
+          "office_source": "https://ltgov.georgia.gov/burt-jones",
+          "affiliation_source": "https://ltgov.georgia.gov/burt-jones",
+          "source_note": "Current office and church membership are documented by the official lieutenant-governor biography."
+        },
+        {
+          "office": "Attorney General",
+          "name": "Chris Carr",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The current official Attorney General biography reviewed does not state a religious affiliation.",
+          "office_source": "https://law.georgia.gov/biography-attorney-general",
+          "source_note": "No affiliation inferred."
+        },
+        {
+          "office": "Speaker of the House",
+          "name": "Jon Burns",
+          "affiliation_status": "documented",
+          "affiliation": "Christian",
+          "affiliation_detail": "The official Georgia House biography states that Burns and his wife are active members at Mizpah Church.",
+          "office_source": "https://www.legis.ga.gov/api/document/docs/default-source/bios/burns-jon-73.pdf",
+          "affiliation_source": "https://www.legis.ga.gov/api/document/docs/default-source/bios/burns-jon-73.pdf",
+          "source_note": "Current Speaker status and church membership are documented in the official legislative biography."
+        },
+        {
+          "office": "Senate President Pro Tempore",
+          "name": "Larry Walker III",
+          "affiliation_status": "documented",
+          "affiliation": "Methodist / Christian",
+          "affiliation_detail": "Walker was elected President Pro Tempore on January 12, 2026. Vote Smart lists his religion as Methodist, and his biography identifies active membership in Perry United Methodist Church.",
+          "office_source": "https://senatepress.net/sen-larry-walker-iii-elected-president-pro-tempore-of-georgia-state-senate.html",
+          "affiliation_source": "https://justfacts.votesmart.org/candidate/biography/157220/larry-walker-iii",
+          "source_note": "This corrects older John Kennedy references; Kennedy left the President Pro Tempore role before this 2026 snapshot."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "Nels S.D. Peterson",
+          "affiliation_status": "documented",
+          "affiliation": "Baptist / Christian",
+          "affiliation_detail": "The current Georgia Supreme Court biography states that Peterson and his wife teach adult Sunday school at Johnson Ferry Baptist Church.",
+          "office_source": "https://www.gasupreme.us/court-information/biographies/justice-nels-s-d-peterson/",
+          "affiliation_source": "https://www.gasupreme.us/court-information/biographies/justice-nels-s-d-peterson/",
+          "source_note": "Current office and church activity are documented by the official court biography."
+        }
+      ]
     }
   },
   {
