@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Personal Belief History</title>
+<script>try{var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script>
 <style>
 :root{--ground:#EDEFEC;--paper:#fff;--ink:#17201D;--ink2:#4A5551;--rule:#D3D8D4;--accent:#1F5E5B;--soft:#E3EDEC}
 *{box-sizing:border-box}
@@ -34,9 +35,7 @@ h1{font-size:2.55rem;letter-spacing:-.02em}
 .note{border-left-width:4px}
 section{padding:1.35rem 1.5rem;margin:1.15rem 0}
 a{text-underline-offset:2px}
-@media(prefers-color-scheme:dark){
-:root{--ground:#120E10;--paper:#1C1518;--ink:#F7F2F3;--ink2:#C4B7BB;--rule:#382B30;--accent:#D8899A;--soft:#3A2028}
-}
+:root[data-theme=dark]{--ground:#120E10;--paper:#1C1518;--ink:#F7F2F3;--ink2:#C4B7BB;--rule:#382B30;--accent:#D8899A;--soft:#3A2028}
 
 /* ---------- belief history readability refinement ---------- */
 body{font-size:17px;line-height:1.7}
@@ -52,7 +51,7 @@ li{margin-bottom:.42rem}
 table{font-size:.96rem;line-height:1.58}
 th,td{padding:.8rem}
 a:focus-visible{outline:3px solid color-mix(in srgb,var(--accent) 34%,transparent);outline-offset:3px}
-@media(prefers-color-scheme:dark){:root{--ink2:#D1C5C9;--rule:#44343A}}
+:root[data-theme=dark]{--ink2:#D1C5C9;--rule:#44343A}
 @media(max-width:700px){
   body{font-size:16.5px}
   main{padding:2.6rem 1rem 4rem}

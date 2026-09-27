@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en"><head><meta charset="utf-8">
+<html lang="en" data-theme="light"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Search — Bible Deep Dive</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -202,7 +202,7 @@ main{max-width:860px}
   .rcard{margin:0 -.35rem;padding:1.1rem .35rem}
   #filters{padding-right:1.25rem}
 }
-</style><script>try{var __t=localStorage.getItem("religion-knowledge-theme");if(__t)document.documentElement.dataset.theme=__t}catch(e){}</script></head><body>
+</style><script>try{var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script></head><body>
 
 <div id="topbar">
   <a class="brand" href="index.html">Bible Deep Dive</a>
@@ -445,7 +445,7 @@ const themeMedia = matchMedia('(prefers-color-scheme: dark)');
 function effectiveTheme() {
   const explicit = document.documentElement.dataset.theme;
   if (explicit === 'dark' || explicit === 'light') return explicit;
-  return themeMedia.matches ? 'dark' : 'light';
+  return 'light';
 }
 function syncThemeButton() {
   const dark = effectiveTheme() === 'dark';
