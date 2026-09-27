@@ -53,6 +53,10 @@
   .detail-grid{grid-template-columns:1fr}
 }@media(max-width:820px){.share-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.overview-grid{grid-template-columns:1fr}.layout{grid-template-columns:1fr}.sidebar{position:relative;top:0;max-height:none;overflow:visible}.state-browser{max-height:18rem;overflow:auto;margin:.45rem 0 0;padding:0 .15rem .2rem 0;border-top:1px solid var(--rule)}#docs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.2rem}.states{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.2rem}.topinner{padding:.65rem .8rem}.shell{padding:1.2rem .8rem 4rem}.navlink.hide-mobile{display:none}.db-head{display:block}.coverage{white-space:normal}.detail-grid{grid-template-columns:1fr}}
 @media(max-width:520px){.share-grid{grid-template-columns:1fr 1fr}#docs{grid-template-columns:1fr}.states{grid-template-columns:1fr}.content{padding:1rem}.content-return{align-items:flex-start;flex-direction:column;gap:.2rem}.hero{padding-top:.4rem}.hero h1{font-size:2.45rem}.compare-tools{margin-left:-.2rem;margin-right:-.2rem;padding:.8rem}.filter-row{gap:.38rem}.filter-chip{font-size:.72rem;padding:.34rem .58rem}}
+.overview-nav{display:flex;flex-wrap:wrap;gap:.45rem;margin:.95rem 0 1.15rem}
+.overview-nav a{display:inline-flex;align-items:center;min-height:36px;padding:.38rem .7rem;border:1px solid var(--rule);border-radius:999px;background:var(--paper);color:var(--ink2);font-size:.75rem;font-weight:700;text-decoration:none}
+.overview-nav a:hover,.overview-nav a:focus-visible{border-color:var(--accent);color:var(--accent2);outline:none}
+.section-block{scroll-margin-top:78px}
 </style>
 <script>
 try{const t=localStorage.getItem('religion-knowledge-theme');if(t==='dark'||t==='light')document.documentElement.dataset.theme=t}catch(e){}
@@ -360,6 +364,7 @@ function renderOverview(){
   const rc=relationshipCounts();
   return '<h1 class="overview-title">Research overview</h1>'+
     '<div class="statusline"><span class="pill">'+verified+' first-pass state baselines verified</span><span class="pill">'+states.length+' states scaffolded</span><span class="pill">'+records.length+' structured law records</span></div>'+
+    '<nav class="overview-nav" aria-label="Overview sections"><a href="#compare-laws">Compare laws</a><a href="#practice-overview">Formal law vs practice</a><a href="#policy-overview">U.S. policy</a><a href="#global-overview">Global structure</a></nav>'+
     '<p class="note"><strong>Important:</strong> “first-pass baseline verified” does not mean a complete state survey. It means the cited baseline entries have primary legal authority and a verification date. Historical-causation claims remain separate and require their own evidence.</p>'+
     '<div class="overview-grid">'+
       '<section class="overview-card"><h2>Included here</h2><p><strong>Current law:</strong> statutes, constitutional provisions, and controlling doctrines that explicitly concern religion or religious exercise.</p><p><strong>Historical law:</strong> repealed or superseded rules when they matter to the religion-and-law record.</p><div class="overview-stats"><span class="overview-stat"><b>'+rc.A+'</b> explicitly religious</span><span class="overview-stat"><b>'+rc.B+'</b> historical origin</span></div></section>'+
@@ -561,11 +566,11 @@ function composeStatePage(md,ctx){
 function renderComparison(){
   $('#content').innerHTML=
     renderOverview()+
-    renderPracticeTable()+
-    '<section class="section-block"><div class="db-head"><div><h2>Compare laws</h2><p>Start with the relationship between religion and the rule, then check what the rule does and whether it still operates today.</p></div></div>'+
+    '<section class="section-block" id="compare-laws"><div class="db-head"><div><h2>Compare laws</h2><p>Start with the relationship between religion and the rule, then check what the rule does and whether it still operates today.</p></div></div>'+
     '<p class="note"><strong>Coverage note:</strong> This table currently shows records already normalized into structured data. State profiles contain additional verified baseline research that is still being converted into law-level records.</p>'+
     renderFilters()+
     '<div class="table-wrap"><table class="compare-table responsive-table law-table"><thead><tr><th>Law / rule</th><th>Place</th><th>Religion relationship</th><th>What it does / did</th><th>Current status</th></tr></thead><tbody id="comparisonBody"></tbody></table></div></section>'+
+    renderPracticeTable()+
     renderPolicyTable()+
     renderGlobalTable()+
     '<p class="method-note">Plain-language labels are shown here; the A–E research codes remain internal. <a href="#doc=methodology">Methodology &amp; evidence rules</a></p>';
@@ -577,7 +582,7 @@ async function route(){
   const raw=location.hash.slice(1);
   const params=new URLSearchParams(raw);
   const state=params.get('state'),doc=params.get('doc');
-  const overviewSections=new Set(['policy-overview','global-overview','practice-overview']);
+  const overviewSections=new Set(['compare-laws','policy-overview','global-overview','practice-overview']);
   const overview=raw===''||raw==='overview'||overviewSections.has(raw);
   try{
     if(state){
