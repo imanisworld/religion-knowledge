@@ -1,0 +1,55 @@
+{
+  "id": "claim_genesis1_creation_structure",
+  "subject_type": "Narrative",
+  "subject_id": "nar_genesis1_priestly",
+  "statement": "Genesis 1:1–2:4a is a distinct Priestly creation account in which divine speech repeatedly brings ordered domains and inhabitants into being; critical scholarship commonly distinguishes it from the Genesis 2:4b–3 creation account.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Levant"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Genesis 1:1–2:4a.",
+      "author": "Genesis",
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Konrad Schmid, “Genesis’ Two Creation Accounts Compiled and Interpreted as One.” TheTorah.com (2023).",
+      "author": "Konrad Schmid",
+      "year": 2023,
+      "venue": "TheTorah.com",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "Motif similarity with another tradition does not by itself demonstrate borrowing, common ancestry, or direct transmission."
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}
