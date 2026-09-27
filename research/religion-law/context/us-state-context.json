@@ -1,0 +1,1245 @@
+[
+  {
+    "state": "Alabama",
+    "slug": "alabama",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/alabama/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Alaska",
+    "slug": "alaska",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/alaska/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Arizona",
+    "slug": "arizona",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/arizona/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Arkansas",
+    "slug": "arkansas",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/arkansas/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "California",
+    "slug": "california",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/california/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Colorado",
+    "slug": "colorado",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/colorado/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Connecticut",
+    "slug": "connecticut",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/connecticut/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Delaware",
+    "slug": "delaware",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/delaware/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Florida",
+    "slug": "florida",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/florida/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Georgia",
+    "slug": "georgia",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/georgia/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Hawaii",
+    "slug": "hawaii",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/hawaii/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Idaho",
+    "slug": "idaho",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/idaho/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Illinois",
+    "slug": "illinois",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/illinois/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Indiana",
+    "slug": "indiana",
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-09-27",
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/indiana/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": "±5.0 percentage points for adults in Indiana",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "32%",
+          "percent": 32,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "16%",
+          "percent": 16,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "11%",
+          "percent": 11,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "3%",
+          "percent": 3,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "5%",
+          "percent": 5,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "4%",
+          "percent": 4,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "21%",
+          "percent": 21,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Indiana table are Evangelical Protestant (32%), Catholic (16%), Mainline Protestant (11%), and Historically Black Protestant (3%). Pew lists 5% atheist, 4% agnostic, and 21% nothing in particular. Figures are survey estimates and may not sum to 100% because of rounding and <1% categories."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 6,
+      "documented_affiliations": 3,
+      "summary": "Three of six tracked Indiana power positions have a publicly documented religious affiliation in the sources reviewed. All three documented affiliations are Christian; the other three are left unknown, so the religious composition of the full six-position set cannot be determined.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Mike Braun",
+          "affiliation_status": "documented",
+          "affiliation": "Catholic",
+          "affiliation_detail": "Pew/CQ Roll Call identified Braun as Catholic while he served in the U.S. Senate. The current governor biography discusses faith but does not restate a denomination.",
+          "office_source": "https://www.in.gov/gov/about-the-governor/about-governor-mike-braun/",
+          "affiliation_source": "https://www.pewresearch.org/religion/wp-content/uploads/sites/7/2021/01/01.04.21_faith_on_the_hill_detailed.table_.update.pdf",
+          "source_note": "Affiliation documentation predates his governorship; retained as the latest high-quality direct biographical classification located in this pass."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "Micah Beckwith",
+          "affiliation_status": "documented",
+          "affiliation": "Christian",
+          "affiliation_detail": "Official biography states he served for more than 15 years as a Worship Pastor and Campus Pastor.",
+          "office_source": "https://www.in.gov/lg/about-the-office/biography/",
+          "affiliation_source": "https://www.in.gov/lg/about-the-office/biography/",
+          "source_note": "Broad Christian affiliation is supported by the official clergy biography; no denomination is assigned here."
+        },
+        {
+          "office": "Attorney General",
+          "name": "Todd Rokita",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official biography discusses religious liberty and personal values but does not identify a religious affiliation.",
+          "office_source": "https://www.in.gov/attorneygeneral/about-the-office/about-the-attorney-general/",
+          "source_note": "No affiliation inferred from policy positions or religious language."
+        },
+        {
+          "office": "Speaker of the House",
+          "name": "Todd Huston",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Current leadership biography reviewed; no religious affiliation is stated.",
+          "office_source": "https://www.indianahouserepublicans.com/members/leadership/todd-huston/",
+          "source_note": "No affiliation inferred."
+        },
+        {
+          "office": "Senate President Pro Tempore",
+          "name": "Rodric Bray",
+          "affiliation_status": "documented",
+          "affiliation": "Methodist / Christian",
+          "affiliation_detail": "Current Senate Republican biography lists First United Methodist Church of Martinsville among his activities.",
+          "office_source": "https://www.indianasenaterepublicans.com/bray",
+          "affiliation_source": "https://www.indianasenaterepublicans.com/bray",
+          "source_note": "Bray announced he will not seek another term as President Pro Tempore in November 2026, but remains in the role as of this snapshot date."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "Loretta H. Rush",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Current Indiana Judicial Branch biography reviewed; no religious affiliation is stated.",
+          "office_source": "https://www.in.gov/courts/supreme/justices/loretta-rush",
+          "source_note": "No affiliation inferred."
+        }
+      ]
+    }
+  },
+  {
+    "state": "Iowa",
+    "slug": "iowa",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/iowa/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Kansas",
+    "slug": "kansas",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/kansas/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Kentucky",
+    "slug": "kentucky",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/kentucky/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Louisiana",
+    "slug": "louisiana",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/louisiana/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Maine",
+    "slug": "maine",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/maine/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Maryland",
+    "slug": "maryland",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/maryland/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Massachusetts",
+    "slug": "massachusetts",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/massachusetts/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Michigan",
+    "slug": "michigan",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/michigan/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Minnesota",
+    "slug": "minnesota",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/minnesota/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Mississippi",
+    "slug": "mississippi",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/mississippi/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Missouri",
+    "slug": "missouri",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/missouri/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Montana",
+    "slug": "montana",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/montana/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Nebraska",
+    "slug": "nebraska",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/nebraska/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Nevada",
+    "slug": "nevada",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/nevada/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "New Hampshire",
+    "slug": "new-hampshire",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/new-hampshire/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "New Jersey",
+    "slug": "new-jersey",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/new-jersey/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "New Mexico",
+    "slug": "new-mexico",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/new-mexico/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "New York",
+    "slug": "new-york",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/new-york/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "North Carolina",
+    "slug": "north-carolina",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/north-carolina/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "North Dakota",
+    "slug": "north-dakota",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/north-dakota/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Ohio",
+    "slug": "ohio",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/ohio/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Oklahoma",
+    "slug": "oklahoma",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/oklahoma/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Oregon",
+    "slug": "oregon",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/oregon/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Pennsylvania",
+    "slug": "pennsylvania",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/pennsylvania/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Rhode Island",
+    "slug": "rhode-island",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/rhode-island/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "South Carolina",
+    "slug": "south-carolina",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/south-carolina/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "South Dakota",
+    "slug": "south-dakota",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/south-dakota/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Tennessee",
+    "slug": "tennessee",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/tennessee/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Texas",
+    "slug": "texas",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/texas/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Utah",
+    "slug": "utah",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/utah/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Vermont",
+    "slug": "vermont",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/vermont/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Virginia",
+    "slug": "virginia",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/virginia/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Washington",
+    "slug": "washington",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/washington/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "West Virginia",
+    "slug": "west-virginia",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/west-virginia/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Wisconsin",
+    "slug": "wisconsin",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/wisconsin/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  },
+  {
+    "state": "Wyoming",
+    "slug": "wyoming",
+    "coverage_status": "not_coded",
+    "last_verified": null,
+    "population": {
+      "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
+      "source_url": "https://www.pewresearch.org/religious-landscape-study/state/wyoming/",
+      "survey_period": "2023-07-17 to 2024-03-04",
+      "margin_of_error": null,
+      "shares": [],
+      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+    },
+    "power": {
+      "as_of": "2026-09-27",
+      "coverage_status": "not_started",
+      "tracked_positions": 0,
+      "documented_affiliations": 0,
+      "summary": "Officeholder religion review has not yet been completed for this state.",
+      "officeholders": []
+    }
+  }
+]
