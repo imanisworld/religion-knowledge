@@ -139,6 +139,7 @@ function extractReligionLaw(baseDir) {
   const overviewData = [
     ['records/policy-influence.json', 'Policy influence'],
     ['records/global-legal-structure.json', 'Global legal structure'],
+    ['records/institutional-practice.json', 'Institutional practice'],
   ];
   for (const [file, group] of overviewData) {
     const fullPath = path.join(root, file);
