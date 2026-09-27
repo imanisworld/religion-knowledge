@@ -1,0 +1,53 @@
+{
+  "id": "claim_ks_ob_incantations",
+  "subject_type": "KnowledgeState",
+  "subject_id": "ks_old_babylonian_1900_1600_bce",
+  "statement": "Old Babylonian tablets also preserve ritual/incantation practice; such texts show that supernatural or ritual intervention existed alongside mathematical, legal, scribal, and therapeutic practices rather than replacing them.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Mesopotamia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "CDLI P274690 (VS 17, 08), Old Babylonian incantation tablet, ca. 1900–1600 BCE.",
+      "author": "Cuneiform Digital Library Initiative",
+      "year": null,
+      "venue": "CDLI",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "CDLI P223455 (TIM 09, 072), Old Babylonian incantation tablet from Shaduppum/Tell Harmal.",
+      "author": "Cuneiform Digital Library Initiative",
+      "year": null,
+      "venue": "CDLI",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "This claim records coexistence of ritual explanation/practice with other specialist knowledge. It does not claim ritual explanation was universal or mutually exclusive with empirical treatment."
+}

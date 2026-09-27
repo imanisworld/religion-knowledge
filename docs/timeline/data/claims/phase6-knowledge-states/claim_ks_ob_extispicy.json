@@ -1,0 +1,54 @@
+{
+  "id": "claim_ks_ob_extispicy",
+  "subject_type": "KnowledgeState",
+  "subject_id": "ks_old_babylonian_1900_1600_bce",
+  "statement": "Old Babylonian scholarly practice included extispicy: specialists examined sheep livers as divinatory signs, and surviving clay liver models encoded anatomical locations together with omen implications for teaching and interpretation.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Mesopotamia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY",
+    "MATERIAL_CULTURE"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "British Museum 92668, “The Liver Tablet,” Old Babylonian, 1900–1600 BCE: inscribed model of a sheep's liver used for instruction, with sections describing implications of blemishes.",
+      "author": "British Museum",
+      "year": null,
+      "venue": "British Museum",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "CDLI P386351, Old Babylonian liver model excavated at Mari.",
+      "author": "Cuneiform Digital Library Initiative",
+      "year": null,
+      "venue": "CDLI",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "This is evidence for a formalized divinatory explanatory practice among specialists, not evidence that every event was explained divinationally."
+}

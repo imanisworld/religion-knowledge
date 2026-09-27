@@ -1,0 +1,53 @@
+{
+  "id": "claim_ks_ob_scribal_training",
+  "subject_type": "KnowledgeState",
+  "subject_id": "ks_old_babylonian_1900_1600_bce",
+  "statement": "Old Babylonian scribal education included formal cuneiform copying exercises in Sumerian and Akkadian; surviving school tablets show students practicing signs, words, and multiplication/metrological material.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Mesopotamia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Metropolitan Museum of Art, “Cuneiform tablet: student exercise tablet,” Old Babylonian, ca. 20th–16th century BCE.",
+      "author": "Metropolitan Museum of Art",
+      "year": null,
+      "venue": "The Metropolitan Museum of Art",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "CDLI P254492 (MCT 021, UM 29.15.480), Old Babylonian Nippur school exercise / multiplication table.",
+      "author": "Cuneiform Digital Library Initiative",
+      "year": null,
+      "venue": "CDLI",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Attests specialist/school knowledge; it does not establish population-wide literacy."
+}

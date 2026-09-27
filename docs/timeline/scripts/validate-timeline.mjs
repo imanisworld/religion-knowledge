@@ -162,6 +162,7 @@ const ENTITY_DIR_TYPES = {
   traditions: 'Tradition',
   deities: 'Deity',
   narratives: 'Narrative',
+  knowledge_states: 'KnowledgeState',
   gender_systems: 'GenderSystem',
 };
 
@@ -200,6 +201,8 @@ for (const file of entityFiles) {
     validateDeity(data, rel);
   } else if (type === 'Narrative') {
     validateNarrative(data, rel);
+  } else if (type === 'KnowledgeState') {
+    validateKnowledgeState(data, rel);
   } else if (type === 'GenderSystem') {
     validateGenderSystem(data, rel);
   }
@@ -379,6 +382,52 @@ function validateDeity(d, rel) {
   }
 }
 
+function validateKnowledgeState(ks, rel) {
+  if (!ks.name) fail(`${rel}: KnowledgeState missing name`);
+  if (!ks.culture_id) fail(`${rel}: KnowledgeState missing culture_id`);
+  checkRegionLabels(ks.region, rel);
+  if (!Array.isArray(ks.region) || ks.region.length === 0) {
+    fail(`${rel}: KnowledgeState must have at least one region tag`);
+  }
+  if (!ks.period || typeof ks.period !== 'object') {
+    fail(`${rel}: KnowledgeState missing period scope`);
+  } else {
+    if (!DATE_PRECISIONS.includes(ks.period.precision)) {
+      fail(`${rel}: period.precision "${ks.period.precision}" invalid`);
+    }
+    if (!('earliest' in ks.period) || !('latest' in ks.period)) {
+      fail(`${rel}: period must include earliest and latest`);
+    }
+  }
+  const groups = [
+    'known_claim_ids', 'unknown_claim_ids',
+    'natural_explanation_claim_ids', 'supernatural_explanation_claim_ids',
+  ];
+  const seen = new Set();
+  for (const key of groups) {
+    if (!Array.isArray(ks[key])) {
+      fail(`${rel}: ${key} must be an array (empty is valid)`);
+      continue;
+    }
+    for (const claimId of ks[key]) {
+      if (typeof claimId !== 'string' || !claimId) {
+        fail(`${rel}: ${key} contains an invalid claim id`);
+        continue;
+      }
+      if (seen.has(claimId)) {
+        fail(`${rel}: claim "${claimId}" appears in more than one knowledge-state category; split the assertion into atomic claims instead`);
+      }
+      seen.add(claimId);
+    }
+  }
+  if (Array.isArray(ks.known_claim_ids) && ks.known_claim_ids.length === 0) {
+    fail(`${rel}: KnowledgeState requires at least one known_claim_ids entry`);
+  }
+  if (typeof ks.methodology_note !== 'string' || !ks.methodology_note.trim()) {
+    fail(`${rel}: KnowledgeState requires methodology_note explaining evidence limits`);
+  }
+}
+
 function validateGenderSystem(gs, rel) {
   if (!gs.culture_id) fail(`${rel}: GenderSystem missing culture_id`);
   checkRegionLabels(gs.region, rel);
@@ -545,7 +594,7 @@ for (const [id, { data: claim, file }] of claimsById) {
   if (!SUBJECT_TYPES.includes(claim.subject_type)) {
     fail(`${label}: subject_type "${claim.subject_type}" not recognized`);
   }
-  const ENTITY_BACKED_SUBJECT_TYPES = ['Population', 'WritingSystem', 'Text', 'Culture', 'Polity', 'Tradition', 'Deity', 'Narrative', 'GenderSystem'];
+  const ENTITY_BACKED_SUBJECT_TYPES = ['Population', 'WritingSystem', 'Text', 'Culture', 'Polity', 'Tradition', 'Deity', 'Narrative', 'KnowledgeState', 'GenderSystem'];
   if (!claim.subject_id) {
     fail(`${label}: missing subject_id`);
   } else if (ENTITY_BACKED_SUBJECT_TYPES.includes(claim.subject_type)) {
@@ -751,6 +800,36 @@ for (const [entId, { data, type, file }] of entitiesById) {
       }
       if (edge.claim_id && !claimsById.has(edge.claim_id)) {
         fail(`${label}: claim_id "${edge.claim_id}" does not resolve to any loaded claim`);
+      }
+    }
+  }
+  if (type === 'KnowledgeState') {
+    if (data.culture_id) {
+      const target = entitiesById.get(data.culture_id);
+      if (!target) {
+        fail(`${rel}: culture_id "${data.culture_id}" does not resolve to any loaded entity`);
+      } else if (target.type !== 'Culture') {
+        fail(`${rel}: culture_id "${data.culture_id}" resolves to a ${target.type}, not Culture`);
+      }
+    }
+    const groups = [
+      'known_claim_ids', 'unknown_claim_ids',
+      'natural_explanation_claim_ids', 'supernatural_explanation_claim_ids',
+    ];
+    for (const key of groups) {
+      for (const [i, claimId] of (data[key] || []).entries()) {
+        const label = `${rel} ${key}[${i}]`;
+        const claim = claimsById.get(claimId);
+        if (!claim) {
+          fail(`${label}: claim_id "${claimId}" does not resolve to any loaded claim`);
+          continue;
+        }
+        if (claim.data.subject_type !== 'KnowledgeState' || claim.data.subject_id !== entId) {
+          fail(`${label}: claim "${claimId}" must have subject_type KnowledgeState and subject_id "${entId}"`);
+        }
+        if (key === 'unknown_claim_ids' && (!Array.isArray(claim.data.does_not_demonstrate) || claim.data.does_not_demonstrate.length === 0)) {
+          fail(`${label}: unknown-state claims require does_not_demonstrate[] so non-attestation is not rendered as absolute ignorance`);
+        }
       }
     }
   }
