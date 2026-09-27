@@ -25,10 +25,18 @@ Section 6 states that no money shall be drawn from the treasury for the benefit 
 
 ## Education and public funding
 
-In *Meredith v. Pence* (Ind. 2013), the Indiana Supreme Court held that the school voucher program challenged there did not violate Article I, §4 or §6. The decision therefore matters to the operative scope of the no-preference and treasury-benefit clauses.
+### Choice Scholarship Program — Indiana Code article 20-51
 
-- **Status:** Constitutional clauses remain in force; their application is governed by state case law and federal constitutional doctrine.
-- **Confidence:** High.
+Indiana's current Choice Scholarship Program provides state-funded scholarships to eligible K–12 students to offset tuition at participating schools. Current Indiana Department of Education materials identify the program as an educational-access / school-choice program authorized under IC 20-51.
+
+In *Meredith v. Pence* (Ind. 2013), the Indiana Supreme Court held that the voucher program did not violate Article I, §4 or §6. The court described participating families and students—not religious schools—as the direct beneficiaries and described expanded educational options as a valid secular purpose.
+
+- **Religion connection:** Religiously affiliated schools may participate, which generated litigation under Indiana's religion clauses, but the program is not restricted to religious schools.
+- **Classification:** E — principally secular documented purpose.
+- **Status:** In force.
+- **Confidence:** High for current program structure and the court's stated secular-purpose analysis.
+
+The constitutional no-preference and treasury-benefit clauses remain separately classified D; the voucher program itself is classified E here because the program's documented purpose is educational rather than religious.
 
 ## Religious accommodation and liberty
 
@@ -52,6 +60,7 @@ The Indiana Supreme Court's earlier *Embry v. O'Bannon* discussion records conve
 - Indiana State Library, Indiana Constitution research page linking the current Constitution: https://www.in.gov/library/collections-and-services/indiana/subject-guides-to-indiana-collection-materials/indiana-constitution/
 - Indiana Historical Bureau, State Constitutions: https://www.in.gov/history/about-indiana-history-and-trivia/explore-indiana-history-by-topic/state-constitutions/
 - Indiana Supreme Court, *Meredith v. Pence*: https://public.courts.in.gov/Decisions/api/Document/Opinion?Id=J05Ps3rV8U8J5E21jpQdtFtZSesxhcvjxGMBDHpC6068_qeh1SUJ_1q8NJaE72_C0
+- Indiana Department of Education, Choice Scholarship Program: https://www.in.gov/doe/students/indiana-choice-scholarship-program/
 
 ## Research caution
 
