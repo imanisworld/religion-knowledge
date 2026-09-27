@@ -619,6 +619,32 @@ Listener agreed with a non-canonical passage presented as scripture without ques
 
 •  Oppy, Graham. Arguing About Gods (2006).
 
+### 9.3.1 Permission vs. Moral Responsibility
+
+**⟨YOURS⟩ Core distinction:** Calling an atrocity "permitted" rather than "caused" does not by itself remove moral responsibility when the permitting agent is defined as omniscient, omnipotent, and creator of the entire system.
+
+A human-parent analogy is limited here. A human parent does not know every future outcome, did not create every relevant condition, and cannot prevent every harm. Under classical theism, God is normally said to know what will occur, possess the power to prevent it, and be the creator of the world and agents in which it occurs.
+
+**⟨INFERENCE⟩ The pressure point:**
+
+•  If God cannot prevent the harm, omnipotence is weakened.
+
+•  If God does not know the harm will occur, omniscience is weakened.
+
+•  If God knows it will occur, can prevent it, and deliberately does not prevent it, then "permission" still leaves a moral-responsibility question that requires justification.
+
+•  "Free will" can potentially explain why a human chooses an evil act. By itself, it does not explain why an omnipotent God must allow the chosen act to successfully produce extreme harm. Preventing an attempted rape from succeeding, for example, is not obviously identical to removing the offender's ability to choose to attempt it.
+
+**Important limit:** This argument does **not** establish that God is sadistic. Sadism requires a further claim about enjoying or taking pleasure in suffering. The argument establishes a tension between preventable suffering and the simultaneous claims of omniscience, omnipotence, perfect goodness, justice, mercy, and love.
+
+**Biblical case study — agency stronger than mere permission:**
+
+•  **Isaiah 13:3, 11, 16–18:** the chapter presents Babylon's destruction as divine punishment; God says he has commanded/summoned warriors and is stirring up the Medes. Within the described catastrophe, infants are dashed to pieces, houses are plundered, and wives are raped. The text does not separately command rape as an isolated act, but it portrays God as actively initiating the invasion rather than merely observing an independently occurring war.
+
+•  **Zechariah 14:2:** God says, "I will gather all the nations against Jerusalem to battle"; the immediately described consequences include the city being captured, houses plundered, and women raped. Again, the text places divine agency at the level of gathering the invading force.
+
+**⟨YOURS⟩ Moral test:** The relevant question is not only "why would God allow this?" but "is the act itself just, merciful, or loving?" An explanation can alter how agency is assigned or what the author intended; it does not by itself change the moral character of rape, infant killing, torture, or other atrocities if those events are taken literally as described.
+
 ## 9.4 "God is outside of time"
 
 **The claim: **God exists beyond temporal categories, so human logic about sequence, causality, and time does not apply to him.
