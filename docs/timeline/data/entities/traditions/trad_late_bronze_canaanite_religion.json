@@ -1,0 +1,35 @@
+{
+  "id": "trad_late_bronze_canaanite_religion",
+  "name": "Late Bronze Age Canaanite religion (Ugaritic textual horizon)",
+  "category_tags": [
+    "polytheism"
+  ],
+  "region": [
+    "Levant"
+  ],
+  "dating": {
+    "dating_summary": "This entity models the Late Bronze Age Canaanite religious world principally through the unusually rich Ugaritic archive; Ugarit is evidence for that wider Northwest Semitic environment, not a synonym for every local Canaanite cult.",
+    "earliest_archaeological_evidence": null,
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": -1400,
+        "latest": -1200,
+        "precision": "CENTURY"
+      },
+      "note": "Ugaritic mythic, ritual, pantheon, and administrative texts from the Late Bronze Age provide the principal written horizon used for this seed."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": -1400,
+        "latest": -1200,
+        "precision": "CENTURY"
+      },
+      "note": "The cuneiform tablets excavated at Ugarit/Ras Shamra preserve the Late Bronze Age textual corpus."
+    },
+    "estimated_composition": null,
+    "tradition_internal_claim": null,
+    "estimated_oral_origin": null
+  },
+  "relationships": [],
+  "notes": "Do not collapse all Canaanite religion into Ugarit. The Ugaritic corpus is used because it preserves direct Northwest Semitic evidence for El, Baal/Hadad, divine council structures, and mythic language that can be compared with early Israelite religion."
+}
