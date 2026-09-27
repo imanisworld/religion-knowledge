@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "U.S. State Religious Landscape and Power Context",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["state", "slug", "coverage_status", "population", "power"],
+    "additionalProperties": false,
+    "properties": {
+      "state": {"type": "string"},
+      "slug": {"type": "string"},
+      "coverage_status": {"enum": ["not_coded", "verified_first_pass"]},
+      "last_verified": {"type": ["string", "null"], "format": "date"},
+      "population": {
+        "type": "object",
+        "required": ["source_name", "source_url", "survey_period", "shares"],
+        "additionalProperties": false,
+        "properties": {
+          "source_name": {"type": "string"},
+          "source_url": {"type": "string"},
+          "survey_period": {"type": "string"},
+          "margin_of_error": {"type": ["string", "null"]},
+          "shares": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["label", "value_display", "group"],
+              "additionalProperties": false,
+              "properties": {
+                "label": {"type": "string"},
+                "value_display": {"type": "string"},
+                "percent": {"type": ["number", "null"]},
+                "group": {"enum": ["christian", "other_religion", "unaffiliated", "other"]},
+                "note": {"type": "string"}
+              }
+            }
+          },
+          "summary_note": {"type": "string"}
+        }
+      },
+      "power": {
+        "type": "object",
+        "required": ["as_of", "coverage_status", "tracked_positions", "documented_affiliations", "summary", "officeholders"],
+        "additionalProperties": false,
+        "properties": {
+          "as_of": {"type": "string", "format": "date"},
+          "coverage_status": {"enum": ["not_started", "partial", "verified_first_pass"]},
+          "tracked_positions": {"type": "integer", "minimum": 0},
+          "documented_affiliations": {"type": "integer", "minimum": 0},
+          "summary": {"type": "string"},
+          "officeholders": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["office", "name", "affiliation_status", "affiliation", "office_source"],
+              "additionalProperties": false,
+              "properties": {
+                "office": {"type": "string"},
+                "name": {"type": "string"},
+                "affiliation_status": {"enum": ["documented", "unknown", "not_applicable"]},
+                "affiliation": {"type": "string"},
+                "affiliation_detail": {"type": "string"},
+                "office_source": {"type": "string"},
+                "affiliation_source": {"type": "string"},
+                "source_note": {"type": "string"}
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
