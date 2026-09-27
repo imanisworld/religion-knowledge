@@ -1,0 +1,55 @@
+{
+  "id": "claim_nasadiya_origin_uncertainty",
+  "subject_type": "Narrative",
+  "subject_id": "nar_nasadiya_sukta",
+  "statement": "Ṛgveda 10.129 treats cosmic origins as a problem rather than presenting a single confident mechanism: it evokes darkness/waters and closes by questioning whether even the highest overseer knows how creation arose.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "South Asia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Joel P. Brereton, “Edifying Puzzlement: Ṛgveda 10.129 and the Uses of Enigma.” Journal of the American Oriental Society 119.2 (1999): 248–260.",
+      "author": "Joel P. Brereton",
+      "year": 1999,
+      "venue": "Journal of the American Oriental Society",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "The Ancient Languages of Asia and the Americas, chapter “Sanskrit” (Cambridge University Press, 2008), on Ṛgvedic chronology and oral transmission.",
+      "author": null,
+      "year": 2008,
+      "venue": "Cambridge University Press",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "Motif similarity with another tradition does not by itself demonstrate borrowing, common ancestry, or direct transmission."
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}
