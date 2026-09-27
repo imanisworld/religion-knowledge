@@ -29,7 +29,7 @@
 .law-name{font-weight:700;color:var(--ink);line-height:1.35}.law-subject{margin-top:.2rem;color:var(--ink3);font-size:.74rem}.relationship{display:inline-flex;align-items:center;border-radius:999px;padding:.25rem .5rem;background:var(--soft);color:var(--accent2);font-size:.7rem;font-weight:700;white-space:nowrap}.status{display:inline-flex;border-radius:999px;padding:.25rem .5rem;background:color-mix(in srgb,var(--ground) 70%,var(--soft));color:var(--ink2);font-size:.7rem;font-weight:700}.status.in-force{color:var(--ok)}.status.unenforceable,.status.historical{color:var(--pending)}
 .record-details{margin-top:.48rem}.record-details summary{color:var(--accent);font-size:.72rem;font-weight:700;cursor:pointer;list-style:none}.record-details summary::-webkit-details-marker{display:none}.record-details summary::after{content:" +";font-weight:400}.record-details[open] summary::after{content:" −"}.detail-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.55rem 1rem;margin-top:.65rem;padding:.75rem;border-radius:10px;background:var(--ground);font-size:.78rem;color:var(--ink2)}.detail-grid b{display:block;color:var(--ink3);font-size:.64rem;letter-spacing:.07em;text-transform:uppercase;margin-bottom:.15rem}.detail-grid .wide{grid-column:1/-1}.profile-link{display:inline-block;margin-top:.35rem;font-size:.72rem;font-weight:700;text-decoration:none}.profile-link:hover{text-decoration:underline}
 .no-results{padding:2rem;text-align:center;color:var(--ink3)}
-.method-note{margin-top:1.15rem;color:var(--ink3);font-size:.78rem}.method-note a{font-weight:700}
+.method-note{margin-top:1.15rem;color:var(--ink3);font-size:.78rem}.method-note a{font-weight:700}.content-return{display:flex;align-items:center;justify-content:space-between;gap:.8rem;margin:-.2rem 0 1.15rem;padding-bottom:.8rem;border-bottom:1px solid var(--rule)}.content-return a{font-size:.78rem;font-weight:700;text-decoration:none;color:var(--accent2)}.content-return a:hover{text-decoration:underline}.content-return span{color:var(--ink3);font-size:.72rem}
 
 .overview-title{margin-bottom:.45rem!important}.overview-lede{margin:0 0 1rem;color:var(--ink2);max-width:82ch}.overview-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.9rem;margin:1rem 0 1.7rem}.overview-card{border:1px solid var(--rule);border-radius:15px;padding:1rem 1.05rem;background:color-mix(in srgb,var(--paper) 90%,var(--soft));min-width:0}.overview-card h2{border:0!important;padding:0!important;margin:0 0 .5rem!important;font-size:1.08rem!important}.overview-card p{margin:.35rem 0;color:var(--ink2);font-size:.88rem}.overview-stats{display:flex;gap:.45rem;flex-wrap:wrap;margin-top:.75rem}.overview-stat{border:1px solid var(--rule);border-radius:999px;padding:.3rem .55rem;background:var(--paper);font-size:.72rem;color:var(--ink2)}.overview-stat b{color:var(--ink)}
 .section-block{margin-top:2.2rem;padding-top:1.6rem;border-top:1px solid var(--rule)}.section-block h2{border:0!important;padding-top:0!important;margin:.05rem 0 .4rem!important}.section-intro{margin:0 0 1rem;color:var(--ink2);font-size:.92rem;max-width:82ch}.policy-table{min-width:980px}.global-table{min-width:860px}.practice-table{min-width:1040px}.source-links{display:flex;flex-wrap:wrap;gap:.35rem;margin-top:.4rem}.source-links a{font-size:.68rem;font-weight:700;text-decoration:none;border-bottom:1px solid color-mix(in srgb,var(--accent) 40%,transparent)}.source-links a:hover{border-color:var(--accent)}.scope-note{margin:.8rem 0 0;color:var(--ink3);font-size:.76rem}
@@ -343,14 +343,21 @@ function drawNav(filter=''){
   document.querySelectorAll('[data-state]').forEach(b=>b.onclick=()=>{location.hash='state='+b.dataset.state});
 }
 function drawDocs(){
-  $('#docs').innerHTML='<button class="docbtn" data-overview="true">Overview &amp; tables</button>'+DOCS.map(d=>'<button class="docbtn" data-doc="'+d.key+'">'+esc(d.label)+'</button>').join('');
+  $('#docs').innerHTML='<button class="docbtn" data-overview="true">Research overview</button>'+DOCS.map(d=>'<button class="docbtn" data-doc="'+d.key+'">'+esc(d.label)+'</button>').join('');
   const overviewBtn=document.querySelector('[data-overview]');
-  if(overviewBtn)overviewBtn.onclick=()=>{history.pushState(null,'',location.pathname+location.search);route()};
+  if(overviewBtn)overviewBtn.onclick=()=>{location.hash='overview'};
   document.querySelectorAll('[data-doc]').forEach(b=>b.onclick=()=>{location.hash='doc='+b.dataset.doc});
 }
 function setActive(kind,key){
   document.querySelectorAll('.statebtn,.docbtn').forEach(b=>b.classList.remove('active'));
+  if(kind==='overview'){
+    const overview=document.querySelector('[data-overview]');if(overview)overview.classList.add('active');
+    return;
+  }
   const el=document.querySelector(kind==='state'?'[data-state="'+key+'"]':'[data-doc="'+key+'"]');if(el)el.classList.add('active');
+}
+function contentReturn(label='Research view'){
+  return '<div class="content-return"><a href="#overview">← Research overview</a><span>'+esc(label)+'</span></div>';
 }
 function relationshipCounts(){
   const counts={A:0,B:0,C:0,D:0,E:0};
@@ -520,30 +527,31 @@ function renderComparison(){
     '<p class="method-note">Plain-language labels are shown here; the A–E research codes remain internal. <a href="#doc=methodology">Methodology &amp; evidence rules</a></p>';
   renderComparisonBody();
   bindComparison();
-  setActive('','');
-  const overviewBtn=document.querySelector('[data-overview]');
-  if(overviewBtn)overviewBtn.classList.add('active');
+  setActive('overview','overview');
 }
 async function route(){
-  const params=new URLSearchParams(location.hash.slice(1));
+  const raw=location.hash.slice(1);
+  const params=new URLSearchParams(raw);
   const state=params.get('state'),doc=params.get('doc');
+  const overview=raw===''||raw==='overview';
   try{
     if(state){
-      const s=states.find(x=>x.slug===state);if(!s)return renderComparison();
+      const s=states.find(x=>x.slug===state);if(!s){location.hash='overview';return}
       $('#content').innerHTML='<p class="loading">Loading '+esc(s.name)+'…</p>';
       const md=await getText(ROOT+'us-states/'+s.file);
-      $('#content').innerHTML=composeStatePage(md,stateContexts[state]);
+      $('#content').innerHTML=contentReturn(s.name)+composeStatePage(md,stateContexts[state]);
       setActive('state',state);return;
     }
     if(doc){
-      const d=DOCS.find(x=>x.key===doc);if(!d)return renderComparison();
+      const d=DOCS.find(x=>x.key===doc);if(!d){location.hash='overview';return}
       $('#content').innerHTML='<p class="loading">Loading '+esc(d.label)+'…</p>';
       const md=await getText(ROOT+d.file);
-      $('#content').innerHTML=renderMarkdown(md);
+      $('#content').innerHTML=contentReturn(d.label)+renderMarkdown(md);
       setActive('doc',doc);return;
     }
-    renderComparison();
-  }catch(err){$('#content').innerHTML='<h1>Could not load this research file</h1><p>'+esc(err.message)+'</p>'}
+    if(overview){renderComparison();return}
+    location.hash='overview';
+  }catch(err){$('#content').innerHTML=contentReturn('Load error')+'<h1>Could not load this research file</h1><p>'+esc(err.message)+'</p>'}
 }
 async function init(){
   try{
@@ -559,6 +567,7 @@ async function init(){
 }
 $('#stateSearch').addEventListener('input',e=>drawNav(e.target.value));
 window.addEventListener('hashchange',route);
+window.addEventListener('popstate',route);
 $('#themeBtn').onclick=()=>{const next=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=next;try{localStorage.setItem('religion-knowledge-theme',next)}catch(e){}};
 init();
 </script>
