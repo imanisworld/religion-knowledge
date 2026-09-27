@@ -324,5 +324,1369 @@
       }
     ],
     "notes": "Tracked set: governor, lieutenant governor, attorney general, House speaker, Senate president pro tempore/equivalent, and chief justice."
+  },
+  {
+    "claim_id": "RL-POLABORT-001",
+    "claim_text": "Religious involvement is not uniform. Pew's 2026 data show large differences in abortion views by religious affiliation. The U.S. Conference of Catholic Bishops continues federal anti-abortion advocacy, while the National Council of Jewish Women actively advocates expanding abortion access.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/policy-influence.json",
+        "anchor": "POL-ABORTION"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#policy-overview"
+      }
+    ],
+    "notes": "Policy-influence claim. Evidence of religious public opinion, litigation, or advocacy is not treated as proof that religion caused a resulting law.",
+    "primary_sources": [
+      {
+        "source": "Dobbs v. Jackson Women's Health Organization",
+        "locator": "https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Pew — abortion views by religious affiliation, 2026",
+        "locator": "https://www.pewresearch.org/religion/fact-sheet/public-opinion-on-abortion/",
+        "stance": "supports"
+      },
+      {
+        "citation": "USCCB — 2026 pro-life policy advocacy",
+        "locator": "https://www.usccb.org/prolife/policy-issues",
+        "stance": "supports"
+      },
+      {
+        "citation": "NCJW — expanding abortion access",
+        "locator": "https://www.ncjw.org/work/reproductive-healthcare-access-equity/",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-POLABORT-002",
+    "claim_text": "Dobbs v. Jackson Women's Health Organization (2022) overruled Roe and Casey, leaving a state-by-state regulatory landscape alongside continuing federal statutory and constitutional disputes.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/policy-influence.json",
+        "anchor": "POL-ABORTION"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#policy-overview"
+      }
+    ],
+    "notes": "Legal-status overview claim; jurisdiction-specific applications should still be checked against current primary authority.",
+    "primary_sources": [
+      {
+        "source": "Dobbs v. Jackson Women's Health Organization",
+        "locator": "https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Pew — abortion views by religious affiliation, 2026",
+        "locator": "https://www.pewresearch.org/religion/fact-sheet/public-opinion-on-abortion/",
+        "stance": "supports"
+      },
+      {
+        "citation": "USCCB — 2026 pro-life policy advocacy",
+        "locator": "https://www.usccb.org/prolife/policy-issues",
+        "stance": "supports"
+      },
+      {
+        "citation": "NCJW — expanding abortion access",
+        "locator": "https://www.ncjw.org/work/reproductive-healthcare-access-equity/",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-POLLGBTQ-001",
+    "claim_text": "Religious positions are not uniform. Pew's Religious Landscape Study reports large differences among religious groups on same-sex marriage and LGBTQ issues, and a 2026 Pew survey found that some regular worship attenders report hearing clergy address homosexuality and transgender identity in different directions.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/policy-influence.json",
+        "anchor": "POL-LGBTQ-MARRIAGE"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#policy-overview"
+      }
+    ],
+    "notes": "Policy-influence claim. Evidence of religious public opinion, litigation, or advocacy is not treated as proof that religion caused a resulting law.",
+    "primary_sources": [
+      {
+        "source": "Obergefell v. Hodges",
+        "locator": "https://www.supremecourt.gov/opinions/boundvolumes/576BV.pdf"
+      },
+      {
+        "source": "Respect for Marriage Act, Pub. L. 117-228",
+        "locator": "https://www.govinfo.gov/app/details/PLAW-117publ228"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Pew — religion and LGBTQ views, 2025",
+        "locator": "https://www.pewresearch.org/religion/2025/02/26/religion-and-views-on-lgbtq-issues-and-abortion/",
+        "stance": "supports"
+      },
+      {
+        "citation": "Pew — political issues heard in church, 2026",
+        "locator": "https://www.pewresearch.org/religion/2026/05/27/what-political-issues-do-americans-hear-about-in-church/",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-POLLGBTQ-002",
+    "claim_text": "Obergefell v. Hodges (2015) recognizes a constitutional right of same-sex couples to marry. The Respect for Marriage Act also establishes federal and interstate recognition rules for marriages valid where entered. Other LGBTQ+ and religious-exemption questions vary by issue and jurisdiction.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/policy-influence.json",
+        "anchor": "POL-LGBTQ-MARRIAGE"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#policy-overview"
+      }
+    ],
+    "notes": "Legal-status overview claim; jurisdiction-specific applications should still be checked against current primary authority.",
+    "primary_sources": [
+      {
+        "source": "Obergefell v. Hodges",
+        "locator": "https://www.supremecourt.gov/opinions/boundvolumes/576BV.pdf"
+      },
+      {
+        "source": "Respect for Marriage Act, Pub. L. 117-228",
+        "locator": "https://www.govinfo.gov/app/details/PLAW-117publ228"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Pew — religion and LGBTQ views, 2025",
+        "locator": "https://www.pewresearch.org/religion/2025/02/26/religion-and-views-on-lgbtq-issues-and-abortion/",
+        "stance": "supports"
+      },
+      {
+        "citation": "Pew — political issues heard in church, 2026",
+        "locator": "https://www.pewresearch.org/religion/2026/05/27/what-political-issues-do-americans-hear-about-in-church/",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-POLSCHOOL-001",
+    "claim_text": "In Mahmoud v. Taylor, parents from multiple religious backgrounds challenged a public-school system's no-opt-out policy on Free Exercise grounds.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/policy-influence.json",
+        "anchor": "POL-SCHOOL-OPTOUTS"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#policy-overview"
+      }
+    ],
+    "notes": "Policy-influence claim. Evidence of religious public opinion, litigation, or advocacy is not treated as proof that religion caused a resulting law.",
+    "primary_sources": [
+      {
+        "source": "Mahmoud v. Taylor",
+        "locator": "https://www.supremecourt.gov/opinions/24pdf/24-297_4f14.pdf"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-POLSCHOOL-002",
+    "claim_text": "In Mahmoud v. Taylor (2025), the Supreme Court held that the parents were entitled to a preliminary injunction because they were likely to succeed on their claim that the challenged no-opt-out policy unconstitutionally burdened their religious exercise and the other preliminary-injunction factors were satisfied.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/policy-influence.json",
+        "anchor": "POL-SCHOOL-OPTOUTS"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#policy-overview"
+      }
+    ],
+    "notes": "Legal-status overview claim; jurisdiction-specific applications should still be checked against current primary authority.",
+    "primary_sources": [
+      {
+        "source": "Mahmoud v. Taylor",
+        "locator": "https://www.supremecourt.gov/opinions/24pdf/24-297_4f14.pdf"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-POLFUND-001",
+    "claim_text": "Religious-school participation raises Free Exercise and church-state questions when public benefit programs distinguish between religious and nonreligious schools.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/policy-influence.json",
+        "anchor": "POL-RELIGIOUS-SCHOOL-FUNDING"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#policy-overview"
+      }
+    ],
+    "notes": "Policy-influence claim. Evidence of religious public opinion, litigation, or advocacy is not treated as proof that religion caused a resulting law.",
+    "primary_sources": [
+      {
+        "source": "Carson v. Makin",
+        "locator": "https://www.supremecourt.gov/opinions/21pdf/20-1088_dbfi.pdf"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-POLFUND-002",
+    "claim_text": "Carson v. Makin (2022) held that Maine's nonsectarian requirement for its tuition-assistance program violated the Free Exercise Clause when it excluded otherwise eligible schools because they provided religious instruction.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/policy-influence.json",
+        "anchor": "POL-RELIGIOUS-SCHOOL-FUNDING"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#policy-overview"
+      }
+    ],
+    "notes": "Legal-status overview claim; jurisdiction-specific applications should still be checked against current primary authority.",
+    "primary_sources": [
+      {
+        "source": "Carson v. Makin",
+        "locator": "https://www.supremecourt.gov/opinions/21pdf/20-1088_dbfi.pdf"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-POLCONTRA-001",
+    "claim_text": "The federal contraceptive-mandate litigation includes religious employers and organizations that object to providing or facilitating contraceptive coverage on religious grounds.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/policy-influence.json",
+        "anchor": "POL-CONTRACEPTION-EXEMPTIONS"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#policy-overview"
+      }
+    ],
+    "notes": "Policy-influence claim. Evidence of religious public opinion, litigation, or advocacy is not treated as proof that religion caused a resulting law.",
+    "primary_sources": [
+      {
+        "source": "Little Sisters of the Poor v. Pennsylvania",
+        "locator": "https://www.supremecourt.gov/opinions/19pdf/19-431_5i36.pdf"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-POLCONTRA-002",
+    "claim_text": "Little Sisters of the Poor v. Pennsylvania (2020) held that federal agencies had statutory authority under the Affordable Care Act to create religious and moral exemptions to the contraceptive coverage requirement. The Court did not hold that RFRA itself required those exemptions.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/policy-influence.json",
+        "anchor": "POL-CONTRACEPTION-EXEMPTIONS"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#policy-overview"
+      }
+    ],
+    "notes": "Legal-status overview claim; jurisdiction-specific applications should still be checked against current primary authority.",
+    "primary_sources": [
+      {
+        "source": "Little Sisters of the Poor v. Pennsylvania",
+        "locator": "https://www.supremecourt.gov/opinions/19pdf/19-431_5i36.pdf"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-POLENDLIFE-001",
+    "claim_text": "The U.S. Conference of Catholic Bishops maintains institutional opposition to physician-assisted suicide and euthanasia. Other religious institutions and individuals may hold different views.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "medium",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/policy-influence.json",
+        "anchor": "POL-END-OF-LIFE"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#policy-overview"
+      }
+    ],
+    "notes": "Policy-influence claim. Evidence of religious public opinion, litigation, or advocacy is not treated as proof that religion caused a resulting law.",
+    "secondary_sources": [
+      {
+        "citation": "USCCB — assisted suicide & euthanasia",
+        "locator": "https://www.usccb.org/prolife/assisted-suicide-euthanasia",
+        "stance": "supports"
+      },
+      {
+        "citation": "Death with Dignity — 2026 legislative status",
+        "locator": "https://deathwithdignity.org/news/2026/06/end-of-session-legislative-update/",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-POLENDLIFE-002",
+    "claim_text": "Medical-aid-in-dying law is state-specific, and authorization, eligibility rules, and safeguards vary by jurisdiction. A current status tracker is used here only as an overview; a specific state's legal status should be verified against its primary law.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "medium",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/policy-influence.json",
+        "anchor": "POL-END-OF-LIFE"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#policy-overview"
+      }
+    ],
+    "notes": "Legal-status overview claim; jurisdiction-specific applications should still be checked against current primary authority.",
+    "secondary_sources": [
+      {
+        "citation": "USCCB — assisted suicide & euthanasia",
+        "locator": "https://www.usccb.org/prolife/assisted-suicide-euthanasia",
+        "stance": "supports"
+      },
+      {
+        "citation": "Death with Dignity — 2026 legislative status",
+        "locator": "https://deathwithdignity.org/news/2026/06/end-of-session-legislative-update/",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-POLIMMIG-001",
+    "claim_text": "Catholic (USCCB), Jewish (HIAS), and evangelical Christian (World Relief) organizations maintain active immigration and refugee advocacy programs, while their specific policy positions and priorities are not identical.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/policy-influence.json",
+        "anchor": "POL-IMMIGRATION-REFUGEES"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#policy-overview"
+      }
+    ],
+    "notes": "Policy-influence claim. Evidence of religious public opinion, litigation, or advocacy is not treated as proof that religion caused a resulting law.",
+    "primary_sources": [
+      {
+        "source": "Immigration and Nationality Act — GovInfo compilation",
+        "locator": "https://www.govinfo.gov/app/details/COMPS-1376"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "USCCB — migration policy and advocacy",
+        "locator": "https://www.usccb.org/migrationpolicy",
+        "stance": "supports"
+      },
+      {
+        "citation": "HIAS — refugee and asylum advocacy",
+        "locator": "https://hias.org/take-action/",
+        "stance": "supports"
+      },
+      {
+        "citation": "World Relief — faith and immigration advocacy",
+        "locator": "https://worldrelief.org/faith-in-action/",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-POLIMMIG-002",
+    "claim_text": "The Immigration and Nationality Act remains the core federal statutory framework, while executive policy, regulations, appropriations, and litigation can alter how particular programs operate.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/policy-influence.json",
+        "anchor": "POL-IMMIGRATION-REFUGEES"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#policy-overview"
+      }
+    ],
+    "notes": "Legal-status overview claim; jurisdiction-specific applications should still be checked against current primary authority.",
+    "primary_sources": [
+      {
+        "source": "Immigration and Nationality Act — GovInfo compilation",
+        "locator": "https://www.govinfo.gov/app/details/COMPS-1376"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "USCCB — migration policy and advocacy",
+        "locator": "https://www.usccb.org/migrationpolicy",
+        "stance": "supports"
+      },
+      {
+        "citation": "HIAS — refugee and asylum advocacy",
+        "locator": "https://hias.org/take-action/",
+        "stance": "supports"
+      },
+      {
+        "citation": "World Relief — faith and immigration advocacy",
+        "locator": "https://worldrelief.org/faith-in-action/",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-POLDEATH-001",
+    "claim_text": "Religious views differ. Pew's 2026 morality data show substantial differences by religious affiliation, while the U.S. Conference of Catholic Bishops advocates ending use of the death penalty.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/policy-influence.json",
+        "anchor": "POL-DEATH-PENALTY"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#policy-overview"
+      }
+    ],
+    "notes": "Policy-influence claim. Evidence of religious public opinion, litigation, or advocacy is not treated as proof that religion caused a resulting law.",
+    "primary_sources": [
+      {
+        "source": "DOJ Justice Manual — capital crimes",
+        "locator": "https://www.justice.gov/jm/jm-9-10000-capital-crimes"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Death Penalty Information Center — state by state",
+        "locator": "https://deathpenaltyinfo.org/state-and-federal-info/state-by-state",
+        "stance": "supports"
+      },
+      {
+        "citation": "Pew — morality and death penalty by religion, 2026",
+        "locator": "https://www.pewresearch.org/religion/2026/03/19/appendix-detailed-tables-us-morality/",
+        "stance": "supports"
+      },
+      {
+        "citation": "USCCB — death penalty policy and advocacy",
+        "locator": "https://www.usccb.org/committees/domestic-justice-and-human-development/death-penalty-capital-punishment",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-POLDEATH-002",
+    "claim_text": "Federal capital punishment remains authorized under federal law and Department of Justice procedures. State law varies: some states retain the death penalty and others have abolished it or do not carry out executions.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/policy-influence.json",
+        "anchor": "POL-DEATH-PENALTY"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#policy-overview"
+      }
+    ],
+    "notes": "Legal-status overview claim; jurisdiction-specific applications should still be checked against current primary authority.",
+    "primary_sources": [
+      {
+        "source": "DOJ Justice Manual — capital crimes",
+        "locator": "https://www.justice.gov/jm/jm-9-10000-capital-crimes"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Death Penalty Information Center — state by state",
+        "locator": "https://deathpenaltyinfo.org/state-and-federal-info/state-by-state",
+        "stance": "supports"
+      },
+      {
+        "citation": "Pew — morality and death penalty by religion, 2026",
+        "locator": "https://www.pewresearch.org/religion/2026/03/19/appendix-detailed-tables-us-morality/",
+        "stance": "supports"
+      },
+      {
+        "citation": "USCCB — death penalty policy and advocacy",
+        "locator": "https://www.usccb.org/committees/domestic-justice-and-human-development/death-penalty-capital-punishment",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-GLOBOFFREL-001",
+    "claim_text": "At the federal level, the First Amendment bars establishment of religion, and Article VI bars religious tests as qualifications for federal office or public trust.",
+    "claim_type": "direct_textual",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/global-legal-structure.json",
+        "anchor": "GLOBAL-OFFICIAL-RELIGION"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#global-overview"
+      }
+    ],
+    "notes": "U.S. structural comparison claim, scoped to the federal level and the project's verified baseline.",
+    "primary_sources": [
+      {
+        "source": "U.S. Constitution — First Amendment",
+        "locator": "https://constitution.congress.gov/constitution/amendment-1/"
+      },
+      {
+        "source": "U.S. Constitution — Article VI",
+        "locator": "https://constitution.congress.gov/constitution/article-6/"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Pew — official and favored religions, 2015 data",
+        "locator": "https://www.pewresearch.org/religion/2017/10/03/many-countries-favor-specific-religions-officially-or-unofficially/",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-GLOBOFFREL-002",
+    "claim_text": "Pew's 2015-based global study counted 43 countries with an official state religion and 40 more whose governments favored a religion. This is a dated comparative baseline, not a 2026 count.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/global-legal-structure.json",
+        "anchor": "GLOBAL-OFFICIAL-RELIGION"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#global-overview"
+      }
+    ],
+    "notes": "Comparative claim; source year, jurisdiction, and legal scope are preserved in the public row.",
+    "primary_sources": [
+      {
+        "source": "U.S. Constitution — First Amendment",
+        "locator": "https://constitution.congress.gov/constitution/amendment-1/"
+      },
+      {
+        "source": "U.S. Constitution — Article VI",
+        "locator": "https://constitution.congress.gov/constitution/article-6/"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Pew — official and favored religions, 2015 data",
+        "locator": "https://www.pewresearch.org/religion/2017/10/03/many-countries-favor-specific-religions-officially-or-unofficially/",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-GLOBBLASP-001",
+    "claim_text": "The First Amendment protects speech and bars establishment of religion. This project has not identified a federal offense that criminalizes blasphemy as such.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/global-legal-structure.json",
+        "anchor": "GLOBAL-BLASPHEMY"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#global-overview"
+      }
+    ],
+    "notes": "U.S. structural comparison claim, scoped to the federal level and the project's verified baseline.",
+    "primary_sources": [
+      {
+        "source": "U.S. Constitution — First Amendment",
+        "locator": "https://constitution.congress.gov/constitution/amendment-1/"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "USCIRF — blasphemy laws factsheet",
+        "locator": "https://www.uscirf.gov/publications/legislation-factsheet-blasphemy-laws",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-GLOBBLASP-002",
+    "claim_text": "USCIRF's 2023 compendium identified 95 countries with national-level legislation criminalizing expressions that insult or offend religious feelings, figures, or symbols.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/global-legal-structure.json",
+        "anchor": "GLOBAL-BLASPHEMY"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#global-overview"
+      }
+    ],
+    "notes": "Comparative claim; source year, jurisdiction, and legal scope are preserved in the public row.",
+    "primary_sources": [
+      {
+        "source": "U.S. Constitution — First Amendment",
+        "locator": "https://constitution.congress.gov/constitution/amendment-1/"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "USCIRF — blasphemy laws factsheet",
+        "locator": "https://www.uscirf.gov/publications/legislation-factsheet-blasphemy-laws",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-GLOBCONV-001",
+    "claim_text": "The First Amendment protects free exercise of religion. This project has not identified a federal regime that penalizes a person merely for changing or leaving a religion.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/global-legal-structure.json",
+        "anchor": "GLOBAL-CONVERSION-APOSTASY"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#global-overview"
+      }
+    ],
+    "notes": "U.S. structural comparison claim, scoped to the federal level and the project's verified baseline.",
+    "primary_sources": [
+      {
+        "source": "U.S. Constitution — First Amendment",
+        "locator": "https://constitution.congress.gov/constitution/amendment-1/"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "USCIRF — anti-conversion laws compendium",
+        "locator": "https://www.uscirf.gov/publications/anti-conversion-laws-compendium",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-GLOBCONV-002",
+    "claim_text": "USCIRF's 2023 compendium identified 46 countries with at least one national anti-conversion law in force, spanning anti-proselytism, interfaith-marriage, apostasy, and identity-documentation rules.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/global-legal-structure.json",
+        "anchor": "GLOBAL-CONVERSION-APOSTASY"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#global-overview"
+      }
+    ],
+    "notes": "Comparative claim; source year, jurisdiction, and legal scope are preserved in the public row.",
+    "primary_sources": [
+      {
+        "source": "U.S. Constitution — First Amendment",
+        "locator": "https://constitution.congress.gov/constitution/amendment-1/"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "USCIRF — anti-conversion laws compendium",
+        "locator": "https://www.uscirf.gov/publications/anti-conversion-laws-compendium",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-GLOBSOURCE-001",
+    "claim_text": "The federal Constitution contains no designation of a sacred text or religious doctrine as the source that federal legislation must follow; it instead bars establishment and religious tests.",
+    "claim_type": "direct_textual",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/global-legal-structure.json",
+        "anchor": "GLOBAL-RELIGIOUS-SOURCE-LAW"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#global-overview"
+      }
+    ],
+    "notes": "U.S. structural comparison claim, scoped to the federal level and the project's verified baseline.",
+    "primary_sources": [
+      {
+        "source": "U.S. Constitution — First Amendment",
+        "locator": "https://constitution.congress.gov/constitution/amendment-1/"
+      },
+      {
+        "source": "U.S. Constitution — Article VI",
+        "locator": "https://constitution.congress.gov/constitution/article-6/"
+      },
+      {
+        "source": "Saudi National Platform — Basic Law principles",
+        "locator": "https://my.gov.sa/en/content/govmechanism"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-GLOBSOURCE-002",
+    "claim_text": "Some constitutional systems expressly assign religious sources a foundational legal role. Saudi Arabia's Basic Law states that Islam is the state religion and that the Quran and Sunnah are the constitution.",
+    "claim_type": "direct_textual",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/global-legal-structure.json",
+        "anchor": "GLOBAL-RELIGIOUS-SOURCE-LAW"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#global-overview"
+      }
+    ],
+    "notes": "Comparative claim; source year, jurisdiction, and legal scope are preserved in the public row.",
+    "primary_sources": [
+      {
+        "source": "U.S. Constitution — First Amendment",
+        "locator": "https://constitution.congress.gov/constitution/amendment-1/"
+      },
+      {
+        "source": "U.S. Constitution — Article VI",
+        "locator": "https://constitution.congress.gov/constitution/article-6/"
+      },
+      {
+        "source": "Saudi National Platform — Basic Law principles",
+        "locator": "https://my.gov.sa/en/content/govmechanism"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-GLOBCOURT-001",
+    "claim_text": "This project has not identified an analogous federal system that assigns civil family-law jurisdiction according to a person's religion. Private religious arbitration and state family law are separate questions and are not summarized by this row.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/global-legal-structure.json",
+        "anchor": "GLOBAL-RELIGIOUS-COURTS"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#global-overview"
+      }
+    ],
+    "notes": "U.S. structural comparison claim, scoped to the federal level and the project's verified baseline.",
+    "primary_sources": [
+      {
+        "source": "Knesset — Rabbinical Courts Jurisdiction Law 1953",
+        "locator": "https://main.knesset.gov.il/EN/about/history/documents/kns2_rabbiniccourts_eng.pdf"
+      },
+      {
+        "source": "India Code — Muslim Personal Law (Shariat) Application Act 1937",
+        "locator": "https://www.indiacode.nic.in/bitstream/123456789/2303/1/A1937-26.pdf"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-GLOBCOURT-002",
+    "claim_text": "Some jurisdictions assign defined personal-status matters by religion. Israel's 1953 law gives rabbinical courts exclusive jurisdiction over marriage and divorce of Jews who are citizens or residents, and India's Muslim Personal Law (Shariat) Application Act specifies application of Muslim personal law in defined matters.",
+    "claim_type": "direct_textual",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/global-legal-structure.json",
+        "anchor": "GLOBAL-RELIGIOUS-COURTS"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#global-overview"
+      }
+    ],
+    "notes": "Comparative claim; source year, jurisdiction, and legal scope are preserved in the public row.",
+    "primary_sources": [
+      {
+        "source": "Knesset — Rabbinical Courts Jurisdiction Law 1953",
+        "locator": "https://main.knesset.gov.il/EN/about/history/documents/kns2_rabbiniccourts_eng.pdf"
+      },
+      {
+        "source": "India Code — Muslim Personal Law (Shariat) Application Act 1937",
+        "locator": "https://www.indiacode.nic.in/bitstream/123456789/2303/1/A1937-26.pdf"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACXMAS-001",
+    "claim_text": "Christmas Day is listed as a federal holiday on the Office of Personnel Management federal-holiday schedule.",
+    "claim_type": "direct_textual",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-CHRISTMAS-FEDERAL-HOLIDAY"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Formal-law/status claim for the institutional-practice comparison.",
+    "primary_sources": [
+      {
+        "source": "OPM — Federal Holidays",
+        "locator": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACXMAS-002",
+    "claim_text": "The federal work calendar therefore closes for most federal employees around a holiday explicitly named Christmas Day, subject to the statutory rules for weekend observance.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-CHRISTMAS-FEDERAL-HOLIDAY"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Observed government or institutional-practice claim; the source date and scope are preserved in the underlying record.",
+    "primary_sources": [
+      {
+        "source": "OPM — Federal Holidays",
+        "locator": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACXMAS-003",
+    "claim_text": "This documents Christian-origin terminology embedded in a federal civic calendar. It is not evidence that the United States has an official religion.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-CHRISTMAS-FEDERAL-HOLIDAY"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Interpretive claim intentionally distinguishes cultural or institutional visibility from legal establishment or coercion.",
+    "primary_sources": [
+      {
+        "source": "OPM — Federal Holidays",
+        "locator": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACEASTER-001",
+    "claim_text": "Easter is not listed as a federal employee holiday on the OPM federal-holiday schedule.",
+    "claim_type": "direct_textual",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-EASTER-WHITE-HOUSE"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Formal-law/status claim for the institutional-practice comparison.",
+    "primary_sources": [
+      {
+        "source": "OPM — Federal Holidays",
+        "locator": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "White House — 2026 Easter Egg Roll announcement",
+        "locator": "https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-announces-2026-white-house-easter-egg-roll/",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACEASTER-002",
+    "claim_text": "The White House continues an official Easter Egg Roll tradition dating to 1878; the 2026 event was held on April 6, 2026.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-EASTER-WHITE-HOUSE"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Observed government or institutional-practice claim; the source date and scope are preserved in the underlying record.",
+    "primary_sources": [
+      {
+        "source": "OPM — Federal Holidays",
+        "locator": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "White House — 2026 Easter Egg Roll announcement",
+        "locator": "https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-announces-2026-white-house-easter-egg-roll/",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACEASTER-003",
+    "claim_text": "This is evidence of Christian-origin cultural visibility in official government practice without federal-holiday status. The event is presented as a civic and family tradition rather than compelled religious observance.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-EASTER-WHITE-HOUSE"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Interpretive claim intentionally distinguishes cultural or institutional visibility from legal establishment or coercion.",
+    "primary_sources": [
+      {
+        "source": "OPM — Federal Holidays",
+        "locator": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "White House — 2026 Easter Egg Roll announcement",
+        "locator": "https://www.whitehouse.gov/briefings-statements/2026/02/first-lady-melania-trump-announces-2026-white-house-easter-egg-roll/",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACMOTTO-001",
+    "claim_text": "Congress added “under God” to the Pledge of Allegiance in 1954; federal legislation required “In God We Trust” on currency in 1955 and established it as the national motto in 1956.",
+    "claim_type": "direct_textual",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-CIVIC-RELIGIOUS-LANGUAGE"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Formal-law/status claim for the institutional-practice comparison.",
+    "primary_sources": [
+      {
+        "source": "Congressional Record — June 7, 1954",
+        "locator": "https://www.congress.gov/83/crecb/1954/06/07/GPO-CRECB-1954-pt6-8-2.pdf"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "U.S. House History — currency motto legislation",
+        "locator": "https://history.house.gov/Historical-Highlights/1951-2000/The-legislation-placing-In-God-We-Trust-on-national-currency/",
+        "stance": "supports"
+      },
+      {
+        "citation": "U.S. Mint — historical timeline",
+        "locator": "https://www.usmint.gov/learn/history/timeline",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACMOTTO-002",
+    "claim_text": "Religious language remains present in recurring federal civic symbols and currency.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-CIVIC-RELIGIOUS-LANGUAGE"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Observed government or institutional-practice claim; the source date and scope are preserved in the underlying record.",
+    "primary_sources": [
+      {
+        "source": "Congressional Record — June 7, 1954",
+        "locator": "https://www.congress.gov/83/crecb/1954/06/07/GPO-CRECB-1954-pt6-8-2.pdf"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "U.S. House History — currency motto legislation",
+        "locator": "https://history.house.gov/Historical-Highlights/1951-2000/The-legislation-placing-In-God-We-Trust-on-national-currency/",
+        "stance": "supports"
+      },
+      {
+        "citation": "U.S. Mint — historical timeline",
+        "locator": "https://www.usmint.gov/learn/history/timeline",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACMOTTO-003",
+    "claim_text": "These are explicit government religious references. Their presence is analytically separate from whether the federal government establishes an official religion.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-CIVIC-RELIGIOUS-LANGUAGE"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Interpretive claim intentionally distinguishes cultural or institutional visibility from legal establishment or coercion.",
+    "primary_sources": [
+      {
+        "source": "Congressional Record — June 7, 1954",
+        "locator": "https://www.congress.gov/83/crecb/1954/06/07/GPO-CRECB-1954-pt6-8-2.pdf"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "U.S. House History — currency motto legislation",
+        "locator": "https://history.house.gov/Historical-Highlights/1951-2000/The-legislation-placing-In-God-We-Trust-on-national-currency/",
+        "stance": "supports"
+      },
+      {
+        "citation": "U.S. Mint — historical timeline",
+        "locator": "https://www.usmint.gov/learn/history/timeline",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACCONG-001",
+    "claim_text": "Article VI of the U.S. Constitution bars a religious test as a qualification for federal office or public trust.",
+    "claim_type": "direct_textual",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-CONGRESS-RELIGIOUS-COMPOSITION"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Formal-law/status claim for the institutional-practice comparison.",
+    "primary_sources": [
+      {
+        "source": "U.S. Constitution — Article VI",
+        "locator": "https://constitution.congress.gov/constitution/article-6/"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Pew — Religious Composition of the 119th Congress",
+        "locator": "https://www.pewresearch.org/religion/2025/01/02/faith-on-the-hill-2025/",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACCONG-002",
+    "claim_text": "Pew reported that Christians made up 87% of voting members expected in the 119th Congress at its January 2025 convening, compared with 62% of U.S. adults; less than 1% of Congress was categorized as religiously unaffiliated, compared with 28% of U.S. adults.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-CONGRESS-RELIGIOUS-COMPOSITION"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Observed government or institutional-practice claim; the source date and scope are preserved in the underlying record.",
+    "primary_sources": [
+      {
+        "source": "U.S. Constitution — Article VI",
+        "locator": "https://constitution.congress.gov/constitution/article-6/"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Pew — Religious Composition of the 119th Congress",
+        "locator": "https://www.pewresearch.org/religion/2025/01/02/faith-on-the-hill-2025/",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACCONG-003",
+    "claim_text": "This establishes a dated representation difference. It does not establish why the difference exists and is not evidence of an informal religious test by itself.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-CONGRESS-RELIGIOUS-COMPOSITION"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Interpretive claim intentionally distinguishes cultural or institutional visibility from legal establishment or coercion.",
+    "primary_sources": [
+      {
+        "source": "U.S. Constitution — Article VI",
+        "locator": "https://constitution.congress.gov/constitution/article-6/"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Pew — Religious Composition of the 119th Congress",
+        "locator": "https://www.pewresearch.org/religion/2025/01/02/faith-on-the-hill-2025/",
+        "stance": "supports"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACSCHOOL-001",
+    "claim_text": "Current U.S. Department of Education guidance says public schools may teach about religion and religious holidays but may not observe holidays as religious events or promote student religious observance.",
+    "claim_type": "direct_textual",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-PUBLIC-SCHOOL-ACCOMMODATION"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Formal-law/status claim for the institutional-practice comparison.",
+    "primary_sources": [
+      {
+        "source": "U.S. Department of Education — 2026 prayer and religious-expression guidance",
+        "locator": "https://www.ed.gov/laws-and-policy/education-policy/guidance-on-constitutionally-protected-prayer-and-religious-expression-in-public-elementary-and-secondary-schools"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACSCHOOL-002",
+    "claim_text": "The same 2026 federal guidance recognizes religious excusals and accommodations in defined circumstances, including prayer, religious exercise, and religiously motivated requests for excusal.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-PUBLIC-SCHOOL-ACCOMMODATION"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Observed government or institutional-practice claim; the source date and scope are preserved in the underlying record.",
+    "primary_sources": [
+      {
+        "source": "U.S. Department of Education — 2026 prayer and religious-expression guidance",
+        "locator": "https://www.ed.gov/laws-and-policy/education-policy/guidance-on-constitutionally-protected-prayer-and-religious-expression-in-public-elementary-and-secondary-schools"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-PRACSCHOOL-003",
+    "claim_text": "This is an accommodation framework. Whether a particular district's default calendar or practice advantages one tradition requires district-specific evidence rather than a national assumption.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/records/institutional-practice.json",
+        "anchor": "PRACTICE-PUBLIC-SCHOOL-ACCOMMODATION"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#practice-overview"
+      }
+    ],
+    "notes": "Interpretive claim intentionally distinguishes cultural or institutional visibility from legal establishment or coercion.",
+    "primary_sources": [
+      {
+        "source": "U.S. Department of Education — 2026 prayer and religious-expression guidance",
+        "locator": "https://www.ed.gov/laws-and-policy/education-policy/guidance-on-constitutionally-protected-prayer-and-religious-expression-in-public-elementary-and-secondary-schools"
+      }
+    ]
   }
 ]
