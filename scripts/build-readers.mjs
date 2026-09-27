@@ -851,6 +851,20 @@ function buildTocHtml(toc) {
   }).join('\n');
 }
 
+function buildSitebar() {
+  return `<header class="rk-sitebar">
+  <div class="rk-sitebar-inner">
+    <a class="rk-brand" href="index.html">Religion Knowledge<small>Research library</small></a>
+    <nav class="rk-global-nav" aria-label="Site navigation">
+      <a href="index.html">Library</a>
+      <a href="search.html">Search</a>
+      <a href="religion-law.html">Religion &amp; Law</a>
+      <a href="app/">App</a>
+    </nav>
+  </div>
+</header>`;
+}
+
 // ── Docswitch HTML ────────────────────────────────────────────────────────────
 
 function buildDocswitch(currentHref) {
@@ -859,9 +873,7 @@ function buildDocswitch(currentHref) {
     return `<a${on ? ' class="on" href="#"' : ` href="${href}"`}>${label}</a>`;
   }).join('');
   const caret = `<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>`;
-  return `<div class="quicknav"><a class="app-link" href="app/" title="Open the app">App</a>` +
-    `<a class="search-link" href="search.html">Search</a></div>\n` +
-    `    <details class="library"><summary><span>Library</span>${caret}</summary>` +
+  return `<details class="library"><summary><span>Library</span>${caret}</summary>` +
     `<div class="docswitch">${docLinks}</div></details>`;
 }
 
@@ -1724,7 +1736,8 @@ function buildPage(doc, tocHtml, contentHtml) {
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 ${CSS}
-</style><script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script></head><body>
+</style><link rel="stylesheet" href="site-shell.css"><script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script></head><body class="rk-with-sitebar rk-reader-page">
+${buildSitebar()}
 <button id="menu" aria-label="Toggle navigation"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
 <div id="overlay"></div>
 <div id="progress"><i></i></div>
