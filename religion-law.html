@@ -35,8 +35,10 @@
 .section-block{margin-top:2.2rem;padding-top:1.6rem;border-top:1px solid var(--rule)}.section-block h2{border:0!important;padding-top:0!important;margin:.05rem 0 .4rem!important}.section-intro{margin:0 0 1rem;color:var(--ink2);font-size:.92rem;max-width:82ch}.policy-table{min-width:980px}.global-table{min-width:860px}.practice-table{min-width:1040px}.source-links{display:flex;flex-wrap:wrap;gap:.35rem;margin-top:.4rem}.source-links a{font-size:.68rem;font-weight:700;text-decoration:none;border-bottom:1px solid color-mix(in srgb,var(--accent) 40%,transparent)}.source-links a:hover{border-color:var(--accent)}.scope-note{margin:.8rem 0 0;color:var(--ink3);font-size:.76rem}
 .context-layer{margin:1.5rem 0 2rem;padding:1.05rem;border:1px solid var(--rule);border-radius:16px;background:color-mix(in srgb,var(--paper) 90%,var(--soft))}
 .context-layer h2{border:0!important;padding:0!important;margin:0 0 .4rem!important;font-size:1.45rem!important}.context-layer h3{font-family:var(--sans);font-size:.78rem!important;letter-spacing:.08em;text-transform:uppercase;color:var(--ink3);margin:1.2rem 0 .55rem!important}.context-intro{margin:.1rem 0 .85rem;color:var(--ink2);font-size:.9rem;max-width:82ch}.context-warning{margin:.65rem 0 1rem;padding:.68rem .8rem;border-left:3px solid var(--accent);background:var(--paper);border-radius:0 9px 9px 0;color:var(--ink2);font-size:.78rem}.context-meta{display:flex;flex-wrap:wrap;gap:.4rem;margin:.55rem 0 .8rem}.context-meta span{border:1px solid var(--rule);background:var(--paper);border-radius:999px;padding:.28rem .52rem;color:var(--ink2);font-size:.7rem}.share-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.55rem}.share-item{min-width:0;border:1px solid var(--rule);background:var(--paper);border-radius:11px;padding:.68rem .72rem}.share-value{display:block;font-family:var(--serif);font-size:1.42rem;line-height:1;color:var(--accent2);margin-bottom:.28rem}.share-label{display:block;font-size:.73rem;line-height:1.3;color:var(--ink2)}.context-summary{margin:.7rem 0;color:var(--ink2);font-size:.82rem}.context-source{display:inline-block;font-size:.72rem;font-weight:700;text-decoration:none;margin-top:.2rem}.context-source:hover{text-decoration:underline}.power-wrap{overflow:auto;border:1px solid var(--rule);border-radius:11px;background:var(--paper)}.power-table{width:100%;min-width:700px;border-collapse:collapse;font-size:.78rem;line-height:1.4}.power-table th,.power-table td{padding:.66rem .7rem;border-bottom:1px solid var(--rule);text-align:left;vertical-align:top}.power-table th{background:var(--ground);font-size:.62rem;letter-spacing:.07em;text-transform:uppercase;color:var(--ink3)}.power-table tr:last-child td{border-bottom:0}.affiliation{font-weight:700;color:var(--ink)}.affiliation.unknown{font-weight:500;color:var(--ink3)}.evidence-links{display:flex;gap:.35rem;flex-wrap:wrap}.evidence-links a{font-size:.68rem;font-weight:700;text-decoration:none}.context-empty{padding:.8rem;border:1px dashed var(--rule);border-radius:10px;color:var(--ink3);font-size:.8rem;background:var(--paper)}
+
+.reference-dashboard{display:grid;gap:1.2rem}.reference-lede{margin:.1rem 0 .25rem;color:var(--ink2);max-width:82ch}.reference-panel{border:1px solid var(--rule);border-radius:15px;padding:1rem;background:color-mix(in srgb,var(--paper) 92%,var(--soft))}.reference-panel h2{border:0!important;padding:0!important;margin:0 0 .35rem!important}.reference-panel .section-intro{margin-bottom:.8rem}.cheat-table{min-width:780px}.federal-table{min-width:980px}.category-code{display:inline-flex;align-items:center;justify-content:center;min-width:2rem;padding:.24rem .48rem;border-radius:999px;background:var(--soft);color:var(--accent2);font-size:.7rem;font-weight:800}.quick-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.65rem}.quick-card{border:1px solid var(--rule);border-radius:11px;padding:.72rem .78rem;background:var(--paper)}.quick-card b{display:block;margin-bottom:.16rem;color:var(--ink);font-size:.78rem}.quick-card span{display:block;color:var(--ink2);font-size:.8rem;line-height:1.45}.status-key{display:flex;flex-wrap:wrap;gap:.45rem}.status-key .status-item{display:flex;align-items:center;gap:.35rem;border:1px solid var(--rule);background:var(--paper);border-radius:999px;padding:.34rem .55rem;font-size:.72rem;color:var(--ink2)}.status-key .status-item b{color:var(--ink)}.federal-details{margin-top:.4rem}.federal-details summary{cursor:pointer;color:var(--accent2);font-size:.72rem;font-weight:700}.federal-details .detail-grid{margin-top:.45rem}
 @media(max-width:1100px){.shell{padding-left:1rem;padding-right:1rem}.layout{grid-template-columns:260px minmax(0,1fr);gap:1rem}.content{padding:1.5rem}.compare-table{font-size:.82rem}}
-@media(max-width:720px){
+@media(max-width:720px){.quick-grid{grid-template-columns:1fr}.reference-panel{padding:.85rem}.status-key{gap:.35rem}
   .table-wrap,.power-wrap{overflow:visible;border:0;background:transparent;box-shadow:none}
   .responsive-table{display:block;min-width:0!important;width:100%;background:transparent;border-collapse:separate}
   .responsive-table thead{display:none}
@@ -525,6 +527,234 @@ function renderGlobalTable(){
     '<div class="table-wrap"><table class="compare-table global-table responsive-table"><thead><tr><th>Issue</th><th>United States</th><th>Global comparison</th></tr></thead><tbody>'+
     GLOBAL_ROWS.map(r=>'<tr><td data-label="Issue"><div class="law-name">'+esc(r.issue)+'</div></td><td data-label="United States">'+esc(r.us)+'</td><td data-label="Global comparison">'+esc(r.global)+sourceLinks(r.sources)+'</td></tr>').join('')+
     '</tbody></table></div><p class="scope-note">Global counts are dated to the cited source year unless a current jurisdiction profile independently verifies them.</p></section>';
+}
+
+
+function parseHeadingSections(md,level){
+  const lines=md.replace(/\r/g,'').split('\n');
+  const sections=[];let current=null;
+  const re=new RegExp('^#{'+level+'}\\s+(.+)
+  if(!url)return'';
+  return '<a class="context-source" href="'+esc(url)+'" target="_blank" rel="noopener">'+esc(label||'Source')+' ↗</a>';
+}
+function renderStateContext(ctx){
+  if(!ctx)return'';
+  const pop=ctx.population||{},power=ctx.power||{},shares=pop.shares||[],holders=power.officeholders||[];
+  const verified=ctx.coverage_status==='verified_first_pass';
+  const meta=[
+    pop.survey_period?'<span>Pew survey: '+esc(pop.survey_period)+'</span>':'',
+    pop.margin_of_error?'<span>State MOE: '+esc(pop.margin_of_error)+'</span>':'',
+    ctx.last_verified?'<span>Context verified: '+esc(ctx.last_verified)+'</span>':'',
+    '<span>Coverage: '+(verified?'first pass coded':'coding pending')+'</span>'
+  ].filter(Boolean).join('');
+  const shareHtml=shares.length
+    ? '<div class="share-grid">'+shares.map(s=>'<div class="share-item"><span class="share-value">'+esc(s.value_display)+'</span><span class="share-label">'+esc(s.label)+'</span></div>').join('')+'</div>'+
+      (pop.summary_note?'<p class="context-summary">'+esc(pop.summary_note)+'</p>':'')
+    : '<div class="context-empty">Detailed state percentages have not yet been coded into this repository. The state-level Pew source is linked below.</div>';
+  const powerHtml=holders.length
+    ? '<div class="power-wrap"><table class="power-table responsive-table"><thead><tr><th>Power position</th><th>Current holder</th><th>Publicly documented religion</th><th>Evidence</th></tr></thead><tbody>'+
+      holders.map(h=>{
+        const links=[
+          h.office_source?'<a href="'+esc(h.office_source)+'" target="_blank" rel="noopener">Office ↗</a>':'',
+          h.affiliation_source?'<a href="'+esc(h.affiliation_source)+'" target="_blank" rel="noopener">Affiliation ↗</a>':''
+        ].filter(Boolean).join('');
+        const cls=h.affiliation_status==='unknown'?'affiliation unknown':'affiliation';
+        return '<tr><td data-label="Power position">'+esc(h.office)+'</td><td data-label="Current holder">'+esc(h.name)+'</td><td data-label="Publicly documented religion"><div class="'+cls+'">'+esc(h.affiliation)+'</div>'+(h.affiliation_detail?'<div class="law-subject">'+esc(h.affiliation_detail)+'</div>':'')+'</td><td data-label="Evidence"><div class="evidence-links">'+links+'</div>'+(h.source_note?'<div class="law-subject">'+esc(h.source_note)+'</div>':'')+'</td></tr>';
+      }).join('')+'</tbody></table></div>'+
+      (power.summary?'<p class="context-summary">'+esc(power.summary)+'</p>':'')
+    : '<div class="context-empty">The standard power-position review has not yet been completed for this state. Unknown affiliations will remain unknown rather than being inferred.</div>';
+  return '<section class="context-layer" id="religious-landscape-power">'+
+    '<h2>Religious landscape &amp; institutional power</h2>'+
+    '<p class="context-intro">State religious-composition estimates and publicly documented affiliations for selected officeholders. This layer is contextual and separate from the A–E law classifications.</p>'+
+    '<p class="context-warning"><strong>Do not read this as causation:</strong> a state’s religious population or an officeholder’s religion does not establish why a law exists.</p>'+
+    '<div class="context-meta">'+meta+'</div>'+
+    '<h3>Population religious composition</h3>'+shareHtml+contextSourceLink(pop.source_url,pop.source_name||'Population source')+
+    '<h3>Tracked positions of power</h3>'+powerHtml+
+    '<p class="scope-note">Power coverage uses a fixed state set: governor, lieutenant governor when applicable, attorney general, lower-chamber speaker, upper-chamber leader, and chief justice. <a href="#doc=state-context">Method &amp; sourcing rules</a></p>'+
+  '</section>';
+}
+function composeStatePage(md,ctx){
+  const page=renderMarkdown(md),context=renderStateContext(ctx);
+  if(!context)return page;
+  const at=page.indexOf('<h2');
+  return at>=0?page.slice(0,at)+context+page.slice(at):page+context;
+}
+
+function renderComparison(){
+  $('#content').innerHTML=
+    renderOverview()+
+    renderPracticeTable()+
+    '<section class="section-block"><div class="db-head"><div><h2>Compare laws</h2><p>Start with the relationship between religion and the rule, then check what the rule does and whether it still operates today.</p></div></div>'+
+    '<p class="note"><strong>Coverage note:</strong> This table currently shows records already normalized into structured data. State profiles contain additional verified baseline research that is still being converted into law-level records.</p>'+
+    renderFilters()+
+    '<div class="table-wrap"><table class="compare-table responsive-table law-table"><thead><tr><th>Law / rule</th><th>Place</th><th>Religion relationship</th><th>What it does / did</th><th>Current status</th></tr></thead><tbody id="comparisonBody"></tbody></table></div></section>'+
+    renderPolicyTable()+
+    renderGlobalTable()+
+    '<p class="method-note">Plain-language labels are shown here; the A–E research codes remain internal. <a href="#doc=methodology">Methodology &amp; evidence rules</a></p>';
+  renderComparisonBody();
+  bindComparison();
+  setActive('overview','overview');
+}
+async function route(){
+  const raw=location.hash.slice(1);
+  const params=new URLSearchParams(raw);
+  const state=params.get('state'),doc=params.get('doc');
+  const overview=raw===''||raw==='overview';
+  try{
+    if(state){
+      const s=states.find(x=>x.slug===state);if(!s){location.hash='overview';return}
+      $('#content').innerHTML='<p class="loading">Loading '+esc(s.name)+'…</p>';
+      const md=await getText(ROOT+'us-states/'+s.file);
+      $('#content').innerHTML=contentReturn(s.name)+composeStatePage(md,stateContexts[state]);
+      setActive('state',state);return;
+    }
+    if(doc){
+      const d=DOCS.find(x=>x.key===doc);if(!d){location.hash='overview';return}
+      $('#content').innerHTML='<p class="loading">Loading '+esc(d.label)+'…</p>';
+      const md=await getText(ROOT+d.file);
+      const rendered=doc==='methodology'?renderMethodologyReference(md):doc==='federal'?renderFederalReference(md):renderMarkdown(md);
+      $('#content').innerHTML=contentReturn(d.label)+rendered;
+      setActive('doc',doc);return;
+    }
+    if(overview){renderComparison();return}
+    location.hash='overview';
+  }catch(err){$('#content').innerHTML=contentReturn('Load error')+'<h1>Could not load this research file</h1><p>'+esc(err.message)+'</p>'}
+}
+async function init(){
+  try{
+    const data=await Promise.all([getText(INDEX),getJson(FEDERAL_RECORDS),getJson(STATE_RECORDS),getJson(MARYLAND_RECORDS),getJson(STATE_CONTEXT)]);
+    states=parseIndex(data[0]);
+    records=normalizeStructured(data[1]).concat(normalizeStructured(data[2]),normalizeMaryland(data[3]));
+    stateContexts=Object.fromEntries((data[4]||[]).map(x=>[x.slug,x]));
+    const verified=states.filter(s=>s.verified).length;
+    const contextCoded=Object.values(stateContexts).filter(x=>x.coverage_status==='verified_first_pass').length;
+    $('#metrics').innerHTML='<span class="metric"><b>'+states.length+'</b> states scaffolded</span><span class="metric"><b>'+verified+'</b> first-pass baselines verified</span><span class="metric"><b>'+records.length+'</b> structured comparison records</span><span class="metric"><b>'+contextCoded+'</b> state context profile coded</span>';
+    drawDocs();drawNav();route();
+  }catch(err){$('#content').innerHTML='<h1>Research index unavailable</h1><p>'+esc(err.message)+'</p>';$('#states').innerHTML='<div class="empty">Index unavailable.</div>'}
+}
+$('#stateSearch').addEventListener('input',e=>drawNav(e.target.value));
+window.addEventListener('hashchange',route);
+$('#themeBtn').onclick=()=>{const next=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=next;try{localStorage.setItem('religion-knowledge-theme',next)}catch(e){}};
+init();
+</script>
+</body>
+</html>);
+  const anyHeading=/^#{1,6}\s+/;
+  for(const raw of lines){
+    const line=raw.trim();
+    const hit=line.match(re);
+    if(hit){if(current)sections.push(current);current={title:hit[1],lines:[]};continue}
+    if(current&&anyHeading.test(line)){
+      const depth=(line.match(/^#+/)||[''])[0].length;
+      if(depth<=level){sections.push(current);current=null}
+    }
+    if(current)current.lines.push(raw);
+  }
+  if(current)sections.push(current);
+  return sections;
+}
+function sectionByTitle(md,title){
+  return parseHeadingSections(md,2).find(s=>s.title===title)||null;
+}
+function bulletFields(lines){
+  const fields={};
+  for(const raw of lines||[]){
+    const m=raw.trim().match(/^[-*•]\s+\*\*([^*]+):\*\*\s*(.*)$/);
+    if(m)fields[m[1].trim()]=m[2].trim();
+  }
+  return fields;
+}
+function numberedItems(lines){
+  const out=[];
+  for(const raw of lines||[]){
+    const line=raw.trim();
+    let m=line.match(/^\d+\.\s+\*\*([^*]+):\*\*\s*(.*)$/);
+    if(m){out.push({label:m[1].trim(),text:m[2].trim()});continue}
+    m=line.match(/^\d+\.\s+(.+)$/);
+    if(m)out.push({label:'',text:m[1].trim()});
+  }
+  return out;
+}
+function bulletItems(lines){
+  const out=[];
+  for(const raw of lines||[]){
+    const m=raw.trim().match(/^[-*•]\s+\*\*([^*]+):\*\*\s*(.*)$/);
+    if(m)out.push({label:m[1].trim(),text:m[2].trim()});
+  }
+  return out;
+}
+function proseFromLines(lines){
+  return (lines||[]).map(x=>x.trim()).filter(x=>x&&!/^[-*•]\s+/.test(x)&&!/^\d+\.\s+/.test(x)).join(' ').trim();
+}
+function renderMethodologyReference(md){
+  const classSections=parseHeadingSections(md,3);
+  const rows=[];
+  for(const s of classSections){
+    const code=(s.title.match(/^([A-E])\b/)||[])[1];
+    if(!code)continue;
+    if(code!=='D'){
+      rows.push({code,title:s.title.replace(/^[A-E]\s+[—-]\s+/,''),text:proseFromLines(s.lines)});
+      continue;
+    }
+    const fields=bulletFields(s.lines);
+    Object.entries(fields).forEach(([label,text])=>{
+      if(/^D[12]\b/.test(label)){
+        const parts=label.split(/\s+[—-]\s+/);
+        rows.push({code:parts[0],title:parts.slice(1).join(' — '),text});
+      }
+    });
+  }
+  const required=numberedItems((sectionByTitle(md,'Required separation')||{}).lines);
+  const evidence=numberedItems((sectionByTitle(md,'Evidence hierarchy')||{}).lines);
+  const statuses=bulletItems((sectionByTitle(md,'Status vocabulary')||{}).lines);
+  return '<div class="reference-dashboard">'+
+    '<div><h1>Methodology</h1><p class="reference-lede">Use this as the quick-reference version. The underlying methodology file remains the source of truth.</p></div>'+
+    '<section class="reference-panel"><h2>How to classify a law</h2><p class="section-intro">Pick the relationship supported by the evidence. D1 and D2 can both apply to the same rule.</p>'+
+      '<div class="table-wrap"><table class="compare-table responsive-table cheat-table"><thead><tr><th>Code</th><th>Plain-language category</th><th>Use when</th></tr></thead><tbody>'+
+      rows.map(r=>'<tr><td data-label="Code"><span class="category-code">'+esc(r.code)+'</span></td><td data-label="Category"><div class="law-name">'+esc(r.title)+'</div></td><td data-label="Use when">'+inline(r.text)+'</td></tr>').join('')+
+      '</tbody></table></div></section>'+
+    '<section class="reference-panel"><h2>What every record must separate</h2><div class="quick-grid">'+
+      required.map((x,i)=>'<div class="quick-card"><b>'+(i+1)+'. '+esc(x.label)+'</b><span>'+inline(x.text)+'</span></div>').join('')+
+      '</div></section>'+
+    '<section class="reference-panel"><h2>Evidence hierarchy</h2><div class="quick-grid">'+
+      evidence.map((x,i)=>'<div class="quick-card"><b>'+(i+1)+'. '+(i===0?'Primary / controlling':'Evidence level')+'</b><span>'+inline(x.text)+'</span></div>').join('')+
+      '</div></section>'+
+    '<section class="reference-panel"><h2>Status vocabulary</h2><div class="status-key">'+
+      statuses.map(x=>'<span class="status-item"><b>'+esc(x.label)+'</b> '+inline(x.text)+'</span>').join('')+
+      '</div></section>'+
+    '<p class="method-note">Need the full wording? <a href="'+ROOT+'methodology.md" target="_blank" rel="noopener">Open the source methodology ↗</a></p>'+
+  '</div>';
+}
+function renderFederalReference(md){
+  const sections=parseHeadingSections(md,2);
+  return '<div class="reference-dashboard">'+
+    '<div><h1>U.S. constitutional &amp; federal</h1><p class="reference-lede">A scan-first view of the federal rules and cases already documented in this module. Expand a row only when you need the nuance.</p></div>'+
+    '<section class="reference-panel"><div class="table-wrap"><table class="compare-table responsive-table federal-table"><thead><tr><th>Rule / case</th><th>Category</th><th>What it did</th><th>Religion connection</th><th>Status</th><th>Authority</th></tr></thead><tbody>'+
+    sections.map(s=>{
+      const f=bulletFields(s.lines);
+      const category=f.Category||'—';
+      const effect=f['Legal effect']||'—';
+      const connection=f['Religion connection']||f['Scope note']||'—';
+      const status=f.Status||'—';
+      const authority=f['Primary authority']||'See module';
+      const extra=[
+        f['Scope note']?'<div><b>Scope note</b>'+inline(f['Scope note'])+'</div>':'',
+        f['Competing context']?'<div><b>Competing context</b>'+inline(f['Competing context'])+'</div>':'',
+        f['Competing causes']?'<div><b>Competing causes</b>'+inline(f['Competing causes'])+'</div>':'',
+        f.Confidence?'<div><b>Confidence</b>'+inline(f.Confidence)+'</div>':''
+      ].filter(Boolean).join('');
+      return '<tr>'+
+        '<td data-label="Rule / case"><div class="law-name">'+inline(s.title)+'</div>'+(extra?'<details class="federal-details"><summary>More detail</summary><div class="detail-grid">'+extra+'</div></details>':'')+'</td>'+
+        '<td data-label="Category">'+inline(category)+'</td>'+
+        '<td data-label="What it did">'+inline(effect)+'</td>'+
+        '<td data-label="Religion connection">'+inline(connection)+'</td>'+
+        '<td data-label="Status"><span class="status '+statusKey(status)+'">'+esc(status)+'</span></td>'+
+        '<td data-label="Authority">'+inline(authority)+'</td>'+
+      '</tr>';
+    }).join('')+
+    '</tbody></table></div></section>'+
+    '<p class="method-note">This table is generated from <a href="'+ROOT+'us-constitutional-federal.md" target="_blank" rel="noopener">the federal research module ↗</a>; it is not a second copy of the research.</p>'+
+  '</div>';
 }
 
 function contextSourceLink(url,label){
