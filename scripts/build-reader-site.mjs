@@ -245,6 +245,30 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
   .card{padding-right:2.8rem}
   .card::after{right:1.1rem;top:1.2rem}
 }
+.section-head{
+  display:grid;
+  grid-template-columns:minmax(0,1fr) minmax(240px,420px);
+  gap:1rem 2rem;
+  align-items:end;
+  margin:2.8rem 0 1rem;
+}
+.section-head .section-label{margin:0 0 .32rem}
+.section-head h2{
+  margin:0;
+  font-family:var(--f-display);
+  font-size:1.55rem;
+  font-weight:500;
+  letter-spacing:-.02em;
+}
+.section-head>p{
+  margin:0;
+  color:var(--ink3);
+  font-size:.9rem;
+  line-height:1.55;
+}
+@media(max-width:720px){
+  .section-head{grid-template-columns:1fr;gap:.35rem;margin-top:2.35rem}
+}
 </style>
 <link rel="stylesheet" href="site-shell.css">
 <script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script>
@@ -265,20 +289,29 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
   <div class="hero">
     <p class="eyebrow">Research library</p>
     <h1>Religion Knowledge</h1>
-    <p>A source-forward research library for biblical texts, religion, history, law, belief, and claim auditing. Use the readers for focused research or open the app to explore the structured record set.</p>
+    <p>A source-forward library for biblical texts, religion, history, law, belief, and claim auditing. Start with a focused reader, search across the corpus, or use the structured app to trace records and provenance.</p>
   </div>
   <a class="app-card" href="app/">
-    <h2>Open the app</h2>
-    <p>Browse every record with provenance intact — search, topics, questions, audits, and the review queue.</p>
+    <h2>Explore the structured app</h2>
+    <p>Best for cross-document browsing: records, topics, questions, audits, provenance, and the review queue.</p>
   </a>
-  <p class="section-label">Research library</p>
+  <div class="section-head">
+    <div><p class="section-label">Research library</p><h2>Browse by research area</h2></div>
+    <p>Focused readers keep each line of research readable without flattening the whole project into one feed.</p>
+  </div>
   <div class="grid">${researchCards}
   </div>
-  <p class="section-label">Personal record</p>
-  <div class="grid compact-grid">${personalCards}
+  <div class="section-head">
+    <div><p class="section-label">Discovery</p><h2>Find something specific</h2></div>
+    <p>Search across readers, cited persons, and the Religion &amp; Law research set.</p>
   </div>
-  <p class="section-label">Discovery</p>
   <div class="grid compact-grid">${discoveryCards}
+  </div>
+  <div class="section-head">
+    <div><p class="section-label">Personal record</p><h2>Belief history</h2></div>
+    <p>A separate reconstruction of what you remember believing at different stages, with unknowns preserved.</p>
+  </div>
+  <div class="grid compact-grid">${personalCards}
   </div>
 </main>
 <script>
