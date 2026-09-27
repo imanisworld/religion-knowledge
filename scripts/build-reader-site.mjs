@@ -176,6 +176,31 @@ main>.hero>p{color:var(--ink2);margin:0;max-width:62ch;font-size:1.03rem}
   }
   :root:not([data-theme=light]) .app-card p{color:#E8CCD3}
 }
+
+/* ---------- landing readability refinement ---------- */
+body{line-height:1.66}
+main{padding-top:5.5rem}
+.hero{max-width:760px;margin-bottom:2.8rem}
+main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
+.app-card{padding:1.8rem 1.9rem}
+.app-card h2{font-size:1.55rem}
+.app-card p{font-size:.98rem;line-height:1.62}
+.section-label{margin-top:2.5rem}
+.card{min-height:156px;padding:1.45rem 1.5rem}
+.card h2{font-size:1.26rem;line-height:1.25}
+.card p{font-size:.96rem;line-height:1.62}
+.app-card:focus-visible,.card:focus-visible{
+  outline:3px solid color-mix(in srgb,var(--accent) 34%,transparent);
+  outline-offset:3px
+}
+:root[data-theme=dark]{--ink2:#D1C5C9;--ink3:#AA9CA1;--rule:#44343A}
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]){--ink2:#D1C5C9;--ink3:#AA9CA1;--rule:#44343A}}
+@media(max-width:620px){
+  main{padding-top:4rem}
+  main>.hero>p{font-size:1rem}
+  .app-card{padding:1.5rem 1.4rem}
+  .card{padding:1.25rem 1.3rem}
+}
 </style>
 <script>try{var __t=localStorage.getItem("religion-knowledge-theme");if(__t)document.documentElement.dataset.theme=__t}catch(e){}</script>
 </head><body>
