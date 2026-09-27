@@ -291,7 +291,7 @@
   {
     "claim_id": "RL-POLABORT-002",
     "claim_text": "Dobbs v. Jackson Women's Health Organization (2022) overruled Roe and Casey, leaving a state-by-state regulatory landscape alongside continuing federal statutory and constitutional disputes.",
-    "claim_type": "direct_textual",
+    "claim_type": "historical_date_event",
     "status": "verified_with_qualification",
     "confidence": "high",
     "last_verified": "2026-09-27",
@@ -376,7 +376,7 @@
   {
     "claim_id": "RL-POLLGBTQ-002",
     "claim_text": "Obergefell v. Hodges (2015) recognizes a constitutional right of same-sex couples to marry. The Respect for Marriage Act also establishes federal and interstate recognition rules for marriages valid where entered. Other LGBTQ+ and religious-exemption questions vary by issue and jurisdiction.",
-    "claim_type": "direct_textual",
+    "claim_type": "historical_interpretation",
     "status": "verified_with_qualification",
     "confidence": "high",
     "last_verified": "2026-09-27",
@@ -444,7 +444,7 @@
   {
     "claim_id": "RL-POLSCHOOL-002",
     "claim_text": "In Mahmoud v. Taylor (2025), the Supreme Court held that the parents were entitled to a preliminary injunction because they were likely to succeed on their claim that the challenged no-opt-out policy unconstitutionally burdened their religious exercise and the other preliminary-injunction factors were satisfied.",
-    "claim_type": "direct_textual",
+    "claim_type": "historical_date_event",
     "status": "verified_with_qualification",
     "confidence": "high",
     "last_verified": "2026-09-27",
@@ -496,7 +496,7 @@
   {
     "claim_id": "RL-POLFUND-002",
     "claim_text": "Carson v. Makin (2022) held that Maine's nonsectarian requirement for its tuition-assistance program violated the Free Exercise Clause when it excluded otherwise eligible schools because they provided religious instruction.",
-    "claim_type": "direct_textual",
+    "claim_type": "historical_date_event",
     "status": "verified_with_qualification",
     "confidence": "high",
     "last_verified": "2026-09-27",
@@ -548,7 +548,7 @@
   {
     "claim_id": "RL-POLCONTRA-002",
     "claim_text": "Little Sisters of the Poor v. Pennsylvania (2020) held that federal agencies had statutory authority under the Affordable Care Act to create religious and moral exemptions to the contraceptive coverage requirement. The Court did not hold that RFRA itself required those exemptions.",
-    "claim_type": "direct_textual",
+    "claim_type": "historical_date_event",
     "status": "verified_with_qualification",
     "confidence": "high",
     "last_verified": "2026-09-27",
@@ -606,7 +606,7 @@
   {
     "claim_id": "RL-POLENDLIFE-002",
     "claim_text": "Medical-aid-in-dying law is state-specific, and authorization, eligibility rules, and safeguards vary by jurisdiction. A current status tracker is used here only as an overview; a specific state's legal status should be verified against its primary law.",
-    "claim_type": "direct_textual",
+    "claim_type": "historical_interpretation",
     "status": "verified_with_qualification",
     "confidence": "medium",
     "last_verified": "2026-09-27",
@@ -681,7 +681,7 @@
   {
     "claim_id": "RL-POLIMMIG-002",
     "claim_text": "The Immigration and Nationality Act remains the core federal statutory framework, while executive policy, regulations, appropriations, and litigation can alter how particular programs operate.",
-    "claim_type": "direct_textual",
+    "claim_type": "historical_interpretation",
     "status": "verified_with_qualification",
     "confidence": "high",
     "last_verified": "2026-09-27",
@@ -767,7 +767,7 @@
   {
     "claim_id": "RL-POLDEATH-002",
     "claim_text": "Federal capital punishment remains authorized under federal law and Department of Justice procedures. State law varies: some states retain the death penalty and others have abolished it or do not carry out executions.",
-    "claim_type": "direct_textual",
+    "claim_type": "historical_interpretation",
     "status": "verified_with_qualification",
     "confidence": "high",
     "last_verified": "2026-09-27",
@@ -884,7 +884,7 @@
   {
     "claim_id": "RL-GLOBBLASP-001",
     "claim_text": "The First Amendment protects speech and bars establishment of religion. This project has not identified a federal offense that criminalizes blasphemy as such.",
-    "claim_type": "direct_textual",
+    "claim_type": "historical_interpretation",
     "status": "verified_with_qualification",
     "confidence": "high",
     "last_verified": "2026-09-27",
@@ -950,7 +950,7 @@
   {
     "claim_id": "RL-GLOBCONV-001",
     "claim_text": "The First Amendment protects free exercise of religion. This project has not identified a federal regime that penalizes a person merely for changing or leaving a religion.",
-    "claim_type": "direct_textual",
+    "claim_type": "historical_interpretation",
     "status": "verified_with_qualification",
     "confidence": "high",
     "last_verified": "2026-09-27",
@@ -1084,7 +1084,7 @@
   {
     "claim_id": "RL-GLOBCOURT-001",
     "claim_text": "This project has not identified an analogous federal system that assigns civil family-law jurisdiction according to a person's religion. Private religious arbitration and state family law are separate questions and are not summarized by this row.",
-    "claim_type": "direct_textual",
+    "claim_type": "historical_interpretation",
     "status": "verified_with_qualification",
     "confidence": "high",
     "last_verified": "2026-09-27",
