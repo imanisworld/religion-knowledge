@@ -231,6 +231,7 @@
     return details;
   };
 
+  const docName = document.querySelector('.reader-doc')?.textContent.trim();
   const intro = document.getElementById('sec-intro');
   let introDetails = null;
   if (intro) {
@@ -241,8 +242,10 @@
       'Provenance, scope, reading context, and marker definitions'
     );
 
-    const duplicateHowto = document.querySelector('main > .howto');
-    if (duplicateHowto) duplicateHowto.remove();
+    if (docName !== 'Cited Persons') {
+      const duplicateHowto = document.querySelector('main > .howto');
+      if (duplicateHowto) duplicateHowto.remove();
+    }
 
     if (introDetails) {
       const openForHighlight = () => {
@@ -256,7 +259,6 @@
     }
   }
 
-  const docName = document.querySelector('.reader-doc')?.textContent.trim();
   if (docName === 'Cited Persons') {
     document.body.classList.add('rk-cited-persons-page');
     if (search) search.placeholder = 'Search name, field, affiliation, or flag…';
