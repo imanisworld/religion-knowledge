@@ -52,6 +52,11 @@
 - South Carolina Legislature — Code of Laws: https://www.scstatehouse.gov/code/statmast.php
 - South Carolina Judicial Branch — Published opinions: https://www.sccourts.org/opinions-orders/opinions/published-opinions/
 - South Dakota Legislature — Constitution and Codified Laws: https://sdlegislature.gov/Statutes
+- Tennessee Secretary of State — Constitution: https://publications.tnsosfiles.com/pub/2023%20TN%20Constitution.pdf
+- Tennessee General Assembly — legislation and public acts: https://www.capitol.tn.gov/
+- Utah Legislature — Constitution and Utah Code: https://le.utah.gov/xcode/
+- Vermont General Assembly — Constitution and statutes: https://legislature.vermont.gov/statutes/
+- Virginia Law — Constitution and Code of Virginia: https://law.lis.virginia.gov/
 
 ## Comparative research hubs
 
