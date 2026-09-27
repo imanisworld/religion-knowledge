@@ -1,0 +1,72 @@
+{
+  "id": "claim_yahweh_el_assimilation",
+  "subject_type": "Deity",
+  "subject_id": "dty_yahweh_early_israelite",
+  "statement": "A major strand of scholarship reconstructs a historical convergence in which Yahweh came to absorb or be identified with El's titles, functions, and senior position within Israelite religion; this is a merger/assimilation model, not a claim that Yahweh and El were always identical.",
+  "claim_tier": "INTERPRETATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Levant"
+  ],
+  "evidence_types": [
+    "INSCRIPTION",
+    "LINGUISTIC",
+    "COMPARATIVE_RECONSTRUCTION"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Mark S. Smith, The Origins of Biblical Monotheism (Oxford University Press, 2001), ch. 7, “El, Yahweh, and the Original God of Israel and the Exodus.”",
+      "author": "Mark S. Smith",
+      "year": 2001,
+      "venue": "Oxford University Press",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Oxford contents and chapter metadata explicitly frame El/Yahweh and the original god of Israel as a historical problem."
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Theodore J. Lewis, The Origin and Character of God (Oxford University Press, 2020), ch. 4, “El Worship,” and ch. 6, “The Origin of Yahweh.”",
+      "author": "Theodore J. Lewis",
+      "year": 2020,
+      "venue": "Oxford University Press",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Lewis separately treats El worship and Yahweh's historical origin, allowing convergence to be modeled without collapsing the two origin questions."
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "John Day, Yahweh and the Gods and Goddesses of Canaan (Sheffield Academic Press, 2000), ch. 1, “Yahweh and El.”",
+      "author": "John Day",
+      "year": 2000,
+      "venue": "Sheffield Academic Press",
+      "contemporary_with_event": false,
+      "independent_corroboration": true,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Book contents identify Yahweh-and-El as a dedicated historical-comparative chapter."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "This does not demonstrate that Yahweh and El were always the same deity.",
+    "This does not settle Yahweh's geographic origin; a southern-origin model can coexist with later El/Yahweh convergence.",
+    "This does not make every Hebrew use of 'el' a reference to the Canaanite proper-name deity."
+  ],
+  "adversarial_counter": "Yahweh's earliest origin may lie outside the Canaanite pantheon, making the historically reconstructed El/Yahweh relationship a later assimilation rather than original identity.",
+  "status": "verified",
+  "notes": "Backs the Deity identification edge."
+}
