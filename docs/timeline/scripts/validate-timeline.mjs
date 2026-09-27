@@ -55,6 +55,14 @@ const EDGE_TYPES = [
   'CULTURAL_FUSION', 'DEITY_IDENTIFICATION', 'DEITY_RENAMING', 'SHARED_ANCESTRY',
   'GENE_FLOW', 'PATRONAGE', 'UNCERTAIN_CONNECTION',
 ];
+// HANDOFF §31 / Phase 5: motif similarity is searchable but never implies influence.
+const NARRATIVE_MOTIF_TAGS = [
+  'PRIMORDIAL_WATER', 'CHAOS', 'COSMIC_EGG', 'EARTH_CLAY_HUMAN',
+  'CREATION_BY_SPEECH', 'CREATION_BY_THOUGHT', 'DIVINE_SEXUAL_REPRODUCTION',
+  'WORLD_PARENTS', 'PRIMORDIAL_BEING', 'CREATION_FROM_BODY', 'COSMIC_SACRIFICE',
+  'DIVINE_WAR', 'FLOOD', 'FAILED_HUMAN_CREATIONS', 'MAIZE_PLANT_CREATION',
+  'ANCESTRAL_LANDSCAPE_CREATION', 'EMERGENCE_FROM_UNDERWORLD',
+];
 // SPEC.md §5.2: TraditionDating object's six keys — any may be null, dating_summary mandatory.
 const TRADITION_DATING_KEYS = [
   'earliest_archaeological_evidence', 'earliest_written_attestation',
@@ -153,6 +161,7 @@ const ENTITY_DIR_TYPES = {
   polities: 'Polity',
   traditions: 'Tradition',
   deities: 'Deity',
+  narratives: 'Narrative',
   gender_systems: 'GenderSystem',
 };
 
@@ -189,6 +198,8 @@ for (const file of entityFiles) {
     validateTradition(data, rel);
   } else if (type === 'Deity') {
     validateDeity(data, rel);
+  } else if (type === 'Narrative') {
+    validateNarrative(data, rel);
   } else if (type === 'GenderSystem') {
     validateGenderSystem(data, rel);
   }
@@ -301,6 +312,40 @@ function validateTradition(t, rel) {
         fail(`${label}: relationships entries must cite a backing claim_id — an influence edge without an asserting source is invalid (SPEC.md §7.2)`);
       }
       // cross-reference resolved after claims are loaded, below
+    }
+  }
+}
+
+function validateNarrative(n, rel) {
+  if (!n.name) fail(`${rel}: Narrative missing name`);
+  if (!['creation_narrative', 'cosmology', 'sacred_narrative'].includes(n.genre)) {
+    fail(`${rel}: Narrative genre "${n.genre}" invalid`);
+  }
+  checkRegionLabels(n.region, rel);
+  if (!Array.isArray(n.region) || n.region.length === 0) fail(`${rel}: Narrative must have at least one region tag`);
+  if (!Array.isArray(n.motif_tags) || n.motif_tags.length === 0) {
+    fail(`${rel}: Narrative must have at least one motif_tags entry (HANDOFF §31)`);
+  } else {
+    const seen = new Set();
+    for (const tag of n.motif_tags) {
+      if (!NARRATIVE_MOTIF_TAGS.includes(tag)) fail(`${rel}: motif_tags entry "${tag}" is not in the controlled Phase 5 vocabulary`);
+      if (seen.has(tag)) fail(`${rel}: duplicate motif tag "${tag}"`);
+      seen.add(tag);
+    }
+  }
+  checkTraditionDating(n.dating, rel);
+  for (const key of TRADITION_DATING_KEYS) {
+    if (!(key in n.dating)) fail(`${rel}: Narrative dating must explicitly include ${key} (value may be null)`);
+  }
+  if (!Array.isArray(n.relationships)) {
+    fail(`${rel}: Narrative relationships must be an array; empty is valid`);
+  } else {
+    for (const [i, edge] of n.relationships.entries()) {
+      const label = `${rel} relationships[${i}]`;
+      if (!edge.target_id) fail(`${label}: missing target_id`);
+      if (!EDGE_TYPES.includes(edge.edge_type)) fail(`${label}: edge_type "${edge.edge_type}" invalid`);
+      if (!CONFIDENCE_LEVELS.includes(edge.confidence)) fail(`${label}: confidence "${edge.confidence}" invalid`);
+      if (!edge.claim_id) fail(`${label}: every Narrative relationship requires a sourced backing claim_id; motif similarity alone is not influence`);
     }
   }
 }
@@ -500,7 +545,7 @@ for (const [id, { data: claim, file }] of claimsById) {
   if (!SUBJECT_TYPES.includes(claim.subject_type)) {
     fail(`${label}: subject_type "${claim.subject_type}" not recognized`);
   }
-  const ENTITY_BACKED_SUBJECT_TYPES = ['Population', 'WritingSystem', 'Text', 'Culture', 'Polity', 'Tradition', 'Deity', 'GenderSystem'];
+  const ENTITY_BACKED_SUBJECT_TYPES = ['Population', 'WritingSystem', 'Text', 'Culture', 'Polity', 'Tradition', 'Deity', 'Narrative', 'GenderSystem'];
   if (!claim.subject_id) {
     fail(`${label}: missing subject_id`);
   } else if (ENTITY_BACKED_SUBJECT_TYPES.includes(claim.subject_type)) {
@@ -655,6 +700,18 @@ for (const [entId, { data, type, file }] of entitiesById) {
       if (edge.claim_id && !claimsById.has(edge.claim_id)) {
         fail(`${label}: claim_id "${edge.claim_id}" does not resolve to any loaded claim`);
       }
+    }
+  }
+  if (type === 'Narrative') {
+    if (data.tradition_id) {
+      const target = entitiesById.get(data.tradition_id);
+      if (!target) fail(`${rel}: tradition_id "${data.tradition_id}" does not resolve to any loaded entity`);
+      else if (target.type !== 'Tradition') fail(`${rel}: tradition_id "${data.tradition_id}" resolves to a ${target.type}, not Tradition`);
+    }
+    for (const [i, edge] of (data.relationships || []).entries()) {
+      const label = `${rel} relationships[${i}]`;
+      if (edge.target_id && !entitiesById.has(edge.target_id)) fail(`${label}: target_id "${edge.target_id}" does not resolve to any loaded entity`);
+      if (edge.claim_id && !claimsById.has(edge.claim_id)) fail(`${label}: claim_id "${edge.claim_id}" does not resolve to any loaded claim`);
     }
   }
   if (type === 'Deity' && data.identifications) {
