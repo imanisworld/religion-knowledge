@@ -201,6 +201,30 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
   .app-card{padding:1.5rem 1.4rem}
   .card{padding:1.25rem 1.3rem}
 }
+
+/* ---------- landing interface refinement ---------- */
+.grid{gap:1.1rem}
+.card{position:relative;padding-right:3.2rem}
+.card::after{
+  content:"→";
+  position:absolute;
+  right:1.3rem;
+  top:1.35rem;
+  color:var(--accent);
+  opacity:.55;
+  transition:transform .16s ease,opacity .16s ease
+}
+.card:hover::after,.card:focus-visible::after{transform:translateX(.18rem);opacity:1}
+.section-label{
+  font-family:var(--f-body);
+  font-size:.76rem;
+  font-weight:600;
+  letter-spacing:.08em
+}
+@media(max-width:620px){
+  .card{padding-right:2.8rem}
+  .card::after{right:1.1rem;top:1.2rem}
+}
 </style>
 <script>try{var __t=localStorage.getItem("religion-knowledge-theme");if(__t)document.documentElement.dataset.theme=__t}catch(e){}</script>
 </head><body>
