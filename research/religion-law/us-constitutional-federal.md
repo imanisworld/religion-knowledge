@@ -4,7 +4,7 @@
 
 ## U.S. Constitution, Article VI, clause 3
 
-- **Category:** D — Religion-limiting rule
+- **Category:** D2 — Limits government religious power
 - **Legal effect:** No religious test may be required as a qualification for any federal office or public trust.
 - **Primary authority:** U.S. Constitution, Article VI, clause 3.
 - **Scope note:** The clause directly addresses federal office. State religious qualifications require separate analysis under later Fourteenth Amendment doctrine.
@@ -13,7 +13,7 @@
 
 ## First Amendment religion clauses
 
-- **Category:** D — Religion-limiting rule
+- **Category:** D1 / D2 — Protects religious exercise and limits government religious power
 - **Legal effect:** Congress may not make a law respecting an establishment of religion or prohibiting the free exercise thereof.
 - **Primary authority:** U.S. Constitution, Amendment I.
 - **Scope note:** Establishment and Free Exercise doctrine are separate, fact-dependent bodies of Supreme Court law.
@@ -22,7 +22,7 @@
 
 ## Torcaso v. Watkins
 
-- **Category:** D — Religion-limiting rule
+- **Category:** D2 — Limits government religious power
 - **Legal effect:** Invalidated Maryland’s requirement that an applicant for notary public declare belief in God.
 - **Primary authority:** *Torcaso v. Watkins*, 367 U.S. 488 (1961).
 - **Scope note:** State constitutional religious-test language can remain printed while being constitutionally unenforceable.
@@ -31,7 +31,7 @@
 
 ## Engel v. Vitale
 
-- **Category:** D — Religion-limiting rule
+- **Category:** D2 — Limits government religious power
 - **Legal effect:** Held unconstitutional the official use of a state-composed prayer in public schools.
 - **Primary authority:** *Engel v. Vitale*, 370 U.S. 421 (1962).
 - **Scope note:** This holding does not ban private religious expression or private prayer in public schools.
@@ -40,7 +40,7 @@
 
 ## Abington School District v. Schempp
 
-- **Category:** D — Religion-limiting rule
+- **Category:** D2 — Limits government religious power
 - **Legal effect:** Invalidated required devotional Bible readings and recitation of the Lord’s Prayer in public schools.
 - **Primary authority:** *Abington School District v. Schempp*, 374 U.S. 203 (1963).
 - **Scope note:** Neutral academic study of religion or the Bible is analytically distinct from devotional exercise.
@@ -49,7 +49,7 @@
 
 ## Epperson v. Arkansas
 
-- **Category:** D — Religion-limiting rule
+- **Category:** D2 — Limits government religious power
 - **Legal effect:** Invalidated Arkansas’s ban on teaching evolution in public schools.
 - **Primary authority:** *Epperson v. Arkansas*, 393 U.S. 97 (1968).
 - **Religion connection:** The Court concluded that a state cannot tailor public-school instruction to the principles or prohibitions of a particular religious sect or doctrine.
@@ -58,7 +58,7 @@
 
 ## Edwards v. Aguillard
 
-- **Category:** D — Religion-limiting rule
+- **Category:** D2 — Limits government religious power
 - **Legal effect:** Invalidated Louisiana’s balanced-treatment requirement for creation science and evolution science.
 - **Primary authority:** *Edwards v. Aguillard*, 482 U.S. 578 (1987).
 - **Religion connection:** The Court held the statute lacked a clear secular purpose and endorsed a particular religious belief.
@@ -87,7 +87,7 @@
 
 ## RFRA
 
-- **Category:** A / D — Explicit religious protection and religion-limiting rule
+- **Category:** A / D1 — Explicit religious protection and protects religious exercise
 - **Legal effect:** Bars specified government burdens on religious exercise unless the statutory compelling-interest and least-restrictive-means test is met.
 - **Primary authority:** Religious Freedom Restoration Act of 1993, Pub. L. 103-141, 107 Stat. 1488; 42 U.S.C. §§ 2000bb–2000bb-4.
 - **Religion connection:** The statute expressly protects religious exercise and responded to *Employment Division v. Smith*.
@@ -97,7 +97,7 @@
 
 ## RLUIPA
 
-- **Category:** A / D — Explicit religious protection and religion-limiting rule
+- **Category:** A / D1 — Explicit religious protection and protects religious exercise
 - **Legal effect:** Protects religious exercise in specified land-use and institutionalized-person contexts.
 - **Primary authority:** Religious Land Use and Institutionalized Persons Act of 2000, Pub. L. 106-274, 114 Stat. 803; 42 U.S.C. §§ 2000cc–2000cc-5.
 - **Scope note:** It applies only under statutory conditions and is not a general exemption from every governmental rule.
@@ -106,7 +106,7 @@
 
 ## Griswold, Eisenstadt, and Lawrence
 
-- **Category:** C / D — Mixed historical influence and constitutional liberty doctrine
+- **Category:** C — Mixed historical influence
 - **Legal effect:** *Griswold v. Connecticut*, 381 U.S. 479 (1965), invalidated Connecticut’s contraceptive-use prohibition as applied to married persons; *Eisenstadt v. Baird*, 405 U.S. 438 (1972), invalidated differential contraceptive access for unmarried persons; *Lawrence v. Texas*, 539 U.S. 558 (2003), invalidated criminal prohibition of consensual same-sex intimate conduct.
 - **Religion connection:** Underlying morality laws in some jurisdictions were historically influenced by religious moral arguments, but the Court decisions rest on constitutional privacy, equality, and liberty reasoning.
 - **Scope note:** Causal claims require research into each statute and historical period; there is no one universal cause.
