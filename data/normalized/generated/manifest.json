@@ -1,13 +1,13 @@
 {
   "parser_version": "1.2.0",
   "canonical_files": 8,
-  "records": 1976,
-  "warnings": 1,
+  "records": 1977,
+  "warnings": 0,
   "review_required": 103,
   "provenance_counts": {
     "REVIEW_REQUIRED": 103,
     "PRE_CONVENTION": 745,
-    "SOURCE": 543,
+    "SOURCE": 544,
     "CLAUDE": 562,
     "MY_WORDS": 22,
     "MY_QUESTION": 1
@@ -15,7 +15,7 @@
   "record_type_counts": {
     "OBSERVATION": 1368,
     "AUDIT_NOTE": 344,
-    "CLAIM": 35,
+    "CLAIM": 36,
     "AUDIT_STATUS": 36,
     "CORRECTION": 34,
     "AUDIT_REASONING": 32,
@@ -27,8 +27,8 @@
     {
       "source_file": "Bible_Deep_Dive_Master_Notes.md",
       "file": "records.master.js",
-      "records": 380,
-      "size_bytes": 712261
+      "records": 381,
+      "size_bytes": 713690
     },
     {
       "source_file": "Field_Guide_Conversation_Reference.md",
