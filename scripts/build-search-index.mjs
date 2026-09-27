@@ -135,6 +135,29 @@ function extractReligionLaw(baseDir) {
       flag: false,
     });
   }
+
+  const overviewData = [
+    ['records/policy-influence.json', 'Policy influence'],
+    ['records/global-legal-structure.json', 'Global legal structure'],
+  ];
+  for (const [file, group] of overviewData) {
+    const fullPath = path.join(root, file);
+    if (!fs.existsSync(fullPath)) continue;
+    const rows = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
+    for (const row of rows) {
+      const text = Object.entries(row)
+        .filter(([key]) => !['id', 'sources'].includes(key))
+        .map(([, value]) => String(value))
+        .join(' ');
+      entries.push({
+        url: 'religion-law.html',
+        doc: 'Religion & Law',
+        title: `${group}: ${row.issue}`,
+        text: text.slice(0, 1400),
+        flag: false,
+      });
+    }
+  }
   return entries;
 }
 
