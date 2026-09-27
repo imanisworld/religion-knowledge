@@ -1,0 +1,69 @@
+{
+  "id": "claim_heliopolitan_atum_creation",
+  "subject_type": "Narrative",
+  "subject_id": "nar_heliopolitan_atum_creation",
+  "statement": "Heliopolitan creation theology presents Atum as a primordial creator associated with the waters of Nun; Old Kingdom Pyramid Text material describes Atum generating Shu and Tefnut, after which divine generations include Geb (earth) and Nut (sky). Egyptian sources and scholarship treat this as one creation theology among several coexisting Egyptian systems.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Egypt"
+  ],
+  "evidence_types": [
+    "INSCRIPTION",
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Cambridge University Press, Reproduction, ch. 2 “Phallic Fertility in the Ancient Near East and Egypt,” discussion of the Heliopolitan cosmogony in the Pyramid Texts.",
+      "author": null,
+      "year": 2018,
+      "venue": "Cambridge University Press",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "The Cambridge History of Religions in the Ancient World, ch. “Egyptian Religion,” on Atum at Heliopolis and plural Egyptian creator traditions.",
+      "author": null,
+      "year": 2013,
+      "venue": "Cambridge University Press",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "James P. Allen, The Ancient Egyptian Language: An Historical Study, Cambridge University Press excerpt, dating late-Dynasty-V–VI Pyramid Texts c. 2325–2150 BCE.",
+      "author": "James P. Allen",
+      "year": 2013,
+      "venue": "Cambridge University Press",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "Motif similarity with another tradition does not by itself demonstrate borrowing, common ancestry, or direct transmission."
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "This record exists partly to prevent 'Egyptian creation story' from being modeled as one canonical narrative."
+}

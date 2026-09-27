@@ -1,0 +1,48 @@
+{
+  "id": "nar_norse_ymir_creation",
+  "name": "Old Norse Ymir creation complex",
+  "genre": "creation_narrative",
+  "tradition_id": null,
+  "region": [
+    "Europe"
+  ],
+  "language": "Old Norse / Old Icelandic",
+  "source_label": "Eddic Ymir material in Poetic Edda and Snorri's Prose Edda",
+  "motif_tags": [
+    "CHAOS",
+    "PRIMORDIAL_BEING",
+    "CREATION_FROM_BODY"
+  ],
+  "dating": {
+    "earliest_archaeological_evidence": null,
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 1221,
+        "latest": 1225,
+        "precision": "DECADE"
+      },
+      "note": "Snorri Sturluson's Prose Edda was probably composed c. 1221–1225 and preserves a coherent prose synthesis of Norse creation material."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": 1270,
+        "latest": 1270,
+        "precision": "YEAR"
+      },
+      "note": "The Codex Regius manuscript of the Poetic Edda was copied around 1270 and preserves mythological poems used alongside the Prose Edda; the oldest Prose Edda manuscript is early 14th century."
+    },
+    "estimated_composition": null,
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "The sources describe primordial Ginnungagap/Ymir and world formation rather than a historical date."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "Many Eddic myths likely circulated before their surviving manuscripts, but the date and form of earlier oral narratives are contested and cannot be recovered precisely.",
+      "confidence": "UNKNOWN"
+    },
+    "dating_summary": "The surviving written witnesses are medieval Icelandic and postdate Scandinavian Christianization. The Ymir material includes older eddic poetry plus Snorri's 13th-century synthesis; earlier oral antiquity is acknowledged but not fake-dated."
+  },
+  "notes": "The record preserves source criticism: Snorri combines and systematizes older material and should not be treated as a transparent transcript of one pre-Christian canonical narrative.",
+  "relationships": []
+}

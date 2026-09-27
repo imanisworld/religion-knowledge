@@ -1,0 +1,38 @@
+{
+  "id": "nar_anangu_tjukurpa_landscape",
+  "name": "Anangu Tjukurpa ancestral landscape creation (publicly documented)",
+  "genre": "cosmology",
+  "tradition_id": "trad_anangu_tjukurpa",
+  "region": [
+    "Australia"
+  ],
+  "language": "Pitjantjatjara / Yankunytjatjara",
+  "source_label": "Public Anangu / Uluru-Kata Tjuta Tjukurpa descriptions",
+  "motif_tags": [
+    "ANCESTRAL_LANDSCAPE_CREATION"
+  ],
+  "dating": {
+    "earliest_archaeological_evidence": {
+      "range": null,
+      "note": "Deep regional occupation evidence does not date the specific Tjukurpa narratives or currently practiced content."
+    },
+    "earliest_written_attestation": {
+      "range": null,
+      "note": "This record deliberately does not assign an 'earliest written' date from outsider contact; it relies on current public Traditional Owner/government descriptions of living Tjukurpa."
+    },
+    "surviving_manuscript_date": null,
+    "estimated_composition": null,
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Public Anangu descriptions locate the creative actions of ancestral beings in Tjukurpa, an ongoing law/cosmology embodied in landscape, ceremony, story, and responsibility rather than a Western calendar chronology."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "No defensible absolute date exists for the origin of the specific publicly documented Tjukurpa material; regional antiquity is not used as a story date.",
+      "confidence": "UNKNOWN"
+    },
+    "dating_summary": "Tjukurpa is a living Anangu law/cosmology whose publicly documented creation material is not assigned a calendar origin. Regional deep-time occupation and story age are kept separate."
+  },
+  "notes": "Uses only public-facing material. It does not expose restricted knowledge, does not treat 'Dreamtime' as one pan-Aboriginal story, and does not generalize Anangu Tjukurpa to other Aboriginal nations.",
+  "relationships": []
+}

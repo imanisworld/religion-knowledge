@@ -1,0 +1,82 @@
+{
+  "id": "claim_norse_ymir_creation",
+  "subject_type": "Narrative",
+  "subject_id": "nar_norse_ymir_creation",
+  "statement": "Old Norse creation material preserved in Eddic sources describes a primordial Ymir/Aurgelmir and the formation of the ordered world from Ymir's slain body; Snorri's Prose Edda systematizes this material, while related motifs also survive in eddic poems. The written witnesses are medieval and therefore require source criticism rather than being treated as direct pre-Christian transcripts.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Europe"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY",
+    "LATER_HISTORICAL_ACCOUNT"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Margaret Clunies Ross, “Poetics and Grammatica 2: The Edda of Snorri Sturluson,” A History of Old Norse Poetry and Poetics, Cambridge University Press (2022).",
+      "author": "Margaret Clunies Ross",
+      "year": 2022,
+      "venue": "Cambridge University Press",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Lilla Kopár, “Eddic poetry and the imagery of stone monuments,” A Handbook to Eddic Poetry, Cambridge University Press (2016).",
+      "author": "Lilla Kopár",
+      "year": 2016,
+      "venue": "Cambridge University Press",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "John McKinnell, Meeting the Other in Norse Myth and Legend, discussion of Ymir/Aurgelmir and Gylfaginning.",
+      "author": "John McKinnell",
+      "year": 2005,
+      "venue": "Boydell & Brewer / Cambridge Core",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Heather O'Donoghue, discussion of the Poetic Edda Codex Regius copied around 1270, in Translating Early Medieval Poetry (2018).",
+      "author": "Heather O'Donoghue",
+      "year": 2018,
+      "venue": "Cambridge University Press",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "Motif similarity with another tradition does not by itself demonstrate borrowing, common ancestry, or direct transmission."
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "The record does not infer Indo-European common ancestry or borrowing from motif similarity; those are separate historical claims requiring separate evidence."
+}
