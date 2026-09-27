@@ -1,0 +1,40 @@
+{
+  "id": "claim_ks_ob_medical_practice",
+  "subject_type": "KnowledgeState",
+  "subject_id": "ks_old_babylonian_1900_1600_bce",
+  "statement": "By around 2000 BCE, Mesopotamian healers were recording medical practice in cuneiform, including plant-based remedies, bandages, salves, potions, and enemas; this provides direct evidence of systematic therapeutic practice alongside other explanatory frameworks.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Mesopotamia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Krisztián Simkó, “Ancient healthcare fit for a king,” British Museum, 30 Nov. 2021.",
+      "author": "Krisztián Simkó",
+      "year": 2021,
+      "venue": "British Museum",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Later Assyrian medical compendia preserve and systematize a longer tradition; this claim is limited to the British Museum's specifically stated early roots around 2000 BCE."
+}
