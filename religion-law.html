@@ -74,7 +74,7 @@ const STATE_RECORDS=ROOT+'records/us-state-starter.json';
 const MARYLAND_RECORDS=ROOT+'records/us-md-maryland.json';
 const DOCS=[
   {key:'federal',label:'U.S. constitutional & federal',file:'us-constitutional-federal.md'},
-  {key:'formal-practice',label:'Formal law vs practice',file:'formal-law-institutional-practice.md'},
+  {key:'formal-practice',label:'Formal law vs practice — notes',file:'formal-law-institutional-practice.md'},
   {key:'comparative',label:'Comparative systems',file:'comparative-constitutional-systems.md'},
   {key:'state-module',label:'State-law module',file:'us-state-law.md'},
   {key:'methodology',label:'Methodology',file:'methodology.md'},
@@ -339,7 +339,9 @@ function drawNav(filter=''){
   document.querySelectorAll('[data-state]').forEach(b=>b.onclick=()=>{location.hash='state='+b.dataset.state});
 }
 function drawDocs(){
-  $('#docs').innerHTML=DOCS.map(d=>'<button class="docbtn" data-doc="'+d.key+'">'+esc(d.label)+'</button>').join('');
+  $('#docs').innerHTML='<button class="docbtn" data-overview="true">Overview &amp; tables</button>'+DOCS.map(d=>'<button class="docbtn" data-doc="'+d.key+'">'+esc(d.label)+'</button>').join('');
+  const overviewBtn=document.querySelector('[data-overview]');
+  if(overviewBtn)overviewBtn.onclick=()=>{history.pushState(null,'',location.pathname+location.search);route()};
   document.querySelectorAll('[data-doc]').forEach(b=>b.onclick=()=>{location.hash='doc='+b.dataset.doc});
 }
 function setActive(kind,key){
