@@ -118,6 +118,7 @@ function extractReligionLaw(baseDir) {
   const supportingDocs = [
     ['methodology.md', 'Methodology', 'methodology'],
     ['us-constitutional-federal.md', 'U.S. Constitutional & Federal Baseline', 'federal'],
+    ['formal-law-institutional-practice.md', 'Formal Law vs. Institutional Practice', 'formal-practice'],
     ['us-state-law.md', 'U.S. State-Law Module', 'state-module'],
     ['source-registry.md', 'Religion & Law Source Registry', 'sources'],
     ['comparative-constitutional-systems.md', 'Comparative Constitutional Systems', 'comparative'],
