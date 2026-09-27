@@ -16,19 +16,6 @@
     "tradition_internal_claim": null,
     "estimated_oral_origin": null
   },
-  "relationships": [
-    {
-      "edge_type": "CULTURAL_FUSION",
-      "target_id": "trad_late_bronze_canaanite_religion",
-      "confidence": "HIGH",
-      "claim_id": "claim_israelite_canaanite_continuity"
-    },
-    {
-      "edge_type": "CULTURAL_FUSION",
-      "target_id": "nar_ugaritic_baal_cycle",
-      "confidence": "HIGH",
-      "claim_id": "claim_yahweh_baal_imagery_appropriation"
-    }
-  ],
+  "relationships": [],
   "notes": "The 'mixed' tag is deliberate: early Israelite religion changed across regions and centuries. This node does not claim that every Israelite group held the same pantheon, cult practice, or degree of exclusivity."
 }
