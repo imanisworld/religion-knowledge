@@ -982,45 +982,328 @@
   {
     "state": "Connecticut",
     "slug": "connecticut",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-09-27",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/connecticut/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±6.8 percentage points for adults in Connecticut",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "6%",
+          "percent": 6,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "35%",
+          "percent": 35,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "11%",
+          "percent": 11,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "4%",
+          "percent": 4,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "3%",
+          "percent": 3,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "4%",
+          "percent": 4,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "5%",
+          "percent": 5,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "21%",
+          "percent": 21,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Connecticut table are Catholic (35%), Mainline Protestant (11%), and Evangelical Protestant (6%). Pew lists 4% atheist, 5% agnostic, and 21% nothing in particular. Figures are survey estimates; the state margin of error is ±6.8 percentage points, 1% did not answer, and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
       "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 6,
+      "documented_affiliations": 1,
+      "summary": "Only one of six tracked Connecticut power positions has a publicly documented current religious affiliation in the sources reviewed: Senate President Pro Tempore Martin Looney is Catholic and attends weekly Mass. The other five affiliations remain unknown, so the religious composition of the full tracked set cannot be determined.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Ned Lamont",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The current official governor biography reviewed does not state a religious affiliation.",
+          "office_source": "https://portal.ct.gov/governor/about/governor-ned-lamont",
+          "source_note": "A 2019 inaugural anecdote references a non-denominational church and identifies his wife as Episcopalian but does not identify Lamont's own religion; no affiliation is inferred."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "Susan Bysiewicz",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The current official lieutenant-governor biography reviewed does not state a current religious affiliation.",
+          "office_source": "https://portal.ct.gov/lt-governor/about/about-the-lt-gov",
+          "source_note": "Family or childhood religious background is not treated as a current affiliation."
+        },
+        {
+          "office": "Attorney General",
+          "name": "William Tong",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The current official attorney-general biography reviewed does not state a religious affiliation.",
+          "office_source": "https://portal.ct.gov/AG/About-the-AG/William-Tong-Biography-page",
+          "source_note": "No affiliation inferred."
+        },
+        {
+          "office": "Speaker of the House",
+          "name": "Matt Ritter",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Current legislative leadership is verified; no source reviewed identifies Ritter's own religious affiliation.",
+          "office_source": "https://www.cga.ct.gov/hco/mem-leaders.asp",
+          "source_note": "Ritter has publicly described his wife as Jewish; a spouse's religion is not used to infer his affiliation."
+        },
+        {
+          "office": "Senate President Pro Tempore",
+          "name": "Martin M. Looney",
+          "affiliation_status": "documented",
+          "affiliation": "Catholic",
+          "affiliation_detail": "A 2026 Connecticut Mirror profile reports that Looney and his wife attend weekly Mass and describes him as Catholic.",
+          "office_source": "https://portal.ct.gov/en/sots/register-manual/section-ii/biographies---leaders-of-the-ct-general-assembly",
+          "affiliation_source": "https://ctmirror.org/2026/02/01/how-marty-looney-shapes-ct-politics-patience-and-persistence/",
+          "source_note": "Current office is separately verified by the Connecticut General Assembly / Secretary of the State leadership biography."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "Raheem L. Mullins",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Current state judicial biographies identify Mullins as Chief Justice but do not state a religious affiliation in the materials reviewed.",
+          "office_source": "https://portal.ct.gov/sots/register-manual/section-v/judicial-department---state-courts",
+          "source_note": "No affiliation inferred."
+        }
+      ]
     }
   },
   {
     "state": "Delaware",
     "slug": "delaware",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-09-27",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/delaware/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±7.4 percentage points for adults in Delaware",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "19%",
+          "percent": 19,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "19%",
+          "percent": 19,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "16%",
+          "percent": 16,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "15%",
+          "percent": 15,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "3%",
+          "percent": 3,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "6%",
+          "percent": 6,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "15%",
+          "percent": 15,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Delaware table are Evangelical Protestant (19%), Catholic (19%), Mainline Protestant (16%), and Historically Black Protestant (15%). Pew lists 3% atheist, 6% agnostic, and 15% nothing in particular. Figures are survey estimates; the state margin of error is ±7.4 percentage points, 1% did not answer, and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
       "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 6,
+      "documented_affiliations": 2,
+      "summary": "Two of six tracked Delaware power positions have publicly documented affiliations in the sources reviewed: Governor Matt Meyer is Jewish and Senate President Pro Tempore David Sokola is Christian. The remaining four affiliations are unknown, so the religious composition of the full tracked set cannot be determined.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Matt Meyer",
+          "affiliation_status": "documented",
+          "affiliation": "Jewish",
+          "affiliation_detail": "Meyer publicly discussed growing up in Delaware's Jewish community and pride in his Judaism during his 2024 gubernatorial campaign; Delaware Jewish community publications continue to identify the governor with Jewish life and values.",
+          "office_source": "https://governor.delaware.gov/governor-bio/",
+          "affiliation_source": "https://jewishinsider.com/2024/09/matt-meyer-delaware-gubernatorial-candidate-jewish-governor/",
+          "source_note": "Current office is verified by the official governor biography; affiliation is based on Meyer's own reported statements and subsequent Jewish-community coverage."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "Kyle Evans Gay",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The current official lieutenant-governor biography reviewed does not state a religious affiliation.",
+          "office_source": "https://ltgov.delaware.gov/meet-the-lieutenant-governor/",
+          "source_note": "No affiliation inferred."
+        },
+        {
+          "office": "Attorney General",
+          "name": "Kathy Jennings",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The current official attorney-general biography reviewed does not state a religious affiliation.",
+          "office_source": "https://attorneygeneral.delaware.gov/executive/biography/",
+          "source_note": "No affiliation inferred from education or family background."
+        },
+        {
+          "office": "Speaker of the House",
+          "name": "Melissa Minor-Brown",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The current Delaware General Assembly biography reviewed does not state a religious affiliation.",
+          "office_source": "https://legis.delaware.gov/AssemblyMember/152/MinorBrown",
+          "source_note": "No affiliation inferred."
+        },
+        {
+          "office": "Senate President Pro Tempore",
+          "name": "David P. Sokola",
+          "affiliation_status": "documented",
+          "affiliation": "Christian",
+          "affiliation_detail": "Vote Smart's current biography lists Sokola's religion as Christian.",
+          "office_source": "https://www.legis.delaware.gov/AssemblyMember/151/Sokola",
+          "affiliation_source": "https://justfacts.votesmart.org/candidate/biography/5739/david-sokola",
+          "source_note": "Current leadership status is verified by the Delaware General Assembly; affiliation is separately documented by Vote Smart."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "Collins J. Seitz, Jr.",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The current Delaware Courts biography reviewed does not state a religious affiliation.",
+          "office_source": "https://courts.delaware.gov/supreme/justices.aspx",
+          "source_note": "Use of a Bible and a Presbyterian pastor at the 2019 oath ceremony is not treated as sufficient evidence of personal affiliation."
+        }
+      ]
     }
   },
   {
