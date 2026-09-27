@@ -33,8 +33,12 @@ In *Silverman v. Campbell*, 326 S.C. 208, 486 S.E.2d 1 (1997), the South Carolin
 South Carolina provides that public funds and state or political-subdivision credit may not be used for the direct benefit of a religious or other private educational institution.
 
 - **Classification:** D.
-- **Status:** In force as current constitutional text, subject to controlling federal constitutional doctrine and current case law.
+- **Status:** In force and actively applied by the South Carolina Supreme Court.
 - **Confidence:** High.
+
+In *Eidson v. South Carolina Department of Education*, 906 S.E.2d 345 (S.C. 2024), the South Carolina Supreme Court held that portions of the 2023 Education Scholarship Trust Fund Act violated Article XI, §4 because the challenged tuition payments used public funds for the direct benefit of private educational institutions.
+
+The General Assembly responded in 2025 by enacting Act No. 11 (S.62), which rewrote the scholarship program. Current S.C. Code §59-8-120 states that the fund's assets are held in trust, that scholarship recipients hold equitable title, and that recipients are the direct beneficiaries. Legislative materials expressly state that the revision was crafted in response to *Eidson*. This first pass records the rewrite but does not independently declare the revised program constitutional; no later South Carolina Supreme Court merits decision on the rewritten 2025 structure was identified in this review.
 
 ## Religious accommodation and liberty
 
@@ -58,6 +62,7 @@ The Article VI and Article XVII “Supreme Being” clauses are a verified examp
 ## Landmark cases
 
 - *Silverman v. Campbell*, 326 S.C. 208, 486 S.E.2d 1 (1997) — the state's “Supreme Being” officeholding provisions are unconstitutional under the First Amendment and the federal Religious Test Clause.
+- *Eidson v. South Carolina Department of Education*, 906 S.E.2d 345 (S.C. 2024) — portions of the 2023 Education Scholarship Trust Fund Act violated Article XI, §4's ban on public funds for the direct benefit of private educational institutions.
 
 ## Evidence and sources
 
@@ -67,7 +72,10 @@ The Article VI and Article XVII “Supreme Being” clauses are a verified examp
 - South Carolina Legislature, Constitution, Article XVII: https://www.scstatehouse.gov/scconstitution/A17.pdf
 - South Carolina Legislature, South Carolina Religious Freedom Act: https://www.scstatehouse.gov/code/t01c032.php
 - South Carolina Judicial Branch, *Silverman v. Campbell*, Opinion No. 24622: https://www.sccourts.org/media/opinions/htmlfiles/SC/24622.htm
+- South Carolina Judicial Branch, September 11, 2024 published-opinion entry for *Eidson v. South Carolina Department of Education*: https://www.sccourts.org/opinions-orders/opinions/published-opinions/supreme-court/?focus=prev&term=2024-09
+- South Carolina Code §59-8-120, as rewritten by 2025 Act No. 11: https://www.scstatehouse.gov/code/t59c008.php
+- South Carolina House Journal, Feb. 26, 2025, legislative findings describing the *Eidson*-response structure: https://www.scstatehouse.gov/sess126_2025-2026/hj25/20250226.htm
 
 ## Research caution
 
-The continued appearance of the “Supreme Being” clauses in the published Constitution does not make them enforceable. Text-on-books status and operative constitutional validity are recorded separately.
+The continued appearance of the “Supreme Being” clauses in the published Constitution does not make them enforceable. Text-on-books status and operative constitutional validity are recorded separately. Likewise, the 2025 statutory rewrite following *Eidson* is current law, but legislative assertions that the new structure complies with Article XI, §4 are not substituted for a later judicial holding.
