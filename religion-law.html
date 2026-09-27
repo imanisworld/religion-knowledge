@@ -345,7 +345,7 @@ function renderOverview(){
     '</div>';
 }
 function renderPolicyTable(){
-  return '<section class="section-block"><h2>Religion &amp; U.S. policy</h2>'+
+  return '<section class="section-block" id="policy-overview"><h2>Religion &amp; U.S. policy</h2>'+
     '<p class="section-intro">This asks a different question from legal causation: where is religious public opinion, litigation, or organized advocacy documented around a policy area? Source labels distinguish legal authority, polling, advocacy, and status trackers.</p>'+
     '<div class="table-wrap"><table class="compare-table policy-table"><thead><tr><th>Policy issue</th><th>What government is deciding</th><th>Documented religious involvement</th><th>Legal arena</th></tr></thead><tbody>'+
     policyRows.map(r=>'<tr><td><div class="law-name">'+esc(r.issue)+'</div><div class="row-meta">'+esc(r.confidence)+' confidence · verified '+esc(r.last_verified)+'</div></td><td>'+esc(r.government_question)+'</td><td>'+esc(r.religion_involvement)+sourceLinks(r.sources)+'</td><td>'+esc(r.legal_status)+'<div class="scope-note">'+esc(r.scope_note)+'</div></td></tr>').join('')+
@@ -362,7 +362,7 @@ function renderPracticeTable(){
 }
 
 function renderGlobalTable(){
-  return '<section class="section-block"><h2>U.S. vs. global legal structure</h2>'+
+  return '<section class="section-block" id="global-overview"><h2>U.S. vs. global legal structure</h2>'+
     '<p class="section-intro">These are scoped structural comparisons. Global counts retain the cited source year; country examples use primary law where available rather than treating one statistic as a current country profile.</p>'+
     '<div class="table-wrap"><table class="compare-table global-table"><thead><tr><th>Issue</th><th>United States</th><th>Global comparison</th></tr></thead><tbody>'+
     globalRows.map(r=>'<tr><td><div class="law-name">'+esc(r.issue)+'</div><div class="row-meta">'+esc(r.confidence)+' confidence · verified '+esc(r.last_verified)+'</div></td><td>'+esc(r.us_structure)+'</td><td>'+esc(r.global_structure)+sourceLinks(r.sources)+'<div class="scope-note">'+esc(r.scope_note)+'</div></td></tr>').join('')+
