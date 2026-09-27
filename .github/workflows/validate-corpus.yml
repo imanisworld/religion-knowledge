@@ -44,6 +44,9 @@ jobs:
       - name: Validate committed corpus
         run: node scripts/import/validate-corpus.mjs
 
+      - name: Validate Religion & Law overview records
+        run: npm run validate:religion-law-overview
+
       - name: Regenerate reader HTML
         run: npm run build:readers -- --output .
 
