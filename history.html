@@ -554,6 +554,47 @@ td{padding:.65rem .75rem}
   .masthead h1{font-size:2.2rem}
   .meta{gap:.4rem 1rem}
 }
+
+/* ---------- focus reading mode ---------- */
+.gloss .tip{
+  background:#21181B;
+  color:#F7F2F3;
+  border:1px solid #4E3941;
+  box-shadow:0 12px 32px rgba(33,26,28,.28)
+}
+.gloss .tip b{color:#EAB0BD}
+a.ext{border-bottom-color:#C9A1AA}
+html.focus-reading{--rail:0px}
+html.focus-reading #rail{
+  transform:translateX(-100%);
+  visibility:hidden;
+  box-shadow:none
+}
+html.focus-reading #progress{left:0}
+html.focus-reading main{
+  margin-left:0;
+  max-width:none;
+  padding-left:clamp(1.25rem,8vw,8rem);
+  padding-right:clamp(1.25rem,8vw,8rem)
+}
+html.focus-reading main>.masthead,
+html.focus-reading main>#tools,
+html.focus-reading main>.howto,
+html.focus-reading main>#nores,
+html.focus-reading main>section{
+  max-width:var(--measure);
+  margin-left:auto;
+  margin-right:auto
+}
+html.focus-reading #menu{display:none!important}
+html.focus-reading #tools{width:100%}
+html.focus-reading .masthead{width:100%}
+@media(max-width:1080px){
+  html.focus-reading main{
+    padding-left:1.25rem;
+    padding-right:1.25rem
+  }
+}
 </style><script>try{var __t=localStorage.getItem("religion-knowledge-theme");if(__t)document.documentElement.dataset.theme=__t}catch(e){}</script></head><body>
 <button id="menu" aria-label="Toggle navigation"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
 <div id="overlay"></div>
@@ -1289,6 +1330,32 @@ $$('.gloss').forEach(g=>g.addEventListener('mouseenter',()=>{
 }));
 $('#top').addEventListener('click',()=>scrollTo({top:0,behavior:'smooth'}));
 $('#menu').addEventListener('click',()=>{const o=$('#rail').classList.toggle('open');$('#overlay').classList.toggle('show',o)});
+
+/* focus reading mode */
+const toolsBar=$('#tools');
+if(toolsBar){
+  const focusBtn=document.createElement('button');
+  focusBtn.type='button';
+  focusBtn.className='tbtn';
+  focusBtn.id='focusbtn';
+  focusBtn.setAttribute('aria-pressed','false');
+  const themeButton=$('#themebtn');
+  if(themeButton)toolsBar.insertBefore(focusBtn,themeButton);
+  else toolsBar.appendChild(focusBtn);
+
+  const focusKey='religion-reader-focus';
+  const setFocus=(on,persist=true)=>{
+    document.documentElement.classList.toggle('focus-reading',on);
+    focusBtn.classList.toggle('on',on);
+    focusBtn.setAttribute('aria-pressed',String(on));
+    focusBtn.textContent=on?'Exit focus':'Focus';
+    if(persist){try{localStorage.setItem(focusKey,on?'1':'0')}catch(e){}}
+  };
+  let savedFocus=false;
+  try{savedFocus=localStorage.getItem(focusKey)==='1'}catch(e){}
+  setFocus(savedFocus,false);
+  focusBtn.addEventListener('click',()=>setFocus(!document.documentElement.classList.contains('focus-reading')));
+}
 
 /* theme toggle (shared key with the app) */
 const tb=$('#themebtn'); if(tb) tb.addEventListener('click',()=>{
