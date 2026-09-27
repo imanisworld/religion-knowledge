@@ -2532,5 +2532,193 @@
         "locator": "https://www.ed.gov/laws-and-policy/education-policy/guidance-on-constitutionally-protected-prayer-and-religious-expression-in-public-elementary-and-secondary-schools"
       }
     ]
+  },
+  {
+    "claim_id": "CTX-HIDEMOG-001",
+    "claim_text": "Pew's 2023–24 Religious Landscape Study estimates Hawaii adults as 20% evangelical Protestant, 16% Catholic, 14% mainline Protestant, 5% Buddhist, 4% Latter-day Saint, 3% atheist, 5% agnostic, and 22% nothing in particular, with a ±8.1 percentage-point margin of error for adults in Hawaii.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Pew Research Center, 2023–24 Religious Landscape Study — Hawaii",
+        "locator": "State religious-composition table and margin-of-error note; https://www.pewresearch.org/religious-landscape-study/state/hawaii/"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "These are survey estimates, not census counts. Hawaii's state margin of error is large, 1% did not answer, and figures may not sum to 100% because of rounding and categories reported as less than 1%.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Hawaii"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=hawaii"
+      }
+    ],
+    "notes": "Population context remains separate from legal-causation coding."
+  },
+  {
+    "claim_id": "CTX-HIPOWER-001",
+    "claim_text": "As of September 27, 2026, 3 of 6 tracked Hawaii power positions have publicly documented religious identities or memberships in the sources reviewed: Governor Josh Green self-describes as half Jewish and half Christian, House Speaker Nadine Nakamura documents Episcopal and Tenrikyo memberships, and Senate President Ronald Kouchi documents Christian church memberships; the lieutenant governor, attorney general, and chief justice remain unknown.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Office of the Governor of Hawaii — Josh Green",
+        "locator": "Current governor; https://governor.hawaii.gov/about/"
+      },
+      {
+        "source": "The Phoenix — Josh Green interview",
+        "locator": "Green states he is 'half Jewish, half Christian'; https://swarthmorephoenix.com/2025/10/23/the-phoenix-in-conversation-with-hawaii-governor-josh-green-92/"
+      },
+      {
+        "source": "Hawaii Lieutenant Governor — Sylvia Luke biography",
+        "locator": "Current lieutenant governor; no personal affiliation stated; https://ltgov.hawaii.gov/wp-content/uploads/2023/03/Lt.-Governor-Sylvia-Luke-Biography.pdf"
+      },
+      {
+        "source": "Hawaii Attorney General — Anne Lopez",
+        "locator": "Current attorney general; no affiliation stated in materials reviewed; https://ag.hawaii.gov/ag-lopez-fsri-biographies/"
+      },
+      {
+        "source": "Hawaii House leadership",
+        "locator": "Nadine Nakamura identified as Speaker; https://data.capitol.hawaii.gov/docs/2025HouseLeadershipCommitteeAssignments.pdf"
+      },
+      {
+        "source": "Nadine Nakamura biography",
+        "locator": "Member of All Saints' Episcopal Church and Tenrikyo Honolulu Church; https://www.nadinenakamura.com/about.html"
+      },
+      {
+        "source": "Hawaii Senate leadership",
+        "locator": "Ronald D. Kouchi identified as Senate President; https://data.capitol.hawaii.gov/docs/SENATELEADERSHIPCOMMITTEEASSIGNMENTS.pdf"
+      },
+      {
+        "source": "Vote Smart — Ronald Kouchi biography",
+        "locator": "Lists memberships in New Hope Kauai and Kapaa Missionary Church; https://justfacts.votesmart.org/candidate/biography/85011/ronald-kouchi"
+      },
+      {
+        "source": "Hawaii Judiciary — Vladimir P. Devens",
+        "locator": "Sworn in as Chief Justice May 5, 2026; no affiliation stated; https://www.courts.state.hi.us/news_and_reports/2026/05/vladimir-p-devens-sworn-in-as-chief-justice-of-the-hawai%CA%BBi-supreme-court"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "Three of six tracked affiliations remain unknown, and two documented records involve mixed or multiple religious identities. The dataset therefore preserves those identities rather than forcing all officeholders into mutually exclusive categories or describing the full set as religiously homogeneous.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Hawaii"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=hawaii"
+      }
+    ],
+    "notes": "Mixed and multiple affiliations are recorded as documented rather than collapsed into one religion."
+  },
+  {
+    "claim_id": "CTX-IDDEMOG-001",
+    "claim_text": "Pew's 2023–24 Religious Landscape Study estimates Idaho adults as 31% evangelical Protestant, 14% Latter-day Saint, 9% Catholic, 7% mainline Protestant, 6% atheist, 6% agnostic, and 22% nothing in particular, with a ±7.1 percentage-point margin of error for adults in Idaho.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Pew Research Center, 2023–24 Religious Landscape Study — Idaho",
+        "locator": "State religious-composition table and margin-of-error note; https://www.pewresearch.org/religious-landscape-study/state/idaho/"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "These are survey estimates, not census counts. Idaho's state margin of error is relatively large, 1% did not answer, and figures may not sum to 100% because of rounding and categories reported as less than 1%.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Idaho"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=idaho"
+      }
+    ],
+    "notes": "Population context remains separate from legal-causation coding."
+  },
+  {
+    "claim_id": "CTX-IDPOWER-001",
+    "claim_text": "As of September 27, 2026, 5 of 6 tracked Idaho power positions have publicly documented Christian affiliations in the sources reviewed: Governor Brad Little is Episcopalian, and Lieutenant Governor Scott Bedke, Attorney General Raul Labrador, House Speaker Mike Moyle, and Senate President Pro Tempore Kelly Anthon have documented Latter-day Saint backgrounds or affiliations; Chief Justice G. Richard Bevan remains unknown because his official biography states only that he is active in his church without naming the tradition.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Idaho Governor — Brad Little biography",
+        "locator": "Current governor; https://gov.idaho.gov/our-governor/"
+      },
+      {
+        "source": "Vote Smart — Brad Little biography",
+        "locator": "Religion listed as Episcopalian; https://justfacts.votesmart.org/candidate/biography/54166/brad-little"
+      },
+      {
+        "source": "Idaho Lieutenant Governor — Scott Bedke biography",
+        "locator": "Current lieutenant governor; https://lgo.idaho.gov/about/"
+      },
+      {
+        "source": "Deseret News — Scott Bedke profile",
+        "locator": "Raised Mormon, LDS mission, adult Sunday-school teaching; https://www.deseret.com/2013/1/15/20446998/idaho-speaker-has-deep-roots/"
+      },
+      {
+        "source": "Idaho Attorney General — Raul Labrador biography",
+        "locator": "Current attorney general; https://www.ag.idaho.gov/about/"
+      },
+      {
+        "source": "Deseret News — Raul Labrador profile",
+        "locator": "Describes conversion to the Church of Jesus Christ of Latter-day Saints; https://www.deseret.com/2022/10/26/23393438/inside-the-campaign-of-idahos-most-zealous-advocate/"
+      },
+      {
+        "source": "Idaho House Republicans — leadership",
+        "locator": "Mike Moyle identified as Speaker; https://www.idahohouserepublicans.org/about"
+      },
+      {
+        "source": "Tally Idaho — Mike Moyle",
+        "locator": "Legislative-profile reproduction identifies Moyle as LDS; https://tallyidaho.com/legislators/mike-moyle"
+      },
+      {
+        "source": "State of Idaho 2026 meeting materials",
+        "locator": "Kelly Anthon identified as President Pro Tempore; https://idwr.idaho.gov/wp-content/uploads/sites/2/iwrb/2026/IWRB-Special-Board-Meeting-No.-4-26-20260304-Meeting-Materials.pdf"
+      },
+      {
+        "source": "Idaho Voter Guide — Kelly Anthon",
+        "locator": "Reports LDS mission in Japan; https://idahovoters.com/person/kelly-anthon/"
+      },
+      {
+        "source": "Idaho Supreme Court — G. Richard Bevan biography",
+        "locator": "Current Chief Justice; states he is active in his church but does not identify denomination; https://isc.idaho.gov/about-the-courts/sc-justices/justice-g-richard-bevan"
+      },
+      {
+        "source": "Idaho Judicial Branch — next Chief Justice announcement",
+        "locator": "Robyn Brody selection effective October 1, 2026; https://isc.idaho.gov/news-article/brody-named-next-idaho-chief-justice"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "One of six tracked affiliations remains unknown. Some Idaho affiliation sources predate the current term or document missionary/church background rather than a newly stated 2026 identity, so those source dates and limits are retained rather than implied to be new declarations.",
+    "last_verified": "2026-09-27",
+    "reviewer": "source-audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "research/religion-law/context/us-state-context.json",
+        "anchor": "Idaho"
+      },
+      {
+        "file": "religion-law.html",
+        "anchor": "#state=idaho"
+      }
+    ],
+    "notes": "Bevan remains the Chief Justice in this September 27 snapshot; Robyn Brody's chief-justice term begins October 1, 2026."
   }
 ]
