@@ -1,0 +1,54 @@
+{
+  "id": "claim_ks_maya_lunar_venus_observation",
+  "subject_type": "KnowledgeState",
+  "subject_id": "ks_classic_maya_250_900_ce",
+  "statement": "Classic Maya observers recorded recurring lunar phenomena and the synodic orbit of Venus without optical instruments, demonstrating sustained naked-eye astronomical observation embedded in calendrical practice.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Mesoamerica"
+  ],
+  "evidence_types": [
+    "ASTRONOMICAL",
+    "INSCRIPTION"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "John H. Linden, “Glyph X of the Maya Lunar Series: An Eighteen-Month Lunar Synodic Calendar,” American Antiquity (2017).",
+      "author": "John H. Linden",
+      "year": 2017,
+      "venue": "American Antiquity / Cambridge University Press",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Smithsonian National Museum of the American Indian, Living Maya Time, “Maya Sun.”",
+      "author": "Smithsonian NMAI",
+      "year": null,
+      "venue": "Smithsonian National Museum of the American Indian",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT web research",
+      "verified_date": "2026-09-27",
+      "verification_method": "DIRECT_READ",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "This does not imply that every Classic Maya astronomical claim or ritual interpretation was empirically correct."
+}
