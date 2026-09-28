@@ -1,6 +1,6 @@
 {
   "module": "gender-over-time",
-  "version": 2,
+  "version": 3,
   "updated": "2026-09-28",
   "scope_note": "Research module outside the nine-document core corpus. Categories are culture- and period-specific; modern Western labels are not assumed to be exact equivalents.",
   "analytical_layers": [
@@ -394,6 +394,193 @@
           "year": 325,
           "locator": "Canon 1",
           "url": "https://www.newadvent.org/fathers/3801.htm"
+        }
+      ]
+    },
+    {
+      "id": "philo-eunuchs-gender-exegesis",
+      "place": "Alexandria / Hellenistic Judaism",
+      "period": "c. 30 BCE–45 CE",
+      "local_terms": [
+        "eunuch"
+      ],
+      "topic": [
+        "social_gender",
+        "religious_ritual_role",
+        "historical_practice"
+      ],
+      "claim": "Philo of Alexandria repeatedly uses eunuchism and castration in exegetical and philosophical discussions of male and female categories; modern scholarship treats these passages as important evidence for Philo's gender hierarchy and symbolic use of eunuchism.",
+      "qualification": "This is evidence about Philo's exegesis and philosophical anthropology, not proof that Alexandrian Jews recognized eunuchs as a third social gender.",
+      "evidence_status": "scholarly_interpretation_of_primary_texts",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Ra‘anan Abusch",
+          "title": "Eunuchs and Gender Transformation: Philo’s Exegesis of the Joseph Narrative",
+          "year": 2002,
+          "publisher": "Classical Press of Wales",
+          "locator": "pp. 103–122",
+          "url": "https://www.jstor.org/stable/j.ctv1n35846.10"
+        }
+      ]
+    },
+    {
+      "id": "acts-ethiopian-eunuch",
+      "place": "Early Christianity / Roman eastern Mediterranean literary context",
+      "period": "1st century CE narrative",
+      "local_terms": [
+        "eunouchos"
+      ],
+      "topic": [
+        "social_gender",
+        "religious_ritual_role",
+        "law_social_status"
+      ],
+      "claim": "Acts 8 repeatedly identifies an Ethiopian royal official as a eunuch and depicts his baptism without narrating a change in that bodily/social designation.",
+      "qualification": "Brittany Wilson argues that the figure is gender-, ethnicity-, and status-ambiguous in Greco-Roman context and embodies boundary crossing. That is a scholarly interpretation of the narrative, not a recovered self-identification.",
+      "evidence_status": "direct_text_with_interpretive_layer",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "New Testament",
+          "title": "Acts 8:26–40",
+          "year": null,
+          "locator": "Acts 8:27, 34, 36–39"
+        },
+        {
+          "author": "Brittany E. Wilson",
+          "title": "‘Neither Male nor Female’: The Ethiopian Eunuch in Acts 8.26–40",
+          "year": 2014,
+          "doi": "10.1017/S0028688514000103",
+          "url": "https://www.cambridge.org/core/journals/new-testament-studies/article/abs/neither-male-nor-female-the-ethiopian-eunuch-in-acts-82640/6AF2FBE57399BDC835FC11A56274936D"
+        }
+      ]
+    },
+    {
+      "id": "matthew19-origen-eunuch-reception",
+      "place": "Early Christianity",
+      "period": "1st–3rd centuries CE",
+      "local_terms": [
+        "eunouchos"
+      ],
+      "topic": [
+        "religious_ritual_role",
+        "reproductive_biology",
+        "historical_practice"
+      ],
+      "claim": "Matthew 19:12 distinguishes eunuchs born so, eunuchs made so by others, and those who made themselves eunuchs for the kingdom; Eusebius later reports that Origen interpreted the verse literally enough to castrate himself.",
+      "qualification": "The Matthew text is direct evidence. The historicity of Origen's self-castration is debated in modern scholarship, so the Origen episode is kept as disputed reception history rather than certain biography.",
+      "evidence_status": "direct_text_plus_disputed_reception",
+      "confidence": "medium_high",
+      "sources": [
+        {
+          "author": "New Testament",
+          "title": "Matthew 19:12",
+          "year": null,
+          "locator": "Matthew 19:12"
+        },
+        {
+          "author": "Eusebius",
+          "title": "Ecclesiastical History, Book VI",
+          "year": null,
+          "locator": "6.8",
+          "url": "https://www.newadvent.org/fathers/250106.htm"
+        },
+        {
+          "author": "Ronald E. Heine",
+          "title": "Origen and his Opponents on Matthew 19:12",
+          "year": 2013,
+          "locator": "Studia Patristica 56, pp. 123–128",
+          "url": "https://www.jstor.org/stable/jj.35841804.11"
+        }
+      ]
+    },
+    {
+      "id": "rabbinic-aylonit-saris",
+      "place": "Rabbinic Judaism",
+      "period": "Tannaitic and later rabbinic literature",
+      "local_terms": [
+        "aylonit",
+        "saris hammah",
+        "saris adam"
+      ],
+      "topic": [
+        "sex_traits",
+        "law_social_status",
+        "family_reproduction",
+        "social_gender"
+      ],
+      "claim": "Rabbinic texts classify aylonit and forms of saris through bodily signs, fertility, and legal consequences rather than treating all persons as simply typical male or typical female bodies.",
+      "qualification": "Sarra Lev argues that the constructed bodily signs cross sex/gender markers, while also noting that rabbinic law generally does not treat the aylonit as a separate gender identity. These are legal/body classifications, not a direct equivalent of modern trans or intersex identities.",
+      "evidence_status": "documented_with_analytical_qualification",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Sarra Lev",
+          "title": "How the 'Aylonit Got Her Sex",
+          "year": 2007,
+          "locator": "AJS Review 31.2, pp. 297–316",
+          "url": "https://www.cambridge.org/core/journals/ajs-review/article/abs/how-the-aylonit-got-her-sex/1C3B8506390E89792F59D911F937F7B5"
+        }
+      ]
+    },
+    {
+      "id": "kamasutra-tritiya-prakriti",
+      "place": "South Asia",
+      "period": "approximately 3rd–4th century CE",
+      "local_terms": [
+        "tṛtīyā prakṛti"
+      ],
+      "topic": [
+        "social_gender",
+        "sexuality",
+        "historical_practice"
+      ],
+      "claim": "The Kāmasūtra explicitly describes persons of a 'third nature' and distinguishes two forms, including one characterized by feminine dress, speech, manner, and a specific sexual/economic role.",
+      "qualification": "The text provides a named category outside ordinary male/female erotic roles, but the category is embedded in ancient Sanskrit sexual taxonomy and should not be mapped automatically onto modern transgender or gay identities.",
+      "evidence_status": "direct_textual_category_with_qualification",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Vātsyāyana",
+          "title": "Kāmasūtra",
+          "year": null,
+          "locator": "2.9.6–24; trans. Wendy Doniger and Sudhir Kakar, Oxford University Press, 2002"
+        },
+        {
+          "author": "Wendy Doniger",
+          "title": "The Third Nature: Gender Inversions in the Kamasutra",
+          "year": 2014,
+          "doi": "10.1093/acprof:oso/9780199360079.003.0022",
+          "url": "https://academic.oup.com/book/11527/chapter-abstract/160309396"
+        }
+      ]
+    },
+    {
+      "id": "mughal-khwaja-sara-male-status",
+      "place": "Mughal India",
+      "period": "16th–18th centuries",
+      "local_terms": [
+        "khwāja sarā"
+      ],
+      "topic": [
+        "social_gender",
+        "law_social_status",
+        "historical_practice",
+        "court_role"
+      ],
+      "claim": "Mughal khwāja sarās were enslaved, castrated court officials who could hold important positions in elite households and political space; surviving naming, dress, office, and textual evidence generally categorized them as men.",
+      "qualification": "Emma Kalb stresses that 'eunuch' has been used too broadly in South Asian historiography. Mughal khwāja sarās should not be collapsed into the distinct hijra community or treated automatically as a third gender.",
+      "evidence_status": "documented_corrective",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Emma Kalb",
+          "title": "A eunuch at the threshold: mediating access and intimacy in the Mughal world",
+          "year": 2023,
+          "doi": "10.1017/S1356186322000827",
+          "locator": "Journal of the Royal Asiatic Society 33.3, pp. 747–768",
+          "url": "https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/eunuch-at-the-threshold-mediating-access-and-intimacy-in-the-mughal-world/C5AB76FE54ABBC0F2D43FA95C764BAE7"
         }
       ]
     }

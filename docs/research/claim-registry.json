@@ -3517,5 +3517,189 @@
       }
     ],
     "notes": "The rule concerns castration and clerical eligibility. The module explicitly does not infer gender identity from it."
+  },
+  {
+    "claim_id": "GOT-PHILO-001",
+    "claim_text": "Philo of Alexandria repeatedly uses eunuchism and castration in exegetical and philosophical discussions of male and female categories.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "secondary_sources": [
+      {
+        "citation": "Ra‘anan Abusch, 'Eunuchs and Gender Transformation: Philo’s Exegesis of the Joseph Narrative,' in Eunuchs in Antiquity and Beyond (2002), 103–122",
+        "locator": "JSTOR chapter https://www.jstor.org/stable/j.ctv1n35846.10",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "This material shows Philo's exegetical and philosophical use of eunuchism; it does not by itself establish a third social gender among Alexandrian Jews.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#philo-eunuchs"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-ii--second-temple-judaism-early-christianity-and-precolonial-south-asia"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-ACTS8-001",
+    "claim_text": "Acts 8 repeatedly identifies an Ethiopian royal official as a eunuch and depicts his baptism without narrating a change in that designation.",
+    "claim_type": "direct_textual",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "New Testament, Acts 8:26–40",
+        "locator": "Especially Acts 8:27, 34, 36–39"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Brittany E. Wilson, 'Neither Male nor Female: The Ethiopian Eunuch in Acts 8.26–40,' New Testament Studies 60.3 (2014): 403–422",
+        "locator": "DOI 10.1017/S0028688514000103",
+        "stance": "discusses"
+      }
+    ],
+    "counterargument": "Wilson's description of the figure as boundary-crossing is a contextual literary interpretation; it is not a recovered first-person gender identity.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#ethiopian-eunuch"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-ii--second-temple-judaism-early-christianity-and-precolonial-south-asia"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-MATT19-001",
+    "claim_text": "Matthew 19:12 distinguishes eunuchs born so, eunuchs made so by others, and those who made themselves eunuchs for the kingdom; Eusebius later reports that Origen interpreted the verse literally enough to castrate himself.",
+    "claim_type": "direct_textual",
+    "status": "verified_with_qualification",
+    "confidence": "medium",
+    "primary_sources": [
+      {
+        "source": "New Testament, Matthew 19:12",
+        "locator": "Matthew 19:12"
+      },
+      {
+        "source": "Eusebius, Ecclesiastical History",
+        "locator": "Book 6, chapter 8; https://www.newadvent.org/fathers/250106.htm"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Ronald E. Heine, 'Origen and his Opponents on Matthew 19:12,' Studia Patristica 56 (2013): 123–128",
+        "locator": "https://www.jstor.org/stable/jj.35841804.11",
+        "stance": "qualifies"
+      }
+    ],
+    "counterargument": "Modern scholars dispute the historical reliability of the Origen self-castration story. The registry treats Matthew as direct evidence and Origen as disputed reception history.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#matthew-origen"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-ii--second-temple-judaism-early-christianity-and-precolonial-south-asia"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-AYLONIT-001",
+    "claim_text": "Rabbinic texts classify aylonit and forms of saris through bodily signs, fertility, and legal consequences.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "secondary_sources": [
+      {
+        "citation": "Sarra Lev, 'How the Aylonit Got Her Sex,' AJS Review 31.2 (2007): 297–316",
+        "locator": "Cambridge Core article; https://www.cambridge.org/core/journals/ajs-review/article/abs/how-the-aylonit-got-her-sex/1C3B8506390E89792F59D911F937F7B5",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "Lev argues that the constructed signs can cross sex/gender markers, while also observing that rabbinic law does not generally treat the aylonit as a distinct gender identity. Modern intersex/trans labels are not direct equivalents.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#aylonit-saris"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-ii--second-temple-judaism-early-christianity-and-precolonial-south-asia"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-KAMA-001",
+    "claim_text": "The Kāmasūtra explicitly describes persons of a 'third nature' and distinguishes two forms, including one characterized by feminine dress, speech, manner, and a specific sexual/economic role.",
+    "claim_type": "direct_textual",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Vātsyāyana, Kāmasūtra",
+        "locator": "2.9.6–24; trans. Wendy Doniger and Sudhir Kakar, Oxford University Press, 2002"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Wendy Doniger, 'The Third Nature: Gender Inversions in the Kamasutra,' in On Hinduism (Oxford University Press, 2014), 314–329",
+        "locator": "DOI 10.1093/acprof:oso/9780199360079.003.0022",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "Tṛtīyā prakṛti belongs to ancient Sanskrit erotic taxonomy. It should not be treated as automatically equivalent to contemporary transgender, nonbinary, or gay identity categories.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#kamasutra-third-nature"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-ii--second-temple-judaism-early-christianity-and-precolonial-south-asia"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-MUGHAL-001",
+    "claim_text": "Surviving naming, dress, office, and textual evidence generally categorized Mughal khwāja sarās as men, despite castration and distinctive bodily characteristics.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "secondary_sources": [
+      {
+        "citation": "Emma Kalb, 'A eunuch at the threshold: mediating access and intimacy in the Mughal world,' Journal of the Royal Asiatic Society 33.3 (2023): 747–768",
+        "locator": "DOI 10.1017/S1356186322000827",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "The term 'eunuch' has historically collapsed different South Asian categories. Kalb distinguishes Mughal enslaved, castrated khwāja sarās from hijra communities and notes that Mughal evidence does not support treating the former as a third gender.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#mughal-khwaja-sara"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-ii--second-temple-judaism-early-christianity-and-precolonial-south-asia"
+      }
+    ]
   }
 ]
