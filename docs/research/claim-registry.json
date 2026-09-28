@@ -3146,5 +3146,188 @@
     }
   ],
   "notes": "This is deliberately classified with a qualification because the source is later rabbinic evidence, not direct evidence of first-century courtroom practice."
-}
+},
+  {
+    "claim_id": "GOT-BUGIS-001",
+    "claim_text": "Sharyn Graham Davies documents Bugis society as recognizing five gender categories rather than only two.",
+    "claim_type": "historical_interpretation",
+    "status": "verified",
+    "confidence": "high",
+    "secondary_sources": [
+      {
+        "citation": "Sharyn Graham Davies, Challenging Gender Norms: Five Genders among Bugis in Indonesia (Gale Cengage, 2007)",
+        "locator": "Monash University publication record and abstract; https://research.monash.edu/en/publications/challenging-gender-norms-five-genders-among-bugis-in-indonesia/",
+        "stance": "supports"
+      }
+    ],
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#bugis"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#starter-cases"
+      }
+    ],
+    "notes": "Numeric summary is qualified in public text: the five categories have distinct social/ritual meanings and are not interchangeable."
+  },
+  {
+    "claim_id": "GOT-SAMOA-001",
+    "claim_text": "Published research describes fa'afafine as a locally recognized alternative gender-role category distinct from normative man and woman categories.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "secondary_sources": [
+      {
+        "citation": "Paul L. Vasey and Nancy H. Bartlett, What can the Samoan Fa'afafine teach us about the Western concept of gender identity disorder in childhood? Perspectives in Biology and Medicine 50.4 (2007): 481–490",
+        "locator": "Abstract; DOI 10.1353/pbm.2007.0056; https://pubmed.ncbi.nlm.nih.gov/17951883/",
+        "stance": "supports"
+      },
+      {
+        "citation": "Paul L. Vasey et al., Traits of separation anxiety in childhood: a retrospective study of Samoan men, women, and fa'afafine, Archives of Sexual Behavior 40 (2011): 511–517",
+        "locator": "Abstract; DOI 10.1007/s10508-009-9589-0; https://pubmed.ncbi.nlm.nih.gov/20013150/",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "The cited studies use Western analytical labels such as transgender or alternative gender role; the module does not assume those are exact translations of the Samoan category.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#faafafine"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#starter-cases"
+      }
+    ],
+    "notes": "Terminology qualification is part of the public claim context."
+  },
+  {
+    "claim_id": "GOT-KSIRA-001",
+    "claim_text": "Muhammad Azfar Nisar documents a heterogeneous gender-nonconforming community and significant internal distinctions among umbrella terms.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "secondary_sources": [
+      {
+        "citation": "Muhammad Azfar Nisar, Governing Thirdness: State, Society, and Non-binary Identities (Cambridge University Press, 2021/2022)",
+        "locator": "Book description and chapter 2 summary; DOI 10.1017/9781009030045",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "Khawaja sira, hijra, and related terms have context-dependent meanings; the module does not treat all South Asian gender-nonconforming people as one uniform identity.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#khawaja-sira"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#starter-cases"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-TWOSPIRIT-001",
+    "claim_text": "“Two-Spirit” is treated as a modern umbrella adopted in 1990, not back-projected as the historical name of every Indigenous tradition.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "secondary_sources": [
+      {
+        "citation": "Gregory D. Smithers, Reclaiming Two-Spirits: Sexuality, Spiritual Renewal & Sovereignty in Native America (Beacon Press, 2022)",
+        "locator": "Smithsonian catalog summary: umbrella term began being used in 1990 and discusses tribally specific identities; https://www.si.edu/es/object/reclaiming-two-spirits-sexuality-spiritual-renewal-sovereignty-native-america-gregory-d-smithers%3Asiris_sil_1173748",
+        "stance": "supports"
+      },
+      {
+        "citation": "Sue-Ellen Jacobs, Wesley Thomas, and Sabine Lang, eds., Two-Spirit People: Native American Gender Identity, Sexuality, and Spirituality (University of Illinois Press, 1997)",
+        "locator": "Smithsonian catalog contents and summary; nation-specific cases and critique of Western categories",
+        "stance": "qualifies"
+      }
+    ],
+    "counterargument": "Two-Spirit is useful as a contemporary umbrella, but it cannot substitute for specific Indigenous nations' historical categories, meanings, or terminology.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#two-spirit"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#starter-cases"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-EUNUCH-001",
+    "claim_text": "Kathryn M. Ringrose argues that Byzantine eunuchs occupied a distinct gender configuration beyond a simple male/female social binary, especially in courtly contexts.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "medium",
+    "secondary_sources": [
+      {
+        "citation": "Kathryn M. Ringrose, The Perfect Servant: Eunuchs and the Social Construction of Gender in Byzantium (University of Chicago Press, 2003; Oxford Academic online ed. 2004)",
+        "locator": "Introduction and chapters 1, 5, 8; DOI 10.7208/chicago/9780226720166.001.0001",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "This is Ringrose's modern analytical interpretation of Byzantine evidence, not a claim that Byzantine sources used contemporary Western gender terminology.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#byzantine-eunuchs"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#starter-cases"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-INTERSEX-001",
+    "claim_text": "The National Academies describes sex as multidimensional: multiple anatomical and physiological traits usually align but do not always do so.",
+    "claim_type": "scholarly_consensus",
+    "status": "verified",
+    "confidence": "high",
+    "secondary_sources": [
+      {
+        "citation": "National Academies of Sciences, Engineering, and Medicine, Measuring Sex, Gender Identity, and Sexual Orientation (National Academies Press, 2022)",
+        "locator": "Summary table defining sex as a multidimensional construct; https://nap.nationalacademies.org/catalog/26424/measuring-sex-gender-identity-and-sexual-orientation",
+        "stance": "supports"
+      },
+      {
+        "citation": "David Andrew Griffiths, Diagnosing sex: Intersex surgery and sex change in Britain 1930–1955, Sexualities 21.3 (2018): 476–495",
+        "locator": "Historical medicalization context; https://pmc.ncbi.nlm.nih.gov/articles/PMC5836525/",
+        "stance": "discusses"
+      },
+      {
+        "citation": "Luke Muschialli et al., Perspectives on conducting sex-normalising intersex surgeries conducted in infancy: A systematic review, PLOS Global Public Health 4.8 (2024): e0003568",
+        "locator": "Systematic review of elective childhood interventions; https://pubmed.ncbi.nlm.nih.gov/39197054/",
+        "stance": "discusses"
+      }
+    ],
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#intersex"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#starter-cases"
+      }
+    ],
+    "notes": "The public module explicitly states that intersex is not itself a third-gender category and keeps sex traits separate from social gender."
+  }
 ]
