@@ -196,7 +196,7 @@ The first research pass should expand these areas without assuming they all cont
 31. Deborah A. Miranda, “Extermination of the Joyas: Gendercide in Spanish California,” *GLQ* 16.1–2 (2010): 253–284. https://doi.org/10.1215/10642684-2009-022
 32. Diana Roselly Pérez Gerardo, “‘Hombres que vivían como las mujeres’ en la Alta California del siglo XVIII: Coyas/joyas, cuút o uluqi, ¿sodomitas, hermafroditas o amaricados?,” *Historia Crítica* 93 (2024): 3–24. https://doi.org/10.7440/histcrit93.2024.01
 33. K. Tsianina Lomawaima, “Domesticity in the federal Indian schools: the power of authority over mind and body,” *American Ethnologist* 20.2 (1993): 227–240. https://doi.org/10.1525/ae.1993.20.2.02a00010
-34. Margaret D. Jacobs et al. / broader Two-Spirit boarding-school synthesis: see “Berdache to Two-Spirit and Beyond,” in *The Oxford Handbook of Indigenous Sociology* (2022), pp. 450–463, and David Wallace Adams, *Education for Extinction* (University Press of Kansas; rev. ed. 2020). https://academic.oup.com/edited-volume/37077/chapter-abstract/378013519
+34. “Berdache to Two-Spirit and Beyond,” in *The Oxford Handbook of Indigenous Sociology* (2022), pp. 450–463, on forced assimilation, boarding/residential schools, compulsory Christianity, and Indigenous gender frameworks; see also David Wallace Adams, *Education for Extinction* (University Press of Kansas; rev. ed. 2020). https://academic.oup.com/edited-volume/37077/chapter-abstract/378013519
 35. Sally Engle Merry, “Early Pacific Encounters and Masculinity: War, Sex, and Christianity in Hawai‘i,” *Current Anthropology* 62.S23 (2021). https://doi.org/10.1086/711391
 
 ## Next research standard
