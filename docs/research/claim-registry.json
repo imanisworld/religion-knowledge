@@ -4095,5 +4095,182 @@
         "anchor": "#historical-layer-iv--modern-medicine-and-legal-sex-classification"
       }
     ]
+  },
+  {
+    "claim_id": "GOT-NNOBI-001",
+    "claim_text": "Ifi Amadiume documents Nnobi institutions in which women could occupy socially masculine kinship and political positions described analytically as 'male daughters' and 'female husbands'.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "secondary_sources": [
+      {
+        "citation": "Ifi Amadiume, Male Daughters, Female Husbands: Gender and Sex in an African Society (1987; new ed. 2015)",
+        "locator": "Book argument summarized in University of Chicago Press catalog description",
+        "stance": "supports"
+      },
+      {
+        "citation": "Lorelle Semley, 'When We Discovered Gender: A Retrospective on Ifi Amadiume’s Male Daughters, Female Husbands,' Journal of West African History 3.2 (2017): 117–123",
+        "locator": "DOI 10.14321/jwestafrihist.3.2.0117",
+        "stance": "qualifies"
+      }
+    ],
+    "counterargument": "Amadiume's wider claims about precolonial gender are influential and debated. These roles are treated as kinship/status positions, not automatic modern gender identities or a continent-wide African model.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#nnobi-gender-roles"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-v--africa-and-deeper-pacific--southeast-asia"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-NANDI-001",
+    "claim_text": "Regina Smith Oboler documents Nandi women who married wives, paid bridewealth, managed family property, and became the social/legal fathers of their wives' children in order to secure heirs.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "secondary_sources": [
+      {
+        "citation": "Regina Smith Oboler, 'Is the Female Husband a Man? Woman/Woman Marriage among the Nandi of Kenya,' Ethnology 19.1 (1980): 69–88",
+        "locator": "DOI 10.2307/3773320",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "The institution is primarily about kinship, inheritance, property, and fatherhood and should not automatically be mapped onto modern lesbian or transgender identity.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#nandi-female-husband"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-v--africa-and-deeper-pacific--southeast-asia"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-YANDAUDU-001",
+    "claim_text": "Rudolf Gaudio documents 'yan daudu as a recognized category of feminine men in Hausa Muslim society with distinctive social networks, speech practices, occupations, and relationships to women's spaces and bori traditions.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "secondary_sources": [
+      {
+        "citation": "Rudolf Pell Gaudio, Allah Made Us: Sexual Outlaws in an Islamic African City (Wiley-Blackwell, 2009)",
+        "locator": "Ethnography of 'yan daudu in Hausa-speaking northern Nigeria",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "The category intersects gender expression, sexuality, class, religion, and urban social life and is not treated as a direct equivalent of gay man, trans woman, or third gender.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#yan-daudu"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-v--africa-and-deeper-pacific--southeast-asia"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-MAHU-001",
+    "claim_text": "Douglas Oliver's reconstruction of late Indigenous Tahitian society reports institutionalized tolerance for anatomically male people who adopted female behavioral roles, identified as māhū.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "secondary_sources": [
+      {
+        "citation": "Douglas L. Oliver, Ancient Tahitian Society (University of Hawai‘i Press, 1974), vol. 2, ch. 15",
+        "locator": "Open-access JSTOR edition, discussion of māhū in chapter 15",
+        "stance": "supports"
+      },
+      {
+        "citation": "Makiko Kuwahara, 'Living as and Living with Māhū and Raerae: Geopolitics, Sex, and Gender in the Society Islands,' in Gender on the Edge (2014), 93–114",
+        "locator": "DOI 10.21313/hawaii/9780824838829.003.0005",
+        "stance": "qualifies"
+      }
+    ],
+    "counterargument": "Oliver's account is a historical reconstruction using early-contact sources; modern māhū and raerae categories are not assumed to be unchanged survivals from the eighteenth century.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#tahiti-mahu"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-v--africa-and-deeper-pacific--southeast-asia"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-FAKALEITI-001",
+    "claim_text": "Ethnographic scholarship documents fakaleitī as a recognized Tongan category involving feminine presentation and social roles among people assigned male.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "secondary_sources": [
+      {
+        "citation": "Mary K. Good, 'The Fokisi and the Fakaleitī: Provocative Performances in Tonga,' in Gender on the Edge (2014), 213–240",
+        "locator": "DOI 10.21313/hawaii/9780824838829.003.0010",
+        "stance": "supports"
+      },
+      {
+        "citation": "Niko Besnier, 'Transgenderism, Locality, and the Miss Galaxy Beauty Pageant in Tonga,' American Ethnologist 29.3 (2002): 534–566",
+        "locator": "DOI 10.1525/ae.2002.29.3.534",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "Fakaleitī identities are heterogeneous and culturally specific; the term is not treated as a one-to-one translation of 'trans woman'.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#tonga-fakaleiti"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-v--africa-and-deeper-pacific--southeast-asia"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-WARIA-001",
+    "claim_text": "Tom Boellstorff documents waria as a widely recognized Indonesian feminine-male/transfeminine social category embedded in Indonesian national culture.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "secondary_sources": [
+      {
+        "citation": "Tom Boellstorff, 'Playing Back the Nation: Waria, Indonesian Transvestites,' Cultural Anthropology 19.2 (2004): 159–195",
+        "locator": "DOI 10.1525/can.2004.19.2.159",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "Boellstorff explicitly cautions against treating waria as a universal third gender; his analysis describes the category as a form of male femininity within Indonesian national culture.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#indonesia-waria"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-v--africa-and-deeper-pacific--southeast-asia"
+      }
+    ]
   }
 ]

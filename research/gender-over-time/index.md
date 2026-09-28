@@ -138,6 +138,33 @@ This pass follows the shift from medical diagnosis and surgical management into 
 - **Third/X markers do not all mean the same thing.** Germany’s “divers,” Nepal’s “other”/X, and Australian/New Zealand X passport markers arise from different legal systems and eligibility rules.
 - **Current U.S. passport policy is time-sensitive.** The page records the policy as of September 2026 rather than treating it as permanent law.
 
+## Historical layer V — Africa and deeper Pacific / Southeast Asia
+
+This pass broadens the comparative record while keeping two analytically different phenomena separate:
+
+1. **named or recognized gendered social categories**, such as *yan daudu*, *māhū*, *fakaleitī*, and *waria*; and
+2. **kinship/status roles that can cross ordinary sex-linked expectations**, such as Nnobi “female husbands” and Nandi female husbands.
+
+Those should not be counted as though they were the same kind of “extra gender.”
+
+| Case | Place / period | What is documented | Status |
+|---|---|---|---|
+| Nnobi “male daughters” and “female husbands” | Igbo society, southeastern Nigeria; 20th-century ethnography with historical reconstruction | Ifi Amadiume argues that Nnobi institutions allowed women to occupy socially masculine kinship/political positions as “male daughters” or “female husbands,” demonstrating that sex did not mechanically determine every social role. Later scholarship treats her work as foundational but also debates how far her conclusions about precolonial gender and sexuality should be generalized. | **Influential interpretation + debate** |
+| Nandi female husbands | Kenya; 20th-century ethnography of a longstanding institution | Regina Smith Oboler documents women who married wives, paid bridewealth, managed property, and became the social/legal fathers of their wives’ children to secure heirs. Nandi informants described the female husband as becoming socially male in key property and family contexts. The institution is primarily about kinship, inheritance, and fatherhood—not automatically lesbian identity. | **Documented kinship/status role** |
+| *yan daudu* | Hausa-speaking northern Nigeria; modern ethnography with older historical roots | Rudolf Gaudio documents *yan daudu* as feminine men in Hausa Muslim society, with distinctive speech, social networks, occupations, and relationships to women’s spaces and *bori* traditions. The category intersects gender expression, sexuality, class, religion, and urban social life, and should not be reduced to a Western gay/trans label. | **Documented local category** |
+| *māhū* in Tahiti / Society Islands | Society Islands; reconstructed late Indigenous era + modern scholarship | Douglas Oliver’s reconstruction of pre-European Tahitian society reports institutionalized tolerance for anatomically male people who adopted female behavioral roles, identified as *māhū*. Modern Pacific scholarship treats *māhū* and later *raerae* as distinct categories shaped differently by family, tourism, colonialism, and globalization. | **Historical reconstruction + modern differentiation** |
+| *fakaleitī* | Tonga; contemporary ethnography | Scholarship documents *fakaleitī* as a recognized Tongan category involving feminine presentation and social roles among people assigned male. Their identities and life strategies vary, and the category is shaped by Tongan kinship, sexuality, religion, migration, and global media rather than being a simple translation of “trans woman.” | **Documented local category** |
+| *waria* | Indonesia; contemporary national culture | Tom Boellstorff documents *waria* as a widely recognized Indonesian feminine-male/transfeminine social category. His analysis explicitly warns that *waria* are better understood in their Indonesian context than simply called a universal “third gender.” | **Documented local category + analytical qualification** |
+
+### What this changes
+
+- **Africa does not supply one “African gender system.”** Nnobi social roles, Nandi female husbands, and Hausa *yan daudu* are different institutions with different logics.
+- **Kinship can override sex-linked status without creating a new identity category.** Nandi female husbands are the clearest example: becoming a husband/father changes legal and social position, not necessarily erotic identity.
+- **Religious context can coexist with gender variance rather than simply erase it.** Gaudio’s Hausa case shows *yan daudu* negotiating Muslim social life rather than existing outside religion altogether.
+- **Pacific categories are not interchangeable.** *Māhū*, *raerae*, *fa‘afafine*, and *fakaleitī* have related regional patterns but different histories and local meanings.
+- **Southeast Asian categories also resist universal labels.** Boellstorff explicitly analyzes *waria* through Indonesian national culture rather than treating the category as a generic global third gender.
+- **Counting genders remains the wrong first question.** The better questions are: what was the local term, what social/legal/ritual work did it do, who could occupy it, and did the culture treat it as identity, kinship office, bodily class, sexual role, or some combination?
+
 ## Case record fields
 
 Each mature case should answer, where evidence exists:
@@ -172,8 +199,8 @@ The first research pass should expand these areas without assuming they all cont
 - Early Christianity and later Christian institutions — **Acts 8, Matthew 19/Origen reception, and Nicaea Canon 1 added**
 - South Asia before and during colonial rule — **Kāmasūtra tṛtīyā prakṛti + Mughal khwāja sarā + British Hijra criminalization/reclassification added**
 - Islamic legal and court traditions, including eunuch institutions
-- African regions with culture-specific evidence
-- Southeast Asian and Pacific gender systems — **Hawaiian missionary/contact layer added; māhū-specific historical work still pending**
+- African regions with culture-specific evidence — **Nnobi, Nandi, and Hausa first pass added**
+- Southeast Asian and Pacific gender systems — **māhū, fakaleitī, waria, Bugis, fa‘afafine, and Hawaiian missionary/contact layers now represented**
 - Indigenous American traditions at nation/community level — **Alta California + U.S. boarding-school suppression layer added; nation-specific expansion pending**
 - Colonial law and missionary suppression, case by case — **first comparative layer added**
 - Modern state sex markers and third/nonbinary legal categories — **Germany, Nepal, U.S., Australia, and New Zealand first pass added**
@@ -235,6 +262,16 @@ The first research pass should expand these areas without assuming they all cont
 47. U.S. Department of State, “Sex Markers in Passports,” current policy page, accessed 2026-09-28. https://travel.state.gov/en/passports/apply/unique-needs/sex-markers.html
 48. Australian Department of Foreign Affairs and Trade, passport policy, “Sex (gender) on Australian travel document,” current policy allowing M/F/X. https://www.dfat.gov.au/about-us/publications/corporate/passports/passport-policy
 49. New Zealand Passports, “Change your gender in your passport,” current policy allowing M/F/X. https://www.passports.govt.nz/change-your-name-or-gender/change-your-gender-in-your-passport
+50. Ifi Amadiume, *Male Daughters, Female Husbands: Gender and Sex in an African Society* (Zed Books, 1987; new ed. 2015). University of Chicago Press catalog description of the new edition: https://press.uchicago.edu/dam/jcr%3Ae9af6e56-0097-4953-a7a8-b149aebce33a/Spring2015_UChicagoPress.pdf
+51. Lorelle Semley, “When We Discovered Gender: A Retrospective on Ifi Amadiume’s *Male Daughters, Female Husbands*,” *Journal of West African History* 3.2 (2017): 117–123. https://doi.org/10.14321/jwestafrihist.3.2.0117
+52. Regina Smith Oboler, “Is the Female Husband a Man? Woman/Woman Marriage among the Nandi of Kenya,” *Ethnology* 19.1 (1980): 69–88. https://www.jstor.org/stable/3773320
+53. Rudolf Pell Gaudio, *Allah Made Us: Sexual Outlaws in an Islamic African City* (Wiley-Blackwell, 2009), on *yan daudu* in Hausa-speaking northern Nigeria. https://books.google.com/books/about/Allah_Made_Us.html?id=ZC6OTVj44QUC
+54. Douglas L. Oliver, *Ancient Tahitian Society* (University of Hawai‘i Press, 1974), vol. 2, ch. 15, especially discussion of *māhū*. Open access: https://www.jstor.org/stable/j.ctvp2n5ds
+55. Niko Besnier, “Polynesian Gender Liminality Through Time and Space,” in Gilbert Herdt, ed., *Third Sex, Third Gender* (Zone Books, 1994), 285–328. https://www.jstor.org/stable/j.ctv16t6n2p.10
+56. Makiko Kuwahara, “Living as and Living with Māhū and Raerae: Geopolitics, Sex, and Gender in the Society Islands,” in Niko Besnier and Kalissa Alexeyeff, eds., *Gender on the Edge* (University of Hawai‘i Press, 2014), 93–114. https://doi.org/10.21313/hawaii/9780824838829.003.0005
+57. Mary K. Good, “The Fokisi and the Fakaleitī: Provocative Performances in Tonga,” in *Gender on the Edge* (University of Hawai‘i Press, 2014), 213–240. https://doi.org/10.21313/hawaii/9780824838829.003.0010
+58. Niko Besnier, “Transgenderism, Locality, and the Miss Galaxy Beauty Pageant in Tonga,” *American Ethnologist* 29.3 (2002): 534–566. https://doi.org/10.1525/ae.2002.29.3.534
+59. Tom Boellstorff, “Playing Back the Nation: Waria, Indonesian Transvestites,” *Cultural Anthropology* 19.2 (2004): 159–195. https://doi.org/10.1525/can.2004.19.2.159
 
 ## Next research standard
 
