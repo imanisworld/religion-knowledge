@@ -1,6 +1,6 @@
 {
   "module": "gender-over-time",
-  "version": 4,
+  "version": 5,
   "updated": "2026-09-28",
   "scope_note": "Research module outside the nine-document core corpus. Categories are culture- and period-specific; modern Western labels are not assumed to be exact equivalents.",
   "analytical_layers": [
@@ -777,6 +777,250 @@
           "year": 2021,
           "doi": "10.1086/711391",
           "url": "https://www.journals.uchicago.edu/doi/10.1086/711391"
+        }
+      ]
+    },
+    {
+      "id": "britain-intersex-surgery-pre-money",
+      "place": "Britain",
+      "period": "1930–1955",
+      "local_terms": [
+        "hermaphroditism",
+        "intersex"
+      ],
+      "topic": [
+        "sex_traits",
+        "medicalization",
+        "historical_practice"
+      ],
+      "claim": "British clinicians were performing surgical interventions on people with atypical sex characteristics before the Johns Hopkins protocols associated with John Money became internationally influential.",
+      "qualification": "The history is not a simple before/after story. Griffiths shows that British clinicians used surgery, hormones, social sex, gonadal sex, psychology, and welfare-state ideas in changing combinations. John Money was influential but did not invent intersex surgery.",
+      "evidence_status": "documented_historical_correction",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "David Andrew Griffiths",
+          "title": "Diagnosing sex: Intersex surgery and 'sex change' in Britain 1930–1955",
+          "year": 2018,
+          "doi": "10.1177/1363460717740339",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5836525/"
+        }
+      ]
+    },
+    {
+      "id": "johns-hopkins-1955-sex-assignment-model",
+      "place": "United States / Johns Hopkins Hospital",
+      "period": "1950s",
+      "local_terms": [
+        "gender role",
+        "sex assignment"
+      ],
+      "topic": [
+        "sex_traits",
+        "medicalization",
+        "social_gender",
+        "historical_practice"
+      ],
+      "claim": "John Money, Joan G. Hampson, and John L. Hampson published formal recommendations in 1955 on sex assignment, change of sex, and psychological management for people then described as hermaphroditic.",
+      "qualification": "Later historical scholarship describes the Hopkins approach as emphasizing early assignment, consistent gender rearing, and surgical conformity, but also shows that its genealogy was transatlantic and built on earlier clinical practices rather than arising fully formed from one researcher.",
+      "evidence_status": "primary_publication_plus_historical_interpretation",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "John Money, Joan G. Hampson, and John L. Hampson",
+          "title": "Hermaphroditism: recommendations concerning assignment of sex, change of sex and psychologic management",
+          "year": 1955,
+          "locator": "Bulletin of the Johns Hopkins Hospital 97(4):284–300",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/13260819/"
+        },
+        {
+          "author": "Sandra Eder",
+          "title": "Gender and Cortisone: Clinical Practice and Transatlantic Exchange in the Medical Management of Intersex in the 1950s",
+          "year": 2018,
+          "doi": "10.1353/bhm.2018.0073",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30613045/"
+        },
+        {
+          "author": "David Andrew Griffiths",
+          "title": "Diagnosing sex: Intersex surgery and 'sex change' in Britain 1930–1955",
+          "year": 2018,
+          "doi": "10.1177/1363460717740339",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5836525/"
+        }
+      ]
+    },
+    {
+      "id": "intersex-activism-1993-2006-consensus",
+      "place": "North America / international medicine",
+      "period": "1993–2006",
+      "local_terms": [
+        "intersex",
+        "disorders of sex development",
+        "DSD"
+      ],
+      "topic": [
+        "medicalization",
+        "activism",
+        "historical_practice"
+      ],
+      "claim": "Intersex patient activism in the 1990s challenged secrecy, stigma, and unwanted genital surgery; the 2006 international medical consensus explicitly recognized patient-advocacy and ethical concerns and proposed 'disorders of sex development' as new clinical terminology.",
+      "qualification": "The 2006 terminology was itself contested and did not end debate over surgery, consent, or the medicalization of intersex traits. The record tracks an institutional shift, not a completed resolution.",
+      "evidence_status": "documented_institutional_shift",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Intersex Society of North America",
+          "title": "What's the history behind the intersex rights movement?",
+          "year": null,
+          "url": "https://isna.org/faq/history/"
+        },
+        {
+          "author": "Peter A. Lee et al.",
+          "title": "Consensus Statement on Management of Intersex Disorders",
+          "year": 2006,
+          "doi": "10.1542/peds.2006-0738",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16882788/"
+        }
+      ]
+    },
+    {
+      "id": "nyc-birth-certificate-sex-designation-history",
+      "place": "New York City, United States",
+      "period": "1965–2006",
+      "local_terms": [
+        "sex designation",
+        "birth certificate"
+      ],
+      "topic": [
+        "law_social_status",
+        "classification",
+        "medicalization"
+      ],
+      "claim": "New York City rules for changing sex designations on birth certificates changed substantially between 1965 and 2006, with administrative reasoning shifting from fraud prevention toward evidence of permanence.",
+      "qualification": "This case demonstrates the historical construction of legal sex criteria in one jurisdiction. It should not be generalized to all U.S. states or all identity documents.",
+      "evidence_status": "documented_legal_administrative_history",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Paisley Currah and Lisa Jean Moore",
+          "title": "‘We Won't Know Who You Are’: Contesting Sex Designations in New York City Birth Certificates",
+          "year": 2009,
+          "doi": "10.1111/j.1527-2001.2009.01048.x",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1527-2001.2009.01048.x"
+        }
+      ]
+    },
+    {
+      "id": "germany-divers-self-determination-sequence",
+      "place": "Germany",
+      "period": "2013–2024",
+      "local_terms": [
+        "divers",
+        "Geschlechtseintrag"
+      ],
+      "topic": [
+        "law_social_status",
+        "classification",
+        "gender_identity"
+      ],
+      "claim": "German civil-status law evolved from allowing a blank sex entry for some people, to a 2017 constitutional ruling requiring a positive option beyond male/female when sex registration is mandatory, to the 2018 'divers' entry and a 2024 self-determination law allowing changes among available gender-marker options or deletion of the marker.",
+      "qualification": "Eligibility and legal effects changed across these reforms. The 2017 constitutional case concerned a person with atypical sex development; the 2024 Self-Determination Act established a broader identity-based procedure and should not be retroactively read into the earlier law.",
+      "evidence_status": "direct_court_law_sequence",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "German Federal Constitutional Court",
+          "title": "Order of 10 October 2017, 1 BvR 2019/16",
+          "year": 2017,
+          "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/EN/2017/10/rs20171010_1bvr201916en.html"
+        },
+        {
+          "author": "Deutscher Bundestag",
+          "title": "Birth register amendment adding 'divers'",
+          "year": 2018,
+          "url": "https://www.bundestag.de/webarchiv/textarchiv/2018/kw41-de-geburtenregister-570762"
+        },
+        {
+          "author": "Federal Republic of Germany",
+          "title": "Act on Self-Determination With Regard to Gender Markers (SBGG)",
+          "year": 2024,
+          "url": "https://www.gesetze-im-internet.de/englisch_sbgg/englisch_sbgg.html"
+        }
+      ]
+    },
+    {
+      "id": "nepal-other-x-state-documents",
+      "place": "Nepal",
+      "period": "2007–present",
+      "local_terms": [
+        "other",
+        "X"
+      ],
+      "topic": [
+        "law_social_status",
+        "classification",
+        "gender_identity"
+      ],
+      "claim": "Nepal has officially recognized a third-gender/'other' category in state documents since implementation of the 2007 Supreme Court decision, and current passport instructions provide M, F, and X options tied to the applicant's citizenship certificate.",
+      "qualification": "The legal category 'other' and passport marker X are administrative categories, not proof that all Nepali people who use them share one identity or social role.",
+      "evidence_status": "documented_legal_administrative_recognition",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Government of Nepal",
+          "title": "Report to the United Nations on implementation of third-gender recognition",
+          "year": 2013,
+          "locator": "Notes official recognition since 2007 and citizenship 'other' category",
+          "url": "https://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=X5CK9SziIYOo9%2FxI%2BAaIanuryjfLxVl3hbewP7gJOQbdPKL%2BKajh%2BvyJqZLZcYuFpBXiUUmKVrx2DK8EaAMK%2BnsOe2exBC2%2FzLR1haoSYzQ%3D"
+        },
+        {
+          "author": "Nepal Department of Passports",
+          "title": "Passport application instructions",
+          "year": 2026,
+          "locator": "Sex: M male, F female, X other, according to citizenship certificate",
+          "url": "https://nepalpassport.gov.np/en/process/process-40"
+        }
+      ]
+    },
+    {
+      "id": "passport-marker-policy-comparison-2026",
+      "place": "United States / Australia / New Zealand",
+      "period": "policy snapshot: 2026-09-28",
+      "local_terms": [
+        "M",
+        "F",
+        "X"
+      ],
+      "topic": [
+        "law_social_status",
+        "classification",
+        "current_policy"
+      ],
+      "claim": "Passport sex/gender marker policy differs across states: as of 28 September 2026 the United States issues only M or F matching sex at birth and no X marker, while Australia and New Zealand continue to provide X marker options under their passport systems.",
+      "qualification": "This is a dated policy snapshot, not a permanent rule. U.S. policy is actively shaped by executive action and litigation; Australia and New Zealand use their own definitions and eligibility procedures.",
+      "evidence_status": "current_policy_comparison",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "U.S. Department of State",
+          "title": "Sex Markers in Passports",
+          "year": 2026,
+          "locator": "Current policy page accessed 2026-09-28",
+          "url": "https://travel.state.gov/en/passports/apply/unique-needs/sex-markers.html"
+        },
+        {
+          "author": "Australian Department of Foreign Affairs and Trade",
+          "title": "Passport policy — Sex (gender) on Australian travel document",
+          "year": 2026,
+          "locator": "Current policy page accessed 2026-09-28",
+          "url": "https://www.dfat.gov.au/about-us/publications/corporate/passports/passport-policy"
+        },
+        {
+          "author": "New Zealand Passports",
+          "title": "Change your gender in your passport",
+          "year": 2026,
+          "locator": "Current policy page accessed 2026-09-28",
+          "url": "https://www.passports.govt.nz/change-your-name-or-gender/change-your-gender-in-your-passport"
         }
       ]
     }
