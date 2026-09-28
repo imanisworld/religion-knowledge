@@ -95,6 +95,26 @@ This pass expands the timeline into cases where eunuch status, ambiguous sex cha
 - **South Asia:** the Kāmasūtra gives us a genuine named “third nature” category, while Mughal *khwāja sarās* show the opposite pattern: bodily difference did **not** necessarily move a person outside the category “man.”
 - **Method:** the same bodily condition—especially castration—can produce very different social classifications in different cultures.
 
+## Historical layer III — Colonial suppression and reclassification
+
+This pass tracks cases where colonial governments, missions, and schools did more than disapprove of local gender systems: they **renamed, registered, criminalized, segregated, or administratively forced people into imported categories**.
+
+| Case | Place / period | What is documented | Status |
+|---|---|---|---|
+| Criminal Tribes Act and Hijras | British North India, 1871 onward | Part II of the 1871 Criminal Tribes Act created registers of people the colonial state called “eunuchs,” penalized registered people for appearing publicly in feminine dress or performing, and restricted guardianship/adoption. Jessica Hinchy argues that officials explicitly sought the gradual elimination of Hijra social reproduction and public visibility. | **Direct law + documented elimination policy** |
+| Colonial “eunuch” as administrative male category | British North India, mid–late 19th century | Colonial officials collapsed several distinct South Asian groups into the English administrative category “eunuch” and legally defined that category in male terms, including “persons of the male sex” judged impotent. Hinchy shows that the category made diverse identities legible to the colonial state by treating them as failed or deviant men. | **Documented reclassification** |
+| *joyas* / nation-specific gender roles in Alta California | Spanish California, late 18th–early 19th centuries | Missionary and military accounts describe Indigenous people who dressed and worked in feminine roles and use the Spanish colonial label *joya*. More recent scholarship shows that this label collapsed distinct nation-specific terms and roles. Missionaries condemned the practices and expected missionization to eliminate them. Deborah Miranda characterizes this process as “gendercide”; that label remains attributed to her. | **Primary colonial testimony + attributed interpretation** |
+| Federal Indian boarding schools and binary gender discipline | United States, late 19th–20th centuries | Federal boarding schools imposed sex-segregated dress, labor, domestic training, and Victorian gender norms as part of forced assimilation. Scholarship on Two-Spirit history identifies boarding schools and compulsory Christianity as major mechanisms that disrupted Indigenous gender frameworks. | **Documented institutional assimilation** |
+| Missionary reshaping of Hawaiian sex/gender order | Hawai‘i, c. 1820s–1850s | Protestant missionaries brought ideals of permanent heterosexual marriage, stricter sexual regulation, and a more patriarchal domestic model. Sally Engle Merry argues that Hawaiian gender and sexual relations changed through interaction among missionaries, chiefs, commerce, disease, and political transformation—not by simple one-way replacement. | **Documented structural change with multicausal qualification** |
+
+### What this changes
+
+- **Colonial law did not merely “discover” pre-existing categories.** It often created new administrative categories by collapsing distinct local identities into terms such as “eunuch.”
+- **Binary enforcement can be institutional rather than theological.** Registration forms, school dormitories, uniforms, work assignments, inheritance rules, and policing all matter alongside sermons or doctrine.
+- **Suppression varied by region.** Spanish California mission records, U.S. boarding schools, British Indian law, and Hawaiian missionization operated differently; they should not be treated as one universal colonial mechanism.
+- **Resistance and survival remain part of the record.** Hinchy documents Hijras evading and frustrating colonial control; boarding-school scholarship likewise documents Native resistance rather than total cultural erasure.
+- **“Colonialism erased third genders” is too broad to publish as a single factual claim.** The site will instead document specific policies, institutions, local categories, and outcomes.
+
 ## Case record fields
 
 Each mature case should answer, where evidence exists:
@@ -127,12 +147,12 @@ The first research pass should expand these areas without assuming they all cont
 - Rabbinic sex/gender classifications — **tumtum/androgynos + aylonit/saris added**
 - Greece and Rome — **galli first pass added**
 - Early Christianity and later Christian institutions — **Acts 8, Matthew 19/Origen reception, and Nicaea Canon 1 added**
-- South Asia before and during colonial rule — **Kāmasūtra tṛtīyā prakṛti + Mughal khwāja sarā first pass added; colonial Hijra governance still pending**
+- South Asia before and during colonial rule — **Kāmasūtra tṛtīyā prakṛti + Mughal khwāja sarā + British Hijra criminalization/reclassification added**
 - Islamic legal and court traditions, including eunuch institutions
 - African regions with culture-specific evidence
-- Southeast Asian and Pacific gender systems
-- Indigenous American traditions at nation/community level
-- Colonial law and missionary suppression, case by case
+- Southeast Asian and Pacific gender systems — **Hawaiian missionary/contact layer added; māhū-specific historical work still pending**
+- Indigenous American traditions at nation/community level — **Alta California + U.S. boarding-school suppression layer added; nation-specific expansion pending**
+- Colonial law and missionary suppression, case by case — **first comparative layer added**
 - Modern state sex markers and third/nonbinary legal categories
 - History of intersex medicine and non-consensual childhood intervention
 - Reproduction arguments used in theology, law, medicine, and political philosophy
@@ -170,6 +190,14 @@ The first research pass should expand these areas without assuming they all cont
 25. Wendy Doniger, “The Third Nature: Gender Inversions in the Kamasutra,” in *On Hinduism* (Oxford University Press, 2014), 314–329. https://doi.org/10.1093/acprof:oso/9780199360079.003.0022
 26. Vātsyāyana, *Kāmasūtra* 2.9.6–24, trans. Wendy Doniger and Sudhir Kakar (Oxford University Press, 2002), describing two forms of *tṛtīyā prakṛti* (“third nature”).
 27. Emma Kalb, “A eunuch at the threshold: mediating access and intimacy in the Mughal world,” *Journal of the Royal Asiatic Society* 33.3 (2023): 747–768. https://doi.org/10.1017/S1356186322000827
+28. *Criminal Tribes Act, 1871*, Part II, especially §§24–27. Digitized text: https://indiankanoon.org/doc/17412906/
+29. Jessica Hinchy, *Governing Gender and Sexuality in Colonial India: The Hijra, c. 1850–1900* (Cambridge University Press, 2019). https://doi.org/10.1017/9781108592208
+30. Jessica Hinchy, “Obscenity, Moral Contagion and Masculinity: Hijras in Public Space in Colonial North India,” *Asian Studies Review* 38.2 (2014): 274–294. https://doi.org/10.1080/10357823.2014.901298
+31. Deborah A. Miranda, “Extermination of the Joyas: Gendercide in Spanish California,” *GLQ* 16.1–2 (2010): 253–284. https://doi.org/10.1215/10642684-2009-022
+32. Diana Roselly Pérez Gerardo, “‘Hombres que vivían como las mujeres’ en la Alta California del siglo XVIII: Coyas/joyas, cuút o uluqi, ¿sodomitas, hermafroditas o amaricados?,” *Historia Crítica* 93 (2024): 3–24. https://doi.org/10.7440/histcrit93.2024.01
+33. K. Tsianina Lomawaima, “Domesticity in the federal Indian schools: the power of authority over mind and body,” *American Ethnologist* 20.2 (1993): 227–240. https://doi.org/10.1525/ae.1993.20.2.02a00010
+34. Margaret D. Jacobs et al. / broader Two-Spirit boarding-school synthesis: see “Berdache to Two-Spirit and Beyond,” in *The Oxford Handbook of Indigenous Sociology* (2022), pp. 450–463, and David Wallace Adams, *Education for Extinction* (University Press of Kansas; rev. ed. 2020). https://academic.oup.com/edited-volume/37077/chapter-abstract/378013519
+35. Sally Engle Merry, “Early Pacific Encounters and Masculinity: War, Sex, and Christianity in Hawai‘i,” *Current Anthropology* 62.S23 (2021). https://doi.org/10.1086/711391
 
 ## Next research standard
 
