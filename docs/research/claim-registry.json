@@ -2893,260 +2893,260 @@
     ],
     "notes": "Tracked set: governor, lieutenant governor, attorney general, House speaker, Senate president, and chief justice."
   },
-{
-  "claim_id": "MN-MAT1-001",
-  "claim_text": "Matthew's genealogy is intentionally telescoped and numerically arranged. Omitting generations was compatible with ancient genealogical practice, but the omissions also show that the 3×14 structure is a literary construction rather than an exhaustive pedigree.",
-  "claim_type": "historical_interpretation",
-  "status": "verified_with_qualification",
-  "confidence": "high",
-  "primary_sources": [
-    {
-      "source": "Matthew 1:1–17",
-      "locator": "Matthew 1:8, 1:11, 1:17"
-    },
-    {
-      "source": "1 Chronicles 3",
-      "locator": "1 Chronicles 3:10–16"
-    }
-  ],
-  "secondary_sources": [
-    {
-      "citation": "New American Bible, Revised Edition, Matthew 1 notes",
-      "locator": "Footnote to Matthew 1:17",
-      "stance": "supports"
-    },
-    {
-      "citation": "Amy-Jill Levine, 'The Jewish Origins of the Christmas Story,' TheTorah.com (2019)",
-      "locator": "Sections 'Jesus as a Son of David' and discussion of the fourteen-generation scheme",
-      "stance": "supports"
-    }
-  ],
-  "counterargument": "Ancient genealogies could omit generations without functioning as modern exhaustive pedigrees. The qualification is that Matthew's selective structure does not by itself make the genealogy deceptive; it identifies its literary purpose and limits.",
-  "last_verified": "2026-09-27",
-  "reviewer": "audit-2026-09-27",
-  "public_locations": [
-    {
-      "file": "Bible_Deep_Dive_Master_Notes.md",
-      "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
-    },
-    {
-      "file": "master-notes.html",
-      "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
-    }
-  ],
-  "notes": "NABRE explicitly identifies Ahaziah, Joash, and Amaziah as omitted and notes the apparent thirteen-name final section."
-},
-{
-  "claim_id": "MN-MAT1-002",
-  "claim_text": "Matthew wants both claims at once — Jesus is Son of David through Joseph's line, and Joseph did not biologically father him.",
-  "claim_type": "historical_interpretation",
-  "status": "verified_with_qualification",
-  "confidence": "high",
-  "primary_sources": [
-    {
-      "source": "Matthew 1",
-      "locator": "Matthew 1:16, 1:18–25"
-    }
-  ],
-  "secondary_sources": [
-    {
-      "citation": "Eugene Park, Commentary on Matthew 1:18–25, Working Preacher (2025)",
-      "locator": "Discussion of Joseph naming Jesus and symbolic adoption into the Davidic line",
-      "stance": "supports"
-    },
-    {
-      "citation": "New American Bible, Revised Edition, Matthew 1:18–25 note",
-      "locator": "Footnote explaining that through Joseph's adoption the child belongs to the family of David",
-      "stance": "supports"
-    }
-  ],
-  "counterargument": "The legal or adoptive mechanism is an interpretation of Matthew's narrative logic; Matthew does not use modern adoption terminology or provide a biological Davidic line through Mary.",
-  "last_verified": "2026-09-27",
-  "reviewer": "audit-2026-09-27",
-  "public_locations": [
-    {
-      "file": "Bible_Deep_Dive_Master_Notes.md",
-      "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
-    },
-    {
-      "file": "master-notes.html",
-      "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
-    }
-  ],
-  "notes": "Matthew 1:16 changes the genealogy formula so that Joseph is Mary's husband and Jesus is born from Mary; 1:18–25 excludes Joseph as biological father within the narrative."
-},
-{
-  "claim_id": "MN-MAT1-003",
-  "claim_text": "The two canonical genealogies are textually different. They may have different literary, legal, or theological functions. Later harmonizations exist, but no harmonization can be presented as the explicit explanation of either evangelist.",
-  "claim_type": "historical_interpretation",
-  "status": "verified_with_qualification",
-  "confidence": "high",
-  "primary_sources": [
-    {
-      "source": "Matthew 1:1–17",
-      "locator": "Matthew 1:6, 1:16"
-    },
-    {
-      "source": "Luke 3:23–38",
-      "locator": "Luke 3:23, 3:31"
-    }
-  ],
-  "secondary_sources": [
-    {
-      "citation": "Amy-Jill Levine, 'The Jewish Origins of the Christmas Story,' TheTorah.com (2019)",
-      "locator": "Discussion comparing Matthew and Luke genealogies",
-      "stance": "supports"
-    }
-  ],
-  "counterargument": "Julius Africanus's levirate explanation and the proposal that Luke gives Mary's genealogy are longstanding attempts to reconcile the lists. Neither mechanism is stated in Matthew or Luke.",
-  "last_verified": "2026-09-27",
-  "reviewer": "audit-2026-09-27",
-  "public_locations": [
-    {
-      "file": "Bible_Deep_Dive_Master_Notes.md",
-      "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
-    },
-    {
-      "file": "master-notes.html",
-      "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
-    }
-  ],
-  "notes": "Matthew runs through Solomon and names Joseph's father Jacob; Luke runs through Nathan and names Joseph as son of Heli."
-},
-{
-  "claim_id": "MN-MAT1-004",
-  "claim_text": "Jeremiah's \"write this man childless/without succession\" language cannot mean that Jehoiachin literally had no descendants.",
-  "claim_type": "direct_textual",
-  "status": "verified",
-  "confidence": "high",
-  "primary_sources": [
-    {
-      "source": "Jeremiah 22:24–30",
-      "locator": "Jeremiah 22:30"
-    },
-    {
-      "source": "1 Chronicles 3:17–19",
-      "locator": "Descendants of Jeconiah/Jehoiachin"
-    },
-    {
-      "source": "Haggai 2:20–23",
-      "locator": "Haggai 2:23, Zerubbabel as God's signet"
-    }
-  ],
-  "secondary_sources": [
-    {
-      "citation": "David A. Glatt-Gilad, 'Jehoiachin's Exile and the Division of Judah,' TheTorah.com (2017)",
-      "locator": "Discussion of Jeremiah 22:24–30 and Haggai 2:23",
-      "stance": "supports"
-    }
-  ],
-  "last_verified": "2026-09-27",
-  "reviewer": "audit-2026-09-27",
-  "public_locations": [
-    {
-      "file": "Bible_Deep_Dive_Master_Notes.md",
-      "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
-    },
-    {
-      "file": "master-notes.html",
-      "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
-    }
-  ],
-  "notes": "The operative dynastic language in Jeremiah 22:30 concerns a descendant prospering on David's throne and ruling Judah; Chronicles nevertheless lists descendants."
-},
-{
-  "claim_id": "MN-MAT1-005",
-  "claim_text": "Matthew unexpectedly names four women before Mary:",
-  "claim_type": "direct_textual",
-  "status": "verified",
-  "confidence": "high",
-  "primary_sources": [
-    {
-      "source": "Matthew 1:1–16",
-      "locator": "Matthew 1:3, 1:5, 1:6"
-    },
-    {
-      "source": "Genesis 38",
-      "locator": "Tamar and Judah"
-    },
-    {
-      "source": "Ruth 1–4",
-      "locator": "Ruth the Moabite and Boaz"
-    },
-    {
-      "source": "2 Samuel 11",
-      "locator": "David, Bathsheba, and Uriah"
-    }
-  ],
-  "secondary_sources": [
-    {
-      "citation": "Amy-Jill Levine, 'The Jewish Origins of the Christmas Story,' TheTorah.com (2019)",
-      "locator": "Discussion of the four women in Matthew's genealogy",
-      "stance": "supports"
-    },
-    {
-      "citation": "Mahri Leonard-Fleckman, 'Judah Meets Tamar “On the Road to Timnah,”' TheTorah.com (2020)",
-      "locator": "Genesis 38 discussion of Tamar and Judah",
-      "stance": "supports"
-    },
-    {
-      "citation": "Elsie R. Stern, 'Kinship over Covenant: The Book of Ruth's Traditional Challenge to Deuteronomy,' TheTorah.com (2025)",
-      "locator": "Discussion of Ruth's Moabite identity and Deuteronomy 23",
-      "stance": "qualifies"
-    }
-  ],
-  "last_verified": "2026-09-27",
-  "reviewer": "audit-2026-09-27",
-  "public_locations": [
-    {
-      "file": "Bible_Deep_Dive_Master_Notes.md",
-      "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
-    },
-    {
-      "file": "master-notes.html",
-      "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
-    }
-  ],
-  "notes": "The four are Tamar, Rahab, Ruth, and the woman Matthew calls 'the wife of Uriah' (Bathsheba). Their intended collective function is interpreted in several ways, so the audit does not impose one exclusive explanation."
-},
-{
-  "claim_id": "MN-MAT1-006",
-  "claim_text": "Mishnah Sotah 4:1, redacted well after the New Testament period, explicitly says a betrothed woman does not drink the bitter water, interpreting Numbers 5's \"while under her husband\" language as excluding her.",
-  "claim_type": "historical_date_event",
-  "status": "verified_with_qualification",
-  "confidence": "high",
-  "primary_sources": [
-    {
-      "source": "Mishnah Sotah",
-      "locator": "Mishnah Sotah 4:1"
-    },
-    {
-      "source": "Numbers 5",
-      "locator": "Numbers 5:19–20, 5:29"
-    }
-  ],
-  "secondary_sources": [
-    {
-      "citation": "Sefaria Library, Mishnah Sotah 4:1",
-      "locator": "Betrothed woman excluded from drinking the bitter water",
-      "stance": "supports"
-    }
-  ],
-  "counterargument": "The Mishnah is later than Matthew and cannot simply be projected backward as proof of first-century procedure. It is used only to show that later Jewish interpretation did not treat Numbers 5 as automatically applicable to a betrothed woman.",
-  "last_verified": "2026-09-27",
-  "reviewer": "audit-2026-09-27",
-  "public_locations": [
-    {
-      "file": "Bible_Deep_Dive_Master_Notes.md",
-      "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
-    },
-    {
-      "file": "master-notes.html",
-      "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
-    }
-  ],
-  "notes": "This is deliberately classified with a qualification because the source is later rabbinic evidence, not direct evidence of first-century courtroom practice."
-},
+  {
+    "claim_id": "MN-MAT1-001",
+    "claim_text": "Matthew's genealogy is intentionally telescoped and numerically arranged. Omitting generations was compatible with ancient genealogical practice, but the omissions also show that the 3×14 structure is a literary construction rather than an exhaustive pedigree.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Matthew 1:1–17",
+        "locator": "Matthew 1:8, 1:11, 1:17"
+      },
+      {
+        "source": "1 Chronicles 3",
+        "locator": "1 Chronicles 3:10–16"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "New American Bible, Revised Edition, Matthew 1 notes",
+        "locator": "Footnote to Matthew 1:17",
+        "stance": "supports"
+      },
+      {
+        "citation": "Amy-Jill Levine, 'The Jewish Origins of the Christmas Story,' TheTorah.com (2019)",
+        "locator": "Sections 'Jesus as a Son of David' and discussion of the fourteen-generation scheme",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "Ancient genealogies could omit generations without functioning as modern exhaustive pedigrees. The qualification is that Matthew's selective structure does not by itself make the genealogy deceptive; it identifies its literary purpose and limits.",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "Bible_Deep_Dive_Master_Notes.md",
+        "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
+      },
+      {
+        "file": "master-notes.html",
+        "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
+      }
+    ],
+    "notes": "NABRE explicitly identifies Ahaziah, Joash, and Amaziah as omitted and notes the apparent thirteen-name final section."
+  },
+  {
+    "claim_id": "MN-MAT1-002",
+    "claim_text": "Matthew wants both claims at once — Jesus is Son of David through Joseph's line, and Joseph did not biologically father him.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Matthew 1",
+        "locator": "Matthew 1:16, 1:18–25"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Eugene Park, Commentary on Matthew 1:18–25, Working Preacher (2025)",
+        "locator": "Discussion of Joseph naming Jesus and symbolic adoption into the Davidic line",
+        "stance": "supports"
+      },
+      {
+        "citation": "New American Bible, Revised Edition, Matthew 1:18–25 note",
+        "locator": "Footnote explaining that through Joseph's adoption the child belongs to the family of David",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "The legal or adoptive mechanism is an interpretation of Matthew's narrative logic; Matthew does not use modern adoption terminology or provide a biological Davidic line through Mary.",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "Bible_Deep_Dive_Master_Notes.md",
+        "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
+      },
+      {
+        "file": "master-notes.html",
+        "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
+      }
+    ],
+    "notes": "Matthew 1:16 changes the genealogy formula so that Joseph is Mary's husband and Jesus is born from Mary; 1:18–25 excludes Joseph as biological father within the narrative."
+  },
+  {
+    "claim_id": "MN-MAT1-003",
+    "claim_text": "The two canonical genealogies are textually different. They may have different literary, legal, or theological functions. Later harmonizations exist, but no harmonization can be presented as the explicit explanation of either evangelist.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Matthew 1:1–17",
+        "locator": "Matthew 1:6, 1:16"
+      },
+      {
+        "source": "Luke 3:23–38",
+        "locator": "Luke 3:23, 3:31"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Amy-Jill Levine, 'The Jewish Origins of the Christmas Story,' TheTorah.com (2019)",
+        "locator": "Discussion comparing Matthew and Luke genealogies",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "Julius Africanus's levirate explanation and the proposal that Luke gives Mary's genealogy are longstanding attempts to reconcile the lists. Neither mechanism is stated in Matthew or Luke.",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "Bible_Deep_Dive_Master_Notes.md",
+        "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
+      },
+      {
+        "file": "master-notes.html",
+        "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
+      }
+    ],
+    "notes": "Matthew runs through Solomon and names Joseph's father Jacob; Luke runs through Nathan and names Joseph as son of Heli."
+  },
+  {
+    "claim_id": "MN-MAT1-004",
+    "claim_text": "Jeremiah's \"write this man childless/without succession\" language cannot mean that Jehoiachin literally had no descendants.",
+    "claim_type": "direct_textual",
+    "status": "verified",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Jeremiah 22:24–30",
+        "locator": "Jeremiah 22:30"
+      },
+      {
+        "source": "1 Chronicles 3:17–19",
+        "locator": "Descendants of Jeconiah/Jehoiachin"
+      },
+      {
+        "source": "Haggai 2:20–23",
+        "locator": "Haggai 2:23, Zerubbabel as God's signet"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "David A. Glatt-Gilad, 'Jehoiachin's Exile and the Division of Judah,' TheTorah.com (2017)",
+        "locator": "Discussion of Jeremiah 22:24–30 and Haggai 2:23",
+        "stance": "supports"
+      }
+    ],
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "Bible_Deep_Dive_Master_Notes.md",
+        "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
+      },
+      {
+        "file": "master-notes.html",
+        "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
+      }
+    ],
+    "notes": "The operative dynastic language in Jeremiah 22:30 concerns a descendant prospering on David's throne and ruling Judah; Chronicles nevertheless lists descendants."
+  },
+  {
+    "claim_id": "MN-MAT1-005",
+    "claim_text": "Matthew unexpectedly names four women before Mary:",
+    "claim_type": "direct_textual",
+    "status": "verified",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Matthew 1:1–16",
+        "locator": "Matthew 1:3, 1:5, 1:6"
+      },
+      {
+        "source": "Genesis 38",
+        "locator": "Tamar and Judah"
+      },
+      {
+        "source": "Ruth 1–4",
+        "locator": "Ruth the Moabite and Boaz"
+      },
+      {
+        "source": "2 Samuel 11",
+        "locator": "David, Bathsheba, and Uriah"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Amy-Jill Levine, 'The Jewish Origins of the Christmas Story,' TheTorah.com (2019)",
+        "locator": "Discussion of the four women in Matthew's genealogy",
+        "stance": "supports"
+      },
+      {
+        "citation": "Mahri Leonard-Fleckman, 'Judah Meets Tamar “On the Road to Timnah,”' TheTorah.com (2020)",
+        "locator": "Genesis 38 discussion of Tamar and Judah",
+        "stance": "supports"
+      },
+      {
+        "citation": "Elsie R. Stern, 'Kinship over Covenant: The Book of Ruth's Traditional Challenge to Deuteronomy,' TheTorah.com (2025)",
+        "locator": "Discussion of Ruth's Moabite identity and Deuteronomy 23",
+        "stance": "qualifies"
+      }
+    ],
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "Bible_Deep_Dive_Master_Notes.md",
+        "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
+      },
+      {
+        "file": "master-notes.html",
+        "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
+      }
+    ],
+    "notes": "The four are Tamar, Rahab, Ruth, and the woman Matthew calls 'the wife of Uriah' (Bathsheba). Their intended collective function is interpreted in several ways, so the audit does not impose one exclusive explanation."
+  },
+  {
+    "claim_id": "MN-MAT1-006",
+    "claim_text": "Mishnah Sotah 4:1, redacted well after the New Testament period, explicitly says a betrothed woman does not drink the bitter water, interpreting Numbers 5's \"while under her husband\" language as excluding her.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Mishnah Sotah",
+        "locator": "Mishnah Sotah 4:1"
+      },
+      {
+        "source": "Numbers 5",
+        "locator": "Numbers 5:19–20, 5:29"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Sefaria Library, Mishnah Sotah 4:1",
+        "locator": "Betrothed woman excluded from drinking the bitter water",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "The Mishnah is later than Matthew and cannot simply be projected backward as proof of first-century procedure. It is used only to show that later Jewish interpretation did not treat Numbers 5 as automatically applicable to a betrothed woman.",
+    "last_verified": "2026-09-27",
+    "reviewer": "audit-2026-09-27",
+    "public_locations": [
+      {
+        "file": "Bible_Deep_Dive_Master_Notes.md",
+        "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
+      },
+      {
+        "file": "master-notes.html",
+        "anchor": "#a-matthew-1-genealogy-jeconiah-betrothal-and-the-virgin-conception-narrative"
+      }
+    ],
+    "notes": "This is deliberately classified with a qualification because the source is later rabbinic evidence, not direct evidence of first-century courtroom practice."
+  },
   {
     "claim_id": "GOT-BUGIS-001",
     "claim_text": "Sharyn Graham Davies documents Bugis society as recognizing five gender categories rather than only two.",
@@ -3736,7 +3736,7 @@
     "notes": "Public text distinguishes the colonial statutory category 'eunuch' from Hijra identity and notes variation in enforcement and resistance."
   },
   {
-    "claim_id": "GOT-COLONIAL-EUNUCH-001",
+    "claim_id": "GOT-COLONIALEUNUCH-001",
     "claim_text": "British colonial administration used the English category 'eunuch' to group distinct South Asian populations and defined the legal category in male terms, including persons 'of the male sex' judged impotent.",
     "claim_type": "historical_interpretation",
     "status": "verified_with_qualification",
@@ -3848,7 +3848,7 @@
     ]
   },
   {
-    "claim_id": "GOT-HAWAII-MISSION-001",
+    "claim_id": "GOT-HAWAIIMISSION-001",
     "claim_text": "Protestant missionaries promoted permanent sexually exclusive heterosexual marriage and a more patriarchal domestic model in Hawai‘i, contributing to changes in gender and sexual relations during the early nineteenth century.",
     "claim_type": "historical_interpretation",
     "status": "verified_with_qualification",
