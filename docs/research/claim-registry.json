@@ -3329,5 +3329,193 @@
       }
     ],
     "notes": "The public module explicitly states that intersex is not itself a third-gender category and keeps sex traits separate from social gender."
+  },
+  {
+    "claim_id": "GOT-ASSINNU-001",
+    "claim_text": "Svärd and Nissinen find enough evidence for unconventional gender performance and gender-boundary transgression associated with the assinnu in Ištar's cult.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "secondary_sources": [
+      {
+        "citation": "Saana Svärd and Martti Nissinen, '(Re)constructing the Image of the Assinnu,' in Studying Gender in the Ancient Near East, ed. Saana Svärd and Agnès Garcia-Ventura (Eisenbrauns/Penn State University Press, 2018), 373–411",
+        "locator": "pp. 396–397; University of Helsinki repository https://helda.helsinki.fi/handle/10138/309993",
+        "stance": "supports"
+      },
+      {
+        "citation": "Ilan Peled, 'Visualizing Masculinities: The Gala, Hegemony, and Mesopotamian Iconography,' Near Eastern Archaeology 79.3 (2016): 158–165",
+        "locator": "Abstract and discussion of non-hegemonic masculinity; DOI 10.5615/neareastarch.79.3.0158",
+        "stance": "qualifies"
+      }
+    ],
+    "counterargument": "The evidence does not establish that assinnu uniformly map onto a modern transgender identity, nor does it decisively establish castration or a specific same-sex sexual role. The public text therefore limits the claim to unconventional gender performance and boundary transgression.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#ancient-assinnu"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-i--ancient-near-east-to-early-christianity"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-HATSH-001",
+    "claim_text": "Hatshepsut was a woman who ruled as pharaoh.",
+    "claim_type": "historical_date_event",
+    "status": "verified",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Metropolitan Museum of Art, Hatshepsut in a Devotional Attitude, object 29.3.1",
+        "locator": "Dynasty 18, c. 1473–1458 BCE; https://www.metmuseum.org/art/collection/search/544446"
+      },
+      {
+        "source": "Metropolitan Museum of Art, The Female Pharaoh Hatshepsut, object 29.3.2",
+        "locator": "Dynasty 18, c. 1473–1458 BCE; https://www.metmuseum.org/art/collection/search/544849"
+      }
+    ],
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#hatshepsut"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-i--ancient-near-east-to-early-christianity"
+      }
+    ],
+    "notes": "The same Met records document masculine kingly representation alongside feminine grammatical forms and Hatshepsut's female personal name. The module explicitly does not infer a third-gender category."
+  },
+  {
+    "claim_id": "GOT-HBEUN-001",
+    "claim_text": "Deuteronomy 23:1 excludes a man whose genitalia have been crushed or cut from the assembly of YHWH.",
+    "claim_type": "direct_textual",
+    "status": "verified",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Hebrew Bible, Deuteronomy",
+        "locator": "Deuteronomy 23:1 (23:2 in Hebrew versification); https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A1&version=NASB"
+      },
+      {
+        "source": "Hebrew Bible, Isaiah",
+        "locator": "Isaiah 56:3–5; https://www.esv.org/verses/Isaiah%2B56%3A3%E2%80%935/"
+      }
+    ],
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#hebrew-eunuchs"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-i--ancient-near-east-to-early-christianity"
+      }
+    ],
+    "notes": "The paired public case contrasts Deuteronomy's exclusion with Isaiah 56:3–5's promise to covenant-keeping eunuchs. No historical dating or causal claim is inferred from the textual contrast."
+  },
+  {
+    "claim_id": "GOT-RABBINIC-001",
+    "claim_text": "Rabbinic legal texts explicitly discuss persons who are not definitely classifiable as male or female in particular legal contexts.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Mishnah Arakhin 1:1",
+        "locator": "Tumtum and androgynos are distinguished from definite male and definite female for valuation law"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Jane L. Kanarek, 'Rewriting ‘Arakhin: Women and Tannaitic Vows of Valuation,' AJS Review 40.2 (2016): 261–277",
+        "locator": "Discussion of M. Arakhin 1:1; DOI 10.1017/S0364009416000416",
+        "stance": "supports"
+      },
+      {
+        "citation": "Marianne Schleicher, 'Constructions of Sex and Gender: Attending to Androgynes and Tumtumim Through Jewish Scriptural Use,' Literature and Theology 25.4 (2011): 422–435",
+        "locator": "DOI 10.1093/litthe/frr051",
+        "stance": "qualifies"
+      }
+    ],
+    "counterargument": "Modern summaries that call these 'six genders' risk importing contemporary identity categories into body- and law-based rabbinic classifications. Scholarship also emphasizes that the male/female binary remains structurally important in halakhic reasoning.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#rabbinic-status"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-i--ancient-near-east-to-early-christianity"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-GALLI-001",
+    "claim_text": "The galli are documented as self-castrated priests associated with feminine-coded dress and appearance, and Roman authors often portrayed them as violating normative masculinity.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "secondary_sources": [
+      {
+        "citation": "Chris Mowat, 'Don't be a Drag, Just be a Priest: The Clothing and Identity of the Galli of Cybele in the Roman Republic and Empire,' Gender & History 33.2 (2021): 296–313",
+        "locator": "DOI 10.1111/1468-0424.12518",
+        "stance": "supports"
+      },
+      {
+        "citation": "Marika Rauhala, 'Obscena Galli Praesentia: Dehumanizing Cybele's Eunuch-Priests through Disgust,' in The Ancient Emotion of Disgust (Oxford University Press, 2016), 235–252",
+        "locator": "DOI 10.1093/acprof:oso/9780190604110.003.0012",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "The surviving literary record is frequently hostile, and describing the galli as nonbinary is a modern analytical interpretation rather than an attested ancient self-identification.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#galli"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-i--ancient-near-east-to-early-christianity"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-NICAEA-001",
+    "claim_text": "Canon 1 distinguishes involuntary or medically necessary castration from voluntary self-castration.",
+    "claim_type": "direct_textual",
+    "status": "verified",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "First Council of Nicaea (325 CE), Canon 1",
+        "locator": "Canon 1; English translation in Nicene and Post-Nicene Fathers, Series II, vol. 14; https://www.newadvent.org/fathers/3801.htm"
+      }
+    ],
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#nicaea-eunuchs"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-i--ancient-near-east-to-early-christianity"
+      }
+    ],
+    "notes": "The rule concerns castration and clerical eligibility. The module explicitly does not infer gender identity from it."
   }
 ]
