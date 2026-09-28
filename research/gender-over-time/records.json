@@ -1,6 +1,6 @@
 {
   "module": "gender-over-time",
-  "version": 5,
+  "version": 6,
   "updated": "2026-09-28",
   "scope_note": "Research module outside the nine-document core corpus. Categories are culture- and period-specific; modern Western labels are not assumed to be exact equivalents.",
   "analytical_layers": [
@@ -1021,6 +1021,201 @@
           "year": 2026,
           "locator": "Current policy page accessed 2026-09-28",
           "url": "https://www.passports.govt.nz/change-your-name-or-gender/change-your-gender-in-your-passport"
+        }
+      ]
+    },
+    {
+      "id": "nnobi-male-daughters-female-husbands",
+      "place": "Nnobi / Igbo society, southeastern Nigeria",
+      "period": "20th-century ethnography with historical reconstruction",
+      "local_terms": [
+        "male daughter",
+        "female husband"
+      ],
+      "topic": [
+        "social_gender",
+        "kinship",
+        "law_social_status",
+        "historical_practice"
+      ],
+      "claim": "Ifi Amadiume documents Nnobi institutions in which women could occupy socially masculine kinship and political positions described analytically as 'male daughters' and 'female husbands', showing that sex did not mechanically determine every social role.",
+      "qualification": "Amadiume's broader thesis about precolonial African gender has been highly influential and debated. The record treats 'male daughter' and 'female husband' as kinship/status roles, not automatically as modern gender identities or evidence of one continent-wide African gender system.",
+      "evidence_status": "influential_interpretation_with_debate",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Ifi Amadiume",
+          "title": "Male Daughters, Female Husbands: Gender and Sex in an African Society",
+          "year": 1987,
+          "publisher": "Zed Books",
+          "url": "https://press.uchicago.edu/dam/jcr%3Ae9af6e56-0097-4953-a7a8-b149aebce33a/Spring2015_UChicagoPress.pdf"
+        },
+        {
+          "author": "Lorelle Semley",
+          "title": "When We Discovered Gender: A Retrospective on Ifi Amadiume’s Male Daughters, Female Husbands",
+          "year": 2017,
+          "doi": "10.14321/jwestafrihist.3.2.0117",
+          "url": "https://www.jstor.org/stable/10.14321/jwestafrihist.3.2.0117"
+        }
+      ]
+    },
+    {
+      "id": "nandi-female-husband-kinship",
+      "place": "Nandi, Kenya",
+      "period": "20th-century ethnography of a longstanding institution",
+      "local_terms": [
+        "female husband"
+      ],
+      "topic": [
+        "kinship",
+        "law_social_status",
+        "family_reproduction",
+        "social_gender"
+      ],
+      "claim": "Regina Smith Oboler documents Nandi women who married wives, paid bridewealth, managed family property, and became the social/legal fathers of their wives' children in order to secure heirs.",
+      "qualification": "The institution is primarily about kinship, inheritance, property, and fatherhood. It should not automatically be interpreted as lesbian marriage or a distinct gender identity, even though Nandi informants described the female husband as becoming socially male in important contexts.",
+      "evidence_status": "documented_kinship_status_role",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Regina Smith Oboler",
+          "title": "Is the Female Husband a Man? Woman/Woman Marriage among the Nandi of Kenya",
+          "year": 1980,
+          "doi": "10.2307/3773320",
+          "locator": "Ethnology 19(1):69–88",
+          "url": "https://www.jstor.org/stable/3773320"
+        }
+      ]
+    },
+    {
+      "id": "hausa-yan-daudu",
+      "place": "Hausa-speaking northern Nigeria",
+      "period": "modern ethnography with older historical roots",
+      "local_terms": [
+        "'yan daudu",
+        "dan daudu"
+      ],
+      "topic": [
+        "social_gender",
+        "religious_ritual_role",
+        "sexuality",
+        "historical_practice"
+      ],
+      "claim": "Rudolf Gaudio documents 'yan daudu as a recognized category of feminine men in Hausa Muslim society with distinctive social networks, speech practices, occupations, and relationships to women's spaces and bori traditions.",
+      "qualification": "The category intersects gender expression, sexuality, class, religion, and urban life. It should not be reduced to a simple Western category such as gay man, trans woman, or third gender.",
+      "evidence_status": "documented_local_category",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Rudolf Pell Gaudio",
+          "title": "Allah Made Us: Sexual Outlaws in an Islamic African City",
+          "year": 2009,
+          "publisher": "Wiley-Blackwell",
+          "url": "https://books.google.com/books/about/Allah_Made_Us.html?id=ZC6OTVj44QUC"
+        }
+      ]
+    },
+    {
+      "id": "tahiti-mahu-historical-modern",
+      "place": "Tahiti and the Society Islands",
+      "period": "late Indigenous era reconstruction through contemporary scholarship",
+      "local_terms": [
+        "māhū",
+        "raerae"
+      ],
+      "topic": [
+        "social_gender",
+        "historical_practice",
+        "colonial_change",
+        "family_reproduction"
+      ],
+      "claim": "Douglas Oliver's reconstruction of late Indigenous Tahitian society reports institutionalized tolerance for anatomically male people who adopted female behavioral roles, identified as māhū; later scholarship distinguishes māhū from raerae and traces how these categories changed through family life, tourism, colonialism, and globalization.",
+      "qualification": "Oliver's account is a historical reconstruction based heavily on early-contact sources, not a transparent transcript of pre-contact self-understanding. Modern māhū and raerae categories are not assumed to be unchanged survivals from the eighteenth century.",
+      "evidence_status": "historical_reconstruction_plus_modern_differentiation",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Douglas L. Oliver",
+          "title": "Ancient Tahitian Society",
+          "year": 1974,
+          "locator": "Vol. 2, ch. 15, pp. 597–615",
+          "url": "https://www.jstor.org/stable/j.ctvp2n5ds"
+        },
+        {
+          "author": "Niko Besnier",
+          "title": "Polynesian Gender Liminality Through Time and Space",
+          "year": 1994,
+          "locator": "pp. 285–328",
+          "url": "https://www.jstor.org/stable/j.ctv16t6n2p.10"
+        },
+        {
+          "author": "Makiko Kuwahara",
+          "title": "Living as and Living with Māhū and Raerae: Geopolitics, Sex, and Gender in the Society Islands",
+          "year": 2014,
+          "doi": "10.21313/hawaii/9780824838829.003.0005",
+          "url": "https://academic.oup.com/hawaii-scholarship-online/book/15342/chapter-abstract/169896609"
+        }
+      ]
+    },
+    {
+      "id": "tonga-fakaleiti",
+      "place": "Tonga",
+      "period": "contemporary ethnography",
+      "local_terms": [
+        "fakaleitī"
+      ],
+      "topic": [
+        "social_gender",
+        "historical_practice",
+        "family_reproduction",
+        "globalization"
+      ],
+      "claim": "Ethnographic scholarship documents fakaleitī as a recognized Tongan category involving feminine presentation and social roles among people assigned male.",
+      "qualification": "Fakaleitī identities and life strategies are heterogeneous and shaped by Tongan kinship, sexuality, religion, migration, and global media. The term is not treated as a direct synonym for a Western transgender identity.",
+      "evidence_status": "documented_local_category",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Mary K. Good",
+          "title": "The Fokisi and the Fakaleitī: Provocative Performances in Tonga",
+          "year": 2014,
+          "doi": "10.21313/hawaii/9780824838829.003.0010",
+          "url": "https://academic.oup.com/hawaii-scholarship-online/book/15342/chapter-abstract/169899036"
+        },
+        {
+          "author": "Niko Besnier",
+          "title": "Transgenderism, Locality, and the Miss Galaxy Beauty Pageant in Tonga",
+          "year": 2002,
+          "doi": "10.1525/ae.2002.29.3.534",
+          "url": "https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1525/ae.2002.29.3.534"
+        }
+      ]
+    },
+    {
+      "id": "indonesia-waria",
+      "place": "Indonesia",
+      "period": "late 20th–21st century ethnography",
+      "local_terms": [
+        "waria",
+        "banci",
+        "béncong"
+      ],
+      "topic": [
+        "social_gender",
+        "historical_practice",
+        "national_identity"
+      ],
+      "claim": "Tom Boellstorff documents waria as a widely recognized Indonesian feminine-male/transfeminine social category embedded in Indonesian national culture.",
+      "qualification": "Boellstorff explicitly argues that waria are better understood in their Indonesian context than simply labeled a universal 'third gender'; he describes the category as a form of male femininity and analyzes its relationship to national ideas of authenticity.",
+      "evidence_status": "documented_local_category_with_analytical_qualification",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Tom Boellstorff",
+          "title": "Playing Back the Nation: Waria, Indonesian Transvestites",
+          "year": 2004,
+          "doi": "10.1525/can.2004.19.2.159",
+          "url": "https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1525/can.2004.19.2.159"
         }
       ]
     }
