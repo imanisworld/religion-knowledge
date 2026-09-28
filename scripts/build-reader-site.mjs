@@ -13,6 +13,7 @@ const RESEARCH_READERS = [
   ['glossary.html', 'Glossary', 'Terms and definitions used across the study.'],
   ['cited-persons.html', 'Cited Persons', 'Who the cited scholars, theologians, historians, and other sources are — including relevant context and flags.'],
   ['religion-law.html', 'Religion & Law', 'U.S. and comparative law research separating legal text, historical influence, current rationale, and enforceability.'],
+  ['gender-over-time.html', 'Gender Over Time', 'Sex, gender systems, intersex history, religious roles, reproduction, law, and social classification across cultures and time.'],
 ];
 const PERSONAL_PAGES = [
   ['personal-belief-history.html', 'Personal Belief History', 'A reconstruction log for what I actually believed at different stages, with unknowns preserved.'],
@@ -49,6 +50,7 @@ const MISC_FILES = [
 
 const RESEARCH_DIRS = [
   'research/religion-law',
+  'research/gender-over-time',
 ];
 
 const CANONICAL_SOURCES = [
