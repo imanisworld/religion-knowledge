@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Patterns &amp; Synthesis · Religion Knowledge</title>
+<meta name="description" content="Cross-project synthesis of recurring patterns in religion, institutions, gender, law, colonial classification, historical development, and evidence.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="site-shell.css">
+<script>try{var k="religion-knowledge-theme";document.documentElement.dataset.theme=localStorage.getItem(k)||"light"}catch(e){document.documentElement.dataset.theme="light"}</script>
+<style>
+:root{
+  --ground:#F5F1F0;--paper:#FFFDFC;--ink:#241B1E;--ink2:#62565A;--ink3:#807277;
+  --rule:#DDD2D5;--accent:#8B3A4A;--accent-strong:#6F2D3A;--soft:#F4E7EA;
+  --high:#47654F;--moderate:#8A6125;--explore:#5F568A;
+  --display:"Newsreader",Georgia,serif;--body:"IBM Plex Sans",system-ui,sans-serif;
+}
+:root[data-theme=dark]{
+  --ground:#120E10;--paper:#1C1518;--ink:#F7F2F3;--ink2:#D1C5C9;--ink3:#AA9CA1;
+  --rule:#44343A;--accent:#D8899A;--accent-strong:#D8899A;--soft:#3A2028;
+  --high:#8FB89B;--moderate:#D8B56E;--explore:#B7AEE1;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:116px}
+body{margin:0;background:var(--ground);color:var(--ink);font:16.5px/1.7 var(--body);-webkit-font-smoothing:antialiased}
+a{color:var(--accent);text-underline-offset:3px}
+main{max-width:1120px;margin:0 auto;padding:4.6rem 1.4rem 6rem}
+.hero{max-width:840px;margin-bottom:2.1rem}
+.eyebrow{margin:0 0 .8rem;color:var(--accent);font-size:.72rem;font-weight:600;letter-spacing:.11em;text-transform:uppercase}
+h1,h2,h3{font-family:var(--display);font-weight:500;letter-spacing:-.02em}
+h1{font-size:clamp(2.9rem,7vw,5.3rem);line-height:.95;margin:0 0 1rem}
+.deck{max-width:72ch;margin:0;color:var(--ink2);font-size:1.08rem}
+.statusline{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:1.35rem}
+.pill{display:inline-flex;align-items:center;border:1px solid var(--rule);border-radius:999px;padding:.34rem .62rem;background:var(--paper);font-size:.72rem;font-weight:600;color:var(--ink2);text-decoration:none}
+.localnav{position:sticky;top:var(--rk-nav-h,56px);z-index:20;margin:0 -1.4rem 2.2rem;padding:.62rem 1.4rem;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);background:color-mix(in srgb,var(--ground) 94%,transparent);backdrop-filter:blur(14px);display:flex;gap:.28rem;overflow-x:auto;scrollbar-width:none}
+.localnav::-webkit-scrollbar{display:none}
+.localnav a{flex:none;text-decoration:none;color:var(--ink2);font-size:.74rem;font-weight:600;padding:.38rem .58rem;border-radius:999px}
+.localnav a:hover,.localnav a:focus-visible{background:var(--soft);color:var(--accent);outline:none}
+.method{max-width:78ch;margin:0 0 3rem;padding:1rem 0 1.15rem;border-top:3px solid var(--accent);border-bottom:1px solid var(--rule)}
+.method h2{font-size:1.55rem;margin:.05rem 0 .45rem}
+.method p{color:var(--ink2);margin:.4rem 0}
+.pattern{display:grid;grid-template-columns:minmax(150px,190px) minmax(0,1fr);gap:1.4rem 2.2rem;padding:2rem 0;border-top:1px solid var(--rule)}
+.pattern:last-of-type{border-bottom:1px solid var(--rule)}
+.pattern-num{font-family:var(--display);font-size:2.35rem;line-height:1;color:var(--accent);margin-bottom:.55rem}
+.confidence{display:inline-flex;align-items:center;font-size:.67rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em}
+.confidence.high{color:var(--high)}.confidence.moderate{color:var(--moderate)}.confidence.explore{color:var(--explore)}
+.pattern h2{font-size:1.85rem;line-height:1.12;margin:0 0 .65rem}
+.pattern p{max-width:78ch;margin:.55rem 0;color:var(--ink2)}
+.pattern strong{color:var(--ink)}
+.related{margin-top:.9rem;font-size:.78rem;color:var(--ink3)}
+.related a{font-weight:600}
+.flow{display:flex;align-items:center;flex-wrap:wrap;gap:.45rem;margin:1rem 0;color:var(--ink);font-size:.86rem;font-weight:600}
+.flow span{padding:.36rem .55rem;border:1px solid var(--rule);background:var(--paper);border-radius:7px}
+.flow i{font-style:normal;color:var(--ink3)}
+.compare-wrap{overflow:auto;margin:1rem 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule)}
+table{width:100%;min-width:720px;border-collapse:collapse;font-size:.82rem}
+th,td{text-align:left;vertical-align:top;padding:.7rem .72rem;border-bottom:1px solid var(--rule)}
+tr:last-child td{border-bottom:0}
+th{color:var(--ink3);font-size:.67rem;letter-spacing:.06em;text-transform:uppercase}
+td:first-child{font-weight:600;color:var(--ink)}
+.boundary{margin:3rem 0 0;padding:1.3rem 1.4rem;border-left:4px solid var(--accent);border-top:1px solid var(--rule);border-right:1px solid var(--rule);border-bottom:1px solid var(--rule);background:var(--paper)}
+.boundary h2{margin:0 0 .7rem;font-size:1.55rem}
+.boundary ul{margin:.5rem 0 0;padding-left:1.25rem}
+.boundary li{margin:.42rem 0;color:var(--ink2)}
+.next{margin-top:3rem}
+.next h2{font-size:1.7rem;margin:0 0 .5rem}
+.next p{color:var(--ink2);max-width:74ch}
+.next-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem;margin-top:1rem}
+.next article{border-top:3px solid var(--rule);padding:1rem 0}
+.next article:first-child{border-top-color:var(--accent)}
+.next article:last-child{border-top-color:var(--explore)}
+.next h3{margin:0 0 .35rem;font-size:1.2rem}
+.next article p{margin:.3rem 0;font-size:.88rem}
+.footer-note{margin-top:3rem;padding-top:1.2rem;border-top:1px solid var(--rule);color:var(--ink3);font-size:.78rem}
+@media(max-width:760px){
+  main{padding:3.2rem 1rem 4rem}.localnav{margin-left:-1rem;margin-right:-1rem;padding-left:1rem}
+  .pattern{grid-template-columns:1fr;gap:.8rem}.pattern-num{font-size:1.8rem;margin:0}.next-grid{grid-template-columns:1fr}
+}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>
+</head>
+<body class="rk-with-sitebar">
+<header class="rk-sitebar">
+  <div class="rk-sitebar-inner">
+    <a class="rk-brand" href="index.html">Religion Knowledge<small>Research library</small></a>
+    <nav class="rk-global-nav" aria-label="Site navigation">
+      <a href="index.html">Library</a>
+      <a href="search.html">Search</a>
+      <a href="religion-law.html">Religion &amp; Law</a>
+      <a href="app/">App</a>
+    </nav>
+    <button id="theme" class="rk-site-control" type="button" aria-label="Toggle theme">Theme</button>
+  </div>
+</header>
+<main>
+<header class="hero">
+  <p class="eyebrow">Cross-project synthesis</p>
+  <h1>Patterns &amp; Synthesis</h1>
+  <p class="deck">What starts to become visible when religion, law, gender, institutions, colonialism, transmission, and evidence are examined together—without turning recurring patterns into universal laws.</p>
+  <div class="statusline">
+    <span class="pill">Built from existing research</span>
+    <span class="pill">Limits shown with each pattern</span>
+    <a class="pill" href="research/synthesis/index.md">Research notes</a>
+  </div>
+</header>
+
+<nav class="localnav" aria-label="Page sections">
+  <a href="#cause">Cause</a><a href="#layers">Evidence layers</a><a href="#contingency">Change</a>
+  <a href="#body">Body &amp; classification</a><a href="#power">Power</a><a href="#colonial">Colonialism</a>
+  <a href="#development">Religion histories</a><a href="#origins">Origins</a><a href="#archive">Archive</a>
+  <a href="#naturalize">Naturalization</a><a href="#cycles">Cycles</a>
+</nav>
+
+<section class="method">
+  <h2>How to read this page</h2>
+  <p>This is a synthesis layer, not a new source base. Each item summarizes a pattern supported by multiple parts of the project, states its confidence, and keeps the boundary between documented history and broader interpretation visible.</p>
+</section>
+
+<section class="pattern" id="cause">
+  <aside><div class="pattern-num">01</div><span class="confidence high">High · method</span></aside>
+  <div>
+    <h2>Religion is not one universal first cause</h2>
+    <p>Many institutions in the project cannot defensibly be reduced to “religion caused this.” A more accurate model asks whether religion <strong>created, inherited, legitimized, regulated, resisted, transformed, or co-developed with</strong> an institution.</p>
+    <div class="flow"><span>existing institution</span><i>↔</i><span>religious interpretation / authority</span><i>→</i><span>regulation, legitimation, resistance or reform</span></div>
+    <p>The direction has to be established case by case. Sometimes the institution shaped the religion rather than the reverse.</p>
+    <div class="related">Related: <a href="religion-law.html">Religion &amp; Law</a> · <a href="history.html">Historical Framework</a></div>
+  </div>
+</section>
+
+<section class="pattern" id="layers">
+  <aside><div class="pattern-num">02</div><span class="confidence high">High</span></aside>
+  <div>
+    <h2>Text ≠ institution ≠ lived behavior</h2>
+    <p>A sacred text can prescribe one thing, an institution can enforce or reinterpret it differently, and historical practice can diverge from both. Legal codes have the same limitation: a rule tells us what an authority prescribed, not automatically how common a behavior was or how people actually lived.</p>
+    <div class="flow"><span>text / doctrine</span><i>→</i><span>institutional rule</span><i>→</i><span>historical practice</span><i>→</i><span>modern practice</span></div>
+    <div class="related">Related: <a href="gender-over-time.html#method">Gender Over Time method</a> · <a href="method-reference.html">Method &amp; Reference</a></div>
+  </div>
+</section>
+
+<section class="pattern" id="contingency">
+  <aside><div class="pattern-num">03</div><span class="confidence high">High</span></aside>
+  <div>
+    <h2>Many things presented as timeless have histories</h2>
+    <p>Marriage rules, clerical celibacy, contraception rules, inheritance, gendered authority, legal sex markers, religious institutions, and definitions of orthodoxy have all changed in documented settings. Historical change does not tell us whether a rule is good or bad. It does tell us not to assume that a later form was always the form.</p>
+  </div>
+</section>
+
+<section class="pattern" id="body">
+  <aside><div class="pattern-num">04</div><span class="confidence high">High · comparative principle</span></aside>
+  <div>
+    <h2>The same body can receive different social meanings</h2>
+    <p>Anatomy does not mechanically determine one universal social classification. Eunuch status makes the point especially clearly: bodily status could affect ritual access, clergy, court office, masculinity, family status, legal classification, or social gender differently across cultures and periods.</p>
+    <div class="compare-wrap">
+      <table>
+        <thead><tr><th>Layer</th><th>Question</th><th>Why it stays separate</th></tr></thead>
+        <tbody>
+          <tr><td>Body</td><td>What physical traits or reproductive status are documented?</td><td>Physical description does not supply a social identity by itself.</td></tr>
+          <tr><td>Classification</td><td>What category did that society use?</td><td>Local categories need not match modern Western labels.</td></tr>
+          <tr><td>Law</td><td>What rights, restrictions or statuses followed?</td><td>Legal status can differ from social or ritual status.</td></tr>
+          <tr><td>Religion</td><td>What ritual office, purity rule or sacred meaning applied?</td><td>Religious role may be restrictive, authoritative, mixed, or irrelevant.</td></tr>
+          <tr><td>Practice</td><td>How did people actually live?</td><td>Normative texts do not automatically establish lived experience.</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="related">Related: <a href="gender-over-time.html">Gender Over Time</a></div>
+  </div>
+</section>
+
+<section class="pattern" id="power">
+  <aside><div class="pattern-num">05</div><span class="confidence high">High · framework</span></aside>
+  <div>
+    <h2>Power makes cultural categories durable</h2>
+    <p>Beliefs become materially consequential when institutions attach consequences to them. Law, property, schools, taxation, courts, priesthoods, inheritance, bureaucracy, medicine, state registration, marriage rules, policing, and punishment can turn a cultural category into an enforceable social reality.</p>
+    <p>The useful question is therefore not only <strong>“what did people believe?”</strong> but also <strong>“what institution could act on that belief, and what happened when it did?”</strong></p>
+  </div>
+</section>
+
+<section class="pattern" id="colonial">
+  <aside><div class="pattern-num">06</div><span class="confidence high">High within documented cases</span></aside>
+  <div>
+    <h2>Colonial power could change the categories themselves</h2>
+    <p>Colonial governments, missions, schools, and bureaucracies did not only suppress practices. Documented cases show authorities renaming people, collapsing distinct local categories into imported terms, registering them, criminalizing practices, segregating institutions, and imposing administrative classifications.</p>
+    <div class="flow"><span>local category</span><i>→</i><span>colonial label</span><i>→</i><span>administrative rule</span><i>→</i><span>material consequence</span></div>
+    <p>The project does <strong>not</strong> turn that into the universal slogan “colonialism erased third genders.” It tracks the specific mechanism and what survived, changed, or resisted it.</p>
+    <div class="related">Related: <a href="gender-over-time.html#historical-layer-3">Gender Over Time · colonial suppression</a></div>
+  </div>
+</section>
+
+<section class="pattern" id="development">
+  <aside><div class="pattern-num">07</div><span class="confidence high">High for documented relationships</span></aside>
+  <div>
+    <h2>Religions have histories</h2>
+    <p>Traditions do not have to appear as isolated, fully formed systems. The project already documents inheritance, convergence, cultural fusion, reform, appropriation, translation, missionization, state adoption, and disputed transmission.</p>
+    <p><strong>Similarity is still not evidence of borrowing.</strong> Historical transmission requires stronger evidence: chronology, a plausible contact route, and meaningful correspondence or explicit scholarly argument.</p>
+    <div class="related">Related: <a href="history.html">Historical Framework</a> · <a href="app/">Structured app</a></div>
+  </div>
+</section>
+
+<section class="pattern" id="origins">
+  <aside><div class="pattern-num">08</div><span class="confidence moderate">Moderate–high · recurring pattern</span></aside>
+  <div>
+    <h2>Clean origin stories can hide historical development</h2>
+    <p>A later tradition can draw a sharp boundary around itself even when earlier evidence shows shared cultural environments, internal diversity, convergence, reform, or gradual differentiation.</p>
+    <p>This does not make the later identity unreal. It means claims such as <strong>“we were always completely separate”</strong> or <strong>“all of these ideas originated internally”</strong> should be tested historically rather than assumed.</p>
+  </div>
+</section>
+
+<section class="pattern" id="archive">
+  <aside><div class="pattern-num">09</div><span class="confidence high">High · method</span></aside>
+  <div>
+    <h2>The archive reflects power</h2>
+    <p>States, courts, rulers, priests, administrators, elites, and literate communities generated records at much higher rates than many ordinary, oral, enslaved, marginalized, or non-state communities.</p>
+    <p><strong>Absence from the surviving archive is not automatically evidence of historical absence.</strong> But missing evidence is not permission to invent an answer either; uncertainty remains visible.</p>
+  </div>
+</section>
+
+<section class="pattern" id="naturalize">
+  <aside><div class="pattern-num">10</div><span class="confidence moderate">Moderate · synthesis hypothesis</span></aside>
+  <div>
+    <h2>Historically contingent arrangements can be naturalized or sacralized</h2>
+    <p>Across multiple domains, a human arrangement can later be presented as natural, divinely ordered, ancestral, cosmically required, or inevitable. That framing can strengthen an institution by giving it authority beyond “this is how our society currently does things.”</p>
+    <div class="flow"><span>historical arrangement</span><i>→</i><span>legitimating explanation</span><i>→</i><span>institutional reinforcement</span><i>→</i><span>reform, reinterpretation or recovery</span></div>
+    <p>This is strong enough to track across cases, but too broad to treat as a universal law.</p>
+  </div>
+</section>
+
+<section class="pattern" id="cycles">
+  <aside><div class="pattern-num">11</div><span class="confidence explore">Exploratory · not established</span></aside>
+  <div>
+    <h2>Recurring sequences are testable; a fixed historical clock is not established</h2>
+    <p>The project can now tag recurring sequences without assuming that history repeats every fixed number of years.</p>
+    <div class="flow"><span>pluralism / flexibility</span><i>→</i><span>consolidation</span><i>→</i><span>institutionalization</span><i>→</i><span>boundary enforcement</span><i>→</i><span>challenge / reform</span><i>→</i><span>fragmentation or accommodation</span></div>
+    <p>The next step is empirical: date real cases, tag their stages, and only then test whether any interval is statistically meaningful.</p>
+  </div>
+</section>
+
+<section class="boundary">
+  <h2>What this does not prove</h2>
+  <ul>
+    <li>Religion did not necessarily create every institution it later legitimized, regulated, resisted, or transformed.</li>
+    <li>The evidence does not show that every society recognized more than two social genders.</li>
+    <li>Modern identity labels are not automatically valid translations of historical categories.</li>
+    <li>Similarity alone does not establish religious borrowing or transmission.</li>
+    <li>The project has not established a fixed historical cycle.</li>
+    <li>Showing that a doctrine or institution developed historically does not by itself settle whether any deity exists or whether revelation occurred.</li>
+  </ul>
+</section>
+
+<section class="next">
+  <h2>Next comparison views</h2>
+  <p>The synthesis page gives the findings one home. The next useful step is to make two of the patterns directly explorable rather than adding more prose.</p>
+  <div class="next-grid">
+    <article><h3>Same human trait, different society</h3><p>Compare body or reproductive status → local classification → law → religious role → lived consequence across cultures.</p></article>
+    <article><h3>How a rule becomes “timeless”</h3><p>Trace historical context → legitimating explanation → institutional enforcement → reinterpretation, challenge, or reform.</p></article>
+  </div>
+</section>
+
+<p class="footer-note">Synthesis status: patterns summarize existing Religion Knowledge research. Case-level claims remain governed by their underlying evidence and confidence rather than being upgraded by appearing on this page.</p>
+</main>
+<script>
+const theme=document.getElementById('theme');
+if(theme)theme.addEventListener('click',()=>{const r=document.documentElement;r.dataset.theme=r.dataset.theme==='dark'?'light':'dark';try{localStorage.setItem('religion-knowledge-theme',r.dataset.theme)}catch(e){}});
+</script>
+</body>
+</html>

@@ -15,6 +15,8 @@ const DOC_META = [
   ['method-reference.html','Method & Reference'],
   ['glossary.html',        'Glossary'],
   ['cited-persons.html',   'Cited Persons'],
+  ['gender-over-time.html', 'Gender Over Time'],
+  ['patterns-synthesis.html','Patterns & Synthesis'],
 ];
 
 function stripHtml(html) {
