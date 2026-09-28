@@ -1,0 +1,214 @@
+{
+  "module": "gender-over-time",
+  "version": 1,
+  "updated": "2026-09-28",
+  "scope_note": "Research module outside the nine-document core corpus. Categories are culture- and period-specific; modern Western labels are not assumed to be exact equivalents.",
+  "analytical_layers": [
+    "reproductive_biology",
+    "sex_traits",
+    "social_gender",
+    "religious_ritual_role",
+    "law_social_status",
+    "historical_practice"
+  ],
+  "records": [
+    {
+      "id": "bugis-five-gender-categories",
+      "place": "South Sulawesi, Indonesia",
+      "period": "modern ethnographic record",
+      "local_terms": [
+        "makkunrai",
+        "oroané",
+        "calalai",
+        "calabai",
+        "bissu"
+      ],
+      "topic": [
+        "social_gender",
+        "religious_ritual_role"
+      ],
+      "claim": "Bugis society is documented in modern ethnographic scholarship as recognizing five gender categories rather than only two.",
+      "qualification": "The five categories are not interchangeable and should be researched individually; the numeric summary must not substitute for their distinct social and ritual meanings.",
+      "evidence_status": "documented",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Sharyn Graham Davies",
+          "title": "Challenging Gender Norms: Five Genders among Bugis in Indonesia",
+          "year": 2007,
+          "publisher": "Gale Cengage",
+          "url": "https://research.monash.edu/en/publications/challenging-gender-norms-five-genders-among-bugis-in-indonesia/"
+        }
+      ]
+    },
+    {
+      "id": "samoa-faafafine",
+      "place": "Samoa",
+      "period": "modern ethnographic and behavioral research",
+      "local_terms": [
+        "fa'afafine"
+      ],
+      "topic": [
+        "social_gender",
+        "family_reproduction",
+        "historical_practice"
+      ],
+      "claim": "Published research describes fa'afafine as a locally recognized alternative gender-role category distinct from normative man and woman categories in Samoa.",
+      "qualification": "Individual studies use Western analytical labels such as transgender or third gender; those labels are not treated as exact translations of fa'afafine.",
+      "evidence_status": "documented_with_qualification",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Paul L. Vasey and Nancy H. Bartlett",
+          "title": "What can the Samoan 'Fa'afafine' teach us about the Western concept of gender identity disorder in childhood?",
+          "year": 2007,
+          "doi": "10.1353/pbm.2007.0056",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17951883/"
+        },
+        {
+          "author": "Paul L. Vasey et al.",
+          "title": "Traits of separation anxiety in childhood: a retrospective study of Samoan men, women, and fa'afafine",
+          "year": 2011,
+          "doi": "10.1007/s10508-009-9589-0",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20013150/"
+        }
+      ]
+    },
+    {
+      "id": "pakistan-khawaja-sira",
+      "place": "Pakistan",
+      "period": "modern, with deeper South Asian historical context pending",
+      "local_terms": [
+        "khawaja sira",
+        "hijra",
+        "khusra"
+      ],
+      "topic": [
+        "social_gender",
+        "law_social_status",
+        "historical_practice"
+      ],
+      "claim": "Khawaja Sira in Pakistan are documented as a heterogeneous gender-nonconforming community, with umbrella terminology that contains important internal distinctions.",
+      "qualification": "Legal recognition after Pakistani Supreme Court directives is a separate legal layer and does not prove a single uniform identity across all people covered by umbrella terms.",
+      "evidence_status": "documented_with_qualification",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Muhammad Azfar Nisar",
+          "title": "Governing Thirdness: State, Society, and Non-binary Identities",
+          "year": 2021,
+          "doi": "10.1017/9781009030045",
+          "url": "https://www.cambridge.org/core/books/governing-thirdness/7935182FC3B6E8313C836BC499679003"
+        }
+      ]
+    },
+    {
+      "id": "indigenous-two-spirit-scope",
+      "place": "Indigenous North America",
+      "period": "historical nation-specific traditions; modern umbrella from 1990",
+      "local_terms": [],
+      "topic": [
+        "social_gender",
+        "religious_ritual_role",
+        "colonial_change"
+      ],
+      "claim": "Scholarship documents many nation-specific Indigenous gender and sexuality categories; Two-Spirit is a modern umbrella term adopted in 1990 rather than the historical name of every tradition.",
+      "qualification": "Future records must identify the specific nation/community and local term. Do not collapse distinct traditions into one pan-Indigenous historical category.",
+      "evidence_status": "documented_with_scope_guardrail",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Gregory D. Smithers",
+          "title": "Reclaiming Two-Spirits: Sexuality, Spiritual Renewal & Sovereignty in Native America",
+          "year": 2022,
+          "url": "https://www.si.edu/es/object/reclaiming-two-spirits-sexuality-spiritual-renewal-sovereignty-native-america-gregory-d-smithers%3Asiris_sil_1173748"
+        },
+        {
+          "author": "Sue-Ellen Jacobs, Wesley Thomas, and Sabine Lang, eds.",
+          "title": "Two-Spirit People: Native American Gender Identity, Sexuality, and Spirituality",
+          "year": 1997,
+          "url": "https://siris-libraries.si.edu/ipac20/ipac.jsp?uri=full%3D3100001~%21725222~%210"
+        }
+      ]
+    },
+    {
+      "id": "byzantine-eunuchs-gender",
+      "place": "Byzantine Empire",
+      "period": "approximately 600–1100 CE",
+      "local_terms": [],
+      "topic": [
+        "social_gender",
+        "religious_ritual_role",
+        "law_social_status",
+        "family_reproduction"
+      ],
+      "claim": "Kathryn M. Ringrose argues that Byzantine eunuchs functioned in a distinct gender configuration that cannot be reduced to a simple male/female social binary, especially in urban courtly contexts.",
+      "qualification": "This is Ringrose's modern historical interpretation of Byzantine evidence, not a claim that Byzantines used today's gender vocabulary.",
+      "evidence_status": "scholarly_interpretation",
+      "confidence": "medium_high",
+      "sources": [
+        {
+          "author": "Kathryn M. Ringrose",
+          "title": "The Perfect Servant: Eunuchs and the Social Construction of Gender in Byzantium",
+          "year": 2003,
+          "doi": "10.7208/chicago/9780226720166.001.0001",
+          "url": "https://academic.oup.com/chicago-scholarship-online/book/18084"
+        }
+      ]
+    },
+    {
+      "id": "intersex-multidimensional-sex-medicalization",
+      "place": "Biomedical classification; Britain case study for medical history",
+      "period": "20th century to present",
+      "local_terms": [
+        "intersex",
+        "variations in sex characteristics"
+      ],
+      "topic": [
+        "sex_traits",
+        "law_social_status",
+        "medicalization"
+      ],
+      "claim": "Sex is a multidimensional construct involving multiple anatomical and physiological traits, which do not always align in one typical male or female pattern; twentieth-century medicine increasingly classified and surgically managed people with atypical sex characteristics.",
+      "qualification": "Intersex is not itself a third-gender category. Gender identity and social classification must be recorded separately from variations in sex traits.",
+      "evidence_status": "documented",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "National Academies of Sciences, Engineering, and Medicine",
+          "title": "Measuring Sex, Gender Identity, and Sexual Orientation",
+          "year": 2022,
+          "url": "https://nap.nationalacademies.org/catalog/26424/measuring-sex-gender-identity-and-sexual-orientation"
+        },
+        {
+          "author": "David Andrew Griffiths",
+          "title": "Diagnosing sex: Intersex surgery and 'sex change' in Britain 1930–1955",
+          "year": 2018,
+          "doi": "10.1177/1363460717740339",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5836525/"
+        },
+        {
+          "author": "Luke Muschialli et al.",
+          "title": "Perspectives on conducting 'sex-normalising' intersex surgeries conducted in infancy: A systematic review",
+          "year": 2024,
+          "doi": "10.1371/journal.pgph.0003568",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39197054/"
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "seven-or-more-genders",
+      "claim_under_test": "At least one culture recognized seven or more distinct gender categories.",
+      "status": "research_pending",
+      "publication_rule": "Do not publish a numeric claim until a culture-specific, period-specific source establishes the categories and their meanings."
+    },
+    {
+      "id": "reproduction-binary-justification",
+      "claim_under_test": "Historical actors used reproductive difference as an argument that social gender must be exhaustively binary.",
+      "status": "research_pending",
+      "publication_rule": "Trace the argument in named texts, laws, institutions, or thinkers; do not infer causation from the existence of binary legal categories alone."
+    }
+  ]
+}
