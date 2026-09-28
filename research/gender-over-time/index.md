@@ -115,6 +115,29 @@ This pass tracks cases where colonial governments, missions, and schools did mor
 - **Resistance and survival remain part of the record.** Hinchy documents Hijras evading and frustrating colonial control; boarding-school scholarship likewise documents Native resistance rather than total cultural erasure.
 - **“Colonialism erased third genders” is too broad to publish as a single factual claim.** The site will instead document specific policies, institutions, local categories, and outcomes.
 
+## Historical layer IV — Modern medicine and legal sex classification
+
+This pass follows the shift from medical diagnosis and surgical management into civil registration, passports, and self-identification law. It treats **medical sex assignment, legal sex markers, and gender identity as related but non-identical systems**.
+
+| Case | Place / period | What is documented | Status |
+|---|---|---|---|
+| Intersex surgery before the Johns Hopkins model | Britain, 1930–1955 | David Griffiths documents routine surgical management of people with atypical sex characteristics in Britain before John Money’s mid-century protocols became internationally influential. British clinicians were already using surgery to align bodies with social expectations, so the history should not be reduced to a single inventor or institution. | **Documented historical correction** |
+| Johns Hopkins case-management model | United States, 1950s | John Money, Joan Hampson, and John Hampson published recommendations on sex assignment and psychological management in 1955. Later historical analysis describes a model that prioritized early assignment, consistent rearing, and surgical conformity to the assigned sex, with “gender role” treated as strongly shaped by rearing. | **Primary publication + historical interpretation** |
+| Intersex activism and the 2006 medical consensus | North America / international, 1993–2006 | The Intersex Society of North America was founded in 1993 to challenge secrecy, stigma, and unwanted genital surgery. The 2006 international consensus formally acknowledged patient-advocacy and ethical concerns and proposed “disorders of sex development” as new clinical terminology. The terminology itself remains contested. | **Documented institutional shift** |
+| Birth certificates as changing legal technology | New York City, 1965–2006 | Paisley Currah and Lisa Jean Moore show that rules for changing sex designations on New York City birth certificates changed substantially over time: administrative concerns moved from preventing “fraud” toward proving the permanence of a sex change. Legal sex therefore depended on administrative criteria, not one timeless medical test. | **Documented legal-administrative history** |
+| Germany: from blank entry to “divers” and self-determination | Germany, 2013–2024 | Germany first allowed no sex entry when a child could not be assigned male or female. In 2017 the Federal Constitutional Court held that requiring a sex entry while permitting only male/female positive categories violated constitutional rights for people who permanently identified as neither. The legislature added “divers” in 2018; the 2024 Self-Determination Act later allowed people whose gender identity differs from their registered marker to declare another available marker or delete it. | **Direct court/law sequence** |
+| Nepal: “other” / X in state documents | Nepal, 2007–present | Following the Supreme Court’s 2007 recognition of gender and sexual minorities, Nepal introduced an “other” category in citizenship and other state documents. Current passport instructions allow M, F, or X according to the applicant’s citizenship certificate. | **Documented legal-administrative recognition** |
+| Passport sex markers diverge by state | United States, Australia, New Zealand; current policy snapshot, 2026 | As of September 2026, the U.S. State Department issues only M or F markers matching sex at birth and no longer issues X markers. Australia and New Zealand continue to issue X markers under their passport policies. These systems demonstrate that passport sex/gender fields are administrative choices governed by national law and policy, not a globally uniform classification rule. | **Current policy comparison** |
+
+### What this changes
+
+- **Medicine did not simply “discover” a fixed binary and hand it to law.** Clinicians developed changing diagnostic hierarchies—gonads, chromosomes, hormones, anatomy, rearing, and psychology received different weight at different times.
+- **John Money was influential but not the beginning of intersex surgery.** British practice before 1955 already included surgical normalization.
+- **Patient activism changed medicine.** The 1990s–2000s record shows affected people challenging secrecy and non-consensual treatment, while medical organizations revised terminology and management frameworks.
+- **Legal sex is document-specific.** A birth certificate, passport, citizenship certificate, and medical chart can use different rules even inside the same country.
+- **Third/X markers do not all mean the same thing.** Germany’s “divers,” Nepal’s “other”/X, and Australian/New Zealand X passport markers arise from different legal systems and eligibility rules.
+- **Current U.S. passport policy is time-sensitive.** The page records the policy as of September 2026 rather than treating it as permanent law.
+
 ## Case record fields
 
 Each mature case should answer, where evidence exists:
@@ -153,8 +176,8 @@ The first research pass should expand these areas without assuming they all cont
 - Southeast Asian and Pacific gender systems — **Hawaiian missionary/contact layer added; māhū-specific historical work still pending**
 - Indigenous American traditions at nation/community level — **Alta California + U.S. boarding-school suppression layer added; nation-specific expansion pending**
 - Colonial law and missionary suppression, case by case — **first comparative layer added**
-- Modern state sex markers and third/nonbinary legal categories
-- History of intersex medicine and non-consensual childhood intervention
+- Modern state sex markers and third/nonbinary legal categories — **Germany, Nepal, U.S., Australia, and New Zealand first pass added**
+- History of intersex medicine and non-consensual childhood intervention — **Britain pre-1955, Johns Hopkins 1955, ISNA/2006 consensus first pass added**
 - Reproduction arguments used in theology, law, medicine, and political philosophy
 
 ### Specific unresolved claim: "seven or more genders"
@@ -198,6 +221,20 @@ The first research pass should expand these areas without assuming they all cont
 33. K. Tsianina Lomawaima, “Domesticity in the federal Indian schools: the power of authority over mind and body,” *American Ethnologist* 20.2 (1993): 227–240. https://doi.org/10.1525/ae.1993.20.2.02a00010
 34. “Berdache to Two-Spirit and Beyond,” in *The Oxford Handbook of Indigenous Sociology* (2022), pp. 450–463, on forced assimilation, boarding/residential schools, compulsory Christianity, and Indigenous gender frameworks; see also David Wallace Adams, *Education for Extinction* (University Press of Kansas; rev. ed. 2020). https://academic.oup.com/edited-volume/37077/chapter-abstract/378013519
 35. Sally Engle Merry, “Early Pacific Encounters and Masculinity: War, Sex, and Christianity in Hawai‘i,” *Current Anthropology* 62.S23 (2021). https://doi.org/10.1086/711391
+36. David Andrew Griffiths, “Diagnosing sex: Intersex surgery and ‘sex change’ in Britain 1930–1955,” *Sexualities* 21.3 (2018): 476–495. https://pmc.ncbi.nlm.nih.gov/articles/PMC5836525/
+37. John Money, Joan G. Hampson, and John L. Hampson, “Hermaphroditism: recommendations concerning assignment of sex, change of sex and psychologic management,” *Bulletin of the Johns Hopkins Hospital* 97.4 (1955): 284–300. PubMed: https://pubmed.ncbi.nlm.nih.gov/13260819/
+38. Sandra Eder, “Gender and Cortisone: Clinical Practice and Transatlantic Exchange in the Medical Management of Intersex in the 1950s,” *Bulletin of the History of Medicine* 92.4 (2018): 604–633. https://pubmed.ncbi.nlm.nih.gov/30613045/
+39. Intersex Society of North America, “What’s the history behind the intersex rights movement?” and mission archive. https://isna.org/faq/history/ ; https://isna.org/
+40. Peter A. Lee et al., “Consensus Statement on Management of Intersex Disorders,” *Pediatrics* 118.2 (2006): e488–e500. https://pubmed.ncbi.nlm.nih.gov/16882788/
+41. Paisley Currah and Lisa Jean Moore, “‘We Won’t Know Who You Are’: Contesting Sex Designations in New York City Birth Certificates,” *Hypatia* 24.3 (2009): 113–135. https://doi.org/10.1111/j.1527-2001.2009.01048.x
+42. German Federal Constitutional Court, Order of 10 October 2017, 1 BvR 2019/16. https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/EN/2017/10/rs20171010_1bvr201916en.html
+43. Deutscher Bundestag, 2018 amendment adding “divers” to the birth register. https://www.bundestag.de/webarchiv/textarchiv/2018/kw41-de-geburtenregister-570762
+44. Germany, *Act on Self-Determination With Regard to Gender Markers* (SBGG), 19 June 2024. https://www.gesetze-im-internet.de/englisch_sbgg/englisch_sbgg.html
+45. Government of Nepal report to the United Nations on implementation of *Sunil Babu Panta v. Government of Nepal*, noting official recognition of a third-gender/“other” category since 2007. https://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=X5CK9SziIYOo9%2FxI%2BAaIanuryjfLxVl3hbewP7gJOQbdPKL%2BKajh%2BvyJqZLZcYuFpBXiUUmKVrx2DK8EaAMK%2BnsOe2exBC2%2FzLR1haoSYzQ%3D
+46. Nepal Department of Passports, current application instructions: M for male, F for female, X for other according to citizenship certificate. https://nepalpassport.gov.np/en/process/process-40
+47. U.S. Department of State, “Sex Markers in Passports,” current policy page, accessed 2026-09-28. https://travel.state.gov/en/passports/apply/unique-needs/sex-markers.html
+48. Australian Department of Foreign Affairs and Trade, passport policy, “Sex (gender) on Australian travel document,” current policy allowing M/F/X. https://www.dfat.gov.au/about-us/publications/corporate/passports/passport-policy
+49. New Zealand Passports, “Change your gender in your passport,” current policy allowing M/F/X. https://www.passports.govt.nz/change-your-name-or-gender/change-your-gender-in-your-passport
 
 ## Next research standard
 
