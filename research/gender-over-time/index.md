@@ -52,6 +52,28 @@ The research task is to trace **when and where reproductive difference was used 
 | Eunuchs in Byzantium | Byzantine Empire, especially c. 600–1100 | Kathryn M. Ringrose argues that Byzantine society treated eunuchs as a distinct gender configuration/categories beyond a simple male/female social binary, especially in courtly contexts. This is a historian's analytical interpretation and must be labeled as such. | **Scholarly interpretation** |
 | Intersex classification and medicalization | Modern biomedical history, especially 20th century | The National Academies treats sex as multidimensional and identifies intersex people by sex traits that do not all correspond to a single sex. David Griffiths documents British intersex surgery and classification from 1930–1955, including the growth of early "normalizing" interventions. | **Documented** |
 
+## Historical layer I — Ancient Near East to early Christianity
+
+This pass adds cases where the evidence is specific enough to publish without pretending ancient categories map neatly onto modern identity labels.
+
+| Case | Place / period | What is documented | Status |
+|---|---|---|---|
+| *assinnu* in the cult of Ištar | Mesopotamia; evidence spans multiple cuneiform periods | Saana Svärd and Martti Nissinen conclude that the sources support unconventional gender performance and gender-boundary transgression associated with the *assinnu*. They explicitly reject treating castration, same-sex behavior, or a modern transgender identity as settled facts. | **Documented with major qualification** |
+| Hatshepsut and masculine kingship imagery | Egypt, 18th Dynasty, c. 1473–1458 BCE | Hatshepsut was a woman who held the office of pharaoh. Official statues could show her in the idealized masculine form and regalia of kingship while inscriptions retained feminine grammar and her female personal name. This is evidence about gendered political representation, not a third-gender social category. | **Documented** |
+| Eunuchs in Deuteronomy and Isaiah | Hebrew Bible | Deuteronomy 23:1 excludes a man with crushed or severed genitalia from the assembly, while Isaiah 56:3–5 promises covenant-keeping eunuchs a place and enduring name in God's house. The texts show different treatments of eunuchs inside the biblical corpus; they do not by themselves establish a social gender category. | **Direct textual contrast** |
+| *tumtum* and *androgynos* in rabbinic law | Tannaitic/rabbinic Judaism | Rabbinic law explicitly discusses people who cannot be classified as definitely male or female in particular legal contexts. Scholarship warns that describing this simply as “six genders” is misleading: the categories are strongly body/legal-status based and the male/female binary remains structurally important. | **Documented with terminology qualification** |
+| *galli* of Cybele / Magna Mater | Hellenistic and Roman world | Ancient and modern scholarship documents self-castration, feminine-coded clothing and appearance, and hostile Roman reactions to the *galli*. Some modern scholars interpret their social position as nonbinary or outside expected gender binaries, but that is an analytical interpretation rather than an ancient self-description. | **Documented + interpretive layer** |
+| Nicaea Canon 1 and eunuch clergy | Christianity, Council of Nicaea, 325 CE | Canon 1 distinguishes involuntary/medical castration from voluntary self-castration: eunuchs made by illness, violence, or masters could remain or be admitted to clergy if otherwise worthy, while voluntary self-castration disqualified clergy. This is institutional regulation of bodily status, not evidence of gender identity. | **Direct textual / institutional rule** |
+
+### What this changes
+
+- **Mesopotamia:** publish gender-boundary transgression; do **not** publish “the *assinnu* were transgender eunuchs” as settled fact.
+- **Egypt:** Hatshepsut shows that kingship imagery could be grammatically and visually gendered in different directions without erasing knowledge that the ruler was a woman.
+- **Hebrew Bible:** keep eunuch status separate from claims about transgender or intersex identity.
+- **Rabbinic Judaism:** replace the popular “six genders” slogan with the more defensible claim that rabbinic texts recognize multiple sex/body-status categories and legal ambiguity beyond definite male/female.
+- **Rome:** distinguish what ancient sources say about the *galli* from modern scholarly theories about nonbinary identity.
+- **Christianity:** Nicaea shows a church institution regulating castration status differently according to cause.
+
 ## Case record fields
 
 Each mature case should answer, where evidence exists:
@@ -77,11 +99,13 @@ Each mature case should answer, where evidence exists:
 
 The first research pass should expand these areas without assuming they all contain nonbinary systems:
 
-- Ancient Mesopotamia
-- Ancient Egypt
-- Hebrew Bible, Second Temple Judaism, and rabbinic sex/gender classifications
-- Greece and Rome
-- Early Christianity and later Christian institutions
+- Ancient Mesopotamia — **first pass added; deeper gala/kalû and kurgarrû work pending**
+- Ancient Egypt — **Hatshepsut representation added; broader society pending**
+- Hebrew Bible — **eunuch textual contrast added**
+- Second Temple Judaism — **pending**
+- Rabbinic sex/gender classifications — **first pass added; aylonit/saris expansion pending**
+- Greece and Rome — **galli first pass added**
+- Early Christianity and later Christian institutions — **Nicaea Canon 1 added; broader church history pending**
 - South Asia before and during colonial rule
 - Islamic legal and court traditions, including eunuch institutions
 - African regions with culture-specific evidence
@@ -108,6 +132,16 @@ The first research pass should expand these areas without assuming they all cont
 8. National Academies of Sciences, Engineering, and Medicine, *Measuring Sex, Gender Identity, and Sexual Orientation* (National Academies Press, 2022). https://nap.nationalacademies.org/catalog/26424/measuring-sex-gender-identity-and-sexual-orientation
 9. David Andrew Griffiths, "Diagnosing sex: Intersex surgery and 'sex change' in Britain 1930–1955," *Sexualities* 21.3 (2018): 476–495. https://pmc.ncbi.nlm.nih.gov/articles/PMC5836525/
 10. Luke Muschialli et al., "Perspectives on conducting 'sex-normalising' intersex surgeries conducted in infancy: A systematic review," *PLOS Global Public Health* 4.8 (2024): e0003568. https://pubmed.ncbi.nlm.nih.gov/39197054/
+11. Saana Svärd and Martti Nissinen, "(Re)constructing the Image of the Assinnu," in Saana Svärd and Agnès Garcia-Ventura, eds., *Studying Gender in the Ancient Near East* (Eisenbrauns/Penn State University Press, 2018), 373–411. https://helda.helsinki.fi/handle/10138/309993
+12. Ilan Peled, "Visualizing Masculinities: The Gala, Hegemony, and Mesopotamian Iconography," *Near Eastern Archaeology* 79.3 (2016): 158–165. DOI: https://doi.org/10.5615/neareastarch.79.3.0158
+13. Metropolitan Museum of Art, "Hatshepsut in a Devotional Attitude," object 29.3.1 / Dynasty 18, c. 1473–1458 BCE. https://www.metmuseum.org/art/collection/search/544446
+14. Metropolitan Museum of Art, "The Female Pharaoh Hatshepsut," object 29.3.2 / Dynasty 18, c. 1473–1458 BCE. https://www.metmuseum.org/art/collection/search/544849
+15. Deuteronomy 23:1 and Isaiah 56:3–5. Compare the exclusion of a man with damaged genitals with the later promise to covenant-keeping eunuchs.
+16. Jane L. Kanarek, "Rewriting 'Arakhin: Women and Tannaitic Vows of Valuation," *AJS Review* 40.2 (2016): 261–277. DOI: https://doi.org/10.1017/S0364009416000416
+17. Marianne Schleicher, "Constructions of Sex and Gender: Attending to Androgynes and Tumtumim Through Jewish Scriptural Use," *Literature and Theology* 25.4 (2011): 422–435. DOI: https://doi.org/10.1093/litthe/frr051
+18. Chris Mowat, "Don't be a Drag, Just be a Priest: The Clothing and Identity of the Galli of Cybele in the Roman Republic and Empire," *Gender & History* 33.2 (2021): 296–313. DOI: https://doi.org/10.1111/1468-0424.12518
+19. Marika Rauhala, "Obscena Galli Praesentia: Dehumanizing Cybele's Eunuch-Priests through Disgust," in *The Ancient Emotion of Disgust* (Oxford University Press, 2016), 235–252. DOI: https://doi.org/10.1093/acprof:oso/9780190604110.003.0012
+20. First Council of Nicaea (325 CE), Canon 1, on involuntary/medical eunuchs and voluntary self-castration. English translation in *Nicene and Post-Nicene Fathers*, Series II, vol. 14. https://www.newadvent.org/fathers/3801.htm
 
 ## Next research standard
 
