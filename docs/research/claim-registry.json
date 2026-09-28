@@ -3701,5 +3701,177 @@
         "anchor": "#historical-layer-ii--second-temple-judaism-early-christianity-and-precolonial-south-asia"
       }
     ]
+  },
+  {
+    "claim_id": "GOT-CTA-001",
+    "claim_text": "Part II of the Criminal Tribes Act of 1871 created registers of persons the colonial state classified as 'eunuchs', penalized registered persons for appearing publicly in feminine dress or performing, and restricted guardianship/adoption.",
+    "claim_type": "direct_textual",
+    "status": "verified",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Criminal Tribes Act, 1871",
+        "locator": "Part II, especially sections 24–27; https://indiankanoon.org/doc/17412906/"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Jessica Hinchy, Governing Gender and Sexuality in Colonial India: The Hijra, c.1850–1900 (Cambridge University Press, 2019)",
+        "locator": "DOI 10.1017/9781108592208",
+        "stance": "supports"
+      }
+    ],
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#cta-hijra"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-iii--colonial-suppression-and-reclassification"
+      }
+    ],
+    "notes": "Public text distinguishes the colonial statutory category 'eunuch' from Hijra identity and notes variation in enforcement and resistance."
+  },
+  {
+    "claim_id": "GOT-COLONIAL-EUNUCH-001",
+    "claim_text": "British colonial administration used the English category 'eunuch' to group distinct South Asian populations and defined the legal category in male terms, including persons 'of the male sex' judged impotent.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Criminal Tribes Act, 1871",
+        "locator": "Part II definition/registration provisions; https://indiankanoon.org/doc/17412906/"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Jessica Hinchy, Power, perversion and panic: eunuchs, colonialism and modernity in North India (ANU PhD thesis, 2013)",
+        "locator": "ANU Open Research Repository; https://openresearch-repository.anu.edu.au/items/3da914e9-2ead-4d2c-969e-a6311b65a2fe",
+        "stance": "supports"
+      },
+      {
+        "citation": "Jessica Hinchy, Governing Gender and Sexuality in Colonial India: The Hijra, c.1850–1900 (Cambridge University Press, 2019)",
+        "locator": "Introduction and Part I; DOI 10.1017/9781108592208",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "The category was not internally coherent and did not translate one indigenous identity. The public text therefore treats it as colonial administrative reclassification rather than a neutral description.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#colonial-eunuch-category"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-iii--colonial-suppression-and-reclassification"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-JOYA-001",
+    "claim_text": "Spanish missionary and military sources described Indigenous people in Alta California who dressed and worked in feminine-coded roles, frequently under the colonial label joya, and missionaries explicitly expected missionization to eliminate those practices.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "secondary_sources": [
+      {
+        "citation": "Deborah A. Miranda, 'Extermination of the Joyas: Gendercide in Spanish California,' GLQ 16.1–2 (2010): 253–284",
+        "locator": "DOI 10.1215/10642684-2009-022",
+        "stance": "supports"
+      },
+      {
+        "citation": "Diana Roselly Pérez Gerardo, 'Hombres que vivían como las mujeres en la Alta California del siglo XVIII: Coyas/joyas, cuút o uluqi, ¿sodomitas, hermafroditas o amaricados?,' Historia Crítica 93 (2024): 3–24",
+        "locator": "DOI 10.7440/histcrit93.2024.01",
+        "stance": "qualifies"
+      },
+      {
+        "citation": "Mario Alberto G. Magaña Mancillas and Raúl Balbuena Bello, 'Joyas o indios vestidos de mujer en la Alta California colonial: reflexiones sobre la identidad de género,' Cuicuilco 17.49 (2010): 243–259",
+        "locator": "https://www.scielo.org.mx/scielo.php?pid=S0185-16592010000200013&script=sci_arttext",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "The Spanish label joya collapsed distinct nation-specific roles and terms. Miranda's term 'gendercide' is an attributed interpretation and is not applied automatically to every California Indigenous community.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#alta-california-joyas"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-iii--colonial-suppression-and-reclassification"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-BOARDING-001",
+    "claim_text": "Federal Indian boarding schools imposed sex-segregated dress, labor, domestic training, and Victorian gender norms as part of forced assimilation.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "secondary_sources": [
+      {
+        "citation": "K. Tsianina Lomawaima, 'Domesticity in the federal Indian schools: the power of authority over mind and body,' American Ethnologist 20.2 (1993): 227–240",
+        "locator": "DOI 10.1525/ae.1993.20.2.02a00010",
+        "stance": "supports"
+      },
+      {
+        "citation": "David Wallace Adams, Education for Extinction: American Indians and the Boarding School Experience, 1875–1928",
+        "locator": "JSTOR edition https://www.jstor.org/stable/jj.11589130",
+        "stance": "supports"
+      },
+      {
+        "citation": "Teresa Evans-Campbell, Karina L. Walters, Cynthia R. Pearson, and Christopher D. Campbell, 'Indian Boarding School Experience, Substance Use, and Mental Health among Urban Two-Spirit American Indian/Alaska Natives,' American Journal of Drug and Alcohol Abuse 38.5 (2012): 421–427",
+        "locator": "DOI 10.3109/00952990.2012.701358",
+        "stance": "discusses"
+      }
+    ],
+    "counterargument": "Effects varied by nation, school, period, family, and individual, and the historical record also documents resistance. The public text does not claim total or uniform erasure of Indigenous gender systems.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#boarding-schools-gender"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-iii--colonial-suppression-and-reclassification"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-HAWAII-MISSION-001",
+    "claim_text": "Protestant missionaries promoted permanent sexually exclusive heterosexual marriage and a more patriarchal domestic model in Hawai‘i, contributing to changes in gender and sexual relations during the early nineteenth century.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "secondary_sources": [
+      {
+        "citation": "Sally Engle Merry, 'Early Pacific Encounters and Masculinity: War, Sex, and Christianity in Hawai‘i,' Current Anthropology 62.S23 (2021)",
+        "locator": "DOI 10.1086/711391",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "Merry treats the transformation as multicausal and negotiated, involving Hawaiian chiefs, commerce, demographic catastrophe, political change, and existing institutions as well as missionaries. The module does not yet make a māhū-specific suppression claim.",
+    "last_verified": "2026-09-28",
+    "reviewer": "source-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#hawaii-missionary-gender"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-iii--colonial-suppression-and-reclassification"
+      }
+    ]
   }
 ]
