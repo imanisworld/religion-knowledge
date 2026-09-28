@@ -3149,9 +3149,9 @@
   },
   {
     "claim_id": "GOT-BUGIS-001",
-    "claim_text": "Sharyn Graham Davies documents Bugis society as recognizing five gender categories rather than only two.",
+    "claim_text": "Sharyn Graham Davies describes Bugis classification as three sexes, four gender categories (makkunrai, oroané, calabai, calalai), and bissu as a fifth meta-gender category with a priestly/ritual dimension.",
     "claim_type": "historical_interpretation",
-    "status": "verified",
+    "status": "verified_with_qualification",
     "confidence": "high",
     "secondary_sources": [
       {
@@ -3172,7 +3172,8 @@
         "anchor": "#starter-cases"
       }
     ],
-    "notes": "Numeric summary is qualified in public text: the five categories have distinct social/ritual meanings and are not interchangeable."
+    "notes": "Updated after September 2026 red-team audit. The existence of the Bugis system survives audit; the numeric shorthand is now explicitly qualified.",
+    "counterargument": "The popular shorthand 'five genders' compresses distinctions Davies makes among sex classification, social gender, and bissu as a meta-gender/ritual category. The public text keeps those layers separate."
   },
   {
     "claim_id": "GOT-SAMOA-001",
@@ -3192,7 +3193,7 @@
         "stance": "supports"
       }
     ],
-    "counterargument": "The cited studies use Western analytical labels such as transgender or alternative gender role; the module does not assume those are exact translations of the Samoan category.",
+    "counterargument": "Western analytical labels such as transgender or third gender are not treated as exact translations of fa'afafine. Newer scholarship separately documents fa'atama, so fa'afafine is not used as shorthand for all Samoan gender diversity.",
     "last_verified": "2026-09-28",
     "reviewer": "source-audit-2026-09-28",
     "public_locations": [
@@ -3205,7 +3206,7 @@
         "anchor": "#starter-cases"
       }
     ],
-    "notes": "Terminology qualification is part of the public claim context."
+    "notes": "September 2026 red-team audit confirmed the fa'afafine case but identified fa'atama as an important separate Samoan category; a dedicated record is now added."
   },
   {
     "claim_id": "GOT-KSIRA-001",
@@ -3252,7 +3253,7 @@
         "stance": "qualifies"
       }
     ],
-    "counterargument": "Two-Spirit is useful as a contemporary umbrella, but it cannot substitute for specific Indigenous nations' historical categories, meanings, or terminology.",
+    "counterargument": "Two-Spirit is a contemporary pan-Indigenous umbrella adopted in 1990, not an ancient universal Indigenous term and not a substitute for nation-specific historical categories. The older anthropological label 'berdache' was rejected by many Indigenous participants and is not treated as a neutral Indigenous self-category.",
     "last_verified": "2026-09-28",
     "reviewer": "source-audit-2026-09-28",
     "public_locations": [
@@ -3264,7 +3265,8 @@
         "file": "research/gender-over-time/index.md",
         "anchor": "#starter-cases"
       }
-    ]
+    ],
+    "notes": "Current module already had the 1990/anachronism guardrail before the red-team audit; audit prompted an explicit note on the rejected colonial anthropological label."
   },
   {
     "claim_id": "GOT-EUNUCH-001",
@@ -3688,7 +3690,7 @@
         "stance": "supports"
       }
     ],
-    "counterargument": "The term 'eunuch' has historically collapsed different South Asian categories. Kalb distinguishes Mughal enslaved, castrated khwāja sarās from hijra communities and notes that Mughal evidence does not support treating the former as a third gender.",
+    "counterargument": "The term 'eunuch' has historically collapsed different South Asian categories. Kalb distinguishes Mughal enslaved, castrated khwāja sarās from hijra communities; the modern term khawaja sira shares a name but direct institutional continuity across the colonial rupture is not assumed.",
     "last_verified": "2026-09-28",
     "reviewer": "source-audit-2026-09-28",
     "public_locations": [
@@ -4270,6 +4272,184 @@
       {
         "file": "research/gender-over-time/index.md",
         "anchor": "#historical-layer-v--africa-and-deeper-pacific--southeast-asia"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-FAATAMA-001",
+    "claim_text": "Mandy Treagus and Dion Enari document fa'atama (formerly also fa'atane) as a comparatively under-studied Samoan category among people assigned female at birth who take masculine roles or identifications.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "medium",
+    "secondary_sources": [
+      {
+        "citation": "Mandy Treagus and Dion Enari, 'Fa'atama: Indigenous Tomboys of Sāmoa,' eTropic 23.2 (2024): 197–212",
+        "locator": "DOI 10.25120/etropic.23.2.2024.4065; https://doi.org/10.25120/etropic.23.2.2024.4065",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "The literature is much thinner than for fa'afafine, and individual fa'atama use different identity language. The site therefore does not force fa'atama into a simple Western 'four genders' taxonomy.",
+    "last_verified": "2026-09-28",
+    "reviewer": "gender-red-team-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#faatama"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#starter-cases"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-CTA-002",
+    "claim_text": "The nationwide Criminal Tribes Act framework was repealed by the Criminal Tribes Laws (Repeal) Act, 1952, effective 31 August 1952; some provinces had repealed or narrowed the regime earlier.",
+    "claim_type": "historical_date_event",
+    "status": "verified",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Criminal Tribes Laws (Repeal) Act, 1952 (Act XXIV of 1952)",
+        "locator": "Section 2 and commencement; repeal effective 31 August 1952; https://en.wikisource.org/wiki/Criminal_Tribes_Law_(Repeal)_Act,_1952"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Supreme Court of India, Sukanya Shantha v. Union of India, 3 October 2024",
+        "locator": "Historical discussion of national repeal in 1952 and earlier provincial repeal, including Madras (1947) and Bombay (1949); https://indiankanoon.org/doc/198070511/",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "A 1949 date applies to earlier repeal in Bombay Province, not to nationwide repeal. The public text therefore distinguishes provincial variation from the 1952 national repeal.",
+    "last_verified": "2026-09-28",
+    "reviewer": "gender-red-team-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#cta-hijra"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-iii--colonial-suppression-and-reclassification"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-NALSA-001",
+    "claim_text": "In National Legal Services Authority v. Union of India (2014), the Supreme Court of India recognized transgender persons as entitled to constitutional protection and directed legal recognition of self-identified gender as male, female, or third gender.",
+    "claim_type": "historical_date_event",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Supreme Court of India, National Legal Services Authority v. Union of India",
+        "locator": "W.P. (C) No. 400 of 2012, decided 15 April 2014; (2014) 5 SCC 438; https://indiankanoon.org/doc/7003259/"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "National Legal Services Authority, Social Action Litigation",
+        "locator": "Official NALSA summary of the 2014 judgment; https://nalsa.gov.in/social-action-litigation/",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "This is a modern constitutional/legal classification and rights ruling. It does not establish that one timeless precolonial 'third gender' category existed unchanged across South Asia.",
+    "last_verified": "2026-09-28",
+    "reviewer": "gender-red-team-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#india-nalsa"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-iv--modern-medicine-and-legal-sex-classification"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-IRAN-001",
+    "claim_text": "Since the mid-1980s, Iran has legally permitted and partly subsidized sex-reassignment/transition procedures while state, medical, and religious institutions have treated same-sex conduct and identities differently.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "secondary_sources": [
+      {
+        "citation": "Afsaneh Najmabadi, Professing Selves: Transsexuality and Same-Sex Desire in Contemporary Iran (Duke University Press, 2014)",
+        "locator": "Book overview and historical argument; https://www.dukeupress.edu/professing-selves",
+        "stance": "supports"
+      }
+    ],
+    "counterargument": "The case should not be simplified as 'Iran recognizes a third gender' or as proof that every transgender person is coerced into surgery. Najmabadi documents a more complex legal-medical-religious framework that largely retains male/female classification.",
+    "last_verified": "2026-09-28",
+    "reviewer": "gender-red-team-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#iran-transition"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#historical-layer-iv--modern-medicine-and-legal-sex-classification"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-REPRO-001",
+    "claim_text": "Human sexual reproduction is anisogamous, involving two gamete types: large ova and small sperm.",
+    "claim_type": "scholarly_consensus",
+    "status": "verified",
+    "confidence": "high",
+    "secondary_sources": [
+      {
+        "citation": "Jonathan M. Henshaw, Markus Bittlingmaier, and Lukas Schärer, 'Hermaphroditic origins of anisogamy,' Philosophical Transactions of the Royal Society B 378 (2023)",
+        "locator": "DOI 10.1098/rstb.2022.0283; https://pubmed.ncbi.nlm.nih.gov/36934747/",
+        "stance": "supports"
+      },
+      {
+        "citation": "National Academies of Sciences, Engineering, and Medicine, Measuring Sex, Gender Identity, and Sexual Orientation (2022)",
+        "locator": "Chapter 2, discussion of sex traits and reproductive anatomy; https://www.nationalacademies.org/read/26424/chapter/3",
+        "stance": "context"
+      }
+    ],
+    "counterargument": "This reproductive-biology statement does not itself determine the number of social gender categories a society recognizes. The module keeps gamete biology, organism-level sex traits, and social gender classification separate.",
+    "last_verified": "2026-09-28",
+    "reviewer": "gender-red-team-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#reproduction"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#reproduction-and-the-binary-justification"
+      }
+    ]
+  },
+  {
+    "claim_id": "GOT-REPRO-002",
+    "claim_text": "The National Academies describes sex as a multidimensional construct involving multiple anatomical and physiological traits, and treats gender as a conceptually distinct multidimensional construct involving identity, expression, and social/cultural expectations.",
+    "claim_type": "direct_textual",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "National Academies of Sciences, Engineering, and Medicine, Measuring Sex, Gender Identity, and Sexual Orientation (2022)",
+        "locator": "Chapter 2, 'Defining Sex, Gender, Gender Identity, and Sexual Orientation'; https://www.nationalacademies.org/read/26424/chapter/3"
+      }
+    ],
+    "counterargument": "The National Academies framework is an expert consensus/reporting framework, not a claim that reproductive biology lacks male/female structure. The public module uses it to keep organism-level sex traits analytically separate from social gender classification.",
+    "last_verified": "2026-09-28",
+    "reviewer": "gender-red-team-audit-2026-09-28",
+    "public_locations": [
+      {
+        "file": "gender-over-time.html",
+        "anchor": "#reproduction"
+      },
+      {
+        "file": "research/gender-over-time/index.md",
+        "anchor": "#reproduction-and-the-binary-justification"
       }
     ]
   }
