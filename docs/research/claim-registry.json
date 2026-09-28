@@ -3736,7 +3736,7 @@
     "notes": "Public text distinguishes the colonial statutory category 'eunuch' from Hijra identity and notes variation in enforcement and resistance."
   },
   {
-    "claim_id": "GOT-COLONIALEUNUCH-001",
+    "claim_id": "GOT-EUNUCHLAW-001",
     "claim_text": "British colonial administration used the English category 'eunuch' to group distinct South Asian populations and defined the legal category in male terms, including persons 'of the male sex' judged impotent.",
     "claim_type": "historical_interpretation",
     "status": "verified_with_qualification",
@@ -3848,7 +3848,7 @@
     ]
   },
   {
-    "claim_id": "GOT-HAWAIIMISSION-001",
+    "claim_id": "GOT-HAWAII-001",
     "claim_text": "Protestant missionaries promoted permanent sexually exclusive heterosexual marriage and a more patriarchal domestic model in Hawai‘i, contributing to changes in gender and sexual relations during the early nineteenth century.",
     "claim_type": "historical_interpretation",
     "status": "verified_with_qualification",
