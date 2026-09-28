@@ -1,6 +1,6 @@
 {
   "module": "gender-over-time",
-  "version": 3,
+  "version": 4,
   "updated": "2026-09-28",
   "scope_note": "Research module outside the nine-document core corpus. Categories are culture- and period-specific; modern Western labels are not assumed to be exact equivalents.",
   "analytical_layers": [
@@ -581,6 +581,201 @@
           "doi": "10.1017/S1356186322000827",
           "locator": "Journal of the Royal Asiatic Society 33.3, pp. 747–768",
           "url": "https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/eunuch-at-the-threshold-mediating-access-and-intimacy-in-the-mughal-world/C5AB76FE54ABBC0F2D43FA95C764BAE7"
+        }
+      ]
+    },
+    {
+      "id": "colonial-india-criminal-tribes-act-hijra",
+      "place": "British North India",
+      "period": "1871 onward",
+      "local_terms": [
+        "Hijra",
+        "eunuch"
+      ],
+      "topic": [
+        "law_social_status",
+        "colonial_change",
+        "social_gender",
+        "historical_practice"
+      ],
+      "claim": "Part II of the Criminal Tribes Act of 1871 created registers of persons the colonial state classified as 'eunuchs', penalized registered persons for appearing publicly in feminine dress or performing, and restricted their ability to act as guardians or adopt children.",
+      "qualification": "The colonial statutory category 'eunuch' did not map cleanly onto Hijra identity. Jessica Hinchy's archival work shows that officials sought the gradual elimination of Hijra public visibility and social reproduction, while actual enforcement varied and Hijras resisted and evaded control.",
+      "evidence_status": "direct_law_plus_documented_elimination_policy",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "British Indian colonial legislature",
+          "title": "Criminal Tribes Act, 1871",
+          "year": 1871,
+          "locator": "Part II, especially sections 24–27",
+          "url": "https://indiankanoon.org/doc/17412906/"
+        },
+        {
+          "author": "Jessica Hinchy",
+          "title": "Governing Gender and Sexuality in Colonial India: The Hijra, c.1850–1900",
+          "year": 2019,
+          "doi": "10.1017/9781108592208",
+          "url": "https://www.cambridge.org/core/books/governing-gender-and-sexuality-in-colonial-india/200A4682A894AB7136CF0463F12C2687"
+        },
+        {
+          "author": "Jessica Hinchy",
+          "title": "Obscenity, Moral Contagion and Masculinity: Hijras in Public Space in Colonial North India",
+          "year": 2014,
+          "doi": "10.1080/10357823.2014.901298",
+          "url": "https://www.tandfonline.com/doi/abs/10.1080/10357823.2014.901298"
+        }
+      ]
+    },
+    {
+      "id": "colonial-india-eunuch-administrative-male-category",
+      "place": "British North India",
+      "period": "mid–late 19th century",
+      "local_terms": [
+        "eunuch",
+        "Hijra",
+        "khwāja sarā",
+        "zenana"
+      ],
+      "topic": [
+        "law_social_status",
+        "sex_traits",
+        "colonial_change",
+        "classification"
+      ],
+      "claim": "British colonial administration used the English category 'eunuch' to group distinct South Asian populations and defined the legal category in male terms, including persons 'of the male sex' judged impotent.",
+      "qualification": "This was a colonial administrative classification, not a neutral translation of one indigenous identity. Hinchy argues that the category rendered diverse people legible to the colonial state as failed or deviant men and obscured differences among Hijras, khwāja sarās, zenanas, and others.",
+      "evidence_status": "documented_reclassification",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "British Indian colonial legislature",
+          "title": "Criminal Tribes Act, 1871",
+          "year": 1871,
+          "locator": "Definition and registration provisions in Part II",
+          "url": "https://indiankanoon.org/doc/17412906/"
+        },
+        {
+          "author": "Jessica Hinchy",
+          "title": "Power, perversion and panic: eunuchs, colonialism and modernity in North India",
+          "year": 2013,
+          "publisher": "Australian National University",
+          "url": "https://openresearch-repository.anu.edu.au/items/3da914e9-2ead-4d2c-969e-a6311b65a2fe"
+        },
+        {
+          "author": "Jessica Hinchy",
+          "title": "Governing Gender and Sexuality in Colonial India: The Hijra, c.1850–1900",
+          "year": 2019,
+          "doi": "10.1017/9781108592208",
+          "url": "https://www.cambridge.org/core/books/governing-gender-and-sexuality-in-colonial-india/200A4682A894AB7136CF0463F12C2687"
+        }
+      ]
+    },
+    {
+      "id": "alta-california-joya-colonial-suppression",
+      "place": "Alta California under Spanish missionization",
+      "period": "late 18th–early 19th centuries",
+      "local_terms": [
+        "joya",
+        "coya",
+        "'aqi",
+        "cuút",
+        "uluqi"
+      ],
+      "topic": [
+        "social_gender",
+        "religious_ritual_role",
+        "colonial_change",
+        "historical_practice"
+      ],
+      "claim": "Spanish missionary and military sources described Indigenous people who dressed and worked in feminine-coded roles, often under the colonial label joya, and condemned these practices while expressing an expectation that missionization would eliminate them.",
+      "qualification": "Joya was a colonial umbrella label that collapsed distinct nation-specific terms and roles. Deborah Miranda characterizes the suppression as 'gendercide'; that term is treated as her interpretation rather than the site's unqualified label for every California community.",
+      "evidence_status": "primary_colonial_testimony_plus_attributed_interpretation",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Deborah A. Miranda",
+          "title": "Extermination of the Joyas: Gendercide in Spanish California",
+          "year": 2010,
+          "doi": "10.1215/10642684-2009-022",
+          "url": "https://doi.org/10.1215/10642684-2009-022"
+        },
+        {
+          "author": "Diana Roselly Pérez Gerardo",
+          "title": "Hombres que vivían como las mujeres en la Alta California del siglo XVIII: Coyas/joyas, cuút o uluqi, ¿sodomitas, hermafroditas o amaricados?",
+          "year": 2024,
+          "doi": "10.7440/histcrit93.2024.01",
+          "url": "https://doi.org/10.7440/histcrit93.2024.01"
+        },
+        {
+          "author": "Mario Alberto G. Magaña Mancillas and Raúl Balbuena Bello",
+          "title": "Joyas o indios vestidos de mujer en la Alta California colonial: reflexiones sobre la identidad de género",
+          "year": 2010,
+          "url": "https://www.scielo.org.mx/scielo.php?pid=S0185-16592010000200013&script=sci_arttext"
+        }
+      ]
+    },
+    {
+      "id": "us-indian-boarding-schools-binary-gender-discipline",
+      "place": "United States federal Indian boarding schools",
+      "period": "late 19th–20th centuries",
+      "local_terms": [],
+      "topic": [
+        "social_gender",
+        "education",
+        "colonial_change",
+        "historical_practice"
+      ],
+      "claim": "Federal Indian boarding schools imposed sex-segregated dress, labor, domestic training, and Victorian gender norms as part of forced assimilation.",
+      "qualification": "This was one mechanism among many in settler colonial assimilation. The effect on specific Indigenous gender systems varied by nation, school, period, family, and individual; the record also documents resistance rather than complete cultural erasure.",
+      "evidence_status": "documented_institutional_assimilation",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "K. Tsianina Lomawaima",
+          "title": "Domesticity in the federal Indian schools: the power of authority over mind and body",
+          "year": 1993,
+          "doi": "10.1525/ae.1993.20.2.02a00010",
+          "url": "https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1525/ae.1993.20.2.02a00010"
+        },
+        {
+          "author": "David Wallace Adams",
+          "title": "Education for Extinction: American Indians and the Boarding School Experience, 1875–1928",
+          "year": 2020,
+          "url": "https://www.jstor.org/stable/jj.11589130"
+        },
+        {
+          "author": "Lisa R. Rittmayer and Anne M. Driscoll, et al.",
+          "title": "Indian Boarding School Experience, Substance Use, and Mental Health among Urban Two-Spirit American Indian/Alaska Natives",
+          "year": 2017,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5446670/"
+        }
+      ]
+    },
+    {
+      "id": "hawaii-missionary-gender-sexual-order",
+      "place": "Hawai‘i",
+      "period": "c. 1820s–1850s",
+      "local_terms": [
+        "ali‘i",
+        "maka‘āinana"
+      ],
+      "topic": [
+        "social_gender",
+        "family_reproduction",
+        "religious_ritual_role",
+        "colonial_change"
+      ],
+      "claim": "Protestant missionaries promoted permanent sexually exclusive heterosexual marriage and a more patriarchal domestic model in Hawai‘i, contributing to changes in gender and sexual relations during the early nineteenth century.",
+      "qualification": "Sally Engle Merry emphasizes that this transformation was multicausal and negotiated: missionaries, Hawaiian chiefs, foreign commerce, demographic catastrophe, political change, and existing Hawaiian institutions all shaped the outcome. This record does not yet make a māhū-specific suppression claim.",
+      "evidence_status": "documented_structural_change_with_multicausal_qualification",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Sally Engle Merry",
+          "title": "Early Pacific Encounters and Masculinity: War, Sex, and Christianity in Hawai‘i",
+          "year": 2021,
+          "doi": "10.1086/711391",
+          "url": "https://www.journals.uchicago.edu/doi/10.1086/711391"
         }
       ]
     }
