@@ -27,9 +27,9 @@
         "social_gender",
         "religious_ritual_role"
       ],
-      "claim": "Bugis society is documented in modern ethnographic scholarship as recognizing five gender categories rather than only two.",
-      "qualification": "The five categories are not interchangeable and should be researched individually; the numeric summary must not substitute for their distinct social and ritual meanings.",
-      "evidence_status": "documented",
+      "claim": "Sharyn Graham Davies describes Bugis classification as three sexes, four gender categories (makkunrai, oroané, calabai, calalai), and bissu as a fifth meta-gender category with a priestly/ritual dimension.",
+      "qualification": "The common shorthand 'five genders' compresses distinctions among sex classification, social gender, and the bissu meta-gender/ritual role. The numeric summary should never substitute for those distinctions.",
+      "evidence_status": "documented_with_counting_qualification",
       "confidence": "high",
       "sources": [
         {
@@ -54,7 +54,7 @@
         "historical_practice"
       ],
       "claim": "Published research describes fa'afafine as a locally recognized alternative gender-role category distinct from normative man and woman categories in Samoa.",
-      "qualification": "Individual studies use Western analytical labels such as transgender or third gender; those labels are not treated as exact translations of fa'afafine.",
+      "qualification": "Western analytical labels such as transgender or third gender are not treated as exact translations of fa'afafine. Newer scholarship also documents fa'atama among Samoans assigned female at birth, so fa'afafine should not be made to stand for all Samoan gender diversity.",
       "evidence_status": "documented_with_qualification",
       "confidence": "high",
       "sources": [
@@ -71,6 +71,13 @@
           "year": 2011,
           "doi": "10.1007/s10508-009-9589-0",
           "url": "https://pubmed.ncbi.nlm.nih.gov/20013150/"
+        },
+        {
+          "author": "Mandy Treagus and Dion Enari",
+          "title": "Fa'atama: Indigenous Tomboys of Sāmoa",
+          "year": 2024,
+          "doi": "10.25120/etropic.23.2.2024.4065",
+          "url": "https://doi.org/10.25120/etropic.23.2.2024.4065"
         }
       ]
     },
@@ -113,7 +120,7 @@
         "colonial_change"
       ],
       "claim": "Scholarship documents many nation-specific Indigenous gender and sexuality categories; Two-Spirit is a modern umbrella term adopted in 1990 rather than the historical name of every tradition.",
-      "qualification": "Future records must identify the specific nation/community and local term. Do not collapse distinct traditions into one pan-Indigenous historical category.",
+      "qualification": "Two-Spirit is a contemporary pan-Indigenous umbrella, not an ancient universal Indigenous term and not a replacement for nation-specific historical categories. The older anthropological label 'berdache' was rejected by many Indigenous participants as colonial/insulting; the project does not use it as a neutral Indigenous self-category.",
       "evidence_status": "documented_with_scope_guardrail",
       "confidence": "high",
       "sources": [
@@ -570,7 +577,7 @@
         "court_role"
       ],
       "claim": "Mughal khwāja sarās were enslaved, castrated court officials who could hold important positions in elite households and political space; surviving naming, dress, office, and textual evidence generally categorized them as men.",
-      "qualification": "Emma Kalb stresses that 'eunuch' has been used too broadly in South Asian historiography. Mughal khwāja sarās should not be collapsed into the distinct hijra community or treated automatically as a third gender.",
+      "qualification": "Emma Kalb stresses that 'eunuch' has been used too broadly in South Asian historiography. Mughal khwāja sarās should not be collapsed into the distinct hijra community or treated automatically as a third gender. The modern term khawaja sira shares a name but is not assumed to represent direct institutional continuity across the colonial rupture.",
       "evidence_status": "documented_corrective",
       "confidence": "high",
       "sources": [
@@ -587,7 +594,7 @@
     {
       "id": "colonial-india-criminal-tribes-act-hijra",
       "place": "British North India",
-      "period": "1871 onward",
+      "period": "1871–1952 national framework, with provincial variation",
       "local_terms": [
         "Hijra",
         "eunuch"
@@ -599,7 +606,7 @@
         "historical_practice"
       ],
       "claim": "Part II of the Criminal Tribes Act of 1871 created registers of persons the colonial state classified as 'eunuchs', penalized registered persons for appearing publicly in feminine dress or performing, and restricted their ability to act as guardians or adopt children.",
-      "qualification": "The colonial statutory category 'eunuch' did not map cleanly onto Hijra identity. Jessica Hinchy's archival work shows that officials sought the gradual elimination of Hijra public visibility and social reproduction, while actual enforcement varied and Hijras resisted and evaded control.",
+      "qualification": "The colonial statutory category 'eunuch' did not map cleanly onto Hijra identity. Jessica Hinchy's archival work shows that officials sought the gradual elimination of Hijra public visibility and social reproduction, while actual enforcement varied and Hijras resisted and survived. The nationwide 1924 framework was repealed by the Criminal Tribes Laws (Repeal) Act 1952, effective 31 August 1952; some provinces had repealed or narrowed the regime earlier.",
       "evidence_status": "direct_law_plus_documented_elimination_policy",
       "confidence": "high",
       "sources": [
@@ -623,6 +630,13 @@
           "year": 2014,
           "doi": "10.1080/10357823.2014.901298",
           "url": "https://www.tandfonline.com/doi/abs/10.1080/10357823.2014.901298"
+        },
+        {
+          "author": "Parliament of India",
+          "title": "Criminal Tribes Laws (Repeal) Act, 1952",
+          "year": 1952,
+          "locator": "Act XXIV of 1952, section 2; repeal effective 31 August 1952",
+          "url": "https://en.wikisource.org/wiki/Criminal_Tribes_Law_(Repeal)_Act,_1952"
         }
       ]
     },
@@ -1218,14 +1232,101 @@
           "url": "https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1525/can.2004.19.2.159"
         }
       ]
+    },
+    {
+      "id": "samoa-faatama",
+      "place": "Samoa",
+      "period": "contemporary scholarship with limited earlier documentation",
+      "local_terms": [
+        "fa'atama",
+        "fa'atane"
+      ],
+      "topic": [
+        "social_gender",
+        "historical_practice"
+      ],
+      "claim": "Mandy Treagus and Dion Enari document fa'atama (formerly also fa'atane) as a comparatively under-studied Samoan category for people assigned female at birth who take masculine roles or identifications.",
+      "qualification": "The literature is much thinner than for fa'afafine, and individual fa'atama use different identity language. The record therefore does not force fa'atama into a simple Western 'four genders' taxonomy.",
+      "evidence_status": "documented_thinner_literature",
+      "confidence": "medium_high",
+      "sources": [
+        {
+          "author": "Mandy Treagus and Dion Enari",
+          "title": "Fa'atama: Indigenous Tomboys of Sāmoa",
+          "year": 2024,
+          "doi": "10.25120/etropic.23.2.2024.4065",
+          "locator": "eTropic 23.2 (2024): 197–212",
+          "url": "https://doi.org/10.25120/etropic.23.2.2024.4065"
+        }
+      ]
+    },
+    {
+      "id": "india-nalsa-third-gender",
+      "place": "India",
+      "period": "2014–present legal framework",
+      "local_terms": [
+        "transgender",
+        "hijra",
+        "third gender"
+      ],
+      "topic": [
+        "law_social_status",
+        "social_gender",
+        "classification"
+      ],
+      "claim": "In National Legal Services Authority v. Union of India (2014), the Supreme Court of India recognized transgender persons as entitled to constitutional protection and directed legal recognition of self-identified gender as male, female, or third gender.",
+      "qualification": "This is a modern legal classification and rights ruling. It does not establish that one timeless precolonial 'third gender' category existed unchanged across South Asia.",
+      "evidence_status": "direct_court_ruling",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Supreme Court of India",
+          "title": "National Legal Services Authority v. Union of India",
+          "year": 2014,
+          "locator": "W.P. (C) No. 400 of 2012, decided 15 April 2014; (2014) 5 SCC 438",
+          "url": "https://indiankanoon.org/doc/7003259/"
+        },
+        {
+          "author": "National Legal Services Authority",
+          "title": "Social Action Litigation",
+          "year": 2026,
+          "locator": "Official NALSA summary of the 2014 judgment",
+          "url": "https://nalsa.gov.in/social-action-litigation/"
+        }
+      ]
+    },
+    {
+      "id": "iran-transition-binary-framework",
+      "place": "Iran",
+      "period": "mid-1980s–present",
+      "local_terms": [],
+      "topic": [
+        "law_social_status",
+        "medicine",
+        "social_gender",
+        "classification"
+      ],
+      "claim": "Since the mid-1980s, Iran has legally permitted and partly subsidized sex-reassignment/transition procedures while state, medical, and religious institutions have treated same-sex conduct and identities differently.",
+      "qualification": "Afsaneh Najmabadi's analysis shows a legal-medical framework that can recognize transition while largely retaining male/female classification. This should not be simplified into 'Iran recognizes a third gender' or into a claim that every trans person is coerced into surgery.",
+      "evidence_status": "documented_modern_legal_medical_framework",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Afsaneh Najmabadi",
+          "title": "Professing Selves: Transsexuality and Same-Sex Desire in Contemporary Iran",
+          "year": 2014,
+          "publisher": "Duke University Press",
+          "url": "https://www.dukeupress.edu/professing-selves"
+        }
+      ]
     }
   ],
   "unresolved": [
     {
       "id": "seven-or-more-genders",
       "claim_under_test": "At least one culture recognized seven or more distinct gender categories.",
-      "status": "research_pending",
-      "publication_rule": "Do not publish a numeric claim until a culture-specific, period-specific source establishes the categories and their meanings."
+      "status": "unsupported_in_current_audit",
+      "publication_rule": "September 2026 red-team audit found no defensible culture-specific source establishing seven or more formally enumerated social gender categories. Treat as unsupported unless stronger culture- and period-specific evidence is produced."
     },
     {
       "id": "reproduction-binary-justification",
