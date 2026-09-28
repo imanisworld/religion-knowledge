@@ -74,6 +74,27 @@ This pass adds cases where the evidence is specific enough to publish without pr
 - **Rome:** distinguish what ancient sources say about the *galli* from modern scholarly theories about nonbinary identity.
 - **Christianity:** Nicaea shows a church institution regulating castration status differently according to cause.
 
+## Historical layer II — Second Temple Judaism, early Christianity, and precolonial South Asia
+
+This pass expands the timeline into cases where eunuch status, ambiguous sex characteristics, sexual role, and named “third nature” categories were treated differently across traditions.
+
+| Case | Place / period | What is documented | Status |
+|---|---|---|---|
+| Philo on eunuchs and gender | Hellenistic Judaism, Alexandria; c. 30 BCE–45 CE | Philo repeatedly uses eunuchism and castration in exegetical and philosophical discussions of male/female categories. Ra‘anan Abusch argues that these passages are important for understanding Philo’s gender hierarchy and the symbolic use of eunuchism. This is philosophical/exegetical discourse, not evidence that Alexandrian Jews recognized a third social gender. | **Scholarly interpretation of primary texts** |
+| Ethiopian eunuch in Acts 8 | Early Christianity, 1st century CE text | Acts repeatedly identifies the Ethiopian court official as a eunuch and depicts his baptism without narrating restoration to an ordinary male status. Brittany Wilson argues that ancient gender, ethnicity, and status make him a boundary-crossing figure rather than simply an elite official. | **Direct text + interpretive layer** |
+| Matthew 19:12 and Origen’s reception | Early Christianity, 1st–3rd centuries CE | Matthew distinguishes eunuchs born so, made so by others, and those who “made themselves eunuchs” for the kingdom. Eusebius later reports that Origen took the saying literally and castrated himself, although modern scholarship debates the historical reliability of that report. | **Direct text + disputed reception history** |
+| *aylonit* and *saris* | Rabbinic Judaism | Rabbinic texts classify an *aylonit* and forms of *saris* through bodily signs, fertility, and legal consequences. Sarra Lev argues that the constructed signs cross sex/gender markers even though the rabbis generally do not treat the *aylonit* as a separate gender identity. | **Documented with analytical qualification** |
+| *tṛtīyā prakṛti* in the Kāmasūtra | South Asia, roughly 3rd–4th century CE | The Kāmasūtra explicitly describes a “third nature” and distinguishes two forms, including one characterized by feminine dress, speech, manner, and sexual role. This is one of the clearest ancient South Asian textual cases of a named category outside ordinary male/female erotic roles, but it should not be equated automatically with a modern transgender identity. | **Direct textual category + qualification** |
+| Mughal *khwāja sarās* | Mughal India, 16th–18th centuries | Enslaved, castrated court officials were highly visible in Mughal households and political space. Emma Kalb finds that naming, dress, office, and the surviving record generally categorize them as men—men whose masculinity could be considered different or inferior—not as a third gender. | **Documented corrective** |
+
+### What this changes
+
+- **Second Temple / Hellenistic Judaism:** eunuch imagery could become a vehicle for thinking about masculinity, femininity, virtue, and bodily difference without creating a third social gender.
+- **Early Christianity:** eunuchs could function simultaneously as actual bodily categories, metaphors for celibacy, boundary-crossing converts, and objects of institutional regulation. Those uses must not be collapsed.
+- **Rabbinic Judaism:** *aylonit* and *saris* deepen the body/legal taxonomy, but the evidence still does not justify converting the whole system into a modern list of gender identities.
+- **South Asia:** the Kāmasūtra gives us a genuine named “third nature” category, while Mughal *khwāja sarās* show the opposite pattern: bodily difference did **not** necessarily move a person outside the category “man.”
+- **Method:** the same bodily condition—especially castration—can produce very different social classifications in different cultures.
+
 ## Case record fields
 
 Each mature case should answer, where evidence exists:
@@ -102,11 +123,11 @@ The first research pass should expand these areas without assuming they all cont
 - Ancient Mesopotamia — **first pass added; deeper gala/kalû and kurgarrû work pending**
 - Ancient Egypt — **Hatshepsut representation added; broader society pending**
 - Hebrew Bible — **eunuch textual contrast added**
-- Second Temple Judaism — **pending**
-- Rabbinic sex/gender classifications — **first pass added; aylonit/saris expansion pending**
+- Second Temple Judaism — **Philo layer added; broader Wisdom/Josephus work pending**
+- Rabbinic sex/gender classifications — **tumtum/androgynos + aylonit/saris added**
 - Greece and Rome — **galli first pass added**
-- Early Christianity and later Christian institutions — **Nicaea Canon 1 added; broader church history pending**
-- South Asia before and during colonial rule
+- Early Christianity and later Christian institutions — **Acts 8, Matthew 19/Origen reception, and Nicaea Canon 1 added**
+- South Asia before and during colonial rule — **Kāmasūtra tṛtīyā prakṛti + Mughal khwāja sarā first pass added; colonial Hijra governance still pending**
 - Islamic legal and court traditions, including eunuch institutions
 - African regions with culture-specific evidence
 - Southeast Asian and Pacific gender systems
@@ -142,6 +163,13 @@ The first research pass should expand these areas without assuming they all cont
 18. Chris Mowat, "Don't be a Drag, Just be a Priest: The Clothing and Identity of the Galli of Cybele in the Roman Republic and Empire," *Gender & History* 33.2 (2021): 296–313. DOI: https://doi.org/10.1111/1468-0424.12518
 19. Marika Rauhala, "Obscena Galli Praesentia: Dehumanizing Cybele's Eunuch-Priests through Disgust," in *The Ancient Emotion of Disgust* (Oxford University Press, 2016), 235–252. DOI: https://doi.org/10.1093/acprof:oso/9780190604110.003.0012
 20. First Council of Nicaea (325 CE), Canon 1, on involuntary/medical eunuchs and voluntary self-castration. English translation in *Nicene and Post-Nicene Fathers*, Series II, vol. 14. https://www.newadvent.org/fathers/3801.htm
+21. Ra‘anan Abusch, “Eunuchs and Gender Transformation: Philo’s Exegesis of the Joseph Narrative,” in Shaun Tougher, ed., *Eunuchs in Antiquity and Beyond* (Classical Press of Wales, 2002), 103–122. https://www.jstor.org/stable/j.ctv1n35846.10
+22. Brittany E. Wilson, “‘Neither Male nor Female’: The Ethiopian Eunuch in Acts 8.26–40,” *New Testament Studies* 60.3 (2014): 403–422. https://doi.org/10.1017/S0028688514000103
+23. Matthew 19:12; Eusebius, *Ecclesiastical History* 6.8. For the dispute over Origen’s reception, see Ronald E. Heine, “Origen and his Opponents on Matthew 19:12,” *Studia Patristica* 56 (2013): 123–128. https://www.jstor.org/stable/jj.35841804.11
+24. Sarra Lev, “How the ’Aylonit Got Her Sex,” *AJS Review* 31.2 (2007): 297–316. https://www.cambridge.org/core/journals/ajs-review/article/abs/how-the-aylonit-got-her-sex/1C3B8506390E89792F59D911F937F7B5
+25. Wendy Doniger, “The Third Nature: Gender Inversions in the Kamasutra,” in *On Hinduism* (Oxford University Press, 2014), 314–329. https://doi.org/10.1093/acprof:oso/9780199360079.003.0022
+26. Vātsyāyana, *Kāmasūtra* 2.9.6–24, trans. Wendy Doniger and Sudhir Kakar (Oxford University Press, 2002), describing two forms of *tṛtīyā prakṛti* (“third nature”).
+27. Emma Kalb, “A eunuch at the threshold: mediating access and intimacy in the Mughal world,” *Journal of the Royal Asiatic Society* 33.3 (2023): 747–768. https://doi.org/10.1017/S1356186322000827
 
 ## Next research standard
 
