@@ -1,6 +1,6 @@
 {
   "module": "gender-over-time",
-  "version": 1,
+  "version": 2,
   "updated": "2026-09-28",
   "scope_note": "Research module outside the nine-document core corpus. Categories are culture- and period-specific; modern Western labels are not assumed to be exact equivalents.",
   "analytical_layers": [
@@ -193,6 +193,207 @@
           "year": 2024,
           "doi": "10.1371/journal.pgph.0003568",
           "url": "https://pubmed.ncbi.nlm.nih.gov/39197054/"
+        }
+      ]
+    },
+    {
+      "id": "mesopotamia-assinnu-gender-performance",
+      "place": "Mesopotamia",
+      "period": "cuneiform evidence across multiple periods; especially 2nd–1st millennia BCE",
+      "local_terms": [
+        "assinnu",
+        "kurgarrû"
+      ],
+      "topic": [
+        "social_gender",
+        "religious_ritual_role",
+        "historical_practice"
+      ],
+      "claim": "Cuneiform evidence supports an unconventional gender performance associated with the assinnu in the cult of Ištar, including transgression of ordinary gender boundaries.",
+      "qualification": "Svärd and Nissinen caution that evidence does not justify treating castration, same-sex sexual role, or a modern transgender identity as settled facts. Their analysis distinguishes gender performance from sexuality and from modern identity categories.",
+      "evidence_status": "documented_with_major_qualification",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Saana Svärd and Martti Nissinen",
+          "title": "(Re)constructing the Image of the Assinnu",
+          "year": 2018,
+          "publisher": "Eisenbrauns / Penn State University Press",
+          "locator": "pp. 373–411, especially pp. 396–397",
+          "url": "https://helda.helsinki.fi/handle/10138/309993"
+        },
+        {
+          "author": "Ilan Peled",
+          "title": "Visualizing Masculinities: The Gala, Hegemony, and Mesopotamian Iconography",
+          "year": 2016,
+          "doi": "10.5615/neareastarch.79.3.0158",
+          "url": "https://www.journals.uchicago.edu/doi/10.5615/neareastarch.79.3.0158"
+        }
+      ]
+    },
+    {
+      "id": "egypt-hatshepsut-kingship-gender",
+      "place": "Ancient Egypt",
+      "period": "18th Dynasty, c. 1473–1458 BCE",
+      "local_terms": [
+        "pharaoh",
+        "king"
+      ],
+      "topic": [
+        "social_gender",
+        "law_social_status",
+        "religious_ritual_role",
+        "historical_practice"
+      ],
+      "claim": "Hatshepsut, a woman who ruled as pharaoh, was represented in some official sculpture in the idealized masculine form and regalia of Egyptian kingship while inscriptions retained feminine grammatical forms and her female personal name.",
+      "qualification": "This demonstrates gendered conventions of royal office and representation, not evidence that Hatshepsut belonged to a third-gender social category or was attempting to conceal that she was a woman.",
+      "evidence_status": "documented",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "The Metropolitan Museum of Art",
+          "title": "Hatshepsut in a Devotional Attitude",
+          "year": null,
+          "locator": "Object 29.3.1; Dynasty 18, c. 1473–1458 BCE",
+          "url": "https://www.metmuseum.org/art/collection/search/544446"
+        },
+        {
+          "author": "The Metropolitan Museum of Art",
+          "title": "The Female Pharaoh Hatshepsut",
+          "year": null,
+          "locator": "Object 29.3.2; Dynasty 18, c. 1473–1458 BCE",
+          "url": "https://www.metmuseum.org/art/collection/search/544849"
+        }
+      ]
+    },
+    {
+      "id": "hebrew-bible-eunuch-contrast",
+      "place": "Ancient Israel/Judah textual tradition",
+      "period": "Hebrew Bible",
+      "local_terms": [
+        "saris"
+      ],
+      "topic": [
+        "sex_traits",
+        "religious_ritual_role",
+        "law_social_status"
+      ],
+      "claim": "Deuteronomy 23:1 excludes a man with crushed or severed genitalia from the assembly of YHWH, while Isaiah 56:3–5 promises covenant-keeping eunuchs a place and enduring name in God's house.",
+      "qualification": "This is a direct textual contrast inside the biblical corpus. It does not by itself establish a third-gender category, and historical dating or causation requires separate scholarship.",
+      "evidence_status": "direct_textual_contrast",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Hebrew Bible",
+          "title": "Deuteronomy 23:1",
+          "locator": "Deuteronomy 23:1 (23:2 in Hebrew versification)",
+          "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A1&version=NRSVUE"
+        },
+        {
+          "author": "Hebrew Bible",
+          "title": "Isaiah 56:3–5",
+          "locator": "Isaiah 56:3–5",
+          "url": "https://www.esv.org/verses/Isaiah%2B56%3A3%E2%80%935/"
+        }
+      ]
+    },
+    {
+      "id": "rabbinic-tumtum-androgynos-legal-status",
+      "place": "Rabbinic Judaism",
+      "period": "Tannaitic and later rabbinic literature",
+      "local_terms": [
+        "tumtum",
+        "androgynos",
+        "aylonit",
+        "saris"
+      ],
+      "topic": [
+        "sex_traits",
+        "law_social_status",
+        "social_gender"
+      ],
+      "claim": "Rabbinic legal texts explicitly discuss persons who cannot be classified as definitely male or female in particular legal contexts, including tumtum and androgynos.",
+      "qualification": "Calling the rabbinic system 'six genders' is a modern shorthand that can mislead. Scholarship describes these categories as strongly body- and legal-status-based, and shows that rabbinic law often manages ambiguity relative to a structurally important male/female binary.",
+      "evidence_status": "documented_with_terminology_qualification",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Jane L. Kanarek",
+          "title": "Rewriting 'Arakhin: Women and Tannaitic Vows of Valuation",
+          "year": 2016,
+          "doi": "10.1017/S0364009416000416",
+          "locator": "AJS Review 40.2, pp. 261–277; discussion of M. Arakhin 1:1",
+          "url": "https://www.cambridge.org/core/journals/ajs-review/article/rewriting-arakhin-women-and-tannaitic-vows-of-valuation/68BFD3701F49524AD609792A1E9AC003"
+        },
+        {
+          "author": "Marianne Schleicher",
+          "title": "Constructions of Sex and Gender: Attending to Androgynes and Tumtumim Through Jewish Scriptural Use",
+          "year": 2011,
+          "doi": "10.1093/litthe/frr051",
+          "url": "https://academic.oup.com/litthe/article-abstract/25/4/422/964654"
+        }
+      ]
+    },
+    {
+      "id": "rome-galli-cybele-gender-variance",
+      "place": "Hellenistic and Roman Mediterranean",
+      "period": "Hellenistic period through late antiquity",
+      "local_terms": [
+        "galli",
+        "gallus"
+      ],
+      "topic": [
+        "social_gender",
+        "religious_ritual_role",
+        "sex_traits",
+        "historical_practice"
+      ],
+      "claim": "The galli, priests of Cybele/Magna Mater, were associated with self-castration and feminine-coded clothing and appearance, and Roman literary portrayals often treated them as violating normative masculinity.",
+      "qualification": "Some modern scholars interpret the galli as nonbinary or outside expected gender binaries. That is a modern analytical interpretation; ancient self-identification is not recoverable, and surviving literary sources are frequently hostile.",
+      "evidence_status": "documented_with_interpretive_layer",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "Chris Mowat",
+          "title": "Don't be a Drag, Just be a Priest: The Clothing and Identity of the Galli of Cybele in the Roman Republic and Empire",
+          "year": 2021,
+          "doi": "10.1111/1468-0424.12518",
+          "locator": "Gender & History 33.2, pp. 296–313",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1111/1468-0424.12518"
+        },
+        {
+          "author": "Marika Rauhala",
+          "title": "Obscena Galli Praesentia: Dehumanizing Cybele's Eunuch-Priests through Disgust",
+          "year": 2016,
+          "doi": "10.1093/acprof:oso/9780190604110.003.0012",
+          "locator": "pp. 235–252",
+          "url": "https://academic.oup.com/book/3963/chapter-abstract/145580437"
+        }
+      ]
+    },
+    {
+      "id": "nicaea-canon1-eunuch-clergy",
+      "place": "Christian Roman Empire",
+      "period": "Council of Nicaea, 325 CE",
+      "local_terms": [
+        "eunuch"
+      ],
+      "topic": [
+        "religious_ritual_role",
+        "law_social_status",
+        "sex_traits"
+      ],
+      "claim": "Canon 1 of the Council of Nicaea distinguished involuntary or medically necessary castration from voluntary self-castration: involuntary/medical eunuchs could remain or be admitted to clergy if otherwise worthy, while clergy who voluntarily castrated themselves were to cease ministry and such candidates were not to be promoted.",
+      "qualification": "This is an institutional rule about castration and clerical eligibility. It should not be converted into a claim about the person's gender identity.",
+      "evidence_status": "direct_textual_institutional_rule",
+      "confidence": "high",
+      "sources": [
+        {
+          "author": "First Council of Nicaea",
+          "title": "Canon 1",
+          "year": 325,
+          "locator": "Canon 1",
+          "url": "https://www.newadvent.org/fathers/3801.htm"
         }
       ]
     }
