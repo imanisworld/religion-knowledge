@@ -1603,7 +1603,7 @@ hr+*{margin-top:0}
 // ── JS (shared across all readers) ───────────────────────────────────────────
 
 const JS = `
-const $=(s,r=document)=>r.querySelector(s), $=(s,r=document)=>[...r.querySelectorAll(s)];
+const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
 
 /* One compact document selector replaces the tall list of navigation cards. */
 const documentPicker = $('#document-switcher');
