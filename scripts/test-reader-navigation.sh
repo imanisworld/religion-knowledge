@@ -86,7 +86,7 @@ PY
 
 python3 -m http.server 8766 --bind 127.0.0.1 >/tmp/religion-reader-http.log 2>&1 &
 SERVER_PID=$!
-trap 'kill "$SERVER_PID" >/dev/null 2>&1 || true; rm -f master-notes.reader-smoke.html field-guide.reader-smoke.html' EXIT
+trap 'kill "$SERVER_PID" >/dev/null 2>&1 || true; rm -f master-notes.reader-smoke.html field-guide.reader-smoke.html master-notes.return-smoke.html field-guide.return-smoke.html' EXIT
 
 READY=0
 for _ in {1..40}; do
@@ -117,4 +117,102 @@ for page in master-notes field-guide; do
     fi
     echo "READER_TOPIC_SMOKE=PASS page=$page viewport=$size"
   done
+done
+
+
+# Cross-document round trip: a saved Study Notes topic must survive visiting
+# Observations; explicit deep links, browser back and the selected light theme
+# must still take priority. Fresh browser profile per viewport.
+python3 - <<'PY'
+from pathlib import Path
+master_probe = r'''<script>
+setTimeout(() => {
+  const key = 'reader-roundtrip-stage';
+  const stage = sessionStorage.getItem(key);
+  const select = document.getElementById('reader-section-select');
+  const active = [...document.querySelectorAll('main > section')].filter(s => !s.hidden);
+  if (!stage) {
+    // Simulate choosing a topic and leaving through the document navigation.
+    if (!select || select.options.length < 4) {
+      document.body.dataset.readerRoundtrip = 'fail-no-topics'; return;
+    }
+    select.value = '2';
+    select.dispatchEvent(new Event('change', { bubbles:true }));
+    const selected = document.querySelector('main > section:not([hidden])');
+    const expected = selected?.id || '';
+    if (!expected || sessionStorage.getItem('religion-reader-topic:' + location.pathname) !== expected) {
+      document.body.dataset.readerRoundtrip = 'fail-not-saved'; return;
+    }
+    sessionStorage.setItem('reader-roundtrip-original-topic', expected);
+    sessionStorage.setItem(key, 'visiting-observations');
+    location.href = 'field-guide.return-smoke.html#s2-1';
+    return;
+  }
+  if (stage === 'returning-to-study') {
+    const id = sessionStorage.getItem('reader-roundtrip-original-topic');
+    const section = document.getElementById(id);
+    const resumed = !!section && !section.hidden && active.length === 1;
+    const light = document.documentElement.dataset.theme === 'light';
+    const about = !!document.querySelector('.reader-about #sec-intro');
+    const laptop = innerWidth < 900 || (
+      getComputedStyle(document.querySelector('main')).overflow === 'hidden' &&
+      getComputedStyle(section).overflowY === 'auto'
+    );
+    document.body.dataset.readerRoundtrip = resumed && light && about && laptop
+      ? 'pass' : 'fail';
+    document.body.dataset.readerRoundtripDetail = JSON.stringify({
+      resumed,light,about,laptop,id,active:active[0]?.id,viewport:[innerWidth,innerHeight]
+    });
+  }
+},0);
+</script>'''
+field_probe = r'''<script>
+setTimeout(() => {
+  if (sessionStorage.getItem('reader-roundtrip-stage') !== 'visiting-observations') return;
+  const target = document.getElementById('s2-1');
+  const source = target?.closest('main > section');
+  if (!source || source.hidden || document.documentElement.dataset.theme !== 'light') {
+    document.body.dataset.readerRoundtrip = 'fail-deep-link'; return;
+  }
+  // Visit another topic by hash then use the browser Back action.
+  const link = document.createElement('a');
+  link.href = '#s3-2';
+  document.body.append(link);
+  link.click();
+  const other = document.getElementById('s3-2')?.closest('main > section');
+  if (!other || other.hidden) {
+    document.body.dataset.readerRoundtrip = 'fail-in-page-link'; return;
+  }
+  history.back();
+  setTimeout(() => {
+    const restored = document.getElementById('s2-1')?.closest('main > section');
+    if (!restored || restored.hidden || location.hash !== '#s2-1') {
+      document.body.dataset.readerRoundtrip = 'fail-back-button'; return;
+    }
+    sessionStorage.setItem('reader-roundtrip-stage','returning-to-study');
+    location.href = 'master-notes.return-smoke.html';
+  },150);
+},0);
+</script>'''
+for name, probe in [('master-notes',master_probe),('field-guide',field_probe)]:
+    html = Path(name+'.html').read_text(encoding='utf-8')
+    Path(name+'.return-smoke.html').write_text(
+        html.replace('</body>',probe+'\n</body>'),encoding='utf-8')
+PY
+
+for size in 1280,800 390,844; do
+  output="/tmp/religion-$size-reader-roundtrip-dom.html"
+  log="/tmp/religion-$size-reader-roundtrip-chrome.log"
+  "$BROWSER" --headless --no-sandbox --disable-gpu \
+    --hide-scrollbars --window-size="$size" --virtual-time-budget=12000 \
+    --dump-dom "http://127.0.0.1:8766/master-notes.return-smoke.html" \
+    >"$output" 2>"$log"
+  if ! grep -Fq 'data-reader-roundtrip="pass"' "$output"; then
+    echo "Reader navigation/session roundtrip failed at $size" >&2
+    grep -o 'data-reader-roundtrip-detail="[^"]*"' "$output" | head -1 >&2 || true
+    grep -o 'data-reader-roundtrip="[^"]*"' "$output" | head -1 >&2 || true
+    tail -35 "$log" >&2 || true
+    exit 1
+  fi
+  echo "READER_ROUNDTRIP_SMOKE=PASS viewport=$size saved_section=restored hash_navigation=pass browser_back=pass light_theme=pass"
 done
