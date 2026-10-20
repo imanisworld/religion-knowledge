@@ -1,3 +1,21 @@
+## Batch 10 — Jesus and Paul’s timing claims (October 20, 2026)
+
+Seven near-horizon New Testament texts are now integrated into the canonical records, research Markdown, HTML reader and Search. This is a **source-location and limited scholarly spot-check**, not a completed full text-critical review or independent assessment of historical Jesus speech.
+
+| Passage | Critical evidence | Independent reviewer must check |
+|---|---|---|
+| Mark 13:2 | Rome destroyed the Temple sanctuary in 70 CE. [Brandon, *New Testament Studies*](https://www.cambridge.org/core/journals/new-testament-studies/article/abs/date-of-the-markan-gospel/B34650230D991C2B56A96866131DC994) explains disputed before/after-70 dating of Mark. | Temple buildings vs retaining walls, composition date vs supposed earlier spoken forecast, and rhetoric 'not a stone'. |
+| Mark 13:30 / Matthew 24:34 | `hē genea hautē` reads 'this generation'; [Edsall 2025](https://doi.org/10.1177/0142064X241289867) researches its context and reception. | Whether 'all these things' includes the Son of Man scene or only events through Jerusalem 70 CE; assess rival preterist, future-generation and spiritual-generation readings. |
+| Matthew 10:23 | 'You will not finish the towns of Israel until the Son of Man comes' contains a strong negative/time phrase. [Löfstedt](https://doi.org/10.58546/se.v90i1.25546) argues the coming here means resurrection/exaltation rather than the last day. | Distinguish a likely reading from verified historical event; explain manuscript variation about 'of Israel' where attested. |
+| Mark 9:1 | [NET critical notes](https://classic.net.bible.org/verse.php?book=Mar&chapter=9&verse=1) identify Transfiguration, resurrection, Spirit and final return as competing referents. | Check immediate Transfiguration sequence against the preceding Son of Man saying and what exactly 'in power' means in Mark. |
+| Mark 14:62 | Psalm 110's heavenly right hand plus Daniel 7's humanlike figure; [Smith/Vaillancourt 2022](https://doi.org/10.15699/jbl.1413.2022.6) defend a two-stage enthronement/future return reading. | Direct 'you will see' historical audience, heavenly *toward* God vs from heaven arrival, Matthew's 'from now on'. |
+| 1 Thess 4:15–17 | `hēmeis hoi zōntes hoi perileipomenoi` is explicit first person. [*Novum Testamentum* 2024](https://brill.com/view/journals/nt/66/2/article-p231_5.xml?language=en) presents alternate participial/granular readings. | Avoid claiming absolute promise of personal survival; weigh scholarly evidence for imminent expectation and class-based 'we'. |
+| 1 Cor 15:51–52 | [NET apparatus note](https://classic.net.bible.org/verse.php?book=1Co&chapter=15&tab=commentaries&theme=wiki&verse=51) groups four significantly different Greek variant forms. | Critical-text choice, manuscript witnesses, possible motives for scribal alterations, and difference between being prepared for a return and guaranteeing a date. |
+
+**Control totals after Batch 10:** 59 canonical studies across ten batches; initial 11 reviewed, later 48 require full internal source checks. Of 50 additional seed candidate loci, 42 have case-specific records, 2 link to prior records, and 6 remain pending/partial. Full inventory discovery is outstanding, and no independent external review has been completed.
+
+---
+
 ## Batch 9 — Daniel visions (October 20, 2026)
 
 Six researched Daniel claims are integrated in `records.json`, Markdown, HTML and Search. Their source passages and several academic interpretations are documented, but this is a **source-location and focused historical-control pass**, not a finished critical-edition review or independent peer review.
