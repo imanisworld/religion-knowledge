@@ -4677,12 +4677,12 @@
     "claim_id": "CP-ARCHER-001",
     "claim_text": "Gleason Archer, in Encyclopedia of Bible Difficulties (1982), rejects reading ʾelep in the Numbers censuses as \"clan\" (naming Mendenhall, Bright, and Clark) and defends the 603,550 total from the place-value structure of the figures and the Exodus 38:25 half-shekel sum.",
     "claim_type": "historical_interpretation",
-    "status": "unreviewed",
+    "status": "verified_with_qualification",
     "confidence": "medium",
     "primary_sources": [
       {
         "source": "Gleason L. Archer, Encyclopedia of Bible Difficulties (Zondervan, 1982)",
-        "locator": "pp. 124-125 (hosted copy; print pagination not verified)"
+        "locator": "p. 129 of the 1982 Zondervan print edition (all three named scholars indexed there); wording matched by full-text search of Internet Archive scan encyclopediaofbi00arch. Hosted retypeset copy: pp. 124-125."
       }
     ],
     "secondary_sources": [],
@@ -4696,7 +4696,7 @@
         "anchor": "#person-archer-gleason"
       }
     ],
-    "notes": "Qualification: page numbers come from an unofficial hosted copy. Earlier wording \"defends every Numbers census figure\" narrowed. Status held at unreviewed under the five-entry follow-up gate (docs/research/cited-persons-five-entry-followup-20261020.md), which requires a verified edition before upgrading; the text was read only in a web copy. Print check attempted 20 Oct 2026: Internet Archive scan encyclopediaofbi00arch (Zondervan 1982) is lending-only; not read.",
+    "notes": "Print check 20 Oct 2026: the quoted wording (\"render this theory quite untenable\"; Exodus 38:25 \"100 talents and 1,775 shekels\"; \"exactly 603,550 half-shekels\") was matched in the full text of the Internet Archive library scan of the 1982 Zondervan edition (https://archive.org/details/encyclopediaofbi00arch). The page comes from the printed index of persons; the page image itself was not viewed. Earlier wording \"defends every Numbers census figure\" narrowed. The public Cited Persons marker stays UNRESOLVED until the owner accepts this claim-specific evidence (PR #212 reconciliation).",
     "last_verified": "2026-10-20",
     "reviewer": "audit-2026-10-20"
   },
@@ -4704,12 +4704,12 @@
     "claim_id": "CP-BARTON-001",
     "claim_text": "John Barton disputes the Harnack/von Campenhausen thesis that the New Testament canon was an anti-Marcionite creation, summarizing (in his words, \"somewhat exaggerated\"): \"Marcion was not responsible for Christians adopting a New Testament; he was responsible for their retaining an Old Testament.\"",
     "claim_type": "historical_interpretation",
-    "status": "unreviewed",
+    "status": "verified_with_qualification",
     "confidence": "medium",
     "primary_sources": [
       {
         "source": "John Barton, \"Marcion Revisited,\" in L.M. McDonald and J.A. Sanders (eds.), The Canon Debate (Hendrickson)",
-        "locator": "pp. 341-354; reprinted as ch. 6 (from p. 67) of Barton, The Old Testament: Canon, Literature and Theology (Ashgate, 2007)"
+        "locator": "pp. 341-354 (essay); the sentence falls within the Cosgrove discussion indexed at pp. 349-351 of the 2002 Hendrickson print edition; reprinted as ch. 6 (from p. 67) of Barton, The Old Testament: Canon, Literature and Theology (Ashgate, 2007)"
       }
     ],
     "secondary_sources": [
@@ -4743,7 +4743,7 @@
         "anchor": "#s12-3"
       }
     ],
-    "notes": "Corrects Historical Framework §12.3, which credited the quote to The Cambridge History of Christianity and paraphrased it (\"the Christians\", \"the Old Testament\"). Page of the sentence within the chapter not confirmed. Status held at unreviewed under the five-entry follow-up gate (docs/research/cited-persons-five-entry-followup-20261020.md), which requires a verified edition before upgrading; the text was read only in a web copy. Print check attempted 20 Oct 2026: The Canon Debate scan (Internet Archive canondebate0000unse) is lending-only; AUSS print review confirms the essay at p. 342. Cambridge lists Harry Gamble as author of the CHC Marcion chapter (https://www.cambridge.org/core/books/abs/cambridge-history-of-christianity/marcion-and-the-canon/418E1DCB980394EFF038DDDD2C63B8B3).",
+    "notes": "Corrects Historical Framework §12.3, which credited the quote to The Cambridge History of Christianity and paraphrased it (\"the Christians\", \"the Old Testament\"). Print check 20 Oct 2026: the sentence was matched in the full text of the Internet Archive library scan of the 2002 Hendrickson edition (https://archive.org/details/canondebate0000unse), within the Cosgrove discussion the printed index places at pp. 349-351. The exact page was not isolated. This supports the Marcion claim only; CP-BARTON-002 (Micah 6) remains unreviewed. Cambridge lists Harry Gamble as author of the CHC Marcion chapter (https://www.cambridge.org/core/books/abs/cambridge-history-of-christianity/marcion-and-the-canon/418E1DCB980394EFF038DDDD2C63B8B3).",
     "last_verified": "2026-10-20",
     "reviewer": "audit-2026-10-20"
   },
@@ -4780,7 +4780,7 @@
         "anchor": "#a-ethics-summarizing-language-continuous-with-torah-not-in-contradiction-to-it"
       }
     ],
-    "notes": "Attribution unverified after two checks (12 Aug and 20 Oct 2026). Candidate places to look: Barton, Ethics in Ancient Israel (2014); Barton, Understanding Old Testament Ethics (2003). Do not quote until a page is found.",
+    "notes": "Attribution unverified after two checks (12 Aug and 20 Oct 2026). Candidate places to look: Barton, Ethics in Ancient Israel (2014); Barton, Understanding Old Testament Ethics (2003). Do not quote until a page is found. Third check 20 Oct 2026: full-text searches of Internet Archive scans of Barton, Ethics and the Old Testament (1998; ethicsoldtestame0000bart) and Understanding Old Testament Ethics (2003; understandingold0000bart) found no discussion matching this claim (OCR search, not a page-by-page read).",
     "last_verified": "2026-10-20",
     "reviewer": "audit-2026-10-20"
   },
@@ -4819,7 +4819,7 @@
         "anchor": "#a-the-eleph-census-solution"
       }
     ],
-    "notes": "Qualification: Briggs's subject is Joshua and Ai, not the Numbers census as such; the earlier Cited Persons wording (\"applied the eleph proposal to Numbers\") was narrowed. Read through the ABR web reprint, not the printed volume. Status held at unreviewed under the five-entry follow-up gate (docs/research/cited-persons-five-entry-followup-20261020.md), which requires a verified edition before upgrading; the text was read only in a web copy. Publication and pp. 157-196 confirmed by Dozeman, Currents in Biblical Research (2017) bibliography (https://journals.sagepub.com/doi/full/10.1177/1476993X16661918); printed text not read.",
+    "notes": "Qualification: Briggs's subject is Joshua and Ai, not the Numbers census as such; the earlier Cited Persons wording (\"applied the eleph proposal to Numbers\") was narrowed. Read through the ABR web reprint, not the printed volume. Status held at unreviewed under the five-entry follow-up gate (docs/research/cited-persons-five-entry-followup-20261020.md), which requires a verified edition before upgrading; the text was read only in a web copy. Publication and pp. 157-196 confirmed by Dozeman, Currents in Biblical Research (2017) bibliography (https://journals.sagepub.com/doi/full/10.1177/1476993X16661918); printed text not read. Print check 20 Oct 2026: no scan or full-text copy of Beyond the Jordan (2005) was found in the Internet Archive; the chapter text remains unread in print.",
     "last_verified": "2026-10-20",
     "reviewer": "audit-2026-10-20"
   }
