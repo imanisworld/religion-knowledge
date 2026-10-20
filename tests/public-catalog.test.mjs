@@ -38,3 +38,28 @@ test('public catalog opens research notes on-site, without GitHub detours or pho
   assert.match(html, /\.catalog-table tbody,.catalog-table tr,.catalog-table th,.catalog-table td\{display:block/);
   assert.match(html, /querySelectorAll\("\[data-catalog-row\]"\)/);
 });
+
+
+test('religions & traditions list has visible documented periods with evidence-type labels', () => {
+  const html = buildPublicCatalog();
+  const traditions = html.match(/<details id="traditions" class="group"[\s\S]*?(?=<details id="cultures" class="group")/);
+  assert.ok(traditions, 'Missing traditions collection');
+  const content = traditions[0];
+  assert.match(content, /class="catalog-table traditions-table"/);
+  assert.match(content, /<th role="columnheader" scope="col">Documented period<\/th>/);
+  assert.match(content, /data-label="Documented period"/);
+  assert.match(content, /1704–1705 CE/); // Akan recorded documentary window
+  assert.match(content, /1400–1200 BCE/); // Ugaritic Bronze Age tablets
+  assert.match(content, /1701–1703 CE/); // surviving Popol Vuh manuscript
+  assert.match(content, /No verified written date/); // early Yahwism needs no invented start
+  assert.match(content, /Written sources in this research/);
+  assert.match(content, /Surviving manuscript in this research/);
+  assert.match(content, /It is not a founding date or an end date/);
+  assert.match(content, /Historical timeline and uncertainty/);
+  assert.match(content, /Archaeological context — not automatically an origin date/);
+  assert.match(content, /Oral-tradition dating — method and uncertainty/);
+  assert.match(content, /Traditional or internal account/);
+  assert.match(html, /traditions-table thead th:nth-child\(3\)\{width:19%\}/);
+  assert.match(html, /data-label="Documented period"/);
+  assert.doesNotMatch(html, /github\.com/);
+});
