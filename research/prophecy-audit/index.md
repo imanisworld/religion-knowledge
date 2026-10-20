@@ -1,6 +1,6 @@
 # Biblical Prophecy — Evidence Audit
 
-**Checked:** October 20, 2026 · **Status:** 25 researched cases across four batches: 11 internally checked and 14 awaiting claim-specific internal review. External review remains deferred until the defined collection is complete. This is not a count of all biblical prophecies.
+**Checked:** October 20, 2026 · **Status:** 35 researched cases across six batches: 11 initially reviewed and 24 still requiring claim-specific internal review. External review remains deferred until the defined collection is complete. This is not a count of all biblical prophecies.
 
 The Bible's prophetic literature includes warnings, oracles about current political crises, predictions, poetic laments, promises of restoration, and retrospective historical narratives. A later author calling an earlier passage **fulfilled** establishes that the later author made that interpretation. It does not by itself establish that the earlier author predicted the later event.
 
@@ -51,6 +51,17 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 | [Isaiah 6:9–10](#isaiah-6-matthew-13) | Matthew 13:13–15; Mark 4:12; Luke 8:10; John 12:39–40; Acts 28:26–27 | Judgment-commission text reused to explain response to Jesus | Direct biblical quotations verifiable; original referent distinct from later application |
 | [Zechariah 13:7–9](#zechariah-13-matthew-26) | Mark 14:27; Matthew 26:31 and 26:56; John 16:32 (allusion) | Shepherd oracle applied to Jesus' arrest and disciples' flight | Quotational reuse explicit; original shepherd identity and historical fulfillment disputed |
 | [No single earlier scripture identified in Matthew 26:54, 56](#matthew-26-scriptures-unspecified) | Matthew 26:54, 56 | Generic multiple-scripture fulfillment assertion | Generic scriptural claim documented; exact set of earlier passages unspecified |
+
+| [Psalm 41:9 (Hebrew 41:10)](#psalm-41-john-13) | John 13:18–30 | First-person lament reapplied to Judas's betrayal | Direct quotation verified; original poem about betrayal; advance-prediction claim unsupported |
+| [Psalm 16:8–11](#psalm-16-acts-2) | Acts 2:25–31 (also Acts 13:35–37) | Hebrew Sheol/pit language read as a resurrection proof via Greek translation | Greek wording materially informs Acts' argument; supernatural conclusion unverified independently |
+| [Deuteronomy 18:15–22 (possible combined wording from Leviticus 23:29 or Numbers 15:30–31)](#deuteronomy-18-acts-3) | Acts 3:22–23 | Prophetic succession promise applied to Jesus through a composite quotation | Textual shift and Christian application verified; composite source and original intent debated |
+| [Exodus 12:46; Numbers 9:12; compare Psalm 34:20](#unbroken-bones-john-19) | John 19:33–36 | Ritual instruction and righteous-person psalm reframed as a fulfillment | Ritual-to-fulfillment reuse documented; precise literary source composite/disputed |
+| [Psalm 2:6–7](#psalm-2-acts-13) | Acts 13:32–34 (compare Hebrews 1:5) | Royal enthronement language applied to Jesus' resurrection/exaltation | Royal formula and later reuse verified; precise Acts 13:33 referent disputed |
+| [Isaiah 53:1 (within Isaiah 52:13–53:12)](#isaiah-53-1-john-12) | John 12:37–38 | Servant poem lament used to explain unbelief | Explicit use and earlier servant context confirmed; independent verification of signs absent |
+| [Isaiah 6:1–13, especially 6:9–10](#isaiah-6-john-12) | John 12:39–41 | Commission narrative reused with changed emphasis on divine hardening and glory | Original referent and Johannine christological rereading documented; mechanism and ethics debated |
+| [Hosea 2:23 and 1:10 (Hebrew 2:25 and 2:1)](#hosea-romans-9-gentiles) | Romans 9:24–26 | Restoration promise reassigned or extended through Pauline interpretation | Shift from Israel to Gentile inclusion documented; hermeneutical warrant debated |
+| [Isaiah 59:20–21; Isaiah 27:9](#isaiah-59-romans-11-zion) | Romans 11:25–27 | Composite oracle with a changed geographical preposition | Textual directional shift certain in surviving witnesses; motive and fulfillment disputed |
+| [Psalm 2:7; 2 Samuel 7:12–16](#hebrews-1-5-royal-son) | Hebrews 1:5 | Two Davidic royal proclamations applied to an exalted Son | Pairing and older royal context certain; theological entailments subject to interpretation |
 
 ## Passage audits
 
@@ -305,6 +316,106 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Generic scriptural claim documented; exact set of earlier passages unspecified
 - **Primary and scholarly sources:** [Matthew 26:54–56 in parallel translations](https://www.biblegateway.com/passage/?search=Matthew+26%3A54-56&version=ESV%3BKJV%3BNASB%3BNKJV); [Matthew 26:31 and Zechariah 13:7 parallel](https://intertextual.bible/text/zechariah-13.7/matthew-26.31); [ESV cross references for unspecified fulfillment claims](https://www.esv.org/Mt26.54%3BMt26.56%3BMk9.12%3BLk18.31%3BLk24.25-27%3BLk24.46%3BAc17.2-3%3BAc26.22-23%3B1Co15.3%3B1P1.10-11/).
 
+### Psalm 41:9 (Hebrew 41:10) — A trusted table companion turns against the speaker {#psalm-41-john-13}
+
+- **Original language:** גַּם־אִישׁ שְׁלוֹמִי ... אוֹכֵל לַחְמִי ... הִגְדִּיל עָלַי עָקֵב ('even the man of my peace ... who eats my bread ... has raised a heel against me')
+- **Earlier situation:** In Psalm 41 the speaker laments sickness, enemies and a trusted companion's betrayal, then asks for recovery and vindication. The psalm names no future first-century disciple and contains no explicit chronological prediction.
+- **Later claim / event:** John places a quotation of the shared bread and hostile heel in Jesus' words to explain a coming betrayal at the last meal, with Judas identified by the narrative. John omits the psalm's separate 'in whom I trusted' phrase.
+- **Type of reuse or prediction:** A preexisting experience of betrayal is recast as an event in Jesus' life; exact textual echo is clear, but the original genre is lament and prayer rather than a dated messianic forecast.
+- **Independent evidence and limitations:** We can verify the Hebrew idiom, John’s quotation, and the contextual shift. The reuse is evidence of literary-theological interpretation; it is not an independently dated record that the historical Judas fulfilled a named advance prediction.
+- **Provisional conclusion:** Direct quotation verified; original poem about betrayal; advance-prediction claim unsupported
+- **Primary and scholarly sources:** [Hebrew Psalm 41:9](https://biblehub.com/text/psalms/41-9.htm); [Greek John 13:18](https://biblehub.com/text/john/13-18.htm); [Primary comparison with Craig S. Keener commentary](https://intertextual.bible/text/psalm-41.9/john-13.18); [Psalm 41:9 and John 13:18 translations](https://www.biblegateway.com/passage/?search=Psalm+41%3A9%3BJohn+13%3A18&version=NRSVUE).
+
+### Psalm 16:8–11 — You will not abandon me to Sheol or decay {#psalm-16-acts-2}
+
+- **Original language:** לֹא־תַעֲזֹב נַפְשִׁי לִשְׁאוֹל ... לִרְאוֹת שָׁחַת ('you will not abandon my life to Sheol ... to see the pit/decay'); Greek διαφθορά ('decay, corruption')
+- **Earlier situation:** In Psalm 16, a worshipper expresses confidence in divine care and rescue from danger or death. The Hebrew שַׁחַת has debated senses, frequently 'pit' in parallel with Sheol; the Greek translators render 'corruption/decay'.
+- **Later claim / event:** Acts depicts Peter quoting the Greek Psalm and arguing that David's body decayed while Jesus was resurrected, so the psalm must have concerned the Messiah. Acts 13 uses the same contrast.
+- **Type of reuse or prediction:** An earlier first-person prayer becomes a proof text for resurrection through Acts' interpretation and the Greek Psalm. The semantic difference between pit and decay is significant, while the Sheol line still invites different resurrection readings.
+- **Independent evidence and limitations:** The source-language difference and argument in Acts are directly documented. Historical knowledge of David's death does not establish the resurrection of Jesus, and the Psalm's original speaker does not explicitly name a future messiah.
+- **Provisional conclusion:** Greek wording materially informs Acts' argument; supernatural conclusion unverified independently
+- **Primary and scholarly sources:** [Hebrew Psalm 16:10](https://biblehub.com/text/psalms/16-10.htm); [Greek Acts 2:27](https://biblehub.com/text/acts/2-27.htm); [The Use of Psalm 16:8–11 in Acts 2:25–28 (Bible.org study)](https://bible.org/article/use-psalm-168-11-acts-225-28); [Acts 2:25–31 / Psalm 16:8–11 NRSVue](https://www.biblegateway.com/passage/?search=Acts+2%3A25-31%3BPsalm+16%3A8-11&version=NRSVUE); [Brown–Driver–Briggs, Hebrew shachat (pit)](https://biblehub.com/hebrew/7845.htm).
+
+### Deuteronomy 18:15–22 (possible combined wording from Leviticus 23:29 or Numbers 15:30–31) — The prophet like Moses and the changed punishment {#deuteronomy-18-acts-3}
+
+- **Original language:** נָבִיא מִקִּרְבְּךָ מֵאַחֶיךָ כָּמֹנִי ('a prophet from among you, from your kin, like me'); Acts adds ἐξολεθρευθήσεται ἐκ τοῦ λαοῦ ('will be rooted out from the people')
+- **Earlier situation:** Deuteronomy 18 prescribes how Israel should receive legitimate prophets after Moses and warns against divination and false prophetic claims. Scholarly debate concerns whether its 'prophet like Moses' signals continuing prophetic succession, one final figure, or later messianic reception.
+- **Later claim / event:** In Acts 3 Peter identifies Jesus with the Mosaic prophet and warns that anyone rejecting him will be cut off from the people, a stronger or different penalty than Deuteronomy 18:19's wording.
+- **Type of reuse or prediction:** An explicit later identification with Jesus plus a composite citation. Many reference editions trace the 'cut off' wording to Leviticus 23:29; Eric J. Brewer (2024/2025) argues Numbers 15:30–31 provides a thematically closer source. The composite source remains debated.
+- **Independent evidence and limitations:** The difference between Hebrew Deuteronomy and Acts and the added sanction are directly observable. The Acts quotation establishes what its author believed about Jesus; it does not independently confirm that Deuteronomy's author intended Jesus.
+- **Provisional conclusion:** Textual shift and Christian application verified; composite source and original intent debated
+- **Primary and scholarly sources:** [Hebrew Deuteronomy 18:15](https://biblehub.com/text/deuteronomy/18-15.htm); [Greek Acts 3:22–23](https://www.biblegateway.com/passage/?search=Acts+3%3A22-23&version=SBLGNT); [Stephen L. Cook, Oxford Handbook of Deuteronomy (2021)](https://academic.oup.com/edited-volume/34717/chapter-abstract/296452274); [Christoph W. Stenschke, 'The prophet like Moses' (2021)](https://verbumetecclesia.org.za/index.php/ve/article/view/1962/0); [Eric J. Brewer, 'The Prophet like Moses and the Word of the Lord' (NTS 2024; posted 2025)](https://doi.org/10.1017/S0028688524000134).
+
+### Exodus 12:46; Numbers 9:12; compare Psalm 34:20 — The Passover bone rule applied to Jesus {#unbroken-bones-john-19}
+
+- **Original language:** וְעֶצֶם לֹא תִשְׁבְּרוּ־בוֹ ('you shall not break a bone of it', Exodus 12:46); John: ὀστοῦν οὐ συντριβήσεται αὐτοῦ ('a bone of his will not be broken')
+- **Earlier situation:** Exodus and Numbers prescribe handling the Passover sacrifice; their words address a recurring ritual, not the expected manner of one named future person's death. Psalm 34:20 portrays God's protection of a righteous person.
+- **Later claim / event:** John says Jesus' legs were not broken, then calls this a fulfillment of Scripture, invoking Passover-lamb symbolism already important in the Gospel. Some scholars also see Psalm 34:20 in the passive syntax.
+- **Type of reuse or prediction:** A command about an animal sacrifice becomes a claim about the significance of Jesus' death. The active Hebrew instruction 'you shall not break' changes to the passive Greek description 'will not be broken'; source dependence can include Exodus/Numbers and the Psalm.
+- **Independent evidence and limitations:** John's words and earlier ritual laws can be compared. The NET Bible's note lists multiple plausible textual sources. John's account itself does not independently verify the soldiers' actions or turn the older law into an explicit historical forecast.
+- **Provisional conclusion:** Ritual-to-fulfillment reuse documented; precise literary source composite/disputed
+- **Primary and scholarly sources:** [Hebrew Exodus 12:46](https://biblehub.com/text/exodus/12-46.htm); [Numbers 9:12 NRSVue](https://www.biblegateway.com/passage/?search=Numbers+9%3A12&version=NRSVUE); [Psalm 34:20 NRSVue](https://www.biblegateway.com/passage/?search=Psalm+34%3A20&version=NRSVUE); [Greek John 19:36](https://biblehub.com/text/john/19-36.htm); [NET notes, John 19:36–37](https://classic.net.bible.org/passage.php?passage=Joh+19%3A36%2C37); [United Bible Societies Handbook, John 19:36](https://tips.translation.bible/tip_verse/john-1936/).
+
+### Psalm 2:6–7 — Today I have begotten you {#psalm-2-acts-13}
+
+- **Original language:** בְּנִי אַתָּה אֲנִי הַיּוֹם יְלִדְתִּיךָ ('you are my son; today I have begotten you')
+- **Earlier situation:** Psalm 2 portrays a ruler installed on Zion and opposition from other kings. 'Son' and 'begotten today' evoke royal installation and divinely authorized kingship in a poetic setting, not an anatomical account of divine paternity.
+- **Later claim / event:** Acts 13 presents the Psalm as good news fulfilled in the raising of Jesus, and uses a distinct Psalm 16 quotation shortly afterward for the argument that his body did not decay. Scholars debate whether the 'raising' in verse 33 refers specifically to resurrection or to Jesus being raised up and installed in God's plan.
+- **Type of reuse or prediction:** An earlier royal formula is reread christologically, especially with resurrection/exaltation in the adjacent verses. This differs from a literal prediction of a future biological birth, and New Testament uses do not all depend on an identical interpretation.
+- **Independent evidence and limitations:** The earlier poem and Acts quotation are verifiable. Modern scholarship links the early Christian reading to resurrection and heavenly enthronement motifs, but the older verse itself does not name Jesus or independently establish that he rose from the dead.
+- **Provisional conclusion:** Royal formula and later reuse verified; precise Acts 13:33 referent disputed
+- **Primary and scholarly sources:** [Hebrew Psalm 2:7](https://biblehub.com/text/psalms/2-7.htm); [Acts 13:32–35 NRSVue](https://www.biblegateway.com/passage/?search=Acts+13%3A32-35&version=NRSVUE); [Lee Hyung-il (2012), role of Psalm 2:6 in Acts 13:33](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001679202); [Hebrews 1:5 NRSVue](https://www.biblegateway.com/passage/?search=Hebrews+1%3A5&version=NRSVUE).
+
+### Isaiah 53:1 (within Isaiah 52:13–53:12) — Who believed the report? {#isaiah-53-1-john-12}
+
+- **Original language:** מִי הֶאֱמִין לִשְׁמֻעָתֵנוּ וּזְרוֹעַ יְהוָה עַל־מִי נִגְלָתָהּ (Who believed our message, and to whom was the arm of YHWH revealed?)
+- **Earlier situation:** Isaiah 53:1 introduces the reaction of a speaking group to the suffering servant. The poem concerns suffering, reversal and recognition within the exile/restoration corpus, not an explicitly named first-century audience refusing Jesus.
+- **Later claim / event:** John 12:37–38 reports disbelief despite Jesus' many signs, then quotes Isaiah 53:1 and calls that disbelief fulfillment of Isaiah's word.
+- **Type of reuse or prediction:** A rhetorical question about recognition in the servant poem is applied to Jesus' reception. This is a distinct quotation of Isaiah 53 from Matthew 8:17 and Acts 8:32–35, even though their source text belongs to the same poem.
+- **Independent evidence and limitations:** The correspondence and Isaiah's location within the servant poem are documented. John reports signs and people's reaction; quoting Isaiah inside the same Gospel does not independently corroborate those events or prove that Isaiah was predicting John 12.
+- **Provisional conclusion:** Explicit use and earlier servant context confirmed; independent verification of signs absent
+- **Primary and scholarly sources:** [Hebrew Isaiah 53:1](https://biblehub.com/text/isaiah/53-1.htm); [Greek John 12:38](https://biblehub.com/text/john/12-38.htm); [NET notes on John 12:38–41](https://classic.net.bible.org/passage.php?passage=joh+12%3A38-41); [Yale Bible Study, Isaiah 52–53](https://yalebiblestudy.org/courses/second-isaiah/lessons/arm-of-god-study-guide/).
+
+### Isaiah 6:1–13, especially 6:9–10 — Isaiah saw whose glory? {#isaiah-6-john-12}
+
+- **Original language:** הַשְׁמֵן לֵב־הָעָם הַזֶּה ... וְעֵינָיו הָשַׁע (Hebrew commands to make this people's heart dull and shut its eyes); John: τετύφλωκεν αὐτῶν τοὺς ὀφθαλμοὺς ('he has blinded their eyes')
+- **Earlier situation:** In Isaiah 6 the prophet sees YHWH's throne and glory, receives a commission and is told the people will resist understanding; destruction and a remnant follow. The older Greek version reshapes the agency of dullness, and biblical NT authors use different forms.
+- **Later claim / event:** John 12:39–40 quotes active blinding and hardening to interpret unbelief, and 12:41 says Isaiah spoke because he saw 'his' glory—linked in John to Jesus, whereas Isaiah's immediate scene names YHWH.
+- **Type of reuse or prediction:** A pre-existing prophetic calling and judgment passage is interpreted christologically. John's harder verb agency differs from Matthew's earlier quotation of the Greek form (Matt 13:14–15), and John equates or closely identifies Jesus' glory with the glory Isaiah witnessed.
+- **Independent evidence and limitations:** The source-text differences and John's theological claim are direct textual observations. They do not independently establish that Isaiah saw Jesus, nor settle difficult ethical questions about responsibility if God hardens people.
+- **Provisional conclusion:** Original referent and Johannine christological rereading documented; mechanism and ethics debated
+- **Primary and scholarly sources:** [Hebrew Isaiah 6:10](https://biblehub.com/text/isaiah/6-10.htm); [Greek John 12:40–41](https://www.biblegateway.com/passage/?search=John+12%3A39-41&version=SBLGNT); [NET notes on Isaiah's glory and blinding in John](https://classic.net.bible.org/passage.php?passage=joh+12%3A38-41); [Matthew 13:14–15 contrast](https://www.biblegateway.com/passage/?search=Matthew+13%3A14-15&version=NRSVUE).
+
+### Hosea 2:23 and 1:10 (Hebrew 2:25 and 2:1) — Israel's restoration applied to Gentiles {#hosea-romans-9-gentiles}
+
+- **Original language:** וְאָמַרְתִּי לְלֹא־עַמִּי עַמִּי־אַתָּה (I will say to Not-my-people, You are my people); names Lo-Ammi and Lo-Ruhamah
+- **Earlier situation:** Hosea's symbolic child names and later reversal address the condemned northern kingdom of Israel. Restoration imagery assures Israel that judgment will not have the final word, in the context of Israelite covenant history.
+- **Later claim / event:** Romans 9:24 explicitly discusses those called 'not only from the Jews but also from the Gentiles', then cites Hosea 2:23 and 1:10 as support for God's extending mercy.
+- **Type of reuse or prediction:** Paul applies an earlier oracle referring to Israel to a new group, Gentile believers. Richard B. Hays (1989) calls the move revisionary; some Christian scholars argue Hosea's wider Abrahamic promises already imply inclusion of the nations.
+- **Independent evidence and limitations:** The original audience and Paul's expanded audience are observable in the wording. Paul's citation shows his interpretive argument, not that Hosea's eighth-century BCE author explicitly predicted a future Pauline Gentile mission.
+- **Provisional conclusion:** Shift from Israel to Gentile inclusion documented; hermeneutical warrant debated
+- **Primary and scholarly sources:** [Hebrew Hosea 2:23](https://biblehub.com/text/hosea/2-23.htm); [Romans 9:24–26](https://www.biblegateway.com/passage/?search=Romans+9%3A24-26&version=NRSVUE); [Richard B. Hays, Echoes of Scripture in the Letters of Paul (1989), excerpt](https://intertextual.bible/text/hosea-2.23/romans-9.25); [Study of the Hosea to Gentile interpretation (2017)](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002267609).
+
+### Isaiah 59:20–21; Isaiah 27:9 — Does the deliverer come to, for, or from Zion? {#isaiah-59-romans-11-zion}
+
+- **Original language:** Hebrew Isaiah 59:20 לְצִיּוֹן ('to Zion'); old Greek ἕνεκεν Σιών ('for the sake of Zion'); Romans 11:26 ἐκ Σιών ('from Zion')
+- **Earlier situation:** Isaiah 59 addresses Israel's wrongdoing and promises a redeemer coming to Zion and a covenantal transformation; Isaiah 27:9 includes removal of Jacob's guilt. Their original historical horizons and editorial relationships require separate study.
+- **Later claim / event:** Romans 11:26–27 cites a composite form to describe the mysterious salvation of 'all Israel' as related to Gentile inclusion; it writes that the deliverer comes 'from Zion'.
+- **Type of reuse or prediction:** Paul's ἐκ is absent from the received Hebrew/Old Greek wording. J. R. Daniel Kirk (2010) argues that Paul intentionally alters the salvation-historical direction of Isaiah, while Kyoung Shik Kim (2014) sees a deliberate interpretation grounded in Isaiah 59–65. Existence of an unknown Greek Vorlage remains an alternative discussed in the literature, not a demonstrated fact.
+- **Independent evidence and limitations:** The three distinct prepositions and the composite quotation are textually verifiable; their theological significance is debated. This does not establish fulfillment of a miraculous deliverance or clarify, on its own, the meaning of 'all Israel'.
+- **Provisional conclusion:** Textual directional shift certain in surviving witnesses; motive and fulfillment disputed
+- **Primary and scholarly sources:** [Hebrew Isaiah 59:20](https://biblehub.com/text/isaiah/59-20.htm); [Greek Romans 11:26](https://biblehub.com/text/romans/11-26.htm); [J. R. Daniel Kirk, JSNT 33 (2010)](https://doi.org/10.1177/0142064X10376003); [Kyoung Shik Kim, Romans 11:26–27 Ek Sion (2014)](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001883050); [Isaiah 27:9](https://www.biblegateway.com/passage/?search=Isaiah+27%3A9&version=NRSVUE).
+
+### Psalm 2:7; 2 Samuel 7:12–16 — The adopted royal son and the angel comparison {#hebrews-1-5-royal-son}
+
+- **Original language:** Psalm 2:7 בְּנִי אַתָּה ('You are my son'); 2 Samuel 7:14 אֲנִי אֶהְיֶה־לּוֹ לְאָב וְהוּא יִהְיֶה־לִּי לְבֵן ('I will be father to him and he shall be son to me')
+- **Earlier situation:** Psalm 2 voices God's authorization of a Zion king; 2 Samuel 7 promises continuity for David's house through his offspring and also explicitly envisages disciplining the heir if he does wrong. The paternal language signals covenantal kingship, not an explicit biological theory of divine reproduction.
+- **Later claim / event:** Hebrews quotes both passages to distinguish Jesus, the divine Son, from angels and frame his superiority and enthronement. The quoted clause in 2 Samuel stops before the discipline warning, which belongs to the original longer oracle.
+- **Type of reuse or prediction:** The later writer brings two distinct earlier royal formulas together to characterize Jesus. Scholarly questions include adoption/enthronement imagery, christological identity, priestly role and how the Davidic discipline clause is handled in reception.
+- **Independent evidence and limitations:** The citations and omitted surrounding clause can be checked directly. They demonstrate an interpretive claim about Jesus' sonship and status, but neither text's original royal audience identified him by name or independently establishes exaltation in heaven.
+- **Provisional conclusion:** Pairing and older royal context certain; theological entailments subject to interpretation
+- **Primary and scholarly sources:** [Hebrew Psalm 2:7](https://biblehub.com/text/psalms/2-7.htm); [2 Samuel 7:12–16 NRSVUE](https://www.biblegateway.com/passage/?search=2+Samuel+7%3A12-16&version=NRSVUE); [Hebrews 1:5 NRSVUE](https://www.biblegateway.com/passage/?search=Hebrews+1%3A5&version=NRSVUE); [Sung Kook Jung (2014), Uses of Psalm 2 and 2 Samuel 7 in Hebrews 1:5](https://kiss.kstudy.com/Detail/Ar?key=3359440); [Gert J. Steyn (2003), Psalm 2 in Hebrews](https://journals.co.za/doi/10.10520/EJC83141).
+
 ## Bounded inventory: ten Matthew fulfillment formulas
 
 These ten are a **particular scholarly-defined subset** of Matthew's use of the Hebrew Bible. All ten have dedicated or linked audit cases; this does not finish Matthew's other quotations or other books.
@@ -324,7 +435,7 @@ These ten are a **particular scholarly-defined subset** of Matthew's use of the 
 
 ### Wider seed inventory — pending discovery and research
 
-The following **50 tracked candidate locations** now include **eight newly researched cases and two additional cases linked to earlier completed records**; 40 candidates remain pending or only partially linked. An item marked researched refers to a separate case record; it is not an independently reviewed claim. A related record can cover another later use, without completing this particular claim. This seed inventory remains incomplete until discovery is checked against multiple inventories and the underlying texts.
+The following **50 tracked candidate locations** now include **18 researched claims and two additional cases linked to earlier completed records**; 30 candidates remain pending or only partially linked. An item marked researched refers to a separate case record; it is not an independently reviewed claim. A related record can cover another later use, without completing this particular claim. This seed inventory remains incomplete until discovery is checked against multiple inventories and the underlying texts.
 
 | Group | Candidate claim location | Source or subject | Status |
 |---|---|---|---|
@@ -335,21 +446,21 @@ The following **50 tracked candidate locations** now include **eight newly resea
 | other matthew | Matthew 26:54, 56 | Unspecified scriptures | Research record: matthew-26-scriptures-unspecified; review pending |
 | other nt | Mark 1:2–3 | Malachi 3:1 / Isaiah 40:3 | Related case exists (isaiah-40-3); claim pending |
 | other nt | Luke 4:18–21 | Isaiah 61:1–2 / 58:6 | Research record: isaiah-61-luke-4; review pending |
-| other nt | John 12:38 | Isaiah 53:1 | Research pending |
-| other nt | John 12:39–41 | Isaiah 6:9–10 | Research pending |
-| other nt | John 13:18 | Psalm 41:9 | Research pending |
+| other nt | John 12:38 | Isaiah 53:1 | Research record: isaiah-53-1-john-12; full review pending |
+| other nt | John 12:39–41 | Isaiah 6:9–10 | Research record: isaiah-6-john-12; full review pending |
+| other nt | John 13:18 | Psalm 41:9 | Research record: psalm-41-john-13; full review pending |
 | other nt | John 19:24 | Psalm 22:18 | Related case exists (psalm-22); claim pending |
-| other nt | John 19:36 | Exodus 12:46 / Psalm 34:20 | Research pending |
+| other nt | John 19:36 | Exodus 12:46 / Psalm 34:20 | Research record: unbroken-bones-john-19; full review pending |
 | other nt | John 19:37 | Zechariah 12:10 | Research record: zechariah-12-john-19; review pending |
 | other nt | Acts 2:16–21 | Joel 2:28–32 | Research record: joel-2-acts-2; review pending |
-| other nt | Acts 2:25–31 | Psalm 16:8–11 | Research pending |
-| other nt | Acts 3:22–23 | Deuteronomy 18:15–19 | Research pending |
+| other nt | Acts 2:25–31 | Psalm 16:8–11 | Research record: psalm-16-acts-2; full review pending |
+| other nt | Acts 3:22–23 | Deuteronomy 18:15–19 | Research record: deuteronomy-18-acts-3; full review pending |
 | other nt | Acts 8:32–35 | Isaiah 53:7–8 | Related case exists (isaiah-53); claim pending |
-| other nt | Acts 13:33 | Psalm 2:7 | Research pending |
+| other nt | Acts 13:33 | Psalm 2:7 | Research record: psalm-2-acts-13; full review pending |
 | other nt | Acts 15:16–18 | Amos 9:11–12 | Research record: amos-9-acts-15; review pending |
-| other nt | Romans 9:25–26 | Hosea 2:23 / 1:10 | Research pending |
-| other nt | Romans 11:26–27 | Isaiah 59:20–21 / 27:9 | Research pending |
-| other nt | Hebrews 1:5 | Psalm 2:7 / 2 Samuel 7:14 | Research pending |
+| other nt | Romans 9:25–26 | Hosea 2:23 / 1:10 | Research record: hosea-romans-9-gentiles; full review pending |
+| other nt | Romans 11:26–27 | Isaiah 59:20–21 / 27:9 | Research record: isaiah-59-romans-11-zion; full review pending |
+| other nt | Hebrews 1:5 | Psalm 2:7 / 2 Samuel 7:14 | Research record: hebrews-1-5-royal-son; full review pending |
 | other nt | Hebrews 8:8–12 | Jeremiah 31:31–34 | Research record: jeremiah-31-hebrews-8; review pending |
 | historical oracle | Isaiah 44:28–45:1 | Cyrus and restoration | Research pending |
 | historical oracle | Jeremiah 25:11–12 | Seventy years of Babylonian rule | Research pending |
@@ -381,7 +492,7 @@ The following **50 tracked candidate locations** now include **eight newly resea
 
 ## Open inventory and stopping rule
 
-**Batch 1:** 11 internally checked starter records. **Batch 2:** six research entries completing Matthew's ten classic formula quotations with four earlier case links. **Batch 3:** five NT passages showing the importance of Septuagint translation and later theological readings. **Batch 4:** three more Matthew claims (including a generic fulfillment assertion), while two other Matthew quotations link to existing records. The 14 entries in Batches 2–4 remain pending internal content-control review. All batches are only a defined subset of the wider inventory.
+**Batch 1:** 11 internally checked starter records. **Batch 2:** six research entries completing Matthew's ten classic formula quotations with four earlier case links. **Batch 3:** five NT passages showing the importance of Septuagint translation and later theological readings. **Batch 4:** three more Matthew claims (including a generic fulfillment assertion), while two other Matthew quotations link to existing records. **Batches 5–6:** ten further NT citation cases, with full internal and external reviews outstanding. The 24 entries in Batches 2–6 still require full case-by-case review; Batches 5–6 received an initial source check. All batches are only a defined subset of the wider inventory.
 
 Next nonduplicative batches, with each source passage + later claim as the canonical match key:
 
