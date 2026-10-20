@@ -24,6 +24,23 @@
 - **Jeremiah 46** — Kahn's late scribal update is a source-attributed reconstruction, not a proven authorial diary. Verify Babylonian/Egyptian chronology and the difference between raid and full conquest.
 - **Jonah 3** — distinguish a narrative about a potentially conditional threat from verifiable prediction; neither Jonah's historicity nor a historical Ninevite repentance is established by the story.
 
+## Batch 2 research extension — Matthew's ten formula quotations
+
+**Research update (October 20, 2026):** The bounded group of ten classic Matthean fulfillment formula quotations has been checked against the existing eleven studies and completed with six additional, claim-specific cases. These six are researched and source-linked but are **not independently reviewed**. The earlier Batch 1 source review remains documented above.
+
+| Matthew | Earlier text / problem | Linked case | Essential independent check |
+|---|---|---|---|
+| 2:23 | No surviving matching “Nazarene” oracle | `nazorean-matthew-2-23` | Check NET textual note; do not silently invent Isaiah 11:1 or a Nazirite reference as a verbatim original |
+| 4:14–16 | Isaiah 8:23–9:1 (Hebrew numbering), northern Israel | `isaiah-9-galilee-matthew-4` | Verify eighth-century background and date/layer caveats; distinguish original restoration context from Jesus application |
+| 8:17 | Isaiah 53:4, Hebrew illness vs Old Greek “sins” | `isaiah-53-4-healing` | Verify Hebrew and Septuagint forms, Matthew's distinctive quotation, and Watts 2015; this is a distinct *use* of the previously researched servant text |
+| 12:17–21 | Isaiah 42:1–4, servant and justice | `isaiah-42-servant-matthew-12` | Confirm interpretive translation choices and that Beaton 2000 supports the justice/compassion relationship |
+| 13:35 | Psalm 78:2, retrospective teaching poem | `psalm-78-parables-matthew-13` | Check variant “Isaiah the prophet” in some Matthew witnesses, and Greek/Hebrew differences about hidden things |
+| 27:9–10 | Zechariah 11:12–13 attributed by Matthew to Jeremiah | `zechariah-11-silver-matthew-27` | Check Menken 2002, author name variants, and the English renderings “potter” vs “treasury” in Zechariah 11:13 |
+
+**Inventory:** [inventory.json](inventory.json) records exactly ten selected Matthew formula passages linked to research and **50 further *candidate* claims** divided into other Matthew quotations (5), other NT citations (18), historical oracles (11), and apocalyptic cases (16). This is a **seed inventory**, not a discovery-complete or exhaustive total. Entries with a related existing case are not fully audited for their particular later use. User requested **one external review after the full defined collection is investigated**; do not trigger an early external review.
+
+**Review status:** Batch 1 internally reviewed; Batch 2 source-located and drafted; outside review postponed. Historical verification of supernatural claims remains outside available evidence.
+
 ## Independent reviewer instructions
 
 Check each record against the original-language passage in a critical edition where feasible (BHQ/BHS, Göttingen/Septuagint, NA28/UBS), not only the linked web interlinear. Confirm source links actually cover the claims they are offered to support, publication dates and authors, textual variants, cited historical events, and competing Jewish and Christian readings. Identify missing or weak sources and specify exact verse/claim corrections. Review the 11 source-linked records rather than replacing the methodology with a blanket pro/anti prophecy position. Prioritize factual errors, unearned certainty, circular evidence, and misleading claims of independent corroboration. Supply proposed wording and evidence for each correction.
