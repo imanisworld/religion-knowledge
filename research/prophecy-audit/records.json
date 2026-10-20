@@ -683,7 +683,7 @@
   ],
   "review": {
     "review_date": "2026-10-20",
-    "internal_review_status": "Batch 1 reviewed; Batch 2 newly researched (not independently reviewed)",
+    "internal_review_status": "11 first cases reviewed; 6 Matthew and 5 other NT researched but still require internal verification",
     "external_review_status": "held until full defined inventory audited",
     "review_document": "REVIEW.md"
   },
@@ -702,13 +702,7 @@
         "isaiah-40-3",
         "jeremiah-46-egypt",
         "ezekiel-29-egypt",
-        "jonah-3-warning",
-        "nazorean-matthew-2-23",
-        "isaiah-9-galilee-matthew-4",
-        "isaiah-53-4-healing",
-        "isaiah-42-servant-matthew-12",
-        "psalm-78-parables-matthew-13",
-        "zechariah-11-silver-matthew-27"
+        "jonah-3-warning"
       ],
       "status": "internally_reviewed"
     },
