@@ -1,6 +1,6 @@
 # Texas Penal Code §21.06 — 1973 Enactment History
 
-**Status:** 🟢 Closed — Verdict: **Mixed / Predominantly Secular (structural religious inheritance)**
+**Status:** 🟡 Source-limited conclusion — legal-revision channel documented; §21.06-specific motive unresolved
 **Closed:** 2026-09-27
 **Target profile:** `../us-states/texas.md`
 **Question:** What documentary evidence explains the 1973 Texas Legislature's decision to enact a same-sex-specific offense in Penal Code §21.06? Is religious causation actually supportable?
@@ -32,7 +32,7 @@ The enacted statute emerged from **SB 34** (63rd Leg., R.S.), with companion **H
 
 ### Origin of the revision project
 
-The 1973 code was not a response to a new political moment — it was the conclusion of an **eight-year professional legal reform process** begun in 1965:
+The 1973 code concluded an **eight-year professional legal reform process** begun in 1965. That timeline alone does not establish the motives for each provision:
 
 - **1965:** State Bar of Texas forms the Committee on Revision of the Penal Code. Chair: Page Keeton, Dean, University of Texas School of Law.
 - **1966–1970:** Staff of the Texas Legislative Council and Bar Committee draft chapters, drawing heavily on the **Model Penal Code** (American Law Institute, 1962) and surveying all fifty state codes.
@@ -40,7 +40,7 @@ The 1973 code was not a response to a new political moment — it was the conclu
 - **1971–1973:** Bar Committee, Texas District and County Attorneys Association (TDCAA), and Texas Criminal Defense Lawyers Association (TCDLA) reach a tripartite consensus on disputed language (documented on the LRL Penal Code legislative trail, https://lrl.texas.gov/collections/PenalCodeTrail.cfm; the LRL timeline page does not name TDCAA or TCDLA).
 - **1973:** SB 34/HB 514 enacted.
 
-The driving institutional actors were **professional legal associations** (State Bar, TDCAA, TCDLA), not religious organizations. The LRL timeline confirms this explicitly.
+The **documented codewide drafting and negotiation actors** were professional legal associations (State Bar, TDCAA, TCDLA). The LRL trail does not establish that these were the only actors influencing **§21.06**, or that religious organizations were absent from every hearing.
 
 ---
 
@@ -72,13 +72,13 @@ The UTEP thesis (Ross 2016) establishes the textual lineage directly: the 1973 �
 
 3. **Moral-public-policy framing (secular form):** The *Lawrence* majority (Kennedy, J.) characterized laws aimed at same-sex couples as "motivated by animus towards homosexuals that arose from religious and moral condemnation," but this is a judicial retrospective characterization in 2003, not a 1973 enactment record. *Bowers v. Hardwick* (1986) had earlier held that moral disapproval alone was a sufficient rational basis — neither decision locates a specifically religious cause for the Texas law's enactment.
 
-4. **Professional-legal consensus mechanism:** The documented record shows that §21.06 survived the revision process because the tripartite Bar/TDCAA/TCDLA compromise accepted it — i.e., it was politically acceptable to the legal profession, not introduced by outside religious pressure. The compromise mechanism suggests the same-sex specificity was a **retention decision within the negotiation**, not an insertion driven by a religious lobby.
+4. **Professional-legal consensus mechanism — codewide evidence only:** The LRL documents agreement among the Bar/TDCAA/TCDLA groups on a revised **Penal Code**. It does **not** provide a verified passage about why those negotiators or legislators retained **§21.06's same-sex-only language**. A political compromise is plausible, but neither its precise participants nor the absence of religious advocacy on this specific section has been established.
 
 ---
 
 ## Verdict
 
-**Mixed / Predominantly Secular (structural religious inheritance)**
+**Mixed / source-limited: codewide secular drafting channel, §21.06-specific causal motive unresolved**
 
 | Causation category | Verdict |
 |---|---|
@@ -89,7 +89,7 @@ The UTEP thesis (Ross 2016) establishes the textual lineage directly: the 1973 �
 | Structural religious inheritance via sodomy-law lineage | ✅ Deep background — real but remote |
 | Missing Senate bill file limiting what can be confirmed | ⚠️ Archival gap — cannot rule out religious testimony entirely |
 
-**The religious-causation claim as currently framed in the Texas profile is not directly supportable from enactment-specific documentary evidence.** The same-sex specificity of §21.06 is best explained as a political compromise within a professional legal codification process, following a national pattern of partial MPC adoption, against a deep background of religious-origin sodomy terminology. This does not mean religion was *absent* from the cultural environment — it was pervasive — but the documented transmission mechanism runs through legal-professional negotiation, not religious-lobby pressure.
+**No §21.06-specific religious-causation claim is established by the located enactment sources.** The statute's same-sex-only wording is **consistent with**, but cannot yet be attributed specifically to, compromise in the professional legal codification process. That codewide process and the broader religious and moral history of sodomy restrictions are documented. The surviving files do not settle which considerations drove the 1973 vote on §21.06. Neither a religious-lobby cause nor its absence may be asserted.
 
 **Recommended profile update:** Revise the Texas profile to distinguish (a) the structural religious inheritance of sodomy-law terminology from (b) any claimed direct religious causation of the 1973 same-sex-specific formulation. The latter should be described as unverified/not documentable rather than asserted.
 
