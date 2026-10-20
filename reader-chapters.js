@@ -7,49 +7,56 @@
   'use strict';
   const main = document.querySelector('main');
   if (!main) return;
-  // An unusually long Study Notes section can still feel endless. Split it
-  // at existing numbered subsection headings; preserve all original anchors,
-  // audits, prose and related links without copying or truncating content.
+  // Move chapter headings (which the older renderer left at the end of the
+  // preceding topic) before creating navigation. All original IDs survive.
+  const sourceSections = Array.from(main.querySelectorAll(':scope > section'));
+  for (let i = 0; i < sourceSections.length - 1; i++) {
+    const last = sourceSections[i].lastElementChild;
+    if (last && last.matches('h1[id]')) sourceSections[i + 1].prepend(last);
+  }
+
+  // Introductory notes and methodology are useful reference material, but they
+  // are not a reading topic. Keep them in a disclosure, without creating an
+  // otherwise empty "Introduction" page in the section selector.
+  const howto = main.querySelector(':scope > .howto');
+  const intro = main.querySelector(':scope > #sec-intro');
+  if (howto || intro) {
+    const about = document.createElement('details');
+    about.className = 'reader-about';
+    const summary = document.createElement('summary');
+    summary.textContent = 'About this document';
+    (howto || intro).before(about);
+    about.append(summary);
+    if (howto) about.append(howto);
+    if (intro) about.append(intro);
+  }
+
+  // An unusually long Study Notes section can still feel endless. Divide it
+  // at existing numbered subsections. Retain the parent section heading AND
+  // its first real subsection together, preventing heading-only pages.
   if (document.title.includes('Study Notes')) {
     for (const section of Array.from(main.querySelectorAll(':scope > section'))) {
       const subsections = Array.from(section.children).filter(el =>
         el.matches('h3[data-num][id]'));
       if (section.textContent.length < 8500 || subsections.length < 2) continue;
       let current = section;
+      let encounteredFirst = false;
       for (const node of Array.from(section.childNodes)) {
         if (node.nodeType === 1 && node.matches('h3[data-num][id]')) {
-          const next = document.createElement('section');
-          next.id = 'read-' + node.id;
-          current.after(next);
-          current = next;
+          if (encounteredFirst) {
+            const next = document.createElement('section');
+            next.id = 'read-' + node.id;
+            current.after(next);
+            current = next;
+          }
+          encounteredFirst = true;
         }
         if (current !== section) current.append(node);
       }
     }
   }
-  // Keep the source/provenance available without letting a long explanatory
-  // panel use half of a laptop viewport before the reading starts.
-  const howto = main.querySelector(':scope > .howto');
-  if (howto) {
-    const about = document.createElement('details');
-    about.className = 'reader-about';
-    const label = document.createElement('summary');
-    label.textContent = 'About these notes and their sources';
-    howto.before(about);
-    about.append(label, howto);
-  }
-
   const sections = Array.from(main.querySelectorAll(':scope > section'));
-  if (sections.length < 2) return;
-
-  // The legacy Observations renderer sometimes puts the next chapter heading
-  // at the end of the preceding section. Place only trailing headings with
-  // their first topic, preserving every existing ID and linked passage.
-  for (let i = 0; i < sections.length - 1; i += 1) {
-    const current = sections[i];
-    const last = current.lastElementChild;
-    if (last && last.matches('h1[id]')) sections[i + 1].prepend(last);
-  }
+  if (!sections.length) return;
 
   const search = document.querySelector('#search');
   const noResults = document.querySelector('#nores');
@@ -69,7 +76,6 @@
   }
 
   function title(section, index) {
-    if (index === 0) return 'Introduction';
     const target = heading(section);
     return (target.textContent || 'Section ' + index).replace(/\s+/g, ' ').trim();
   }
@@ -86,7 +92,7 @@
   wrapper.innerHTML =
     '<div class="reader-section-title">Read one section at a time</div>' +
     '<div class="reader-section-controls">' +
-      '<label for="reader-section-select">Choose a section</label>' +
+      '<label for="reader-section-select">Choose a topic</label>' +
       '<select id="reader-section-select" aria-label="Choose a reading section"></select>' +
       '<button type="button" class="reader-prev">Previous</button>' +
       '<button type="button" class="reader-next">Next</button>' +
@@ -97,7 +103,7 @@
   let chapterGroup = null;
   sections.forEach((section, index) => {
     const chapter = section.querySelector(':scope > h1[id]');
-    if (chapter && index > 0) {
+    if (chapter) {
       chapterGroup = document.createElement('optgroup');
       chapterGroup.label = chapter.textContent.trim();
       select.append(chapterGroup);
@@ -247,6 +253,12 @@
 
   function openHashTarget({ scroll = true } = {}) {
     const target = targetFromHash();
+    if (target && target.closest('.reader-about')) {
+      target.closest('.reader-about').open = true;
+      show(0);
+      if (scroll) target.scrollIntoView({ block: 'start', behavior: 'auto' });
+      return true;
+    }
     const index = sectionFromTarget(target);
     if (index === -1) return false;
     if ((query || auditStatus) && !matching(index)) {
@@ -265,6 +277,11 @@
     const id = decodeURIComponent(anchor.getAttribute('href').slice(1));
     if (!id) return;
     const target = document.getElementById(id);
+    if (target && target.closest('.reader-about')) {
+      target.closest('.reader-about').open = true;
+      show(0);
+      return;
+    }
     const index = sectionFromTarget(target);
     if (index < 0) return;
     if ((query || auditStatus) && !matching(index)) {
