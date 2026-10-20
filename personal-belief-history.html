@@ -8,14 +8,14 @@
 <script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600;700;600&display=swap" rel="stylesheet">
 <style>
 :root{
   --ground:#F5F1F0;--paper:#FFFDFC;--paper2:#FAF6F7;--ink:#241B1E;--ink2:#62565A;
   --ink3:#807277;--rule:#DDD2D5;--accent:#8B3A4A;--accent-soft:#F4E7EA;
   --shadow:0 12px 34px rgba(57,34,42,.07);
-  --f-display:"Newsreader",Georgia,serif;--f-body:"IBM Plex Sans",system-ui,sans-serif;
-  --f-mono:"IBM Plex Mono",ui-monospace,monospace
+  --f-display:"Newsreader",Georgia,serif;--f-body:"Atkinson Hyperlegible Next",system-ui,sans-serif;
+  --f-mono:"Atkinson Hyperlegible Mono",ui-monospace,monospace
 }
 :root[data-theme=dark]{
   --ground:#120E10;--paper:#1C1518;--paper2:#24191D;--ink:#F7F2F3;--ink2:#D1C5C9;
@@ -129,14 +129,14 @@ a:focus-visible,button:focus-visible{outline:3px solid color-mix(in srgb,var(--a
 
 <section>
 <h2 id="timeline">Reconstruction timeline</h2>
-<div class="table-wrap">
+<div class="rk-table stack" role="region" aria-label="Table: Period, Supported, Unknown" tabindex="0">
 <table>
 <thead><tr><th>Period</th><th>Supported</th><th>Unknown</th></tr></thead>
 <tbody>
-<tr><td>Adolescence / around age 16</td><td>Baptized at about 16, based on current recollection.</td><td>What I thought baptism meant; how I understood sin, salvation, hell, Jesus, the Bible, prayer, or God.</td></tr>
-<tr><td>College</td><td>No reliable belief profile reconstructed yet.</td><td>Whether beliefs changed, weakened, intensified, or mostly went unexamined; which doctrines I actually accepted.</td></tr>
-<tr><td>Post-college / before current study</td><td>Not yet reconstructed.</td><td>Major changes, doubts, practices, or turning points.</td></tr>
-<tr><td>Current study (2026)</td><td>Actively examining biblical texts, historical context, language, internal tensions, religious claims, and evidence standards.</td><td>The current framework cannot be used to fill gaps in earlier periods.</td></tr>
+<tr><td data-label="Period">Adolescence / around age 16</td><td data-label="Supported">Baptized at about 16, based on current recollection.</td><td data-label="Unknown">What I thought baptism meant; how I understood sin, salvation, hell, Jesus, the Bible, prayer, or God.</td></tr>
+<tr><td data-label="Period">College</td><td data-label="Supported">No reliable belief profile reconstructed yet.</td><td data-label="Unknown">Whether beliefs changed, weakened, intensified, or mostly went unexamined; which doctrines I actually accepted.</td></tr>
+<tr><td data-label="Period">Post-college / before current study</td><td data-label="Supported">Not yet reconstructed.</td><td data-label="Unknown">Major changes, doubts, practices, or turning points.</td></tr>
+<tr><td data-label="Period">Current study (2026)</td><td data-label="Supported">Actively examining biblical texts, historical context, language, internal tensions, religious claims, and evidence standards.</td><td data-label="Unknown">The current framework cannot be used to fill gaps in earlier periods.</td></tr>
 </tbody>
 </table>
 </div>

@@ -133,14 +133,14 @@ function buildIndexHtml() {
 <title>Religion Knowledge</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet">
 <style>
 :root{
   --ground:#F5F1F0;--paper:#FFFDFC;--ink:#241B1E;--ink2:#62565A;--ink3:#6F6066;
   --rule:#DDD2D5;--accent:#8B3A4A;--accent-strong:#6F2D3A;--accent-soft:#F4E7EA;
   --shadow:0 18px 45px rgba(57,34,42,.07);
   --f-display:"Newsreader",Georgia,serif;
-  --f-body:"IBM Plex Sans",system-ui,sans-serif;
+  --f-body:"Atkinson Hyperlegible Next",system-ui,sans-serif;
 }
 *{box-sizing:border-box}
 html,body{overflow-x:hidden}

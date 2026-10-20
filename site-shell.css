@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Atkinson+Hyperlegible+Mono:wght@400;500&display=swap");
 :root{
   --rk-nav-h:56px;
   --rk-ground:#F5F1F0;
@@ -11,7 +12,8 @@
   --rk-soft:#F4E7EA;
   --rk-shadow:0 10px 28px rgba(57,34,42,.07);
   --rk-display:"Newsreader",Georgia,serif;
-  --rk-body:"IBM Plex Sans",Inter,system-ui,sans-serif;
+  --rk-body:"Atkinson Hyperlegible Next",system-ui,sans-serif;
+  --rk-mono:"Atkinson Hyperlegible Mono",ui-monospace,monospace;
 }
 .rk-sitebar{
   position:sticky;top:0;z-index:100;
@@ -304,39 +306,6 @@
   border-color:color-mix(in srgb,var(--accent) 25%,var(--rule));
   box-shadow:0 10px 30px rgba(57,34,42,.055);
 }
-@media(max-width:700px){
-  .rk-personal-page .table-wrap{overflow:visible;border:0;border-radius:0}
-  .rk-personal-page table{min-width:0;background:transparent}
-  .rk-personal-page thead{display:none}
-  .rk-personal-page tbody,
-  .rk-personal-page tr,
-  .rk-personal-page td{display:block;width:100%}
-  .rk-personal-page tr{
-    margin:0 0 .8rem;
-    overflow:hidden;
-    border:1px solid var(--rule);
-    border-radius:11px;
-    background:var(--paper);
-  }
-  .rk-personal-page td{
-    display:grid;
-    grid-template-columns:92px minmax(0,1fr);
-    gap:.7rem;
-    padding:.72rem .78rem;
-    border-bottom:1px solid var(--rule);
-  }
-  .rk-personal-page td:last-child{border-bottom:0}
-  .rk-personal-page td::before{
-    color:var(--ink3);
-    font-size:.72rem;
-    font-weight:700;
-    letter-spacing:.04em;
-    text-transform:uppercase;
-  }
-  .rk-personal-page td:nth-child(1)::before{content:"Period"}
-  .rk-personal-page td:nth-child(2)::before{content:"Supported"}
-  .rk-personal-page td:nth-child(3)::before{content:"Unknown"}
-}
 
 
 /* ---------- de-cardification + mixed semantic palette ---------- */
@@ -439,3 +408,163 @@
 :root:not([data-theme="dark"]) .rk-landing-page :is(.section-head>p,.card p){
   color:#62565A;
 }
+
+
+/* ---------- reading typography ----------
+   Atkinson Hyperlegible Next is the reading face everywhere; Newsreader stays
+   for headings. Body-level variables beat each page's own :root fonts. */
+.rk-with-sitebar{
+  --f-body:var(--rk-body);
+  --f-mono:var(--rk-mono);
+  --sans:var(--rk-body);
+  --body:var(--rk-body);
+}
+body.rk-with-sitebar{
+  font-family:var(--rk-body);
+  font-optical-sizing:auto;
+  text-rendering:optimizeLegibility;
+}
+.rk-with-sitebar :is(button,input,select,textarea){font-family:inherit}
+
+/* ---------- tables ----------
+   One table style for every page. Wide tables scroll inside their frame;
+   .rk-table.stack tables become one labelled block per row on phones. */
+.rk-with-sitebar .rk-table{
+  max-width:var(--measure,100%);
+  min-width:0;
+  margin:1.4rem 0 2rem;
+  overflow-x:auto;
+  -webkit-overflow-scrolling:touch;
+  overscroll-behavior-inline:contain;
+  border:1px solid var(--rule);
+  border-radius:10px;
+  background:var(--paper);
+}
+.rk-with-sitebar .rk-table:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.rk-with-sitebar .rk-table table{
+  display:table;
+  width:100%;
+  max-width:none;
+  margin:0;
+  border:0;
+  border-radius:0;
+  border-collapse:collapse;
+  background:transparent;
+  box-shadow:none;
+  font:400 .95rem/1.55 var(--rk-body);
+  font-variant-numeric:tabular-nums;
+  white-space:normal;
+}
+.rk-with-sitebar .rk-table caption{
+  caption-side:top;
+  text-align:left;
+  padding:.75rem .95rem;
+  border-bottom:1px solid var(--rule);
+  color:var(--ink2);
+  font-size:.88rem;
+}
+.rk-with-sitebar .rk-table th{
+  padding:.7rem .95rem;
+  border:0;
+  border-bottom:2px solid var(--rule);
+  background:color-mix(in srgb,var(--paper) 82%,var(--accent-soft));
+  color:var(--ink);
+  font:700 .84rem/1.35 var(--rk-body);
+  letter-spacing:0;
+  text-transform:none;
+  text-align:left;
+  vertical-align:bottom;
+}
+.rk-with-sitebar .rk-table td{
+  padding:.78rem .95rem;
+  border:0;
+  border-bottom:1px solid var(--rule);
+  background:transparent;
+  color:var(--ink);
+  font:inherit;
+  vertical-align:top;
+  white-space:normal;
+  overflow-wrap:break-word;
+}
+.rk-with-sitebar .rk-table td:first-child{
+  min-width:8.5rem;
+  font-weight:600;
+}
+.rk-with-sitebar .rk-table tbody tr:last-child td{border-bottom:0}
+.rk-with-sitebar .rk-table tbody tr:hover td{
+  background:color-mix(in srgb,var(--paper) 88%,var(--accent-soft));
+}
+.rk-with-sitebar .rk-table td small{color:var(--ink2);font-size:.86em}
+
+@media(max-width:640px){
+  .rk-with-sitebar .rk-table.stack{
+    overflow:visible;
+    border:0;
+    border-radius:0;
+    background:transparent;
+  }
+  .rk-with-sitebar .rk-table.stack caption{padding:0 0 .7rem;border:0}
+  .rk-with-sitebar .rk-table.stack thead{
+    position:absolute;width:1px;height:1px;overflow:hidden;
+    clip:rect(0 0 0 0);clip-path:inset(50%);white-space:nowrap;
+  }
+  .rk-with-sitebar .rk-table.stack :is(table,tbody,tr,td){display:block;width:100%;min-width:0}
+  .rk-with-sitebar .rk-table.stack tr{
+    margin:0 0 .85rem;
+    overflow:hidden;
+    border:1px solid var(--rule);
+    border-radius:10px;
+    background:var(--paper);
+  }
+  .rk-with-sitebar .rk-table.stack td{padding:.62rem .9rem;border-bottom:1px solid var(--rule)}
+  .rk-with-sitebar .rk-table.stack td:last-child{border-bottom:0}
+  .rk-with-sitebar .rk-table.stack td::before{
+    content:attr(data-label);
+    display:block;
+    margin-bottom:.18rem;
+    color:var(--ink2);
+    font:700 .74rem/1.3 var(--rk-body);
+    letter-spacing:.04em;
+    text-transform:uppercase;
+  }
+  .rk-with-sitebar .rk-table.stack td:first-child{
+    background:color-mix(in srgb,var(--paper) 82%,var(--accent-soft));
+    font-size:1.02rem;
+    font-weight:700;
+  }
+  .rk-with-sitebar .rk-table.stack td:first-child::before{display:none}
+  .rk-with-sitebar .rk-table.stack tbody tr:hover td{background:transparent}
+  .rk-with-sitebar .rk-table.stack tbody tr:hover td:first-child{
+    background:color-mix(in srgb,var(--paper) 82%,var(--accent-soft));
+  }
+}
+
+/* ---------- reader typography ----------
+   Labels, section numbers, and sidebar entries use the reading face;
+   monospace is kept only for code. */
+.rk-reader-page{--measure:40rem}
+body.rk-reader-page{font-size:18px;line-height:1.65}
+.rk-reader-page :is(p,li){text-wrap:pretty}
+.rk-reader-page :is(h2,h3,.masthead h1){text-wrap:balance}
+.rk-reader-page :is(.abody p,.abody ul,.howto p){font-size:1rem;line-height:1.65}
+.rk-reader-page :is(#toc a.lvl4,h2 .num,h3 .num,.badge,.stamp,.fld,.mark,.camp,.xref,
+  .gloss .tip b,.related b,#here,.reader-context,.masthead .lens,.meta b,
+  #rail .docsub,.docswitch a,.quicknav a,.library summary,.tbtn){
+  font-family:var(--rk-body);
+}
+.rk-reader-page #toc a.lvl4{font-size:.82rem;letter-spacing:0;line-height:1.4}
+.rk-reader-page :is(h2 .num,h3 .num){font-variant-numeric:tabular-nums;letter-spacing:0;font-weight:600}
+.rk-reader-page h2 .num{font-size:.9rem}
+.rk-reader-page h3 .num{font-size:.8rem}
+.rk-reader-page .badge{font-size:.7rem;font-weight:700;letter-spacing:.05em}
+.rk-reader-page .stamp{font-size:.7rem;letter-spacing:.02em}
+.rk-reader-page .fld{font-size:.74rem;font-weight:700;letter-spacing:.06em;color:var(--ink2)}
+.rk-reader-page .mark{font-size:.68rem;font-weight:700;letter-spacing:.04em}
+.rk-reader-page .camp{font-size:.8em;font-weight:600;letter-spacing:.02em}
+.rk-reader-page .xref{font-size:1em}
+.rk-reader-page .gloss .tip{font-size:.88rem;line-height:1.5}
+.rk-reader-page .gloss .tip b{font-size:.72rem;letter-spacing:.06em}
+.rk-reader-page .related b{font-size:.74rem;letter-spacing:.06em}
+.rk-with-sitebar :is(code,pre,kbd,samp){font-family:var(--rk-mono)}
+@media(max-width:1080px){body.rk-reader-page{font-size:17.5px}}
+@media(max-width:640px){body.rk-reader-page{font-size:17px;line-height:1.62}}
