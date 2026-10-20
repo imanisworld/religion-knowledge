@@ -1,8 +1,8 @@
 {
   "title": "Biblical Prophecy Evidence",
-  "version": 2,
+  "version": 3,
   "checked": "2026-10-20",
-  "scope": "17 individually researched source-and-claim records (11 Batch 1 plus 6 Matthew formula extensions), with an inventory of Matthew's ten formula quotations and a separately marked non-exhaustive broader candidate queue. External review is held until declared scope is complete.",
+  "scope": "22 researched prophecy source-to-later-use cases in three batches. Matthew's ten fulfillment formulas covered; a 50-claim seed inventory now includes five additional NT cases studied. Independent outside review deferred until defined inventory and scope are complete.",
   "status": "starter_checked",
   "method": "Do not treat a later narrative quoting an earlier passage as independent proof that the event happened. Record composition/redaction dating separately from the story's setting; a date is 'undetermined' if uncertain. Do not equate resemblance with historical causation. Do not call a retrospective lament or Exodus memory a failed forward prediction; do not automatically label a partial fulfillment as complete. A conditional warning must be assessed as a warning. Distinguish lexical variants from theological interpretations and from historical evidence. No binary overall truth-score.",
   "records": [
@@ -528,6 +528,157 @@
           "https://www.biblegateway.com/passage/?search=Jeremiah+32%3A6-9&version=NRSVUE"
         ]
       ]
+    },
+    {
+      "id": "isaiah-61-luke-4",
+      "label": "Good news, liberation, and the omitted day of vengeance",
+      "earlier": "Isaiah 61:1–2; 58:6 (Greek textual combination)",
+      "later": "Luke 4:16–21",
+      "kind": "Fulfillment declaration combining Hebrew Bible passages through Greek wording",
+      "original": "רוּחַ אֲדֹנָי יְהוִה עָלָי (Spirit of the Lord YHWH is upon me); Luke draws on Greek Isaiah 61 and 58",
+      "setting": "Isaiah 61 addresses the restoration community with news of liberation, comfort, and reversal; 61:2 includes both a favorable year and a day of divine vengeance. Isaiah 58:6 speaks of release from oppression in a critique of unjust fasting.",
+      "laterUse": "Luke depicts Jesus reading an Isaianic scroll in Nazareth and declaring 'Today this scripture has been fulfilled'. Luke's Greek passage features sight for the blind from the Old Greek, adds a release line from Isaiah 58:6, and stops before the day-of-vengeance clause.",
+      "relationship": "Explicit fulfillment claim with a composite quotation, selection and omission. Timothy Michael Law (2013) identifies the Septuagint sources; scholars debate whether omitting vengeance signals Luke's editorial theological emphasis.",
+      "evidence": "The differences between Isaiah's Hebrew, Old Greek, and Luke's quotation are directly visible. The narrated synagogue encounter establishes Luke's literary depiction, not independently verified firsthand testimony about a historical speech.",
+      "sourceStatus": "Quote and editorial changes directly checkable; historical speech uncorroborated",
+      "refs": [
+        [
+          "Isaiah 61:1–2 in NRSVUE",
+          "https://www.biblegateway.com/passage/?search=Isaiah+61%3A1-2&version=NRSVUE"
+        ],
+        [
+          "Luke 4:18–21 in NRSVUE",
+          "https://www.biblegateway.com/passage/?search=Luke+4%3A18-21&version=NRSVUE"
+        ],
+        [
+          "Greek and Hebrew comparison (with Timothy Michael Law 2013)",
+          "https://intertextual.bible/text/lxx-isaiah-61.1/luke-4.18"
+        ],
+        [
+          "Peer-reviewed analysis, HTS Teologiese Studies (2018)",
+          "https://scielo.org.za/scielo.php?pid=S0259-94222018000100058&script=sci_arttext"
+        ]
+      ]
+    },
+    {
+      "id": "joel-2-acts-2",
+      "label": "Afterward becomes in the last days",
+      "earlier": "Joel 2:28–32 (Hebrew 3:1–5)",
+      "later": "Acts 2:16–21",
+      "kind": "Future Spirit oracle reread as Pentecost fulfillment",
+      "original": "וְהָיָה אַחֲרֵי־כֵן ('and it shall be afterward')",
+      "setting": "Joel anticipates restoration and God's Spirit poured upon people of differing ages and genders after the communal crisis described in the book; the vision also includes cosmic signs and judgment.",
+      "laterUse": "Acts' Peter says the Pentecost events are what Joel spoke about. Acts 2:17 introduces Joel's prophecy as occurring 'in the last days' rather than the Hebrew passage's simpler 'afterward'.",
+      "relationship": "Explicit prophetic identification and interpretive temporal framing. The addition 'in the last days' matters for how the narrator places Pentecost inside eschatological history.",
+      "evidence": "The textual wording and narrative use are independently checkable. Acts is a later report of the event being interpreted; it does not alone provide an independent verification of miraculous Spirit outpouring or the completion of cosmic signs.",
+      "sourceStatus": "Original/Acts time-language difference confirmed; supernatural fulfillment a faith claim",
+      "refs": [
+        [
+          "NRSVUE Joel 2:28 and Acts 2:17 compared",
+          "https://www.biblegateway.com/passage/?search=Joel+2%3A28%2CActs+2%3A17&version=NRSVUE"
+        ],
+        [
+          "Hebrew Joel 2:28",
+          "https://biblehub.com/text/joel/2-28.htm"
+        ],
+        [
+          "Acts 2:16–21 context",
+          "https://www.biblegateway.com/passage/?search=Acts+2%3A16-21&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "amos-9-acts-15",
+      "label": "Edom possessed or humankind seeking God?",
+      "earlier": "Amos 9:11–12",
+      "later": "Acts 15:15–19",
+      "kind": "Greek translation changes the actors in a restoration oracle",
+      "original": "לְמַעַן יִירְשׁוּ אֶת־שְׁאֵרִית אֱדוֹם (so they may possess the remnant of Edom)",
+      "setting": "The closing oracle of Amos envisions restoration of David's fallen structure and renewed relationships with Edom and the nations. Its exact dating, possible editorial growth, and whether it envisages conquest or broader inclusion are discussed in scholarship.",
+      "laterUse": "Acts presents James citing a Greek form in which 'the rest of humankind' seek the Lord, supporting the inclusion of Gentiles without requiring them to become Jews.",
+      "relationship": "The Septuagint has 'seek' and 'humankind' in place of Hebrew 'possess' and 'Edom'. These are major grammatical and semantic changes, often explained through similar Hebrew letters and alternate vocalization; however, the phrase 'all the nations who are called by my name' is shared, so inclusion does not depend solely on the new Greek subjects.",
+      "evidence": "Hebrew Amos, Old Greek, and Acts 15 can be compared. James D. Nogalski (2015) traces three stages of the text's interpretation. The Acts account itself is not independent proof the earlier author foresaw a specific first-century council.",
+      "sourceStatus": "Substantial source-language difference documented; exact translation-history mechanism debated",
+      "refs": [
+        [
+          "Amos 9:11–12 Hebrew/English",
+          "https://www.biblegateway.com/passage/?search=Amos+9%3A11-12&version=NRSVUE"
+        ],
+        [
+          "Acts 15:16–18 text",
+          "https://www.biblegateway.com/passage/?search=Acts+15%3A16-18&version=NRSVUE"
+        ],
+        [
+          "James D. Nogalski (2015), Three Faces of Hope",
+          "https://doi.org/10.1177/0034637315578828"
+        ],
+        [
+          "Septuagint/Hebrew details as secondary comparative source",
+          "https://historicalchristian.faith/doctrine/doctrines/nt-use-of-ot/arguments/amos-9-11-12.html"
+        ]
+      ]
+    },
+    {
+      "id": "zechariah-12-john-19",
+      "label": "Look on the one they pierced",
+      "earlier": "Zechariah 12:10–14",
+      "later": "John 19:34–37; Revelation 1:7",
+      "kind": "Piercing oracle and divergent Greek/Hebrew wording",
+      "original": "וְהִבִּיטוּ אֵלַי אֵת אֲשֶׁר־דָּקָרוּ ('they will look toward me whom they pierced' in the Masoretic Text)",
+      "setting": "In Zechariah 12, the house of David and inhabitants of Jerusalem are part of a future conflict, divine deliverance and communal mourning. The identity of the pierced figure and the relationship between first- and third-person phrasing are debated.",
+      "laterUse": "John quotes the oracle immediately after describing a soldier piercing Jesus' side; Revelation 1:7 echoes it when describing Jesus' appearance.",
+      "relationship": "The verb in John's quote is closer to Hebrew 'pierced' than the ancient Greek Zechariah's markedly different expression. John's Greek also frames the object in third person while the Masoretic text includes 'to me'. Whether John translated Hebrew directly or used an available Hebraizing Greek form is unproven.",
+      "evidence": "The verbal parallels and variants are checkable. Christian and Jewish readings identify the subject differently. An independently accepted execution by crucifixion does not establish that the original Zechariah oracle specifically foretold John's narrative detail.",
+      "sourceStatus": "Original and later wording documented; intended historical identity and textual route disputed",
+      "refs": [
+        [
+          "Hebrew Zechariah 12:10",
+          "https://biblehub.com/text/zechariah/12-10.htm"
+        ],
+        [
+          "John 19:37",
+          "https://biblehub.com/text/john/19-37.htm"
+        ],
+        [
+          "Adam Kubiś on Zechariah in John (2012)",
+          "https://intertextual.bible/text/zechariah-12.10/john-19.37"
+        ],
+        [
+          "Jewish interpretive perspective",
+          "https://jewsforjudaism.org/knowledge/articles/does-john-1937-misquote-zechariah-1210/"
+        ]
+      ]
+    },
+    {
+      "id": "jeremiah-31-hebrews-8",
+      "label": "A new covenant for Israel and Judah",
+      "earlier": "Jeremiah 31:31–34",
+      "later": "Hebrews 8:8–13",
+      "kind": "New covenant promise applied to later Christian religious community",
+      "original": "וְכָרַתִּי ... בְּרִית חֲדָשָׁה ('I will make ... a new covenant')",
+      "setting": "Jeremiah promises the houses of Israel and Judah a renewed covenant, in which divine teaching or Torah is internalized and sins are forgiven, as part of a restoration sequence after exile.",
+      "laterUse": "Hebrews quotes Jeremiah at length to argue that a new priestly or covenantal order has become available through Jesus; Hebrews 8:13 says the earlier order is becoming old and approaching disappearance.",
+      "relationship": "Explicit reuse and reinterpretation. Scholars disagree about how far Hebrews' language extends to replacing Judaism or Israel's covenant; Nicholas J. Moore (2024) argues the immediate argument centers on cultic aspects and warns against translating its Greek as a blanket denunciation of Judaism.",
+      "evidence": "The shared wording is observable. The earlier text specifically names Israel and Judah; it does not name Jesus. Religious conclusions about superseding Judaism depend on later interpretation, and there is no independent historical observation that can confirm a divine covenant transfer.",
+      "sourceStatus": "Quotation documented; theological and supersessionist readings disputed",
+      "refs": [
+        [
+          "Jeremiah 31:31–34 NRSVUE",
+          "https://www.biblegateway.com/passage/?search=Jeremiah+31%3A31-34&version=NRSVUE"
+        ],
+        [
+          "Hebrews 8:8–13 NRSVUE",
+          "https://www.biblegateway.com/passage/?search=Hebrews+8%3A8-13&version=NRSVUE"
+        ],
+        [
+          "Nicholas J. Moore (2024), Supersessionism and the Cult Attitude of Stephen and Hebrews",
+          "https://doi.org/10.1177/00211400241230995"
+        ],
+        [
+          "Ted Goshorn (2016), Emory thesis on non-supersessionist covenant readings",
+          "https://etd.library.emory.edu/concern/etds/s1784m67g?locale=en"
+        ]
+      ]
     }
   ],
   "review": {
@@ -571,6 +722,18 @@
         "isaiah-42-servant-matthew-12",
         "psalm-78-parables-matthew-13",
         "zechariah-11-silver-matthew-27"
+      ],
+      "status": "research_complete_internal_review_pending"
+    },
+    {
+      "id": "batch-3",
+      "label": "Five high-value NT adaptations of prophetic Hebrew/Greek texts",
+      "case_ids": [
+        "isaiah-61-luke-4",
+        "joel-2-acts-2",
+        "amos-9-acts-15",
+        "zechariah-12-john-19",
+        "jeremiah-31-hebrews-8"
       ],
       "status": "research_complete_internal_review_pending"
     }
