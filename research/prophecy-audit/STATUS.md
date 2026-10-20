@@ -2,15 +2,14 @@
 
 **As of:** October 20, 2026  
 **Repo:** `imanisworld/religion-knowledge`  
-**Research branch:** `research/prophecy-evidence-20261020`  
-**Open PR:** [#202](https://github.com/imanisworld/religion-knowledge/pull/202)  
-**Release rule:** The owner approved proceeding toward publication of the bounded 65-case edition with its unresolved source limitations disclosed and waived outside specialist review for this edition. Keep the PR open until the consolidation freeze is addressed, latest-main integration and CI pass, and explicit merge/deploy approval is recorded. Wider discovery and critical-edition/source checks remain open follow-up research.
+**Merged PR:** [#202](https://github.com/imanisworld/religion-knowledge/pull/202), 20 October 2026. Original branch: `research/prophecy-evidence-20261020`.  
+**Release status:** The bounded 65-case edition was merged with a scoped consolidation-freeze exception and the owner's accepted evidence limitations. The final merged repository passed the corpus and research-governance validations; [Cloudflare deployment workflow](https://github.com/imanisworld/religion-knowledge/actions/runs/39492093720) completed successfully for main commit `cf756397`. Direct unauthenticated HTTP retrieval of the live site could not be confirmed in this review. Source discovery, manuscript checks and 21 new leads remain follow-up research.
 
 ## Counts and meaning
 
 | Measure | Count | Scope / verification status |
 |---|---:|---|
-| **Source-linked research cases** | **65** | Stored in `records.json` and cross-referenced in `index.md`, reader HTML, comparison matrix and Search, all on this branch |
+| **Source-linked research cases** | **65** | On canonical `main` in `records.json`, `index.md`, HTML, comparison matrix and Search |
 | **Research batches** | **11** | Batch IDs and individual states are in `records.json` |
 | **Initially internally reviewed** | **11** | Initial assistant review, not independent scholarly verification |
 | **Cases reviewed case by case** | **65/65** | Claude AI review, 20 Oct 2026; not independent; 11 cites only partly confirmed (REVIEW.md) |
@@ -21,7 +20,7 @@
 | **Seed locations unaddressed** | **0/50** | **Original seed complete; corpus discovery NOT complete** |
 | **Full AI review (all 65)** | **Done 20 Oct 2026** | Claude review, not independent; verdict matrix in REVIEW.md; 0 overstated, 0 collapse, corrections applied |
 | **Independent external review** | **Not performed — waived by the owner (20 Oct 2026, reconfirmed)** | See "Owner decision" below |
-| **Live production release** | **Not merged** | PR/preview success does not mean deployed production |
+| **GitHub release / Cloudflare deployment** | **Merged; deployment workflow passed** | Main commit `cf756397`; direct live-site HTTP check still unconfirmed |
 
 **Important:** 65 cases, 50 seed locations, and ten Matthew formula quotations describe *overlapping sets*; do not add them together. This seed was assembled as a starting list rather than an exhaustive inventory of every prophecy, and none of the 54 newer cases should be described as independently verified.
 
@@ -67,11 +66,11 @@ The original **50-location supplemental seed has been completely mapped**, but a
 
 **Separate counts as of this checkpoint:** 65 canonical research cases; 50/50 original seed loci mapped; **21 provisional new leads**, none promoted as complete; 54 later canonical records await detailed source review. The wider inventory search is ongoing and additional omissions may be found.
 
-## Open research work and publication prerequisites
+## Open research work after release
 
 1. Search systematically for omitted claims outside the **original fifty-locus seed** and define the inclusion/deduplication rules in an inventory methodology.
 2. Review **54** cases against Hebrew/Aramaic/Greek primary passages, manuscript variants, real scholarly publications, chronological and independent historical sources; revisit the earlier eleven if new evidence requires correction.
-3. Check reader, Search, mobile table labels, light/dark readability and current-main branch integration.
-4. Outside specialist review may be sought later but is waived as a prerequisite for this bounded edition. Before publication, preserve the 11 partly unconfirmed citations and incomplete 21-lead inventory warnings; obtain a narrow freeze exception, pass final CI on the integration commit, and receive explicit merge/deploy approval.
+3. Continue reader/Search/mobile regression testing whenever content changes; the release-candidate and main CI workflows passed on 20 October 2026.
+4. Keep the 11 partly unconfirmed scholarly citations and 21 discovery leads visible as open limits. Outside specialist review remains optional for this bounded edition; any newly promoted case still requires a verifiable source passage.
 
 **Files:** [records.json](records.json) · [inventory.json](inventory.json) · [index.md](index.md) · [REVIEW.md](REVIEW.md) · [TODO.md](TODO.md).
