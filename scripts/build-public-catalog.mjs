@@ -98,18 +98,18 @@ function entityTable(group, claims) {
   const rows = records.map(row => {
     const counts = claims.get(row.id) || { verified: 0, published: 0, other: 0 };
     const region = Array.isArray(row.region) && row.region.length ? row.region.join(', ') : 'Not specified';
-    return '<tr data-catalog-row><th scope="row" data-label="Entry">' + esc(row.name || row.id) + '</th>' +
-      '<td data-label="Region">' + esc(region) + '</td>' +
-      '<td data-label="Overview"><p class="preview">' + esc(shorten(overview(row, group))) + '</p>' +
+    return '<tr role="row" data-catalog-row><th role="rowheader" scope="row" data-label="Entry">' + esc(row.name || row.id) + '</th>' +
+      '<td role="cell" data-label="Region">' + esc(region) + '</td>' +
+      '<td role="cell" data-label="Overview"><p class="preview">' + esc(shorten(overview(row, group))) + '</p>' +
       '<details class="entry-more"><summary>Read research notes</summary>' +
       detailText(row, counts) + '</details></td></tr>';
   }).join('\n');
   return '<details id="' + esc(group.dir) + '" class="group"' + (group.dir === 'deities' ? ' open' : '') +
     '><summary class="section-head"><span class="group-title">' + esc(group.title) + '</span><span>' + records.length +
     ' entries</span></summary><p>' + esc(group.intro) +
-    '</p><div class="table-wrap"><table class="catalog-table"><thead><tr>' +
-    '<th scope="col">Entry</th><th scope="col">Region</th><th scope="col">Overview and evidence</th>' +
-    '</tr></thead><tbody>' + rows + '</tbody></table></div></details>';
+    '</p><div class="table-wrap"><table role="table" class="catalog-table"><thead role="rowgroup"><tr role="row">' +
+    '<th role="columnheader" scope="col">Entry</th><th role="columnheader" scope="col">Region</th><th role="columnheader" scope="col">Overview and evidence</th>' +
+    '</tr></thead><tbody role="rowgroup">' + rows + '</tbody></table></div></details>';
 }
 function peopleTable() {
   const people = personRows();
@@ -175,7 +175,7 @@ export function buildPublicCatalog() {
     '<nav class="rk-global-nav" aria-label="Site navigation"><a href="index.html">Library</a><a href="history.html">History</a><a href="religion-law.html">Religion &amp; Law</a><a href="search.html">Search</a></nav>'+
     '<button class="rk-site-control" id="theme" type="button" aria-label="Toggle theme">Theme</button></div></header>'+
     '<main id="main"><p><a href="comparisons.html">← Comparison tables</a></p><h1>Gods, religions, cultures &amp; people</h1>'+
-    '<p class="lede">Explore the gods, religions, cultures, stories, and people in our research. Start with the first list, open another section, or search for a name or place.</p>'+
+    '<p class="lede">Browse short research overviews by category. Open notes directly under an entry, or use the <a href="comparisons.html">comparison tables directory</a> to read longer side-by-side studies.</p>'+
     '<p class="lede"><strong>This research is still being checked.</strong> Some findings need independent review before they can be treated as established.</p>'+
     '<details class="status"><summary>What do the evidence labels mean?</summary><p><strong>Published:</strong> added to the public research. <strong>Checked in research:</strong> a source check was recorded, but independent review may still be pending. <strong>Still to review:</strong> more checking is needed. These lists cover only the material we have researched so far. Similar gods or stories may have developed separately.</p><p>Open “Read research notes” on any entry to see the available context and the status of linked claims without leaving the site.</p></details>'+
     '<nav class="jump" aria-label="Jump to a collection">'+nav+'</nav>'+
