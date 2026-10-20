@@ -38,5 +38,29 @@
       "claim_id": "claim_israelite_canaanite_continuity"
     }
   ],
-  "notes": "Do not collapse all Canaanite religion into Ugarit. The Ugaritic corpus is used because it preserves direct Northwest Semitic evidence for El, Baal/Hadad, divine council structures, and mythic language that can be compared with early Israelite religion."
+  "notes": "Do not collapse all Canaanite religion into Ugarit. The Ugaritic corpus is used because it preserves direct Northwest Semitic evidence for El, Baal/Hadad, divine council structures, and mythic language that can be compared with early Israelite religion.",
+  "source_links": [
+    {
+      "label": "French Ministry of Culture — Ugarit/Ras Shamra",
+      "url": "https://archeologie.culture.gouv.fr/en/ugarit-ras-shamra",
+      "supports": "Archaeological site and Late Bronze Age history; not evidence every Canaanite cult was identical."
+    },
+    {
+      "label": "University of Chicago — Ras Shamra Tablet Inventory",
+      "url": "https://ochre.lib.uchicago.edu/RSTI/",
+      "supports": "Inventory and provenance of tablets; text-by-text claims require further verification."
+    },
+    {
+      "label": "University of Göttingen — Ugaritic poetic text corpus",
+      "url": "https://eupt.uni-goettingen.de/Korpus.html",
+      "supports": "Numbered tablet entries (e.g. KTU 1.1–1.6) and editorial corpus; not a proof of direct borrowing."
+    }
+  ],
+  "public_profile_facts": [
+    {
+      "statement": "The Göttingen critical corpus lists the Baal Cycle tablets as KTU 1.1–1.6, a directly identifiable group of Ugaritic mythological texts.",
+      "source_url": "https://eupt.uni-goettingen.de/Korpus.html",
+      "evidence_scope": "Verified at corpus inventory level. Further passage-level checks are required for specific interpretations or claims of borrowing by other traditions."
+    }
+  ]
 }

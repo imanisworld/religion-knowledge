@@ -1419,20 +1419,22 @@
     "date_enacted_or_decided": "1649-04-21",
     "subject": "religious toleration; blasphemy",
     "legal_effect": "Granted toleration to Trinitarian Christians while imposing the death penalty for blasphemy against the Trinity.",
-    "classification": "B_historical_religious_origin",
-    "religion_connection": "Explicitly framed in religious terms, and also reflected the political interests of the Catholic proprietors.",
+    "classification": "A_explicit_religious_basis",
+    "religion_connection": "The statute expressly names Christian doctrines and religious categories: it penalized denials of Jesus Christ or the Trinity and certain blasphemous speech while extending limited toleration to people professing belief in Jesus Christ. Political and denominational competition also shaped the enactment; that history remains distinct from its explicit statutory terms.",
     "evidence_type": [
       "textual",
       "policy_history"
     ],
-    "competing_causes": [],
+    "competing_causes": [
+      "Political security and competition among Catholic and Protestant groups in proprietary Maryland, alongside the stated religious toleration objective."
+    ],
     "scope_note": "Colonial-era record; no longer in effect.",
     "status": "historical",
     "primary_authority": "Maryland State Archives, Religious Toleration in Maryland (text of the 1649 Act) — https://msa.maryland.gov/msa/speccol/sc2200/sc2221/000025/html/intro.html",
-    "explanatory_authority": "Patricia Bonomi, Under the Cope of Heaven (1986)",
+    "explanatory_authority": "Maryland State Archives, Religious Toleration in Maryland — https://msa.maryland.gov/msa/speccol/sc2200/sc2221/000025/html/intro.html; complete original-text transcription — https://oll.libertyfund.org/pages/1649-maryland-toleration-act",
     "last_verified": "2026-09-26",
     "review_priority": "medium",
     "confidence": "high",
-    "notes": "Migrated from records/us-md-maryland.json (md-hist-toleration-act-1649). Category kept at B as in the source file; because the text expressly regulates religion, A may be more accurate under the methodology and is flagged for review."
+    "notes": "Migrated from records/us-md-maryland.json (md-hist-toleration-act-1649). Reviewed against original-text transcription in Colonial Origins of the American Constitution (Lutz, 1998), reproducing Archives of Maryland vol. I, 244–247, and Maryland State Archives' 1649 contextual history. Category A follows explicit religious terms; political background is retained separately and does not imply equal freedom for all religions."
   }
 ]
