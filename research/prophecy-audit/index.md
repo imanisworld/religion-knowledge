@@ -1,6 +1,6 @@
 # Biblical Prophecy — Evidence Audit
 
-**Checked:** October 20, 2026 · **Status:** 35 researched cases across six batches: 11 initially reviewed and 24 still requiring claim-specific internal review. External review remains deferred until the defined collection is complete. This is not a count of all biblical prophecies.
+**Checked:** October 20, 2026 · **Status:** 41 researched cases across seven batches: 11 initially reviewed, 30 newer cases needing claim-specific internal review. External review remains deferred until the defined collection is complete. This is not a count of all biblical prophecies.
 
 The Bible's prophetic literature includes warnings, oracles about current political crises, predictions, poetic laments, promises of restoration, and retrospective historical narratives. A later author calling an earlier passage **fulfilled** establishes that the later author made that interpretation. It does not by itself establish that the earlier author predicted the later event.
 
@@ -19,7 +19,7 @@ For each **claimed prophecy or fulfillment**, record these six layers separately
 
 An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com/passage/?search=Deuteronomy+18%3A22&version=NRSVUE) criticizes an unfulfilled pronouncement, whereas [Jeremiah 18:7–10](https://www.biblegateway.com/passage/?search=Jeremiah+18%3A7-10&version=NRSVUE) states that threats may change if behavior changes. Jonah 3 illustrates conditional warning.
 
-## First 11-case comparison
+## Research comparison — 41 cases
 
 | Earlier passage | Later reuse or historical test | Claim type | Cautious finding |
 |---|---|---|---|
@@ -62,6 +62,13 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 | [Hosea 2:23 and 1:10 (Hebrew 2:25 and 2:1)](#hosea-romans-9-gentiles) | Romans 9:24–26 | Restoration promise reassigned or extended through Pauline interpretation | Shift from Israel to Gentile inclusion documented; hermeneutical warrant debated |
 | [Isaiah 59:20–21; Isaiah 27:9](#isaiah-59-romans-11-zion) | Romans 11:25–27 | Composite oracle with a changed geographical preposition | Textual directional shift certain in surviving witnesses; motive and fulfillment disputed |
 | [Psalm 2:7; 2 Samuel 7:12–16](#hebrews-1-5-royal-son) | Hebrews 1:5 | Two Davidic royal proclamations applied to an exalted Son | Pairing and older royal context certain; theological entailments subject to interpretation |
+
+| [Isaiah 44:24–45:7 (especially 44:28; 45:1)](#cyrus-isaiah-44-45) | Cyrus II's capture of Babylon in 539 BCE and Persian-era restoration | Named royal oracle; dating of Isaiah 40–55 is decisive | Cyrus and conquest confirmed; how long before the event this oracle was composed is debated |
+| [Jeremiah 25:8–14 (especially 25:11–12)](#jeremiah-25-seventy-years) | Neo-Babylonian regional rule and Babylon's capture by Cyrus in 539 BCE; 2 Chronicles 36:20–21 | Time-bounded imperial judgment oracle | Imperial history documented; the literal seventy-year calculation is contested |
+| [Jeremiah 29:1–14 (especially 29:10)](#jeremiah-29-seventy-years) | Return and restoration traditions in Ezra 1 and 2 Chronicles 36 | Exilic letter; disputed preposition and calendar scope | Exilic context and later reception documented; precise seventy-year fulfillment disputed |
+| [Ezekiel 26:1–21 and 29:17–21](#ezekiel-26-tyre) | Nebuchadnezzar II's campaign against Tyre and Alexander's conquest in 332 BCE | Oracles against a nation; multiple agents and later historical test | Attack and later conquest historically attested; complete literal permanent destruction not established |
+| [Isaiah 13:1–22](#isaiah-13-babylon-medes) | Fall of Babylon in 539 BCE and its later gradual changes | Imperial judgment oracle; composition date and imagery disputed | Babylon's fall documented; identity of attackers and permanent-destruction imagery require qualification |
+| [Nahum 1–3 (especially 2:1–13 and 3:8–10)](#nahum-nineveh-fall) | Fall of Nineveh in 612 BCE; Babylonian Chronicle ABC 3 | Judgment oracle with independent ancient chronicle | Historical event strongly corroborated; date of prophecy's composition and precise foresight less secure |
 
 ## Passage audits
 
@@ -416,6 +423,66 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Pairing and older royal context certain; theological entailments subject to interpretation
 - **Primary and scholarly sources:** [Hebrew Psalm 2:7](https://biblehub.com/text/psalms/2-7.htm); [2 Samuel 7:12–16 NRSVUE](https://www.biblegateway.com/passage/?search=2+Samuel+7%3A12-16&version=NRSVUE); [Hebrews 1:5 NRSVUE](https://www.biblegateway.com/passage/?search=Hebrews+1%3A5&version=NRSVUE); [Sung Kook Jung (2014), Uses of Psalm 2 and 2 Samuel 7 in Hebrews 1:5](https://kiss.kstudy.com/Detail/Ar?key=3359440); [Gert J. Steyn (2003), Psalm 2 in Hebrews](https://journals.co.za/doi/10.10520/EJC83141).
 
+### Isaiah 44:24–45:7 (especially 44:28; 45:1) — Cyrus named as God's shepherd and anointed {#cyrus-isaiah-44-45}
+
+- **Original language:** לְכוֹרֶשׁ רֹעִי ('of Cyrus: my shepherd'); לִמְשִׁיחוֹ לְכוֹרֶשׁ ('to his anointed, to Cyrus')
+- **Earlier situation:** Isaiah 40–55 addresses an audience for whom exile and Babylonian domination are live concerns and Cyrus is an agent of deliverance. Most historical-critical scholars date this material to the mid-sixth century BCE, distinct from Isaiah ben Amoz's eighth-century setting; traditional single-author interpreters hold that Cyrus was predicted by name much earlier. The text's composition history determines the advance-prediction question.
+- **Later claim / event:** Cyrus conquered Babylon in 539 BCE and Persia subsequently sponsored restoration in its territories. Isaiah applies a divine commission to Cyrus, even using 'anointed', a title not reserved here for a Judean king.
+- **Type of reuse or prediction:** Named ruler and attested conquest, with contested composition chronology. The Cyrus Cylinder describes his conquest and temple-restoration ideology in Babylonia; it does not name Judeans or verify Isaiah's particular Jerusalem/temple claims.
+- **Independent evidence and limitations:** The British Museum and Getty independently date Cyrus's capture of Babylon to 539 BCE. These sources corroborate his historical role, not that an eighth-century manuscript contained his name or that the Judean prophecy was fulfilled by supernatural foreknowledge. The critical exilic dating is itself an evidence-based historical interpretation and should not be asserted as mathematical certainty.
+- **Provisional conclusion:** Cyrus and conquest confirmed; how long before the event this oracle was composed is debated
+- **Primary and scholarly sources:** [Hebrew Isaiah 44:28](https://biblehub.com/text/isaiah/44-28.htm); [Hebrew Isaiah 45:1](https://biblehub.com/text/isaiah/45-1.htm); [British Museum: original Cyrus Cylinder](https://www.britishmuseum.org/collection/object/W_1880-0617-1941); [Getty: Cyrus Cylinder and ancient Persia](https://www.getty.edu/art/exhibitions/cyrus_cylinder/); [Bible Archaeology Review on Cyrus Cylinder and Isaiah](https://www.biblicalarchaeology.org/daily/ancient-cultures/the-cyrus-cylinder/).
+
+### Jeremiah 25:8–14 (especially 25:11–12) — Seventy years of service to Babylon {#jeremiah-25-seventy-years}
+
+- **Original language:** שִׁבְעִים שָׁנָה ('seventy years') of service to the king of Babylon (Jeremiah 25:11)
+- **Earlier situation:** Jeremiah 25 presents Babylon as the instrument of judgment over Judah and surrounding nations, then predicts a reversal after seventy years. This is about imperial domination and desolation, not necessarily each exile's personal period of captivity; the book has multiple textual/editorial layers.
+- **Later claim / event:** 2 Chronicles 36:20–21 and Daniel 9:2 later interpret the seventy-year tradition with differing emphases on the land, Babylon, and Jerusalem's desolation.
+- **Type of reuse or prediction:** A quantified oracle applied to historical chronology and adapted by later biblical interpreters. Exact start/end choices (e.g., Babylon's ascendancy c. 605 BCE to 539 BCE) do not yield precisely seventy solar years. Other pairings such as 586–516 BCE concern temple destruction/rebuilding and a different subject.
+- **Independent evidence and limitations:** Babylonian hegemony and the 539 BCE Persian capture are externally supported. The length of the seventy years is contested: Ross Winkle (1987) develops a relatively literal chronology, while historical/other commentaries treat the number as rounded or schematic. Do not claim that all chronological interpretations are equally secure.
+- **Provisional conclusion:** Imperial history documented; the literal seventy-year calculation is contested
+- **Primary and scholarly sources:** [Hebrew Jeremiah 25:11–12](https://biblehub.com/text/jeremiah/25-11.htm); [Ross E. Winkle (1987), Jeremiah's Seventy Years Part II](https://digitalcommons.andrews.edu/auss/vol25/iss3/3/); [Matthew H. Patton, Jeremiah commentary and seventy-year excursus](https://www.thegospelcoalition.org/commentary/jeremiah/); [Jeremiah 25:12 textual/editorial commentary](https://biblehub.com/commentaries/jeremiah/25-12.htm); [2 Chronicles 36:20–21](https://www.biblegateway.com/passage/?search=2+Chronicles+36%3A20-21&version=NRSVUE).
+
+### Jeremiah 29:1–14 (especially 29:10) — Seventy years *for* Babylon and a promised return {#jeremiah-29-seventy-years}
+
+- **Original language:** לְבָבֶל שִׁבְעִים שָׁנָה ('seventy years for Babylon' in a natural Hebrew rendering; alternatives say 'at/in Babylon')
+- **Earlier situation:** The narrative presents a letter addressed to Judeans already deported to Babylonia; it counsels settlement and community life and promises divine attention after seventy years for Babylon. This is a different communicative situation from the oracle in Jeremiah 25.
+- **Later claim / event:** Ezra and Chronicles present a return after Persia's conquest and incorporate the fulfillment of Jeremiah's words; Daniel 9 reflects another interpretation of the seventy years in relation to Jerusalem.
+- **Type of reuse or prediction:** Related to but separately evaluated from Jeremiah 25: 'for Babylon' can concern the duration of Babylonian supremacy, rather than mandating seventy years of imprisonment for every deportee. The dating of the letter and its editorial transmission remain disputed.
+- **Independent evidence and limitations:** Deportations, Persian conquest, and restoration-era return are historically grounded at a broad level. The chronological calculation and whose years are counted are debated. A 2018 peer-reviewed study explores why 586–516 BCE (destruction and rebuilding of the temple) became a later inner-biblical way to account for the number; that choice should not be retrojected into Jeremiah's original letter without qualification.
+- **Provisional conclusion:** Exilic context and later reception documented; precise seventy-year fulfillment disputed
+- **Primary and scholarly sources:** [Hebrew Jeremiah 29:10](https://biblehub.com/text/jeremiah/29-10.htm); [Ross E. Winkle (1987) historical data](https://digitalcommons.andrews.edu/auss/vol25/iss3/3/); [2018 Korean Biblical Studies article (English abstract): seventy years in Jeremiah](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002397285); [Jeremiah 29 textual/historical commentary](https://bible.org/seriespage/jeremiah-29); [Ezra 1:1–4](https://www.biblegateway.com/passage/?search=Ezra+1%3A1-4&version=NRSVUE).
+
+### Ezekiel 26:1–21 and 29:17–21 — Tyre destroyed and never rebuilt? {#ezekiel-26-tyre}
+
+- **Original language:** וְלֹא תִבָּנֶה עוֹד ('you shall not be rebuilt again', Ezekiel 26:14)
+- **Earlier situation:** An oracle announces waves of nations against Tyre, a major Phoenician port with mainland and island settlements. It names Nebuchadnezzar in 26:7–11, predicts desolation, and states Tyre will not be rebuilt. Ezekiel 29:18 later acknowledges Nebuchadnezzar's labor against Tyre without receiving an adequate reward.
+- **Later claim / event:** Nebuchadnezzar did campaign against Tyre; the precise outcome and duration are debated. Alexander captured the island city in 332 BCE. Some apologetic readings distribute 26:3–6 to many nations and 26:7–11 to Babylon, then appeal to Alexander for a later phase.
+- **Type of reuse or prediction:** Test who is the predicted agent in each verse; separate mainland from island and the history of an ancient urban site from the continuous modern city. A later conqueror does not retroactively satisfy every explicit Nebuchadnezzar clause. Ezekiel's own later statement in 29:18 is part of the primary textual evidence.
+- **Independent evidence and limitations:** PThU biblical scholar's 2024 discussion argues that Ezekiel 26's envisioned outcome was not fully realized under Nebuchadnezzar and that appealing to Alexander changes the claim. Conservative archaeological defense disputes this and distinguishes land from island. The extant city and later occupations are incompatible with a literal claim that the entire location was never again inhabited; the exact sense of 'never rebuilt' and the original oracle's redaction are debated.
+- **Provisional conclusion:** Attack and later conquest historically attested; complete literal permanent destruction not established
+- **Primary and scholarly sources:** [Hebrew Ezekiel 26:14](https://biblehub.com/text/ezekiel/26-14.htm); [Ezekiel 29:17–21 (Nebuchadnezzar's labor)](https://www.biblegateway.com/passage/?search=Ezekiel+29%3A17-21&version=NRSVUE); [Protestant Theological University (2024), When prophecy doesn't come true](https://www.pthu.nl/en/bibleblog/2024/10/when-prophecy-doesnt-come-true/); [Associates for Biblical Research (2009), defensive reading](https://biblearchaeology.org/research-articles/ezekiel-26114-a-proof-text-for-inerrancy-or-fallibility-of-the-old-testament/); [Ancient Tyre history and siege review](https://www.britannica.com/place/Tyre-Lebanon).
+
+### Isaiah 13:1–22 — The Medes and Babylon's desolation {#isaiah-13-babylon-medes}
+
+- **Original language:** הִנְנִי מֵעִיר עֲלֵיהֶם אֶת־מָדָי ('I am stirring up the Medes against them', Isaiah 13:17)
+- **Earlier situation:** Isaiah 13 depicts Babylon as a ruling empire threatened by the Medes; the context presupposes Babylonian rather than eighth-century Assyrian hegemony. Many scholars therefore situate this section in a later exilic setting, although the precise date and original literary layers are contested.
+- **Later claim / event:** Cyrus's Persian-led army entered Babylon in 539 BCE, after the Persians had absorbed Median power. Babylon did not become uninhabited immediately; over time its city and political status changed.
+- **Type of reuse or prediction:** Distinguish 'Medes' as a historical coalition/ethnic label from identifying Cyrus's victory as exclusively Median; separate the oracle's violent destruction language from the relatively limited fighting at Babylon's capture in 539 BCE.
+- **Independent evidence and limitations:** The historical Babylonian/Persian takeover is independently documented; some prophecy details resemble broad judgment rhetoric and cannot be matched one-for-one to 539. Critical commentary dates this poem based on its depiction of Babylon as dominant, not simply because a literal prediction would be deemed impossible.
+- **Provisional conclusion:** Babylon's fall documented; identity of attackers and permanent-destruction imagery require qualification
+- **Primary and scholarly sources:** [Hebrew Isaiah 13:17](https://biblehub.com/text/isaiah/13-17.htm); [Cambridge commentary on Isaiah 13 and later composition](https://biblehub.com/commentaries/cambridge/isaiah/13.htm); [British Museum: Cyrus Cylinder](https://www.britishmuseum.org/collection/object/W_1880-0617-1941); [Getty Museum: Cyrus's conquest in 539 BCE](https://www.getty.edu/art/exhibitions/cyrus_cylinder/).
+
+### Nahum 1–3 (especially 2:1–13 and 3:8–10) — Nineveh destroyed in 612 BCE {#nahum-nineveh-fall}
+
+- **Original language:** מַשָּׂא נִינְוֵה ('oracle concerning Nineveh', Nahum 1:1)
+- **Earlier situation:** Nahum condemns Assyrian Nineveh and envisages its defeat. Nahum 3:8 points back to the sack of Thebes (663 BCE). Scholars debate whether individual poems were composed before or around Nineveh's 612 BCE fall and when their final literary form was fixed.
+- **Later claim / event:** The Fall of Nineveh Chronicle (BM 21901, ABC 3) describes the Babylonians and Medes besieging and capturing Nineveh in 612 BCE. This is external evidence for the outcome, rather than for the date of Nahum's oracle.
+- **Type of reuse or prediction:** A rare case with strong independent corroboration of the named city's destruction. The evidence for an advance prediction depends on demonstrating that the relevant parts of Nahum existed before 612 BCE rather than being revised at or after the event.
+- **Independent evidence and limitations:** The British Museum identifies tablet BM 21901 as the historical chronicle of events in 616–609 BCE, and the Livius translation of ABC 3 reports a three-month siege and destruction. It confirms Nineveh's fall, but cannot by itself date Nahum's earliest literary layer, validate supernatural causation, or confirm every dramatic poetic image.
+- **Provisional conclusion:** Historical event strongly corroborated; date of prophecy's composition and precise foresight less secure
+- **Primary and scholarly sources:** [Hebrew Nahum 1:1](https://biblehub.com/text/nahum/1-1.htm); [Nahum 2–3](https://www.biblegateway.com/passage/?search=Nahum+2-3&version=NRSVUE); [British Museum: tablet BM 21901](https://www.britishmuseum.org/collection/object/W_1896-0409-6); [Livius: Fall of Nineveh Chronicle (ABC 3)](https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-3-fall-of-nineveh-chronicle/); [Enter the Bible (Luther Seminary): Nahum summary](https://enterthebible.org/courses/nahum/lessons/summary-of-nahum/).
+
 ## Bounded inventory: ten Matthew fulfillment formulas
 
 These ten are a **particular scholarly-defined subset** of Matthew's use of the Hebrew Bible. All ten have dedicated or linked audit cases; this does not finish Matthew's other quotations or other books.
@@ -435,7 +502,7 @@ These ten are a **particular scholarly-defined subset** of Matthew's use of the 
 
 ### Wider seed inventory — pending discovery and research
 
-The following **50 tracked candidate locations** now include **18 researched claims and two additional cases linked to earlier completed records**; 30 candidates remain pending or only partially linked. An item marked researched refers to a separate case record; it is not an independently reviewed claim. A related record can cover another later use, without completing this particular claim. This seed inventory remains incomplete until discovery is checked against multiple inventories and the underlying texts.
+The following **50 tracked candidate locations** now include **24 researched claims and two additional cases linked to earlier completed records**; 24 candidates remain pending or only partially linked. An item marked researched refers to a separate case record; it is not an independently reviewed claim. A related record can cover another later use, without completing this particular claim. This seed inventory remains incomplete until discovery is checked against multiple inventories and the underlying texts.
 
 | Group | Candidate claim location | Source or subject | Status |
 |---|---|---|---|
@@ -462,13 +529,13 @@ The following **50 tracked candidate locations** now include **18 researched cla
 | other nt | Romans 11:26–27 | Isaiah 59:20–21 / 27:9 | Research record: isaiah-59-romans-11-zion; full review pending |
 | other nt | Hebrews 1:5 | Psalm 2:7 / 2 Samuel 7:14 | Research record: hebrews-1-5-royal-son; full review pending |
 | other nt | Hebrews 8:8–12 | Jeremiah 31:31–34 | Research record: jeremiah-31-hebrews-8; review pending |
-| historical oracle | Isaiah 44:28–45:1 | Cyrus and restoration | Research pending |
-| historical oracle | Jeremiah 25:11–12 | Seventy years of Babylonian rule | Research pending |
-| historical oracle | Jeremiah 29:10 | Seventy years for Babylon | Research pending |
-| historical oracle | Ezekiel 26:3–14 | Tyre | Research pending |
-| historical oracle | Isaiah 13:17–22 | Babylon and Medes | Research pending |
+| historical oracle | Isaiah 44:28–45:1 | Cyrus and restoration | Research record: cyrus-isaiah-44-45; review pending |
+| historical oracle | Jeremiah 25:11–12 | Seventy years of Babylonian rule | Research record: jeremiah-25-seventy-years; review pending |
+| historical oracle | Jeremiah 29:10 | Seventy years for Babylon | Research record: jeremiah-29-seventy-years; review pending |
+| historical oracle | Ezekiel 26:3–14 | Tyre | Research record: ezekiel-26-tyre; review pending |
+| historical oracle | Isaiah 13:17–22 | Babylon and Medes | Research record: isaiah-13-babylon-medes; review pending |
 | historical oracle | Isaiah 17:1–3 | Damascus | Research pending |
-| historical oracle | Nahum 1–3 | Nineveh | Research pending |
+| historical oracle | Nahum 1–3 | Nineveh | Research record: nahum-nineveh-fall; review pending |
 | historical oracle | Obadiah 1–21 | Edom | Research pending |
 | historical oracle | Jeremiah 49:7–22 | Edom | Research pending |
 | historical oracle | Haggai 2:6–9 | Temple glory | Research pending |
@@ -492,7 +559,9 @@ The following **50 tracked candidate locations** now include **18 researched cla
 
 ## Open inventory and stopping rule
 
-**Batch 1:** 11 internally checked starter records. **Batch 2:** six research entries completing Matthew's ten classic formula quotations with four earlier case links. **Batch 3:** five NT passages showing the importance of Septuagint translation and later theological readings. **Batch 4:** three more Matthew claims (including a generic fulfillment assertion), while two other Matthew quotations link to existing records. **Batches 5–6:** ten further NT citation cases, with full internal and external reviews outstanding. The 24 entries in Batches 2–6 still require full case-by-case review; Batches 5–6 received an initial source check. All batches are only a defined subset of the wider inventory.
+**Batch 1:** 11 internally checked starter records. **Batch 2:** six research entries completing Matthew's ten classic formula quotations with four earlier case links. **Batch 3:** five NT passages showing the importance of Septuagint translation and later theological readings. **Batch 4:** three more Matthew claims (including a generic fulfillment assertion), while two other Matthew quotations link to existing records. **Batches 5–6:** ten further NT citation cases, with full internal and external reviews outstanding. The 24 entries in Batches 2–6 and six new historical-oracle entries in Batch 7 require full claim-by-claim review; Batches 5–6 received an initial source check. All batches are only a defined subset of the wider inventory.
+
+**Batch 7:** six historical-oracle cases comparing Cyrus, Babylonian domination, Tyre, Babylon's fall, and Nineveh with external records. Specific event corroboration is separated from whether the relevant biblical wording preceded the event. Source locating is complete for this batch; detailed academic review is pending.
 
 Next nonduplicative batches, with each source passage + later claim as the canonical match key:
 
