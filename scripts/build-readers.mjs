@@ -859,7 +859,7 @@ function buildSitebar() {
       <a href="index.html">Library</a>
       <a href="search.html">Search</a>
       <a href="religion-law.html">Religion &amp; Law</a>
-      <a href="app/">App</a>
+      <a href="history.html">History</a>
     </nav>
   </div>
 </header>`;
