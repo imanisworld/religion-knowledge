@@ -39,6 +39,8 @@ A law's text, its historical cause, and its current enforceability are separate 
 
 This module is published on `main`. Individual state and comparative records remain research-scoped according to their recorded verification status; publication does not mean the database is complete.
 
+**Coverage as of 20 October 2026:** all 50 states have a first-pass state-law profile; eight priority states have expanded verified profiles. The state-law normalized file contains **39 records in 12 states**; the remaining 38 states have no records in that file. The state religion-and-power context JSON lists all 50 states, but only **15 states** have sourced first-pass population/officeholder details, while 35 remain `not_coded` / `not_started`. This is an inventory of work completed and does not imply that all law or context data has been reviewed for every state.
+
 The comparison table only includes law-level records whose classification and status are supported by the verified source profile. Items whose religion-causation classification is still pending remain in the state profile but are not forced into A–E for display.
 
 State religious demographics and officeholder affiliations are maintained as a separate context layer. They may be compared with legal records, but they are not evidence that religion caused a law; causation still requires the methodology's independent historical evidence.
