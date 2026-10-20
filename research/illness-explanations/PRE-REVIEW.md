@@ -7,7 +7,7 @@
 
 **Access limits in this pass:** The cited Bible sites, Perseus, MIT Classics, Oxford Academic and Cambridge Core could not be reached from the working environment. Evidence below comes from web-search results, which quote or summarize pages. Anything that would need the page itself is marked **unverified**. No Hebrew, Greek or Akkadian was checked against an edition.
 
-**Nothing in the module or registry was changed by this pass.** Proposed corrections are listed for the owner and the independent reviewer to accept or reject.
+**Corrections applied (20 October 2026, at the owner's request):** All proposed corrections below are now in the module and registry. `IL-JOHN-001` and `IL-SIRACH-001` are now `verified_with_qualification`, and `IL-HIPBLAME-001` is now `needs_qualification`. The independent reviewer should check the corrected wording, not the original.
 
 ## Summary
 

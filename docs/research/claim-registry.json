@@ -4526,13 +4526,13 @@
         "stance": "discusses"
       }
     ],
-    "notes": "Staged source draft; not on public site. No diagnosis or historical event confirmation."
+    "notes": "Staged source draft; not on public site. No diagnosis or historical event confirmation. Pre-review 2026-10-20 (internal, not independent): 'Becomes rigid' varies by translation (GW 'exhausted', KJV 'pineth away'); Greek verb not yet checked."
   },
   {
     "claim_id": "IL-JOHN-001",
-    "claim_text": "The disciples ask whether a man's blindness from birth resulted from his or his parents' sin; Jesus rejects both attributions but explains the episode in terms of revealing God's works.",
+    "claim_text": "The disciples ask whether a man's blindness from birth resulted from his or his parents' sin; Jesus rejects both attributions. In the usual punctuation he then presents the blindness as an occasion for God's works to be revealed; some scholars attach that clause to v. 4 instead, which removes the purpose explanation.",
     "claim_type": "direct_textual",
-    "status": "verified",
+    "status": "verified_with_qualification",
     "confidence": "high",
     "last_verified": "2026-10-20",
     "reviewer": "Internal assistant source check; external independent review pending",
@@ -4548,12 +4548,18 @@
         "locator": "9:1–3 https://www.biblegateway.com/passage/?search=John+9%3A1-3&version=NRSVUE"
       }
     ],
-    "secondary_sources": [],
-    "notes": "Staged source draft; not on public site. Text still makes a theological claim."
+    "secondary_sources": [
+      {
+        "citation": "John C. Poirier, \"'Day and Night' and the Sabbath Controversy of John 9,\" Filología Neotestamentaria 19 (2006), pp. 113–119",
+        "locator": "https://www.bsw.org/filologia-neotestamentaria/vol-19-2006/day-and-night-and-the-sabbath-controversy-of-john-9/381/",
+        "stance": "qualifies"
+      }
+    ],
+    "notes": "Staged source draft; not on public site. Text still makes a theological claim. Pre-review 2026-10-20 (internal, not independent): Greek manuscripts are unpunctuated; downgraded from verified because the purpose clause's attachment is disputed."
   },
   {
     "claim_id": "IL-JOB-001",
-    "claim_text": "Job's friends connect suffering to wrongdoing; at the end Yahweh rebukes the friends for speaking wrongly about him.",
+    "claim_text": "Job's friends connect suffering to wrongdoing; at the end Yahweh rebukes the friends for not speaking rightly of (or to) him; the Hebrew preposition allows either.",
     "claim_type": "historical_interpretation",
     "status": "verified_with_qualification",
     "confidence": "medium",
@@ -4572,13 +4578,13 @@
       }
     ],
     "secondary_sources": [],
-    "notes": "Staged source draft; not on public site. 42:7 alone does not explain which argument was rejected."
+    "notes": "Staged source draft; not on public site. 42:7 alone does not explain which argument was rejected. Pre-review 2026-10-20 (internal, not independent): 'About' vs 'to' is a translation choice (Walton reads 'to'); source-critical readings treat the prose frame as a separate story."
   },
   {
     "claim_id": "IL-SIRACH-001",
-    "claim_text": "The author praises physicians, medicinal plants, pharmacists, prayer, repentance, and sacrifice, and says sinners will defy the physician (v. 15).",
+    "claim_text": "The author praises physicians, medicinal plants, pharmacists, prayer, repentance, and sacrifice, and says sinners will defy the physician (v. 15). Verse 15 differs between the Hebrew and Greek textual traditions; the wording here follows the NABRE.",
     "claim_type": "direct_textual",
-    "status": "verified",
+    "status": "verified_with_qualification",
     "confidence": "high",
     "last_verified": "2026-10-20",
     "reviewer": "Internal assistant source check; external independent review pending",
@@ -4599,9 +4605,14 @@
         "citation": "USCCB, Introduction to the Wisdom of Ben Sira",
         "locator": "Composition c. 180 BCE https://bible.usccb.org/bible/sirach/0",
         "stance": "discusses"
+      },
+      {
+        "citation": "Burkard Zapff, \"Sir 38,1-15 als Beispiel der Verknüpfung von Tradition und Innovation bei Jesus Sirach,\" Biblica 92 (2011), pp. 347–367",
+        "locator": "https://www.bsw.org/biblica/vol-92-2011/sir-38-1-15-als-beispiel-der-verknuepfung-von-tradition-und-innovation-bei-jesus-sirach/473/article-p367.html",
+        "stance": "qualifies"
       }
     ],
-    "notes": "Staged source draft; not on public site. Coexistence of prayer, remedies, physicians, repentance."
+    "notes": "Staged source draft; not on public site. Coexistence of prayer, remedies, physicians, repentance. Pre-review 2026-10-20 (internal, not independent): Downgraded from verified: the Greek is more negative toward the physician than Hebrew Ms B, including at v. 15. The exact v. 15 wording in each tradition has not been checked."
   },
   {
     "claim_id": "IL-HIPMED-001",
@@ -4636,8 +4647,8 @@
     "claim_id": "IL-HIPBLAME-001",
     "claim_text": "In §1, the author criticizes practitioners who take credit when a patient recovers but invoke the gods as an explanation if the patient dies.",
     "claim_type": "direct_textual",
-    "status": "verified",
-    "confidence": "high",
+    "status": "needs_qualification",
+    "confidence": "medium",
     "last_verified": "2026-10-20",
     "reviewer": "Internal assistant source check; external independent review pending",
     "public_locations": [
@@ -4653,7 +4664,7 @@
       }
     ],
     "secondary_sources": [],
-    "notes": "Staged source draft; not on public site. A polemical claim within one ancient text; not established frequency of such practice."
+    "notes": "Staged source draft; not on public site. A polemical claim within one ancient text; not established frequency of such practice. Pre-review 2026-10-20 (internal, not independent): The credit-on-recovery / gods-on-death sentence could not be retrieved in any translation; related passages (divinity as 'a pretext and screen'; symptoms assigned to particular gods) were confirmed via search results. Downgraded from verified until the exact §1 sentence is quoted with a locator."
   },
   {
     "claim_id": "IL-MESMED-001",
@@ -4677,11 +4688,11 @@
         "stance": "supports"
       }
     ],
-    "notes": "Staged source draft; not on public site. Full chapter not read. The page's attribution of āšipu/asû specialists and contagion to this chapter could not be re-confirmed against the abstract on 2026-10-20 (abstract unreachable); held as unverified pending review."
+    "notes": "Staged source draft; not on public site. Full chapter not read. The page's attribution of āšipu/asû specialists and contagion to this chapter could not be re-confirmed against the abstract on 2026-10-20 (abstract unreachable); held as unverified pending review. Pre-review 2026-10-20 (internal, not independent): āšipu/asû roles supported by general sources; their division is debated and overlapped by the first millennium BCE."
   },
   {
     "claim_id": "IL-MARI-001",
-    "claim_text": "Yitzhaq Feder (2019) discusses early eighteenth-century BCE letters from Mari describing separation of infected servants and restrictions on sharing vessels or furniture.",
+    "claim_text": "Yitzhaq Feder (2019) discusses eighteenth-century BCE letters from Mari, from the reign of Zimri-Lim (c. 1775–1761 BCE on the conventional chronology), describing separation of infected servants and restrictions on sharing vessels or furniture.",
     "claim_type": "historical_interpretation",
     "status": "verified_with_qualification",
     "confidence": "medium",
@@ -4699,9 +4710,14 @@
         "citation": "Yitzhaq Feder, Tum’ah: Ritual Impurity or Fear of Contagious Disease? (TheTorah.com, 2019).",
         "locator": "Early Evidence of Belief in Contagion https://www.thetorah.com/article/tumah-ritual-impurity-or-fear-of-contagious-disease",
         "stance": "supports"
+      },
+      {
+        "citation": "Edward Neufeld, \"The Earliest Document of a Case of Contagious Disease in Mesopotamia (Mari Tablet ARM X, 129),\" Journal of the Ancient Near Eastern Society 18 (1986)",
+        "locator": "https://janes.jtsa.edu/volumes/18/1/article-6/",
+        "stance": "supports"
       }
     ],
-    "notes": "Staged source draft; not on public site. Feder reproduces letters, but primary cuneiform edition has not been independently examined."
+    "notes": "Staged source draft; not on public site. Feder reproduces letters, but primary cuneiform edition has not been independently examined. Pre-review 2026-10-20 (internal, not independent): 'Early eighteenth-century' corrected to Zimri-Lim's reign; chronology reconstructions differ."
   },
   {
     "claim_id": "IL-TZARAAT-001",
@@ -4757,9 +4773,14 @@
         "citation": "CDC, 150th Anniversary of John Snow and the Pump Handle, MMWR (2004)",
         "locator": "1854 investigation https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5334a1.htm",
         "stance": "supports"
+      },
+      {
+        "citation": "John Snow Archive and Research Companion, \"Snow & the pump handle\" (Michigan State University)",
+        "locator": "https://johnsnow.matrix.msu.edu/broadstpump/snow-the-pump-handle/",
+        "stance": "qualifies"
       }
     ],
-    "notes": "Staged source draft; not on public site. Historical summary; not an independent estimate of the pump handle's impact."
+    "notes": "Staged source draft; not on public site. Historical summary; not an independent estimate of the pump handle's impact. Pre-review 2026-10-20 (internal, not independent): Outbreak already declining when the handle was removed on 8 Sept 1854 (Snow's own account); module now says so."
   },
   {
     "claim_id": "IL-KOCH-001",
