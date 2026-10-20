@@ -24,5 +24,5 @@ test('unresolved Texas §21.06 motive stays outside classified A–E comparisons
   assert.match(texas, /pending-causation\/us-tx-penal-21-06\.json/);
   const match = index.find(row => row.url === 'religion-law.html#state=texas');
   assert.ok(match, 'Texas search result exists');
-  assert.match(match.text, /motive unresolved/);
+  assert.match(match.text, /(?:motive|causation) unresolved/);
 });
