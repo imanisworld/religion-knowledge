@@ -17,7 +17,9 @@ h1{font-size:clamp(2rem,3vw,2.55rem);line-height:1.08;margin:.15rem 0}
 .intro-row>p{max-width:45ch;color:var(--ink2);font-size:.85rem;margin:0}
 .traditions-workspace{display:grid;grid-template-columns:minmax(245px,29%) minmax(0,1fr);gap:1rem;min-height:420px}
 .traditions-workspace>aside,.profile-column{min-width:0;min-height:0}
-.chooser{display:flex;flex-direction:column;min-height:0;height:100%;border:1px solid var(--rule);border-radius:10px;background:var(--paper)}
+.chooser{display:flex;flex-direction:column;min-height:0;height:100%;overflow-y:auto;border:1px solid var(--rule);border-radius:10px;background:var(--paper)}
+/* <details> wraps non-summary children in ::details-content; make it the flex column so the list, not the page, scrolls. Browsers without it fall back to the chooser's own scroll. */
+.chooser::details-content{display:flex;flex-direction:column;flex:1;min-height:0}
 .chooser>summary{cursor:pointer;padding:.75rem .9rem;font-weight:750;font-size:.91rem;border-bottom:1px solid var(--rule)}
 .chooser>summary span{font-size:.72rem;font-weight:500;color:var(--ink2);float:right}
 .chooser label{display:block;font-size:.75rem;font-weight:650;margin:.65rem .85rem .25rem;color:var(--ink2)}
