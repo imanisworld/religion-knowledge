@@ -1,0 +1,49 @@
+{
+  "related_observation_id": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "scholarly_disagreement": null,
+  "interpretations": [],
+  "status": "draft",
+  "id": "claim_kongo_afonso_1517_religious_request",
+  "subject_type": "Tradition",
+  "subject_id": "trad_kongo_christianity",
+  "statement": "The Metropolitan Museum of Art identifies a surviving letter dated 8 June 1517, from Kongo king Afonso I to Portugal's Manuel I, requesting Christian devotional objects including a silver cross and small altarpieces; the dated letter attests royal patronage and requests, not the actual arrival of those objects.",
+  "claim_tier": "OBSERVATION",
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1517,
+    "latest": 1517,
+    "precision": "YEAR"
+  },
+  "region": [
+    "Central Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY",
+    "LATER_HISTORICAL_ACCOUNT"
+  ],
+  "confidence": "HIGH",
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Mario Pereira and Kristen Windmuller-Luna, 'Kongo Christian Art: Cross-Cultural Interaction in the Atlantic World,' Metropolitan Museum of Art, October 30, 2015, describing Afonso I letter dated June 8, 1517 in Arquivo Nacional da Torre do Tombo, https://www.metmuseum.org/exhibitions/listings/2015/kongo/blog/posts/kongo-christian-art",
+      "author": "Mario Pereira and Kristen Windmuller-Luna",
+      "year": 2015,
+      "venue": "Metropolitan Museum of Art",
+      "contemporary_with_event": false,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT source-specific web review",
+      "verified_date": "2026-10-20",
+      "verification_method": "DIRECT_READ",
+      "access_note": "The museum essay and caption identify a dated 1517 archival letter and enumerate requested devotional objects. The original Portuguese manuscript and transcription were not read. Statement is explicitly about the museum's identification and paraphrase of the royal letter."
+    }
+  ],
+  "does_not_demonstrate": [
+    "A request for a cross or altarpieces does not demonstrate that the exact requested objects were delivered.",
+    "Royal requests cannot establish uniform practice or beliefs among the Kongo population.",
+    "This document does not support the notion that Christianity displaced all earlier practices."
+  ],
+  "adversarial_counter": "The letter is evidence for elite requests mediated by a secondary curatorial source; examining the Portuguese primary text is necessary before quoting any exact wording as Afonso's own.",
+  "notes": "Curator-level directly readable published description; identify the Torre do Tombo shelfmark and inspect letter before upgrading passage-level primary verification."
+}
