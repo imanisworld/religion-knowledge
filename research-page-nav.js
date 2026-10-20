@@ -228,7 +228,7 @@
   window.ResearchPageNav = {attach, attachHeadings};
   function init() {
     const main = document.querySelector('main[data-research-pager]');
-    if (main) attach(main);
+    if (main) { try { attach(main); } catch(error) { window.__researchPagerError=String(error)+' at '+(error.stack||''); console.error(error); } }
   }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
   else init();
