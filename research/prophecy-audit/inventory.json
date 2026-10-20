@@ -1,8 +1,8 @@
 {
-  "version": 5,
+  "version": 6,
   "updated": "2026-10-20",
   "method": "Working scope: direct or explicit fulfillment claims in the New Testament; concrete time/place predictions and conditional threats in the Hebrew Bible and New Testament; messianic proof texts and apocalyptic prediction claims. List source and later use separately. Other echo-only candidates are included only when a specific later claim is identified. Entries in pending groups are candidate discovery leads, not vetted/complete research. The number shown is the number of tracked claims in this working inventory, not an objective total of all biblical prophecies.",
-  "scope_notes": "Ten Matthew formulas already covered; 50 additional candidate locations now have 24 distinct dedicated research cases, 2 previously covered links, and 24 pending or partially covered claims. Seed inventory is not a complete list of biblical prophecies.",
+  "scope_notes": "Non-exhaustive working seed: ten Matthew formula quotations plus 50 further loci, 29 with dedicated studies, two linked to earlier cases, 19 remaining pending/partial. All 11 tracked historical-oracle loci now have research records.",
   "matthew_formula_ten": [
     {
       "group": "matthew_formula_ten",
@@ -330,8 +330,9 @@
       "claim_locus": "Isaiah 17:1–3",
       "earlier_source": "Damascus",
       "question": "Pronouncement about Damascus becoming a ruin",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "isaiah-17-damascus"
     },
     {
       "group": "historical_oracle",
@@ -347,32 +348,36 @@
       "claim_locus": "Obadiah 1–21",
       "earlier_source": "Edom",
       "question": "Disaster and territorial reversal for Edom",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "obadiah-edom"
     },
     {
       "group": "historical_oracle",
       "claim_locus": "Jeremiah 49:7–22",
       "earlier_source": "Edom",
       "question": "Prophetic judgment on Edom",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "jeremiah-49-edom"
     },
     {
       "group": "historical_oracle",
       "claim_locus": "Haggai 2:6–9",
       "earlier_source": "Temple glory",
       "question": "Future shaking of nations and greater latter glory",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "haggai-2-temple-glory"
     },
     {
       "group": "historical_oracle",
       "claim_locus": "Zechariah 14:1–21",
       "earlier_source": "Jerusalem and nations",
       "question": "Day of YHWH and future Jerusalem",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "zechariah-14-day-of-yhwh"
     },
     {
       "group": "apocalyptic",
