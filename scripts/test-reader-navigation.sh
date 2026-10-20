@@ -24,6 +24,9 @@ setTimeout(() => {
     const chapters = [...page.querySelectorAll(':scope > section')];
     const select = document.querySelector('#reader-section-select');
     const about = document.querySelector('.reader-about');
+    const documentPicker = document.querySelector('#document-switcher');
+    const compactNavOk = documentPicker?.options.length === 11 &&
+      !document.querySelector('.docswitch');
     const active = chapters.filter(x => !x.hidden);
     const blanks = chapters.filter(section => ![...section.children]
       .some(child => !/^H[1-6]$/.test(child.tagName) &&
@@ -33,7 +36,7 @@ setTimeout(() => {
     const firstOk = active.length === 1 && !!heading &&
       select && select.value === '0' &&
       !/Introduction/i.test(select.options[0].textContent) &&
-      chapters.length >= 10 && blanks.length === 0 && aboutOk;
+      chapters.length >= 3 && blanks.length === 0 && aboutOk && compactNavOk;
     let navOk = false;
     if (firstOk) {
       const old = select.value;
@@ -68,7 +71,7 @@ setTimeout(() => {
       (firstOk && navOk && hashOk && laptopOk) ? 'pass' : 'fail';
     document.body.dataset.readerTopicDetail = JSON.stringify({
       chapters:chapters.length,blank:blanks.map(s => s.id).slice(0,8),
-      firstOk,navOk,hashOk,laptopOk,viewport:[innerWidth,innerHeight]
+      firstOk,navOk,hashOk,laptopOk,compactNavOk,viewport:[innerWidth,innerHeight]
     });
   } catch (error) {
     document.body.dataset.readerTopicSmoke = 'fail';
@@ -76,7 +79,8 @@ setTimeout(() => {
   }
 }, 0);
 </script>'''
-for name in ('master-notes', 'field-guide'):
+for name in ('master-notes', 'field-guide', 'history', 'sources',
+             'other-side', 'translations', 'method-reference', 'glossary'):
     source = Path(name + '.html').read_text(encoding='utf-8')
     if '</body>' not in source:
         raise SystemExit(name + ': HTML document missing body terminator')
@@ -86,7 +90,7 @@ PY
 
 python3 -m http.server 8766 --bind 127.0.0.1 >/tmp/religion-reader-http.log 2>&1 &
 SERVER_PID=$!
-trap 'kill "$SERVER_PID" >/dev/null 2>&1 || true; rm -f master-notes.reader-smoke.html field-guide.reader-smoke.html master-notes.return-smoke.html field-guide.return-smoke.html' EXIT
+trap 'kill "$SERVER_PID" >/dev/null 2>&1 || true; rm -f -- *.reader-smoke.html master-notes.return-smoke.html field-guide.return-smoke.html' EXIT
 
 READY=0
 for _ in {1..40}; do
@@ -101,7 +105,7 @@ if [[ "$READY" -ne 1 ]]; then
   exit 1
 fi
 
-for page in master-notes field-guide; do
+for page in master-notes field-guide history sources other-side translations method-reference glossary; do
   for size in 1280,800 390,844; do
     output="/tmp/religion-$page-$size-reader-dom.html"
     log="/tmp/religion-$page-$size-reader-chrome.log"
@@ -117,6 +121,74 @@ for page in master-notes field-guide; do
     fi
     echo "READER_TOPIC_SMOKE=PASS page=$page viewport=$size"
   done
+done
+
+
+# Cited Persons is hand-maintained. Verify its alphabet pager, global search,
+# flagged-only filter and deep links instead of trusting the shared generator.
+python3 - <<'PY'
+from pathlib import Path
+probe = r'''<script>
+setTimeout(() => {
+  try {
+    const chapters = [...document.querySelectorAll('main > section')];
+    const select = document.getElementById('person-letter-select');
+    const picker = document.getElementById('document-switcher');
+    const oneAtATime = chapters.length >= 20 &&
+      chapters.filter(s => !s.hidden).length === 1 &&
+      select?.options.length === chapters.length &&
+      picker?.options.length === 11;
+    document.querySelector('.person-letter-nav .reader-next')?.click();
+    const nextWorks = select?.value === '1' &&
+      chapters.filter(s => !s.hidden).length === 1;
+    const search = document.getElementById('search');
+    search.value = 'Augustine';
+    search.dispatchEvent(new Event('input', { bubbles:true }));
+    const searchWorks = chapters.filter(s => !s.hidden).length === 1 &&
+      [...chapters].some(s => !s.hidden && s.textContent.toLowerCase().includes('augustine'));
+    search.value = '';
+    search.dispatchEvent(new Event('input', { bubbles:true }));
+    const flag = document.getElementById('flag-filter');
+    flag.click();
+    const flaggedOnly = flag.getAttribute('aria-pressed') === 'true' &&
+      chapters.filter(s => !s.hidden).length === 1 &&
+      [...document.querySelectorAll('main section p[id]:not(.hidden-entry)')]
+        .some(p => p.querySelector('.flag-tag'));
+    flag.click();
+    location.hash = '#person-macdonald-dennis-r';
+    setTimeout(() => {
+      const target = document.getElementById('person-macdonald-dennis-r');
+      const deepLinkWorks = target && !target.closest('section').hidden;
+      const pass = oneAtATime && nextWorks && searchWorks && flaggedOnly && deepLinkWorks;
+      document.body.dataset.personPagerSmoke = pass ? 'pass' : 'fail';
+      document.body.dataset.personPagerDetail = JSON.stringify({
+        oneAtATime,nextWorks,searchWorks,flaggedOnly,deepLinkWorks,
+        viewport:[innerWidth,innerHeight]
+      });
+    }, 60);
+  } catch (e) {
+    document.body.dataset.personPagerSmoke = 'fail';
+    document.body.dataset.personPagerDetail = String(e);
+  }
+},0);
+</script>'''
+source = Path('cited-persons.html').read_text(encoding='utf-8')
+Path('cited-persons.reader-smoke.html').write_text(
+  source.replace('</body>', probe + '\n</body>'), encoding='utf-8')
+PY
+
+for size in 1280,800 390,844; do
+  output="/tmp/religion-cited-$size-reader-dom.html"
+  "$BROWSER" --headless --no-sandbox --disable-gpu --hide-scrollbars \
+    --window-size="$size" --virtual-time-budget=7000 \
+    --dump-dom "http://127.0.0.1:8766/cited-persons.reader-smoke.html" \
+    >"$output" 2>"/tmp/religion-cited-$size-chrome.log"
+  if ! grep -Fq 'data-person-pager-smoke="pass"' "$output"; then
+    echo "Cited Persons alphabet navigation failed at $size" >&2
+    grep -o 'data-person-pager-detail="[^"]*"' "$output" | head -1 >&2 || true
+    exit 1
+  fi
+  echo "CITED_PERSONS_PAGER_SMOKE=PASS viewport=$size"
 done
 
 
