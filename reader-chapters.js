@@ -81,6 +81,18 @@
   }
 
   const names = sections.map(title);
+  // Remember the last reading topic in this tab, separately for each document.
+  // A URL fragment always wins over saved progress, especially when following
+  // a cited passage from another reader. No history/hash is rewritten on load.
+  const readerProgressKey = 'religion-reader-topic:' + location.pathname;
+  function saveCurrentTopic(index) {
+    try { sessionStorage.setItem(readerProgressKey, sections[index].id); } catch (_) {}
+  }
+  function previousTopicIndex() {
+    let id = '';
+    try { id = sessionStorage.getItem(readerProgressKey) || ''; } catch (_) {}
+    return id ? sections.findIndex(section => section.id === id) : -1;
+  }
   sections.forEach((section, i) => {
     section.tabIndex = 0;
     section.setAttribute('role', 'region');
@@ -159,6 +171,7 @@
   function show(index, { navigate = false, scroll = false } = {}) {
     if (index < 0 || index >= sections.length) return;
     active = index;
+    saveCurrentTopic(index);
     const hits = available();
     sections.forEach((section, i) => {
       section.hidden = hits.length === 0 || i !== index;
@@ -323,6 +336,9 @@
   }, { passive: true }));
 
   document.documentElement.classList.add('reader-paginated');
-  if (!openHashTarget({ scroll: false })) show(0);
+  if (!openHashTarget({ scroll: false })) {
+    const previous = previousTopicIndex();
+    show(previous >= 0 ? previous : 0);
+  }
   if (location.hash) requestAnimationFrame(() => openHashTarget());
 })();
