@@ -1,60 +1,60 @@
 # Biblical Prophecy Audit — Status and Handoff
 
 **As of:** October 20, 2026  
-**Repository:** `imanisworld/religion-knowledge`  
+**Repo:** `imanisworld/religion-knowledge`  
 **Research branch:** `research/prophecy-evidence-20261020`  
-**PR:** [#202](https://github.com/imanisworld/religion-knowledge/pull/202)  
-**Release rule:** Stay open/unmerged until the inventory is defined and completed, internal accuracy passes, and the requested independent external review is resolved.
+**Open PR:** [#202](https://github.com/imanisworld/religion-knowledge/pull/202)  
+**Release rule:** Keep the PR open until scope discovery, internal source checks and one external independent research review are complete.
 
-## Source-of-truth counts
+## Counts and meaning
 
-| Measure | Count | Meaning |
+| Measure | Count | Scope / verification status |
 |---|---:|---|
-| Canonical research records | **59** | In `records.json`, `index.md`, the HTML reader and Search, on the PR branch |
-| Research batches | **10** | Stored with IDs and review status in `records.json` |
-| Originally internally reviewed | **11** | Initial assistant source audit, not independent peer review |
-| Later records requiring full source verification | **48** | Batches 2–10, including newly source-located cases |
-| Classic Matthew fulfillment formulas | **10/10** | Specific scholarly-defined quotation subset |
-| Additional seed claim locations | **50** | Non-exhaustive working set, never a count of every biblical prophecy |
-| Seed locations with distinct targeted records | **42** | Some source texts are reused with different later applications |
-| Seed locations covered by earlier linked cases | **2** | Already addressed by source-specific earlier cases |
-| Pending/partly related seed locations | **6** | Three Revelation groupings and three other NT quotation checks |
-| Historical-oracle seed cases | **11/11** | Located; full review still necessary |
-| Daniel-vision seed cases | **6/6** | Located; full review still necessary |
-| Jesus/Paul timing seed cases | **7/7** | Located; full review still necessary |
-| Independent specialist review | **Not completed** | Defer until complete defined inventory |
-| Live release | **Not merged** | PR branch/preview contents are not production evidence |
+| **Source-linked research cases** | **65** | Stored in `records.json` and cross-referenced in `index.md`, reader HTML, comparison matrix and Search, all on this branch |
+| **Research batches** | **11** | Batch IDs and individual states are in `records.json` |
+| **Initially internally reviewed** | **11** | Initial assistant review, not independent scholarly verification |
+| **Later cases needing full claim-by-claim review** | **54** | Batches 2–11: some source-located or spot-checked, not fully vetted |
+| **Ten classic Matthew formula quotations** | **10/10** | Defined narrow subset; not every quotation/allusion in Matthew |
+| **Supplemental candidate seed** | **50 locations** | Working seed; not a comprehensive number of biblical prophecies |
+| **Seed locations with specific case records** | **48/50** | Distinct later reuses or claims are registered |
+| **Seed locations directly covered by earlier cases** | **2/50** | No unnecessary duplication |
+| **Seed locations unaddressed** | **0/50** | **Original seed complete; corpus discovery NOT complete** |
+| **Independent external review** | **Not yet performed** | Complete broader scope and internal checks first |
+| **Live production release** | **Not merged** | PR/preview success does not mean deployed production |
 
-These categories overlap. Adding 59 + 50 + 10 would be inaccurate; the 50 locations are a discovery seed mapped onto records, and the full biblical inventory is still incomplete.
+**Important:** 65 cases, 50 seed locations, and ten Matthew formula quotations describe *overlapping sets*; do not add them together. This seed was assembled as a starting list rather than an exhaustive inventory of every prophecy, and none of the 54 newer cases should be described as independently verified.
 
 ## Batch register
 
-| Batch | Cases | Topic | Review |
+| Batch | Count | Theme | Control |
 |---|---:|---|---|
-| 1 | 11 | First text and historical sample | Initial internal review |
-| 2 | 6 | Matthew fulfillment formulas | Full review pending |
-| 3 | 5 | Luke/Acts/John/Hebrews uses | Full review pending |
-| 4 | 3 | Other Matthew claims | Full review pending |
-| 5 | 5 | John and Acts | Source spot-check only |
-| 6 | 5 | John, Romans, Hebrews | Source spot-check only |
-| 7 | 6 | Cyrus, Babylon, Tyre, Nineveh | Source located |
-| 8 | 5 | Damascus, Edom, Haggai, Zechariah | Source located |
-| 9 | 6 | Daniel 2, 7, 8, 9, 11, 12 | Source located |
-| 10 | 7 | Temple, generation, mission, kingdom, high priest, Paul | Source located |
-| **Total** | **59** | | |
+| 1 | 11 | First textual/historical cases | Initially internally reviewed |
+| 2 | 6 | Matthew formula uses | Full claim review pending |
+| 3 | 5 | Luke/Acts/John/Hebrews reuses | Full claim review pending |
+| 4 | 3 | More Matthew claims | Full claim review pending |
+| 5 | 5 | John and Acts claims | Source spot-checked; full review pending |
+| 6 | 5 | John, Romans, Hebrews | Source spot-checked; full review pending |
+| 7 | 6 | Cyrus, Babylon, Tyre, Nineveh | Source located; full review pending |
+| 8 | 5 | Damascus, Edom, Haggai, Zechariah | Source located; full review pending |
+| 9 | 6 | Daniel 2, 7, 8, 9, 11 and 12 | Source located; full review pending |
+| 10 | 7 | Jesus/Paul time-sensitive claims | Source located; full review pending |
+| 11 | 6 | Revelation 1/13/20–21; Mark 1, John 19, Acts 8 citations | Source located; full review pending |
+| **Total** | **65** | | |
 
-## Most important timing and evidence limitations
+## Batch 11 findings and limits
 
-- **Mark 13:2:** Temple destruction in 70 CE is independently evidenced; Gospel composition relative to 70 CE and literal completeness of stone removal are debated. Temple sanctuary and surviving platform/retaining walls are different structures.
-- **Mark 13:30:** The Greek `hē genea hautē` means 'this generation' in a context containing both the Temple crisis and cosmic Son of Man imagery. Whether 'all these things' includes the entire culminating scene changes the verdict; [Edsall 2025](https://doi.org/10.1177/0142064X241289867) examines the reception and ambiguity.
-- **Matthew 10:23:** The limit on completing Israel's towns is explicit; the referent of the Son of Man 'coming' is debated. [Löfstedt](https://doi.org/10.58546/se.v90i1.25546) argues for resurrection/exaltation over the final end.
-- **Mark 9:1:** 'Some standing here' establishes a lifespan test. Transfiguration, resurrection/exaltation, Spirit and final return are alternative interpretations, not a single established historical event.
-- **Mark 14:62:** The 'you will see' audience, Psalm 110 and Daniel 7's heavenly movement matter. [Smith and Vaillancourt 2022](https://doi.org/10.15699/jbl.1413.2022.6) argue both enthronement and later return are in view.
-- **1 Thessalonians 4:15–17:** Paul's first-person plural suggests expectation, but [Novum Testamentum 2024](https://brill.com/view/journals/nt/66/2/article-p231_5.xml?language=en) defends multiple grammatical possibilities; no categorical year or personal-survival prediction is independently specified.
-- **1 Corinthians 15:51:** Greek witnesses have substantial changes to negative wording; [NET critical text notes](https://classic.net.bible.org/verse.php?book=1Co&chapter=15&tab=commentaries&theme=wiki&verse=51) list competing manuscript versions. Treat these variants explicitly.
+- **Revelation 1/22:** The author tells contemporary Asian churches what must happen `en tachei` ('soon') and that the time is `engys` ('near'). Whether these apply to first-century crisis, rapid commencement, or a yet-future cosmic culmination needs an explicit argued interpretation. [USCCB Revelation 1](https://bible.usccb.org/bible/revelation/1) and [22](https://bible.usccb.org/bible/revelation/22).
+- **Revelation 13:** A Roman imperial context and the Nero Caesar numerical reading are well supported; **616** is an ancient variant. [Max Nelson (2025)](https://doi.org/10.1093/jts/flaf015) proposes a Claudian alternative, so the decoder is not an undisputed fact.
+- **Revelation 20–21:** One thousand years, resurrection, judgment and new Jerusalem are apocalyptic imagery reused from Isaiah/Ezekiel. Millennial traditions disagree; universal physical abolition of death has not been independently observed.
+- **Mark 1:2–3:** Mark combines Exodus 23:20, Malachi 3:1 and Isaiah 40:3 and the early textual reading names 'Isaiah' rather than 'the prophets'; note the critical manuscript evidence and ancient composite-citation practice.
+- **John 19:24:** Psalm 22's two parallel lines about garments become two narrated actions in John. The narration is evidence of a Gospel interpretation, not independent confirmation of soldiers' exact clothing arrangements.
+- **Acts 8:32–35:** The quotation uses Isaiah 53's **ancient Greek** form, including 'in humiliation justice was taken away', differing from Hebrew 53:8. The Ethiopian official's question makes the identity issue explicit.
 
-## Next step
+## Work remaining before independent review
 
-Research three Revelation groupings and three NT cross-reference applications; then conduct a full inventory discovery/deduplication pass (the list may grow). Complete detailed claim-level review of 48 newer cases, rectify sources and competing interpretations, and invite **one outside independent review** of the complete defined inventory. Check reader/search consistency and UI on 390px/1440px before any release. Owner approval required for the merge.
+1. Search systematically for omitted claims outside the **original fifty-locus seed** and define the inclusion/deduplication rules in an inventory methodology.
+2. Review **54** cases against Hebrew/Aramaic/Greek primary passages, manuscript variants, real scholarly publications, chronological and independent historical sources; revisit the earlier eleven if new evidence requires correction.
+3. Check reader, Search, mobile table labels, light/dark readability and current-main branch integration.
+4. Send one *complete* independent review packet after the declared set has been researched; reconcile reviewer corrections, then obtain the owner's merge decision.
 
-**Sources:** [records.json](records.json) · [inventory.json](inventory.json) · [index.md](index.md) · [REVIEW.md](REVIEW.md) · [TODO.md](TODO.md)
+**Files:** [records.json](records.json) · [inventory.json](inventory.json) · [index.md](index.md) · [REVIEW.md](REVIEW.md) · [TODO.md](TODO.md).
