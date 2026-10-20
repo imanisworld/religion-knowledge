@@ -116,6 +116,9 @@ jobs:
       - name: Check homepage and navigation reading order
         run: node --test tests/library-order.test.mjs
 
+      - name: Run complete repository test suite after generating site
+        run: node --test
+
       - name: Build standalone bundle
         run: npm run build:standalone
 
