@@ -44,6 +44,9 @@ jobs:
       - name: Validate committed corpus
         run: node scripts/import/validate-corpus.mjs
 
+      - name: Check research progress figures
+        run: node --test tests/research-status-counters.test.mjs
+
       - name: Validate Religion & Law overview records
         run: npm run validate:religion-law-overview
 
@@ -56,11 +59,17 @@ jobs:
       - name: Verify Markdown and reader structure are in sync
         run: npm run validate:reader-sync
 
+      - name: Check unresolved public person entries
+        run: node --test tests/public-cited-persons-source-gate.test.mjs
+
       - name: Regenerate cross-document search index
         run: npm run build:search-index
 
       - name: Verify committed search index matches readers
         run: git diff --exit-code -- search-index.json
+
+      - name: Check public Cited Persons evidence warnings
+        run: node --test tests/public-cited-persons-source-gate.test.mjs
 
       - name: Regenerate normalized record chunks
         run: npm run generate-records
