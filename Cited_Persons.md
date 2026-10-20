@@ -2,7 +2,7 @@
 
 Who each cited person is and where they are coming from. The goal is not to discredit anyone but to know what lens shaped their conclusions before using them as authorities. A slavery defender can be an excellent primary source for what proslavery Christians argued; they become a bad choice if presented as a neutral authority on whether slavery was morally acceptable.
 
-> **Control status — 12 August 2026:** this is a working orientation index, not an audited authority file. **Complete named-entry pass: 165 documented, 200 unresolved; 0 entries not yet audited (365 named entries total).** The index remains intentionally excluded from the eight-source app dataset. A `CHECKED` label means the wording below is supported by the linked evidence; `UNRESOLVED` means the claim must not be quoted as established. Corrections are made openly.
+> **Control status — 20 October 2026 (marker recount; no new fact-check):** this is a working orientation index, not a fully independently verified authority file. **Current entry markers: 194 documented, 171 unresolved; 0 unclassified (365 named entries total).** The index remains intentionally excluded from the eight-source app dataset. A `CHECKED` label means the wording below is supported by the linked evidence; `UNRESOLVED` means the claim must not be quoted as established. Corrections are made openly.
 
 ---
 
