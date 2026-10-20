@@ -1,5 +1,5 @@
 /**
- * Focused navigation for the Study Notes and Observations readers.
+ * Focused navigation for all nine core/reference readers.
  * Source HTML remains complete and linkable; enhancement only changes
  * which top-level section is displayed. Without JS, all content is readable.
  */
@@ -31,14 +31,14 @@
     if (intro) about.append(intro);
   }
 
-  // An unusually long Study Notes section can still feel endless. Divide it
-  // at existing numbered subsections. Retain the parent section heading AND
-  // its first real subsection together, preventing heading-only pages.
-  if (document.title.includes('Study Notes')) {
+  // Long chapters in History, Sources, Method & Reference, Study Notes,
+  // and other readers become separate topics at existing numbered headings.
+  // Keep the parent heading with the first subsection; preserve every ID.
+  {
     for (const section of Array.from(main.querySelectorAll(':scope > section'))) {
       const subsections = Array.from(section.children).filter(el =>
         el.matches('h3[data-num][id]'));
-      if (section.textContent.length < 8500 || subsections.length < 2) continue;
+      if (section.textContent.length < 7500 || subsections.length < 2) continue;
       let current = section;
       let encounteredFirst = false;
       for (const node of Array.from(section.childNodes)) {
