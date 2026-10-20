@@ -11,8 +11,10 @@ test('illness source study is complete, qualified, and represented in the public
   assert.equal((source.match(/^## \d+\./gm) || []).length, 9);
   assert.equal((html.match(/<h2 id="illness-\d+"/g) || []).length, 9);
   assert.equal((html.match(/class="evidence-card"/g) || []).length, 6);
-  assert.ok(html.includes('AI-reviewed with qualifications'));
-  assert.ok(html.includes('no outside specialist review'));
+  assert.ok(html.includes('Sources and evidence limits'));
+  assert.ok(html.includes('Some original-language and scholarly sources remain unchecked'));
+  assert.ok(html.includes('This survey has not undergone an outside specialist review.'));
+  assert.doesNotMatch(html, /\bowner\b|waived|PR #|claim registry|Editorial and verification gate/i);
   assert.ok(html.includes('Nineteenth-century'));
   assert.ok(!html.includes('github.com/'));
   for (const phrase of ['John 9:1–3', 'Sirach 38:1–15', 'Hippocratic', 'Feder', 'Koch']) {
