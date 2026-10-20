@@ -40,6 +40,11 @@ test('reader navigation remains accessible, searchable and deep-linkable', () =>
   assert.match(scripts, /encounteredFirst = true/);
   assert.doesNotMatch(scripts, /return 'Introduction'/);
   assert.match(scripts, /Choose a topic/);
+  assert.match(scripts, /readerProgressKey = 'religion-reader-topic:' \+ location\.pathname/);
+  assert.match(scripts, /sessionStorage\.setItem\(readerProgressKey, sections\[index\]\.id\)/);
+  assert.match(scripts, /sessionStorage\.getItem\(readerProgressKey\)/);
+  assert.match(scripts, /const previous = previousTopicIndex\(\)/);
+  assert.match(scripts, /if \(!openHashTarget\(\{ scroll: false \}\)\)/);
   assert.match(scripts, /target\.closest\('\.reader-about'\)/);
   assert.match(scripts, /aria-live="polite"/);
   assert.match(scripts, /section\.hidden = hits\.length === 0 \|\| i !== index/);
@@ -51,6 +56,10 @@ test('reader navigation remains accessible, searchable and deep-linkable', () =>
   assert.match(scripts, /if \(!openHashTarget/);
   assert.match(stylesheet, /main > section\[hidden\]/);
   assert.match(stylesheet, /@media\(max-width:640px\)/);
+  const browserSmoke = readFileSync('scripts/test-reader-navigation.sh','utf8');
+  assert.match(browserSmoke, /READER_ROUNDTRIP_SMOKE=PASS/);
+  assert.match(browserSmoke, /history\.back\(\)/);
+  assert.match(browserSmoke, /data-reader-roundtrip="pass"/);
   assert.doesNotMatch(scripts, /fetch\(|innerHTML\s*=\s*location/);
 });
 
