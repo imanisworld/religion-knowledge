@@ -1,3 +1,19 @@
+## Batch 8 — Damascus, Edom, Haggai, Zechariah (20 October 2026)
+
+Five source-located research cases have been added to the canonical registry and readers. This work is **preliminary scholarly research**, not a completed independent textual review.
+
+| Source | Main finding | Check required |
+|---|---|---|
+| Isaiah 17 / Damascus | Assyria ended the Aramean kingdom in 732 BCE. UNESCO records continuous or renewed habitation of Damascus through later periods. | Distinguish political downfall and destruction imagery from a permanent disappearance. Check historical composition horizon versus event date. |
+| Obadiah 1–21 | [Assis (2015)](https://doi.org/10.1177/0309089214567376) proposes a layered composition; [Tebes (2011)](https://doi.org/10.1177/0309089211423731) questions partisan claims of Edomite betrayal in Jerusalem's fall. | Avoid treating ethnic blame or 'no survivor' as historical certainty; account for Idumaean identity thereafter. |
+| Jeremiah 49 / Edom | [Ogden (1982)](https://doi.org/10.1177/030908928200702406) analyzes the shared oracle with Obadiah. | The two books may share literary sources. Do not count the shared material as independent confirmations. |
+| Haggai 2:6–9 | The collective 'treasures' reading of `khemdat kol-haggoyim` matches plural syntax and nearby silver/gold. [NET notes](https://classic.net.bible.org/passage.php?passage=hag+2%3A6-9) identify the singular direct-messiah reading as contextually unsupported. | Distinguish original 520 BCE temple promise, later Hebrews 12 appropriation, and modern messianic typology; check ambiguous glory/peace standards. |
+| Zechariah 14 | [Redditt (2021)](https://doi.org/10.1093/oxfordhb/9780190673208.013.31) discusses later editorial layers in 9–14; Sukkot reception is discussed by [Fishbane](https://www.myjewishlearning.com/article/how-zechariah-relates-to-sukkot/). | A complete fulfilled event involving mountains, waters and world pilgrimage has not been independently documented; future expectation is a different proposition. |
+
+**Control:** 46 cases across eight batches; first eleven previously internally reviewed, thirty-five later cases pending full detailed review. In the 50-item non-exhaustive additional-claim queue, 29 have source-specific records, two link to an earlier record, and nineteen remain pending or partially covered. Outside review remains deferred until the defined inventory and internal controls are complete.
+
+---
+
 # PR #202 — Independent content review and outside-review handoff
 
 **Review date:** October 20, 2026  
