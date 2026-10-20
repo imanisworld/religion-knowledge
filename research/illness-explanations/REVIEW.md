@@ -40,6 +40,8 @@ For **each claim ID**, report:
 | `IL-SNOW-001` | Snow's 1854 waterborne cholera research; avoid oversimplified pump-handle causal myth |
 | `IL-KOCH-001` | Koch's 1882 TB finding, organism/cause wording and date; broader germ-theory history |
 
+**Cross-model AI review (20 Oct 2026):** A ChatGPT review posted from the owner's account ([PR #213 review](https://github.com/imanisworld/religion-knowledge/pull/213#pullrequestreview-5590548738)) gave verdicts on all 13 claims, and its five required corrections have been applied. It is an AI cross-check, **not** the outside specialist review this brief asks for. Review the corrected wording.
+
 **Adversarial pre-review:** [PRE-REVIEW.md](PRE-REVIEW.md) is an internal pass over all 13 claims. It is **not** independent review. Use it as a list of disputes to settle, not as verdicts. Its main findings: John 9:3 punctuation (Poirier 2006), the Sirach 38:15 Hebrew/Greek difference (Zapff 2011), and an unconfirmed Hippocratic credit/blame sentence (`IL-HIPBLAME-001`).
 
 ## Pre-review findings to check (20 October 2026)

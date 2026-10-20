@@ -4455,7 +4455,7 @@
   },
   {
     "claim_id": "IL-DEUT-001",
-    "claim_text": "Yahweh will afflict disobedient Israel with pestilence and various diseases.",
+    "claim_text": "In covenant curses, Yahweh threatens disobedient Israel with disease, fever, and other afflictions.",
     "claim_type": "direct_textual",
     "status": "verified",
     "confidence": "high",
@@ -4474,7 +4474,7 @@
       }
     ],
     "secondary_sources": [],
-    "notes": "Staged source draft; not on public site. Covenant narrative, not epidemiological findings."
+    "notes": "Staged source draft; not on public site. Covenant narrative, not epidemiological findings. Cross-review 2026-10-20 (owner-posted ChatGPT cross-model review, PR #213 review 5590548738; AI review, not outside specialist review): 'pestilence and various diseases' was a paraphrase; reworded to the cited NABRE's 'disease' and 'fever'. v. 22 also lists crop and weather calamities."
   },
   {
     "claim_id": "IL-NUM-001",
@@ -4530,7 +4530,7 @@
   },
   {
     "claim_id": "IL-JOHN-001",
-    "claim_text": "The disciples ask whether a man's blindness from birth resulted from his or his parents' sin; Jesus rejects both attributions. In the usual punctuation he then presents the blindness as an occasion for God's works to be revealed; some scholars attach that clause to v. 4 instead, which removes the purpose explanation.",
+    "claim_text": "The disciples ask whether a man's blindness from birth resulted from his or his parents' sin; Jesus rejects both attributions. In the usual punctuation he then presents the blindness as an occasion for God's works to be revealed; some scholars attach that clause to v. 4 instead, which no longer presents the man's congenital blindness explicitly as existing for that purpose; the purpose clause instead concerns the work to be done.",
     "claim_type": "direct_textual",
     "status": "verified_with_qualification",
     "confidence": "high",
@@ -4555,7 +4555,7 @@
         "stance": "qualifies"
       }
     ],
-    "notes": "Staged source draft; not on public site. Text still makes a theological claim. Pre-review 2026-10-20 (internal, not independent): Greek manuscripts are unpunctuated; downgraded from verified because the purpose clause's attachment is disputed."
+    "notes": "Staged source draft; not on public site. Text still makes a theological claim. Pre-review 2026-10-20 (internal, not independent): Greek manuscripts are unpunctuated; downgraded from verified because the purpose clause's attachment is disputed. Cross-review 2026-10-20 (owner-posted ChatGPT cross-model review, PR #213 review 5590548738; AI review, not outside specialist review): Purpose-clause wording refined; traditional punctuation remains prominent; ancient manuscript punctuation not collated."
   },
   {
     "claim_id": "IL-JOB-001",
@@ -4582,7 +4582,7 @@
   },
   {
     "claim_id": "IL-SIRACH-001",
-    "claim_text": "The author praises physicians, medicinal plants, pharmacists, prayer, repentance, and sacrifice, and says sinners will defy the physician (v. 15). Verse 15 differs between the Hebrew and Greek textual traditions; the wording here follows the NABRE.",
+    "claim_text": "The author praises physicians, medicinal plants, pharmacists, prayer, repentance, and sacrifice, and says that whoever sins against the Maker will be defiant toward the physician (v. 15). That reading of v. 15 follows the Hebrew. The Greek tradition instead says, in effect, may the sinner fall into the physician's hands, which treats the physician as a punishment.",
     "claim_type": "direct_textual",
     "status": "verified_with_qualification",
     "confidence": "high",
@@ -4612,7 +4612,7 @@
         "stance": "qualifies"
       }
     ],
-    "notes": "Staged source draft; not on public site. Coexistence of prayer, remedies, physicians, repentance. Pre-review 2026-10-20 (internal, not independent): Downgraded from verified: the Greek is more negative toward the physician than Hebrew Ms B, including at v. 15. The exact v. 15 wording in each tradition has not been checked."
+    "notes": "Staged source draft; not on public site. Coexistence of prayer, remedies, physicians, repentance. Pre-review 2026-10-20 (internal, not independent): Downgraded from verified: the Greek is more negative toward the physician than Hebrew Ms B, including at v. 15. The exact v. 15 wording in each tradition has not been checked. Cross-review 2026-10-20 (owner-posted ChatGPT cross-model review, PR #213 review 5590548738; AI review, not outside specialist review): Reviewer reports the NRSVue v. 15 footnote identifies the main text as Hebrew and gives the Greek alternative; Zapff 2011 p. 356 discusses the harsher Greek. Footnote wording not independently retrieved here; Greek rendered as a paraphrase. Zapff's preference for the Hebrew is a scholarly judgment, not an established original."
   },
   {
     "claim_id": "IL-HIPMED-001",
@@ -4641,7 +4641,7 @@
         "stance": "qualifies"
       }
     ],
-    "notes": "Staged source draft; not on public site. Bodily explanations are not modern neurology, and the author does not reject all divine language."
+    "notes": "Staged source draft; not on public site. Bodily explanations are not modern neurology, and the author does not reject all divine language. Cross-review 2026-10-20 (owner-posted ChatGPT cross-model review, PR #213 review 5590548738; AI review, not outside specialist review): Holds with qualification. English translation only; Greek critical edition and date unchecked; 'By Hippocrates' on MIT is an archive label, not proof of authorship."
   },
   {
     "claim_id": "IL-HIPBLAME-001",
@@ -4668,11 +4668,11 @@
       }
     ],
     "secondary_sources": [],
-    "notes": "Internal direct-text verification 2026-10-20: Francis Adams's English translation of the anonymous Hippocratic treatise *On the Sacred Disease*, §1, states that healers anticipate taking honor and credit if the patient recovers, while if the patient dies they can argue the gods, not themselves, are to blame. Confirmed in Perseus, De morbo sacro §1, and the MIT Classics Archive copy of the same Adams translation. Passage wording includes: 'if the person should recover, theirs would be the honor and credit' and 'as if the gods, and not they, were to blame'. Context is a polemical criticism of practitioners; it does not establish how prevalent the behavior was in antiquity. The phrase 'credit if they recover, gods if they die' is a paraphrase and cannot be presented as a verbatim quotation. The authorship of the treatise is not securely established as Hippocrates personally. This is an internal English-translation source check, not verification of the Greek critical text or independent specialist review."
+    "notes": "Internal direct-text verification 2026-10-20: Francis Adams's English translation of the anonymous Hippocratic treatise *On the Sacred Disease*, §1, states that healers anticipate taking honor and credit if the patient recovers, while if the patient dies they can argue the gods, not themselves, are to blame. Confirmed in Perseus, De morbo sacro §1, and the MIT Classics Archive copy of the same Adams translation. Passage wording includes: 'if the person should recover, theirs would be the honor and credit' and 'as if the gods, and not they, were to blame'. Context is a polemical criticism of practitioners; it does not establish how prevalent the behavior was in antiquity. The phrase 'credit if they recover, gods if they die' is a paraphrase and cannot be presented as a verbatim quotation. The authorship of the treatise is not securely established as Hippocrates personally. This is an internal English-translation source check, not verification of the Greek critical text or independent specialist review. Cross-review 2026-10-20 (owner-posted ChatGPT cross-model review, PR #213 review 5590548738; AI review, not outside specialist review): Holds with qualification. Allegation established in the Adams translation only; no evidence of prevalence; Greek not collated."
   },
   {
     "claim_id": "IL-MESMED-001",
-    "claim_text": "Long before modern germ theory, Mesopotamian traditions included diagnostic descriptions, treatment knowledge, and specialists with different roles.",
+    "claim_text": "Long before modern germ theory, Mesopotamian traditions included diagnostic descriptions, treatment knowledge, and specialists whose roles shifted over time.",
     "claim_type": "historical_interpretation",
     "status": "verified_with_qualification",
     "confidence": "medium",
@@ -4687,12 +4687,17 @@
     "primary_sources": [],
     "secondary_sources": [
       {
-        "citation": "JoAnn Scurlock, Mesopotamian Beginnings for Greek Science?, in Oxford Handbook of Science and Medicine in the Classical World (Oxford University Press, 2018), pp. 35–46.",
-        "locator": "Abstract only https://academic.oup.com/edited-volume/34644/chapter-abstract/295182564",
+        "citation": "Markham Geller, “A New Understanding of the Origins of Ancient Babylonian Medicine,” International Medical Historical Review 8, no. 2 (2024), article 3 (in Chinese)",
+        "locator": "Abstract only https://discovery.ucl.ac.uk/id/eprint/10188811/",
         "stance": "supports"
+      },
+      {
+        "citation": "Ministère de la Culture (France), glossary: Ashipu (āšipu)",
+        "locator": "https://archeologie.culture.gouv.fr/en/glossary/ashipu-asipu",
+        "stance": "qualifies"
       }
     ],
-    "notes": "Staged source draft; not on public site. Full chapter not read. The page's attribution of āšipu/asû specialists and contagion to this chapter could not be re-confirmed against the abstract on 2026-10-20 (abstract unreachable); held as unverified pending review. Pre-review 2026-10-20 (internal, not independent): āšipu/asû roles supported by general sources; their division is debated and overlapped by the first millennium BCE."
+    "notes": "Staged source draft; not on public site. Full chapter not read. The page's attribution of āšipu/asû specialists and contagion to this chapter could not be re-confirmed against the abstract on 2026-10-20 (abstract unreachable); held as unverified pending review. Pre-review 2026-10-20 (internal, not independent): āšipu/asû roles supported by general sources; their division is debated and overlapped by the first millennium BCE. Cross-review 2026-10-20 (owner-posted ChatGPT cross-model review, PR #213 review 5590548738; AI review, not outside specialist review): NEEDS CORRECTION verdict addressed: Scurlock 2018 removed as a supporting citation (pages unread); Geller 2024 added at abstract level; roles described as shifting, not a rigid split. Scurlock's reported contagion discussion remains unverified and is no longer attributed."
   },
   {
     "claim_id": "IL-MARI-001",
@@ -4721,7 +4726,7 @@
         "stance": "supports"
       }
     ],
-    "notes": "Staged source draft; not on public site. Feder reproduces letters, but primary cuneiform edition has not been independently examined. Pre-review 2026-10-20 (internal, not independent): 'Early eighteenth-century' corrected to Zimri-Lim's reign; chronology reconstructions differ."
+    "notes": "Staged source draft; not on public site. Feder reproduces letters, but primary cuneiform edition has not been independently examined. Pre-review 2026-10-20 (internal, not independent): 'Early eighteenth-century' corrected to Zimri-Lim's reign; chronology reconstructions differ. Cross-review 2026-10-20 (owner-posted ChatGPT cross-model review, PR #213 review 5590548738; AI review, not outside specialist review): Holds with qualification. Evidence mediated by Feder; tablet edition not examined; 'infected' is Feder's interpretation."
   },
   {
     "claim_id": "IL-TZARAAT-001",
