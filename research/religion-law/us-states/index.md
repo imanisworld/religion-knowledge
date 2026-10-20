@@ -22,14 +22,14 @@ This directory now has a verified first-pass baseline for all 50 states. It rema
 | [Kansas](kansas.md) | First-pass baseline verified; expansion pending |
 | [Kentucky](kentucky.md) | First-pass baseline verified; expansion pending |
 | [Louisiana](louisiana.md) | Expanded anchor profile verified; targeted gaps remain |
-| [Maine](maine.md) | Expanded anchor profile verified; motor-vehicle Sunday-law motive still open |
+| [Maine](maine.md) | Expanded anchor profile verified; Sunday motor-vehicle enactment history closed |
 | [Maryland](maryland.md) | Expanded anchor profile verified; targeted gaps remain |
 | [Massachusetts](massachusetts.md) | Expanded anchor profile verified; no direct religious cause shown for pre-Goodridge exclusion |
 | [Michigan](michigan.md) | First-pass baseline verified; expansion pending |
 | [Minnesota](minnesota.md) | First-pass baseline verified; expansion pending |
 | [Mississippi](mississippi.md) | First-pass baseline verified; expansion pending |
 | [Missouri](missouri.md) | First-pass baseline verified; expansion pending |
-| [Montana](montana.md) | Expanded anchor profile verified; 1972 no-aid readoption motives need deeper review |
+| [Montana](montana.md) | Expanded anchor profile verified; 1972 no-aid convention history closed |
 | [Nebraska](nebraska.md) | First-pass baseline verified; expansion pending |
 | [Nevada](nevada.md) | First-pass baseline verified; expansion pending |
 | [New Hampshire](new-hampshire.md) | First-pass baseline verified; expansion pending |
@@ -46,7 +46,7 @@ This directory now has a verified first-pass baseline for all 50 states. It rema
 | [South Carolina](south-carolina.md) | First-pass baseline verified; expansion pending |
 | [South Dakota](south-dakota.md) | First-pass baseline verified; expansion pending |
 | [Tennessee](tennessee.md) | First-pass baseline verified; expansion pending |
-| [Texas](texas.md) | Expanded anchor profile verified; 1973 §21.06 motive still open |
+| [Texas](texas.md) | Expanded anchor profile verified; 1973 §21.06 enactment history closed |
 | [Utah](utah.md) | First-pass baseline verified; expansion pending |
 | [Vermont](vermont.md) | First-pass baseline verified; expansion pending |
 | [Virginia](virginia.md) | First-pass baseline verified; expansion pending |
@@ -58,4 +58,4 @@ This directory now has a verified first-pass baseline for all 50 states. It rema
 ## Promotion rule
 A state profile is not verified until its substantive entries have primary legal authority, separate explanatory or causation sourcing where needed, current-status verification, and a recorded verification date.
 
-Maryland's structured baseline is stored at `../records/us-md-maryland.json`. State-by-state first-pass baselines are being promoted as verified primary-source reviews are completed; use the table above as the current status authority. A first-pass baseline is not a complete state survey.
+Maryland's structured records now live in the common-schema file `../records/us-state-starter.json`; the older `../records/us-md-maryland.json` profile is retained for provenance only and is no longer loaded by the reader. State-by-state first-pass baselines are being promoted as verified primary-source reviews are completed; use the table above as the current status authority. A first-pass baseline is not a complete state survey.

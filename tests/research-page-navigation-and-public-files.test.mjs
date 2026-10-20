@@ -40,6 +40,7 @@ test('deployment excludes internal research controls but includes linked public 
     'research/religion-law/us-states/indiana.md',
     'research/religion-law/us-states/wyoming.md',
     'research/religion-law/records/us-state-starter.json',
+    'research/religion-law/records/pending-causation/us-tx-penal-21-06.json',
     'research/religion-law/context/us-state-context.json',
     'research/religion-law/us-constitutional-federal.md',
     'research/gender-over-time/index.md',
