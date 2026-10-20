@@ -1,8 +1,8 @@
 {
-  "version": 6,
+  "version": 7,
   "updated": "2026-10-20",
   "method": "Working scope: direct or explicit fulfillment claims in the New Testament; concrete time/place predictions and conditional threats in the Hebrew Bible and New Testament; messianic proof texts and apocalyptic prediction claims. List source and later use separately. Other echo-only candidates are included only when a specific later claim is identified. Entries in pending groups are candidate discovery leads, not vetted/complete research. The number shown is the number of tracked claims in this working inventory, not an objective total of all biblical prophecies.",
-  "scope_notes": "Non-exhaustive working seed: ten Matthew formula quotations plus 50 further loci, 29 with dedicated studies, two linked to earlier cases, 19 remaining pending/partial. All 11 tracked historical-oracle loci now have research records.",
+  "scope_notes": "Non-exhaustive fifty-locus supplemental queue beyond ten Matthew formulas: 35 have dedicated research records, two linked to earlier cases, and 13 remain pending/partially related. All six Daniel loci are researched but require full critical text/source review.",
   "matthew_formula_ten": [
     {
       "group": "matthew_formula_ten",
@@ -384,48 +384,54 @@
       "claim_locus": "Daniel 2:31–45",
       "earlier_source": "Statue and four kingdoms",
       "question": "Kingdom succession and divine kingdom",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "daniel-2-four-kingdoms"
     },
     {
       "group": "apocalyptic",
       "claim_locus": "Daniel 7:1–27",
       "earlier_source": "Four beasts / son of man",
       "question": "Kingdom sequence and heavenly dominion",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "daniel-7-beasts-son-of-man"
     },
     {
       "group": "apocalyptic",
       "claim_locus": "Daniel 8:1–27",
       "earlier_source": "Ram/goat and little horn",
       "question": "Medo-Persian/Greek-era visions; historical dating",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "daniel-8-ram-goat-2300"
     },
     {
       "group": "apocalyptic",
       "claim_locus": "Daniel 9:24–27",
       "earlier_source": "Seventy weeks",
       "question": "Anointed one, city and sanctuary",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "daniel-9-seventy-weeks"
     },
     {
       "group": "apocalyptic",
       "claim_locus": "Daniel 11:2–45",
       "earlier_source": "Kings of north and south",
       "question": "Historical correspondences and prediction horizon",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "daniel-11-kings-end"
     },
     {
       "group": "apocalyptic",
       "claim_locus": "Daniel 12:1–13",
       "earlier_source": "Resurrection and time periods",
       "question": "Resurrection and numerical intervals",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "daniel-12-resurrection-days"
     },
     {
       "group": "apocalyptic",
