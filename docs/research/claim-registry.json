@@ -4647,8 +4647,8 @@
     "claim_id": "IL-HIPBLAME-001",
     "claim_text": "In §1, the author criticizes practitioners who take credit when a patient recovers but invoke the gods as an explanation if the patient dies.",
     "claim_type": "direct_textual",
-    "status": "needs_qualification",
-    "confidence": "medium",
+    "status": "verified_with_qualification",
+    "confidence": "high",
     "last_verified": "2026-10-20",
     "reviewer": "Internal assistant source check; external independent review pending",
     "public_locations": [
@@ -4659,12 +4659,16 @@
     ],
     "primary_sources": [
       {
-        "source": "Hippocratic corpus, On the Sacred Disease, trans. Francis Adams",
-        "locator": "§1 https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0627.tlg027.perseus-eng2/"
+        "source": "Hippocratic Corpus, *On the Sacred Disease* §1, anonymous work; Francis Adams English translation",
+        "locator": "Perseus De morbo sacro §1, paragraph beginning 'All these they enjoin': https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0627.tlg027.perseus-eng2/"
+      },
+      {
+        "source": "MIT Classics Archive, *On the Sacred Disease*, Francis Adams translation (same underlying translation, not independent)",
+        "locator": "§1, paragraph beginning 'All these they enjoin': https://classics.mit.edu/Hippocrates/sacred.html"
       }
     ],
     "secondary_sources": [],
-    "notes": "Staged source draft; not on public site. A polemical claim within one ancient text; not established frequency of such practice. Pre-review 2026-10-20 (internal, not independent): The credit-on-recovery / gods-on-death sentence could not be retrieved in any translation; related passages (divinity as 'a pretext and screen'; symptoms assigned to particular gods) were confirmed via search results. Downgraded from verified until the exact §1 sentence is quoted with a locator."
+    "notes": "Internal direct-text verification 2026-10-20: Francis Adams's English translation of the anonymous Hippocratic treatise *On the Sacred Disease*, §1, states that healers anticipate taking honor and credit if the patient recovers, while if the patient dies they can argue the gods, not themselves, are to blame. Confirmed in Perseus, De morbo sacro §1, and the MIT Classics Archive copy of the same Adams translation. Passage wording includes: 'if the person should recover, theirs would be the honor and credit' and 'as if the gods, and not they, were to blame'. Context is a polemical criticism of practitioners; it does not establish how prevalent the behavior was in antiquity. The phrase 'credit if they recover, gods if they die' is a paraphrase and cannot be presented as a verbatim quotation. The authorship of the treatise is not securely established as Hippocrates personally. This is an internal English-translation source check, not verification of the Greek critical text or independent specialist review."
   },
   {
     "claim_id": "IL-MESMED-001",
