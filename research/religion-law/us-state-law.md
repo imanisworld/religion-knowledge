@@ -1,6 +1,6 @@
 # U.S. State-Law Module
 
-**Status:** Research queue. Do not use a state-level generalization as a national conclusion.
+**Status:** Partial coverage — 50 first-pass profiles, 8 expanded; see `us-states/index.md` for per-state status. Do not use a state-level generalization as a national conclusion.
 
 ## Required fields for every state record
 

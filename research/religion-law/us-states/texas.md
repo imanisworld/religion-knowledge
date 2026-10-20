@@ -1,7 +1,7 @@
 # Texas — Religion & Law Profile
 
-**Research status:** Expanded anchor profile verified; §21.06 enactment-specific causation remains open  
-**Last verified:** 2026-09-27  
+**Research status:** Expanded anchor profile verified; §21.06 enactment history reviewed (gap closed 2026-10-20)  
+**Last verified:** 2026-10-20 (§21.06 history); 2026-09-27 (all other sections)  
 **Confidence:** High for current constitutional/statutory text, RFRA, and *Lawrence*; medium for historical causation of the 1973 same-sex-only offense
 
 ## Constitutional provisions
@@ -80,9 +80,13 @@ Texas Penal Code §21.06 criminalized specified same-sex sexual conduct.
 The broader American sodomy-law tradition has documented religious and moral-history roots, but the project distinguishes that long history from the **specific 1973 Texas decision** to create a same-sex-only offense while liberalizing treatment of opposite-sex conduct.
 
 - **What is established:** *Lawrence* itself noted that earlier American sodomy laws generally were not directed at homosexuals as a distinct class.
-- **What is not yet established:** A state-specific documentary transmission channel showing that identifiable religious organizations or religious arguments caused the 1973 Texas same-sex-only formulation.
-- **Causation assessment:** **Broader tradition = mixed religious and secular moral influence; specific 1973 framing = unresolved.**
-- **Confidence:** Medium for the broad history; low-to-medium for any stronger Texas-specific causal claim pending legislative records.
+- **Enactment channel:** The 1973 Penal Code (S.B. 34, 63rd Legislature) grew out of a State Bar of Texas revision committee formed in 1965 and chaired by Page Keeton, which used the Model Penal Code as its foundation ([Texas Legislative Reference Library timeline](https://lrl.texas.gov/collections/PenalCodeTimeline.cfm)). Groups from the State Bar, the Texas District and County Attorneys Association, and the Texas Criminal Defense Lawyers Association reached agreement on language all could support ([LRL legislative trail](https://lrl.texas.gov/collections/PenalCodeTrail.cfm)).
+- **The departure from the MPC:** The MPC decriminalized consensual adult sodomy. Texas, like several other states, adopted the revision while keeping a same-sex-only offense ([AMA Journal of Ethics, 2014](https://journalofethics.ama-assn.org/article/decriminalization-sodomy-united-states/2014-11)). The located record shows this as a decision kept inside the professional negotiation.
+- **Religious advocacy:** No identifiable religious organization or religious testimony was found in the located 1973 enactment record. The national literature reports religious protest against decriminalization generally, not a Texas-specific channel.
+- **Textual lineage:** The 1973 definition narrows part of the gender-neutral 1943 Texas sodomy statute ([Ross, UTEP MA thesis, 2016](https://scholarworks.utep.edu/cgi/viewcontent.cgi?article=1741&context=open_etd), an unpublished thesis that is not peer-reviewed). “Sodomy” itself is a religiously rooted term, which makes the inheritance real but remote.
+- **Archival limit:** The introduced version and the Senate committee report of S.B. 34 are missing from the bill file (LRL trail), so religious testimony cannot be ruled out entirely. This is a permanent limit of the record, not an open research task.
+- **Causation assessment:** **Mixed / predominantly secular (structural religious inheritance).** The documented mechanism is legal-professional codification and compromise against a deep background of religious-origin sodomy terminology. Structured record: `US-TX-PENAL-21-06` (category E, medium confidence). Full analysis: `../gap-closure/texas-2106-enactment-history.md`.
+- **Confidence:** Medium.
 
 ## Landmark cases
 
@@ -95,11 +99,14 @@ The broader American sodomy-law tradition has documented religious and moral-his
 - Texas Civil Practice & Remedies Code ch. 110: https://statutes.capitol.texas.gov/Docs/CP/pdf/CP.110.pdf
 - Texas Penal Code ch. 21, including §21.06 and the official unconstitutional note: https://statutes.capitol.texas.gov/Docs/PE/pdf/PE.21.pdf
 - *Lawrence v. Texas*, 539 U.S. 558 (2003): https://supreme.justia.com/cases/federal/us/539/558/
+- Texas Legislative Reference Library, Penal Code revision timeline: https://lrl.texas.gov/collections/PenalCodeTimeline.cfm
+- Texas Legislative Reference Library, Penal Code legislative trail: https://lrl.texas.gov/collections/PenalCodeTrail.cfm
+- AMA Journal of Ethics, “Decriminalization of Sodomy in the United States” (2014): https://journalofethics.ama-assn.org/article/decriminalization-sodomy-united-states/2014-11
+- Ross, J. L. (2016), UTEP MA thesis: https://scholarworks.utep.edu/cgi/viewcontent.cgi?article=1741&context=open_etd
 - *Torcaso v. Watkins*, 367 U.S. 488 (1961): https://www.govinfo.gov/content/pkg/USREPORTS-367/pdf/USREPORTS-367-488.pdf
 
 ## Remaining gaps
 
-- 1973 Penal Code revision commission/committee records needed for §21.06 motive and lobbying analysis.
 - Current education/curriculum religion disputes beyond the constitutional baseline.
 - Religious-property tax exemptions.
 - Healthcare and employment conscience provisions outside Chapter 110.

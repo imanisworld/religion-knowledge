@@ -37,7 +37,7 @@ The 1973 code was not a response to a new political moment — it was the conclu
 - **1965:** State Bar of Texas forms the Committee on Revision of the Penal Code. Chair: Page Keeton, Dean, University of Texas School of Law.
 - **1966–1970:** Staff of the Texas Legislative Council and Bar Committee draft chapters, drawing heavily on the **Model Penal Code** (American Law Institute, 1962) and surveying all fifty state codes.
 - **1971:** HB 419 (62nd Leg.) introduced but fails — irreconcilable differences on specific sections; tabled. HCR 184 creates an interim study committee.
-- **1971–1973:** Bar Committee, Texas District and County Attorneys Association (TDCAA), and Texas Criminal Defense Lawyers Association (TCDLA) reach a tripartite consensus on disputed language.
+- **1971–1973:** Bar Committee, Texas District and County Attorneys Association (TDCAA), and Texas Criminal Defense Lawyers Association (TCDLA) reach a tripartite consensus on disputed language (documented on the LRL Penal Code legislative trail, https://lrl.texas.gov/collections/PenalCodeTrail.cfm; the LRL timeline page does not name TDCAA or TCDLA).
 - **1973:** SB 34/HB 514 enacted.
 
 The driving institutional actors were **professional legal associations** (State Bar, TDCAA, TCDLA), not religious organizations. The LRL timeline confirms this explicitly.
@@ -97,11 +97,13 @@ The UTEP thesis (Ross 2016) establishes the textual lineage directly: the 1973 �
 
 ## Evidence log
 
+Spot-check 2026-10-20: the LRL timeline confirms the 1965 State Bar committee, Page Keeton as chair, the MPC as foundation, HB 419 (1971), HCR 184, and SB 34 (1973). The three-association agreement and the missing introduced/Senate committee versions of SB 34 are on the LRL legislative trail page, not the timeline.
+
 | Source | Type | Exact locator | What it establishes | Causation weight | Verified? |
 |---|---|---|---|---|---|
 | LRL, Penal Code Legislative Trail | Primary/official | https://lrl.texas.gov/collections/PenalCodeTrail.cfm | SB 34/HB 514 bill path; driving actors were State Bar, TDCAA, TCDLA; Senate introduced version and committee report missing | Structural context | ✅ Yes |
 | LRL, Penal Code Revision Timeline | Primary/official | https://lrl.texas.gov/collections/PenalCodeTimeline.cfm | 1965–1973 professional revision process; MPC as foundation; Page Keeton (UT Law Dean) as chair | Structural context | ✅ Yes |
-| Ross, Jecoa L. (2016) UTEP MA thesis | Secondary (peer-reviewed academic) | https://scholarworks.utep.edu/cgi/viewcontent.cgi?article=1741&context=open_etd | Textual lineage of §21.06 from 1943 statute; argument that evolution was "political and historically contingent," not religious-driven; sodomy as religiously rooted term but secularized through criminal law | Deep background / structural | ✅ Yes |
+| Ross, Jecoa L. (2016) UTEP MA thesis | Secondary (unpublished master's thesis; not peer-reviewed) | https://scholarworks.utep.edu/cgi/viewcontent.cgi?article=1741&context=open_etd | Textual lineage of §21.06 from 1943 statute; argument that evolution was "political and historically contingent," not religious-driven; sodomy as religiously rooted term but secularized through criminal law | Deep background / structural | ✅ Yes |
 | AMA Journal of Ethics (2014) | Secondary | https://journalofethics.ama-assn.org/article/decriminalization-sodomy-united-states/2014-11| National pattern: states modifying MPC retained same-sex provisions; religious protests occurred nationally but are not pinned to Texas 1973 specifically | Contextual | ✅ Yes |
 | *Lawrence v. Texas*, 539 U.S. 558 (2003) | Primary/judicial | Kennedy, J., majority opinion | Judicial retrospective characterization of anti-gay laws as arising from "religious and moral condemnation" — not an enactment-history finding | Retrospective framing only | ✅ Yes |
 | Senate bill file for SB 34 | Primary/official | LRL (introduced version + committee report) | **MISSING** — archival gap | N/A | ⚠️ Unavailable |

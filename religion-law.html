@@ -129,6 +129,7 @@
   .overview-grid{grid-template-columns:1fr}
   .metric+.metric::before{display:none}
 }
+a{overflow-wrap:anywhere}
 </style>
 <script>
 try{const t=localStorage.getItem('religion-knowledge-theme');if(t==='dark'||t==='light')document.documentElement.dataset.theme=t}catch(e){}
@@ -173,7 +174,6 @@ const ROOT='research/religion-law/';
 const INDEX=ROOT+'us-states/index.md';
 const FEDERAL_RECORDS=ROOT+'records/us-federal-starter.json';
 const STATE_RECORDS=ROOT+'records/us-state-starter.json';
-const MARYLAND_RECORDS=ROOT+'records/us-md-maryland.json';
 const STATE_CONTEXT=ROOT+'context/us-state-context.json';
 const POLICY_DATA=ROOT+'records/policy-influence.json';
 const GLOBAL_DATA=ROOT+'records/global-legal-structure.json';
@@ -225,7 +225,19 @@ const D_FACETS={
   'US-WY-CONST-ARTI-S19':['limits'],
   'US-WY-CONST-ARTVII-S8-S12':['limits'],
   'US-WY-9-29-101-104':['protects'],
-  'md-const-decl-rights-36':['protects']
+  'US-AR-CONST-ART2-S24':['protects','limits'],
+  'US-AR-CONST-ART2-S26':['limits'],
+  'US-AR-16-123-401-RFRA':['protects'],
+  'US-CT-CONST-ART1-S3':['protects'],
+  'US-CT-CONST-ART7':['protects','limits'],
+  'US-CT-GS-52-571B':['protects'],
+  'US-LA-CONST-ARTI-S8':['protects','limits'],
+  'US-LA-RS-13-5231-PRFA':['protects'],
+  'US-MA-CONST-PT1-ART2':['protects'],
+  'US-MA-CONST-ART46-S1':['protects'],
+  'US-MA-CONST-ART46-S2-ART103':['limits'],
+  'US-MA-CONST-ART11-1833':['limits'],
+  'US-MD-DECL-ART36':['protects']
 };
 function dFacetsFor(id){return D_FACETS[id]||[]}
 function relationshipHtml(r){
@@ -309,25 +321,6 @@ function normalizeStructured(list){
       route:sub?'#state='+slugifyPlace(sub):'#doc=federal'
     };
   });
-}
-function normalizeMaryland(profile){
-  const constitutional=(profile.constitutional_provisions||[]).map(r=>({
-    id:r.id,name:r.instrument+' — '+r.article,jurisdiction:profile.jurisdiction_name,
-    subject:'constitutional provision',classification:r.category||'',
-    relationship:(RELATIONSHIPS[r.category]||{}).label||'Unclassified',dFacets:r.category==='D'?dFacetsFor(r.id):[],
-    legalEffect:r.current_text||'',religionConnection:r.category_note||'',
-    otherCauses:'',status:r.enforceability||'',evidence:r.source||'',
-    lastVerified:profile.last_verified||'',route:'#state=maryland'
-  }));
-  const historical=(profile.historical_provisions||[]).map(r=>({
-    id:r.id,name:r.name+(r.year?' ('+r.year+')':''),jurisdiction:profile.jurisdiction_name,
-    subject:'historical provision',classification:r.category||'',
-    relationship:(RELATIONSHIPS[r.category]||{}).label||'Unclassified',dFacets:r.category==='D'?dFacetsFor(r.id):[],
-    legalEffect:r.description||'',religionConnection:r.category_note||'',
-    otherCauses:'',status:r.enforceability||'historical',evidence:r.source||'',
-    lastVerified:profile.last_verified||'',route:'#state=maryland'
-  }));
-  return constitutional.concat(historical);
 }
 function drawNav(filter=''){
   const q=filter.trim().toLowerCase();
@@ -682,13 +675,13 @@ async function route(){
 }
 async function init(){
   try{
-    const data=await Promise.all([getText(INDEX),getJson(FEDERAL_RECORDS),getJson(STATE_RECORDS),getJson(MARYLAND_RECORDS),getJson(STATE_CONTEXT),getJson(POLICY_DATA),getJson(GLOBAL_DATA),getJson(PRACTICE_DATA)]);
+    const data=await Promise.all([getText(INDEX),getJson(FEDERAL_RECORDS),getJson(STATE_RECORDS),getJson(STATE_CONTEXT),getJson(POLICY_DATA),getJson(GLOBAL_DATA),getJson(PRACTICE_DATA)]);
     states=parseIndex(data[0]);
-    records=normalizeStructured(data[1]).concat(normalizeStructured(data[2]),normalizeMaryland(data[3]));
-    stateContexts=Object.fromEntries((data[4]||[]).map(x=>[x.slug,x]));
-    policyRows=data[5]||[];
-    globalRows=data[6]||[];
-    practiceRows=data[7]||[];
+    records=normalizeStructured(data[1]).concat(normalizeStructured(data[2]));
+    stateContexts=Object.fromEntries((data[3]||[]).map(x=>[x.slug,x]));
+    policyRows=data[4]||[];
+    globalRows=data[5]||[];
+    practiceRows=data[6]||[];
     const verified=states.filter(s=>s.verified).length;
     const contextCoded=Object.values(stateContexts).filter(x=>x.coverage_status==='verified_first_pass').length;
     $('#metrics').innerHTML='<span class="metric"><b>'+states.length+'</b> states scaffolded</span><span class="metric"><b>'+verified+'</b> first-pass baselines verified</span><span class="metric"><b>'+records.length+'</b> structured comparison records</span><span class="metric"><b>'+contextCoded+'</b> state context profile coded</span>';

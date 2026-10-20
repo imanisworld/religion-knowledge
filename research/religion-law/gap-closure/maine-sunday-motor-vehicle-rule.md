@@ -40,7 +40,7 @@ The Senate and House records establish that this was a **dealer-requested measur
 
 ### Dealer support
 
-On May 5, 1959, the Senate record states that the Maine Automobile Dealers Association sponsored the bill and that roughly four-fifths of responding dealers supported Sunday closure. On May 6, the House record similarly identifies MADA representatives and records approximately 77% support among dealers responding to the association's questionnaire.
+On May 5, 1959, the Senate record states that the Maine Automobile Dealers Association sponsored the bill and that roughly four-fifths of responding dealers supported Sunday closure (Sen. Dow: “80 per cent voted to close on Sunday”; Sen. Hillman: “better than eighty per cent”). Sen. Dow, opposing, called the bill “discriminatory.” On May 6, the House record similarly identifies MADA representatives and records approximately 77% support among dealers responding to the association's questionnaire.
 
 This directly establishes the organized transmission channel: **the automobile-dealer industry asked the Legislature for the restriction**.
 
@@ -138,7 +138,7 @@ The present §3203 still prohibits specified motor-vehicle transactions on Sunda
 
 ## Primary / controlling sources
 
-- Maine Legislative Record, Senate, May 5, 1959, pp. 1363–1364: https://lldc.mainelegislature.org/Open/LegRec/_99/Senate/LegRec_1959-05-05_SP_p1359-1367.pdf
+- Maine Legislative Record, Senate, May 5, 1959, pp. 1363–1365: https://lldc.mainelegislature.org/Open/LegRec/_99/Senate/LegRec_1959-05-05_SP_p1359-1367.pdf
 - Maine Legislative Record, House, May 6, 1959, pp. 1419–1420: https://lldc.mainelegislature.org/Open/LegRec/_99/House/LegRec_1959-05-06_HP_p1419-1453.pdf
 - *Kittery Motorcycle, Inc. v. Rowe*, 201 F. Supp. 2d 189 (D. Me. 2002): https://law.justia.com/cases/federal/district-courts/FSupp2/201/189/2481731/
 - *State v. Karmil Merchandising Corp.*, 186 A.2d 352 (Me. 1962): https://law.justia.com/cases/maine/supreme-court/1962/186-a-2d-352-0.html
