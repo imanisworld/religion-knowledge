@@ -123,7 +123,7 @@ test('catalog exposes supported motifs, script origin classifications, source li
   assert.match(writing, /Writing system development — research classification/);
   assert.match(writing, /stimulus diffusion/);
   assert.match(writing, /Proposed script ancestry \(under review\)/);
-  assert.match(writing, /Aramaic \(disputed\)/);
+  assert.match(writing, /Aramaic Script \(disputed\)/);
   assert.match(writing, /needs its own evidence check/);
   assert.match(traditions, /Linked sources and their limits/);
   assert.match(traditions, /University of Chicago — Ras Shamra Tablet Inventory/);
