@@ -54,6 +54,16 @@ function links(row) {
   return '<ul class="sources">'+items.map(x=>'<li><a href="'+e(x.url)+'" target="_blank" rel="noopener noreferrer">'+
     e(x.label)+'</a><p>'+e(x.supports)+'</p></li>').join('')+'</ul>';
 }
+function checkedFacts(row) {
+  const known = new Set((row.source_links || []).map(item => item.url));
+  const items = (row.public_profile_facts || []).filter(f => f.statement && f.evidence_scope &&
+    known.has(f.source_url) && /^https:\/\//.test(f.source_url));
+  if (!items.length) return '<p class="missing">A source-specific summary of beliefs and practices has not yet been independently checked for this profile.</p>';
+  return '<ul class="checked-facts">' + items.map(item =>
+    '<li><p>' + e(item.statement) + '</p><p class="subtle">' + e(item.evidence_scope) +
+    '</p><a target="_blank" rel="noopener noreferrer" href="' + e(item.source_url) +
+    '">Open supporting source ↗</a></li>').join('') + '</ul>';
+}
 function similar(row, allIds) {
   const targets = (row.relationships || []).filter(r => allIds.has(r.target_id));
   if (!targets.length) return '';
@@ -94,7 +104,8 @@ function profile(row, ids) {
     '<div><dt>Research labels</dt><dd>'+tags+'</dd></div></dl>'+
     '<p class="subtle">These broad labels are indexing aids. They are not a complete description of community beliefs, practices, or identity.</p></section>'+
     '<section><h3>Beliefs, practices and historical change</h3>'+
-    '<p class="missing">A stand-alone, source-checked summary of ceremonies, beliefs and continuity has not yet been completed for this entry. See the working notes below for what researchers have recorded or questioned.</p>'+
+    checkedFacts(row)+
+    '<p class="subtle">These are limited findings from cited source descriptions. A full source-checked account of ceremonies and continuity remains in the research queue.</p>'+
     '<details class="working-notes"><summary>Read working research notes</summary>'+notes(row)+'</details></section>'+
     '<section><h3>Sources and verification</h3>'+links(row)+
     '<p class="subtle">Links verify only the specific evidence described alongside them. Historical interpretation and claims about influence still require passage-level checks.</p></section>'+
