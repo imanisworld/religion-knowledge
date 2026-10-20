@@ -7,8 +7,8 @@ test('public catalog includes existing research collections and source links', (
   for (const id of ['deities','traditions','cultures','narratives','writing_systems','people']) {
     assert.match(html, new RegExp('id="'+id+'"'));
   }
-  for (const text of ['Research inventory · incomplete','Linked-claim counts describe review status',
-    'Empty or missing entries do not establish','Research record','Cited Persons']) {
+  for (const text of ['This research is still being checked.','What do the evidence labels mean?',
+    'checked in research','View research file','Cited Persons','Find a name, place, or topic']) {
     assert.ok(html.includes(text), 'Missing contextual wording: '+text);
   }
   const expected = [
@@ -25,4 +25,8 @@ test('public catalog includes existing research collections and source links', (
   assert.equal(html.includes('<a href="app/">App</a>'), false);
   assert.match(html, /<meta name="viewport"/);
   assert.match(html, /overflow-x:auto/);
+  assert.match(html, /<details id="deities" class="group" open>/);
+  assert.match(html, /<details id="people" class="group">/);
+  assert.match(html, /id="matchCount" aria-live="polite"/);
+  assert.match(html, /matching entries/);
 });
