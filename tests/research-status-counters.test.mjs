@@ -40,6 +40,7 @@ test('Religion & Law progress counts reflect structured records', () => {
 
 test('public Cited Persons audit leads describe uncertainty before promoting claims', () => {
   const html = readFileSync('cited-persons.html','utf8');
+  assert.ok(html.includes('Source review is still in progress.'), 'Public index needs an accessible source warning');
   const indexed = JSON.parse(readFileSync('search-index.json','utf8'));
   const guards = [
     ['person-archer-gleason', 'does not independently verify'],
