@@ -6,9 +6,9 @@ Instructions for Claude Code working in this repo. Read this before touching any
 
 A long-running critical study of the Bible and religious belief systems, approached historically and analytically rather than devotionally. The research corpus has nine cross-linked Markdown/reference-reader pairs. Eight canonical sources feed the app dataset; `Cited_Persons.md` is intentionally excluded while its entries remain under review.
 
-The owner is not a scholar and does not want to be talked down to. Responses should be dense, direct, and free of hedging. Do not soften findings to be agreeable. The single most valuable thing done in this project so far was auditing prior claims and discovering several were wrong.
+Write for curious readers who may know nothing about the Bible, ancient history, or academic terminology. Use plain language without talking down to anyone. Be direct, preserve necessary uncertainty, and correct errors openly. Do not soften evidence to be agreeable. Past audits uncovered several real mistakes, so factual accuracy takes priority over confident-sounding prose.
 
-**Current phase: consolidation.** The whole-document Markdown-to-reader generator now exists and is CI-gated, but 200 Cited Persons entries remain unresolved. Do not add major new research sections until that verification queue and the control-layer debt are materially reduced. Corrections, source audits, reader synchronization, and control-layer work are allowed.
+**Current phase: consolidation.** The whole-document Markdown-to-reader generator now exists and is CI-gated, but 171 Cited Persons entries remained unresolved at the October 2026 control count. Do not add major new research sections until that verification queue and the control-layer debt are materially reduced. Corrections, source audits, reader synchronization, and control-layer work are allowed.
 
 ## Repo structure
 
@@ -167,9 +167,21 @@ Also pending from an earlier session: a Deuteronomy review.
 - Assuming the "safer" correction is safer. Translating Ioudaioi as "Judeans" looked like a sharpening. Reinhartz and Levine argue against it, and it has been weaponised in a worse direction than the original.
 - Citing unverified recall. Two claims were written from memory and flagged as unverified. One was later checked and turned out stronger than written; the other collapsed. Search first.
 
-## Tone
+## Public-facing writing and readability
 
-Dense and factual. No rhetorical scaffolding, no walking the reader up to conclusions gradually, no reassurance. Label opinion as opinion. Distinguish documented scholarship from inference every single time. If a finding is inconvenient to the project's direction, say so plainly — that is the whole value of the method.
+**Write so a reader unfamiliar with religion or history can understand the page.** Accurate research and plain English should coexist.
+
+- Begin each page or section with the answer or a brief explanation of what the reader will learn. Use ordinary headings that name the subject.
+- Prefer short, straightforward sentences. Explain specialized words the first time they appear (e.g., *monolatry*: worship of one god while recognizing others); retain original Hebrew/Greek and academic terminology where they matter to the evidence.
+- Let readers see the essential fact, place, date, and significance first. Keep citations, interpretation, counterarguments, manuscript variants, and research-method detail available in a clearly marked second layer.
+- Use a short introduction and clear column headings for comparison tables. Show units, regions, dating uncertainty and what each row represents. Large tables must work on a phone, with visible side-scroll guidance and accessible heading cells. Avoid dumping hundreds of rows without navigation, search or expandable sections.
+- Use natural language: remove formulaic constructions such as **"it's not X, it's Y," "not just X," "more than just," "this isn't merely,"** and generic sales-style/AI-style grand conclusions. Rewrite them as positive, specific statements. Preserve quoted language, faithfully attributed positions, and analytical contrasts needed for accuracy.
+- Do not pad pages with repeated warnings or slogans. Give a concise explanation of evidence status and point to fuller methods when the reader needs them. Explain terms like `claim`, `verified`, `publication`, `tradition` in context rather than expecting readers to know the internal database.
+- Avoid over-designed cards, badges, controls, and decorative callouts. Choose a usable navigation flow, legible text, appropriate contrast and sufficient spacing.
+- Keep distinctions between evidence, inference, faith claims, and unresolved points explicit. Never simplify away a source limitation or imply that a research check equals independent validation.
+- A new public page should pass a **reader test**: Can someone explain what the page is about and how to use it within 15 seconds? Can someone find a specific person, culture, deity or religion on a phone? Are the links understandable? If not, simplify before publishing.
+
+For internal audits, retain precise citations, scholarly positions and direct conclusions. Label opinion as opinion. If the best-supported finding conflicts with previous project claims, correct it openly.
 
 ---
 
