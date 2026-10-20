@@ -92,6 +92,9 @@ jobs:
       - name: Render app in phone-sized Chromium
         run: bash scripts/test-browser.sh
 
+      - name: Check nonempty reader topics in laptop and phone Chromium
+        run: bash scripts/test-reader-navigation.sh
+
       - name: Validate generated comparison catalog and its evidence graph
         run: |
           npm run validate:timeline
