@@ -4,7 +4,7 @@
 **Repo:** `imanisworld/religion-knowledge`  
 **Research branch:** `research/prophecy-evidence-20261020`  
 **Open PR:** [#202](https://github.com/imanisworld/religion-knowledge/pull/202)  
-**Release rule:** The owner accepted publication of the bounded 65-case edition with its unresolved source limitations clearly disclosed and waived outside specialist review for this edition. Keep the PR open until the consolidation freeze is addressed, latest-main integration and CI pass, and explicit merge/deploy approval is recorded. Wider discovery and critical-edition/source checks remain open follow-up research.
+**Release rule:** The owner approved proceeding toward publication of the bounded 65-case edition with its unresolved source limitations disclosed and waived outside specialist review for this edition. Keep the PR open until the consolidation freeze is addressed, latest-main integration and CI pass, and explicit merge/deploy approval is recorded. Wider discovery and critical-edition/source checks remain open follow-up research.
 
 ## Counts and meaning
 
