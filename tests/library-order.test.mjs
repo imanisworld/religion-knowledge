@@ -5,7 +5,7 @@ import { readFileSync } from 'node:fs';
 const html = readFileSync('dist/reader-site/index.html', 'utf8');
 const groupOrder = ['explore-title', 'topics-title', 'bible-title', 'evidence-title', 'personal-title'];
 const linksByGroup = new Map([
-  ['explore-title', ['catalog.html','comparisons.html','search.html']],
+  ['explore-title', ['catalog.html','traditions.html','comparisons.html','search.html']],
   ['topics-title', ['history.html','religion-law.html','gender-over-time.html','patterns-synthesis.html']],
   ['bible-title', ['translations.html','translation-evidence.html','prophecy-audit.html','master-notes.html','field-guide.html','other-side.html']],
   ['evidence-title', ['sources.html','cited-persons.html','method-reference.html','glossary.html']],
@@ -31,9 +31,10 @@ test('the public navigation is consistently ordered', () => {
 
 test('every homepage reading and discovery entry is linked exactly once', () => {
   const links = [...html.matchAll(/<a class="card" href="([^"]+)">/g)].map(m=>m[1]);
-  assert.equal(links.length, 18);
+  assert.equal(links.length, 19);
   assert.equal(new Set(links).size, links.length);
   assert.ok(html.includes('href="catalog.html"'));
+  assert.ok(html.includes('href="traditions.html"'));
   assert.ok(html.includes('href="comparisons.html"'));
 });
 
