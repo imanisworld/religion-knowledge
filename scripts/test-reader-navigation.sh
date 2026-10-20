@@ -25,7 +25,7 @@ setTimeout(() => {
     const select = document.querySelector('#reader-section-select');
     const about = document.querySelector('.reader-about');
     const documentPicker = document.querySelector('#document-switcher');
-    const compactNavOk = documentPicker?.options.length === 11 &&
+    const compactNavOk = documentPicker?.options.length === 12 &&
       !document.querySelector('.docswitch');
     const active = chapters.filter(x => !x.hidden);
     const blanks = chapters.filter(section => ![...section.children]
@@ -137,7 +137,7 @@ setTimeout(() => {
     const oneAtATime = chapters.length >= 20 &&
       chapters.filter(s => !s.hidden).length === 1 &&
       select?.options.length === chapters.length &&
-      picker?.options.length === 11;
+      picker?.options.length === 12;
     document.querySelector('.person-letter-nav .reader-next')?.click();
     const nextWorks = select?.value === '1' &&
       chapters.filter(s => !s.hidden).length === 1;
