@@ -1,8 +1,8 @@
 {
   "title": "Biblical Prophecy Evidence",
-  "version": 5,
+  "version": 6,
   "checked": "2026-10-20",
-  "scope": "35 source-linked cases across six batches; 11 initially internally reviewed; 24 still need claim-by-claim review. Full independent audit delayed until inventory complete.",
+  "scope": "41 source-located claims in 7 batches, 11 originally internally reviewed and 30 later cases requiring full claim-level internal audit. Six historical-oracle claims newly researched; independent specialist review remains deferred.",
   "status": "starter_checked",
   "method": "Do not treat a later narrative quoting an earlier passage as independent proof that the event happened. Record composition/redaction dating separately from the story's setting; a date is 'undetermined' if uncertain. Do not equate resemblance with historical causation. Do not call a retrospective lament or Exodus memory a failed forward prediction; do not automatically label a partial fulfillment as complete. A conditional warning must be assessed as a warning. Distinguish lexical variants from theological interpretations and from historical evidence. No binary overall truth-score.",
   "records": [
@@ -1102,6 +1102,212 @@
           "https://journals.co.za/doi/10.10520/EJC83141"
         ]
       ]
+    },
+    {
+      "id": "cyrus-isaiah-44-45",
+      "label": "Cyrus named as God's shepherd and anointed",
+      "earlier": "Isaiah 44:24–45:7 (especially 44:28; 45:1)",
+      "later": "Cyrus II's capture of Babylon in 539 BCE and Persian-era restoration",
+      "kind": "Named royal oracle; dating of Isaiah 40–55 is decisive",
+      "original": "לְכוֹרֶשׁ רֹעִי ('of Cyrus: my shepherd'); לִמְשִׁיחוֹ לְכוֹרֶשׁ ('to his anointed, to Cyrus')",
+      "setting": "Isaiah 40–55 addresses an audience for whom exile and Babylonian domination are live concerns and Cyrus is an agent of deliverance. Most historical-critical scholars date this material to the mid-sixth century BCE, distinct from Isaiah ben Amoz's eighth-century setting; traditional single-author interpreters hold that Cyrus was predicted by name much earlier. The text's composition history determines the advance-prediction question.",
+      "laterUse": "Cyrus conquered Babylon in 539 BCE and Persia subsequently sponsored restoration in its territories. Isaiah applies a divine commission to Cyrus, even using 'anointed', a title not reserved here for a Judean king.",
+      "relationship": "Named ruler and attested conquest, with contested composition chronology. The Cyrus Cylinder describes his conquest and temple-restoration ideology in Babylonia; it does not name Judeans or verify Isaiah's particular Jerusalem/temple claims.",
+      "evidence": "The British Museum and Getty independently date Cyrus's capture of Babylon to 539 BCE. These sources corroborate his historical role, not that an eighth-century manuscript contained his name or that the Judean prophecy was fulfilled by supernatural foreknowledge. The critical exilic dating is itself an evidence-based historical interpretation and should not be asserted as mathematical certainty.",
+      "sourceStatus": "Cyrus and conquest confirmed; how long before the event this oracle was composed is debated",
+      "refs": [
+        [
+          "Hebrew Isaiah 44:28",
+          "https://biblehub.com/text/isaiah/44-28.htm"
+        ],
+        [
+          "Hebrew Isaiah 45:1",
+          "https://biblehub.com/text/isaiah/45-1.htm"
+        ],
+        [
+          "British Museum: original Cyrus Cylinder",
+          "https://www.britishmuseum.org/collection/object/W_1880-0617-1941"
+        ],
+        [
+          "Getty: Cyrus Cylinder and ancient Persia",
+          "https://www.getty.edu/art/exhibitions/cyrus_cylinder/"
+        ],
+        [
+          "Bible Archaeology Review on Cyrus Cylinder and Isaiah",
+          "https://www.biblicalarchaeology.org/daily/ancient-cultures/the-cyrus-cylinder/"
+        ]
+      ]
+    },
+    {
+      "id": "jeremiah-25-seventy-years",
+      "label": "Seventy years of service to Babylon",
+      "earlier": "Jeremiah 25:8–14 (especially 25:11–12)",
+      "later": "Neo-Babylonian regional rule and Babylon's capture by Cyrus in 539 BCE; 2 Chronicles 36:20–21",
+      "kind": "Time-bounded imperial judgment oracle",
+      "original": "שִׁבְעִים שָׁנָה ('seventy years') of service to the king of Babylon (Jeremiah 25:11)",
+      "setting": "Jeremiah 25 presents Babylon as the instrument of judgment over Judah and surrounding nations, then predicts a reversal after seventy years. This is about imperial domination and desolation, not necessarily each exile's personal period of captivity; the book has multiple textual/editorial layers.",
+      "laterUse": "2 Chronicles 36:20–21 and Daniel 9:2 later interpret the seventy-year tradition with differing emphases on the land, Babylon, and Jerusalem's desolation.",
+      "relationship": "A quantified oracle applied to historical chronology and adapted by later biblical interpreters. Exact start/end choices (e.g., Babylon's ascendancy c. 605 BCE to 539 BCE) do not yield precisely seventy solar years. Other pairings such as 586–516 BCE concern temple destruction/rebuilding and a different subject.",
+      "evidence": "Babylonian hegemony and the 539 BCE Persian capture are externally supported. The length of the seventy years is contested: Ross Winkle (1987) develops a relatively literal chronology, while historical/other commentaries treat the number as rounded or schematic. Do not claim that all chronological interpretations are equally secure.",
+      "sourceStatus": "Imperial history documented; the literal seventy-year calculation is contested",
+      "refs": [
+        [
+          "Hebrew Jeremiah 25:11–12",
+          "https://biblehub.com/text/jeremiah/25-11.htm"
+        ],
+        [
+          "Ross E. Winkle (1987), Jeremiah's Seventy Years Part II",
+          "https://digitalcommons.andrews.edu/auss/vol25/iss3/3/"
+        ],
+        [
+          "Matthew H. Patton, Jeremiah commentary and seventy-year excursus",
+          "https://www.thegospelcoalition.org/commentary/jeremiah/"
+        ],
+        [
+          "Jeremiah 25:12 textual/editorial commentary",
+          "https://biblehub.com/commentaries/jeremiah/25-12.htm"
+        ],
+        [
+          "2 Chronicles 36:20–21",
+          "https://www.biblegateway.com/passage/?search=2+Chronicles+36%3A20-21&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "jeremiah-29-seventy-years",
+      "label": "Seventy years *for* Babylon and a promised return",
+      "earlier": "Jeremiah 29:1–14 (especially 29:10)",
+      "later": "Return and restoration traditions in Ezra 1 and 2 Chronicles 36",
+      "kind": "Exilic letter; disputed preposition and calendar scope",
+      "original": "לְבָבֶל שִׁבְעִים שָׁנָה ('seventy years for Babylon' in a natural Hebrew rendering; alternatives say 'at/in Babylon')",
+      "setting": "The narrative presents a letter addressed to Judeans already deported to Babylonia; it counsels settlement and community life and promises divine attention after seventy years for Babylon. This is a different communicative situation from the oracle in Jeremiah 25.",
+      "laterUse": "Ezra and Chronicles present a return after Persia's conquest and incorporate the fulfillment of Jeremiah's words; Daniel 9 reflects another interpretation of the seventy years in relation to Jerusalem.",
+      "relationship": "Related to but separately evaluated from Jeremiah 25: 'for Babylon' can concern the duration of Babylonian supremacy, rather than mandating seventy years of imprisonment for every deportee. The dating of the letter and its editorial transmission remain disputed.",
+      "evidence": "Deportations, Persian conquest, and restoration-era return are historically grounded at a broad level. The chronological calculation and whose years are counted are debated. A 2018 peer-reviewed study explores why 586–516 BCE (destruction and rebuilding of the temple) became a later inner-biblical way to account for the number; that choice should not be retrojected into Jeremiah's original letter without qualification.",
+      "sourceStatus": "Exilic context and later reception documented; precise seventy-year fulfillment disputed",
+      "refs": [
+        [
+          "Hebrew Jeremiah 29:10",
+          "https://biblehub.com/text/jeremiah/29-10.htm"
+        ],
+        [
+          "Ross E. Winkle (1987) historical data",
+          "https://digitalcommons.andrews.edu/auss/vol25/iss3/3/"
+        ],
+        [
+          "2018 Korean Biblical Studies article (English abstract): seventy years in Jeremiah",
+          "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002397285"
+        ],
+        [
+          "Jeremiah 29 textual/historical commentary",
+          "https://bible.org/seriespage/jeremiah-29"
+        ],
+        [
+          "Ezra 1:1–4",
+          "https://www.biblegateway.com/passage/?search=Ezra+1%3A1-4&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "ezekiel-26-tyre",
+      "label": "Tyre destroyed and never rebuilt?",
+      "earlier": "Ezekiel 26:1–21 and 29:17–21",
+      "later": "Nebuchadnezzar II's campaign against Tyre and Alexander's conquest in 332 BCE",
+      "kind": "Oracles against a nation; multiple agents and later historical test",
+      "original": "וְלֹא תִבָּנֶה עוֹד ('you shall not be rebuilt again', Ezekiel 26:14)",
+      "setting": "An oracle announces waves of nations against Tyre, a major Phoenician port with mainland and island settlements. It names Nebuchadnezzar in 26:7–11, predicts desolation, and states Tyre will not be rebuilt. Ezekiel 29:18 later acknowledges Nebuchadnezzar's labor against Tyre without receiving an adequate reward.",
+      "laterUse": "Nebuchadnezzar did campaign against Tyre; the precise outcome and duration are debated. Alexander captured the island city in 332 BCE. Some apologetic readings distribute 26:3–6 to many nations and 26:7–11 to Babylon, then appeal to Alexander for a later phase.",
+      "relationship": "Test who is the predicted agent in each verse; separate mainland from island and the history of an ancient urban site from the continuous modern city. A later conqueror does not retroactively satisfy every explicit Nebuchadnezzar clause. Ezekiel's own later statement in 29:18 is part of the primary textual evidence.",
+      "evidence": "PThU biblical scholar's 2024 discussion argues that Ezekiel 26's envisioned outcome was not fully realized under Nebuchadnezzar and that appealing to Alexander changes the claim. Conservative archaeological defense disputes this and distinguishes land from island. The extant city and later occupations are incompatible with a literal claim that the entire location was never again inhabited; the exact sense of 'never rebuilt' and the original oracle's redaction are debated.",
+      "sourceStatus": "Attack and later conquest historically attested; complete literal permanent destruction not established",
+      "refs": [
+        [
+          "Hebrew Ezekiel 26:14",
+          "https://biblehub.com/text/ezekiel/26-14.htm"
+        ],
+        [
+          "Ezekiel 29:17–21 (Nebuchadnezzar's labor)",
+          "https://www.biblegateway.com/passage/?search=Ezekiel+29%3A17-21&version=NRSVUE"
+        ],
+        [
+          "Protestant Theological University (2024), When prophecy doesn't come true",
+          "https://www.pthu.nl/en/bibleblog/2024/10/when-prophecy-doesnt-come-true/"
+        ],
+        [
+          "Associates for Biblical Research (2009), defensive reading",
+          "https://biblearchaeology.org/research-articles/ezekiel-26114-a-proof-text-for-inerrancy-or-fallibility-of-the-old-testament/"
+        ],
+        [
+          "Ancient Tyre history and siege review",
+          "https://www.britannica.com/place/Tyre-Lebanon"
+        ]
+      ]
+    },
+    {
+      "id": "isaiah-13-babylon-medes",
+      "label": "The Medes and Babylon's desolation",
+      "earlier": "Isaiah 13:1–22",
+      "later": "Fall of Babylon in 539 BCE and its later gradual changes",
+      "kind": "Imperial judgment oracle; composition date and imagery disputed",
+      "original": "הִנְנִי מֵעִיר עֲלֵיהֶם אֶת־מָדָי ('I am stirring up the Medes against them', Isaiah 13:17)",
+      "setting": "Isaiah 13 depicts Babylon as a ruling empire threatened by the Medes; the context presupposes Babylonian rather than eighth-century Assyrian hegemony. Many scholars therefore situate this section in a later exilic setting, although the precise date and original literary layers are contested.",
+      "laterUse": "Cyrus's Persian-led army entered Babylon in 539 BCE, after the Persians had absorbed Median power. Babylon did not become uninhabited immediately; over time its city and political status changed.",
+      "relationship": "Distinguish 'Medes' as a historical coalition/ethnic label from identifying Cyrus's victory as exclusively Median; separate the oracle's violent destruction language from the relatively limited fighting at Babylon's capture in 539 BCE.",
+      "evidence": "The historical Babylonian/Persian takeover is independently documented; some prophecy details resemble broad judgment rhetoric and cannot be matched one-for-one to 539. Critical commentary dates this poem based on its depiction of Babylon as dominant, not simply because a literal prediction would be deemed impossible.",
+      "sourceStatus": "Babylon's fall documented; identity of attackers and permanent-destruction imagery require qualification",
+      "refs": [
+        [
+          "Hebrew Isaiah 13:17",
+          "https://biblehub.com/text/isaiah/13-17.htm"
+        ],
+        [
+          "Cambridge commentary on Isaiah 13 and later composition",
+          "https://biblehub.com/commentaries/cambridge/isaiah/13.htm"
+        ],
+        [
+          "British Museum: Cyrus Cylinder",
+          "https://www.britishmuseum.org/collection/object/W_1880-0617-1941"
+        ],
+        [
+          "Getty Museum: Cyrus's conquest in 539 BCE",
+          "https://www.getty.edu/art/exhibitions/cyrus_cylinder/"
+        ]
+      ]
+    },
+    {
+      "id": "nahum-nineveh-fall",
+      "label": "Nineveh destroyed in 612 BCE",
+      "earlier": "Nahum 1–3 (especially 2:1–13 and 3:8–10)",
+      "later": "Fall of Nineveh in 612 BCE; Babylonian Chronicle ABC 3",
+      "kind": "Judgment oracle with independent ancient chronicle",
+      "original": "מַשָּׂא נִינְוֵה ('oracle concerning Nineveh', Nahum 1:1)",
+      "setting": "Nahum condemns Assyrian Nineveh and envisages its defeat. Nahum 3:8 points back to the sack of Thebes (663 BCE). Scholars debate whether individual poems were composed before or around Nineveh's 612 BCE fall and when their final literary form was fixed.",
+      "laterUse": "The Fall of Nineveh Chronicle (BM 21901, ABC 3) describes the Babylonians and Medes besieging and capturing Nineveh in 612 BCE. This is external evidence for the outcome, rather than for the date of Nahum's oracle.",
+      "relationship": "A rare case with strong independent corroboration of the named city's destruction. The evidence for an advance prediction depends on demonstrating that the relevant parts of Nahum existed before 612 BCE rather than being revised at or after the event.",
+      "evidence": "The British Museum identifies tablet BM 21901 as the historical chronicle of events in 616–609 BCE, and the Livius translation of ABC 3 reports a three-month siege and destruction. It confirms Nineveh's fall, but cannot by itself date Nahum's earliest literary layer, validate supernatural causation, or confirm every dramatic poetic image.",
+      "sourceStatus": "Historical event strongly corroborated; date of prophecy's composition and precise foresight less secure",
+      "refs": [
+        [
+          "Hebrew Nahum 1:1",
+          "https://biblehub.com/text/nahum/1-1.htm"
+        ],
+        [
+          "Nahum 2–3",
+          "https://www.biblegateway.com/passage/?search=Nahum+2-3&version=NRSVUE"
+        ],
+        [
+          "British Museum: tablet BM 21901",
+          "https://www.britishmuseum.org/collection/object/W_1896-0409-6"
+        ],
+        [
+          "Livius: Fall of Nineveh Chronicle (ABC 3)",
+          "https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-3-fall-of-nineveh-chronicle/"
+        ],
+        [
+          "Enter the Bible (Luther Seminary): Nahum summary",
+          "https://enterthebible.org/courses/nahum/lessons/summary-of-nahum/"
+        ]
+      ]
     }
   ],
   "review": {
@@ -1187,6 +1393,19 @@
         "hebrews-1-5-royal-son"
       ],
       "status": "source_spot_checked_full_review_pending"
+    },
+    {
+      "id": "batch-7",
+      "label": "Historical oracles: Cyrus, 70 years, Tyre, Babylon and Nineveh",
+      "case_ids": [
+        "cyrus-isaiah-44-45",
+        "jeremiah-25-seventy-years",
+        "jeremiah-29-seventy-years",
+        "ezekiel-26-tyre",
+        "isaiah-13-babylon-medes",
+        "nahum-nineveh-fall"
+      ],
+      "status": "source_located_full_review_pending"
     }
   ]
 }
