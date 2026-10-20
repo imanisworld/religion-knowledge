@@ -16,7 +16,7 @@
 - **Counts:** `main` had 126 claim records at branch-off; PR #213 has 139. Other open research PRs (especially #212) may change the baseline, so **do not add these branch records to the main count** without reconciliation.
 - **Checks:** Research Governance and Religion Corpus GitHub workflows **passed** on the audited draft commit (runs #225 and #535; registry Node validation, corpus tests, reader/search sync, mobile Chromium). **Not done:** Independent claim review, full Greek/Hebrew lexical and paywalled-chapter verification, and public reader/search integration.
 - **Publication gate:** Under consolidation freeze. **Not merged, not deployed, not public in Library/Search.** Do not merge or register the module until external review, claim-registry reconciliation, required tests, and authorization.
-- **Next:** Obtain independent claim-by-claim review and record corrections on the same draft branch.
+- **Next:** [Review brief prepared](research/illness-explanations/REVIEW.md). Obtain independent claim-by-claim review and record corrections on the same draft branch. No independent review completed yet.
 
 ---
 
