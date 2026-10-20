@@ -1,3 +1,20 @@
+## Batch 11 — Revelation and remaining NT reuse claims (October 20, 2026)
+
+All six remaining candidates in the bounded fifty-locus seed now have case-specific studies. This is **source-located research, not a completed independent academic review**.
+
+| Case | Research evidence | Review still required |
+|---|---|---|
+| Revelation 1/22 | [USCCB](https://bible.usccb.org/bible/revelation/1) identifies seven first-century Asian churches; prologue and epilogue use Greek `en tachei` (soon) and `engys` (near). | First-century vs still-future referents and whether the entire cosmic completion is promised soon |
+| Revelation 13 | [USCCB](https://bible.usccb.org/bible/revelation/13) supports Roman/Nero background; ancient 666/616 readings. [Max Nelson 2025](https://doi.org/10.1093/jts/flaf015) argues an alternative Claudian reading. | Critical manuscripts including P115, gematria/transliterations, imperial-cult history and minority interpretations |
+| Revelation 20–21 | [USCCB](https://bible.usccb.org/bible/revelation/20) presents a symbolic millennium; [Revelation 21](https://bible.usccb.org/bible/revelation/21) reuses earlier Isaiah and Ezekiel imagery. | Premillennial, amillennial, postmillennial differences; no independent verification of universal abolition of death |
+| Mark 1:2–3 | [NET critical notes](https://classic.net.bible.org/passage.php?passage=Mar+1%3A2-3) identify composite Exod 23/Mal 3/Isa 40 and early 'Isaiah' vs later 'prophets' textual variants. | Manuscript evidence, original referents, and the literary convention of naming the dominant prophet |
+| John 19:24 | [USCCB](https://bible.usccb.org/bible/john/19) notes that John turns the two parallel lines of Psalm 22 into separate garment actions. | Hebrew/Greek psalm verse numbering and shared tradition vs independent physical evidence |
+| Acts 8:32–35 | [USCCB](https://bible.usccb.org/bible/acts/8) identifies the servant text and explicit question of identity; [Hebrew/Greek notes](https://biblehub.com/commentaries/acts/8-33.htm) document wording differences. | Septuagint critical forms, Jewish/Christian servant identities and absence of outside evidence for specific dialogue |
+
+**Control:** 65 canonical research cases in 11 batches; 11 initially internally reviewed and 54 needing detailed case checks. The original 50-item supplemental seed has all loci covered (48 targeted plus two earlier case links), but wider discovery and deduplication remain essential before the final independent reviewer receives a declared complete collection.
+
+---
+
 ## Batch 10 — Jesus and Paul’s timing claims (October 20, 2026)
 
 Seven near-horizon New Testament texts are now integrated into the canonical records, research Markdown, HTML reader and Search. This is a **source-location and limited scholarly spot-check**, not a completed full text-critical review or independent assessment of historical Jesus speech.
