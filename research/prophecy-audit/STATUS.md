@@ -4,55 +4,57 @@
 **Repository:** `imanisworld/religion-knowledge`  
 **Research branch:** `research/prophecy-evidence-20261020`  
 **PR:** [#202](https://github.com/imanisworld/religion-knowledge/pull/202)  
-**Release rule:** Remain unmerged until inventory completion, full source verification, and an independent review have been completed.
+**Release rule:** Stay open/unmerged until the inventory is defined and completed, internal accuracy passes, and the requested independent external review is resolved.
 
 ## Source-of-truth counts
 
 | Measure | Count | Meaning |
 |---|---:|---|
-| Canonical source-linked research cases | **52** | The cases in `records.json`, `index.md`, research reader and Search on the PR branch |
-| Research batches | **9** | Batch status and record IDs in `records.json` |
-| Initially internally reviewed | **11** | Earlier assistant review, not outside academic peer review |
-| Later cases requiring full source audit | **41** | Batches 2–9, including source-located and spot-checked records |
-| Matthew's ten classic formula quotations | **10/10** | A bounded source/reception subset, not every possible biblical prophecy |
-| Additional tracked candidate locations | **50** | Seed list only; NOT an exhaustive count of biblical prophecies |
-| Candidate locations with dedicated records | **35** | A separate later use can justify a separate record |
-| Candidate locations linked to earlier records | **2** | Already covered by a relevant existing case |
-| Remaining candidate locations pending or partial | **13** | Seven Jesus/Paul imminence passages, three Revelation groupings, three NT quotation follow-ups |
-| Historical oracle seed coverage | **11/11** | Historical seed claims source-located; final audit pending |
-| Daniel vision seed coverage | **6/6** | Daniel 2, 7, 8, 9, 11, 12 researched, with text/dating issues explicit |
-| Independent external review | **None completed** | Deferred at user's request until whole defined inventory researched |
-| Production release | **Unmerged** | Green PR checks or previews do not establish main-site publication |
+| Canonical research records | **59** | In `records.json`, `index.md`, the HTML reader and Search, on the PR branch |
+| Research batches | **10** | Stored with IDs and review status in `records.json` |
+| Originally internally reviewed | **11** | Initial assistant source audit, not independent peer review |
+| Later records requiring full source verification | **48** | Batches 2–10, including newly source-located cases |
+| Classic Matthew fulfillment formulas | **10/10** | Specific scholarly-defined quotation subset |
+| Additional seed claim locations | **50** | Non-exhaustive working set, never a count of every biblical prophecy |
+| Seed locations with distinct targeted records | **42** | Some source texts are reused with different later applications |
+| Seed locations covered by earlier linked cases | **2** | Already addressed by source-specific earlier cases |
+| Pending/partly related seed locations | **6** | Three Revelation groupings and three other NT quotation checks |
+| Historical-oracle seed cases | **11/11** | Located; full review still necessary |
+| Daniel-vision seed cases | **6/6** | Located; full review still necessary |
+| Jesus/Paul timing seed cases | **7/7** | Located; full review still necessary |
+| Independent specialist review | **Not completed** | Defer until complete defined inventory |
+| Live release | **Not merged** | PR branch/preview contents are not production evidence |
 
-The formula ten, fifty candidate locations, and fifty-two case records are **overlapping accounting views**. Never add them together to invent a single total for all prophecies. The cross-Bible discovery step remains outstanding.
+These categories overlap. Adding 59 + 50 + 10 would be inaccurate; the 50 locations are a discovery seed mapped onto records, and the full biblical inventory is still incomplete.
 
 ## Batch register
 
-| Batch | Cases | Focus | Review status |
+| Batch | Cases | Topic | Review |
 |---|---:|---|---|
-| 1 | 11 | First cross-category text/history comparisons | Initial internal review |
-| 2 | 6 | Matthew formula quotations | Full review pending |
-| 3 | 5 | Luke/Acts/John/Hebrews textual reuses | Full review pending |
-| 4 | 3 | Other Matthew quotations | Full review pending |
-| 5 | 5 | John and Acts citations | Spot-checked; full review pending |
-| 6 | 5 | John, Romans, Hebrews citations | Spot-checked; full review pending |
-| 7 | 6 | Cyrus, Jeremiah's seventy years, Tyre, Babylon and Nineveh | Source-located; full review pending |
-| 8 | 5 | Damascus, Edom, Haggai 2 and Zechariah 14 | Source-located; full review pending |
-| 9 | 6 | Daniel 2/7/8/9/11/12 visions | Source-located; full critical review pending |
-| **Total** | **52** | | |
+| 1 | 11 | First text and historical sample | Initial internal review |
+| 2 | 6 | Matthew fulfillment formulas | Full review pending |
+| 3 | 5 | Luke/Acts/John/Hebrews uses | Full review pending |
+| 4 | 3 | Other Matthew claims | Full review pending |
+| 5 | 5 | John and Acts | Source spot-check only |
+| 6 | 5 | John, Romans, Hebrews | Source spot-check only |
+| 7 | 6 | Cyrus, Babylon, Tyre, Nineveh | Source located |
+| 8 | 5 | Damascus, Edom, Haggai, Zechariah | Source located |
+| 9 | 6 | Daniel 2, 7, 8, 9, 11, 12 | Source located |
+| 10 | 7 | Temple, generation, mission, kingdom, high priest, Paul | Source located |
+| **Total** | **59** | | |
 
-## Daniel findings and critical review safeguards
+## Most important timing and evidence limitations
 
-- **Languages:** Daniel 2 and 7 are in biblical Aramaic, while 8, 9, 11 and 12 are in Hebrew. Check manuscripts and ancient Greek Daniel traditions as relevant.
-- **Four empires:** A historical-critical sequence of Babylon, Media, Persia and Greece competes with traditional Babylon, Medo-Persia, Greece and Rome. Name sources and premises for each, without claiming either sequence was simply written out in chapter 2.
-- **Antiochus IV:** Daniel 7–8 and 11 closely track Seleucid persecution and the Temple cult crisis, yet the book's final literary form and older court-tale sources can have different dates.
-- **Seventy weeks:** Daniel 9 interprets Jeremiah's seventy years as seventy sets of seven years. 'Anointed' in the original wording need not name Jesus; starting year, segmentation, proposed priests/kings and calendars must be documented.
-- **A testable mismatch:** Daniel 11:40–45's envisioned end of the final northern king differs from Antiochus IV's historically documented death in the eastern satrapies. Later future-ruler identifications require additional argument.
-- **Resurrection and numbers:** Daniel 12 contains a significant early Hebrew-Bible resurrection expectation, and 1,290 / 1,335 day durations distinct from Daniel 8's 2,300 evening/morning units; avoid smoothing these into a single supposedly exact timetable.
-- **Independent evidence:** Documented political history does not verify supernatural revelation or heaven's judgment. Likewise, composing a text close to its apparent historical setting is a scholarly dating inference, not a self-proving fact.
+- **Mark 13:2:** Temple destruction in 70 CE is independently evidenced; Gospel composition relative to 70 CE and literal completeness of stone removal are debated. Temple sanctuary and surviving platform/retaining walls are different structures.
+- **Mark 13:30:** The Greek `hē genea hautē` means 'this generation' in a context containing both the Temple crisis and cosmic Son of Man imagery. Whether 'all these things' includes the entire culminating scene changes the verdict; [Edsall 2025](https://doi.org/10.1177/0142064X241289867) examines the reception and ambiguity.
+- **Matthew 10:23:** The limit on completing Israel's towns is explicit; the referent of the Son of Man 'coming' is debated. [Löfstedt](https://doi.org/10.58546/se.v90i1.25546) argues for resurrection/exaltation over the final end.
+- **Mark 9:1:** 'Some standing here' establishes a lifespan test. Transfiguration, resurrection/exaltation, Spirit and final return are alternative interpretations, not a single established historical event.
+- **Mark 14:62:** The 'you will see' audience, Psalm 110 and Daniel 7's heavenly movement matter. [Smith and Vaillancourt 2022](https://doi.org/10.15699/jbl.1413.2022.6) argue both enthronement and later return are in view.
+- **1 Thessalonians 4:15–17:** Paul's first-person plural suggests expectation, but [Novum Testamentum 2024](https://brill.com/view/journals/nt/66/2/article-p231_5.xml?language=en) defends multiple grammatical possibilities; no categorical year or personal-survival prediction is independently specified.
+- **1 Corinthians 15:51:** Greek witnesses have substantial changes to negative wording; [NET critical text notes](https://classic.net.bible.org/verse.php?book=1Co&chapter=15&tab=commentaries&theme=wiki&verse=51) list competing manuscript versions. Treat these variants explicitly.
 
-## Next research and release gate
+## Next step
 
-The current seed list has **13 claim locations** left: Jesus/Paul time-sensitive sayings (7), Revelation (3), and other NT quotation follow-ups (3). Complete those, audit the scope for missing categories and passages, and fully verify all **41 later cases**. Regenerate and verify pages and Search after each batch. Only then send the entire evidence packet for the requested independent outside review, reconcile corrections, and ask the project owner before merge.
+Research three Revelation groupings and three NT cross-reference applications; then conduct a full inventory discovery/deduplication pass (the list may grow). Complete detailed claim-level review of 48 newer cases, rectify sources and competing interpretations, and invite **one outside independent review** of the complete defined inventory. Check reader/search consistency and UI on 390px/1440px before any release. Owner approval required for the merge.
 
-**References:** [records.json](records.json) · [inventory.json](inventory.json) · [index.md](index.md) · [REVIEW.md](REVIEW.md) · [TODO.md](TODO.md)
+**Sources:** [records.json](records.json) · [inventory.json](inventory.json) · [index.md](index.md) · [REVIEW.md](REVIEW.md) · [TODO.md](TODO.md)
