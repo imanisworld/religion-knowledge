@@ -8,9 +8,12 @@
 
 ---
 
-## Illness Explanations — bounded research release (20 October 2026)
+## Prophecies and Illness — bounded research releases (20 October 2026)
 
-PR #213 provides thirteen source-linked illness claims, a public reader and Search registration. The edition was AI-reviewed (four held, nine held with qualification); an external specialist audit was waived by the owner with the original-language, paywalled-book and Mari tablet limitations disclosed. PR #212 remains a separate draft and no unsupported Cited Persons upgrade was included. Research and source limits are recorded in `research/illness-explanations/STATUS.md`; independently verify live deployment rather than treating merge as proof of publication.
+- **PR #202 merged:** Biblical Prophecy Audit, 65 AI-reviewed research cases and 70 Search sections. The original 50-locus seed is mapped; 21 additional leads and further original-language/scholarly source checking remain open. See `research/prophecy-audit/STATUS.md`.
+- **PR #213 merged:** Illness Explanations, 13 AI-reviewed claims (4 internally verified and 9 qualified), a nine-section public reader, and 9 Search sections. Canonical claim registry now has **139 unique entries** with the previous 126 unchanged. See `research/illness-explanations/STATUS.md`.
+- **Release checks:** Both corpus and research-governance checks passed on merge commit `cf756397`. [Cloudflare deployment workflow](https://github.com/imanisworld/religion-knowledge/actions/runs/39492093720) succeeded for that commit, serving the `religion-knowledge` worker. A separate unauthenticated HTTP check of the live pages could not be completed from the review environment.
+- **Evidence controls:** The owner accepted source limitations and waived outside specialist review for these bounded editions only. Unchecked original-language passages, unread paywalled studies and the primary Mari tablets remain flagged. PR #212 remains a separate draft; its unverified Cited Persons promotions were not merged. The broader consolidation freeze remains in force.
 
 ---
 
