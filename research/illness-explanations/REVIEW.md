@@ -26,8 +26,8 @@ For **each claim ID**, report:
 
 | ID | Review focus |
 |---|---|
-| `IL-DEUT-001` | Deut 28:20–22, illness as covenant curse; distinguish narrative vs medical claim |
-| `IL-NUM-001` | Num 16:41–50, incense, plague, atonement, divine anger |
+| `IL-DEUT-001` | Deut 28:21–22 (v. 20 is curses and confusion, not disease), illness as covenant curse; distinguish narrative vs medical claim |
+| `IL-NUM-001` | Num 16:46–50 (context 16:41–50), incense, plague, atonement, divine anger |
 | `IL-MARK-001` | Mark 9:17–29, spirit and seizure-like symptoms; avoid retroactive medical diagnosis |
 | `IL-JOHN-001` | John 9:1–3, rejection of parents'/person's sin and continuing theological explanation |
 | `IL-JOB-001` | Job 4:7–8, 8:4–6, 42:7; does overall Job challenge retribution? What exactly does epilogue reject? |
@@ -39,6 +39,16 @@ For **each claim ID**, report:
 | `IL-TZARAAT-001` | `ṣāraʿat` in Lev 13–14; Hansen disease conflation; infectious vs ritual logic; compare Feder 2017/2019 |
 | `IL-SNOW-001` | Snow's 1854 waterborne cholera research; avoid oversimplified pump-handle causal myth |
 | `IL-KOCH-001` | Koch's 1882 TB finding, organism/cause wording and date; broader germ-theory history |
+
+## Pre-review findings to check (20 October 2026)
+
+An internal consistency pass found five problems before independent review. Items 1, 2 and 4 are corrected on this branch; items 3 and 5 are open. Confirm or overturn each.
+
+1. **Fragment claim texts (corrected).** `IL-MARI-001` and `IL-TZARAAT-001` stored partial sentences ("discusses early eighteenth-century BCE letters…", "the ancient descriptions do not fit one modern diagnosis."). Both now hold complete sentences taken from the module's wording. Check that each still says exactly what the module says.
+2. **Verse ranges (corrected).** The registry cited Deut 28:20–22 and Num 16:41–50, while the module's table cites 28:21–22 and 16:46–50. Verse 20 of Deut 28 concerns curses and confusion, not disease. In Num 16, the wrath and the start of the plague are at v. 46, and the plague is stopped by v. 48. Both registry locators now match the table, keeping 16:41–50 as context. This was checked through ESV verse results only, because the NABRE and NRSVue pages could not be reached; **confirm the verse numbering in the cited translations.**
+3. **Scurlock attribution (open, marked unverified).** The module said Scurlock (2018) "describes `āšipu` and `asû` specialists and documents familiarity with contagion" on the strength of the abstract alone. The abstract could not be reached to confirm that it says this. The module now marks both points **unverified**. Check the abstract, and the chapter pages if they are available; either restore the attribution with a locator or remove it.
+4. **Feder camp label (corrected).** Feder was labelled `[JEWISH/ANCIENT NEAR EAST STUDIES]` in §3 and `[CRITICAL]` in §4. Both now read `[CRITICAL]`, a label for his method, not his identity. Confirm the label is appropriate.
+5. **Registry reconciliation with PR #212 (open).** See `STATUS.md` §3a. This affects merge, not the review verdicts.
 
 ## Located material and access limitations
 

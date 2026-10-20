@@ -4470,7 +4470,7 @@
     "primary_sources": [
       {
         "source": "Deuteronomy 28, NABRE",
-        "locator": "28:20–22 https://bible.usccb.org/bible/deuteronomy/28"
+        "locator": "28:21–22 https://bible.usccb.org/bible/deuteronomy/28"
       }
     ],
     "secondary_sources": [],
@@ -4493,7 +4493,7 @@
     "primary_sources": [
       {
         "source": "Numbers 16, NRSVue",
-        "locator": "16:41–50 https://www.biblegateway.com/passage/?search=Num+16%3A41-50&version=NRSVUE"
+        "locator": "16:46–50 (context 16:41–50) https://www.biblegateway.com/passage/?search=Num+16%3A41-50&version=NRSVUE"
       }
     ],
     "secondary_sources": [],
@@ -4677,11 +4677,11 @@
         "stance": "supports"
       }
     ],
-    "notes": "Staged source draft; not on public site. Full chapter not read."
+    "notes": "Staged source draft; not on public site. Full chapter not read. The page's attribution of āšipu/asû specialists and contagion to this chapter could not be re-confirmed against the abstract on 2026-10-20 (abstract unreachable); held as unverified pending review."
   },
   {
     "claim_id": "IL-MARI-001",
-    "claim_text": "discusses early eighteenth-century BCE letters from Mari describing separation of infected servants and restrictions on sharing vessels or furniture.",
+    "claim_text": "Yitzhaq Feder (2019) discusses early eighteenth-century BCE letters from Mari describing separation of infected servants and restrictions on sharing vessels or furniture.",
     "claim_type": "historical_interpretation",
     "status": "verified_with_qualification",
     "confidence": "medium",
@@ -4705,7 +4705,7 @@
   },
   {
     "claim_id": "IL-TZARAAT-001",
-    "claim_text": "the ancient descriptions do not fit one modern diagnosis.",
+    "claim_text": "The biblical category ṣāraʿat cannot be equated straightforwardly with Hansen's disease, the modern condition often called leprosy; the ancient descriptions do not fit one modern diagnosis.",
     "claim_type": "historical_interpretation",
     "status": "verified_with_qualification",
     "confidence": "medium",

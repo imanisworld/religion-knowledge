@@ -11,7 +11,7 @@
 | Item | Status | Evidence |
 |---|---|---|
 | Working research module | Complete as a bounded first pass | [index.md](index.md), nine sections |
-| Primary-text source audit | Six source passages checked against named translations | Deut 28:20–22; Num 16:41–50; Mark 9:17–29; John 9:1–3; Job 4, 8, 42; Sirach 38:1–15 |
+| Primary-text source audit | Six source passages checked against named translations | Deut 28:21–22; Num 16:46–50 (context 16:41–50); Mark 9:17–29; John 9:1–3; Job 4, 8, 42; Sirach 38:1–15 |
 | Ancient medicine comparison | Source checked, with limits | Hippocratic *On the Sacred Disease* §1–2; Feder (2017, 2019); Scurlock (2018) abstract |
 | Germ-theory milestones | Checked against public research histories | CDC John Snow 1854 / Koch 1882; National Academies overview |
 | Claim registry | **13 IL-* records added on PR branch only** | `docs/research/claim-registry.json`; 126 → **139 branch entries** |
@@ -31,6 +31,10 @@
 4. **Sirach 38:** Affirmation of physicians, medicines, prayer, repentance and sacrifice includes v. 15's warning about sinners and physicians.
 5. **Job:** The challenge to simplistic retribution follows from reading the dialogue and epilogue together. Job 42:7 by itself cannot identify every rejected statement.
 6. **Sources:** Replaced inaccessible/NCBI source link with National Academies reading copy. Identified Oxford and Cambridge chapters that were checked **at abstract level only**.
+7. **Registry claim texts (20 Oct):** `IL-MARI-001` and `IL-TZARAAT-001` held sentence fragments; both are now complete sentences drawn from the module's own wording.
+8. **Verse ranges (20 Oct):** Registry locators corrected to Deut 28:21–22 and Num 16:46–50 (context 41–50) to match the module table. Checked via ESV verse results only; the cited NABRE and NRSVue pages were unreachable.
+9. **Scurlock (20 Oct):** The specific claims about `āšipu`/`asû` specialists and contagion are now marked **unverified** in the module. The abstract they relied on could not be reached to confirm them.
+10. **Feder label (20 Oct):** One camp label, `[CRITICAL]`, is now used in both sections.
 
 ## 3. What remains before publication
 
@@ -39,9 +43,26 @@
 | 1 | **External independent claim review** of 13 entries | No independent reviewer’s findings yet; check texts, interpretation, stated confidence |
 | 2 | **Original-language audit** for contested terms and passages | No full Hebrew/Greek philological audit has been performed |
 | 3 | **Verify paywalled chapters** (Scurlock, Lawrence, Cambridge medicine chapter) and the primary Mari editions; reconcile Feder's distinct 2017/2019 arguments | Abstract-level or secondary quotation is an evidential limit |
-| 4 | **Reconcile open PR #212 registry edits and any changes to main** | Branch's 126-entry baseline may be stale when merge is considered |
+| 4 | **Reconcile open PR #212 registry edits and any changes to main** | Conflict confirmed and procedure rehearsed; see §3a. Re-check counts at merge time |
 | 5 | **Public reader/search integration after freeze lifted** | Existing corpus/registry CI already passed, but the new module is not registered. Re-run after integration, against latest `main`, and avoid #202 shared-generator conflicts |
 | 6 | **Explicit review, merge, publication, and deploy approvals** | Draft PR is noncanonical; main alone is citable/deployable |
+
+## 3a. Registry reconciliation with PR #212
+
+Verified on 20 October 2026 against `main` at `ab55625` and PR #212 at `6b096b1`:
+
+- `main` has **126** registry entries. PR #212 adds **9** (`CP-ARCHER-001`, `CP-BARTON-001`, `CP-BARTON-002`, `CP-BRIGGS-001`, `CP-SCHREIN-001`, `LC-NPPNAME-001`, `LC-SANDERS-001`, `LC-SUPERSESS-001`, `LC-TRIPART-001`). This branch adds **13** (`IL-*`). **No IDs overlap**, and neither branch alters any existing entry.
+- Both branches append after the same final entry, so whichever merges second gets a **certain textual conflict in `docs/research/claim-registry.json`**. It is the only conflicting file: root `STATUS.md` merges automatically, and PR #212 merges cleanly into `main` by itself.
+- **Expected order:** PR #212 first, because this branch is held for independent review and the research freeze.
+
+**Resolution procedure (for whichever PR merges second):**
+
+1. Merge current `main` into the branch. Do not rebase a shared branch.
+2. In `claim-registry.json`, keep every entry already on `main` exactly as it is, then append this branch's entries after them. Never accept a whole-file "ours" or "theirs" version; either one silently drops the other PR's claims.
+3. Check that the entry count equals `main`'s count plus this branch's additions (**126 + 9 + 13 = 148** if nothing else lands), with unique IDs.
+4. Run `node scripts/validate-claim-registry.mjs`, then let both CI workflows run on the merged head.
+
+This procedure was rehearsed in a scratch worktree: the result was 148 entries, a pure append with no changes to existing lines, and "All checks passed."
 
 ## 4. Next safe action
 
