@@ -1,0 +1,532 @@
+{
+  "version": 9,
+  "updated": "2026-10-20",
+  "method": "Working scope: direct or explicit fulfillment claims in the New Testament; concrete time/place predictions and conditional threats in the Hebrew Bible and New Testament; messianic proof texts and apocalyptic prediction claims. List source and later use separately. Other echo-only candidates are included only when a specific later claim is identified. Entries in pending groups are candidate discovery leads, not vetted/complete research. The number shown is the number of tracked claims in this working inventory, not an objective total of all biblical prophecies.",
+  "scope_notes": "Initial non-exhaustive working inventory of 10 Matthew formula quotations plus 50 additional claim loci: all 50 now have dedicated (48) or earlier linked (2) case records. Zero seed locations remain, but no exhaustive biblical inventory has been established. New omissions must be tracked as new leads, not treated as already completed.",
+  "matthew_formula_ten": [
+    {
+      "group": "matthew_formula_ten",
+      "claim_locus": "Matthew 1:22–23",
+      "earlier_source": "Isaiah 7:14",
+      "status": "researched",
+      "case_id": "isaiah-7-14"
+    },
+    {
+      "group": "matthew_formula_ten",
+      "claim_locus": "Matthew 2:15",
+      "earlier_source": "Hosea 11:1",
+      "status": "researched",
+      "case_id": "hosea-11-1"
+    },
+    {
+      "group": "matthew_formula_ten",
+      "claim_locus": "Matthew 2:17–18",
+      "earlier_source": "Jeremiah 31:15",
+      "status": "researched",
+      "case_id": "jeremiah-31-15"
+    },
+    {
+      "group": "matthew_formula_ten",
+      "claim_locus": "Matthew 2:23",
+      "earlier_source": "No identifiable text",
+      "status": "researched",
+      "case_id": "nazorean-matthew-2-23"
+    },
+    {
+      "group": "matthew_formula_ten",
+      "claim_locus": "Matthew 4:14–16",
+      "earlier_source": "Isaiah 8:23–9:1 (Hebrew); 9:1–2 (English)",
+      "status": "researched",
+      "case_id": "isaiah-9-galilee-matthew-4"
+    },
+    {
+      "group": "matthew_formula_ten",
+      "claim_locus": "Matthew 8:17",
+      "earlier_source": "Isaiah 53:4",
+      "status": "researched",
+      "case_id": "isaiah-53-4-healing"
+    },
+    {
+      "group": "matthew_formula_ten",
+      "claim_locus": "Matthew 12:17–21",
+      "earlier_source": "Isaiah 42:1–4",
+      "status": "researched",
+      "case_id": "isaiah-42-servant-matthew-12"
+    },
+    {
+      "group": "matthew_formula_ten",
+      "claim_locus": "Matthew 13:35",
+      "earlier_source": "Psalm 78:2",
+      "status": "researched",
+      "case_id": "psalm-78-parables-matthew-13"
+    },
+    {
+      "group": "matthew_formula_ten",
+      "claim_locus": "Matthew 21:4–5",
+      "earlier_source": "Zechariah 9:9",
+      "status": "researched",
+      "case_id": "zechariah-9-9"
+    },
+    {
+      "group": "matthew_formula_ten",
+      "claim_locus": "Matthew 27:9–10",
+      "earlier_source": "Zechariah 11:12–13, attributed to Jeremiah",
+      "status": "researched",
+      "case_id": "zechariah-11-silver-matthew-27"
+    }
+  ],
+  "pending_candidates": [
+    {
+      "group": "other_matthew",
+      "claim_locus": "Matthew 2:5–6",
+      "earlier_source": "Micah 5:2",
+      "question": "Magi citation by scribes; distinct from fulfillment formula",
+      "status": "related_case_covers_claim",
+      "related_case_id": "micah-5-2",
+      "case_id": "micah-5-2"
+    },
+    {
+      "group": "other_matthew",
+      "claim_locus": "Matthew 3:3",
+      "earlier_source": "Isaiah 40:3",
+      "question": "John as wilderness voice",
+      "status": "related_case_covers_claim",
+      "related_case_id": "isaiah-40-3",
+      "case_id": "isaiah-40-3"
+    },
+    {
+      "group": "other_matthew",
+      "claim_locus": "Matthew 13:14–15",
+      "earlier_source": "Isaiah 6:9–10",
+      "question": "Hearing without understanding",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "isaiah-6-matthew-13"
+    },
+    {
+      "group": "other_matthew",
+      "claim_locus": "Matthew 26:31",
+      "earlier_source": "Zechariah 13:7",
+      "question": "Shepherd struck and sheep scattered",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "zechariah-13-matthew-26"
+    },
+    {
+      "group": "other_matthew",
+      "claim_locus": "Matthew 26:54, 56",
+      "earlier_source": "Unspecified scriptures",
+      "question": "Generic claim scriptures must be fulfilled; needs source matching",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "matthew-26-scriptures-unspecified"
+    },
+    {
+      "group": "other_nt",
+      "claim_locus": "Mark 1:2–3",
+      "earlier_source": "Malachi 3:1 / Isaiah 40:3",
+      "question": "Combined messenger and wilderness voice citation",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "mark-1-composite-quotation"
+    },
+    {
+      "group": "other_nt",
+      "claim_locus": "Luke 4:18–21",
+      "earlier_source": "Isaiah 61:1–2 / 58:6",
+      "question": "Jesus reads liberation text and announces fulfillment",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "isaiah-61-luke-4"
+    },
+    {
+      "group": "other_nt",
+      "claim_locus": "John 12:38",
+      "earlier_source": "Isaiah 53:1",
+      "question": "Unbelief and servant report",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "isaiah-53-1-john-12"
+    },
+    {
+      "group": "other_nt",
+      "claim_locus": "John 12:39–41",
+      "earlier_source": "Isaiah 6:9–10",
+      "question": "Blindness and response to Jesus",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "isaiah-6-john-12"
+    },
+    {
+      "group": "other_nt",
+      "claim_locus": "John 13:18",
+      "earlier_source": "Psalm 41:9",
+      "question": "Friend shares bread then betrays",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "psalm-41-john-13"
+    },
+    {
+      "group": "other_nt",
+      "claim_locus": "John 19:24",
+      "earlier_source": "Psalm 22:18",
+      "question": "Lots cast for garments",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "john-19-24-garments-psalm22"
+    },
+    {
+      "group": "other_nt",
+      "claim_locus": "John 19:36",
+      "earlier_source": "Exodus 12:46 / Psalm 34:20",
+      "question": "Unbroken bones and Passover/restoration",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "unbroken-bones-john-19"
+    },
+    {
+      "group": "other_nt",
+      "claim_locus": "John 19:37",
+      "earlier_source": "Zechariah 12:10",
+      "question": "Those who pierced will look",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "zechariah-12-john-19"
+    },
+    {
+      "group": "other_nt",
+      "claim_locus": "Acts 2:16–21",
+      "earlier_source": "Joel 2:28–32",
+      "question": "Spirit poured out and last-days speech",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "joel-2-acts-2"
+    },
+    {
+      "group": "other_nt",
+      "claim_locus": "Acts 2:25–31",
+      "earlier_source": "Psalm 16:8–11",
+      "question": "Davidic psalm interpreted as resurrection",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "psalm-16-acts-2"
+    },
+    {
+      "group": "other_nt",
+      "claim_locus": "Acts 3:22–23",
+      "earlier_source": "Deuteronomy 18:15–19",
+      "question": "Prophet like Moses",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "deuteronomy-18-acts-3"
+    },
+    {
+      "group": "other_nt",
+      "claim_locus": "Acts 8:32–35",
+      "earlier_source": "Isaiah 53:7–8",
+      "question": "Servant as Jesus in Ethiopian official's reading",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "acts-8-isaiah53-ethiopian"
+    },
+    {
+      "group": "other_nt",
+      "claim_locus": "Acts 13:33",
+      "earlier_source": "Psalm 2:7",
+      "question": "Divine sonship and resurrection",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "psalm-2-acts-13"
+    },
+    {
+      "group": "other_nt",
+      "claim_locus": "Acts 15:16–18",
+      "earlier_source": "Amos 9:11–12",
+      "question": "Restored Davidic tent, Gentiles vs Edom textual differences",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "amos-9-acts-15"
+    },
+    {
+      "group": "other_nt",
+      "claim_locus": "Romans 9:25–26",
+      "earlier_source": "Hosea 2:23 / 1:10",
+      "question": "Not-my-people now my-people",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "hosea-romans-9-gentiles"
+    },
+    {
+      "group": "other_nt",
+      "claim_locus": "Romans 11:26–27",
+      "earlier_source": "Isaiah 59:20–21 / 27:9",
+      "question": "Deliverer and all Israel",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "isaiah-59-romans-11-zion"
+    },
+    {
+      "group": "other_nt",
+      "claim_locus": "Hebrews 1:5",
+      "earlier_source": "Psalm 2:7 / 2 Samuel 7:14",
+      "question": "Sonship and royal covenant",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "hebrews-1-5-royal-son"
+    },
+    {
+      "group": "other_nt",
+      "claim_locus": "Hebrews 8:8–12",
+      "earlier_source": "Jeremiah 31:31–34",
+      "question": "New covenant and its audience",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "jeremiah-31-hebrews-8"
+    },
+    {
+      "group": "historical_oracle",
+      "claim_locus": "Isaiah 44:28–45:1",
+      "earlier_source": "Cyrus and restoration",
+      "question": "Cyrus named as ruler who will rebuild",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "cyrus-isaiah-44-45"
+    },
+    {
+      "group": "historical_oracle",
+      "claim_locus": "Jeremiah 25:11–12",
+      "earlier_source": "Seventy years of Babylonian rule",
+      "question": "Duration and chronology of exile/servitude",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "jeremiah-25-seventy-years"
+    },
+    {
+      "group": "historical_oracle",
+      "claim_locus": "Jeremiah 29:10",
+      "earlier_source": "Seventy years for Babylon",
+      "question": "Return after Babylon's period",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "jeremiah-29-seventy-years"
+    },
+    {
+      "group": "historical_oracle",
+      "claim_locus": "Ezekiel 26:3–14",
+      "earlier_source": "Tyre",
+      "question": "Nebuchadnezzar, destruction, islands and never rebuilt claims",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "ezekiel-26-tyre"
+    },
+    {
+      "group": "historical_oracle",
+      "claim_locus": "Isaiah 13:17–22",
+      "earlier_source": "Babylon and Medes",
+      "question": "Medes raised against Babylon and desolation",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "isaiah-13-babylon-medes"
+    },
+    {
+      "group": "historical_oracle",
+      "claim_locus": "Isaiah 17:1–3",
+      "earlier_source": "Damascus",
+      "question": "Pronouncement about Damascus becoming a ruin",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "isaiah-17-damascus"
+    },
+    {
+      "group": "historical_oracle",
+      "claim_locus": "Nahum 1–3",
+      "earlier_source": "Nineveh",
+      "question": "Oracles about Nineveh's fall",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "nahum-nineveh-fall"
+    },
+    {
+      "group": "historical_oracle",
+      "claim_locus": "Obadiah 1–21",
+      "earlier_source": "Edom",
+      "question": "Disaster and territorial reversal for Edom",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "obadiah-edom"
+    },
+    {
+      "group": "historical_oracle",
+      "claim_locus": "Jeremiah 49:7–22",
+      "earlier_source": "Edom",
+      "question": "Prophetic judgment on Edom",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "jeremiah-49-edom"
+    },
+    {
+      "group": "historical_oracle",
+      "claim_locus": "Haggai 2:6–9",
+      "earlier_source": "Temple glory",
+      "question": "Future shaking of nations and greater latter glory",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "haggai-2-temple-glory"
+    },
+    {
+      "group": "historical_oracle",
+      "claim_locus": "Zechariah 14:1–21",
+      "earlier_source": "Jerusalem and nations",
+      "question": "Day of YHWH and future Jerusalem",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "zechariah-14-day-of-yhwh"
+    },
+    {
+      "group": "apocalyptic",
+      "claim_locus": "Daniel 2:31–45",
+      "earlier_source": "Statue and four kingdoms",
+      "question": "Kingdom succession and divine kingdom",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "daniel-2-four-kingdoms"
+    },
+    {
+      "group": "apocalyptic",
+      "claim_locus": "Daniel 7:1–27",
+      "earlier_source": "Four beasts / son of man",
+      "question": "Kingdom sequence and heavenly dominion",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "daniel-7-beasts-son-of-man"
+    },
+    {
+      "group": "apocalyptic",
+      "claim_locus": "Daniel 8:1–27",
+      "earlier_source": "Ram/goat and little horn",
+      "question": "Medo-Persian/Greek-era visions; historical dating",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "daniel-8-ram-goat-2300"
+    },
+    {
+      "group": "apocalyptic",
+      "claim_locus": "Daniel 9:24–27",
+      "earlier_source": "Seventy weeks",
+      "question": "Anointed one, city and sanctuary",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "daniel-9-seventy-weeks"
+    },
+    {
+      "group": "apocalyptic",
+      "claim_locus": "Daniel 11:2–45",
+      "earlier_source": "Kings of north and south",
+      "question": "Historical correspondences and prediction horizon",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "daniel-11-kings-end"
+    },
+    {
+      "group": "apocalyptic",
+      "claim_locus": "Daniel 12:1–13",
+      "earlier_source": "Resurrection and time periods",
+      "question": "Resurrection and numerical intervals",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "daniel-12-resurrection-days"
+    },
+    {
+      "group": "apocalyptic",
+      "claim_locus": "Mark 13:2",
+      "earlier_source": "Temple destruction",
+      "question": "Prediction and Gospel composition dating",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "mark-13-2-temple-destruction"
+    },
+    {
+      "group": "apocalyptic",
+      "claim_locus": "Mark 13:30 / Matthew 24:34",
+      "earlier_source": "This generation",
+      "question": "Kingdom/return time frame and interpretive debate",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "mark-13-30-this-generation"
+    },
+    {
+      "group": "apocalyptic",
+      "claim_locus": "Matthew 10:23",
+      "earlier_source": "Before the Son of Man comes",
+      "question": "Mission urgency timing",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "matthew-10-23-towns-of-israel"
+    },
+    {
+      "group": "apocalyptic",
+      "claim_locus": "Mark 9:1 / Matthew 16:28",
+      "earlier_source": "Some standing here will not taste death",
+      "question": "Kingdom and transfiguration/readings",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "mark-9-1-taste-death"
+    },
+    {
+      "group": "apocalyptic",
+      "claim_locus": "Mark 14:62",
+      "earlier_source": "Son of Man seen at God's right hand",
+      "question": "Apocalyptic vindication and time frame",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "mark-14-62-son-man-high-priest"
+    },
+    {
+      "group": "apocalyptic",
+      "claim_locus": "1 Thessalonians 4:15–17",
+      "earlier_source": "We who are alive at the coming",
+      "question": "Paul's eschatological 'we'",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "one-thess-4-we-alive"
+    },
+    {
+      "group": "apocalyptic",
+      "claim_locus": "1 Corinthians 15:51–52",
+      "earlier_source": "We will not all die",
+      "question": "Resurrection timing, variant manuscripts",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "one-cor-15-not-all-sleep"
+    },
+    {
+      "group": "apocalyptic",
+      "claim_locus": "Revelation 1:1–3; 22:6–12",
+      "earlier_source": "Soon / time near",
+      "question": "Imminence language in its original audience",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "revelation-1-22-soon"
+    },
+    {
+      "group": "apocalyptic",
+      "claim_locus": "Revelation 13:1–18",
+      "earlier_source": "Beast and number",
+      "question": "Imperial context and future readings",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "revelation-13-beast-number"
+    },
+    {
+      "group": "apocalyptic",
+      "claim_locus": "Revelation 20–21",
+      "earlier_source": "Millennium and New Jerusalem",
+      "question": "Restoration and end-state imagery",
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "revelation-20-21-millennium-new-jerusalem"
+    }
+  ],
+  "discovery_status": "partial_seed_inventory",
+  "global_complete": false
+}
