@@ -337,7 +337,7 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
       <a href="index.html" aria-current="page">Library</a>
       <a href="search.html">Search</a>
       <a href="religion-law.html">Religion &amp; Law</a>
-      <a href="app/">App</a>
+      <a href="history.html">History</a>
     </nav>
     <button id="landingTheme" class="rk-site-control" type="button" aria-label="Toggle theme">Theme</button>
   </div>
@@ -346,15 +346,11 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
   <div class="hero">
     <p class="eyebrow">Research library</p>
     <h1>Religion Knowledge</h1>
-    <p>A source-forward library for biblical texts, religion, history, law, belief, and claim auditing. Start with a focused reader, search across the corpus, or use the structured app to trace records and provenance.</p>
+    <p>Research on religion, biblical texts, history, law, and belief, with sources and evidence for individual claims. Browse a subject or search across the library.</p>
   </div>
-  <a class="app-card" href="app/">
-    <h2>Explore the structured app</h2>
-    <p>Best for cross-document browsing: records, topics, questions, audits, provenance, and the review queue.</p>
-  </a>
   <div class="section-head research-head">
     <div><p class="section-label">Research library</p><h2>Browse by research area</h2></div>
-    <p>Focused readers keep each line of research readable without flattening the whole project into one feed.</p>
+    <p>Open a subject to read the research, supporting sources, and corrections.</p>
   </div>
   <div class="grid">${researchCards}
   </div>

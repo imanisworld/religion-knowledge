@@ -51,7 +51,7 @@ Audit entries also carry a `CHECKED` date. Anything without one has not been ver
 
 ## Reading order for the HTML set
 
-Open `master-notes.html` first. The research readers share the Documents switcher, while the deployed site also links Library, Search, Religion & Law, Personal History, and the structured app.
+Open `master-notes.html` first. The research readers share the Documents switcher, while public navigation links Library, Search, Religion & Law, and History. The structured review workspace remains available at `/app/` by direct URL; removing its prominent navigation does not restrict access.
 
 ## Standalone app bundle
 
