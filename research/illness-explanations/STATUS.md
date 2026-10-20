@@ -3,8 +3,8 @@
 **Updated:** 2026-10-20  
 **Tracking PR:** [#213 — Illness, Gods, and Spirits Before Germ Theory](https://github.com/imanisworld/religion-knowledge/pull/213) (draft)  
 **Branch:** `research/illness-explanations-20261020`  
-**Canonical/public state:** **NOT MERGED; NOT DEPLOYED; NOT IN LIBRARY OR SEARCH.**  
-**Research freeze:** Active. No changes to the nine-document core, reader generator, app dataset, or public navigation.
+**Canonical/public state:** Prepared as a public Library and Search module on the integration branch. Production visibility depends on the final merged build and deployment verification.  
+**Research freeze:** Generally active; owner-authorized narrow release exception for PRs #202 and #213. The nine-document core and app dataset remain unchanged.
 
 ## 1. What is done
 
@@ -45,9 +45,9 @@
 |---|---|---|
 | 1 | **Preserve accepted research limitations** | Outside specialist review waived for this bounded edition; mark Hebrew/Greek/Akkadian, paywalled chapter, and Mari tablet checks as unfinished, not verified |
 | 2 | **Reconcile the claim registry against current `main`** | Do not merge held #212 just to unblock #213. Whichever PR merges later must preserve all distinct claim IDs (§3a) |
-| 3 | **Reader, Search and navigation integration** | The illness module is still a research-only draft, absent from public Library and Search; preserve #202's reader and typography changes |
-| 4 | **Scoped freeze exception and release approval** | The consolidation freeze remains in effect; owner acceptance of scholarly limitations does not itself resolve site-readiness and release gates |
-| 5 | **Final integrated testing** | Run registry validator, complete corpus/site tests, and phone/laptop layout checks on the final candidate commit before merge/deploy |
+| 3 | **Reader, Search and navigation integration** | New illness reader and registrations are staged on the integrated branch; confirm retained #202's reader and Traditions typography in the final build |
+| 4 | **Scoped freeze exception and release approval** | Owner authorized a narrow exception for #202 and #213; broader consolidation freeze stays active for other new research |
+| 5 | **Final integrated testing and deployment proof** | Require passing CI for the integration commit, including claim registry, readers/search, and responsive-layout checks; verify production separately |
 
 ## 3a. Registry reconciliation with PR #212
 
@@ -78,7 +78,7 @@ This procedure was rehearsed in a scratch worktree: the result was 148 entries, 
 
 ## 4. Next safe action
 
-Prepare the illness reader, Library and Search integration without merging PR #212. Before a release, verify the registry against the then-current `main` and preserve all existing IDs. A narrow consolidation-freeze exception and explicit release approval are still required; rerun the full build, search, registry and responsive-layout checks on the final candidate. The outside specialist gate is waived for this bounded edition (§3b), and public text must still say the research was AI-reviewed rather than independently validated.
+The illness reader and its Library/Search/navigation registrations have been staged without merging PR #212. The registry has been compared with current `main`: all 126 existing entries are unchanged, and the thirteen `IL-*` IDs are unique. Before merging, require green CI against the final integrated tree; then verify the actual production deployment. The scoped freeze exception and outside-review waiver are documented, while public text remains explicitly AI-reviewed rather than independently validated.
 
 ## 5. Connected existing project work
 

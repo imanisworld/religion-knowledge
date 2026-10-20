@@ -10,6 +10,8 @@ Write for curious readers who may know nothing about the Bible, ancient history,
 
 **Current phase: consolidation.** The whole-document Markdown-to-reader generator now exists and is CI-gated, but 171 Cited Persons entries remained unresolved at the October 2026 control count. Do not add major new research sections until that verification queue and the control-layer debt are materially reduced. Corrections, source audits, reader synchronization, and control-layer work are allowed.
 
+**Scoped release exception (owner authorization, 20 Oct 2026):** The bounded Biblical Prophecy Audit (PR #202) and Illness Explanations (PR #213) may progress through integration and publication with their AI-reviewed evidence limitations explicitly disclosed. Outside specialist review is waived for these two editions only. This does not relax source-attribution requirements, authorize unverifiable Cited Persons promotions on PR #212, or lift the general consolidation freeze for other new research. Preserve existing Traditions navigation and generated outputs, and require current-main reconciliation plus green integrated CI before each merge.
+
 ## Repo structure
 
 ```

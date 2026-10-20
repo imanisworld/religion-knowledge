@@ -1,6 +1,6 @@
 # When Illness Was Explained by Gods and Spirits
 
-**Research status:** Source-located working module, 20 October 2026. **Held for independent claim review and publication approval.** This is outside the nine-document core, the app dataset, and the generated public readers. The existing consolidation freeze remains in force. Claim-level audit records are staged in `docs/research/claim-registry.json` on this branch; those records do not establish approval to publish.
+**Research status:** Bounded AI-reviewed source-linked edition, 20 October 2026. The owner accepted the documented limitations and waived outside specialist review for this edition. The work remains outside the nine-document core and app dataset. Original-language collations, primary Mari editions, and several paywalled chapters remain unchecked; claim statuses in the registry are not evidence of independent scholarly review.
 
 **Question:** Before germ theory, how did people explain disease, seizures, disability, and suffering? When did divine punishment, spirits, ritual impurity, and natural causes appear in the same tradition? What changed when infectious causes could be tested?
 
@@ -91,12 +91,14 @@ Louise J. Lawrence [CRITICAL/BIBLICAL STUDIES], *Sense and Stigma in the Gospels
 
 **Current source status (20 October 2026):** The six listed scriptural passages, Hippocratic *On the Sacred Disease* §1, both Feder articles, and the CDC histories were checked against accessible text. Scurlock (2018), Lawrence (2013), and the Cambridge ancient-medicine chapter remain **abstract-only**; page-specific interpretations have not been attributed to them. The National Academies overview was checked as a readable HTML chapter. This is an internal source check, **not independent external review**. Any claim that requires the complete text of a paywalled study is still held.
 
-**Before any publication or merge into canonical research:**
+**Outstanding evidence work and maintenance rules:**
 
-1. Review and reconcile the staged claim IDs in `docs/research/claim-registry.json` against the then-current main branch, especially registry edits in PR #212; validate the full registry.
-2. Obtain independent claim review of the contested issues (contagion/ritual exclusion, the seizure story, and any proposed institutional consequences).
-3. Confirm original-language terms and disputed interpretations against academic editions and page-level scholarship. Keep unverified chapter-level claims out. The sources above are mainly English translation and specialist-secondary checks, **not a full Hebrew or Greek lexical audit**.
-4. Only after the consolidation freeze is lifted, add reader/search/navigation registration and regenerate and validate derived HTML, the search index, and CI outputs. Avoid the unmerged work in #202 and #212.
-5. Leave the nine-document source corpus and application data untouched unless separately authorized and validated.
+1. Continue checking source passages in their Hebrew, Greek and Akkadian editions and consulting the unread paywalled scholarship. Label every unsupported attribution as unverified until its exact passage is inspected.
+2. Check the primary Mari tablets before claiming direct cuneiform verification; Feder's translations are secondary mediation.
+3. Keep all claim registry IDs unique and preserve the unresolved research in held PR #212. Do not merge unverified Cited Persons upgrades as a dependency.
+4. Keep the rendered reader, Library entry and Search synchronized with this research file and run final build and responsive-layout tests for every change.
+5. Keep the nine-document core and application dataset separate from this bounded research edition.
+
+The owner waived outside specialist review for this edition with the documented limits accepted. This does not imply that the underlying contested historical or supernatural claims were independently established.
 
 **Next research decision:** Use the cases in §2 as a bounded first comparison set. Expand only when specific source-backed evidence closes one of the open questions in §7.

@@ -1737,7 +1737,7 @@ function buildPage(doc, tocHtml, contentHtml) {
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Atkinson+Hyperlegible+Next:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Atkinson+Hyperlegible+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 ${CSS}
-</style><link rel="stylesheet" href="site-shell.css"><script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script></head><body class="rk-with-sitebar rk-reader-page">
+</style><link rel="stylesheet" href="site-shell.css">${doc.html === 'master-notes.html' || doc.html === 'field-guide.html' ? '<link rel="stylesheet" href="reader-chapters.css">' : ''}<script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script></head><body class="rk-with-sitebar rk-reader-page">
 ${buildSitebar()}
 <button id="menu" aria-label="Toggle navigation"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
 <div id="overlay"></div>
@@ -1767,7 +1767,7 @@ ${contentHtml}
 <button id="top" aria-label="Back to top"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"/></svg></button>
 <script>
 ${JS}
-</script><script src="highlight-referral.js"></script><script src="correction-form.js"></script>
+</script><script src="highlight-referral.js"></script><script src="correction-form.js"></script>${doc.html === 'master-notes.html' || doc.html === 'field-guide.html' ? '<script src="reader-chapters.js"></script>' : ''}
 </body></html>
 `;
 }

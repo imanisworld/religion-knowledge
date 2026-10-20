@@ -8,15 +8,9 @@
 
 ---
 
-## Illness Explanations Research — Draft PR #213 (20 October 2026)
+## Illness Explanations — bounded research release (20 October 2026)
 
-**Tracking:** [PR #213](https://github.com/imanisworld/religion-knowledge/pull/213), working branch `research/illness-explanations-20261020`. The full work status is in [research/illness-explanations/STATUS.md](research/illness-explanations/STATUS.md) **on the PR branch only**.
-
-- **Done on draft branch:** Nine-section source-linked research module; six biblical textual examples checked; Hippocratic, Mesopotamian, ritual-purity, and nineteenth-century medicine evidence examined; thirteen claim-registry records added (after the 20 Oct pre-review corrections: four `verified`, nine `verified_with_qualification`, zero `needs_qualification` after §1 source recovery).
-- **Counts:** `main` had 126 claim records at branch-off; PR #213 has 139. Other open research PRs (especially #212) may change the baseline, so **do not add these branch records to the main count** without reconciliation.
-- **Checks:** Research Governance and Religion Corpus GitHub workflows **passed** on the audited draft commit (runs #225 and #535; registry Node validation, corpus tests, reader/search sync, mobile Chromium). **Not done:** Independent claim review, full Greek/Hebrew lexical and paywalled-chapter verification, and public reader/search integration. Hippocratic *On the Sacred Disease* §1 is now directly confirmed in Francis Adams's English translation, but this remains an internal source check.
-- **Publication gate:** Under consolidation freeze. **Not merged, not deployed, not public in Library/Search.** Do not merge or register the module until the claim-registry reconciliation with #212, required tests, the lifting of the freeze, and explicit merge authorization. The external-review requirement was waived by the owner on 20 Oct 2026 and reconfirmed when asked directly (research/illness-explanations/STATUS.md §3b).
-- **Review:** Four AI review passes are complete, with corrections applied; the final matrix shows 4 hold, 9 hold with qualification and 0 collapse. No independent specialist review was performed. The owner accepted the documented limits in place of outside review; the decision was briefly withdrawn as unverified, then reconfirmed (research/illness-explanations/STATUS.md §3b).
+PR #213 provides thirteen source-linked illness claims, a public reader and Search registration. The edition was AI-reviewed (four held, nine held with qualification); an external specialist audit was waived by the owner with the original-language, paywalled-book and Mari tablet limitations disclosed. PR #212 remains a separate draft and no unsupported Cited Persons upgrade was included. Research and source limits are recorded in `research/illness-explanations/STATUS.md`; independently verify live deployment rather than treating merge as proof of publication.
 
 ---
 
