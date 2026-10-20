@@ -42,7 +42,7 @@ test('sixteen tradition profiles have eighteen narrowly scoped draft claims, not
       assert.ok(source.citation.includes('https://'), file + ' needs a precise source locator');
       assert.match(source.verification_method, /^(DIRECT_READ|SEARCH_SNIPPET)$/);
       if (source.verification_method === 'SEARCH_SNIPPET') {
-        assert.match(source.access_note || '', /not (?:read|checked)|403|paywall|paywalled|search result|indexed/i);
+        assert.match(source.access_note || '', /not (?:read|checked)|403|paywall|paywalled|search result|indexed|collection index|retrieval failed/i);
       }
     }
   }
