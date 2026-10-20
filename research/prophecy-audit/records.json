@@ -1,8 +1,8 @@
 {
   "title": "Biblical Prophecy Evidence",
-  "version": 1,
+  "version": 2,
   "checked": "2026-10-20",
-  "scope": "Eleven source-linked first-pass cases internally audited on 2026-10-20; external academic review pending. This is not a complete biblical prophecy inventory.",
+  "scope": "17 individually researched source-and-claim records (11 Batch 1 plus 6 Matthew formula extensions), with an inventory of Matthew's ten formula quotations and a separately marked non-exhaustive broader candidate queue. External review is held until declared scope is complete.",
   "status": "starter_checked",
   "method": "Do not treat a later narrative quoting an earlier passage as independent proof that the event happened. Record composition/redaction dating separately from the story's setting; a date is 'undetermined' if uncertain. Do not equate resemblance with historical causation. Do not call a retrospective lament or Exodus memory a failed forward prediction; do not automatically label a partial fulfillment as complete. A conditional warning must be assessed as a warning. Distinguish lexical variants from theological interpretations and from historical evidence. No binary overall truth-score.",
   "records": [
@@ -350,12 +350,229 @@
           "https://www.biblegateway.com/passage/?search=Jeremiah+18%3A7-10&version=NRSVUE"
         ]
       ]
+    },
+    {
+      "id": "nazorean-matthew-2-23",
+      "label": "He will be called a Nazarene",
+      "earlier": "No surviving identifiable scriptural quotation",
+      "later": "Matthew 2:23",
+      "kind": "Fulfillment formula with no identifiable antecedent",
+      "original": "Ναζωραῖος κληθήσεται (Greek Matthew 2:23, 'he will be called a Nazarene'); no corresponding Hebrew prophecy text is known",
+      "setting": "Matthew refers to what 'the prophets' said in the plural, but no extant verse in the Hebrew Bible makes this exact statement. Proposed connections include the Hebrew 'branch' (netser) in Isaiah 11:1, the Nazirite tradition, or a broader motif of social contempt; each has lexical or contextual obstacles.",
+      "laterUse": "Matthew says Joseph's family settled in Nazareth so that the words spoken through the prophets might be fulfilled.",
+      "relationship": "A fulfillment claim without a securely identifiable prior passage. An association with an older scriptural theme is plausible, but reconstructing an exact lost quotation or the author's motive exceeds the evidence.",
+      "evidence": "Matthew 2:23 is verifiable. The lack of an extant matching oracle prevents word-for-word comparison or independent confirmation that 'Nazarene' was predicted; proposed Hebrew wordplays remain hypotheses.",
+      "sourceStatus": "Fulfillment claim explicit; original quoted source unidentified",
+      "refs": [
+        [
+          "Matthew 2:23 with NET translation notes",
+          "https://classic.net.bible.org/verse.php?book=Mat&chapter=2&verse=23"
+        ],
+        [
+          "Matthew 2:23 Greek text",
+          "https://biblehub.com/text/matthew/2-23.htm"
+        ],
+        [
+          "Isaiah 11:1 (netser) comparison",
+          "https://biblehub.com/text/isaiah/11-1.htm"
+        ]
+      ]
+    },
+    {
+      "id": "isaiah-9-galilee-matthew-4",
+      "label": "Great light in Galilee",
+      "earlier": "Isaiah 8:23–9:1 (Hebrew numbering; English Isaiah 9:1–2)",
+      "later": "Matthew 4:14–16",
+      "kind": "Restoration oracle applied to Jesus' Galilean ministry",
+      "original": "הָעָם הַהֹלְכִים בַּחֹשֶׁךְ רָאוּ אוֹר גָּדוֹל ('people walking in darkness saw a great light')",
+      "setting": "The Isaiah passage names the territories of Zebulun and Naphtali in northern Israel after devastation associated with imperial warfare in the eighth century BCE; its original horizon is hope after crisis. Its precise literary layering and royal expectation are debated.",
+      "laterUse": "Matthew quotes the passage after Jesus relocates to Capernaum and begins his ministry in Galilee, identifying his activity with the light reaching the north.",
+      "relationship": "The application is explicit; Matthew adapts the geographical and metaphorical imagery to Jesus. The earlier oracle does not name Jesus or specify a first-century Capernaum ministry.",
+      "evidence": "The Hebrew text, its historical north-Israel setting, and the textual correspondence with Matthew are checkable. Matthew's report of the ministry cannot be treated as independent proof of supernatural fulfillment simply because Matthew supplies the citation.",
+      "sourceStatus": "Earlier northern-restoration imagery and later application documented; supernatural forecast unverified",
+      "refs": [
+        [
+          "Isaiah 9:1–2 and Matthew 4:14–16",
+          "https://www.biblegateway.com/passage/?search=Isaiah+9%3A1-2%2CMatthew+4%3A14-16&version=NIV"
+        ],
+        [
+          "Hebrew Isaiah 9:2",
+          "https://biblehub.com/text/isaiah/9-2.htm"
+        ],
+        [
+          "Richard Beaton, Isaiah's Christ in Matthew's Gospel (2002), research program",
+          "https://assets.cambridge.org/97805218/18889/sample/9780521818889ws.pdf"
+        ]
+      ]
+    },
+    {
+      "id": "isaiah-53-4-healing",
+      "label": "He took our infirmities",
+      "earlier": "Isaiah 53:4",
+      "later": "Matthew 8:16–17",
+      "kind": "Healing formula quotation; lexical difference across Hebrew and Greek",
+      "original": "חֳלָיֵנוּ הוּא נָשָׂא וּמַכְאֹבֵינוּ סְבָלָם ('our sicknesses he bore, our pains he carried')",
+      "setting": "Isaiah's fourth servant poem depicts a sufferer bearing illness and pain, interpreted within the larger exile-restoration discourse. The ancient Greek version renders a related clause using 'sins', making the textual tradition crucial.",
+      "laterUse": "Matthew quotes Isaiah 53:4 after reporting Jesus' healings and exorcisms, drawing attention to physical sickness in the wording; this is a narrower use than later applications to Jesus' death.",
+      "relationship": "A particular use of Isaiah 53 distinct from the broader servant-identity case already in this audit (isaiah-53). Matthew's phrasing is closer to the Hebrew's physical-illness sense than the old Greek version's 'sins'. Rikk Watts (2015) connects it to Matthew's wider theme of ending Israel's afflictions.",
+      "evidence": "The verbal source and Hebrew–Septuagint difference are independently inspectable. Matthew's literary explanation for healings does not independently establish that the reported miracles occurred, nor prove an original forecast of Jesus.",
+      "sourceStatus": "Explicit citation and identifiable translation choice; specific theological significance debated",
+      "refs": [
+        [
+          "Isaiah 53:4 / Matthew 8:17 parallel",
+          "https://www.biblegateway.com/passage/?search=Matthew+8%3A17%2CIsaiah+53%3A4&version=NIV"
+        ],
+        [
+          "Hebrew Isaiah 53:4",
+          "https://biblehub.com/text/isaiah/53-4.htm"
+        ],
+        [
+          "Greek Septuagint comparison",
+          "https://intertextual.bible/text/isaiah-53.4/lxx-isaiah-53.4"
+        ],
+        [
+          "Rikk Watts (2015), Journal for the Study of the New Testament",
+          "https://doi.org/10.1177/0142064X15595940"
+        ]
+      ]
+    },
+    {
+      "id": "isaiah-42-servant-matthew-12",
+      "label": "The quiet servant bringing justice",
+      "earlier": "Isaiah 42:1–4",
+      "later": "Matthew 12:15–21",
+      "kind": "Servant-justice oracle applied to Jesus",
+      "original": "הֵן עַבְדִּי ... מִשְׁפָּט לַגּוֹיִם יוֹצִיא ('Here is my servant ... he will bring justice to the nations')",
+      "setting": "Isaiah's servant is characterized as chosen and Spirit-supported, bringing justice without destructive force; the servant's identity across Isaiah 40–55 is debated, and the text belongs to an exile/restoration horizon.",
+      "laterUse": "Matthew quotes a lengthy adapted version to interpret Jesus' healing and instruction, including his restraint and the prospect of justice or hope among the nations.",
+      "relationship": "Explicit later identification with Jesus. The Greek wording used in Matthew differs in places from both the standard Hebrew and the old Greek Isaiah text; it is an interpretive quotation rather than an exact unedited reproduction.",
+      "evidence": "The passage's servant/justice language exists earlier, and Matthew's theological application is documented. Richard Beaton (2000) argues that the servant's justice is integral to Matthew's compassionate portrayal of Jesus; the original identity and fulfillment standard are debatable.",
+      "sourceStatus": "Text-to-text use direct; earlier servant identity and fulfillment interpretation disputed",
+      "refs": [
+        [
+          "Hebrew Isaiah 42:1–4",
+          "https://www.biblegateway.com/passage/?search=Isaiah+42%3A1-4&version=NRSVUE"
+        ],
+        [
+          "Matthew 12:17–21 and Isaiah 42:1–4",
+          "https://www.biblegateway.com/passage/?search=Matthew+12%3A17-21%2CIsaiah+42%3A1-4&version=NIV"
+        ],
+        [
+          "Richard Beaton (2000), Matthew's use of Isaiah 42",
+          "https://doi.org/10.1177/0142064X0002207502"
+        ],
+        [
+          "Richard Beaton, Isaiah's Christ in Matthew's Gospel (2002)",
+          "https://assets.cambridge.org/97805218/18889/sample/9780521818889ws.pdf"
+        ]
+      ]
+    },
+    {
+      "id": "psalm-78-parables-matthew-13",
+      "label": "I will open my mouth in parables",
+      "earlier": "Psalm 78:1–8 (especially 78:2)",
+      "later": "Matthew 13:34–35",
+      "kind": "Historical teaching psalm described as fulfilled",
+      "original": "אֶפְתְּחָה בְמָשָׁל פִּי ('I will open my mouth with a parable')",
+      "setting": "Psalm 78, associated by its superscription with Asaph, introduces a poetic instruction that retells Israel's past and teaches coming generations. In its own context it describes the psalmist's mode of teaching rather than a named future person's preaching.",
+      "laterUse": "Matthew cites the line to explain Jesus' choice to teach in parables. Matthew's longer wording mentions what was hidden since the foundation of the world, whereas Hebrew Psalm 78:2 speaks about things 'from of old'.",
+      "relationship": "A later literary application of ancient wisdom and teaching language, not an unambiguous predictive oracle. Some Greek manuscripts name Isaiah as the 'prophet' in Matthew 13:35; most do not. The source remains Psalm 78:2.",
+      "evidence": "The older psalm and Matthew's citation are directly comparable; the choice of literary quotation does not independently prove historicity of every speech of Jesus. NET and NABRE textual notes document the rare Matthew 'Isaiah' variant.",
+      "sourceStatus": "Earlier retrospective instruction and later reuse established; minor NT textual variant noted",
+      "refs": [
+        [
+          "Psalm 78:2 / Matthew 13:35 parallel",
+          "https://www.biblegateway.com/passage/?search=Psalm+78%3A2%2CMatthew+13%3A35&version=NABRE"
+        ],
+        [
+          "Hebrew Psalm 78:2",
+          "https://biblehub.com/text/psalms/78-2.htm"
+        ],
+        [
+          "NET textual note Matthew 13:35",
+          "https://classic.net.bible.org/passage.php?passage=Mat+13%3A35"
+        ],
+        [
+          "Yale Bible Study on Matthew's parables",
+          "https://yalebiblestudy.org/courses/the-gospel-of-matthew/lessons/controversies-and-parables-study-guide/"
+        ]
+      ]
+    },
+    {
+      "id": "zechariah-11-silver-matthew-27",
+      "label": "Thirty silver pieces attributed to Jeremiah",
+      "earlier": "Zechariah 11:12–13 (and debated allusions to Jeremiah 18–19; 32)",
+      "later": "Matthew 26:14–16; 27:3–10",
+      "kind": "Composite attribution and redaction of a shepherd oracle",
+      "original": "שְׁלֹשִׁים כָּסֶף ('thirty [pieces of] silver', Zechariah 11:12); Matthew says 'through Jeremiah'",
+      "setting": "Zechariah 11 presents a symbolic shepherd drama about the rejection of a shepherd and the contemptuous thirty-silver payment. It mentions disposing of the money in the house of YHWH, but not the purchase of a potter's field.",
+      "laterUse": "Matthew's Judas narrative specifies thirty silver pieces, money thrown into the temple, and the purchase of a potter's field; Matthew 27:9 calls the quotation Jeremiah although its closest wording is Zechariah 11:12–13.",
+      "relationship": "The discrepancy is explicit. Some scholars posit composite imagery from Jeremiah 19 or 32; Maarten J. J. Menken (2002) argues Zechariah 11:13 is the main source and Matthew's redaction explains the altered wording and selected narrative details.",
+      "evidence": "The source attribution in Matthew is demonstrably different from the best matching earlier text. A correction based solely on Matthew's own claim that Judas acted this way would be circular; the earlier source independently exists, but the thirty-coin event is not independently verified by that correspondence.",
+      "sourceStatus": "Zechariah source and Jeremiah attribution verifiable; precise cause of misattribution debated",
+      "refs": [
+        [
+          "NRSVUE Zechariah 11:12–13 vs Matthew 27:9–10",
+          "https://www.biblegateway.com/passage/?search=Zechariah+11%3A12-13%3B+Matthew+27%3A9-10&version=NRSVUE"
+        ],
+        [
+          "Zechariah 11:12 Hebrew",
+          "https://biblehub.com/text/zechariah/11-12.htm"
+        ],
+        [
+          "Maarten J.J. Menken (2002), Biblica 83",
+          "https://www.bsw.org/biblica/vol-83-2002/the-old-testament-quotation-in-matthew-27-9-10-textual-form-and-context/238/article-p309.html"
+        ],
+        [
+          "Jeremiah 32:6–9 for comparison",
+          "https://www.biblegateway.com/passage/?search=Jeremiah+32%3A6-9&version=NRSVUE"
+        ]
+      ]
     }
   ],
   "review": {
     "review_date": "2026-10-20",
-    "internal_review_status": "source/text review completed; documented corrections incorporated",
-    "external_review_status": "pending",
+    "internal_review_status": "Batch 1 reviewed; Batch 2 newly researched (not independently reviewed)",
+    "external_review_status": "held until full defined inventory audited",
     "review_document": "REVIEW.md"
-  }
+  },
+  "batches": [
+    {
+      "id": "batch-1",
+      "label": "Initial cross-category starter cases",
+      "case_ids": [
+        "isaiah-7-14",
+        "hosea-11-1",
+        "jeremiah-31-15",
+        "micah-5-2",
+        "zechariah-9-9",
+        "isaiah-53",
+        "psalm-22",
+        "isaiah-40-3",
+        "jeremiah-46-egypt",
+        "ezekiel-29-egypt",
+        "jonah-3-warning",
+        "nazorean-matthew-2-23",
+        "isaiah-9-galilee-matthew-4",
+        "isaiah-53-4-healing",
+        "isaiah-42-servant-matthew-12",
+        "psalm-78-parables-matthew-13",
+        "zechariah-11-silver-matthew-27"
+      ],
+      "status": "internally_reviewed"
+    },
+    {
+      "id": "batch-2",
+      "label": "Complete Matthew's ten classic fulfillment-formula quotation cases",
+      "case_ids": [
+        "nazorean-matthew-2-23",
+        "isaiah-9-galilee-matthew-4",
+        "isaiah-53-4-healing",
+        "isaiah-42-servant-matthew-12",
+        "psalm-78-parables-matthew-13",
+        "zechariah-11-silver-matthew-27"
+      ],
+      "status": "research_complete_internal_review_pending"
+    }
+  ]
 }
