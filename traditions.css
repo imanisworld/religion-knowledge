@@ -103,3 +103,8 @@ h1{font-size:clamp(2rem,3vw,2.55rem);line-height:1.08;margin:.15rem 0}
   .compact-list{grid-template-columns:1fr}
   .footnote{line-height:1.6}
 }
+
+.checked-facts{padding-left:1.2rem;margin:.5rem 0 1rem}
+.checked-facts li{margin:.7rem 0;padding:.1rem .2rem}
+.checked-facts p{margin:.25rem 0 .3rem}
+.checked-facts a{font-size:.82rem;font-weight:700}
