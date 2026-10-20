@@ -50,7 +50,7 @@ test('known false legacy claims do not reappear in public biographies',()=>{
     ['person-munro-winsome','(<em>JSNT</em>'],
     ['person-moo-douglas','straightforward mandate for civil obedience'],
     ['person-pliny-the-younger','Disinterested source'],
-    ['person-wason-peter','never attempt to falsify'],
+    ['person-wason-peter','Showed subjects overwhelmingly seek confirming instances and never attempt to falsify'],
     ['person-watson-and-rayner','neither strong nor lasting'],
     ['person-wenham-john','proposals (1967, 1981)'],
     ['person-trobisch-david','Scripture</em> (2024)'],
