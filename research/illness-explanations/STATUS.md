@@ -21,7 +21,7 @@
 | Adversarial pre-review | **Done 20 Oct — internal, not independent** | [PRE-REVIEW.md](PRE-REVIEW.md): 5 hold; 7 hold with qualification ; `IL-HIPBLAME-001` was unresolved in the original pre-review; its English-translation wording is now confirmed. **Corrections applied 20 Oct:** `IL-JOHN-001` and `IL-SIRACH-001` downgraded to `verified_with_qualification`; `IL-HIPBLAME-001` initially to `needs_qualification` and subsequently to `verified_with_qualification` after the §1 translation was retrieved; John, Job, Sirach, Mari, Mesopotamian-roles and Snow wording corrected; Poirier, Zapff, Neufeld and MSU Snow sources added |
 | Cross-model AI review | **Done 20 Oct — ChatGPT, posted from the owner's account (review 5590548738)** | 3 hold; 9 hold with qualification; 1 needed a citation fix (`IL-MESMED-001`); 0 disproved. All five required corrections applied: Mesopotamian sources (Scurlock removed as support, Geller 2024 added at abstract level), the exact Sirach 38:15 Hebrew/Greek difference, John 9:3–4 wording, and Deuteronomy wording aligned to the NABRE. **AI review, not outside specialist review** |
 | Final AI review (13 claims) | **Done 20 Oct — Claude, not independent** | [PRE-REVIEW.md](PRE-REVIEW.md) final matrix: 4 hold, 9 hold with qualification, 0 collapse |
-| Independent outside audit | **Pending — not performed** | No explicit owner waiver has been verified; see §3b |
+| Independent outside audit | **Not performed — waived by the owner (20 Oct 2026, reconfirmed)** | See §3b |
 | Existing corpus and app CI | **PASS — GitHub Actions** | Religion Corpus run #535 passed parser tests, reader regeneration/sync, search-index checks, app validation, phone-sized Chromium, standalone build; new module remains unregistered/unpublished |
 
 **Counting policy:** The 139 records are the **claim registry on this branch**, not the canonical registry on `main`. PR #212 independently edits the registry and must be reconciled if either PR advances. The thirteen statuses indicate how far the primary/secondary *source checks* went, not third-party review or approval to publish.
@@ -67,17 +67,19 @@ Verified on 20 October 2026 against `main` at `ab55625` and PR #212 at `6b096b1`
 
 This procedure was rehearsed in a scratch worktree: the result was 148 entries, a pure append with no changes to existing lines, and "All checks passed."
 
-## 3b. Review gate — authorization clarification (20 October 2026)
+## 3b. Owner decision — review gate (20 October 2026)
 
-An earlier status incorrectly recorded that the owner waived outside specialist review by accepting the AI-review limitations. **No explicit waiver was verified, and the assertion is withdrawn.** The owner authorized this record correction; independent review and merge approval remain separate pending decisions.
+**Decision:** The owner accepts the documented limits of the AI reviews in place of an outside specialist review for this module.
+
+**History:** This decision was first recorded in commit ca0e4fc. Commits 4863546–bc16cf9 then withdrew it because no explicit waiver had been verified. On 20 October 2026 the owner was asked directly, in the Claude Code session, whether a waiver had been given ("Did you mean to accept the documented limits in place of outside review?"). The owner answered "Yes — I accept, both PRs", covering this PR and #202. The decision is restored on that basis.
 
 - **Done:** an internal English-translation source check (including Hippocratic §1), an adversarial pre-review, a ChatGPT cross-model review, and a final Claude AI review of all 13 claims, with corrections applied.
-- **Not done:** independent human specialist review; Hebrew, Greek or Akkadian collation; page-level reading of Scurlock, Lawrence or the Cambridge chapter; examination of the primary Mari tablets.
-- **Still required:** The outside review gate stays open, along with the consolidation freeze, #212 registry reconciliation (§3a), and explicit permission to merge, deploy or publish. Public material must not claim independent specialist verification.
+- **Not done (accepted as limits):** independent human specialist review; Hebrew, Greek or Akkadian collation; page-level reading of Scurlock, Lawrence or the Cambridge chapter; examination of the primary Mari tablets.
+- **Still required:** the consolidation freeze, the #212 registry reconciliation (§3a), and explicit permission to merge, deploy or publish. Public material must not claim independent specialist verification.
 
 ## 4. Next safe action
 
-Reconcile the claim registry with PR #212 using the rehearsed procedure in §3a, once the merge order is settled. Then, when the consolidation freeze is lifted and the owner authorizes it, register the module in the reader, search and navigation, and rerun every check. The external-review gate remains open (§3b), and public text must not call these claims independently reviewed.
+Reconcile the claim registry with PR #212 using the rehearsed procedure in §3a, once the merge order is settled. Then, when the consolidation freeze is lifted and the owner authorizes it, register the module in the reader, search and navigation, and rerun every check. The review gate is closed by the owner's reconfirmed decision (§3b); public text must still not call these claims independently reviewed.
 
 ## 5. Connected existing project work
 

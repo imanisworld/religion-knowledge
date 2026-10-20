@@ -20,7 +20,7 @@
 | `IL-SNOW-001` | Holds | 1854 method confirmed; outbreak already declining before the 8 Sept handle removal. |
 | `IL-KOCH-001` | Holds | 24 Mar / 10 Apr 1882 confirmed; one infectious cause, not all illness. |
 
-**Unresolved limits:** The limits in the right-hand column remain unresolved. An earlier statement that the owner accepted them in lieu of outside specialist review was not authorized and has been withdrawn (STATUS.md).
+**Accepted limits:** The owner accepts the limits in the right-hand column as limitations, not resolutions. The decision was withdrawn and then reconfirmed (STATUS.md §3b).
 
 ---
 
