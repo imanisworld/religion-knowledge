@@ -73,15 +73,41 @@
 .rk-reader-page #search{background:#171113;border-color:#44343A;color:#F7F2F3}
 :root[data-theme=dark] .rk-reader-page #rail{background:#171113}
 :root[data-theme=dark] .rk-reader-page .docswitch a.on{background:#8B3A4A!important;border-color:#8B3A4A!important}
+/* The inline reader CSS sets --rail:312px AFTER its first mobile override.
+   Reset it here (this stylesheet loads last) so every reader uses full mobile width. */
+@media(max-width:1080px){
+  :root{--rail:0px}
+}
 @media(max-width:720px){
-  :root{--rk-nav-h:52px}
-  .rk-sitebar-inner{min-height:var(--rk-nav-h);padding:.42rem .7rem;gap:.45rem}
-  .rk-brand{font-size:.96rem}
+  :root{--rk-nav-h:90px}
+  /* Put the brand/theme on the first row and keep all navigation visible below. */
+  .rk-sitebar-inner{
+    min-height:var(--rk-nav-h);
+    display:grid;
+    grid-template-columns:minmax(0,1fr) auto;
+    grid-template-rows:auto auto;
+    gap:.25rem .5rem;
+    padding:.45rem .7rem;
+  }
+  .rk-brand{grid-column:1;grid-row:1;min-width:0;font-size:.96rem}
   .rk-brand small{display:none}
-  .rk-global-nav{overflow-x:auto;scrollbar-width:none;gap:.08rem}
+  .rk-site-control{grid-column:2;grid-row:1}
+  .rk-global-nav{
+    grid-column:1/-1;grid-row:2;
+    display:flex;align-items:center;justify-content:space-between;
+    width:100%;min-width:0;margin-left:0;
+    overflow-x:auto;scrollbar-width:none;gap:.12rem;
+  }
   .rk-global-nav::-webkit-scrollbar{display:none}
-  .rk-global-nav a,.rk-site-control{padding:.42rem .5rem;font-size:.7rem}
+  .rk-global-nav a{white-space:nowrap;padding:.42rem .3rem;font-size:.7rem}
+  .rk-site-control{padding:.42rem .5rem;font-size:.7rem}
   .rk-global-nav .rk-hide-phone{display:none}
+}
+/* Explicit heading contrast in the light library, including on mobile Safari. */
+:root:not([data-theme=dark]) .rk-landing-page .hero h1,
+:root:not([data-theme=dark]) .rk-landing-page .section-head h2,
+:root:not([data-theme=dark]) .rk-landing-page .card h2{
+  color:#241B1E;
 }
 
 
