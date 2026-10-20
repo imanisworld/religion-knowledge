@@ -4452,5 +4452,252 @@
         "anchor": "#reproduction-and-the-binary-justification"
       }
     ]
+  },
+  {
+    "claim_id": "LC-SANDERS-001",
+    "claim_text": "As a blanket description of Second Temple Judaism, \"first-century Jews earned salvation by keeping the law\" is overstated. Sanders found the covenant framed as prior to obedience, with atonement provided, across Palestinian Jewish literature of c. 200 BCE–200 CE, with 4 Ezra as his named exception. The narrower claim that some texts tie final vindication to obedience is supported and still debated.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Deuteronomy 30:11; Philippians 3:6",
+        "locator": "Deut 30:11; Phil 3:6"
+      },
+      {
+        "source": "4 Ezra",
+        "locator": "as discussed by Sanders, p. 409"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "E.P. Sanders, Paul and Palestinian Judaism (Fortress, 1977)",
+        "locator": "p. 75 (definition of covenantal nomism); p. 409 (4 Ezra), as quoted in the reviews cited in Law & Covenant §9",
+        "stance": "supports"
+      },
+      {
+        "citation": "D.A. Carson, P.T. O'Brien, M.A. Seifrid (eds.), Justification and Variegated Nomism, vol. 1 (2001)",
+        "locator": "vol. 1 overall conclusion, as summarized in the Mohr Siebeck publisher record (page not verified)",
+        "stance": "qualifies"
+      },
+      {
+        "citation": "Simon Gathercole, Where Is Boasting? (Eerdmans, 2002)",
+        "locator": "main thesis on final vindication, as summarized in the Eerdmans publisher record (page not verified)",
+        "stance": "qualifies"
+      }
+    ],
+    "counterargument": "Critics of Sanders (Justification and Variegated Nomism; Gathercole) argue that covenantal nomism understates the weight some texts give to final judgment according to works. They do not restore the works-righteousness caricature, but they make the picture more varied than a single pattern.",
+    "public_locations": [
+      {
+        "file": "Law_and_Covenant.md",
+        "anchor": "#a-first-century-jews-earned-salvation-by-keeping-the-law"
+      },
+      {
+        "file": "law-covenant.html",
+        "anchor": "#a-first-century-jews-earned-salvation-by-keeping-the-law"
+      }
+    ],
+    "notes": "Law & Covenant §7 audit 1; Sanders page numbers via secondary reviews cited in §9.",
+    "last_verified": "2026-10-20",
+    "reviewer": "audit-2026-10-20"
+  },
+  {
+    "claim_id": "LC-TRIPART-001",
+    "claim_text": "The moral / ceremonial / civil division of the Mosaic law is a later Christian theological framework (Aquinas, ST I-II q.99; Westminster Confession 19.3-19.5), not a classification the Torah itself states. Leviticus 19 places 19:18 beside 19:19 without any change of category.",
+    "claim_type": "theological_confessional",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Thomas Aquinas, Summa Theologiae",
+        "locator": "I-II q.99 a.4"
+      },
+      {
+        "source": "Westminster Confession of Faith",
+        "locator": "ch. 19.3-19.5"
+      },
+      {
+        "source": "Leviticus 19",
+        "locator": "Lev 19:18-19"
+      },
+      {
+        "source": "1 Corinthians 7",
+        "locator": "1 Cor 7:19"
+      }
+    ],
+    "secondary_sources": [],
+    "counterargument": "Defenders argue the division is implicit in the New Testament's selective treatment of the law and in distinctions such as Deut 6:1 (precepts, ceremonies, judgments). The framework is coherent as theology; the qualification is only that it is an interpretation, not the text's own sorting.",
+    "public_locations": [
+      {
+        "file": "Law_and_Covenant.md",
+        "anchor": "#a-christians-keep-the-moral-law-but-not-the-ceremonial-or-civil-law"
+      },
+      {
+        "file": "law-covenant.html",
+        "anchor": "#a-christians-keep-the-moral-law-but-not-the-ceremonial-or-civil-law"
+      }
+    ],
+    "notes": "Law & Covenant §7 audit 2. Primary sources linked in §9 (ccel.org, wts.edu).",
+    "last_verified": "2026-10-20",
+    "reviewer": "audit-2026-10-20"
+  },
+  {
+    "claim_id": "LC-NPPNAME-001",
+    "claim_text": "James D.G. Dunn named and popularized the \"New Perspective on Paul\" in his 1982 Manson Memorial Lecture, published in 1983; N.T. Wright had used the phrase \"a new perspective\" in his 1978 Tyndale lecture.",
+    "claim_type": "historical_date_event",
+    "status": "verified",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "N.T. Wright, \"The Paul of History and the Apostle of Faith,\" Tyndale Bulletin 29 (1978)",
+        "locator": "Tyndale New Testament Lecture 1978"
+      },
+      {
+        "source": "J.D.G. Dunn, \"The New Perspective on Paul,\" Bulletin of the John Rylands Library 65 (1983)",
+        "locator": "pp. 95-122 (Manson Memorial Lecture, 1982)"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Mark Goodacre, The Paul Page: New Perspective bibliography",
+        "locator": "Dunn 1983 entry",
+        "stance": "supports"
+      }
+    ],
+    "public_locations": [
+      {
+        "file": "Law_and_Covenant.md",
+        "anchor": "#a-who-named-the-new-perspective-and-the-schreiner-book-credit"
+      },
+      {
+        "file": "law-covenant.html",
+        "anchor": "#a-who-named-the-new-perspective-and-the-schreiner-book-credit"
+      },
+      {
+        "file": "Bible_Deep_Dive_Master_Notes.md",
+        "anchor": "#s9-5-2"
+      },
+      {
+        "file": "master-notes.html",
+        "anchor": "#s9-5-2"
+      }
+    ],
+    "notes": "Corrects Study Notes §9.5.2, which said Dunn \"coined\" the term in a 1983 lecture.",
+    "last_verified": "2026-10-20",
+    "reviewer": "audit-2026-10-20"
+  },
+  {
+    "claim_id": "LC-SUPERSESS-001",
+    "claim_text": "Replacement (supersessionist) theology is a documented and historically dominant Christian reading, but it is not the only reading the New Testament supports: Hebrews 8:13 calls the first covenant obsolete, while Romans 11:1 and 11:28-29 say Israel is not rejected and its calling is irrevocable. Catholic teaching has revised the earlier position (1965, 2015, 2026).",
+    "claim_type": "theological_confessional",
+    "status": "verified_with_qualification",
+    "confidence": "contested",
+    "primary_sources": [
+      {
+        "source": "Hebrews 8:8-13; Romans 11; Jeremiah 31:31-37",
+        "locator": "Heb 8:13; Rom 11:1, 11:28-29; Jer 31:35-37"
+      },
+      {
+        "source": "Nostra Aetate (1965)",
+        "locator": "§4"
+      },
+      {
+        "source": "Commission for Religious Relations with the Jews, \"The Gifts and the Calling of God Are Irrevocable\" (2015)",
+        "locator": "whole document"
+      },
+      {
+        "source": "Dicastery for the Doctrine of the Faith, \"A Journey of Hope\" (16 Sep 2026)",
+        "locator": "§13"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "R. Kendall Soulen, The God of Israel and Christian Theology (Fortress, 1996)",
+        "locator": "typology of supersessionism (economic, punitive, structural)",
+        "stance": "context"
+      }
+    ],
+    "counterargument": "Supersessionist readers argue Hebrews' language about the old covenant, together with texts such as Gal 6:16 and 1 Pet 2:9-10, shows the church as the continuation of Israel, so that Romans 11 concerns a future of Jewish individuals within the church rather than a continuing covenant. This remains a live position in several Protestant traditions.",
+    "public_locations": [
+      {
+        "file": "Law_and_Covenant.md",
+        "anchor": "#a-the-new-covenant-replaced-god-s-covenant-with-israel"
+      },
+      {
+        "file": "law-covenant.html",
+        "anchor": "#a-the-new-covenant-replaced-god-s-covenant-with-israel"
+      }
+    ],
+    "notes": "Law & Covenant §7 audit 4. Judaism/Jewish-Christian relations: anti-Jewish vs antisemitic distinction maintained in §6.",
+    "last_verified": "2026-10-20",
+    "reviewer": "audit-2026-10-20"
+  },
+  {
+    "claim_id": "CP-SCHREIN-001",
+    "claim_text": "Israel's Law and the Church's Faith: Paul and His Recent Interpreters (Eerdmans, 1988) is by Stephen Westerholm, not Thomas Schreiner.",
+    "claim_type": "historical_date_event",
+    "status": "verified",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "Eerdmans catalog record, ISBN 9780802802880",
+        "locator": "author field"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "McMaster University, notice of Stephen Westerholm's retirement",
+        "locator": "publications paragraph",
+        "stance": "supports"
+      }
+    ],
+    "public_locations": [
+      {
+        "file": "Cited_Persons.md",
+        "anchor": "#s"
+      },
+      {
+        "file": "cited-persons.html",
+        "anchor": "#person-schreiner-thomas"
+      },
+      {
+        "file": "Cited_Persons.md",
+        "anchor": "#w"
+      },
+      {
+        "file": "cited-persons.html",
+        "anchor": "#person-westerholm-stephen"
+      }
+    ],
+    "notes": "Corrects a misattribution in the Cited Persons Schreiner entry.",
+    "last_verified": "2026-10-20",
+    "reviewer": "audit-2026-10-20"
+  },
+  {
+    "claim_id": "CP-ARCHER-001",
+    "claim_text": "Gleason Archer, in Encyclopedia of Bible Difficulties (1982), rejects reading ʾelep in the Numbers censuses as \"clan\" (naming Mendenhall, Bright, and Clark) and defends the 603,550 total from the place-value structure of the figures and the Exodus 38:25 half-shekel sum.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "medium",
+    "primary_sources": [
+      {
+        "source": "Gleason L. Archer, Encyclopedia of Bible Difficulties (Zondervan, 1982)",
+        "locator": "pp. 124-125 (hosted copy; print pagination not verified)"
+      }
+    ],
+    "secondary_sources": [],
+    "public_locations": [
+      {
+        "file": "Cited_Persons.md",
+        "anchor": "#a"
+      },
+      {
+        "file": "cited-persons.html",
+        "anchor": "#person-archer-gleason"
+      }
+    ],
+    "notes": "Qualification: page numbers come from an unofficial hosted copy. Earlier wording \"defends every Numbers census figure\" narrowed.",
+    "last_verified": "2026-10-20",
+    "reviewer": "audit-2026-10-20"
   }
 ]
