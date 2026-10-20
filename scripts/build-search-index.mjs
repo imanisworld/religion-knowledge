@@ -12,6 +12,7 @@ const DOC_META = [
   ['sources.html',         'Sources'],
   ['other-side.html',      'The Strongest Case'],
   ['translations.html',    'Translations'],
+  ['translation-evidence.html','Translation Evidence'],
   ['method-reference.html','Method & Reference'],
   ['glossary.html',        'Glossary'],
   ['cited-persons.html',   'Cited Persons'],

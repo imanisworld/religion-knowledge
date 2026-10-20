@@ -10,6 +10,7 @@ const RESEARCH_READERS = [
   ['sources.html', 'Sources & Primary Texts', 'Named scholars, publications, and primary-text citations.'],
   ['other-side.html', 'The Strongest Case', 'The strongest traditional and apologetic cases, stated fairly.'],
   ['translations.html', 'Translations', 'Translation history and the choices behind disputed renderings.'],
+  ['translation-evidence.html', 'Translation Evidence', 'What changed in Bible translations, how it changed, why, and what the evidence establishes.'],
   ['method-reference.html', 'Method & Reference', 'Survey method, open audit queue, reading timeline.'],
   ['glossary.html', 'Glossary', 'Terms and definitions used across the study.'],
   ['cited-persons.html', 'Cited Persons', 'Who the cited scholars, theologians, historians, and other sources are — including relevant context and flags.'],
@@ -58,6 +59,7 @@ const MISC_FILES = [
 const RESEARCH_DIRS = [
   'research/religion-law',
   'research/gender-over-time',
+  'research/translation-evidence',
   'research/synthesis',
 ];
 
@@ -119,7 +121,7 @@ function buildIndexHtml() {
     'history.html', 'religion-law.html', 'gender-over-time.html', 'patterns-synthesis.html',
   ]));
   const bibleCards = cardsFor(pick([
-    'translations.html', 'master-notes.html', 'field-guide.html', 'other-side.html',
+    'translations.html', 'translation-evidence.html', 'master-notes.html', 'field-guide.html', 'other-side.html',
   ]));
   const referenceCards = cardsFor(pick([
     'sources.html', 'cited-persons.html', 'method-reference.html', 'glossary.html',
