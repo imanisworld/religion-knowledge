@@ -1,8 +1,8 @@
 {
-  "version": 8,
+  "version": 9,
   "updated": "2026-10-20",
   "method": "Working scope: direct or explicit fulfillment claims in the New Testament; concrete time/place predictions and conditional threats in the Hebrew Bible and New Testament; messianic proof texts and apocalyptic prediction claims. List source and later use separately. Other echo-only candidates are included only when a specific later claim is identified. Entries in pending groups are candidate discovery leads, not vetted/complete research. The number shown is the number of tracked claims in this working inventory, not an objective total of all biblical prophecies.",
-  "scope_notes": "Non-exhaustive seed beyond Matthew's ten classic formulas: 50 candidate loci, 42 with dedicated claim studies, two linked to existing studies and six pending/partial (three Revelation and three NT quotation checks). Seven near-time Jesus/Paul cases have source-linked records.",
+  "scope_notes": "Initial non-exhaustive working inventory of 10 Matthew formula quotations plus 50 additional claim loci: all 50 now have dedicated (48) or earlier linked (2) case records. Zero seed locations remain, but no exhaustive biblical inventory has been established. New omissions must be tracked as new leads, not treated as already completed.",
   "matthew_formula_ten": [
     {
       "group": "matthew_formula_ten",
@@ -126,8 +126,9 @@
       "claim_locus": "Mark 1:2–3",
       "earlier_source": "Malachi 3:1 / Isaiah 40:3",
       "question": "Combined messenger and wilderness voice citation",
-      "status": "partial_related_case_exists",
-      "related_case_id": "isaiah-40-3"
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "mark-1-composite-quotation"
     },
     {
       "group": "other_nt",
@@ -170,8 +171,9 @@
       "claim_locus": "John 19:24",
       "earlier_source": "Psalm 22:18",
       "question": "Lots cast for garments",
-      "status": "partial_related_case_exists",
-      "related_case_id": "psalm-22"
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "john-19-24-garments-psalm22"
     },
     {
       "group": "other_nt",
@@ -223,8 +225,9 @@
       "claim_locus": "Acts 8:32–35",
       "earlier_source": "Isaiah 53:7–8",
       "question": "Servant as Jesus in Ethiopian official's reading",
-      "status": "partial_related_case_exists",
-      "related_case_id": "isaiah-53"
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "acts-8-isaiah53-ethiopian"
     },
     {
       "group": "other_nt",
@@ -501,24 +504,27 @@
       "claim_locus": "Revelation 1:1–3; 22:6–12",
       "earlier_source": "Soon / time near",
       "question": "Imminence language in its original audience",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "revelation-1-22-soon"
     },
     {
       "group": "apocalyptic",
       "claim_locus": "Revelation 13:1–18",
       "earlier_source": "Beast and number",
       "question": "Imperial context and future readings",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "revelation-13-beast-number"
     },
     {
       "group": "apocalyptic",
       "claim_locus": "Revelation 20–21",
       "earlier_source": "Millennium and New Jerusalem",
       "question": "Restoration and end-state imagery",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "revelation-20-21-millennium-new-jerusalem"
     }
   ],
   "discovery_status": "partial_seed_inventory",
