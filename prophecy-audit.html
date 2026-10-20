@@ -23,12 +23,13 @@ table{width:100%;min-width:0;border-collapse:collapse;background:var(--paper);fo
 .cases{display:grid;gap:1rem}.case{background:var(--paper);border:1px solid var(--line);border-radius:10px;padding:1.25rem 1.4rem}.case h3{scroll-margin-top:135px}.meta{font-size:.83rem;color:var(--muted);margin:.25rem 0 1rem}.case dl{margin:0}.case dl>div{padding:.6rem 0;border-bottom:1px solid var(--line)}.case dt{font-size:.73rem;color:var(--accent);text-transform:uppercase;font-weight:600;letter-spacing:.04em}.case dd{margin:.2rem 0 0}.original{font-size:1.05rem;display:inline-block}.case details{margin:1rem 0 .2rem}.case summary{cursor:pointer;color:var(--accent);font-weight:600}.case li{margin:.3rem 0}
 .footer{font-size:.83rem;border-top:1px solid var(--line);padding-top:1rem;color:var(--muted)}:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
 @media(max-width:620px){main{padding:2rem 1rem 4rem}.localnav{margin-inline:-1rem;padding-inline:1rem}.case{padding:1rem}.deck{font-size:1rem}}
-@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}</style></head>
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}</style><link rel="stylesheet" href="research-page-nav.css">
+</head>
 <body class="rk-with-sitebar">
 <header class="rk-sitebar"><div class="rk-sitebar-inner"><a class="rk-brand" href="index.html">Religion Knowledge<small>Research library</small></a>
 <nav class="rk-global-nav" aria-label="Site navigation"><a href="index.html">Library</a><a href="history.html">History</a><a href="religion-law.html">Religion &amp; Law</a><a href="search.html">Search</a></nav>
 <button class="rk-site-control" id="theme" type="button" aria-label="Toggle light or dark theme">Theme</button></div></header>
-<main id="main"><div class="breadcrumb"><a href="index.html">Library</a> / Biblical Prophecy</div>
+<main data-research-pager id="main"><div class="breadcrumb"><a href="index.html">Library</a> / Biblical Prophecy</div>
 <header><p class="eyebrow">Earlier text · later interpretation · historical record</p><h1>Biblical Prophecy Audit</h1>
 <p class="deck">What did a passage mean to its original audience? How was it later called “fulfilled”? What can the surviving evidence actually establish?</p>
 <div class="chiprow"><span>65 passage studies</span><span>Earlier text · later interpretation · historical evidence</span></div>
@@ -539,4 +540,5 @@ table{width:100%;min-width:0;border-collapse:collapse;background:var(--paper);fo
 <p><strong>Research context:</strong> <a href="https://yalebiblestudy.org/courses/the-gospel-of-matthew/lessons/ancestry-and-birth-study-guide/" target="_blank" rel="noopener">Yale Bible Study on Matthew</a>; <a href="https://www.thetorah.com/article/the-jewish-origins-of-the-christmas-story" target="_blank" rel="noopener">TheTorah.com on Matthew's earlier sources</a>; <a href="https://www.thetorah.com/article/nebuchadnezzar-fails-to-conquer-egypt-so-jeremiahs-prophecy-was-updated" target="_blank" rel="noopener">Kahn on Egypt and Jeremiah</a>; <a href="https://www.biblegateway.com/passage/?search=Psalm+22&version=NET" target="_blank" rel="noopener">NET Bible Psalm 22 notes</a>.</p>
 </section><p class="footer">This module preserves textual, interpretive, and empirical questions as separate fields. It does not treat an asserted miracle or fulfillment as independently verified.</p></main>
 <script>document.getElementById('theme').addEventListener('click',()=>{const root=document.documentElement;root.dataset.theme=root.dataset.theme==='dark'?'light':'dark';try{localStorage.setItem('religion-knowledge-theme',root.dataset.theme)}catch(e){}})</script>
+<script src="research-page-nav.js"></script>
 </body></html>

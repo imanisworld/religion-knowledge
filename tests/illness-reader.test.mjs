@@ -39,7 +39,9 @@ test('illness module is registered in library, build, and Search', () => {
   assert.ok(links.every(x => x.url.startsWith('illness-explanations.html#illness-')));
   const siteScript = readFileSync('scripts/build-reader-site.mjs', 'utf8');
   assert.ok(siteScript.includes("'illness-explanations.html'"));
-  assert.ok(siteScript.includes("'research/illness-explanations'"));
+  // Public HTML is retained, while internal source-control files are intentionally absent.
+  assert.ok(!siteScript.includes("'research/illness-explanations'"));
+  assert.ok(!readFileSync('scripts/build-reader-site.mjs','utf8').includes("copyDirectory("));
   const homepage = readFileSync('dist/reader-site/index.html', 'utf8');
   assert.ok(homepage.includes('href="illness-explanations.html"'));
   assert.ok(readFileSync('comparisons.html', 'utf8').includes('illness-explanations.html#illness-2'));
