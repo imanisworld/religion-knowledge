@@ -641,7 +641,28 @@ hr+*{margin-top:0}
   <header>
     <p class="doctitle">Cited Persons</p>
     <p class="docsub">Consider the source</p>
-    <details class="library"><summary><span>Documents</span><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></summary><div class="docswitch"><a href="master-notes.html">Study Notes</a><a href="field-guide.html">Observations</a><a href="history.html">History</a><a href="sources.html">Sources</a><a href="other-side.html">The Strongest Case</a><a href="translations.html">Translations</a><a href="method-reference.html">Method &amp; Reference</a><a href="glossary.html">Glossary</a><a class="on" href="#">Cited Persons</a><a href="religion-law.html">Religion &amp; Law</a><a href="personal-belief-history.html">Personal History</a></div></details>
+    <div class="document-picker">
+      <label for="document-switcher">Switch document</label>
+      <select id="document-switcher" aria-label="Switch document">
+        <optgroup label="Reading">
+          <option value="master-notes.html">Study Notes</option>
+          <option value="field-guide.html">Observations</option>
+          <option value="history.html">History</option>
+          <option value="other-side.html">The Strongest Case</option>
+          <option value="translations.html">Translations</option>
+        </optgroup>
+        <optgroup label="Sources &amp; references">
+          <option value="sources.html">Sources</option>
+          <option value="method-reference.html">Method &amp; Reference</option>
+          <option value="glossary.html">Glossary</option>
+          <option value="cited-persons.html" selected>Cited Persons</option>
+        </optgroup>
+        <optgroup label="Other topics">
+          <option value="religion-law.html">Religion &amp; Law</option>
+          <option value="personal-belief-history.html">Personal History</option>
+        </optgroup>
+      </select>
+    </div>
   </header>
   <input id="search" type="search" placeholder="Search  ( / )" aria-label="Search document">
   <div id="toc"><a class="lvl2" href="#sA">A</a>
@@ -1097,7 +1118,11 @@ hr+*{margin-top:0}
 </main>
 <button id="top" aria-label="Back to top"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"/></svg></button>
 <script>
-const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
+const $=(s,r=document)=>r.querySelector(s), $=(s,r=document)=>[...r.querySelectorAll(s)];
+const documentPicker = $('#document-switcher');
+if(documentPicker) documentPicker.addEventListener('change', () => {
+  if(documentPicker.value) location.assign(documentPicker.value);
+});
 
 /* keep wheel/trackpad scrolling inside the navigation rail */
 const scrollRail=$('#rail'), scrollToc=$('#toc');
