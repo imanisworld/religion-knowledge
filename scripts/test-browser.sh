@@ -448,6 +448,7 @@ pages = (
     'patterns-synthesis.html',
     'religion-law.html',
     'search.html',
+    'comparisons.html',
 )
 probe = """<script>
 (() => {
@@ -476,7 +477,7 @@ for page in pages:
     )
 PY
 
-for page in gender-over-time patterns-synthesis religion-law search; do
+for page in gender-over-time patterns-synthesis religion-law search comparisons; do
   "$BROWSER" \
     --headless --disable-gpu --no-sandbox --hide-scrollbars \
     --window-size=390,844 --virtual-time-budget=3500 --dump-dom \
@@ -490,4 +491,13 @@ for page in gender-over-time patterns-synthesis religion-law search; do
   fi
   rm -f "$page.mobile-browser-smoke.html"
 done
-printf 'SITE_MOBILE_LAYOUT_SMOKE=PASS pages=gender-over-time,patterns-synthesis,religion-law,search\n'
+printf 'SITE_MOBILE_LAYOUT_SMOKE=PASS pages=gender-over-time,patterns-synthesis,religion-law,search,comparisons\n'
+
+# Comparison hub must preserve links to original published research pages.
+for destination in 'history.html#s2-1' 'religion-law.html#compare-laws' 'gender-over-time.html#biblical-gender-metaphors' 'method-reference.html#s5-1' 'cited-persons.html'; do
+  if ! grep -Fq "href=\"$destination\"" comparisons.html; then
+    echo "Comparison index missing source link: $destination" >&2
+    exit 1
+  fi
+done
+printf 'COMPARISON_INDEX_SMOKE=PASS links=history,law,gender,method,persons\n'
