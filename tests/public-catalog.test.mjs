@@ -13,7 +13,7 @@ test('catalog keeps its full research coverage while linking public readers', ()
   }
   for (const name of ['Baal / Hadad','Akan traditional religion','Akan (Asante)','Enūma Eliš','Cuneiform'])
     assert.ok(html.includes(name), 'Missing entity ' + name);
-  assert.ok((html.match(/<tr data-catalog-row>/g) || []).length >= 100,
+  assert.ok((html.match(/<tr role="row" data-catalog-row>/g) || []).length >= 100,
     'Expected the full comparative entity list');
   assert.ok((html.match(/<li data-catalog-row>/g) || []).length >= 300,
     'Expected all people in the Cited Persons index');
@@ -30,7 +30,8 @@ test('public catalog opens research notes on-site, without GitHub detours or pho
   const html = buildPublicCatalog();
   assert.doesNotMatch(html, /github\.com|View research file|swipe a table sideways|table-scroll/);
   assert.match(html, /<details class="entry-more"><summary>Read research notes<\/summary>/);
-  assert.match(html, /data-label="Entry"/);
+  assert.match(html, /role="table" class="catalog-table"/);
+  assert.match(html, /role="rowheader" scope="row" data-label="Entry"/);
   assert.match(html, /data-label="Region"/);
   assert.match(html, /data-label="Overview"/);
   assert.match(html, /@media\(max-width:720px\)/);
