@@ -16,8 +16,8 @@ Do **not** reopen already-verified RFRA/current-status findings unless new prima
 |---:|---|---|---|
 | 1 | Texas Penal Code §21.06 — 1973 enactment history | 🟢 Verified | Closed; promoted to `us-states/texas.md` and record `US-TX-PENAL-21-06` (2026-10-20) |
 | 2 | Maine Sunday motor-vehicle sales rule | 🟢 Verified | Closed; promoted to `us-states/maine.md` and record `US-ME-17-3203` (2026-10-20) |
-| 3 | Montana 1972 no-aid readoption | 🔴 Open | Convention transcript/delegate evidence sufficient to describe 1972 motives without importing 1889 motives |
-| 4 | Cross-state statutory inventories | 🔴 Open | Primary-current-law verification for each row before state-profile promotion |
+| 3 | Montana 1972 no-aid readoption | Closed 2026-10-20; promoted to `us-states/montana.md` | Convention transcript/delegate evidence sufficient to describe 1972 motives without importing 1889 motives |
+| 4 | Cross-state statutory inventories | Anchor-state pass complete 2026-10-20 (8 states × 4 tables); 42 states not started | Primary-current-law verification for each row before state-profile promotion |
 
 ## Status key
 

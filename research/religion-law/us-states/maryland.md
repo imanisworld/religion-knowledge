@@ -93,6 +93,6 @@ The causal claim here is direct because the historical provisions themselves exp
 
 ## Remaining gaps
 
-- Church-property and religious-property tax exemptions.
+- Key cases on religious-property tax exemptions (first-pass statute row in `../gap-closure/cross-state-inventories.md`).
 - Healthcare and employment conscience/accommodation statutes.
 - Program-specific education funding disputes beyond the anchor cases.

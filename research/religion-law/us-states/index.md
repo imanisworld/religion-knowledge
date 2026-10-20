@@ -29,7 +29,7 @@ This directory now has a verified first-pass baseline for all 50 states. It rema
 | [Minnesota](minnesota.md) | First-pass baseline verified; expansion pending |
 | [Mississippi](mississippi.md) | First-pass baseline verified; expansion pending |
 | [Missouri](missouri.md) | First-pass baseline verified; expansion pending |
-| [Montana](montana.md) | Expanded anchor profile verified; 1972 no-aid readoption motives need deeper review |
+| [Montana](montana.md) | Expanded anchor profile verified; 1972 no-aid convention history closed |
 | [Nebraska](nebraska.md) | First-pass baseline verified; expansion pending |
 | [Nevada](nevada.md) | First-pass baseline verified; expansion pending |
 | [New Hampshire](new-hampshire.md) | First-pass baseline verified; expansion pending |
