@@ -1,6 +1,6 @@
 # Biblical Prophecy — Evidence Audit
 
-**Checked:** October 20, 2026 · **Status:** 17 researched cases: 11 source-reviewed in Batch 1 and 6 new Matthew-formula studies awaiting their internal control pass. External specialist review remains on hold until the defined collection is complete. This is not a count of all biblical prophecies.
+**Checked:** October 20, 2026 · **Status:** 22 researched cases across three batches: 11 internally checked, 11 newer cases awaiting claim-specific internal review. External review remains deferred until the defined collection is complete. This is not a count of all biblical prophecies.
 
 The Bible's prophetic literature includes warnings, oracles about current political crises, predictions, poetic laments, promises of restoration, and retrospective historical narratives. A later author calling an earlier passage **fulfilled** establishes that the later author made that interpretation. It does not by itself establish that the earlier author predicted the later event.
 
@@ -41,6 +41,12 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 | [Isaiah 42:1–4](#isaiah-42-servant-matthew-12) | Matthew 12:15–21 | Servant-justice oracle applied to Jesus | Text-to-text use direct; earlier servant identity and fulfillment interpretation disputed |
 | [Psalm 78:1–8 (especially 78:2)](#psalm-78-parables-matthew-13) | Matthew 13:34–35 | Historical teaching psalm described as fulfilled | Earlier retrospective instruction and later reuse established; minor NT textual variant noted |
 | [Zechariah 11:12–13 (and debated allusions to Jeremiah 18–19; 32)](#zechariah-11-silver-matthew-27) | Matthew 26:14–16; 27:3–10 | Composite attribution and redaction of a shepherd oracle | Zechariah source and Jeremiah attribution verifiable; precise cause of misattribution debated |
+
+| [Isaiah 61:1–2; 58:6 (Greek textual combination)](#isaiah-61-luke-4) | Luke 4:16–21 | Fulfillment declaration combining Hebrew Bible passages through Greek wording | Quote and editorial changes directly checkable; historical speech uncorroborated |
+| [Joel 2:28–32 (Hebrew 3:1–5)](#joel-2-acts-2) | Acts 2:16–21 | Future Spirit oracle reread as Pentecost fulfillment | Original/Acts time-language difference confirmed; supernatural fulfillment a faith claim |
+| [Amos 9:11–12](#amos-9-acts-15) | Acts 15:15–19 | Greek translation changes the actors in a restoration oracle | Substantial source-language difference documented; exact translation-history mechanism debated |
+| [Zechariah 12:10–14](#zechariah-12-john-19) | John 19:34–37; Revelation 1:7 | Piercing oracle and divergent Greek/Hebrew wording | Original and later wording documented; intended historical identity and textual route disputed |
+| [Jeremiah 31:31–34](#jeremiah-31-hebrews-8) | Hebrews 8:8–13 | New covenant promise applied to later Christian religious community | Quotation documented; theological and supersessionist readings disputed |
 
 ## Passage audits
 
@@ -215,6 +221,56 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Zechariah source and Jeremiah attribution verifiable; precise cause of misattribution debated
 - **Primary and scholarly sources:** [NRSVUE Zechariah 11:12–13 vs Matthew 27:9–10](https://www.biblegateway.com/passage/?search=Zechariah+11%3A12-13%3B+Matthew+27%3A9-10&version=NRSVUE); [Zechariah 11:12 Hebrew](https://biblehub.com/text/zechariah/11-12.htm); [Maarten J.J. Menken (2002), Biblica 83](https://www.bsw.org/biblica/vol-83-2002/the-old-testament-quotation-in-matthew-27-9-10-textual-form-and-context/238/article-p309.html); [Jeremiah 32:6–9 for comparison](https://www.biblegateway.com/passage/?search=Jeremiah+32%3A6-9&version=NRSVUE).
 
+### Isaiah 61:1–2; 58:6 (Greek textual combination) — Good news, liberation, and the omitted day of vengeance {#isaiah-61-luke-4}
+
+- **Original language:** רוּחַ אֲדֹנָי יְהוִה עָלָי (Spirit of the Lord YHWH is upon me); Luke draws on Greek Isaiah 61 and 58
+- **Earlier situation:** Isaiah 61 addresses the restoration community with news of liberation, comfort, and reversal; 61:2 includes both a favorable year and a day of divine vengeance. Isaiah 58:6 speaks of release from oppression in a critique of unjust fasting.
+- **Later claim / event:** Luke depicts Jesus reading an Isaianic scroll in Nazareth and declaring 'Today this scripture has been fulfilled'. Luke's Greek passage features sight for the blind from the Old Greek, adds a release line from Isaiah 58:6, and stops before the day-of-vengeance clause.
+- **Type of reuse or prediction:** Explicit fulfillment claim with a composite quotation, selection and omission. Timothy Michael Law (2013) identifies the Septuagint sources; scholars debate whether omitting vengeance signals Luke's editorial theological emphasis.
+- **Independent evidence and limitations:** The differences between Isaiah's Hebrew, Old Greek, and Luke's quotation are directly visible. The narrated synagogue encounter establishes Luke's literary depiction, not independently verified firsthand testimony about a historical speech.
+- **Provisional conclusion:** Quote and editorial changes directly checkable; historical speech uncorroborated
+- **Primary and scholarly sources:** [Isaiah 61:1–2 in NRSVUE](https://www.biblegateway.com/passage/?search=Isaiah+61%3A1-2&version=NRSVUE); [Luke 4:18–21 in NRSVUE](https://www.biblegateway.com/passage/?search=Luke+4%3A18-21&version=NRSVUE); [Greek and Hebrew comparison (with Timothy Michael Law 2013)](https://intertextual.bible/text/lxx-isaiah-61.1/luke-4.18); [Peer-reviewed analysis, HTS Teologiese Studies (2018)](https://scielo.org.za/scielo.php?pid=S0259-94222018000100058&script=sci_arttext).
+
+### Joel 2:28–32 (Hebrew 3:1–5) — Afterward becomes in the last days {#joel-2-acts-2}
+
+- **Original language:** וְהָיָה אַחֲרֵי־כֵן ('and it shall be afterward')
+- **Earlier situation:** Joel anticipates restoration and God's Spirit poured upon people of differing ages and genders after the communal crisis described in the book; the vision also includes cosmic signs and judgment.
+- **Later claim / event:** Acts' Peter says the Pentecost events are what Joel spoke about. Acts 2:17 introduces Joel's prophecy as occurring 'in the last days' rather than the Hebrew passage's simpler 'afterward'.
+- **Type of reuse or prediction:** Explicit prophetic identification and interpretive temporal framing. The addition 'in the last days' matters for how the narrator places Pentecost inside eschatological history.
+- **Independent evidence and limitations:** The textual wording and narrative use are independently checkable. Acts is a later report of the event being interpreted; it does not alone provide an independent verification of miraculous Spirit outpouring or the completion of cosmic signs.
+- **Provisional conclusion:** Original/Acts time-language difference confirmed; supernatural fulfillment a faith claim
+- **Primary and scholarly sources:** [NRSVUE Joel 2:28 and Acts 2:17 compared](https://www.biblegateway.com/passage/?search=Joel+2%3A28%2CActs+2%3A17&version=NRSVUE); [Hebrew Joel 2:28](https://biblehub.com/text/joel/2-28.htm); [Acts 2:16–21 context](https://www.biblegateway.com/passage/?search=Acts+2%3A16-21&version=NRSVUE).
+
+### Amos 9:11–12 — Edom possessed or humankind seeking God? {#amos-9-acts-15}
+
+- **Original language:** לְמַעַן יִירְשׁוּ אֶת־שְׁאֵרִית אֱדוֹם (so they may possess the remnant of Edom)
+- **Earlier situation:** The closing oracle of Amos envisions restoration of David's fallen structure and renewed relationships with Edom and the nations. Its exact dating, possible editorial growth, and whether it envisages conquest or broader inclusion are discussed in scholarship.
+- **Later claim / event:** Acts presents James citing a Greek form in which 'the rest of humankind' seek the Lord, supporting the inclusion of Gentiles without requiring them to become Jews.
+- **Type of reuse or prediction:** The Septuagint has 'seek' and 'humankind' in place of Hebrew 'possess' and 'Edom'. These are major grammatical and semantic changes, often explained through similar Hebrew letters and alternate vocalization; however, the phrase 'all the nations who are called by my name' is shared, so inclusion does not depend solely on the new Greek subjects.
+- **Independent evidence and limitations:** Hebrew Amos, Old Greek, and Acts 15 can be compared. James D. Nogalski (2015) traces three stages of the text's interpretation. The Acts account itself is not independent proof the earlier author foresaw a specific first-century council.
+- **Provisional conclusion:** Substantial source-language difference documented; exact translation-history mechanism debated
+- **Primary and scholarly sources:** [Amos 9:11–12 Hebrew/English](https://www.biblegateway.com/passage/?search=Amos+9%3A11-12&version=NRSVUE); [Acts 15:16–18 text](https://www.biblegateway.com/passage/?search=Acts+15%3A16-18&version=NRSVUE); [James D. Nogalski (2015), Three Faces of Hope](https://doi.org/10.1177/0034637315578828); [Septuagint/Hebrew details as secondary comparative source](https://historicalchristian.faith/doctrine/doctrines/nt-use-of-ot/arguments/amos-9-11-12.html).
+
+### Zechariah 12:10–14 — Look on the one they pierced {#zechariah-12-john-19}
+
+- **Original language:** וְהִבִּיטוּ אֵלַי אֵת אֲשֶׁר־דָּקָרוּ ('they will look toward me whom they pierced' in the Masoretic Text)
+- **Earlier situation:** In Zechariah 12, the house of David and inhabitants of Jerusalem are part of a future conflict, divine deliverance and communal mourning. The identity of the pierced figure and the relationship between first- and third-person phrasing are debated.
+- **Later claim / event:** John quotes the oracle immediately after describing a soldier piercing Jesus' side; Revelation 1:7 echoes it when describing Jesus' appearance.
+- **Type of reuse or prediction:** The verb in John's quote is closer to Hebrew 'pierced' than the ancient Greek Zechariah's markedly different expression. John's Greek also frames the object in third person while the Masoretic text includes 'to me'. Whether John translated Hebrew directly or used an available Hebraizing Greek form is unproven.
+- **Independent evidence and limitations:** The verbal parallels and variants are checkable. Christian and Jewish readings identify the subject differently. An independently accepted execution by crucifixion does not establish that the original Zechariah oracle specifically foretold John's narrative detail.
+- **Provisional conclusion:** Original and later wording documented; intended historical identity and textual route disputed
+- **Primary and scholarly sources:** [Hebrew Zechariah 12:10](https://biblehub.com/text/zechariah/12-10.htm); [John 19:37](https://biblehub.com/text/john/19-37.htm); [Adam Kubiś on Zechariah in John (2012)](https://intertextual.bible/text/zechariah-12.10/john-19.37); [Jewish interpretive perspective](https://jewsforjudaism.org/knowledge/articles/does-john-1937-misquote-zechariah-1210/).
+
+### Jeremiah 31:31–34 — A new covenant for Israel and Judah {#jeremiah-31-hebrews-8}
+
+- **Original language:** וְכָרַתִּי ... בְּרִית חֲדָשָׁה ('I will make ... a new covenant')
+- **Earlier situation:** Jeremiah promises the houses of Israel and Judah a renewed covenant, in which divine teaching or Torah is internalized and sins are forgiven, as part of a restoration sequence after exile.
+- **Later claim / event:** Hebrews quotes Jeremiah at length to argue that a new priestly or covenantal order has become available through Jesus; Hebrews 8:13 says the earlier order is becoming old and approaching disappearance.
+- **Type of reuse or prediction:** Explicit reuse and reinterpretation. Scholars disagree about how far Hebrews' language extends to replacing Judaism or Israel's covenant; Nicholas J. Moore (2024) argues the immediate argument centers on cultic aspects and warns against translating its Greek as a blanket denunciation of Judaism.
+- **Independent evidence and limitations:** The shared wording is observable. The earlier text specifically names Israel and Judah; it does not name Jesus. Religious conclusions about superseding Judaism depend on later interpretation, and there is no independent historical observation that can confirm a divine covenant transfer.
+- **Provisional conclusion:** Quotation documented; theological and supersessionist readings disputed
+- **Primary and scholarly sources:** [Jeremiah 31:31–34 NRSVUE](https://www.biblegateway.com/passage/?search=Jeremiah+31%3A31-34&version=NRSVUE); [Hebrews 8:8–13 NRSVUE](https://www.biblegateway.com/passage/?search=Hebrews+8%3A8-13&version=NRSVUE); [Nicholas J. Moore (2024), Supersessionism and the Cult Attitude of Stephen and Hebrews](https://doi.org/10.1177/00211400241230995); [Ted Goshorn (2016), Emory thesis on non-supersessionist covenant readings](https://etd.library.emory.edu/concern/etds/s1784m67g?locale=en).
+
 ## Bounded inventory: ten Matthew fulfillment formulas
 
 These ten are a **particular scholarly-defined subset** of Matthew's use of the Hebrew Bible. All ten have dedicated or linked audit cases; this does not finish Matthew's other quotations or other books.
@@ -234,7 +290,7 @@ These ten are a **particular scholarly-defined subset** of Matthew's use of the 
 
 ### Wider seed inventory — pending discovery and research
 
-The following **50 entries are candidates, not findings**. A related record sometimes exists for a different later use of the same passage; the specific claim still needs review. An inventory is complete only after discovery checks against multiple lists and direct full-text searches.
+The following **50 tracked candidate locations** now include **five source-researched claims and 45 cases still pending or only partially linked**. An item marked researched refers to a separate case record; it is not an independently reviewed claim. A related record can cover another later use, without completing this particular claim. This seed inventory remains incomplete until discovery is checked against multiple inventories and the underlying texts.
 
 | Group | Candidate claim location | Source or subject | Status |
 |---|---|---|---|
@@ -244,23 +300,23 @@ The following **50 entries are candidates, not findings**. A related record some
 | other matthew | Matthew 26:31 | Zechariah 13:7 | Research pending |
 | other matthew | Matthew 26:54, 56 | Unspecified scriptures | Research pending |
 | other nt | Mark 1:2–3 | Malachi 3:1 / Isaiah 40:3 | Related case exists (isaiah-40-3); claim pending |
-| other nt | Luke 4:18–21 | Isaiah 61:1–2 / 58:6 | Research pending |
+| other nt | Luke 4:18–21 | Isaiah 61:1–2 / 58:6 | Research record: isaiah-61-luke-4; review pending |
 | other nt | John 12:38 | Isaiah 53:1 | Research pending |
 | other nt | John 12:39–41 | Isaiah 6:9–10 | Research pending |
 | other nt | John 13:18 | Psalm 41:9 | Research pending |
 | other nt | John 19:24 | Psalm 22:18 | Related case exists (psalm-22); claim pending |
 | other nt | John 19:36 | Exodus 12:46 / Psalm 34:20 | Research pending |
-| other nt | John 19:37 | Zechariah 12:10 | Research pending |
-| other nt | Acts 2:16–21 | Joel 2:28–32 | Research pending |
+| other nt | John 19:37 | Zechariah 12:10 | Research record: zechariah-12-john-19; review pending |
+| other nt | Acts 2:16–21 | Joel 2:28–32 | Research record: joel-2-acts-2; review pending |
 | other nt | Acts 2:25–31 | Psalm 16:8–11 | Research pending |
 | other nt | Acts 3:22–23 | Deuteronomy 18:15–19 | Research pending |
 | other nt | Acts 8:32–35 | Isaiah 53:7–8 | Related case exists (isaiah-53); claim pending |
 | other nt | Acts 13:33 | Psalm 2:7 | Research pending |
-| other nt | Acts 15:16–18 | Amos 9:11–12 | Research pending |
+| other nt | Acts 15:16–18 | Amos 9:11–12 | Research record: amos-9-acts-15; review pending |
 | other nt | Romans 9:25–26 | Hosea 2:23 / 1:10 | Research pending |
 | other nt | Romans 11:26–27 | Isaiah 59:20–21 / 27:9 | Research pending |
 | other nt | Hebrews 1:5 | Psalm 2:7 / 2 Samuel 7:14 | Research pending |
-| other nt | Hebrews 8:8–12 | Jeremiah 31:31–34 | Research pending |
+| other nt | Hebrews 8:8–12 | Jeremiah 31:31–34 | Research record: jeremiah-31-hebrews-8; review pending |
 | historical oracle | Isaiah 44:28–45:1 | Cyrus and restoration | Research pending |
 | historical oracle | Jeremiah 25:11–12 | Seventy years of Babylonian rule | Research pending |
 | historical oracle | Jeremiah 29:10 | Seventy years for Babylon | Research pending |
@@ -291,7 +347,7 @@ The following **50 entries are candidates, not findings**. A related record some
 
 ## Open inventory and stopping rule
 
-**Batch 1:** 11 starter records, already internally reviewed. **Batch 2:** the six additional dedicated studies covering all ten classic Matthew formula quotations, with four earlier cases linked. The new entries are researched but still need a source-control review. Neither batch means "every prophecy done."
+**Batch 1:** 11 internally checked starter records. **Batch 2:** six research entries completing Matthew's ten classic formula quotations with four earlier case links. **Batch 3:** five NT passages showing the importance of Septuagint translation and later theological readings. The 11 entries in Batches 2–3 remain pending internal content-control review. All batches are only a defined subset of the wider inventory.
 
 Next nonduplicative batches, with each source passage + later claim as the canonical match key:
 
