@@ -1310,36 +1310,6 @@
     "notes": "Normalized from the verified Massachusetts expanded anchor profile (2026-09-27). Profile classification: D/B. Later amendments superseded Article XI itself."
   },
   {
-    "id": "US-TX-PENAL-21-06",
-    "jurisdiction": "United States",
-    "subnational_jurisdiction": "Texas",
-    "legal_level": "statute",
-    "formal_citation": "Tex. Penal Code § 21.06 (“Homosexual Conduct”), enacted by S.B. 34, 63rd Leg., R.S. (1973)",
-    "date_enacted_or_decided": "1973-06-14",
-    "subject": "sexual conduct between persons of the same sex",
-    "legal_effect": "Made specified same-sex sexual contact a Class C misdemeanor; opposite-sex consensual adult conduct was decriminalized in the same revision.",
-    "classification": "E_principally_secular_purpose",
-    "religion_connection": "The documented enactment channel is a professional Model Penal Code revision; no religious advocacy in the 1973 proceedings was located. The term and the older sodomy-law lineage have religious roots, which are recorded as remote background only.",
-    "evidence_type": [
-      "legislative_history",
-      "judicial"
-    ],
-    "competing_causes": [
-      "Model Penal Code-based codification led by the State Bar committee (chair Page Keeton)",
-      "Negotiated agreement among the State Bar, the Texas District and County Attorneys Association, and the Texas Criminal Defense Lawyers Association",
-      "National pattern of partial MPC adoption retaining same-sex-only offenses"
-    ],
-    "scope_note": "Classification covers the 1973 same-sex-specific formulation only. The introduced and Senate committee versions of S.B. 34 are missing from the bill file, so religious testimony cannot be ruled out entirely.",
-    "status": "unenforceable",
-    "enforcement_note": "Held unconstitutional in Lawrence v. Texas (2003); still printed with an official note.",
-    "primary_authority": "Tex. Penal Code ch. 21 with official note on Lawrence — https://statutes.capitol.texas.gov/Docs/PE/pdf/PE.21.pdf; Texas Legislative Reference Library, Penal Code legislative trail — https://lrl.texas.gov/collections/PenalCodeTrail.cfm",
-    "explanatory_authority": "Texas Legislative Reference Library, revision timeline — https://lrl.texas.gov/collections/PenalCodeTimeline.cfm; Lawrence v. Texas, 539 U.S. 558 (2003) — https://supreme.justia.com/cases/federal/us/539/558/",
-    "last_verified": "2026-10-20",
-    "review_priority": "medium",
-    "confidence": "medium",
-    "notes": "Promoted from research/religion-law/gap-closure/texas-2106-enactment-history.md after spot-check of the LRL trail and timeline on 2026-10-20."
-  },
-  {
     "id": "US-ME-17-3203",
     "jurisdiction": "United States",
     "subnational_jurisdiction": "Maine",

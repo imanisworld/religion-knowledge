@@ -1,8 +1,8 @@
 # Texas — Religion & Law Profile
 
-**Research status:** Expanded anchor profile verified; §21.06 enactment history reviewed (gap closed 2026-10-20)  
+**Research status:** Expanded anchor profile; §21.06 enacted text and judicial status verified, 1973 provision-specific causation unresolved (reviewed 2026-10-20)  
 **Last verified:** 2026-10-20 (§21.06 history); 2026-09-27 (all other sections)  
-**Confidence:** High for current constitutional/statutory text, RFRA, and *Lawrence*; medium for historical causation of the 1973 same-sex-only offense
+**Confidence:** High for current constitutional/statutory text, RFRA, and *Lawrence*; **unresolved** for the 1973 same-sex-only offense's specific religious/secular legislative motive
 
 ## Constitutional provisions
 
@@ -85,8 +85,8 @@ The broader American sodomy-law tradition has documented religious and moral-his
 - **Religious advocacy:** No identifiable religious organization or religious testimony was found in the located 1973 enactment record. The national literature reports religious protest against decriminalization generally, not a Texas-specific channel.
 - **Textual lineage:** The 1973 definition narrows part of the gender-neutral 1943 Texas sodomy statute ([Ross, UTEP MA thesis, 2016](https://scholarworks.utep.edu/cgi/viewcontent.cgi?article=1741&context=open_etd), an unpublished thesis that is not peer-reviewed). “Sodomy” itself is a religiously rooted term, which makes the inheritance real but remote.
 - **Archival limit:** The introduced version and Senate committee report of S.B. 34 are missing from the bill file (LRL trail). The LRL also identifies House-side hearing dates and tapes as potentially relevant evidence. Those hearings have not been exhaustively reviewed here, and absence of religious testimony or advocacy cannot be inferred.
-- **Causation assessment:** **Source-limited / mixed historical background; §21.06-specific motive unresolved.** Professional legal associations negotiated the *codewide* revision; the located sources do not establish why this particular same-sex-only offense was retained. Its place in a religiously influenced sodomy-law tradition is separate from that 1973 causal question. Structured record: `US-TX-PENAL-21-06` (category E under the existing rubric; causal certainty limited). Full analysis: `../gap-closure/texas-2106-enactment-history.md`.
-- **Confidence:** Medium.
+- **Causation assessment:** **Source-limited / mixed historical background; §21.06-specific motive unresolved.** Professional legal associations negotiated the *codewide* revision; the located sources do not establish why this particular same-sex-only offense was retained. Its place in a religiously influenced sodomy-law tradition is separate from that 1973 causal question. **Pending-causation research record:** `../records/pending-causation/us-tx-penal-21-06.json` (not assigned A–E; excluded from classified law comparison while causation is unresolved). Full analysis: `../gap-closure/texas-2106-enactment-history.md`.
+- **Confidence:** Contested for provision-specific causation; high for the controlling text and *Lawrence* invalidation.
 
 ## Landmark cases
 
