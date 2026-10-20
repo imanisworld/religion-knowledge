@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "created": "2026-10-20",
+  "status": "research_draft_staged_for_integration_after_pr210",
+  "branch": "research/prophecy-evidence-20261020",
+  "related_pr": 202,
+  "purpose": "Continue prophecy research without touching Claude's UI or the existing reader/search index. These drafts are source-located but await internal verification and are not counted among the 25 canonical cases.",
+  "canonical_count_unchanged": 25,
+  "inventory_candidate_loci": [
+    [
+      "John 13:18",
+      "psalm-41-john-13"
+    ],
+    [
+      "John 19:36",
+      "unbroken-bones-john-19"
+    ],
+    [
+      "Acts 2:25–31",
+      "psalm-16-acts-2"
+    ],
+    [
+      "Acts 3:22–23",
+      "deuteronomy-18-acts-3"
+    ],
+    [
+      "Acts 13:33",
+      "psalm-2-acts-13"
+    ]
+  ],
+  "cases": [
+    {
+      "id": "psalm-41-john-13",
+      "label": "A trusted table companion turns against the speaker",
+      "earlier": "Psalm 41:9 (Hebrew 41:10)",
+      "later": "John 13:18–30",
+      "kind": "First-person lament reapplied to Judas's betrayal",
+      "original": "גַּם־אִישׁ שְׁלוֹמִי ... אוֹכֵל לַחְמִי ... הִגְדִּיל עָלַי עָקֵב ('even the man of my peace ... who eats my bread ... has raised a heel against me')",
+      "setting": "In Psalm 41 the speaker laments sickness, enemies and a trusted companion's betrayal, then asks for recovery and vindication. The psalm names no future first-century disciple and contains no explicit chronological prediction.",
+      "laterUse": "John places a quotation of the shared bread and hostile heel in Jesus' words to explain a coming betrayal at the last meal, with Judas identified by the narrative. John omits the psalm's separate 'in whom I trusted' phrase.",
+      "relationship": "A preexisting experience of betrayal is recast as an event in Jesus' life; exact textual echo is clear, but the original genre is lament and prayer rather than a dated messianic forecast.",
+      "evidence": "We can verify the Hebrew idiom, John’s quotation, and the contextual shift. The reuse is evidence of literary-theological interpretation; it is not an independently dated record that the historical Judas fulfilled a named advance prediction.",
+      "sourceStatus": "Direct quotation verified; original poem about betrayal; advance-prediction claim unsupported",
+      "refs": [
+        [
+          "Hebrew Psalm 41:9",
+          "https://biblehub.com/text/psalms/41-9.htm"
+        ],
+        [
+          "Greek John 13:18",
+          "https://biblehub.com/text/john/13-18.htm"
+        ],
+        [
+          "Primary comparison with Craig S. Keener commentary",
+          "https://intertextual.bible/text/psalm-41.9/john-13.18"
+        ],
+        [
+          "Psalm 41:9 and John 13:18 translations",
+          "https://www.biblegateway.com/passage/?search=Psalm+41%3A9%3BJohn+13%3A18&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "psalm-16-acts-2",
+      "label": "You will not abandon me to Sheol or decay",
+      "earlier": "Psalm 16:8–11",
+      "later": "Acts 2:25–31 (also Acts 13:35–37)",
+      "kind": "Hebrew Sheol/pit language read as a resurrection proof via Greek translation",
+      "original": "לֹא־תַעֲזֹב נַפְשִׁי לִשְׁאוֹל ... לִרְאוֹת שָׁחַת ('you will not abandon my life to Sheol ... to see the pit/decay'); Greek διαφθορά ('decay, corruption')",
+      "setting": "In Psalm 16, a worshipper expresses confidence in divine care and rescue from danger or death. The Hebrew שַׁחַת has debated senses, frequently 'pit' in parallel with Sheol; the Greek translators render 'corruption/decay'.",
+      "laterUse": "Acts depicts Peter quoting the Greek Psalm and arguing that David's body decayed while Jesus was resurrected, so the psalm must have concerned the Messiah. Acts 13 uses the same contrast.",
+      "relationship": "An earlier first-person prayer becomes a proof text for resurrection through Acts' interpretation and the Greek Psalm. The semantic difference between pit and decay is significant, while the Sheol line still invites different resurrection readings.",
+      "evidence": "The source-language difference and argument in Acts are directly documented. Historical knowledge of David's death does not establish the resurrection of Jesus, and the Psalm's original speaker does not explicitly name a future messiah.",
+      "sourceStatus": "Greek wording materially informs Acts' argument; supernatural conclusion unverified independently",
+      "refs": [
+        [
+          "Hebrew Psalm 16:10",
+          "https://biblehub.com/text/psalms/16-10.htm"
+        ],
+        [
+          "Greek Acts 2:27",
+          "https://biblehub.com/text/acts/2-27.htm"
+        ],
+        [
+          "The Use of Psalm 16:8–11 in Acts 2:25–28 (Bible.org study)",
+          "https://bible.org/article/use-psalm-168-11-acts-225-28"
+        ],
+        [
+          "Acts 2:25–31 / Psalm 16:8–11 NRSVue",
+          "https://www.biblegateway.com/passage/?search=Acts+2%3A25-31%3BPsalm+16%3A8-11&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "deuteronomy-18-acts-3",
+      "label": "The prophet like Moses and the changed punishment",
+      "earlier": "Deuteronomy 18:15–22 (possible combined wording from Leviticus 23:29 or Numbers 15:30–31)",
+      "later": "Acts 3:22–23",
+      "kind": "Prophetic succession promise applied to Jesus through a composite quotation",
+      "original": "נָבִיא מִקִּרְבְּךָ מֵאַחֶיךָ כָּמֹנִי ('a prophet from among you, from your kin, like me'); Acts adds ἐξολεθρευθήσεται ἐκ τοῦ λαοῦ ('will be rooted out from the people')",
+      "setting": "Deuteronomy 18 prescribes how Israel should receive legitimate prophets after Moses and warns against divination and false prophetic claims. Scholarly debate concerns whether its 'prophet like Moses' signals continuing prophetic succession, one final figure, or later messianic reception.",
+      "laterUse": "In Acts 3 Peter identifies Jesus with the Mosaic prophet and warns that anyone rejecting him will be cut off from the people, a stronger or different penalty than Deuteronomy 18:19's wording.",
+      "relationship": "An explicit later identification with Jesus plus a composite citation. Many reference editions trace the 'cut off' wording to Leviticus 23:29; Eric J. Brewer (2024/2025) argues Numbers 15:30–31 provides a thematically closer source. The composite source remains debated.",
+      "evidence": "The difference between Hebrew Deuteronomy and Acts and the added sanction are directly observable. The Acts quotation establishes what its author believed about Jesus; it does not independently confirm that Deuteronomy's author intended Jesus.",
+      "sourceStatus": "Textual shift and Christian application verified; composite source and original intent debated",
+      "refs": [
+        [
+          "Hebrew Deuteronomy 18:15",
+          "https://biblehub.com/text/deuteronomy/18-15.htm"
+        ],
+        [
+          "Greek Acts 3:22–23",
+          "https://www.biblegateway.com/passage/?search=Acts+3%3A22-23&version=SBLGNT"
+        ],
+        [
+          "Stephen L. Cook, Oxford Handbook of Deuteronomy (2021)",
+          "https://academic.oup.com/edited-volume/34717/chapter-abstract/296452274"
+        ],
+        [
+          "Christoph W. Stenschke, 'The prophet like Moses' (2021)",
+          "https://verbumetecclesia.org.za/index.php/ve/article/view/1962/0"
+        ],
+        [
+          "Eric J. Brewer, 'The Prophet like Moses and the Word of the Lord' (NTS 2024; posted 2025)",
+          "https://doi.org/10.1017/S0028688524000134"
+        ]
+      ]
+    },
+    {
+      "id": "unbroken-bones-john-19",
+      "label": "The Passover bone rule applied to Jesus",
+      "earlier": "Exodus 12:46; Numbers 9:12; compare Psalm 34:20",
+      "later": "John 19:33–36",
+      "kind": "Ritual instruction and righteous-person psalm reframed as a fulfillment",
+      "original": "וְעֶצֶם לֹא תִשְׁבְּרוּ־בוֹ ('you shall not break a bone of it', Exodus 12:46); John: ὀστοῦν οὐ συντριβήσεται αὐτοῦ ('a bone of his will not be broken')",
+      "setting": "Exodus and Numbers prescribe handling the Passover sacrifice; their words address a recurring ritual, not the expected manner of one named future person's death. Psalm 34:20 portrays God's protection of a righteous person.",
+      "laterUse": "John says Jesus' legs were not broken, then calls this a fulfillment of Scripture, invoking Passover-lamb symbolism already important in the Gospel. Some scholars also see Psalm 34:20 in the passive syntax.",
+      "relationship": "A command about an animal sacrifice becomes a claim about the significance of Jesus' death. The active Hebrew instruction 'you shall not break' changes to the passive Greek description 'will not be broken'; source dependence can include Exodus/Numbers and the Psalm.",
+      "evidence": "John's words and earlier ritual laws can be compared. The NET Bible's note lists multiple plausible textual sources. John's account itself does not independently verify the soldiers' actions or turn the older law into an explicit historical forecast.",
+      "sourceStatus": "Ritual-to-fulfillment reuse documented; precise literary source composite/disputed",
+      "refs": [
+        [
+          "Hebrew Exodus 12:46",
+          "https://biblehub.com/text/exodus/12-46.htm"
+        ],
+        [
+          "Numbers 9:12 NRSVue",
+          "https://www.biblegateway.com/passage/?search=Numbers+9%3A12&version=NRSVUE"
+        ],
+        [
+          "Psalm 34:20 NRSVue",
+          "https://www.biblegateway.com/passage/?search=Psalm+34%3A20&version=NRSVUE"
+        ],
+        [
+          "Greek John 19:36",
+          "https://biblehub.com/text/john/19-36.htm"
+        ],
+        [
+          "NET notes, John 19:36–37",
+          "https://classic.net.bible.org/passage.php?passage=Joh+19%3A36%2C37"
+        ],
+        [
+          "Religions article on Exodus and John (2026)",
+          "https://doi.org/10.3390/rel17060641"
+        ]
+      ]
+    },
+    {
+      "id": "psalm-2-acts-13",
+      "label": "Today I have begotten you",
+      "earlier": "Psalm 2:6–7",
+      "later": "Acts 13:32–34 (compare Hebrews 1:5)",
+      "kind": "Royal enthronement language applied to Jesus' resurrection/exaltation",
+      "original": "בְּנִי אַתָּה אֲנִי הַיּוֹם יְלִדְתִּיךָ ('you are my son; today I have begotten you')",
+      "setting": "Psalm 2 portrays a ruler installed on Zion and opposition from other kings. 'Son' and 'begotten today' evoke royal installation and divinely authorized kingship in a poetic setting, not an anatomical account of divine paternity.",
+      "laterUse": "Acts 13 presents the Psalm as good news fulfilled in the raising of Jesus, and uses a distinct Psalm 16 quotation shortly afterward for the argument that his body did not decay. Scholars debate whether the 'raising' in verse 33 refers specifically to resurrection or to Jesus being raised up and installed in God's plan.",
+      "relationship": "An earlier royal formula is reread christologically, especially with resurrection/exaltation in the adjacent verses. This differs from a literal prediction of a future biological birth, and New Testament uses do not all depend on an identical interpretation.",
+      "evidence": "The earlier poem and Acts quotation are verifiable. Modern scholarship links the early Christian reading to resurrection and heavenly enthronement motifs, but the older verse itself does not name Jesus or independently establish that he rose from the dead.",
+      "sourceStatus": "Royal formula and later reuse verified; precise Acts 13:33 referent disputed",
+      "refs": [
+        [
+          "Hebrew Psalm 2:7",
+          "https://biblehub.com/text/psalms/2-7.htm"
+        ],
+        [
+          "Acts 13:32–35 NRSVue",
+          "https://www.biblegateway.com/passage/?search=Acts+13%3A32-35&version=NRSVUE"
+        ],
+        [
+          "Lee Hyung-il (2012), role of Psalm 2:6 in Acts 13:33",
+          "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001679202"
+        ],
+        [
+          "Hebrews 1:5 NRSVue",
+          "https://www.biblegateway.com/passage/?search=Hebrews+1%3A5&version=NRSVUE"
+        ]
+      ]
+    }
+  ],
+  "release_controls": [
+    "Do not merge or deploy on staging alone",
+    "Check scholarship and primary wording in each case",
+    "After PR #210 UI integration, reconcile the new cases into records.json and index.md, regenerate HTML/search artifacts once against current main",
+    "Keep independent outside review deferred until entire declared inventory is complete"
+  ]
+}
