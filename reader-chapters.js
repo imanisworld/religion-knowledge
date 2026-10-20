@@ -27,6 +27,18 @@
       }
     }
   }
+  // Keep the source/provenance available without letting a long explanatory
+  // panel use half of a laptop viewport before the reading starts.
+  const howto = main.querySelector(':scope > .howto');
+  if (howto) {
+    const about = document.createElement('details');
+    about.className = 'reader-about';
+    const label = document.createElement('summary');
+    label.textContent = 'About these notes and their sources';
+    howto.before(about);
+    about.append(label, howto);
+  }
+
   const sections = Array.from(main.querySelectorAll(':scope > section'));
   if (sections.length < 2) return;
 
@@ -139,7 +151,7 @@
     const hits = available();
     sections.forEach((section, i) => {
       section.hidden = hits.length === 0 || i !== index;
-      section.setAttribute('aria-hidden', String(i !== index));
+      section.setAttribute('aria-hidden', String(hits.length === 0 || i !== index));
       section.classList.remove('dim');
     });
     options.forEach((option, i) => { option.disabled = !matching(i); });
@@ -171,13 +183,20 @@
       });
     }
     noResults.style.display = hits.length ? 'none' : 'block';
+    if (navigate || scroll) {
+      // Navigating should always begin at the top of the newly selected
+      // reading pane rather than retaining a previous section's scroll.
+      sections[index].scrollTop = 0;
+    }
     if (navigate) {
       const hash = firstAnchor(index);
       if (hash) history.pushState({ readerSection: index }, '', '#' + encodeURIComponent(hash));
     }
     if (scroll) {
       // Return to the reader controls, rather than the document masthead.
-      wrapper.scrollIntoView({ block: 'start', behavior: 'auto' });
+      if (!window.matchMedia('(min-width:1081px) and (min-height:640px)').matches) {
+        wrapper.scrollIntoView({ block: 'start', behavior: 'auto' });
+      }
     }
   }
   function move(direction) {
@@ -231,7 +250,7 @@
       filters.forEach(button => button.classList.remove('on'));
     }
     show(index);
-    if (scroll && target) target.scrollIntoView({ block: 'start' });
+    if (scroll && target) target.scrollIntoView({ block: 'start', behavior: 'auto' });
     return true;
   }
   // Reveal hidden sections synchronously before native in-page anchor jumps.
@@ -258,6 +277,28 @@
   window.addEventListener('popstate', () => {
     if (!openHashTarget()) show(0);
   });
+
+  // Show the action explicitly; the default remains light when there is no
+  // stored user preference. Existing user theme choices remain respected.
+  const themeButton = document.querySelector('#themebtn');
+  if (themeButton) {
+    const updateThemeLabel = () => {
+      const isDark = document.documentElement.dataset.theme === 'dark';
+      themeButton.textContent = isDark ? 'Switch to light' : 'Switch to dark';
+      themeButton.setAttribute('aria-label', isDark ? 'Switch to light theme' : 'Switch to dark theme');
+    };
+    updateThemeLabel();
+    themeButton.addEventListener('click', updateThemeLabel);
+  }
+
+  // The selected section is the scrolling region on laptop-sized screens.
+  // Report progress for that region rather than only for the page itself.
+  const progressBar = document.querySelector('#progress i');
+  sections.forEach(section => section.addEventListener('scroll', () => {
+    if (!progressBar || section.hidden) return;
+    const remaining = section.scrollHeight - section.clientHeight;
+    progressBar.style.width = (remaining > 0 ? section.scrollTop / remaining * 100 : 100) + '%';
+  }, { passive: true }));
 
   document.documentElement.classList.add('reader-paginated');
   if (!openHashTarget({ scroll: false })) show(0);
