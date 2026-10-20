@@ -1,3 +1,22 @@
+## Batch 9 — Daniel visions (October 20, 2026)
+
+Six researched Daniel claims are integrated in `records.json`, Markdown, HTML and Search. Their source passages and several academic interpretations are documented, but this is a **source-location and focused historical-control pass**, not a finished critical-edition review or independent peer review.
+
+| Case | Main scholarly evidence | Exact issue for independent reviewer |
+|---|---|---|
+| Daniel 2 | [John J. Collins, Yale Daniel 1–2](https://yalebiblestudy.org/courses/daniel/lessons/daniel-1-2-study-guide/) argues for Babylon–Media–Persia–Greece in the book's scheme; [Cambridge](https://biblehub.com/commentaries/cambridge/daniel/2.htm) and Christian traditions report the Rome-fourth alternative. | Check the evidence for Median vs Medo-Persian positions, Ptolemaic/Seleucid marriages and the book's layered composition. |
+| Daniel 7 | [USCCB critical notes](https://bible.usccb.org/bible/daniel/7) link the little horn with Antiochus IV; [Collins](https://yalebiblestudy.org/courses/daniel/lessons/daniel-7-study-guide/) traces Canaanite divine-court imagery and collective/individual interpretations of the humanlike figure. | Confirm Aramaic wording, holy-ones identity, celestial direction of movement, and the distinct later christological reading. |
+| Daniel 8 | [USCCB](https://bible.usccb.org/bible/daniel/8) identifies Media/Persia and Greece within the chapter and connects the small horn to Antiochus IV. [Yale](https://yalebiblestudy.org/courses/daniel/lessons/daniel-8-9-study-guide/) reads 2,300 evenings/mornings as 1,150 paired-sacrifice days. | Evaluate competing 2,300 full-day interpretation and independently justify any chosen starting point; Greek Daniel traditions require checking. |
+| Daniel 9 | [Yale](https://yalebiblestudy.org/courses/daniel/lessons/daniel-8-9-study-guide/) and [USCCB](https://bible.usccb.org/bible/daniel/9) document reinterpretation of Jeremiah's 70 years as seventy seven-year periods. | Verify identity of both anointed figures, Hebrew syntax and spacing of seven + sixty-two + one, multiple Christian decree-date models, and chronological precision. |
+| Daniel 11 | [USCCB](https://bible.usccb.org/bible/daniel/11) notes that 11:40–45 does not fit Antiochus's known end, as he died in eastern Persia. [Yale](https://yalebiblestudy.org/courses/the-books-of-samuel/lessons/daniel-10-12-study-guide/) explains the strong Hellenistic alignments before these verses. | Examine the external chronology and textual layers and present the future-antichrist/futurist answer fairly; do not quietly erase the mismatch. |
+| Daniel 12 | [USCCB](https://bible.usccb.org/bible/daniel/12) distinguishes 1,290 and 1,335 days, and an early non-universal resurrection description. | Compare 3.5 times, Daniel 8's evenings/mornings, revised-time hypotheses and resurrection genre; no independently corroborated resurrection event. |
+
+**Editorial safeguards:** Daniel 2 and 7 use Aramaic and 8, 9, 11, 12 Hebrew. The older court tales may predate the finalized visions. Dating the final composition to the Antiochus IV crisis is a historical-critical argument with evidence, not a literary timestamp that automatically refutes all alternatives. No claimed supernatural event gains independent corroboration merely because a biblical author described it.
+
+**Control:** 52 canonical cases in nine batches; 11 initially internally reviewed, 41 later cases pending full audit. Fifty additional seed loci: 35 individually researched + two linked earlier studies; 13 pending/partial. Cross-biblical discovery and outside review still pending.
+
+---
+
 ## Batch 8 — Damascus, Edom, Haggai, Zechariah (20 October 2026)
 
 Five source-located research cases have been added to the canonical registry and readers. This work is **preliminary scholarly research**, not a completed independent textual review.
