@@ -395,6 +395,7 @@
 /* Mobile reader fix: the reader's late desktop --rail declaration otherwise
    overrides its earlier 1080px breakpoint, pushing content off the phone. */
 @media(max-width:1080px){
+  :root{--rail:0px}
   .rk-reader-page{--rail:0px}
   .rk-reader-page main{
     margin-left:0;
