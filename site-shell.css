@@ -4,7 +4,7 @@
   --rk-paper:#FFFDFC;
   --rk-ink:#241B1E;
   --rk-ink2:#62565A;
-  --rk-ink3:#807277;
+  --rk-ink3:#6F6066;
   --rk-rule:#DDD2D5;
   --rk-accent:#8B3A4A;
   --rk-accent-strong:#6F2D3A;
@@ -31,7 +31,7 @@
 }
 .rk-brand small{
   display:block;margin-top:.18rem;color:var(--rk-ink3);
-  font:600 .58rem/1.1 var(--rk-body);letter-spacing:.08em;text-transform:uppercase;
+  font:600 .68rem/1.2 var(--rk-body);letter-spacing:.08em;text-transform:uppercase;
 }
 .rk-global-nav{
   margin-left:auto;display:flex;align-items:center;gap:.18rem;min-width:0;
@@ -48,7 +48,7 @@
   background:var(--rk-soft);color:var(--rk-accent-strong);
 }
 .rk-site-control{border:1px solid var(--rk-rule);background:var(--rk-paper)}
-.rk-with-sitebar{--ground:#F5F1F0;--paper:#FFFDFC;--ink:#241B1E;--ink2:#62565A;--ink3:#807277;--rule:#DDD2D5;--accent:#8B3A4A;--accent-soft:#F4E7EA}
+.rk-with-sitebar{--ground:#F5F1F0;--paper:#FFFDFC;--ink:#241B1E;--ink2:#62565A;--ink3:#6F6066;--rule:#DDD2D5;--accent:#8B3A4A;--accent-soft:#F4E7EA}
 :root[data-theme=dark] .rk-with-sitebar{
   --ground:#120E10;--paper:#1C1518;--ink:#F7F2F3;--ink2:#D1C5C9;--ink3:#AA9CA1;
   --rule:#44343A;--accent:#D8899A;--accent-soft:#3A2028;
@@ -137,9 +137,9 @@
   margin-bottom:1rem;
 }
 .rk-reader-page #rail .docsub{
-  font-size:.7rem;
-  line-height:1.35;
-  color:#9E9095;
+  font-size:.78rem;
+  line-height:1.4;
+  color:#B9ADB1;
 }
 .rk-reader-page .docswitch a,
 .rk-reader-page .library summary{
