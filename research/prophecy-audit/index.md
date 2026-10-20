@@ -1,6 +1,6 @@
 # Biblical Prophecy — Evidence Audit
 
-**Checked:** October 20, 2026 · **Status:** 46 researched cases across eight batches: 11 initially reviewed, 35 newer cases needing claim-specific internal review. External review remains deferred until the defined collection is complete. This is not a count of all biblical prophecies.
+**Checked:** October 20, 2026 · **Status:** 52 researched cases across nine batches: 11 initially reviewed, 41 newer cases needing claim-specific internal review. External review remains deferred until the defined collection is complete. This is not a count of all biblical prophecies.
 
 The Bible's prophetic literature includes warnings, oracles about current political crises, predictions, poetic laments, promises of restoration, and retrospective historical narratives. A later author calling an earlier passage **fulfilled** establishes that the later author made that interpretation. It does not by itself establish that the earlier author predicted the later event.
 
@@ -75,6 +75,13 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 | [Jeremiah 49:7–22](#jeremiah-49-edom) | Edom/Idumaea between the Persian and Roman periods | Shared national-judgment tradition; independence of prediction is disputed | Shared wording and Edomite identity history documented; literary priority, chronology and literal devastation uncertain |
 | [Haggai 2:6–9 (with 2:1–5)](#haggai-2-temple-glory) | Rebuilding of Jerusalem's temple; Hebrews 12:26–28 and Christian messianic applications | Near-horizon restoration promise and later eschatological/messianic reading | 520 BCE temple-restoration context strong; treasures interpretation supported; universal shaking/glory fulfillment debated |
 | [Zechariah 14:1–21](#zechariah-14-day-of-yhwh) | Jewish liturgical expectation; Christian end-time readings; historically testable claims | Apocalyptic day-of-YHWH vision without a secure completed event match | Primary imagery and varied later reception documented; complete historical fulfillment not independently verified |
+
+| [Daniel 2:31–45 (Aramaic)](#daniel-2-four-kingdoms) | Successive Babylonian, Median, Persian, Greek or Roman empires; divine kingdom | Four-empire apocalyptic scheme and enduring-kingdom prediction | Four-empire symbolism and later interpretations verifiable; fourth empire, dating and eternal kingdom fulfillment debated |
+| [Daniel 7:1–27 (Aramaic)](#daniel-7-beasts-son-of-man) | Greek-era persecution, judgment and later Son of Man applications to Jesus | Visionary kingdom scheme and divine judgment; later christological reuse | Antiochene crisis closely fits horn/persecution; heavenly figure identity and future fulfillment contested |
+| [Daniel 8:1–27 (Hebrew)](#daniel-8-ram-goat-2300) | Medo-Persian and Macedonian history; desecration and rededication of the temple | Symbolic vision with an interpreted empire sequence and contested duration | Named empires are explicit, Antiochus reference strong; count, dating and supernatural prediction remain debated |
+| [Daniel 9:1–27 (especially 9:24–27, Hebrew)](#daniel-9-seventy-weeks) | Priestly leadership, Antiochus IV and Christian calculations of Jesus' death or end times | Inner-biblical rewriting of a dated prediction with contested anointed figures | Reinterpretation of Jeremiah certain; anointed identities and numerical fulfillment are debated |
+| [Daniel 11:2–45 (Hebrew)](#daniel-11-kings-end) | Persian-era narrative, Ptolemaic/Seleucid wars and the actual death of Antiochus IV | Detailed historical sequence followed by a testable prediction of an end | Hellenistic event matches strong; final king death setting fails a straightforward Antiochus identification |
+| [Daniel 12:1–13 (Hebrew)](#daniel-12-resurrection-days) | Antiochene persecution, restoration, later resurrection and apocalyptic countdowns | End-time resurrection expectation with several non-identical duration formulas | Early resurrection teaching and competing durations verifiable; worldwide end events not corroborated |
 
 ## Passage audits
 
@@ -539,6 +546,66 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Primary imagery and varied later reception documented; complete historical fulfillment not independently verified
 - **Primary and scholarly sources:** [Zechariah 14 original text](https://www.biblegateway.com/passage/?search=Zechariah+14&version=NRSVUE); [Zechariah 14:4 Hebrew](https://biblehub.com/text/zechariah/14-4.htm); [Paul L. Redditt, Zechariah, Oxford Handbook of the Minor Prophets (2021)](https://doi.org/10.1093/oxfordhb/9780190673208.013.31); [TheTorah.com: Sukkot, Future Redemption for Jews and Gentiles](https://www.thetorah.com/article/sukkot-the-festival-of-future-redemption-for-jews-and-gentiles); [Michael Fishbane: How Zechariah Relates to Sukkot](https://www.myjewishlearning.com/article/how-zechariah-relates-to-sukkot/).
 
+### Daniel 2:31–45 (Aramaic) — Statue of four kingdoms and a kingdom that will never end {#daniel-2-four-kingdoms}
+
+- **Original language:** Daniel 2:44, Aramaic: יְקִים אֱלָהּ שְׁמַיָּא מַלְכוּ ('the God of heaven will establish a kingdom'); the king is explicitly called the head of gold in 2:38.
+- **Earlier situation:** Daniel's story is set at Nebuchadnezzar's Babylonian court. Chapter 2 itself is Aramaic and supplies no individual names for its last three kingdoms. Critical scholarship reads the sequence in the context of Greek-era Jewish apocalyptic expectation; the finished visions were edited in the second-century BCE Antiochene crisis, although individual court tales may be older.
+- **Later claim / event:** Yale's John J. Collins reconstructs Babylon, Media, Persia and the Greek Seleucid kingdom from the book's own succession, with failed Seleucid/Ptolemaic marriage alliances in the iron/clay imagery. A long-lived Christian interpretation instead combines Media and Persia and ends with Rome; traditions vary over whether the stone kingdom began with Jesus' ministry or remains future.
+- **Type of reuse or prediction:** The relative dating of the composed chapter and the selected fourth kingdom determine whether an interpretation predicts long-distant Rome or criticizes Greek imperial power in its own day. The eternal and universal divine kingdom has no agreed independently measured historical completion.
+- **Independent evidence and limitations:** Babylon, Persia, Macedonian conquest and Rome are independently historical empires; matching them to unspecified metals does not itself prove their assignment. The story's 'Darius the Mede' chronology differs from independent Persian history; the romanizing interpretation must address Antiochus-related imagery elsewhere in the book.
+- **Provisional conclusion:** Four-empire symbolism and later interpretations verifiable; fourth empire, dating and eternal kingdom fulfillment debated
+- **Primary and scholarly sources:** [Daniel 2:31–45, USCCB critical text and notes](https://bible.usccb.org/bible/daniel/2); [Daniel 2:44 Aramaic](https://biblehub.com/text/daniel/2-44.htm); [John J. Collins, Yale Bible Study: Daniel 1–2](https://yalebiblestudy.org/courses/daniel/lessons/daniel-1-2-study-guide/); [Cambridge commentary: four-kingdom models and Rome](https://biblehub.com/commentaries/cambridge/daniel/2.htm); [Traditional Roman-fourth-empire reading (Ligonier)](https://learn.ligonier.org/articles/coming-son-man-unfolding-biblical-eschatology).
+
+### Daniel 7:1–27 (Aramaic) — Four beasts, Antiochus's horn and one like a human being {#daniel-7-beasts-son-of-man}
+
+- **Original language:** Daniel 7:13 Aramaic כְּבַר אֱנָשׁ ('like a son of man', i.e. like a human being); Daniel 7:18 says the 'holy ones' receive the kingdom.
+- **Earlier situation:** Four hybrid beasts rise from a mythic sea, and an Ancient of Days judges their empires. Scholarly comparisons trace imagery of divine kingship, sea-monsters and the cloud rider to ancient Near Eastern literary traditions. The little horn is widely read as Antiochus IV, whose suppression of Jerusalem's temple cult occurred in the 160s BCE.
+- **Later claim / event:** Many historians identify the sequence as Babylon, Media, Persia, Greece; readers placing Rome fourth combine Media-Persia. The figure appearing 'like a human being' receives rule from the Ancient of Days. Christian New Testament passages identify Jesus with a Son of Man figure, while Daniel 7:18, 27 relate the kingdom to the holy ones; scholarship debates an angelic individual, collective symbol or messianic representative.
+- **Type of reuse or prediction:** The figure moves toward the heavenly throne to receive power, not clearly from heaven to earth at that moment. This distinction matters to later readings of a predicted second coming. Linking the fourth beast to Rome and all horns to later figures is an additional hermeneutic requiring its own evidence.
+- **Independent evidence and limitations:** Seleucid persecution is historically attested; literal celestial enthronement and eternal rule are theological/apocalyptic claims not historically observable. The same passage has significant interpretive differences within academic, Jewish and Christian traditions.
+- **Provisional conclusion:** Antiochene crisis closely fits horn/persecution; heavenly figure identity and future fulfillment contested
+- **Primary and scholarly sources:** [Daniel 7 with historical notes (USCCB)](https://bible.usccb.org/bible/daniel/7); [Daniel 7:13 Aramaic](https://biblehub.com/text/daniel/7-13.htm); [John J. Collins, Yale Bible Study: Daniel 7](https://yalebiblestudy.org/courses/daniel/lessons/daniel-7-study-guide/); [Tim Meadowcroft, 'One Like a Son of Man' (2016)](https://doi.org/10.2307/26373916); [Distinct Christian reading of a Roman fourth kingdom](https://learn.ligonier.org/articles/coming-son-man-unfolding-biblical-eschatology).
+
+### Daniel 8:1–27 (Hebrew) — Ram, he-goat, Antiochus and 2,300 evenings/mornings {#daniel-8-ram-goat-2300}
+
+- **Original language:** Daniel 8:20 explicitly names מָדַי וּפָרָס (Media and Persia); 8:21 names Greece; 8:14 gives עֶרֶב בֹּקֶר אַלְפַּיִם וּשְׁלֹשׁ מֵאוֹת ('2,300 evening–morning [units]').
+- **Earlier situation:** The vision is set in Belshazzar's reign but names Media/Persia, Greece and four post-Alexander kingdoms in its own angelic interpretation. The subsequent horn interrupts sacrifice and threatens heavenly/temple order; the historical-critical identification is Antiochus IV's Jerusalem cultic suppression.
+- **Later claim / event:** The 2,300 evenings and mornings are read as 1,150 days if counted as two daily sacrificial occasions, or as 2,300 days in other interpretations. The length does not fit every proposed historical starting date exactly, and later day-year prophetic chronologies use a different unit assumption.
+- **Type of reuse or prediction:** Chapter 8 removes guesswork for its first empires, yet the vision's timeline and heavenly destruction imagery remain highly figurative. Distinguish its early-second-century BCE historical focus from later symbolic and futurist reuse.
+- **Independent evidence and limitations:** Alexander's Macedonian conquests, subsequent successor dynasties and the Antiochene temple crisis are historical; 1 Maccabees dates the Temple's rededication to 164 BCE. Independent evidence does not demonstrate an angelic revelation in Belshazzar's time or verify the numeric 2,300-unit start/end without choosing premises.
+- **Provisional conclusion:** Named empires are explicit, Antiochus reference strong; count, dating and supernatural prediction remain debated
+- **Primary and scholarly sources:** [Daniel 8 and critical notes (USCCB)](https://bible.usccb.org/bible/daniel/8); [Daniel 8:20 Hebrew](https://biblehub.com/text/daniel/8-20.htm); [Daniel 8:14 Hebrew](https://biblehub.com/text/daniel/8-14.htm); [John J. Collins, Yale Bible Study: Daniel 8–9](https://yalebiblestudy.org/courses/daniel/lessons/daniel-8-9-study-guide/); [1 Maccabees 4:52–59 rededication](https://bible.usccb.org/bible/1maccabees/4).
+
+### Daniel 9:1–27 (especially 9:24–27, Hebrew) — Jeremiah's seventy years reinterpreted as seventy weeks of years {#daniel-9-seventy-weeks}
+
+- **Original language:** Daniel 9:24 Hebrew שָׁבֻעִים שִׁבְעִים ('seventy sevens', traditionally 'seventy weeks'); 9:25–26 says מָשִׁיחַ ('an anointed one') without naming Jesus.
+- **Earlier situation:** Set under 'Darius the Mede,' Daniel prays over Jeremiah's seventy years (25:11–12 and 29:10). Gabriel reassigns the time horizon to 70 units of seven years (490), structured as seven, sixty-two and one 'weeks,' ending in restored justice and sanctuary after crisis. Most historical-critical scholars relate the last 'anointed one' to the high priest Onias III killed c. 171 BCE, with an earlier priest or royal leader at the first period.
+- **Later claim / event:** Christians have long used different Artaxerxes decree dates and calendar/year counts to locate Jesus' ministry or crucifixion; some separate a future final week. Jewish and critical readers may instead locate the culmination around the Seleucid desecration and temple restoration. These chronologies are interpretations and are not all mutually compatible.
+- **Type of reuse or prediction:** Unlike a wholly new forecast, Daniel 9 explicitly interprets an earlier Jeremiah oracle. The term 'anointed' is an ordinary designation for priests and kings; capitalization as 'the Messiah' can predetermine the referent. Grammar, division of the weeks, assumed start/end points and proposed calendar conversions require verification before claiming exact fulfillment.
+- **Independent evidence and limitations:** Jeremiah's earlier words, the later 490-year interpretation and the documented Antiochene temple crisis can be independently compared. No calculation is self-proving when its start date, selected anointed figure or calendar length are chosen after the fact.
+- **Provisional conclusion:** Reinterpretation of Jeremiah certain; anointed identities and numerical fulfillment are debated
+- **Primary and scholarly sources:** [Daniel 9:24–27 (USCCB text/notes)](https://bible.usccb.org/bible/daniel/9); [Daniel 9:24 Hebrew](https://biblehub.com/text/daniel/9-24.htm); [John J. Collins, Yale Bible Study: Daniel 8–9](https://yalebiblestudy.org/courses/daniel/lessons/daniel-8-9-study-guide/); [Cambridge commentary and traditional chronology variants](https://biblehub.com/commentaries/cambridge/daniel/9.htm); [Jeremiah 29:10 source comparison](https://biblehub.com/text/jeremiah/29-10.htm).
+
+### Daniel 11:2–45 (Hebrew) — Kings of north and south; where the forecast changes {#daniel-11-kings-end}
+
+- **Original language:** Daniel 11:40 Hebrew וּבְעֵת קֵץ ('at the time of the end'); 11:45 envisions the final ruler's end between the sea and the beautiful holy mountain.
+- **Earlier situation:** The vision is presented as a revelation to a Daniel situated in Cyrus's Persian era. From Alexander onward the details strongly track Ptolemaic/Seleucid rivalries, the attempted Egyptian campaigns and Antiochus IV's treatment of Judeans. Yale's Collins describes the first Persian overview as imprecise but the Hellenistic section as detailed.
+- **Later claim / event:** The final verses (11:40–45) envision a campaign and the king's demise near the holy mountain. USCCB's critical notes say those events do not correspond to the Maccabean-era record: Antiochus IV died in the East, in Persia (often geographically called the eastern satrapies), in late 164 BCE. Alternative futurist readings relocate the end to an eschatological ruler or see typology.
+- **Type of reuse or prediction:** The concentration of detailed historical matches before a mismatch near 11:40–45 is a major argument for composing the final vision during Antiochus's persecution, before knowledge of his death. Distinguish an inference about probable composition from certainty about each literary layer, and examine claims that later redaction could change the forecast.
+- **Independent evidence and limitations:** Seleucid succession and Antiochus's activity are independently corroborated in Greco-Roman and Jewish sources. The discrepancy at the ending is a concrete evidentiary limitation for interpretations that demand the same near-term ruler and literal geography. Later antichrist or future-horizon readings are possible interpretive alternatives, not independently verified original referents.
+- **Provisional conclusion:** Hellenistic event matches strong; final king death setting fails a straightforward Antiochus identification
+- **Primary and scholarly sources:** [Daniel 11 with explicit historical notes (USCCB)](https://bible.usccb.org/bible/daniel/11); [Daniel 11:40 Hebrew](https://biblehub.com/text/daniel/11-40.htm); [Daniel 11:45 Hebrew](https://biblehub.com/text/daniel/11-45.htm); [John J. Collins, Yale Bible Study: Daniel 10–12](https://yalebiblestudy.org/courses/the-books-of-samuel/lessons/daniel-10-12-study-guide/); [Historical context, 1 Maccabees 6](https://bible.usccb.org/bible/1maccabees/6).
+
+### Daniel 12:1–13 (Hebrew) — Resurrection, the sealed end, and 1,290/1,335 days {#daniel-12-resurrection-days}
+
+- **Original language:** Daniel 12:2 Hebrew וְרַבִּים מִיְּשֵׁנֵי אַדְמַת־עָפָר יָקִיצוּ ('many of those sleeping in the dust of the earth shall awaken'); 12:11–12 lists 1,290 and 1,335 days.
+- **Earlier situation:** Daniel 12 continues the angelic disclosure of the Antiochene crisis in chapter 11. Michael protects God's people, some dead awake to life or disgrace, and the wise receive lasting honor. The text contains one of the Hebrew Bible's clearest individual resurrection formulations, though its 'many' wording does not automatically specify universal resurrection.
+- **Later claim / event:** The book offers a 'time, times and half a time' as well as 1,290 and 1,335 days, while chapter 8 uses 2,300 evenings/mornings. USCCB suggests the different figures reflect successive calculations of a hoped-for end during the persecution. Jewish and Christian communities later developed divergent teachings of resurrection and reused the countdowns for distant end times.
+- **Type of reuse or prediction:** Different denominators, daily sacrifices and editorial adjustments should be compared without silently treating them as one modern-calendar prediction. The transformation from an immediate persecution context to later universal end-of-world scenarios is a documented reception-history move.
+- **Independent evidence and limitations:** The crisis and temple rededication are historically studied, but no independent evidence verifies a first-century BCE mass resurrection or precisely dated world judgment. Whether the figures represent authorial corrections or coexisting symbolic schemas is debated.
+- **Provisional conclusion:** Early resurrection teaching and competing durations verifiable; worldwide end events not corroborated
+- **Primary and scholarly sources:** [Daniel 12 with USCCB notes on 1,290/1,335 days](https://bible.usccb.org/bible/daniel/12); [Daniel 12:2 Hebrew](https://biblehub.com/text/daniel/12-2.htm); [John J. Collins, Yale Bible Study: Daniel 10–12](https://yalebiblestudy.org/courses/the-books-of-samuel/lessons/daniel-10-12-study-guide/); [Daniel historical/composition context, Yale](https://yalebiblestudy.org/courses/daniel/lessons/who-was-daniel-study-guide/); [Daniel 8 and alternate 2,300 count](https://bible.usccb.org/bible/daniel/8).
+
 ## Bounded inventory: ten Matthew fulfillment formulas
 
 These ten are a **particular scholarly-defined subset** of Matthew's use of the Hebrew Bible. All ten have dedicated or linked audit cases; this does not finish Matthew's other quotations or other books.
@@ -558,7 +625,7 @@ These ten are a **particular scholarly-defined subset** of Matthew's use of the 
 
 ### Wider seed inventory — pending discovery and research
 
-The following **50 tracked candidate locations** now include **29 researched claims and two additional cases linked to earlier completed records**; 19 candidates remain pending or only partially linked. An item marked researched refers to a separate case record; it is not an independently reviewed claim. A related record can cover another later use, without completing this particular claim. This seed inventory remains incomplete until discovery is checked against multiple inventories and the underlying texts.
+The following **50 tracked candidate locations** now include **35 researched claims and two additional cases linked to earlier completed records**; 13 candidates remain pending or only partially linked. An item marked researched refers to a separate case record; it is not an independently reviewed claim. A related record can cover another later use, without completing this particular claim. This seed inventory remains incomplete until discovery is checked against multiple inventories and the underlying texts.
 
 | Group | Candidate claim location | Source or subject | Status |
 |---|---|---|---|
@@ -596,12 +663,12 @@ The following **50 tracked candidate locations** now include **29 researched cla
 | historical oracle | Jeremiah 49:7–22 | Edom | Research record: jeremiah-49-edom; full review pending |
 | historical oracle | Haggai 2:6–9 | Temple glory | Research record: haggai-2-temple-glory; full review pending |
 | historical oracle | Zechariah 14:1–21 | Jerusalem and nations | Research record: zechariah-14-day-of-yhwh; full review pending |
-| apocalyptic | Daniel 2:31–45 | Statue and four kingdoms | Research pending |
-| apocalyptic | Daniel 7:1–27 | Four beasts / son of man | Research pending |
-| apocalyptic | Daniel 8:1–27 | Ram/goat and little horn | Research pending |
-| apocalyptic | Daniel 9:24–27 | Seventy weeks | Research pending |
-| apocalyptic | Daniel 11:2–45 | Kings of north and south | Research pending |
-| apocalyptic | Daniel 12:1–13 | Resurrection and time periods | Research pending |
+| apocalyptic | Daniel 2:31–45 | Statue and four kingdoms | Research record: daniel-2-four-kingdoms; full review pending |
+| apocalyptic | Daniel 7:1–27 | Four beasts / son of man | Research record: daniel-7-beasts-son-of-man; full review pending |
+| apocalyptic | Daniel 8:1–27 | Ram/goat and little horn | Research record: daniel-8-ram-goat-2300; full review pending |
+| apocalyptic | Daniel 9:24–27 | Seventy weeks | Research record: daniel-9-seventy-weeks; full review pending |
+| apocalyptic | Daniel 11:2–45 | Kings of north and south | Research record: daniel-11-kings-end; full review pending |
+| apocalyptic | Daniel 12:1–13 | Resurrection and time periods | Research record: daniel-12-resurrection-days; full review pending |
 | apocalyptic | Mark 13:2 | Temple destruction | Research pending |
 | apocalyptic | Mark 13:30 / Matthew 24:34 | This generation | Research pending |
 | apocalyptic | Matthew 10:23 | Before the Son of Man comes | Research pending |
@@ -615,16 +682,16 @@ The following **50 tracked candidate locations** now include **29 researched cla
 
 ## Open inventory and stopping rule
 
-**Batch 1:** 11 internally checked starter records. **Batch 2:** six research entries completing Matthew's ten classic formula quotations with four earlier case links. **Batch 3:** five NT passages showing the importance of Septuagint translation and later theological readings. **Batch 4:** three more Matthew claims (including a generic fulfillment assertion), while two other Matthew quotations link to existing records. **Batches 5–6:** ten further NT citation cases, with full internal and external reviews outstanding. The 35 records in Batches 2–8 require full case-by-case review; Batch 8 completes source locating for the current historical-oracle seed, with overlapping Edom passages clearly distinguished. All batches are only a defined subset of the wider inventory.
+**Batch 1:** 11 internally checked starter records. **Batch 2:** six research entries completing Matthew's ten classic formula quotations with four earlier case links. **Batch 3:** five NT passages showing the importance of Septuagint translation and later theological readings. **Batch 4:** three more Matthew claims (including a generic fulfillment assertion), while two other Matthew quotations link to existing records. **Batches 5–6:** ten further NT citation cases, with full internal and external reviews outstanding. The 41 records in Batches 2–9 require full claim-by-claim review. Batch 8 completes the historical-oracle seed, and Batch 9 adds six Daniel visions with competing composition and empire-sequence interpretations. All batches are only a defined subset of the wider inventory.
 
-**Batch 7:** six historical-oracle cases comparing Cyrus, Babylonian domination, Tyre, Babylon's fall, and Nineveh with external records. **Batch 8:** Damascus, Obadiah and Jeremiah 49 on Edom, Haggai's temple promises, and Zechariah 14's Jerusalem vision. Both Edom cases share an earlier literary tradition. Detailed critical scholarship review remains pending.
+**Batch 7:** six historical-oracle cases comparing Cyrus, Babylonian domination, Tyre, Babylon's fall, and Nineveh with external records. **Batch 8:** Damascus, Obadiah and Jeremiah 49 on Edom, Haggai's temple promises, and Zechariah 14's Jerusalem vision. Both Edom cases share an earlier literary tradition. **Batch 9:** Six Daniel visions (chapters 2, 7, 8, 9, 11 and 12), emphasizing Hellenistic historical setting, Antiochus IV, the seventy weeks, resurrection imagery and the Daniel 11:40–45 mismatch. Detailed source-critical and independent reviews remain pending.
 
 Next nonduplicative batches, with each source passage + later claim as the canonical match key:
 
 - **Matthew:** the ten formula quotations are now indexed and researched; next enumerate and review the five separately tracked non-formula candidates and remaining quotations/allusions.
 - **Other New Testament authors:** Mark, Luke, John, Acts, Paul, Hebrews and Revelation; include quotations and explicitly labeled allusions.
 - **Historical oracles:** all eleven historical seed locations now have source-linked cases; verify their critical text, original composition dates, and independent historical evidence before upgrading review status.
-- **Apocalyptic / end-time claims:** Daniel, Jesus' kingdom imminence sayings, Revelation and later receptions, tracking dating debates and genre.
+- **Apocalyptic / end-time claims:** six Daniel visions are now researched; Jesus' and Paul's kingdom/imminence sayings and Revelation remain. Track original date, genre, numerical horizons and differing later receptions.
 - **Jewish and Christian messianic expectations:** catalog standards and interpretive differences without implying any single modern community speaks for all Judaism or Christianity.
 
 There is no defensible single total for “all prophecies” until the inclusion rule is defined. One passage may be reused for multiple alleged fulfillments; one later author can quote several originals. Neither count is interchangeable with the number of predictive oracles.
