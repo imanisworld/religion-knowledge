@@ -145,7 +145,7 @@ function overview(row, group) {
   if (group.dir === 'writing_systems') return [row.script_type ? plainTag(row.script_type) + ' writing system.' : '', row.notes || ''].filter(Boolean).join(' ');
   return row.notes || row.dating?.dating_summary || 'Research record; further detail under review.';
 }
-function detailText(row, counts, period) {
+function detailText(row, counts, period, writingNames) {
   const fields = [];
   if (period?.note && period.date !== 'Date not established') fields.push(['Date qualification', period.note]);
   // Preserve distinct historical clocks: composition, source attestation and
@@ -179,7 +179,22 @@ function detailText(row, counts, period) {
   if (row.source_label) fields.push(['Text or source', row.source_label]);
   if (row.language) fields.push(['Original language', row.language]);
   if (row.genre) fields.push(['Genre', plainTag(row.genre)]);
+  if (row.motif_tags?.length) fields.push([
+    'Narrative themes recorded in this research',
+    row.motif_tags.map(plainTag).join(', ') +
+    '. Shared themes alone do not establish borrowing between traditions.'
+  ]);
   if (row.script_type) fields.push(['Writing system type', plainTag(row.script_type)]);
+  if (row.origin_type) fields.push([
+    'Writing system development — research classification', plainTag(row.origin_type) +
+    '. This is a classification, not proof of historical ancestry.'
+  ]);
+  if (row.descends_from?.length) fields.push([
+    'Proposed script ancestry (under review)',
+    row.descends_from.map(link => (writingNames.get(link.writing_system_id) || 'Unnamed research record') +
+      ' (' + plainTag(link.confidence || 'unknown confidence') + ')').join('; ') +
+    '. Each proposed ancestry link needs its own evidence check.'
+  ]);
   if (row.category_tags?.length) fields.push(['Research categories', row.category_tags.map(plainTag).join(', ')]);
   if (row.domain_history?.length) fields.push(['Historical description', row.domain_history.map(d => d.domain).join('; ')]);
   const tally = [
@@ -188,10 +203,19 @@ function detailText(row, counts, period) {
     counts.other ? counts.other + ' awaiting review' : '',
   ].filter(Boolean).join(' · ') || 'No linked claim checks yet';
   fields.push(['Linked claim checks', tally]);
+  const sourceLinks = (row.source_links || [])
+    .filter(link => link.label && /^https:\/\//.test(link.url || ''));
+  const sources = sourceLinks.length
+    ? '<div class="entry-sources"><p>Linked sources and their limits</p><ul>' +
+      sourceLinks.map(link => '<li><a target="_blank" rel="noopener noreferrer" href="' +
+        esc(link.url) + '">' + esc(link.label) + '</a>' +
+        (link.supports ? '<span>' + esc(link.supports) + '</span>' : '') + '</li>').join('') +
+      '</ul></div>'
+    : '';
   return '<dl class="entry-details">' + fields.map(([label, value]) =>
-    '<div><dt>' + esc(label) + '</dt><dd>' + esc(value) + '</dd></div>').join('') + '</dl>';
+    '<div><dt>' + esc(label) + '</dt><dd>' + esc(value) + '</dd></div>').join('') + '</dl>' + sources;
 }
-function entityTable(group, claims) {
+function entityTable(group, claims, writingNames) {
   const records = entities(group.dir);
   if (!records.length) throw new Error('Missing entities for ' + group.dir);
   const isTradition = group.dir === 'traditions';
@@ -206,7 +230,7 @@ function entityTable(group, claims) {
         esc(period.date) + '</span><span class="period-kind">' + esc(period.kind) + '</span></td>' +
       '<td role="cell" data-label="Overview"><p class="preview">' + esc(shorten(overview(row, group), isTradition ? 220 : 155)) + '</p>' +
       '<details class="entry-more"><summary>Read research notes</summary>' +
-      detailText(row, counts, period) + '</details>' +
+      detailText(row, counts, period, writingNames) + '</details>' +
       (isTradition ? '<p class="profile-link"><a href="traditions.html#' + esc(row.id) + '">Open historical profile →</a></p>' : '') +
       '</td></tr>';
   }).join('\n');
@@ -230,12 +254,13 @@ function peopleTable() {
     people.length + ' entries</span></summary><p>Find a person and open their background entry in the library. Biographical dates appear only where an entry explicitly records them; this index has no verified birth and death dates for everyone. Publication years are not lifespans. An entry may still need independent verification.</p>' +
     '<div class="people-list"><ul>' +
     people.map(p => '<li data-catalog-row><a href="cited-persons.html#' + esc(p.id) + '">' + esc(p.name) + '</a>' +
-      (p.flagged ? '<span>Background context included</span>' : '') + '</li>').join('\n') +
+      (p.flagged ? '<span>Source or context warning</span>' : '') + '</li>').join('\n') +
     '</ul></div></details>';
 }
 export function buildPublicCatalog() {
   const claims = claimCounts();
-  const groups = TYPES.map(g=>entityTable(g,claims)).join('\n');
+  const writingNames = new Map(entities('writing_systems').map(row => [row.id, row.name]));
+  const groups = TYPES.map(g=>entityTable(g,claims,writingNames)).join('\n');
   const nav = TYPES.map(g=>'<a href="#'+g.dir+'">'+esc(g.title)+'</a>').join('')+
     '<a href="#people">People cited</a>';
   return '<!doctype html><html lang="en" data-theme="light"><head><meta charset="utf-8">'+
@@ -267,6 +292,7 @@ export function buildPublicCatalog() {
     '.profile-link{margin:.5rem 0 .1rem;font-size:.8rem;font-weight:650}.profile-link a{color:var(--accent)}'+
     '.entry-details div{margin:0 0 .8rem}.entry-details dt{font-size:.7rem;text-transform:uppercase;letter-spacing:.05em;font-weight:750;color:var(--ink2)}'+
     '.entry-details dd{margin:.2rem 0 0;color:var(--ink);font-size:.9rem;line-height:1.55;overflow-wrap:anywhere;white-space:normal}'+
+    '.entry-sources{border-top:1px solid var(--rule);padding:.6rem 0}.entry-sources p{font-weight:650;font-size:.82rem;color:var(--ink);margin:0 0 .35rem}.entry-sources ul{margin:.1rem 0 .4rem;padding-left:1.1rem}.entry-sources li{margin:.3rem 0}.entry-sources li a{color:var(--accent)}.entry-sources li span{display:block;color:var(--ink2);font-size:.8rem}'+
     '.people-list ul{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 1.5rem}'+
     '.people-list li{border-bottom:1px solid var(--rule);padding:.5rem .3rem;min-width:0}'+
     '.people-list li[hidden]{display:none}.people-list a{font-weight:600;color:var(--ink)}'+
