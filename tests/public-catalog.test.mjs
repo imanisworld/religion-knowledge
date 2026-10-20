@@ -65,3 +65,39 @@ test('religions & traditions list has visible documented periods with evidence-t
   assert.match(html, /href="traditions.html"/);
   assert.doesNotMatch(html, /github\.com/);
 });
+
+
+test('every entity category exposes dating evidence or explicitly reports the missing date', () => {
+  const html = buildPublicCatalog();
+  const groups = ['deities', 'traditions', 'cultures', 'narratives', 'writing_systems'];
+  const slices = new Map(groups.map((id, i) => {
+    const start = html.indexOf('<details id="' + id + '" class="group"');
+    const next = i + 1 < groups.length ? html.indexOf('<details id="' + groups[i + 1] + '" class="group"') : html.indexOf('<details id="people" class="group"');
+    assert.ok(start >= 0 && next > start, 'Category missing or reordered: ' + id);
+    return [id, html.slice(start, next)];
+  }));
+  for (const id of groups) {
+    const block = slices.get(id);
+    const label = id === 'traditions' ? 'Documented period' : 'Date / evidence';
+    assert.ok(block.includes('data-label="' + label + '"'), id + ' must show its dating column');
+    assert.ok(block.includes('<th role="columnheader" scope="col">' + label + '</th>'),
+      id + ' must label dates for desktop readers');
+    assert.match(block, /How to read (these )?dates:/);
+    const rowCount = (block.match(/<tr role="row" data-catalog-row>/g) || []).length;
+    const dateCount = (block.match(new RegExp('data-label="' + label + '"', 'g')) || []).length;
+    assert.ok(rowCount > 0, id + ' must contain records');
+    assert.equal(dateCount, rowCount, id + ' must show a date or explicit gap for every row');
+  }
+
+  assert.match(slices.get('deities'), /1400–1200 BCE/);
+  assert.match(slices.get('deities'), /Dated portrayal in this research|Earliest written evidence recorded/);
+  assert.match(slices.get('deities'), /Date not established/);
+  assert.match(slices.get('cultures'), /1–700 CE/);
+  assert.match(slices.get('cultures'), /No reliable date recorded here/);
+  assert.match(slices.get('narratives'), /700–600 BCE/);
+  assert.match(slices.get('narratives'), /1700–1715 CE/);
+  assert.match(slices.get('writing_systems'), /3350 BCE/);
+  assert.match(slices.get('writing_systems'), /1821 CE/);
+  assert.match(slices.get('writing_systems'), /end date not established/);
+  assert.match(html, /Biographical dates appear only where an entry explicitly records them/);
+});
