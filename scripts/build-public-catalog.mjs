@@ -10,10 +10,10 @@ const ROOT = process.cwd();
 const BASE = 'docs/timeline/data/entities';
 const REPO = 'https://github.com/imanisworld/religion-knowledge/blob/main/';
 const TYPES = [
-  { dir: 'deities', title: 'Gods and deities', intro: 'Recorded divine figures across the cultures currently covered by the research.', tags: false },
+  { dir: 'deities', title: 'Gods and deities', intro: 'Gods and other divine figures mentioned in our research.', tags: false },
   { dir: 'traditions', title: 'Religions and traditions', intro: 'Religious and cosmological traditions, including traditions with multiple classifications.', tags: true },
-  { dir: 'cultures', title: 'Cultures and societies', intro: 'Communities represented in the timeline research.', tags: false },
-  { dir: 'narratives', title: 'Creation and sacred narratives', intro: 'Surviving or recorded narratives in the research dataset.', tags: false },
+  { dir: 'cultures', title: 'Cultures and societies', intro: 'People and societies represented in our research.', tags: false },
+  { dir: 'narratives', title: 'Creation stories', intro: 'Stories about how the world or people began, as recorded in the research.', tags: false },
   { dir: 'writing_systems', title: 'Writing systems', intro: 'Written evidence and its limitations are part of the historical comparison.', tags: false },
 ];
 const esc = (x) => String(x ?? '').replace(/&/g, '&amp;')
@@ -66,31 +66,35 @@ function entityTable(group, claims) {
   const records = entities(group.dir);
   if (!records.length) throw new Error('Missing entities for '+group.dir);
   const cols = group.tags ?
-    '<th scope="col">Name</th><th scope="col">Research region</th><th scope="col">Category tags</th><th scope="col">Linked claims</th><th scope="col">Source record</th>' :
-    '<th scope="col">Name</th><th scope="col">Research region</th><th scope="col">Linked claims</th><th scope="col">Source record</th>';
+    '<th scope="col">Name</th><th scope="col">Region</th><th scope="col">Research categories</th><th scope="col">Evidence status</th><th scope="col">More detail</th>' :
+    '<th scope="col">Name</th><th scope="col">Region</th><th scope="col">Evidence status</th><th scope="col">More detail</th>';
   const rows = records.map(r => {
     const counts = claims.get(r.id) || {verified:0,published:0,other:0};
-    const tally = counts.published+' published · '+counts.verified+' verified in research'+
-      (counts.other ? ' · '+counts.other+' other' : '');
+    const tally = [
+      counts.published ? counts.published+' published' : '',
+      counts.verified ? counts.verified+' checked in research' : '',
+      counts.other ? counts.other+' still to review' : '',
+    ].filter(Boolean).join(' · ') || 'No findings linked yet';
     const region = Array.isArray(r.region) ? r.region.join(', ') : 'Unspecified';
     const tag = group.tags ? '<td>'+esc((r.category_tags || []).join(', ') || 'Unclassified')+'</td>' : '';
     return '<tr><th scope="row">'+esc(r.name || r.id)+'</th><td>'+esc(region)+'</td>'+tag+
-      '<td>'+esc(tally)+'</td><td><a href="'+esc(REPO+encodeURI(r._file))+'" target="_blank" rel="noopener noreferrer">Research record</a></td></tr>';
+      '<td>'+esc(tally)+'</td><td><a href="'+esc(REPO+encodeURI(r._file))+'" target="_blank" rel="noopener noreferrer" >View research file</a></td></tr>';
   }).join('\n');
-  return '<section id="'+esc(group.dir)+'" class="group"><div class="section-head"><h2>'+esc(group.title)+
-    '</h2><span>'+records.length+' records</span></div><p>'+esc(group.intro)+
+  return '<details id="'+esc(group.dir)+'" class="group"'+(group.dir==='deities'?' open':'')+
+    '><summary class="section-head"><span class="group-title">'+esc(group.title)+'</span><span>'+records.length+
+    ' entries</span></summary><p>'+esc(group.intro)+
     '</p><div class="table-scroll" role="region" aria-label="'+esc(group.title)+' table" tabindex="0"><table><thead><tr>'+
-    cols+'</tr></thead><tbody>'+rows+'</tbody></table></div></section>';
+    cols+'</tr></thead><tbody>'+rows+'</tbody></table></div></details>';
 }
 function peopleTable() {
   const people = personRows();
   if (people.length < 300) throw new Error('Cited Persons source changed unexpectedly');
-  return '<section id="people" class="group"><div class="section-head"><h2>People cited in the research</h2><span>'+
-    people.length+' entries</span></div><p>Writers, researchers, theologians and historical figures mentioned in the biblical research. This is a separate citation index, not a complete history-of-humanity people database. Some entries remain unresolved.</p>'+
-    '<div class="table-scroll" role="region" tabindex="0" aria-label="People cited in the research table"><table><thead><tr><th scope="col">Person</th><th scope="col">Important context flag</th><th scope="col">Read entry</th></tr></thead><tbody>'+
-    people.map(p => '<tr><th scope="row">'+esc(p.name)+'</th><td>'+(p.flagged?'Flagged for context':'—')+
+  return '<details id="people" class="group"><summary class="section-head"><span class="group-title">People cited in the research</span><span>'+
+    people.length+' entries</span></summary><p>Writers, researchers, theologians and historical figures mentioned in the biblical research. This list covers people mentioned in the study. Some entries still need independent checking.</p>'+
+    '<div class="table-scroll" role="region" tabindex="0" aria-label="People cited in the research table"><table><thead><tr><th scope="col">Person</th><th scope="col">Notes</th><th scope="col">More detail</th></tr></thead><tbody>'+
+    people.map(p => '<tr><th scope="row">'+esc(p.name)+'</th><td>'+(p.flagged?'Important background noted':'—')+
       '</td><td><a href="cited-persons.html#'+esc(p.id)+'">View reference</a></td></tr>').join('\n')+
-    '</tbody></table></div></section>';
+    '</tbody></table></div></details>';
 }
 export function buildPublicCatalog() {
   const claims = claimCounts();
