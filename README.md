@@ -44,7 +44,7 @@ Audit entries also carry a `CHECKED` date. Anything without one has not been ver
 
 - **Gender Over Time** — `research/gender-over-time/index.md` / `gender-over-time.html` tracks culture- and period-specific sex/gender classifications, intersex history, eunuchs, religious roles, reproduction, family status, and law. It is intentionally **outside the nine-document core corpus** during the consolidation freeze. Structured starter records live at `research/gender-over-time/records.json`. It is visible in the deployed research library and the root cross-document Search index, but remains outside the app dataset. **Patterns & Synthesis** is also indexed in Search and available as a separate research reader.
 
-- **Biblical Prophecy Audit** — `research/prophecy-audit/index.md` / `prophecy-audit.html` contains 22 source-linked cases across three batches (11 internally reviewed, six new Matthew formula studies, and five new NT quotations) linking earlier text, historical context, later claimed fulfillment, independent corroboration, and evidence limits. Structured cases in `records.json` and a fixed research expansion queue; included in Search and deployed readers, outside the frozen nine-document corpus.
+- **Biblical Prophecy Audit** — `research/prophecy-audit/index.md` / `prophecy-audit.html` contains 25 source-linked cases across four batches (11 internally reviewed, six Matthew formula studies, five NT quotations, and three other Matthew studies) linking earlier text, historical context, later claimed fulfillment, independent corroboration, and evidence limits. Structured cases in `records.json` and a fixed research expansion queue; included in Search and deployed readers, outside the frozen nine-document corpus.
 
 ### Two corpus scopes
 
