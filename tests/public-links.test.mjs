@@ -50,7 +50,13 @@ test('public local links point to deployed files and real anchors', () => {
       if(!fragment||fragment.includes('='))continue;
       checkedAnchors++;
       const known=pageIds.get(targetPath);
-      if(known && !known.has(fragment))missing.push(page+': missing destination '+href);
+      // Religion & Law builds its overview sections on page load. Verify the
+      // expected id exists in that script's source rather than exempting all
+      // dynamic links from validation.
+      const dynamicLawSection=targetPath==='religion-law.html'
+        && htmlByPage.get(targetPath)?.includes('id="'+fragment+'"');
+      if(known && !known.has(fragment) && !dynamicLawSection)
+        missing.push(page+': missing destination '+href);
     }
   }
   assert.ok(checkedLinks >= 250,'Suspiciously few checked links: '+checkedLinks);
