@@ -857,9 +857,9 @@ function buildSitebar() {
     <a class="rk-brand" href="index.html">Religion Knowledge<small>Research library</small></a>
     <nav class="rk-global-nav" aria-label="Site navigation">
       <a href="index.html">Library</a>
-      <a href="search.html">Search</a>
-      <a href="religion-law.html">Religion &amp; Law</a>
       <a href="history.html">History</a>
+      <a href="religion-law.html">Religion &amp; Law</a>
+      <a href="search.html">Search</a>
     </nav>
   </div>
 </header>`;
