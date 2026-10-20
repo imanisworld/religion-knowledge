@@ -42,7 +42,7 @@ This repository contains both `wrangler.jsonc` and `wrangler.toml`. **`wrangler.
 | `Bible_Deep_Dive_Master_Notes.md` | Partial (see Method §3–4) | 🔄 Partial | §1, §2, §5, §7, §8.6 audited; others pending |
 | `Field_Guide_Conversation_Reference.md` | Partial (see Method §4) | 🔄 Partial | §3.1, §4.1, §8, §13 audited; §1,2,5,9–12,14–17 pending |
 | `Sources_and_Primary_Texts.md` | Pending | ⚠️ Unreviewed | Full audit in progress |
-| `Cited_Persons.md` | 2026-10-20 marker recount; independent review incomplete | 🔄 Partial | 194 documented / 171 unresolved of 365; five-entry source follow-up does not close a case |
+| `Cited_Persons.md` | 2026-10-20 marker recount; independent review incomplete | 🔄 Partial | 194 documented / 171 unresolved of 365 (six Paul-and-the-law entries corrected in PR #212 but held unresolved pending original author passages); five-entry source follow-up does not close a case |
 | `Glossary.md` | Pending | ⚠️ Unreviewed | Full audit in progress |
 
 ## Religion & Law Coverage (20 October 2026)
@@ -55,7 +55,7 @@ The old research branch `research/state-gap-closure-20260927` is **not merged in
 
 ## Cited Persons Follow-up (20 October 2026)
 
-A separate five-entry Perplexity source-discovery batch addressed Archer, Barton, Briggs, MacDonald, and MacIntyre. Bibliographic information was corroborated for some entries, but the needed primary/source-page checks remain outstanding. **All five retain their `UNRESOLVED` markers**; do not subtract them from the 171-person queue. See `docs/research/cited-persons-five-entry-followup-20261020.md`.
+A separate five-entry Perplexity source-discovery batch addressed Archer, Barton, Briggs, MacDonald, and MacIntyre. Bibliographic information was corroborated for some entries, but the needed primary/source-page checks remain outstanding. **All five retain their `UNRESOLVED` markers** and remain within the current 165-person unresolved queue (200 documented / 365 total after the separate six-person Paul-and-the-law batch in draft PR #212). See `docs/research/cited-persons-five-entry-followup-20261020.md`.
 
 ---
 
