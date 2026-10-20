@@ -1,8 +1,8 @@
 {
-  "version": 1,
+  "version": 2,
   "updated": "2026-10-20",
   "method": "Working scope: direct or explicit fulfillment claims in the New Testament; concrete time/place predictions and conditional threats in the Hebrew Bible and New Testament; messianic proof texts and apocalyptic prediction claims. List source and later use separately. Other echo-only candidates are included only when a specific later claim is identified. Entries in pending groups are candidate discovery leads, not vetted/complete research. The number shown is the number of tracked claims in this working inventory, not an objective total of all biblical prophecies.",
-  "scope_notes": "Matthew's ten classic formula quotations are an independently bounded subcorpus. Its ten records have dedicated or explicitly related audits; the 50+ other candidates below are unresearched or partially cross-referenced, and the larger inventory is open for discovery. Source/later claim is the deduplication key. Ambiguous or generic formula passages are tracked but are not silently counted among the ten.",
+  "scope_notes": "Ten Matthew formula claims are researched; among 50 additional seed candidates, 5 have dedicated completed research records and 45 await claim-specific research or review. This list is still a seed inventory, not an exhaustive biblical prophecy count.",
   "matthew_formula_ten": [
     {
       "group": "matthew_formula_ten",
@@ -129,8 +129,9 @@
       "claim_locus": "Luke 4:18–21",
       "earlier_source": "Isaiah 61:1–2 / 58:6",
       "question": "Jesus reads liberation text and announces fulfillment",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "isaiah-61-luke-4"
     },
     {
       "group": "other_nt",
@@ -177,16 +178,18 @@
       "claim_locus": "John 19:37",
       "earlier_source": "Zechariah 12:10",
       "question": "Those who pierced will look",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "zechariah-12-john-19"
     },
     {
       "group": "other_nt",
       "claim_locus": "Acts 2:16–21",
       "earlier_source": "Joel 2:28–32",
       "question": "Spirit poured out and last-days speech",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "joel-2-acts-2"
     },
     {
       "group": "other_nt",
@@ -225,8 +228,9 @@
       "claim_locus": "Acts 15:16–18",
       "earlier_source": "Amos 9:11–12",
       "question": "Restored Davidic tent, Gentiles vs Edom textual differences",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "amos-9-acts-15"
     },
     {
       "group": "other_nt",
@@ -257,8 +261,9 @@
       "claim_locus": "Hebrews 8:8–12",
       "earlier_source": "Jeremiah 31:31–34",
       "question": "New covenant and its audience",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "jeremiah-31-hebrews-8"
     },
     {
       "group": "historical_oracle",
