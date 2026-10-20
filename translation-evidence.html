@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Translation Evidence · Religion Knowledge</title>
+<meta name="description" content="Evidence-led comparison of what changed between Bible translations, why the wording differs, and what the differences mean.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="site-shell.css">
+<script>try{document.documentElement.dataset.theme=localStorage.getItem('religion-knowledge-theme')||'light'}catch(e){document.documentElement.dataset.theme='light'}</script>
+<style>
+:root{--ground:#f5f1f0;--paper:#fffdfc;--ink:#241b1e;--muted:#62565a;--rule:#ddd2d5;--accent:#8b3a4a;--soft:#f4e7ea;--display:"Newsreader",Georgia,serif;--body:"IBM Plex Sans",system-ui,sans-serif}
+:root[data-theme=dark]{--ground:#120e10;--paper:#1c1518;--ink:#f7f2f3;--muted:#d1c5c9;--rule:#44343a;--accent:#d8899a;--soft:#3a2028}
+*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:80px}
+body{margin:0;background:var(--ground);color:var(--ink);font:16px/1.6 var(--body);-webkit-font-smoothing:antialiased}a{color:var(--accent);text-underline-offset:3px}
+main{max-width:1100px;padding:4.3rem 1.25rem 5.5rem;margin:auto}
+h1,h2,h3{font-family:var(--display);font-weight:500;line-height:1.12}h1{font-size:clamp(2.6rem,6.5vw,5rem);margin:.5rem 0 1rem;max-width:15ch}h2{font-size:clamp(1.7rem,3vw,2.3rem)}h3{font-size:1.45rem;margin:0}
+.eyebrow{font-weight:600;text-transform:uppercase;letter-spacing:.1em;font-size:.76rem;color:var(--accent)}
+.deck{font-size:1.13rem;color:var(--muted);max-width:74ch}
+.meta{display:flex;gap:.65rem;flex-wrap:wrap;margin:1.2rem 0 2rem;font-size:.82rem;color:var(--muted)}.meta span,.meta a{border:1px solid var(--rule);border-radius:30px;padding:.3rem .7rem;background:var(--paper)}
+.localnav{position:sticky;top:var(--rk-nav-h,56px);z-index:10;display:flex;gap:.35rem;overflow-x:auto;white-space:nowrap;margin:0 -1.25rem 3rem;padding:.7rem 1.25rem;border-block:1px solid var(--rule);background:var(--ground)}.localnav a{padding:.28rem .65rem;text-decoration:none;font-size:.84rem}
+section{margin:3.1rem 0}.intro{color:var(--muted);max-width:78ch}
+.method{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1px;border:1px solid var(--rule);background:var(--rule);counter-reset:step;padding:0;list-style:none}
+.method li{counter-increment:step;background:var(--paper);padding:1rem 1.1rem}.method li:before{content:counter(step,decimal-leading-zero);display:block;color:var(--accent);font-size:.76rem;font-weight:600;margin-bottom:.2rem}
+.table-hint{font-size:.82rem;color:var(--muted)}.table-wrap{width:100%;overflow-x:auto;border:1px solid var(--rule);border-radius:10px;overscroll-behavior-inline:contain}
+table{border-collapse:collapse;min-width:810px;width:100%;background:var(--paper);font-size:.88rem}
+th,td{padding:.85rem;text-align:left;border-bottom:1px solid var(--rule);vertical-align:top}thead th{font-size:.75rem;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}tbody th{font-weight:600;min-width:155px}.minor{display:block;font-size:.76rem;color:var(--muted);font-weight:400;margin-top:.25rem}tbody td:nth-child(2){min-width:160px}tbody td:nth-child(3){min-width:310px}tbody td:nth-child(4){min-width:110px}
+.cases{display:grid;gap:1rem}.case{background:var(--paper);border:1px solid var(--rule);border-radius:12px;overflow:hidden;scroll-margin-top:120px}.case-top{padding:1.25rem 1.3rem;background:var(--soft);display:flex;align-items:start;justify-content:space-between;gap:1rem}.kind{font-size:.75rem;flex:none;color:var(--muted);max-width:145px;text-align:right}.case-body{padding:0 1.3rem 1.3rem}.original{font-size:1.09rem;line-height:1.7;overflow-wrap:anywhere;border-bottom:1px solid var(--rule);padding-bottom:.9rem}.case dl{margin:0}.case dl div{border-bottom:1px solid var(--rule);padding:.6rem 0}.case dt{font-size:.72rem;text-transform:uppercase;letter-spacing:.04em;font-weight:600;color:var(--accent)}.case dd{margin:.25rem 0 0}.case details{margin-top:1rem}.case summary{cursor:pointer;font-weight:600;color:var(--accent)}.case li{margin:.35rem 0}.limits{border-top:1px solid var(--rule);padding-top:1rem}.footer{padding-top:1rem;border-top:1px solid var(--rule);font-size:.82rem;color:var(--muted)}
+@media(max-width:620px){main{padding:2.8rem 1rem 4rem}.method{grid-template-columns:1fr}.localnav{margin-inline:-1rem;padding-inline:1rem}.case-top{flex-wrap:wrap}.kind{text-align:left}.deck{font-size:1rem}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>
+</head>
+<body class="rk-with-sitebar">
+<header class="rk-sitebar"><div class="rk-sitebar-inner">
+<a class="rk-brand" href="index.html">Religion Knowledge<small>Research library</small></a>
+<nav class="rk-global-nav" aria-label="Site navigation"><a href="index.html">Library</a><a href="search.html">Search</a><a href="religion-law.html">Religion &amp; Law</a><a href="app/">App</a></nav>
+<button id="theme" class="rk-site-control" type="button" aria-label="Toggle theme">Theme</button>
+</div></header>
+<main>
+<header><p class="eyebrow">Primary text · editions · evidence</p><h1>What changed in translation?</h1>
+<p class="deck">Original Hebrew or Greek, the wording readers see, documented reasons for differences, and the conclusions the evidence allows.</p>
+<div class="meta"><span>7 worked cases</span><span>Checked October 20, 2026</span><a href="research/translation-evidence/index.md">Research notes</a><a href="translations.html">Existing translation research</a></div>
+</header>
+<nav class="localnav" aria-label="On this page"><a href="#method">Method</a><a href="#ledger">Compare cases</a><a href="#case-studies">Sources by passage</a><a href="#limits">What this proves</a></nav>
+<section aria-labelledby="method" id="method"><h2>How to establish what changed</h2>
+<p class="intro">First identify the exact passage and editions. Then distinguish a different source manuscript from a translation choice, a punctuation decision, or a modern publisher's revision. If a translator's motive is unrecorded, mark it unknown.</p>
+<ol class="method"><li>Identify the verse and edition dates.</li><li>Read original-language words and surrounding context.</li><li>Classify the difference: word, grammar, speaker, punctuation, manuscripts, or revision.</li><li>Check documented translators’ notes or publisher change logs.</li><li>Show the reader effect and alternative interpretations.</li><li>Separate evidence from claims of deliberate concealment.</li></ol>
+</section>
+<section id="ledger"><h2>Translation change ledger</h2><p class="intro">These examples were selected for distinct mechanisms, not as a statistical sample of the Bible.</p>
+<p class="table-hint">On a phone, scroll the comparison table sideways.</p>
+<div class="table-wrap" role="region" aria-label="Bible translation change comparison table" tabindex="0">
+<table><thead><tr><th scope="col">Passage</th><th scope="col">Type</th><th scope="col">Difference readers encounter</th><th scope="col">Evidence</th></tr></thead><tbody>
+        <tr><th scope="row"><a href="#paul-deceit">2 Corinthians 12:16</a><span class="minor">Greek</span></th><td>Speaker framing</td><td>KJV presents a first-person statement; ESV adds “you say”; God's Word frames it as a question.</td><td><a href="#paul-deceit">See evidence</a></td></tr>
+        <tr><th scope="row"><a href="#paul-lie">Romans 3:7</a><span class="minor">Greek</span></th><td>Hypothetical speaker</td><td>Literal versions retain “my lie”; NIV introduces the argument with “Someone might argue.”</td><td><a href="#paul-lie">See evidence</a></td></tr>
+        <tr><th scope="row"><a href="#genesis-desire">Genesis 3:16</a><span class="minor">Hebrew</span></th><td>Committee revision</td><td>ESV 2016 used “contrary to your husband”; the 2025 revision restored “for your husband.”</td><td><a href="#genesis-desire">See evidence</a></td></tr>
+        <tr><th scope="row"><a href="#isaiah-almah">Isaiah 7:14</a><span class="minor">Hebrew → Greek</span></th><td>Lexical choice and reception</td><td>Hebrew ‘almah is rendered “young woman” in some translations, “virgin” in others. The ancient Greek Septuagint uses parthenos, which Matthew 1:23 quotes.</td><td><a href="#isaiah-almah">See evidence</a></td></tr>
+        <tr><th scope="row"><a href="#genesis-beginning">Genesis 1:1–3</a><span class="minor">Hebrew</span></th><td>Syntax / sentence division</td><td>Traditional “In the beginning God created…” contrasts with “When God began to create…”</td><td><a href="#genesis-beginning">See evidence</a></td></tr>
+        <tr><th scope="row"><a href="#johannine-comma">1 John 5:7–8</a><span class="minor">Greek / Latin</span></th><td>Manuscript variation</td><td>The KJV contains the explicit heavenly-witnesses clause naming Father, Word, and Holy Spirit; modern critical editions exclude it from their base text.</td><td><a href="#johannine-comma">See evidence</a></td></tr>
+        <tr><th scope="row"><a href="#sheol-hell">Genesis 37:35 / Psalm 9:17 / Numbers 16:33</a><span class="minor">Hebrew</span></th><td>Vocabulary and semantic range</td><td>The KJV variously translates sheʾol as “grave,” “hell,” and “pit.” The previous Translations document wrongly claimed it used “hell” throughout.</td><td><a href="#sheol-hell">See evidence</a></td></tr>
+</tbody></table></div></section>
+<section id="case-studies"><h2>Evidence by passage</h2><div class="cases">
+  <article class="case" id="paul-deceit">
+    <div class="case-top"><h3 id="entry-paul-deceit">2 Corinthians 12:16</h3><span class="kind">Speaker framing</span></div>
+    <div class="case-body">
+      <p class="original" lang="el">ὑπάρχων πανοῦργος δόλῳ ὑμᾶς ἔλαβον</p>
+      <dl>
+        <div><dt>What changed</dt><dd>KJV presents a first-person statement; ESV adds “you say”; God's Word frames it as a question.</dd></div>
+        <div><dt>How / why</dt><dd>The surrounding verses (12:17–18) challenge an allegation that Paul exploited the Corinthian church. The UBS Handbook explains the implied accusation.</dd></div>
+        <div><dt>What it means</dt><dd>The English framing can make Paul sound like he confessed deceit or like he rejected an accusation. The Greek has neither an explicit “you say” nor a question in verse 16.</dd></div>
+        <div><dt>Evidence status</dt><dd>Strong contextual reading; intent not proven</dd></div>
+      </dl>
+      <details><summary>Primary wording, translations &amp; scholarly sources</summary><ul><li><a href="https://biblehub.com/text/2_corinthians/12-16.htm" target="_blank" rel="noopener">Greek word analysis</a></li><li><a href="https://www.biblegateway.com/verse/en/2%20Corinthians%2012%3A16" target="_blank" rel="noopener">English parallel translations</a></li><li><a href="https://tips.translation.bible/tip_term/translation-commentary-on-2-corinthians-1216/" target="_blank" rel="noopener">UBS translators’ handbook (1993)</a></li></ul></details>
+    </div>
+  </article>
+  <article class="case" id="paul-lie">
+    <div class="case-top"><h3 id="entry-paul-lie">Romans 3:7</h3><span class="kind">Hypothetical speaker</span></div>
+    <div class="case-body">
+      <p class="original" lang="el">ἐν τῷ ἐμῷ ψεύσματι … τί ἔτι κἀγὼ … κρίνομαι</p>
+      <dl>
+        <div><dt>What changed</dt><dd>Literal versions retain “my lie”; NIV introduces the argument with “Someone might argue.”</dd></div>
+        <div><dt>How / why</dt><dd>The passage develops objections in Romans 3:5–8. Greek εἰ means “if,” and τί means “why”: a conditional plus a question already exist.</dd></div>
+        <div><dt>What it means</dt><dd>This is no demonstrated confession that Paul lied. The translation makes an inferred argumentative speaker explicit.</dd></div>
+        <div><dt>Evidence status</dt><dd>Greek grammar verified; attribution contextual</dd></div>
+      </dl>
+      <details><summary>Primary wording, translations &amp; scholarly sources</summary><ul><li><a href="https://biblehub.com/text/romans/3-7.htm" target="_blank" rel="noopener">Greek word analysis</a></li><li><a href="https://biblehub.com/romans/3-7.htm" target="_blank" rel="noopener">Verse translations</a></li><li><a href="https://tips.translation.bible/tip_term/sil-translators-notes-on-romans-37/" target="_blank" rel="noopener">SIL translators’ notes</a></li></ul></details>
+    </div>
+  </article>
+  <article class="case" id="genesis-desire">
+    <div class="case-top"><h3 id="entry-genesis-desire">Genesis 3:16</h3><span class="kind">Committee revision</span></div>
+    <div class="case-body">
+      <p class="original" lang="he">אֶל־אִישֵׁךְ</p>
+      <dl>
+        <div><dt>What changed</dt><dd>ESV 2016 used “contrary to your husband”; the 2025 revision restored “for your husband.”</dd></div>
+        <div><dt>How / why</dt><dd>Crossway says the restoration better preserves interpretive options for Hebrew ’el; it also replaced the contrastive “but” with “and.”</dd></div>
+        <div><dt>What it means</dt><dd>A reading about antagonism between woman and man became less compulsory in English. The committee's documented reasoning can be examined; a hidden motive cannot be assumed.</dd></div>
+        <div><dt>Evidence status</dt><dd>Documented by publisher</dd></div>
+      </dl>
+      <details><summary>Primary wording, translations &amp; scholarly sources</summary><ul><li><a href="https://www.crossway.org/articles/esv-bible-translation-update/" target="_blank" rel="noopener">Crossway’s 2025 explanation and change list</a></li><li><a href="https://biblehub.com/text/genesis/3-16.htm" target="_blank" rel="noopener">Hebrew text</a></li></ul></details>
+    </div>
+  </article>
+  <article class="case" id="isaiah-almah">
+    <div class="case-top"><h3 id="entry-isaiah-almah">Isaiah 7:14</h3><span class="kind">Lexical choice and reception</span></div>
+    <div class="case-body">
+      <p class="original" lang="he">הָעַלְמָה / παρθένος</p>
+      <dl>
+        <div><dt>What changed</dt><dd>Hebrew ‘almah is rendered “young woman” in some translations, “virgin” in others. The ancient Greek Septuagint uses parthenos, which Matthew 1:23 quotes.</dd></div>
+        <div><dt>How / why</dt><dd>The Hebrew noun specifies a young woman rather than explicitly asserting virginity; the Greek and later Christian reading connect the verse to Jesus' birth.</dd></div>
+        <div><dt>What it means</dt><dd>Read the Hebrew prophecy in its eighth-century BCE context and separately examine its use in Matthew. A religious interpretation should not be mistaken for an unambiguous Hebrew lexical requirement.</dd></div>
+        <div><dt>Evidence status</dt><dd>Original terms documented; later interpretation debated</dd></div>
+      </dl>
+      <details><summary>Primary wording, translations &amp; scholarly sources</summary><ul><li><a href="https://biblehub.com/text/isaiah/7-14.htm" target="_blank" rel="noopener">Hebrew Isaiah 7:14</a></li><li><a href="https://www.jewishbible.org/articles/isaiah-7-14b-in-new-christian-bible-translations/" target="_blank" rel="noopener">Jewish Bible Quarterly study (2013)</a></li><li><a href="https://biblehub.com/text/matthew/1-23.htm" target="_blank" rel="noopener">Matthew 1:23 Greek</a></li></ul></details>
+    </div>
+  </article>
+  <article class="case" id="genesis-beginning">
+    <div class="case-top"><h3 id="entry-genesis-beginning">Genesis 1:1–3</h3><span class="kind">Syntax / sentence division</span></div>
+    <div class="case-body">
+      <p class="original" lang="he">בְּרֵאשִׁית</p>
+      <dl>
+        <div><dt>What changed</dt><dd>Traditional “In the beginning God created…” contrasts with “When God began to create…”</dd></div>
+        <div><dt>How / why</dt><dd>The debate concerns how to construe bĕrēʾšît, the opening clause, and its relationship to verses 2–3. Rashi and modern scholars have argued for the dependent-clause translation.</dd></div>
+        <div><dt>What it means</dt><dd>Neither translation alone proves previous human populations or earlier creations. A 2025 peer-reviewed study argues that the missing article does not rule out “in the beginning.”</dd></div>
+        <div><dt>Evidence status</dt><dd>Genuine grammatical debate</dd></div>
+      </dl>
+      <details><summary>Primary wording, translations &amp; scholarly sources</summary><ul><li><a href="https://www.jtsa.edu/torah/an-anthology-of-beginnings/" target="_blank" rel="noopener">Benjamin D. Sommer (JTS)</a></li><li><a href="https://doi.org/10.15699/jbl.1444.2025.2" target="_blank" rel="noopener">Benjamin Kantor, JBL 144 (2025)</a></li></ul></details>
+    </div>
+  </article>
+  <article class="case" id="johannine-comma">
+    <div class="case-top"><h3 id="entry-johannine-comma">1 John 5:7–8</h3><span class="kind">Manuscript variation</span></div>
+    <div class="case-body">
+      <p class="original" lang="el">ὁ πατήρ, ὁ λόγος, καὶ τὸ ἅγιον πνεῦμα (later expanded reading)</p>
+      <dl>
+        <div><dt>What changed</dt><dd>The KJV contains the explicit heavenly-witnesses clause naming Father, Word, and Holy Spirit; modern critical editions exclude it from their base text.</dd></div>
+        <div><dt>How / why</dt><dd>This is a text-critical issue: the clause is absent from early Greek witnesses and is principally documented in later Latin and some very late Greek witnesses.</dd></div>
+        <div><dt>What it means</dt><dd>Calling this merely a modern “mistranslation” conceals the earlier manuscript history. The variant affects whether this passage explicitly states a Trinitarian formula; it does not alone determine the theology of the Trinity.</dd></div>
+        <div><dt>Evidence status</dt><dd>Strong manuscript evidence; development history studied</dd></div>
+      </dl>
+      <details><summary>Primary wording, translations &amp; scholarly sources</summary><ul><li><a href="https://digitalcommons.andrews.edu/auss/vol56/iss1/6/" target="_blank" rel="noopener">Galiza and Reeve, Andrews University Seminary Studies (2018)</a></li><li><a href="https://www.biblegateway.com/passage/?search=1%20John%205%3A7-8&amp;version=KJV%3BNRSVUE" target="_blank" rel="noopener">English parallel verses</a></li></ul></details>
+    </div>
+  </article>
+  <article class="case" id="sheol-hell">
+    <div class="case-top"><h3 id="entry-sheol-hell">Genesis 37:35 / Psalm 9:17 / Numbers 16:33</h3><span class="kind">Vocabulary and semantic range</span></div>
+    <div class="case-body">
+      <p class="original" lang="he">שְׁאוֹל</p>
+      <dl>
+        <div><dt>What changed</dt><dd>The KJV variously translates sheʾol as “grave,” “hell,” and “pit.” The previous Translations document wrongly claimed it used “hell” throughout.</dd></div>
+        <div><dt>How / why</dt><dd>Translators chose English equivalents for an ancient term associated with the realm of the dead; modern readings of “hell” can import later associations not contained in every Hebrew use.</dd></div>
+        <div><dt>What it means</dt><dd>Compare the term across several contexts before concluding any one verse describes eternal fiery punishment.</dd></div>
+        <div><dt>Evidence status</dt><dd>Verified factual correction</dd></div>
+      </dl>
+      <details><summary>Primary wording, translations &amp; scholarly sources</summary><ul><li><a href="https://www.kingjamesbibledictionary.com/StrongsNo/H7585/grave/0" target="_blank" rel="noopener">KJV Sheol usage concordance</a></li><li><a href="https://biblehub.com/text/genesis/37-35.htm" target="_blank" rel="noopener">Genesis 37:35</a></li><li><a href="https://biblehub.com/text/psalms/9-17.htm" target="_blank" rel="noopener">Psalm 9:17</a></li></ul></details>
+    </div>
+  </article>
+</div></section>
+<section id="limits" class="limits"><h2>What these comparisons establish</h2>
+<p><strong>Documented:</strong> English wording differs; some Greek and Hebrew expressions admit more than one construction; the ESV publisher has disclosed a specific revision; early Greek copies lack the longer 1 John 5:7–8 clause.</p>
+<p><strong>Interpretation:</strong> Paul’s opponents likely supplied the accusation in 2 Corinthians 12:16, and a translator may make that implied speaker explicit. Such cases must show contextual evidence.</p>
+<p><strong>Not established:</strong> A single planned effort to hide every uncomfortable verse, a numerical rate of dishonesty across translations, or ancient populations existing before Genesis merely because the opening grammar is debated.</p>
+<p>See the longer <a href="translations.html">Translations</a> chapter for earlier audits, including 1 Corinthians 6:9, Junia, and the documented history of the ESV revisions.</p>
+</section>
+<p class="footer">This independently maintained module is separate from the nine-document core corpus. Sources and qualifications appear in each case and in the canonical research notes.</p>
+</main>
+<script>document.getElementById('theme').addEventListener('click',()=>{let el=document.documentElement;el.dataset.theme=el.dataset.theme==='dark'?'light':'dark';try{localStorage.setItem('religion-knowledge-theme',el.dataset.theme)}catch(e){}})</script>
+</body></html>
