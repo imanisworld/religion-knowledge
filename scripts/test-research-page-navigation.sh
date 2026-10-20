@@ -17,6 +17,8 @@ setTimeout(() => {
     const sections = [...main.children].filter(x=>x.tagName==='SECTION');
     const nav = main.querySelector('.rk-topic-pager');
     const select = nav?.querySelector('select');
+    if(!select)throw new Error('Section picker absent; sections='+sections.length+
+      '; script='+!!window.ResearchPageNav+'; err='+(window.__researchPagerError||'none'));
     const initial = sections.filter(s=>!s.hidden).length===1;
     select.value='1';select.dispatchEvent(new Event('change'));
     const move = sections[1] && !sections[1].hidden &&
