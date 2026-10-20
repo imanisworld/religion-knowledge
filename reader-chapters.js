@@ -138,7 +138,7 @@
     active = index;
     const hits = available();
     sections.forEach((section, i) => {
-      section.hidden = i !== index;
+      section.hidden = hits.length === 0 || i !== index;
       section.setAttribute('aria-hidden', String(i !== index));
       section.classList.remove('dim');
     });
@@ -177,7 +177,7 @@
     }
     if (scroll) {
       // Return to the reader controls, rather than the document masthead.
-      wrapper.scrollIntoView({ block: 'start', behavior: 'instant' });
+      wrapper.scrollIntoView({ block: 'start', behavior: 'auto' });
     }
   }
   function move(direction) {
@@ -249,6 +249,10 @@
       filters.forEach(button => button.classList.remove('on'));
     }
     show(index);
+    if (toc && toc.contains(anchor) && window.innerWidth < 1080) {
+      document.querySelector('#rail')?.classList.remove('open');
+      document.querySelector('#overlay')?.classList.remove('show');
+    }
   }, true);
   window.addEventListener('hashchange', () => openHashTarget());
   window.addEventListener('popstate', () => {
