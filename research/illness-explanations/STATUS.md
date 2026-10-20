@@ -18,7 +18,7 @@
 | Claim classifications | 7 `verified`; 6 `verified_with_qualification` | Verifications are **internal source checks**, not independent external review |
 | Claim registry validation | **PASS — GitHub Actions** | Research Governance run #225: Node validator structure check and nonempty-registry check succeeded; an in-memory duplicate/text/format check also passed |
 | Source-document readback | Verified | Source Markdown updated; no publication changes |
-| Independent outside audit | **Not started / not complete** | Requires a separate reviewer and recorded claim-specific verdicts |
+| Independent outside audit | **Not started / not complete** | [REVIEW.md](REVIEW.md) handoff now prepared; reviewer and claim-specific verdicts still needed |
 | Existing corpus and app CI | **PASS — GitHub Actions** | Religion Corpus run #535 passed parser tests, reader regeneration/sync, search-index checks, app validation, phone-sized Chromium, standalone build; new module remains unregistered/unpublished |
 
 **Counting policy:** The 139 records are the **claim registry on this branch**, not the canonical registry on `main`. PR #212 independently edits the registry and must be reconciled if either PR advances. The thirteen statuses indicate how far the primary/secondary *source checks* went, not third-party review or approval to publish.
@@ -45,7 +45,7 @@
 
 ## 4. Next safe action
 
-Send the thirteen staged registry claims and [index.md](index.md) to an **independent reviewer** with instructions to check primary texts, all interpretive claims, dating, historical medicine sources, and the distinction between narrative and biomedical evidence. Require one explicit verdict per claim ID, exact primary/secondary locators, and corrections where applicable. Apply findings to this branch, then rerun registry and build checks. Keep the draft held until the repository freeze/merge policy permits research expansion.
+Send the [review brief](REVIEW.md), thirteen staged registry claims, and [index.md](index.md) to an **independent reviewer** with instructions to check primary texts, all interpretive claims, dating, historical medicine sources, and the distinction between narrative and biomedical evidence. Require one explicit verdict per claim ID, exact primary/secondary locators, and corrections where applicable. Apply findings to this branch, then rerun registry and build checks. Keep the draft held until the repository freeze/merge policy permits research expansion.
 
 ## 5. Connected existing project work
 
