@@ -2472,111 +2472,809 @@
   {
     "state": "Kansas",
     "slug": "kansas",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-10-20",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/kansas/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±7.4 percentage points for adults in Kansas",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "27%",
+          "percent": 27,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "19%",
+          "percent": 19,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "18%",
+          "percent": 18,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "3%",
+          "percent": 3,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "3%",
+          "percent": 3,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "4%",
+          "percent": 4,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "21%",
+          "percent": 21,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Kansas table are Evangelical Protestant (27%), Catholic (19%), and Mainline Protestant (18%). Pew lists 3% atheist, 4% agnostic, and 21% nothing in particular. Figures are survey estimates; the state margin of error is ±7.4 percentage points, 1% did not answer, and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
-      "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
+      "as_of": "2026-10-20",
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 6,
       "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "summary": "None of the six tracked Kansas power positions has a religious affiliation documented to this project's standard in the sources reviewed. Advocacy listings and heritage descriptions exist for some officeholders but were not coded. Chief Justice Eric Rosen took the center chair in January 2026. This is a gap in public documentation, not evidence of non-affiliation.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Laura Kelly",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Press coverage describes her Irish Catholic background, but no reviewed source states current religious membership; heritage is not coded as affiliation. She is term-limited and leaves office in January 2027.",
+          "office_source": "https://governor.kansas.gov/",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "David Toland",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://www.kansascommerce.gov/staff/david-toland/",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Attorney General",
+          "name": "Kris Kobach",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Only advocacy-site listings tying Kobach to a congregation were located; they are not treated as sufficient documentation.",
+          "office_source": "https://www.ag.ks.gov/",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Speaker of the House",
+          "name": "Dan Hawkins",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://kslegislature.gov/b2025_26/house/",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Senate President",
+          "name": "Ty Masterson",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Advocacy-site characterizations of his faith were located but no direct official or reputable biographical statement of affiliation.",
+          "office_source": "https://kslegislature.gov/b2025_26/senate/",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "Eric Rosen",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official court biography does not state a religious affiliation; an unsourced encyclopedia statement was not relied on.",
+          "office_source": "https://kscourts.gov/Newsroom/News-Releases/News/2026-News-Releases/January/Eric-Rosen-will-affirm-oath-of-office-as-chief-jus",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        }
+      ]
     }
   },
   {
     "state": "Kentucky",
     "slug": "kentucky",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-10-20",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/kentucky/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±6.2 percentage points for adults in Kentucky",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "46%",
+          "percent": 46,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "11%",
+          "percent": 11,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "11%",
+          "percent": 11,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "3%",
+          "percent": 3,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "6%",
+          "percent": 6,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "15%",
+          "percent": 15,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Kentucky table are Evangelical Protestant (46%), Catholic (11%), and Mainline Protestant (11%). Pew lists 3% atheist, 6% agnostic, and 15% nothing in particular. Figures are survey estimates; the state margin of error is ±6.2 percentage points, 1% did not answer, and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
-      "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "as_of": "2026-10-20",
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 6,
+      "documented_affiliations": 4,
+      "summary": "Four of six tracked Kentucky power positions have publicly documented religious affiliations: Governor Andy Beshear (Disciples of Christ deacon), Attorney General Russell Coleman (Southeast Christian Church), House Speaker David Osborne (Christian; Prospect Christian Church), and Senate President Robert Stivers (Presbyterian). All four are Protestant or Restorationist Christian. The lieutenant governor and chief justice remain unknown. Kentucky's population is 46% evangelical Protestant in Pew's survey, but office affiliation is not evidence of how law is made.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Andy Beshear",
+          "affiliation_status": "documented",
+          "affiliation": "Christian Church (Disciples of Christ) — Beargrass Christian Church deacon",
+          "affiliation_detail": "The Lexington Herald-Leader reported that Beshear attends and is a deacon at Beargrass Christian Church, a Disciples of Christ church in Louisville.",
+          "office_source": "https://governor.ky.gov/",
+          "affiliation_source": "https://www.kentucky.com/news/politics-government/article233623952.html",
+          "source_note": "Office verified by the official governor site; affiliation from direct news reporting."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "Jacqueline Coleman",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Only a structured-data entry without a cited source was located; not relied on.",
+          "office_source": "https://governor.ky.gov/",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Attorney General",
+          "name": "Russell Coleman",
+          "affiliation_status": "documented",
+          "affiliation": "Southeast Christian Church member",
+          "affiliation_detail": "The National Association of Attorneys General biography states: “The Colemans are Members of Southeast Christian Church.” No denomination is assigned beyond the church named.",
+          "office_source": "https://www.ag.ky.gov/",
+          "affiliation_source": "https://www.naag.org/attorney-general/russell-coleman/",
+          "source_note": "Office verified by the official AG site; affiliation from the NAAG biography."
+        },
+        {
+          "office": "Speaker of the House",
+          "name": "David Osborne",
+          "affiliation_status": "documented",
+          "affiliation": "Christian — Prospect Christian Church",
+          "affiliation_detail": "The official Kentucky Legislature profile lists “Christian.” and “Prospect Christian Church.”",
+          "office_source": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=59",
+          "affiliation_source": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=59",
+          "source_note": "Office and affiliation both documented by the official legislator profile."
+        },
+        {
+          "office": "Senate President",
+          "name": "Robert Stivers",
+          "affiliation_status": "documented",
+          "affiliation": "Presbyterian",
+          "affiliation_detail": "The official Kentucky Legislature profile states “Presbyterian.”",
+          "office_source": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=125",
+          "affiliation_source": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=125",
+          "source_note": "Office and affiliation both documented by the official legislator profile."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "Debra Hembree Lambert",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://kycourts.gov/Courts/Supreme-Court/Pages/3rd-Supreme-Court-District.aspx",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        }
+      ]
     }
   },
   {
     "state": "Louisiana",
     "slug": "louisiana",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-10-20",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/louisiana/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±6.2 percentage points for adults in Louisiana",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "33%",
+          "percent": 33,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "23%",
+          "percent": 23,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "6%",
+          "percent": 6,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "11%",
+          "percent": 11,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "4%",
+          "percent": 4,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "17%",
+          "percent": 17,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Louisiana table are Evangelical Protestant (33%), Catholic (23%), and Historically Black Protestant (11%). Pew lists 4% atheist, 1% agnostic, and 17% nothing in particular. Figures are survey estimates; the state margin of error is ±6.2 percentage points, <1% did not answer, and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
-      "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "as_of": "2026-10-20",
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 6,
+      "documented_affiliations": 1,
+      "summary": "One of six tracked Louisiana power positions has a religious affiliation documented to this project's standard: House Speaker Phillip DeVillier (St. Anthony of Padua parish, Eunice). Governor Jeff Landry's Catholic identity is widely asserted but was located only in an advocacy listing. Louisiana's population is 33% evangelical Protestant and 23% Catholic in Pew's survey.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Jeff Landry",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Landry is often described as Catholic and invokes faith publicly, but the only explicit affiliation listing located was an advocacy prayer-group profile, which does not meet the project standard.",
+          "office_source": "https://gov.louisiana.gov/",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "Billy Nungesser",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://www.crt.state.la.us/lt-governor/",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Attorney General",
+          "name": "Liz Murrill",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "A campaign-affiliated site describes her “strong Christian faith” without naming a tradition; not coded.",
+          "office_source": "https://www.ag.state.la.us/",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Speaker of the House",
+          "name": "Phillip DeVillier",
+          "affiliation_status": "documented",
+          "affiliation": "St. Anthony of Padua church parishioner",
+          "affiliation_detail": "The official House biography states that “Phillip and his family are active parishioners of St. Anthony of Padua church in Eunice.” This record does not assign a denomination because the biography itself does not specify one.",
+          "office_source": "https://house.louisiana.gov/Default3",
+          "affiliation_source": "https://house.louisiana.gov/H_Reps/DIST_NEWS/2024/Speaker%20DeVillier%20Bio%202024.pdf",
+          "source_note": "Office verified by the House site; affiliation from the official speaker biography."
+        },
+        {
+          "office": "Senate President",
+          "name": "Cameron Henry",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://senate.la.gov/",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "John L. Weimer",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official court page could not be loaded; office is confirmed by 2026 LSU Law reporting.",
+          "office_source": "https://law.lsu.edu/news/2026/05/05/lsu-law-alumnus-and-louisiana-supreme-court-chief-justice-john-l-weimer-80-to-deliver-lsu-law-commencement-address-on-friday-may-15/",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        }
+      ]
     }
   },
   {
     "state": "Maine",
     "slug": "maine",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-10-20",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/maine/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±7.2 percentage points for adults in Maine",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "22%",
+          "percent": 22,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "14%",
+          "percent": 14,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "13%",
+          "percent": 13,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "5%",
+          "percent": 5,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "9%",
+          "percent": 9,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "25%",
+          "percent": 25,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Maine table are Evangelical Protestant (22%), Catholic (14%), and Mainline Protestant (13%). Pew lists 5% atheist, 9% agnostic, and 25% nothing in particular. Figures are survey estimates; the state margin of error is ±7.2 percentage points, 1% did not answer, and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
-      "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "as_of": "2026-10-20",
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 5,
+      "documented_affiliations": 1,
+      "summary": "Maine has no lieutenant governor, so five power positions are tracked. One has a documented affiliation: House Speaker Ryan Fecteau, reported as Catholic. The governor, attorney general, Senate President, and chief justice remain unknown. In Pew's survey, 25% of Maine adults are nothing in particular, 9% agnostic, and 5% atheist.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Janet Mills",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://www.maine.gov/governor/mills/",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Attorney General",
+          "name": "Aaron Frey",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://www.maine.gov/ag/",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Speaker of the House",
+          "name": "Ryan Fecteau",
+          "affiliation_status": "documented",
+          "affiliation": "Catholic",
+          "affiliation_detail": "The Portland Press Herald reported: “For Ryan Fecteau, who is Catholic and was Maine’s first openly gay speaker of the House…” (Dec. 26, 2023).",
+          "office_source": "https://www.legislature.maine.gov/house/StaffProfiles/Leadership",
+          "affiliation_source": "https://www.pressherald.com/2023/12/26/mainers-react-to-pope-francis-allowing-same-sex-couples-to-be-blessed/",
+          "source_note": "Office verified by the Maine House leadership page; affiliation from direct news reporting."
+        },
+        {
+          "office": "Senate President",
+          "name": "Mattie Daughtry",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Maine has no lieutenant governor; the Senate President is first in the line of succession.",
+          "office_source": "https://www.mainesenate.org/about/",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "Valerie Stanfill",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://www.courts.maine.gov/courts/sjc/justices.html",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        }
+      ]
     }
   },
   {
     "state": "Maryland",
     "slug": "maryland",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-10-20",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/maryland/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±6.1 percentage points for adults in Maryland",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "15%",
+          "percent": 15,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "12%",
+          "percent": 12,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "13%",
+          "percent": 13,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "15%",
+          "percent": 15,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "4%",
+          "percent": 4,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "3%",
+          "percent": 3,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "6%",
+          "percent": 6,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "7%",
+          "percent": 7,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "19%",
+          "percent": 19,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Maryland table are Evangelical Protestant (15%), Historically Black Protestant (15%), and Mainline Protestant (13%). Pew lists 6% atheist, 7% agnostic, and 19% nothing in particular. Figures are survey estimates; the state margin of error is ±6.1 percentage points, 1% did not answer, and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
-      "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "as_of": "2026-10-20",
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 6,
+      "documented_affiliations": 1,
+      "summary": "One of six tracked Maryland power positions has a documented affiliation: Attorney General Anthony G. Brown (St. Joseph Catholic Church, Largo). The other five remain unknown in the sources reviewed. Maryland's population is unusually diverse in Pew's survey, with evangelical and historically Black Protestant at 15% each, 4% Muslim, and 3% Jewish.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Wes Moore",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Moore speaks publicly about faith, but no reviewed official or reputable biographical source names an affiliation.",
+          "office_source": "https://governor.maryland.gov/",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "Aruna Miller",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Miller has described being raised in “an interfaith household” (India Currents); no current personal affiliation is stated, so none is coded.",
+          "office_source": "https://governor.maryland.gov/",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Attorney General",
+          "name": "Anthony G. Brown",
+          "affiliation_status": "documented",
+          "affiliation": "Catholic — St. Joseph Catholic Church, Largo",
+          "affiliation_detail": "The Maryland Manual biography lists: “Member, St. Joseph Catholic Church, Largo, Maryland.”",
+          "office_source": "https://www.marylandattorneygeneral.gov/",
+          "affiliation_source": "https://msa.maryland.gov/msa/mdmanual/08conoff/attorney/html/msa02768.html",
+          "source_note": "Office verified by the official AG site; affiliation from the Maryland State Archives biography."
+        },
+        {
+          "office": "Speaker of the House",
+          "name": "Joseline A. Peña-Melnyk",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "An encyclopedia entry says she was raised Catholic and drifted from the church; the underlying source was not located, and upbringing is not coded as affiliation.",
+          "office_source": "https://mgaleg.maryland.gov/mgawebsite/Members/Index/house",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Senate President",
+          "name": "Bill Ferguson",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/ferguson?ys=2026RS",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "Matthew J. Fader",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "A judicial conference booklet lists a church trusteeship but the church name was not legible in the retrieved text; the Maryland Manual biography lists none. Not coded.",
+          "office_source": "https://www.courts.state.md.us/scm/justices",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        }
+      ]
     }
   },
   {
