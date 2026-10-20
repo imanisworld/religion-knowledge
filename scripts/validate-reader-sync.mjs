@@ -9,6 +9,7 @@ const DOCUMENTS = [
   ['Translations.md', 'translations.html', 'Translations'],
   ['Method_and_Reference.md', 'method-reference.html', 'Method & Reference'],
   ['Glossary.md', 'glossary.html', 'Glossary'],
+  ['Law_and_Covenant.md', 'law-covenant.html', 'Law & Covenant'],
 ];
 
 // cited-persons.html is hand-maintained; Cited_Persons.md is a working draft
@@ -27,6 +28,7 @@ const SWITCHER_LABELS = [
   'Translations',
   'Method & Reference',
   'Glossary',
+  'Law & Covenant',
   'Cited Persons',
   'Religion & Law',
   'Personal History',
