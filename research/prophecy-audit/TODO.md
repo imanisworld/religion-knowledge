@@ -33,11 +33,12 @@
 - [ ] Revisit the original eleven reviewed cases if any new evidence contradicts previous assessments.
 - [ ] Deduplicate related traditions (for example, Jeremiah 49/Obadiah) and later NT use of already recorded original passages.
 
-## Integration, independent review, release
+## Integration and bounded-edition release
 
 - [ ] Run case/reader/search consistency tests after each new batch, and check 390px/1440px, light/dark, full-width reading and accessible table row labels.
 - [ ] Reconcile with any future merges to `main` without overwriting Claude's UI or translation evidence.
-- [ ] Prepare **one outside independent review** packet after completing the declared inventory; incorporate exact-source corrections with an audit trail.
-- [ ] Obtain project-owner approval after review. **Do not merge PR #202** merely because CI passes.
+- [x] Owner accepted documented limitations and waived outside specialist review **for the bounded 65-case edition only** (STATUS.md). Label public content AI-reviewed and preserve unresolved source citations.
+- [ ] Preserve the separate 21-lead research queue and 54 detailed primary-source checks as future work; do not imply comprehensive coverage.
+- [ ] Obtain a scoped consolidation-freeze exception and explicit merge/deploy approval after final integrated CI. **Do not merge PR #202** merely because CI passes.
 
 **Stop condition:** The inventory passes a documented completeness search for the declared scope, and every included distinct attribution has a verifiable source passage or is explicitly marked unresolved. There is no universally agreed single count of 'all prophecies.'
