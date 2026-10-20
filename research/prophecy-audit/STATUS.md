@@ -1,66 +1,55 @@
 # Biblical Prophecy Audit — Status and Handoff
 
-**As of:** 2026-10-20  
+**As of:** October 20, 2026  
 **Repository:** `imanisworld/religion-knowledge`  
-**Working branch:** `research/prophecy-evidence-20261020`  
-**Pull request:** [#202](https://github.com/imanisworld/religion-knowledge/pull/202)  
-**Release decision:** keep PR open. No research claim that all biblical prophecy has been audited; independent specialist review is deliberately deferred until the declared inventory has been completed and checked.
+**Research branch:** `research/prophecy-evidence-20261020`  
+**PR:** [#202](https://github.com/imanisworld/religion-knowledge/pull/202)  
+**Release decision:** Keep the PR open until the complete selected inventory, internal source checks, and independent review are finished.
 
-## Status at this checkpoint
+## Verified research counts
 
-| Measure | Value | Interpretation |
+| Measure | Count | Definition |
 |---|---:|---|
-| Source-located case records | **41** | Individually documented claims in `records.json`, not necessarily independently verified conclusions |
-| Batches recorded | **7** | Sequential research groups, with statuses preserved |
-| Cases in internally reviewed Batch 1 | **11** | These received a previous assistant review; this is **not** external academic peer review |
-| Later cases awaiting full detailed internal review | **30** | Sources located and wording drafted, some given an initial spot-check only |
-| Matthew's standard formula quotations | **10/10** | Bounded subcollection researched, not all possible Matthew scriptural citations |
-| Additional candidate claim locations | **50** | An explicitly incomplete seed inventory, **not** the number of all biblical prophecies |
-| Candidate locations with their own case record | **24** | Included in `records.json` |
-| Candidate locations covered by an earlier case | **2** | No duplicate case created |
-| Candidate locations without claim-specific completion | **24** | 21 pending research and 3 partial cross-references |
-| External specialist review | **0 completed** | Intentionally deferred by user |
-| Merged / live | **No at this research checkpoint** | GitHub and production should be rechecked before any later status claim |
+| Canonical source-linked case records | **46** | Entries in `records.json`, with matching Markdown, HTML reader cards, and search anchors on this branch |
+| Research batches | **8** | Batch history retained in `records.json` |
+| Initially internally reviewed | **11** | Earlier assistant content check, not outside academic peer review |
+| Later records needing detailed internal review | **35** | Batches 2–8, including source-located and spot-checked cases |
+| Classic Matthew fulfillment-formula quotations | **10/10** | A bounded quotation subset, not all Matthew allusions |
+| Additional seed candidate locations | **50** | Worklist, **not** a defensible total of all biblical prophecy |
+| Candidate locations with dedicated research cases | **29** | Distinct later claims may have a shared earlier textual source |
+| Candidate locations linked to earlier cases | **2** | Direct earlier case coverage without duplication |
+| Remaining seed candidates pending or partial | **19** | Six Daniel, seven Jesus/Paul imminent-timing texts, three Revelation groupings, and three NT quotation checks |
+| Historical oracle candidates researched | **11/11** | Source-located cases; full review still required |
+| Independent external review | **0 completed** | Explicitly deferred until the full chosen inventory is complete |
+| Main-site release | **Not yet merged** | A PR build or successful CI does not show that the research is in production |
 
-**Important accounting:** The 50 candidate locations overlap with some of the 41 case records. Never add `41 + 50` as a meaningful total. The formula subset also overlaps with the case records. These counts answer different questions.
+**Counting rule:** The ten Matthean formulas and fifty additional seed locations overlap with the 46 case records. Do not sum these numbers or describe the worklist as all biblical prophecies. Its completeness still needs a discovery audit.
 
-## Research batches
+## Batches and review gate
 
-| Batch | Cases | State | Focus |
+| Batch | Cases | Subjects | Status |
 |---|---:|---|---|
-| batch-1 | 11 | internally reviewed | Initial cross-category starter cases |
-| batch-2 | 6 | research complete internal review pending | Complete Matthew's ten classic fulfillment-formula quotation cases |
-| batch-3 | 5 | research complete internal review pending | Five high-value NT adaptations of prophetic Hebrew/Greek texts |
-| batch-4 | 3 | research complete internal review pending | Additional Matthew references beyond the ten formulas |
-| batch-5 | 5 | source spot checked full review pending | John 13/19 and Acts 2/3/13 |
-| batch-6 | 5 | source spot checked full review pending | John 12, Romans 9/11 and Hebrews 1 |
-| batch-7 | 6 | source located full review pending | Historical oracles: Cyrus, 70 years, Tyre, Babylon and Nineveh |
+| 1 | 11 | Initial cross-category sample | Internally reviewed (outside review still pending) |
+| 2 | 6 | Matthew formula quotations | Full review pending |
+| 3 | 5 | NT Greek/Hebrew reuses | Full review pending |
+| 4 | 3 | Other Matthew quotations | Full review pending |
+| 5 | 5 | John 13/19 and Acts 2/3/13 | Source spot-checked; full review pending |
+| 6 | 5 | John 12, Romans 9/11, Hebrews 1 | Source spot-checked; full review pending |
+| 7 | 6 | Cyrus, Jeremiah's seventy years, Tyre, Isaiah 13 and Nineveh | Source located; full review pending |
+| 8 | 5 | Damascus, Obadiah, Jeremiah 49, Haggai 2, Zechariah 14 | Source located; full review pending |
+| **Total** | **46** | | |
 
-The latest batch studies: **Isaiah 44:28–45:1 (Cyrus)**, **Jeremiah 25:11–12 and 29:10 (seventy years)**, **Ezekiel 26 (Tyre)**, **Isaiah 13 (Medes/Babylon)**, **Nahum 1–3 (Nineveh)**. These cases distinguish independently established events from the dates of prophetic writing, biblical imagery, and the scope of claimed fulfillment.
+## Most important evidence limitations
 
-## Evidence and publication rules
+- Isaiah 17's Damascus oracle follows a geopolitical crisis in 735–732 BCE; loss of Aramean kingship was real, while [UNESCO documents continued urban settlement](https://whc.unesco.org/en/list/20/).
+- [Obadiah](https://doi.org/10.1177/0309089214567376) and [Jeremiah 49](https://doi.org/10.1177/030908928200702406) overlap in wording. They are separate biblical cases but not necessarily independent witnesses. Idumaean identity continued beyond the fall of Edom's polity.
+- Haggai 2's `khemdat kol-haggoyim` with a plural verb is commonly rendered as the nations' treasures ([NET notes](https://classic.net.bible.org/passage.php?passage=hag+2%3A6-9)); a singular messianic application is a later reading.
+- Zechariah 14's future Jerusalem scene is apocalyptic, involving the Mount of Olives, cosmic signs, living waters, and a universal pilgrimage. A complete historically observed fulfillment has not been established.
+- A historically documented event does not establish the date its oracle was first composed. An author citing earlier words documents that author's interpretation, which is distinct from outside evidence of a miracle.
+- Full claim review requires checking critical text, manuscript variants, relevant scholarly passages and competing Jewish/Christian interpretations. Citation existence and CI passing do not settle academic claims.
 
-1. An earlier passage's wording, its historical setting, later reuse, and an external source for an event must each be separately recorded. Dating the narrated event does **not** date the prophecy's literary composition.
-2. Distinguish **documented historical event**, **scholarly inference**, **later religious interpretation**, and **unverified supernatural claim**. Cite specific scholars and texts.
-3. A biblical narrator citing a verse is proof of **the narrator's interpretation**, not an independent attestation of the narrated event.
-4. Do not call every literary lament a prediction or every poetic image a literal timetable. Conditional warnings require their own classification.
-5. Preserve an unresolved item if no reliable source confirms it. Source-located/spot-checked is a lower standard than complete claim-by-claim source audit.
-6. No claim of a definitive total for “all prophecies” until an explicit inclusion universe and discovery pass have been independently audited.
+## Handoff and next checkpoint
 
-## Where the truth lives
+Follow [TODO.md](TODO.md) for the 19 tracked unfinished loci. Finish those, then run an inventory discovery/deduplication audit. Verify **35 later cases** claim-by-claim; revisit earlier cases when needed. Rebuild and check the reader and search index before assembling the single external review packet. Do not merge until the outside reviewer returns findings and corrections are reconciled.
 
-- **Canonical cases:** [records.json](records.json) — all individual source-to-claim research entries.
-- **Coverage inventory:** [inventory.json](inventory.json) — classic Matthew formula subcorpus plus remaining seed candidates.
-- **Human-readable research:** [index.md](index.md) — synchronized case details and citations.
-- **Website reader:** [prophecy-audit.html](../../prophecy-audit.html) — mobile-accessible research card reader.
-- **Independent review handoff:** [REVIEW.md](REVIEW.md) — corrections, debates, and outside-check requirements.
-- **Remaining work:** [TODO.md](TODO.md) — actionable next research and release checks.
-- **Search:** [search-index.json](../../search-index.json) — generated links to individual case sections.
-
-## Next checkpoint and definition of done
-
-The immediate next research groups are five still-pending historical oracles — Isaiah 17, Obadiah, Jeremiah 49, Haggai 2, Zechariah 14 — followed by sixteen Daniel / New Testament / Revelation apocalyptic candidates and three NT citations with only partial related cases. Complete those 24 locations, re-run discovery against additional scholarly claim inventories, fill any newly discovered cases, and then conduct the comprehensive internal review of the newer records.
-
-**External review trigger:** after the inventory coverage is complete and audited, with all pages/sources synchronized and technical checks green; give the independent reviewer `records.json`, `inventory.json`, `index.md`, and `REVIEW.md`. External feedback must be reconciled before proposing a merge, unless the owner explicitly chooses another release policy.
-
-**Last verified at this document write:** case and coverage counts from the branch. CI and mergeability are time-sensitive; verify them from GitHub rather than assuming the result of an earlier commit carries over.
+**Source links:** [records.json](records.json) · [inventory.json](inventory.json) · [index.md](index.md) · [REVIEW.md](REVIEW.md) · [TODO.md](TODO.md)
