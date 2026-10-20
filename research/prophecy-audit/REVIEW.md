@@ -1,3 +1,83 @@
+## Full review verdict matrix — all 65 cases (20 October 2026)
+
+**Reviewer:** Claude (AI assistant), at the owner's request. **This is not an independent review.** The same kind of assistant drafted these records, and the reviewer also edited this branch. The Bible-text, Oxford, Brill and Cambridge sites could not be opened from the working environment, so checks used web-search results, publisher landing pages and DOI records. No Hebrew, Greek or Aramaic was checked against a critical edition.
+
+**Method:** Every record was read against its stated earlier text, later use and evidence. The case's assessment was tested for overstatement, and the specific factual claims (dates, textual readings, manuscript witnesses, scholarly attributions) were spot-checked by search.
+
+**Result:** 0 of 65 overstate fulfillment or present a debated reading as settled. Verdicts: 40 hold; 14 hold after corrections made in this review; 11 hold, but a cited scholarly source could only be confirmed by its link or not at all. No case collapses.
+
+| # | Case | Verdict | Checked / changed |
+|---|---|---|---|
+| 1 | `isaiah-7-14` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 2 | `hosea-11-1` | Holds; source partly unconfirmed | Kim (2019): link resolves; argument not confirmed by search |
+| 3 | `jeremiah-31-15` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 4 | `micah-5-2` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 5 | `zechariah-9-9` | Holds; source partly unconfirmed | Ferda (2020, JTS): DOI resolves; argument not confirmed by search |
+| 6 | `isaiah-53` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 7 | `psalm-22` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 8 | `isaiah-40-3` | Holds; source partly unconfirmed | LXX lacks the second 'in the desert' line; Freidenreich's argument confirmed; '2026' date unconfirmed |
+| 9 | `jeremiah-46-egypt` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 10 | `ezekiel-29-egypt` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 11 | `jonah-3-warning` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 12 | `nazorean-matthew-2-23` | Holds | No extant matching verse; record already hedged |
+| 13 | `isaiah-9-galilee-matthew-4` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 14 | `isaiah-53-4-healing` | Holds; source partly unconfirmed | LXX 'sins' vs Hebrew 'sicknesses' confirmed; Watts (2015): DOI only |
+| 15 | `isaiah-42-servant-matthew-12` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 16 | `psalm-78-parables-matthew-13` | Holds | 'Isaiah' variant (Sinaiticus first hand and some minuscules; UBS 'C' rating) confirmed |
+| 17 | `zechariah-11-silver-matthew-27` | Holds — corrected | Menken (Biblica 83, 2002, pp. 305–328) confirmed; his explanation (revised Septuagint plus Jeremiah 32) now stated correctly |
+| 18 | `isaiah-61-luke-4` | Holds; source partly unconfirmed | HTS (2018) article still unnamed |
+| 19 | `joel-2-acts-2` | Holds | 'In the last days' vs 'afterward' confirmed |
+| 20 | `amos-9-acts-15` | Holds | Hebrew 'possess/Edom' vs Greek 'seek/humankind' confirmed; Nogalski (2015) DOI |
+| 21 | `zechariah-12-john-19` | Holds | Greek Zechariah's divergent verb confirmed; Kubiś (2012) confirmed |
+| 22 | `jeremiah-31-hebrews-8` | Holds | Moore (Irish Theological Quarterly 89.2, 2024) confirmed, including his engagement with Klawans |
+| 23 | `isaiah-6-matthew-13` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 24 | `zechariah-13-matthew-26` | Holds — corrected | Mark 14:27 already has 'I will strike'; Matthew adds 'of the flock'. Corrected |
+| 25 | `matthew-26-scriptures-unspecified` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 26 | `psalm-41-john-13` | Holds — corrected | John omits the whole 'close friend in whom I trusted' clause. Corrected |
+| 27 | `psalm-16-acts-2` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 28 | `deuteronomy-18-acts-3` | Holds | Brewer (NTS) confirmed in an earlier owner spot-check |
+| 29 | `unbroken-bones-john-19` | Holds | Passive form matches Psalm 34:20 (LXX 33:21); confirmed earlier |
+| 30 | `psalm-2-acts-13` | Holds | Lee (2012) confirmed earlier |
+| 31 | `isaiah-53-1-john-12` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 32 | `isaiah-6-john-12` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 33 | `hosea-romans-9-gentiles` | Holds | Hays (1989) confirmed earlier |
+| 34 | `isaiah-59-romans-11-zion` | Holds; source partly unconfirmed | Kirk (2010) confirmed earlier; K. S. Kim (2014): Korean article exists, author and date unconfirmed |
+| 35 | `hebrews-1-5-royal-son` | Holds; source partly unconfirmed | Jung (2014) and Steyn (2003) not confirmed by search; links only |
+| 36 | `cyrus-isaiah-44-45` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 37 | `jeremiah-25-seventy-years` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 38 | `jeremiah-29-seventy-years` | Holds — corrected | Italics fixed in the HTML; 2018 Korean article still unnamed |
+| 39 | `ezekiel-26-tyre` | Holds — corrected | Named scholar added (Kris J. Udd, Tyndale Bulletin 56.1, 2005); the PThU blog's author is still unidentified |
+| 40 | `isaiah-13-babylon-medes` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 41 | `nahum-nineveh-fall` | Holds | BM 21901 covers 616–609 BCE; Thebes sacked 663 BCE; both confirmed |
+| 42 | `isaiah-17-damascus` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 43 | `obadiah-edom` | Holds — corrected | Assis corrected to JSOT 39.2 (2014); Levin (2020) named |
+| 44 | `jeremiah-49-edom` | Holds — corrected | Ogden's title and argument corrected (JSOT 24, 1982: Jer 49 and Obadiah as responses to Psalm 137) |
+| 45 | `haggai-2-temple-glory` | Holds — corrected | Joachimsen (Religions 13, 2022) named; the 'treasures' reading and plural verb confirmed |
+| 46 | `zechariah-14-day-of-yhwh` | Holds | Zechariah 14 as the first-day Sukkot haftarah (Megillah 31a) confirmed |
+| 47 | `daniel-2-four-kingdoms` | Holds — corrected | Aramaic begins at 2:4b. Corrected |
+| 48 | `daniel-7-beasts-son-of-man` | Holds; source partly unconfirmed | Meadowcroft (2016): JSTOR DOI only |
+| 49 | `daniel-8-ram-goat-2300` | Holds | Rededication 164 BCE (1 Macc 4:52) consistent |
+| 50 | `daniel-9-seventy-weeks` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 51 | `daniel-11-kings-end` | Holds | Antiochus IV died in Persia (Tabae) in 164 BCE; confirmed |
+| 52 | `daniel-12-resurrection-days` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 53 | `mark-13-2-temple-destruction` | Holds | Brandon (NTS 7, 1961, pp. 126–141) confirmed |
+| 54 | `mark-13-30-this-generation` | Holds; source partly unconfirmed | Edsall (JSNT) and Charlesworth (2017) confirmed; Winn (2020, BBR): DOI only |
+| 55 | `matthew-10-23-towns-of-israel` | Holds | Löfstedt (SEÅ 90, 2025; online 2026) confirmed, including Vaticanus/Beza omitting 'of Israel' |
+| 56 | `mark-9-1-taste-death` | Holds — corrected | Author named (E. J. Davila, NTS 2026); the article's scope (Mark 16:1–8) stated |
+| 57 | `mark-14-62-son-man-high-priest` | Holds — corrected | Italics fixed; Smith & Vaillancourt (JBL 2022) two-stage reading confirmed |
+| 58 | `one-thess-4-we-alive` | Holds — corrected | Typo fixed; article (NovT 66, 2024, pp. 231–256) confirmed; author probably Fauconnier, unconfirmed and left unnamed |
+| 59 | `one-cor-15-not-all-sleep` | Holds; source partly unconfirmed | Variant readings confirmed (C F G vs B D and most); the Fee/Metzger citation comes through a secondary BYU article |
+| 60 | `revelation-1-22-soon` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 61 | `revelation-13-beast-number` | Holds — corrected | Duplicate Nelson reference relabelled; P115 reading 616 confirmed; Nelson (JTS 2025) confirmed |
+| 62 | `revelation-20-21-millennium-new-jerusalem` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 63 | `mark-1-composite-quotation` | Holds; source partly unconfirmed | Isaiah vs 'the prophets' witnesses confirmed; the 2023 monograph is still unnamed |
+| 64 | `john-19-24-garments-psalm22` | Holds | Assessment consistent with the text; no contrary evidence found |
+| 65 | `acts-8-isaiah53-ethiopian` | Holds — corrected | Acts' own 'queen of the Ethiopians' now given before the modern Kush/Meroë identification |
+
+**Accepted limits:** The unconfirmed sources above, the absence of original-language collation, and the absence of independent specialist review all remain true. They are accepted by the owner as limitations (see STATUS.md), not resolved.
+
+---
+
 ## Internal adversarial review of all 65 cases — 20 October 2026
 
 **What this is:** An AI assistant read all 65 records against the text and spot-checked them by web search. It made the corrections below in `records.json`, `index.md` and `prophecy-audit.html` together. **It is not the independent external review, and it does not move any case out of "needs full review."** Bible-text sites, Oxford Academic and Brill could not be opened from the working environment, so evidence came from search results and DOI/landing records. No Hebrew, Greek or Aramaic was checked against a critical edition.

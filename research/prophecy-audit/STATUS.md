@@ -13,17 +13,25 @@
 | **Source-linked research cases** | **65** | Stored in `records.json` and cross-referenced in `index.md`, reader HTML, comparison matrix and Search, all on this branch |
 | **Research batches** | **11** | Batch IDs and individual states are in `records.json` |
 | **Initially internally reviewed** | **11** | Initial assistant review, not independent scholarly verification |
-| **Later cases needing full claim-by-claim review** | **54** | Batches 2–11: some source-located or spot-checked, not fully vetted |
+| **Cases reviewed case by case** | **65/65** | Claude AI review, 20 Oct 2026; not independent; 11 cites only partly confirmed (REVIEW.md) |
 | **Ten classic Matthew formula quotations** | **10/10** | Defined narrow subset; not every quotation/allusion in Matthew |
 | **Supplemental candidate seed** | **50 locations** | Working seed; not a comprehensive number of biblical prophecies |
 | **Seed locations with specific case records** | **48/50** | Distinct later reuses or claims are registered |
 | **Seed locations directly covered by earlier cases** | **2/50** | No unnecessary duplication |
 | **Seed locations unaddressed** | **0/50** | **Original seed complete; corpus discovery NOT complete** |
-| **Internal adversarial review (all 65)** | **Done 20 Oct 2026** | AI pass, not independent; 9 record corrections plus 3 rendering fixes; see REVIEW.md. Does not change the 54-case "needs full review" status |
-| **Independent external review** | **Not yet performed** | Complete broader scope and internal checks first |
+| **Full AI review (all 65)** | **Done 20 Oct 2026** | Claude review, not independent; verdict matrix in REVIEW.md; 0 overstated, 0 collapse, corrections applied |
+| **Independent external review** | **Not performed — replaced by owner acceptance (20 Oct 2026)** | See "Owner decision" below |
 | **Live production release** | **Not merged** | PR/preview success does not mean deployed production |
 
 **Important:** 65 cases, 50 seed locations, and ten Matthew formula quotations describe *overlapping sets*; do not add them together. This seed was assembled as a starting list rather than an exhaustive inventory of every prophecy, and none of the 54 newer cases should be described as independently verified.
+
+## Owner decision — review gate (20 October 2026)
+
+The owner decided, in a Claude Code session on 20 October 2026, to **accept the documented limits of the AI reviews in place of an outside specialist review** for this module. The record is:
+
+- What was done: an internal review of the first 11 cases, an adversarial pass, and a full Claude verdict matrix over all 65 cases (REVIEW.md), with corrections applied to all three copies of the records.
+- What was not done: independent human specialist review; Hebrew, Greek and Aramaic collation; page-level reading of paywalled scholarship; confirmation of the sources listed as "partly unconfirmed" in the matrix.
+- What this decision does **not** do: it does not lift the repository's consolidation freeze, authorize a merge or a deploy, or turn any internal check into independent validation. Public text must not describe these cases as independently reviewed.
 
 ## Batch register
 

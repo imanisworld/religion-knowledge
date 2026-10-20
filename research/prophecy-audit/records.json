@@ -507,7 +507,7 @@
       "original": "שְׁלֹשִׁים כָּסֶף ('thirty [pieces of] silver', Zechariah 11:12); Matthew says 'through Jeremiah'",
       "setting": "Zechariah 11 presents a symbolic shepherd drama about the rejection of a shepherd and the contemptuous thirty-silver payment. It mentions disposing of the money in the house of YHWH, but not the purchase of a potter's field.",
       "laterUse": "Matthew's Judas narrative specifies thirty silver pieces, money thrown into the temple, and the purchase of a potter's field; Matthew 27:9 calls the quotation Jeremiah although its closest wording is Zechariah 11:12–13.",
-      "relationship": "The discrepancy is explicit. Some scholars posit composite imagery from Jeremiah 19 or 32; Maarten J. J. Menken (2002) argues Zechariah 11:13 is the main source and Matthew's redaction explains the altered wording and selected narrative details.",
+      "relationship": "The discrepancy is explicit. Some scholars posit composite imagery from Jeremiah 19 or 32; Maarten J. J. Menken (2002) argues Zechariah 11:13 is the main source, explains the altered wording as a revised Septuagint text read together with Jeremiah 32 (LXX 39):6–15, and attributes the quotation's limited influence on the surrounding narrative to Matthew's editing.",
       "evidence": "The source attribution in Matthew is demonstrably different from the best matching earlier text. A correction based solely on Matthew's own claim that Judas acted this way would be circular; the earlier source independently exists, but the thirty-coin event is not independently verified by that correspondence.",
       "sourceStatus": "Zechariah source and Jeremiah attribution verifiable; precise cause of misattribution debated",
       "refs": [
@@ -1378,7 +1378,7 @@
           "https://doi.org/10.1093/acrefore/9780199381135.013.3252"
         ],
         [
-          "The Religion of Idumea and Its Relationship to Early Judaism (2020)",
+          "Yigal Levin, The Religion of Idumea and Its Relationship to Early Judaism (Religions 11, 2020)",
           "https://doi.org/10.3390/rel11100487"
         ]
       ]
@@ -1392,7 +1392,7 @@
       "original": "כִּי־אֲנִי חָשַׂפְתִּי אֶת־עֵשָׂו ('For I have laid Esau bare', Jer 49:10); the oracle invokes desolation, terror and judgment on Edom.",
       "setting": "Jeremiah 49:7–22 speaks against Teman/Bozrah and Edom. Its opening and middle lines are closely related to Obadiah 1–9, yet the texts differ in wording and scope. Scholarship debates whether Jeremiah drew on Obadiah, the reverse, a common earlier oracle, or layers assembled at different times.",
       "laterUse": "The historical Edomite kingdom declined, while Idumaean communities developed and persisted in southern Judea. The passage also influenced later conceptions of Edom as a symbolic enemy; such reuse must not replace the historical referent automatically.",
-      "relationship": "Because substantial wording is shared, counting Obadiah and Jeremiah 49 as two independent successful forecasts is methodologically unjustified without establishing independent composition and dating. Graham Ogden (1982) investigates the literary relationship; Cambridge commentary notes a common-source alternative. The exact agent, scale and chronology of political change are also unresolved.",
+      "relationship": "Because substantial wording is shared, counting Obadiah and Jeremiah 49 as two independent successful forecasts is methodologically unjustified without establishing independent composition and dating. Graham Ogden (1982) reads both Jeremiah 49:7–22 and Obadiah as prophetic responses to the communal lament of Psalm 137; Cambridge commentary notes a common-source alternative. The exact agent, scale and chronology of political change are also unresolved.",
       "evidence": "Independent archaeological/historical sources support Edomite/Idumaean continuity, migration and cultural transformation rather than verified total extermination. Specific devastation imagery is largely preserved in the prophetic text, and cannot independently confirm its own accuracy.",
       "sourceStatus": "Shared wording and Edomite identity history documented; literary priority, chronology and literal devastation uncertain",
       "refs": [
@@ -1405,7 +1405,7 @@
           "https://biblehub.com/text/jeremiah/49-10.htm"
         ],
         [
-          "Graham S. Ogden, Edom in Jeremiah 49 and Obadiah (JSOT 1982)",
+          "Graham S. Ogden, Prophetic Oracles against Foreign Nations and Psalms of Communal Lament: The Relationship of Psalm 137 to Jeremiah 49:7–22 and Obadiah (JSOT 24, 1982)",
           "https://doi.org/10.1177/030908928200702406"
         ],
         [
@@ -1440,7 +1440,7 @@
           "https://biblehub.com/text/haggai/2-7.htm"
         ],
         [
-          "Yehudite Imaginations of King Darius (Religions 2022), temple chronology",
+          "Kristin Joachimsen, Yehudite Imaginations of King Darius and His Officials (Religions 13, 2022), temple chronology",
           "https://doi.org/10.3390/rel13030262"
         ],
         [
@@ -2132,8 +2132,8 @@
   ],
   "review": {
     "review_date": "2026-10-20",
-    "internal_review_status": "11 first cases internally reviewed; Batches 2–11 contain 54 source-located studies awaiting full scholarly source control, original-language checks and independent review.",
-    "external_review_status": "held until full defined inventory audited",
+    "internal_review_status": "All 65 cases reviewed case by case by an AI assistant on 2026-10-20 (verdict matrix in REVIEW.md); not an independent specialist review; original-language collation not performed.",
+    "external_review_status": "not performed; owner accepted documented limits on 2026-10-20 (see STATUS.md)",
     "review_document": "REVIEW.md"
   },
   "batches": [
