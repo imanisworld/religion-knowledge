@@ -174,7 +174,7 @@ PY
 
 python3 -m http.server 8765 --bind 127.0.0.1 >/tmp/religion-http.log 2>&1 &
 SERVER_PID=$!
-trap 'kill "$SERVER_PID" >/dev/null 2>&1 || true; rm -f "$SMOKE_PAGE"' EXIT
+trap 'kill "$SERVER_PID" >/dev/null 2>&1 || true; rm -f "$SMOKE_PAGE" history.browser-smoke.html' EXIT
 
 READY=0
 for _ in {1..30}; do
@@ -381,3 +381,51 @@ if grep -Eqi 'Uncaught|ReferenceError|TypeError|SyntaxError' /tmp/religion-brows
 fi
 
 printf 'BROWSER_SMOKE=PASS viewport=390x844 records=%s review=%s positions=0 review_backup=present source_library=8 source_browse=Glossary.md source_link=%s more_sheet=pass filter_badge=pass search_summary=pass topic_search=pass review_speed=pass\n' "$EXPECTED_RECORDS" "$EXPECTED_REVIEW" "$SOURCE_HREF"
+
+
+# Reader regression: verify the external site shell wins over the later inline
+# desktop --rail declaration at a phone-sized Chromium viewport.
+python3 - <<'PY'
+from pathlib import Path
+source = Path('history.html').read_text(encoding='utf-8')
+assert '</body>' in source
+probe = """<script>
+(() => {
+  const viewport = document.documentElement.clientWidth;
+  const rail = getComputedStyle(document.documentElement).getPropertyValue('--rail').trim();
+  const main = document.querySelector('main')?.getBoundingClientRect();
+  const brand = document.querySelector('.rk-brand')?.getBoundingClientRect();
+  const nav = [...document.querySelectorAll('.rk-global-nav a')].map(a => a.getBoundingClientRect());
+  const pass = viewport <= 720 && rail === '0px' && main &&
+    main.left >= -1 && main.left <= 3 && main.right <= viewport + 1 &&
+    main.width >= viewport - 3 &&
+    brand && nav.length === 4 &&
+    nav.every(r => r.width > 0 && r.left >= -1 && r.right <= viewport + 1 && r.top >= brand.bottom - 1);
+  document.body.dataset.readerPhoneSmoke = pass ? 'pass' : 'fail';
+  document.body.dataset.readerPhoneDetail = JSON.stringify({
+    viewport, rail, left: main?.left, right: main?.right,
+    brandBottom: brand?.bottom, navRects: nav.map(r => [r.left, r.right, r.top])
+  });
+})();
+</script>"""
+Path('history.browser-smoke.html').write_text(source.replace('</body>', probe + '\\n</body>'), encoding='utf-8')
+PY
+
+"$BROWSER" \
+  --headless \
+  --disable-gpu \
+  --no-sandbox \
+  --hide-scrollbars \
+  --window-size=390,844 \
+  --virtual-time-budget=5000 \
+  --dump-dom \
+  http://127.0.0.1:8765/history.browser-smoke.html \
+  >/tmp/religion-reader-phone-dom.html \
+  2>/tmp/religion-reader-phone-browser.log
+
+if ! grep -Fq 'data-reader-phone-smoke="pass"' /tmp/religion-reader-phone-dom.html; then
+  echo "Reader layout/nav is clipped at a phone-sized viewport" >&2
+  grep -o 'data-reader-phone-detail="[^"]*"' /tmp/religion-reader-phone-dom.html | head -1 >&2 || true
+  exit 1
+fi
+printf 'READER_PHONE_SMOKE=PASS viewport=390x844 rail=0 navigation=visible\\n'
