@@ -10,7 +10,7 @@
   "subject_id": "trad_aksumite_christianity",
   "statement": "The British Museum catalogs an Aksumite copper-alloy coin (1989,0518.87) with a Greek cross on the reverse and an anonymous ruler, giving a broad circa 340–540 CE production interval; the iconographic evidence supports Christian symbolism in Aksumite minting but does not independently date Ezana's own conversion.",
   "claim_tier": "OBSERVATION",
-  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date_semantics": "EVENT_DATE",
   "date": {
     "earliest": 340,
     "latest": 540,
@@ -44,5 +44,5 @@
     "Christian royal iconography does not establish exclusive Christian practice throughout Aksum."
   ],
   "adversarial_counter": "The broad 200-year museum date and anonymous attribution limit the chronological conclusion to use of a cross motif sometime within the cataloged period.",
-  "notes": "Metropolitan Museum's contextual essay 'African Christianity in Ethiopia' independently interprets cross-bearing Aksumite coinage but is not a substitute for the specific museum inventory record."
+  "notes": "Metropolitan Museum's contextual essay 'African Christianity in Ethiopia' independently interprets cross-bearing Aksumite coinage but is not a substitute for the specific museum inventory record. The date is the museum-assigned production window for this particular coin; it is not an earliest surviving date for Aksumite religion."
 }
