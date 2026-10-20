@@ -30,6 +30,7 @@ th,td{padding:.85rem;text-align:left;border-bottom:1px solid var(--rule);vertica
 @media(max-width:620px){main{padding:2.8rem 1rem 4rem}.method{grid-template-columns:1fr}.localnav{margin-inline:-1rem;padding-inline:1rem}.case-top{flex-wrap:wrap}.kind{text-align:left}.deck{font-size:1rem}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 </style>
+<link rel="stylesheet" href="research-page-nav.css">
 </head>
 <body class="rk-with-sitebar">
 <header class="rk-sitebar"><div class="rk-sitebar-inner">
@@ -37,7 +38,7 @@ th,td{padding:.85rem;text-align:left;border-bottom:1px solid var(--rule);vertica
 <nav class="rk-global-nav" aria-label="Site navigation"><a href="index.html">Library</a><a href="history.html">History</a><a href="religion-law.html">Religion &amp; Law</a><a href="search.html">Search</a></nav>
 <button id="theme" class="rk-site-control" type="button" aria-label="Toggle theme">Theme</button>
 </div></header>
-<main>
+<main data-research-pager>
 <header><p class="eyebrow">Primary text · editions · evidence</p><h1>What changed in translation?</h1>
 <p class="deck">Original Hebrew or Greek, the wording readers see, documented reasons for differences, and the conclusions the evidence allows.</p>
 <div class="meta"><span>7 worked cases</span><span>Checked October 20, 2026</span><a href="research/translation-evidence/index.md">Research notes</a><a href="translations.html">Existing translation research</a></div>
@@ -213,4 +214,5 @@ th,td{padding:.85rem;text-align:left;border-bottom:1px solid var(--rule);vertica
 <p class="footer">This independently maintained module is separate from the nine-document core corpus. Sources and qualifications appear in each case and in the canonical research notes.</p>
 </main>
 <script>document.getElementById('theme').addEventListener('click',()=>{let el=document.documentElement;el.dataset.theme=el.dataset.theme==='dark'?'light':'dark';try{localStorage.setItem('religion-knowledge-theme',el.dataset.theme)}catch(e){}})</script>
+<script src="research-page-nav.js"></script>
 </body></html>

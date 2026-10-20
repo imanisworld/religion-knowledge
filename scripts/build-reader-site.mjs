@@ -60,17 +60,34 @@ const MISC_FILES = [
   'site-shell.css',
   'reader-chapters.js',
   'reader-chapters.css',
+  'research-page-nav.js',
+  'research-page-nav.css',
   'traditions.js',
   'traditions.css',
 ];
 
-const RESEARCH_DIRS = [
-  'research/religion-law',
-  'research/gender-over-time',
-  'research/translation-evidence',
-  'research/prophecy-audit',
-  'research/illness-explanations',
-  'research/synthesis',
+// Only files needed for public navigation and research source links are deployed.
+// Internal STATUS/REVIEW/TODO/staging records remain in GitHub, outside the site.
+const PUBLIC_RESEARCH_FILES = [
+  ...[
+    'us-constitutional-federal.md', 'formal-law-institutional-practice.md',
+    'comparative-constitutional-systems.md', 'us-state-law.md',
+    'state-context-methodology.md', 'methodology.md', 'source-registry.md',
+  ].map(name => 'research/religion-law/' + name),
+  ...[
+    'records/us-federal-starter.json', 'records/us-state-starter.json',
+    'records/us-md-maryland.json', 'records/policy-influence.json',
+    'records/global-legal-structure.json', 'records/institutional-practice.json',
+    'context/us-state-context.json',
+  ].map(name => 'research/religion-law/' + name),
+  ...fs.readdirSync('research/religion-law/us-states')
+    .filter(name => name.endsWith('.md') &&
+      !['anchor-state-status.md', 'profile-template.md'].includes(name))
+    .map(name => 'research/religion-law/us-states/' + name),
+  'research/gender-over-time/index.md',
+  'research/gender-over-time/records.json',
+  'research/translation-evidence/index.md',
+  'research/synthesis/index.md',
 ];
 
 const CANONICAL_SOURCES = [
@@ -84,25 +101,6 @@ const CANONICAL_SOURCES = [
   'Translations.md',
   'Personal_Belief_History.md',
 ];
-
-function copyDirectory(source, target) {
-  fs.mkdirSync(target, { recursive: true });
-  for (const entry of fs.readdirSync(source, { withFileTypes: true })) {
-    const from = path.join(source, entry.name);
-    const to = path.join(target, entry.name);
-    if (entry.isDirectory()) copyDirectory(from, to);
-    else fs.copyFileSync(from, to);
-  }
-}
-
-function countFiles(dir) {
-  let count = 0;
-  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
-    const item = path.join(dir, entry.name);
-    count += entry.isDirectory() ? countFiles(item) : 1;
-  }
-  return count;
-}
 
 function parseArgs(argv) {
   const args = { output: 'dist/reader-site' };
@@ -451,14 +449,11 @@ const allFiles = [
   ...DATA_FILES,
   ...generatedFiles,
   ...CANONICAL_SOURCES,
+  ...PUBLIC_RESEARCH_FILES,
 ];
 for (const file of allFiles) {
   if (!fs.existsSync(file)) throw new Error(`Deploy input missing: ${file}`);
 }
-for (const dir of RESEARCH_DIRS) {
-  if (!fs.existsSync(dir)) throw new Error(`Deploy research directory missing: ${dir}`);
-}
-
 fs.rmSync(output, { recursive: true, force: true });
 fs.mkdirSync(output, { recursive: true });
 
@@ -467,10 +462,6 @@ for (const file of allFiles) {
   fs.mkdirSync(path.dirname(target), { recursive: true });
   fs.copyFileSync(file, target);
 }
-for (const dir of RESEARCH_DIRS) {
-  copyDirectory(dir, path.join(output, dir));
-}
-
 // app/index.html now owns the light-first theme bootstrap so local,
 // standalone, and deployed builds all share the same behavior.
 
@@ -489,8 +480,7 @@ console.log(`READER_SITE_BUILD_SUMMARY=${JSON.stringify({
   app_files: APP_FILES.length,
   data_files: DATA_FILES.length + generatedFiles.length,
   canonical_sources: CANONICAL_SOURCES.length,
-  research_dirs: RESEARCH_DIRS.length,
-  research_files: RESEARCH_DIRS.reduce((total, dir) => total + countFiles(dir), 0),
+  public_research_files: PUBLIC_RESEARCH_FILES.length,
   search_entries: searchIndex.length,
-  total_files: allFiles.length + RESEARCH_DIRS.reduce((total, dir) => total + countFiles(dir), 0) + 4,
+  total_files: allFiles.length + 4,
 })}`);

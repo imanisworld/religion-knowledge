@@ -95,6 +95,9 @@ jobs:
       - name: Check nonempty reader topics in laptop and phone Chromium
         run: bash scripts/test-reader-navigation.sh
 
+      - name: Check specialized research page pagination
+        run: bash scripts/test-research-page-navigation.sh
+
       - name: Validate generated comparison catalog and its evidence graph
         run: |
           npm run validate:timeline
@@ -102,6 +105,7 @@ jobs:
           node --test tests/public-catalog.test.mjs
           node --test tests/traditions-profiles.test.mjs
           npm run build:reader-site
+          node --test tests/research-page-navigation-and-public-files.test.mjs
           test -s dist/reader-site/traditions.html
           bash scripts/test-traditions-browser.sh
           test -s dist/reader-site/catalog.html
