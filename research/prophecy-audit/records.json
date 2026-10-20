@@ -2133,7 +2133,7 @@
   "review": {
     "review_date": "2026-10-20",
     "internal_review_status": "All 65 cases reviewed case by case by an AI assistant on 2026-10-20 (verdict matrix in REVIEW.md); not an independent specialist review; original-language collation not performed.",
-    "external_review_status": "not performed; owner accepted documented limits on 2026-10-20 (see STATUS.md)",
+    "external_review_status": "pending; not performed; no owner waiver of outside review has been verified (see STATUS.md)",
     "review_document": "REVIEW.md"
   },
   "batches": [
