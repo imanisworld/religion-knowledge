@@ -88,17 +88,17 @@ jobs:
       - name: Validate app data loading
         run: node scripts/import/validate-app-data.mjs
 
-      - name: Check specialized research page pagination
-        run: bash scripts/test-research-page-navigation.sh
-
-      - name: Check reader topic navigation and accessibility
-        run: node --test tests/reader-section-navigation.test.mjs
-
       - name: Build catalog and verify dates across every entity category
         run: |
           npm run build:reader-site
           test -s dist/reader-site/catalog.html
           node --test tests/public-catalog.test.mjs
+
+      - name: Check specialized research page pagination
+        run: bash scripts/test-research-page-navigation.sh
+
+      - name: Check reader topic navigation and accessibility
+        run: node --test tests/reader-section-navigation.test.mjs
 
       - name: Render app in phone-sized Chromium
         run: bash scripts/test-browser.sh
