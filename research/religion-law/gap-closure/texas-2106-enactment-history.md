@@ -1,7 +1,7 @@
 # Texas Penal Code §21.06 — 1973 Enactment History
 
 **Status:** 🟡 Source-limited conclusion — legal-revision channel documented; §21.06-specific motive unresolved
-**Closed:** 2026-09-27
+**Causation decision:** Unresolved as of 2026-10-20; legal text and invalidation verified
 **Target profile:** `../us-states/texas.md`
 **Question:** What documentary evidence explains the 1973 Texas Legislature's decision to enact a same-sex-specific offense in Penal Code §21.06? Is religious causation actually supportable?
 
@@ -91,7 +91,7 @@ The UTEP thesis (Ross 2016) establishes the textual lineage directly: the 1973 �
 
 **No §21.06-specific religious-causation claim is established by the located enactment sources.** The statute's same-sex-only wording is **consistent with**, but cannot yet be attributed specifically to, compromise in the professional legal codification process. That codewide process and the broader religious and moral history of sodomy restrictions are documented. The surviving files do not settle which considerations drove the 1973 vote on §21.06. Neither a religious-lobby cause nor its absence may be asserted.
 
-**Recommended profile update:** Revise the Texas profile to distinguish (a) the structural religious inheritance of sodomy-law terminology from (b) any claimed direct religious causation of the 1973 same-sex-specific formulation. The latter should be described as unverified/not documentable rather than asserted.
+**Profile and classification resolution:** The source-limited Texas profile distinguishes (a) the structural religious inheritance of sodomy-law terminology from (b) any claimed direct religious causation of the 1973 same-sex-specific formulation. The latter should be described as unverified/not documentable rather than asserted.
 
 ---
 
