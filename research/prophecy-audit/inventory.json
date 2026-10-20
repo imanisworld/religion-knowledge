@@ -1,8 +1,8 @@
 {
-  "version": 3,
+  "version": 4,
   "updated": "2026-10-20",
   "method": "Working scope: direct or explicit fulfillment claims in the New Testament; concrete time/place predictions and conditional threats in the Hebrew Bible and New Testament; messianic proof texts and apocalyptic prediction claims. List source and later use separately. Other echo-only candidates are included only when a specific later claim is identified. Entries in pending groups are candidate discovery leads, not vetted/complete research. The number shown is the number of tracked claims in this working inventory, not an objective total of all biblical prophecies.",
-  "scope_notes": "50 working candidate claims: eight have dedicated new records, two additional Matthew cases are covered by existing source-specific records, and forty have pending or partial claim assessments. This is a seed inventory with further discovery required; no exhaustive count claimed.",
+  "scope_notes": "50 seed candidate claims beyond ten classic Matthew fulfillment formulas: 18 now have claim-specific records, two link to existing source records; 30 remain pending or partially addressed. Not exhaustive.",
   "matthew_formula_ten": [
     {
       "group": "matthew_formula_ten",
@@ -143,24 +143,27 @@
       "claim_locus": "John 12:38",
       "earlier_source": "Isaiah 53:1",
       "question": "Unbelief and servant report",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "isaiah-53-1-john-12"
     },
     {
       "group": "other_nt",
       "claim_locus": "John 12:39–41",
       "earlier_source": "Isaiah 6:9–10",
       "question": "Blindness and response to Jesus",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "isaiah-6-john-12"
     },
     {
       "group": "other_nt",
       "claim_locus": "John 13:18",
       "earlier_source": "Psalm 41:9",
       "question": "Friend shares bread then betrays",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "psalm-41-john-13"
     },
     {
       "group": "other_nt",
@@ -175,8 +178,9 @@
       "claim_locus": "John 19:36",
       "earlier_source": "Exodus 12:46 / Psalm 34:20",
       "question": "Unbroken bones and Passover/restoration",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "unbroken-bones-john-19"
     },
     {
       "group": "other_nt",
@@ -201,16 +205,18 @@
       "claim_locus": "Acts 2:25–31",
       "earlier_source": "Psalm 16:8–11",
       "question": "Davidic psalm interpreted as resurrection",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "psalm-16-acts-2"
     },
     {
       "group": "other_nt",
       "claim_locus": "Acts 3:22–23",
       "earlier_source": "Deuteronomy 18:15–19",
       "question": "Prophet like Moses",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "deuteronomy-18-acts-3"
     },
     {
       "group": "other_nt",
@@ -225,8 +231,9 @@
       "claim_locus": "Acts 13:33",
       "earlier_source": "Psalm 2:7",
       "question": "Divine sonship and resurrection",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "psalm-2-acts-13"
     },
     {
       "group": "other_nt",
@@ -242,24 +249,27 @@
       "claim_locus": "Romans 9:25–26",
       "earlier_source": "Hosea 2:23 / 1:10",
       "question": "Not-my-people now my-people",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "hosea-romans-9-gentiles"
     },
     {
       "group": "other_nt",
       "claim_locus": "Romans 11:26–27",
       "earlier_source": "Isaiah 59:20–21 / 27:9",
       "question": "Deliverer and all Israel",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "isaiah-59-romans-11-zion"
     },
     {
       "group": "other_nt",
       "claim_locus": "Hebrews 1:5",
       "earlier_source": "Psalm 2:7 / 2 Samuel 7:14",
       "question": "Sonship and royal covenant",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "hebrews-1-5-royal-son"
     },
     {
       "group": "other_nt",
