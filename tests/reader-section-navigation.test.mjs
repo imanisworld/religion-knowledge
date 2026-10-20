@@ -28,6 +28,8 @@ test('focused reading is explicitly enabled for Study Notes and Observations onl
 test('reader navigation remains accessible, searchable and deep-linkable', () => {
   assert.doesNotThrow(() => new vm.Script(scripts));
   assert.match(scripts, /reader-section-select/);
+  assert.match(scripts, /section\.textContent\.length < 8500/);
+  assert.match(scripts, /next\.id = 'read-' \+ node\.id/);
   assert.match(scripts, /aria-live="polite"/);
   assert.match(scripts, /section\.hidden = i !== index/);
   assert.match(scripts, /document\.getElementById\(hash\)/);
