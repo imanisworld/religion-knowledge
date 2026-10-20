@@ -1,0 +1,95 @@
+/* Study Notes / Observations: single-topic navigation.
+   Enhancement is installed only when reader-chapters.js runs. */
+.reader-section-nav,
+.reader-section-footer {
+  max-width:var(--measure);
+  border:1px solid var(--rule);
+  border-radius:10px;
+  background:var(--paper);
+  color:var(--ink);
+}
+.reader-section-nav {
+  margin:0 0 2.1rem;
+  padding:1rem 1.15rem .75rem;
+  scroll-margin-top:calc(var(--rk-nav-h,56px) + 4.5rem);
+}
+.reader-section-title {
+  font-weight:700;
+  font-size:.88rem;
+  margin-bottom:.8rem;
+}
+.reader-section-controls {
+  display:grid;
+  grid-template-columns:minmax(0,1fr) auto auto;
+  gap:.55rem;
+  align-items:end;
+}
+.reader-section-controls label {
+  grid-column:1/-1;
+  color:var(--ink2);
+  font-size:.78rem;
+  font-weight:600;
+}
+.reader-section-controls select,
+.reader-section-nav button,
+.reader-section-footer button {
+  min-width:0;
+  min-height:42px;
+  border-radius:7px;
+  border:1px solid var(--rule);
+  background:var(--ground);
+  color:var(--ink);
+  padding:.55rem .7rem;
+  font:600 .88rem/1.3 var(--rk-body,system-ui,sans-serif);
+}
+.reader-section-controls select {
+  width:100%;
+  text-overflow:ellipsis;
+  cursor:pointer;
+}
+.reader-section-nav button,
+.reader-section-footer button {
+  cursor:pointer;
+  white-space:nowrap;
+}
+.reader-section-nav button:hover:not(:disabled),
+.reader-section-footer button:hover:not(:disabled),
+.reader-section-controls select:focus-visible {
+  border-color:var(--accent);
+  outline:2px solid color-mix(in srgb,var(--accent) 45%,transparent);
+  outline-offset:1px;
+}
+.reader-section-nav button:disabled,
+.reader-section-footer button:disabled {opacity:.42;cursor:default}
+.reader-section-status {
+  margin:.85rem 0 0;
+  font-size:.78rem;
+  line-height:1.45;
+  color:var(--ink2);
+}
+.reader-section-footer {
+  display:flex;
+  gap:.6rem;
+  justify-content:space-between;
+  align-items:center;
+  margin:1.4rem 0 5rem;
+  padding:.8rem .95rem;
+}
+.reader-footer-count {
+  font-size:.78rem;
+  text-align:center;
+  color:var(--ink2);
+}
+.reader-paginated main > section[hidden] {display:none!important}
+.reader-paginated main > section:not([hidden]) {scroll-margin-top:calc(var(--rk-nav-h,56px) + 2rem)}
+@media(max-width:640px){
+  .reader-section-nav {margin:0 0 1.5rem;padding:.85rem}
+  .reader-section-controls {grid-template-columns:repeat(2,minmax(0,1fr))}
+  .reader-section-controls select {grid-column:1/-1;grid-row:2}
+  .reader-section-controls label {grid-row:1}
+  .reader-section-controls .reader-prev,
+  .reader-section-controls .reader-next {grid-row:3}
+  .reader-section-footer {padding:.65rem;gap:.35rem}
+  .reader-section-footer button {font-size:.77rem;padding:.55rem}
+  .reader-footer-count {font-size:.72rem}
+}
