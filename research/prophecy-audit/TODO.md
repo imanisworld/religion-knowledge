@@ -12,6 +12,12 @@
 - [x] Preserve eleven initially checked cases separately from 54 cases still requiring full scholarly verification.
 - [x] Update [STATUS.md](STATUS.md), [REVIEW.md](REVIEW.md) and PR handoff.
 
+## New discovery leads from wider completeness search
+
+- [x] Create [discovery-queue.json](discovery-queue.json) with **21 additional unresearched candidate loci**, provisional inclusion/exclusion principles, overlap links, and review questions. The first seed remains frozen at 50 mapped loci for honest progress accounting.
+- [ ] Validate and research those 21 leads (Davidic promises, Isaiah/Micah restoration, Babylon/Edom, the Branch, John/Paul and later apocalypse/delay texts). Several may merge into existing studies after checking the exact source+later-use pair.
+- [ ] Expand discovery across each canonical book and compare multiple independent catalogs; the 21 are an opening pass, never a claim of completeness.
+
 ## Next research work — corpus inventory discovery
 
 - [ ] Define the unit of counting: an earlier prophetic source, a later reuse/fulfillment claim, or an independent historically testable prediction. Record both relationships without counting one story multiple times.
