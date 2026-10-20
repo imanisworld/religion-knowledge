@@ -67,5 +67,12 @@
       "url": "https://www.loc.gov/item/2021668226",
       "supports": "Surviving manuscript and catalogue information; reflects narrower dating conventions."
     }
+  ],
+  "public_profile_facts": [
+    {
+      "statement": "The Newberry Library identifies the Popol Vuh as a K’iche’ Maya account of creation, origins and spiritual history; its surviving copy presents K’iche’ text alongside Spanish translation.",
+      "source_url": "https://www.newberry.org/collection/research-guide/popol-vuh",
+      "evidence_scope": "Verified against the manuscript custodian’s research guide. This describes the surviving text and cannot date the narrative’s earliest oral form."
+    }
   ]
 }
