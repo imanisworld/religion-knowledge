@@ -70,6 +70,36 @@ This is an **evidence status, not proof of nonexistence**. If a culture-specific
 | Eunuchs in Byzantium | Byzantine Empire, especially c. 600–1100 | Kathryn M. Ringrose argues that Byzantine society treated eunuchs as a distinct gender configuration/categories beyond a simple male/female social binary, especially in courtly contexts. This is a historian's analytical interpretation and must be labeled as such. | **Scholarly interpretation** |
 | Intersex classification and medicalization | Modern biomedical history, especially 20th century | The National Academies treats sex as multidimensional and identifies intersex people by sex traits that do not all correspond to a single sex. David Griffiths documents British intersex surgery and classification from 1930–1955, including the growth of early "normalizing" interventions. | **Documented** |
 
+## Biblical gendered imagery — Hebrew and Greek comparison
+
+**CHECKED 2026-10-20 · Original-language wording checked; interpretation labeled separately**
+
+These are representative passages, not an exhaustive count. Hebrew and Greek grammatical gender alone does not prove that a deity is female or male, nor that a text makes a claim about actual women or men. The literary question is whether an author makes an abstraction, city, or political role into a gendered character and what that portrayal accomplishes.
+
+The examples do not all use the same technique: Wisdom and Babylon are personifications; Matthew's wise and foolish men are similes; Ezekiel portrays actual male leaders through occupational or animal imagery. They should not be counted as equivalent cases or used to infer Bible-wide frequencies.
+
+| Gendered image | Passage | Original wording | Represents | What the comparison does |
+|---|---|---|---|---|
+| Female | [Proverbs 8:1](https://biblehub.com/text/proverbs/8-1.htm) | Hebrew: חָכְמָה (*ḥokmāh — wisdom*) | Wisdom | Positive: a female-voiced figure publicly teaches wisdom; grammar does not explain the entire scene. |
+| Female | [Proverbs 9:13](https://biblehub.com/text/proverbs/9-13.htm) | Hebrew: אֵשֶׁת כְּסִילוּת (*eshet kesilut — woman of folly*) | Folly | Negative: explicitly depicts foolishness as a woman whose invitation leads toward death. |
+| Female | [Hosea 2:2](https://biblehub.com/text/hosea/2-2.htm) | Hebrew: אִשְׁתִּי · זְנוּנֶיהָ (*ishti — my wife; zenuneha — her infidelities*) | Israel | Negative: covenant disloyalty is expressed through an accused wife's sexuality. Hebrew verse numbering can be 2:4. |
+| Female | [Ezekiel 23:4](https://biblehub.com/text/ezekiel/23-4.htm) | Hebrew: אָהֳלָה · אָהֳלִיבָה (*Oholah; Oholibah*) | Samaria and Jerusalem | Negative: the text explicitly identifies two sisters as cities; the chapter uses graphic sexualized punishment. |
+| Female comparison | [Nahum 3:13](https://biblehub.com/text/nahum/3-13.htm) | Hebrew: נָשִׁים (*nashim — women*) | Nineveh's troops | Negative: women are a comparison for military vulnerability; NIV renders this as “weaklings.” |
+| Female | [Revelation 17:5](https://www.greekbible.com/revelation/17/5) | Greek: μήτηρ τῶν πορνῶν (*mētēr tōn pornōn — mother of prostitutes*) | Babylon | Negative: imperial corruption is portrayed through sexualized female imagery. |
+| Female | [Revelation 21:2](https://www.greekbible.com/revelation/21/2) | Greek: νύμφην (*nymphēn — bride*) | New Jerusalem | Positive: the restored city is compared to a bride prepared for her husband. |
+| Male figure | [Matthew 7:24](https://biblehub.com/text/matthew/7-24.htm) | Greek: ἀνδρὶ φρονίμῳ (*andri phronimō — wise man*) | A person who follows Jesus' teaching | Positive: a male character models prudence; a simile, not the abstract personification of Wisdom. |
+| Male figure | [Matthew 7:26](https://biblehub.com/text/matthew/7-26.htm) | Greek: ἀνδρὶ μωρῷ (*andri mōrō — foolish man*) | A person who ignores Jesus' teaching | Negative: a male character models folly; paired with Matthew 7:24. |
+| Male-coded role | [Ezekiel 34:2](https://biblehub.com/text/ezekiel/34-2.htm) | Hebrew: רֹעֵי יִשְׂרָאֵל (*ro'ei Yisrael — shepherds of Israel*) | Israel's leaders | Negative: leaders are condemned as shepherds who exploit rather than protect their flock. |
+| Male ruler | [Ezekiel 29:3](https://biblehub.com/text/ezekiel/29-3.htm) | Hebrew: הַתַּנִּים הַגָּדוֹל (*ha-tannim ha-gadol — great monster*) | Pharaoh | Negative: a male ruler is compared to a Nile monster; animal imagery rather than sexual infidelity. |
+
+**Translation evidence:** Nahum 3:13 contains *nashim* (“women”) in Hebrew. [NRSVUE preserves “women” while NIV renders “weaklings”](https://www.biblegateway.com/passage/?search=Nahum+3%3A13&version=NRSVUE%3BNIV); the underlying gender stereotype is not a translator's invention.
+
+**Greek Jewish translation:** [Septuagint Proverbs 8:1](https://www.die-bibel.de/en/bible/LXX%2CKJV/PRO.8) uses the grammatically feminine noun *σοφία* (*sophia*), but its wording differs from the Hebrew verse. These are extant textual traditions, not original authorial manuscripts.
+
+**⟨INFERENCE⟩** In these selected texts, both positive and negative figures occur on both sides. Hosea and Ezekiel use accusations about women's sexuality to portray covenant betrayal, while the male-ruler cases shown here emphasize defective leadership, judgment, or power. That is an observed contrast in these examples, not proof of one intention shared by every biblical author.
+
+**Scholarship:** [Sharon Moughtin-Mumby, Ezekiel 16 and 23 (2008)](https://academic.oup.com/book/27828/chapter-abstract/198126290); [Christine Roy Yoder, Personified Wisdom and Feminist Theologies (2021)](https://academic.oup.com/edited-volume/34233/chapter-abstract/290261237); [Rosanne Liebermann, Women’s Bodies (2024)](https://academic.oup.com/book/57428/chapter-abstract/466071450). These works contextualize gendered metaphors; they do not establish an overall frequency, a single motive, or an Eden-goddess rewriting.
+
 ## Historical layer I — Ancient Near East to early Christianity
 
 This pass adds cases where the evidence is specific enough to publish without pretending ancient categories map neatly onto modern identity labels.
