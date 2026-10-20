@@ -325,3 +325,40 @@
   outline:2px solid var(--accent);
   outline-offset:-3px;
 }
+
+
+/* Prefatory source/method notes are accessible from a compact disclosure.
+   Keep its content scrollable when opened on a laptop. */
+.reader-paginated .reader-about > #sec-intro {
+  margin:.45rem 0 .7rem;
+  padding:.55rem .75rem;
+  max-height:min(42dvh,360px);
+  overflow-y:auto;
+  border-left:2px solid var(--rule);
+  background:var(--paper);
+  border-radius:6px;
+}
+.reader-paginated .reader-about > #sec-intro :is(h1,h2,h3) {
+  font-size:1.12rem;
+  line-height:1.35;
+  margin:1rem 0 .45rem;
+  padding:0;
+  border-top:0;
+}
+.reader-paginated .reader-about > #sec-intro p {
+  font-size:.9rem;
+  line-height:1.55;
+  margin:0 0 .65rem;
+}
+.reader-paginated .reader-about > #sec-intro blockquote {
+  margin:.45rem 0;
+}
+@media(min-width:900px) and (min-height:640px) {
+  .reader-paginated .reader-about {
+    margin:.15rem 0;
+  }
+  .reader-paginated .reader-about > summary {
+    padding:.2rem 0;
+    font-size:.76rem;
+  }
+}
