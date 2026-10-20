@@ -199,17 +199,23 @@
     "religion_connection": "Restricts specified public support for sectarian purposes and religiously controlled institutions.",
     "evidence_type": [
       "textual",
-      "judicial"
+      "judicial",
+      "legislative_history"
     ],
-    "competing_causes": [],
+    "competing_causes": [
+      "Protection of a strong public-school system (committee majority, 1972)",
+      "Separation of church and state as principle (1972 delegates of several faiths)",
+      "Ratification risk: fear that changing the clause would endanger the whole 1972 Constitution",
+      "Federal-funds access for nonpublic-school children (answered by subsection (2))"
+    ],
     "scope_note": "The constitutional text remains, but Espinoza limits application that excludes otherwise eligible religious schools from the scholarship program at issue solely because of religious status.",
     "status": "in_force_limited",
     "primary_authority": "Montana Constitution art. X, § 6, official Legislature publication",
-    "explanatory_authority": "Espinoza v. Montana Department of Revenue, 591 U.S. 464 (2020)",
-    "last_verified": "2026-09-26",
+    "explanatory_authority": "Espinoza v. Montana Department of Revenue, 591 U.S. 464 (2020); Montana Constitutional Convention Verbatim Transcript Vol. VI pp. 2007–2032 (Mar. 11, 1972) — https://courts.mt.gov/external/library/mt_cons_convention/vol6.pdf",
+    "last_verified": "2026-10-20",
     "review_priority": "medium",
     "confidence": "high",
-    "notes": "Historical origins require separate research before assigning causal labels."
+    "notes": "Current-function classification D is unchanged. Historical layers: the 1889 predecessor has a documented Blaine-era anti-Catholic context (B for the inherited wording); the 1972 readoption is mixed, led by public-school, separationist, continuity, and ratification-risk reasons, with a negotiated federal-funds exception (Loendorf substitute, 53–40). See research/religion-law/gap-closure/montana-1972-no-aid-convention.md (2026-10-20)."
   },
   {
     "id": "US-UT-CONST-ARTI-S4",

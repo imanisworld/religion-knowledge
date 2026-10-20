@@ -76,4 +76,4 @@ For the creation-science statute, the evidence supports a direct causal classifi
 - Current post-*Edwards* science-curriculum regulations beyond the invalidated Act.
 - Sunday/blue-law history.
 - Religious-property tax exemptions.
-- Family-law and healthcare conscience provisions.
+- Family-law provisions; healthcare-conscience key cases (first-pass statute row in `../gap-closure/cross-state-inventories.md`).
