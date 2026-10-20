@@ -50,6 +50,11 @@ jobs:
       - name: Validate Religion & Law overview records
         run: npm run validate:religion-law-overview
 
+      - name: Audit public visibility of all structured Timeline entity fields
+        run: |
+          node scripts/audit-public-field-visibility.mjs
+          node --test tests/public-field-visibility.test.mjs
+
       - name: Regenerate reader HTML
         run: npm run build:readers -- --output .
 
