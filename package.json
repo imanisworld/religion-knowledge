@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "node --test",
+    "test": "npm run build:reader-site && node --test",
     "sync:reader-audits": "node scripts/sync-missing-reader-audits.mjs",
     "validate:reader-sync": "node scripts/validate-reader-sync.mjs",
     "generate-records": "node scripts/import/generate-records.mjs --output-dir data/normalized/generated",

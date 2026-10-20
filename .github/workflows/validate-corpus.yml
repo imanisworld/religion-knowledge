@@ -68,8 +68,10 @@ jobs:
       - name: Verify committed search index matches readers
         run: git diff --exit-code -- search-index.json
 
-      - name: Check public Cited Persons evidence warnings
-        run: node --test tests/public-cited-persons-source-gate.test.mjs
+      - name: Check public Cited Persons evidence warnings and corrected citations
+        run: |
+          node --test tests/public-cited-persons-source-gate.test.mjs
+          node --test tests/public-cited-persons-bibliography-corrections.test.mjs
 
       - name: Regenerate normalized record chunks
         run: npm run generate-records
@@ -115,6 +117,9 @@ jobs:
 
       - name: Check homepage and navigation reading order
         run: node --test tests/library-order.test.mjs
+
+      - name: Run complete repository test suite after generating site
+        run: node --test
 
       - name: Build standalone bundle
         run: npm run build:standalone

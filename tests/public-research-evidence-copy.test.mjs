@@ -22,7 +22,7 @@ test('prophecy case studies remain browseable with original historical cautions'
   assert.equal(search.filter(x => x.doc === 'Biblical Prophecy Audit').length, 70);
   assert.match(prophecy, /Some original-language witnesses and scholarly works have not been checked in full/);
   assert.match(prophecy, /historical miracle unverified/i);
-  assert.ok(prophecy.includes('21 additional potential topics'));
+  assert.match(prophecy, /Twenty-one additional potential topics have been identified for further investigation/i);
 });
 
 test('illness comparisons keep sources and readable limits while removing worklist language', () => {

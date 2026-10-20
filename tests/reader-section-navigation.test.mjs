@@ -8,19 +8,20 @@ const stylesheet = readFileSync('reader-chapters.css', 'utf8');
 const generator = readFileSync('scripts/build-readers.mjs', 'utf8');
 const manifest = readFileSync('scripts/build-reader-site.mjs', 'utf8');
 
-test('focused reading is explicitly enabled for Study Notes and Observations only', () => {
-  for (const file of ['master-notes.html', 'field-guide.html']) {
-    const markup = readFileSync(file, 'utf8');
-    assert.match(markup, /<link rel="stylesheet" href="reader-chapters.css">/);
-    assert.match(markup, /<script src="reader-chapters.js"><\/script>/);
-    assert.match(markup, /id="sec-intro"/);
-    assert.ok((markup.match(/<section id="sec-/g) || []).length >= 10);
+test('focused reading is enabled for all eight generated research readers', () => {
+  const files = ['master-notes', 'field-guide', 'history', 'sources',
+    'other-side', 'translations', 'method-reference', 'glossary'];
+  for (const name of files) {
+    const markup = readFileSync(name + '.html', 'utf8');
+    assert.match(markup, /<link rel="stylesheet" href="reader-chapters.css">/, name);
+    assert.match(markup, /<script src="reader-chapters.js"><\/script>/, name);
+    assert.match(markup, /id="sec-intro"/, name);
+    assert.match(markup, /<select id="document-switcher"/, name);
+    assert.doesNotMatch(markup, /<div class="docswitch">/, name);
+    assert.ok((markup.match(/<section id="sec-/g) || []).length >= 3, name);
   }
-  for (const file of ['history.html', 'sources.html', 'translations.html']) {
-    assert.doesNotMatch(readFileSync(file, 'utf8'), /reader-chapters\.(?:js|css)/);
-  }
-  assert.match(generator, /doc\.html === 'master-notes\.html'/);
-  assert.match(generator, /doc\.html === 'field-guide\.html'/);
+  assert.match(generator, /function buildDocswitch/);
+  assert.match(generator, /documentPicker\.addEventListener\('change'/);
   assert.match(manifest, /'reader-chapters\.js'/);
   assert.match(manifest, /'reader-chapters\.css'/);
 });
@@ -30,7 +31,7 @@ test('reader navigation remains accessible, searchable and deep-linkable', () =>
   assert.match(scripts, /reader-section-select/);
   assert.match(scripts, /section\.tabIndex = 0/);
   assert.match(scripts, /section\.setAttribute\('role', 'region'\)/);
-  assert.match(scripts, /section\.textContent\.length < 8500/);
+  assert.match(scripts, /section\.textContent\.length < 7500/);
   assert.match(scripts, /next\.id = 'read-' \+ node\.id/);
   assert.match(scripts, /const intro = main\.querySelector\(':scope > #sec-intro'\)/);
   assert.match(scripts, /about\.append\(intro\)/);
