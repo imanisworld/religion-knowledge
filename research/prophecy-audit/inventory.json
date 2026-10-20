@@ -1,8 +1,8 @@
 {
-  "version": 2,
+  "version": 3,
   "updated": "2026-10-20",
   "method": "Working scope: direct or explicit fulfillment claims in the New Testament; concrete time/place predictions and conditional threats in the Hebrew Bible and New Testament; messianic proof texts and apocalyptic prediction claims. List source and later use separately. Other echo-only candidates are included only when a specific later claim is identified. Entries in pending groups are candidate discovery leads, not vetted/complete research. The number shown is the number of tracked claims in this working inventory, not an objective total of all biblical prophecies.",
-  "scope_notes": "Ten Matthew formula claims are researched; among 50 additional seed candidates, 5 have dedicated completed research records and 45 await claim-specific research or review. This list is still a seed inventory, not an exhaustive biblical prophecy count.",
+  "scope_notes": "50 working candidate claims: eight have dedicated new records, two additional Matthew cases are covered by existing source-specific records, and forty have pending or partial claim assessments. This is a seed inventory with further discovery required; no exhaustive count claimed.",
   "matthew_formula_ten": [
     {
       "group": "matthew_formula_ten",
@@ -81,40 +81,45 @@
       "claim_locus": "Matthew 2:5–6",
       "earlier_source": "Micah 5:2",
       "question": "Magi citation by scribes; distinct from fulfillment formula",
-      "status": "partial_related_case_exists",
-      "related_case_id": "micah-5-2"
+      "status": "related_case_covers_claim",
+      "related_case_id": "micah-5-2",
+      "case_id": "micah-5-2"
     },
     {
       "group": "other_matthew",
       "claim_locus": "Matthew 3:3",
       "earlier_source": "Isaiah 40:3",
       "question": "John as wilderness voice",
-      "status": "partial_related_case_exists",
-      "related_case_id": "isaiah-40-3"
+      "status": "related_case_covers_claim",
+      "related_case_id": "isaiah-40-3",
+      "case_id": "isaiah-40-3"
     },
     {
       "group": "other_matthew",
       "claim_locus": "Matthew 13:14–15",
       "earlier_source": "Isaiah 6:9–10",
       "question": "Hearing without understanding",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "isaiah-6-matthew-13"
     },
     {
       "group": "other_matthew",
       "claim_locus": "Matthew 26:31",
       "earlier_source": "Zechariah 13:7",
       "question": "Shepherd struck and sheep scattered",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "zechariah-13-matthew-26"
     },
     {
       "group": "other_matthew",
       "claim_locus": "Matthew 26:54, 56",
       "earlier_source": "Unspecified scriptures",
       "question": "Generic claim scriptures must be fulfilled; needs source matching",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "matthew-26-scriptures-unspecified"
     },
     {
       "group": "other_nt",
