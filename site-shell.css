@@ -390,3 +390,52 @@
 .rk-personal-page main>section:has(#timeline){
   box-shadow:none;
 }
+
+
+/* Mobile reader fix: the reader's late desktop --rail declaration otherwise
+   overrides its earlier 1080px breakpoint, pushing content off the phone. */
+@media(max-width:1080px){
+  :root{--rail:0px}
+  .rk-reader-page{--rail:0px}
+  .rk-reader-page main{
+    margin-left:0;
+    width:100%;
+    max-width:100%;
+    min-width:0;
+  }
+}
+
+/* Phone navigation uses its own row so links remain readable and reachable. */
+@media(max-width:720px){
+  :root{--rk-nav-h:96px}
+  .rk-sitebar-inner{
+    display:grid;
+    grid-template-columns:minmax(0,1fr) auto;
+    grid-template-rows:auto auto;
+    align-items:center;
+    row-gap:.3rem;
+    min-height:var(--rk-nav-h);
+    padding:.55rem .75rem .45rem;
+  }
+  .rk-brand{grid-column:1;grid-row:1;min-width:0}
+  .rk-site-control{grid-column:2;grid-row:1;justify-self:end}
+  .rk-global-nav{
+    grid-column:1 / -1;
+    grid-row:2;
+    width:100%;
+    min-width:0;
+    margin-left:0;
+    justify-content:space-between;
+    overflow-x:auto;
+    white-space:nowrap;
+  }
+  .rk-global-nav a{white-space:nowrap;font-size:.75rem}
+}
+
+/* Explicit light-mode contrast for landing headings and reading links. */
+:root:not([data-theme="dark"]) .rk-landing-page :is(h1,.section-head h2,.card h2,.app-card h2){
+  color:#241B1E;
+}
+:root:not([data-theme="dark"]) .rk-landing-page :is(.section-head>p,.card p){
+  color:#62565A;
+}
