@@ -329,8 +329,16 @@ if [[ ! "$READER_ANCHOR_HREF" =~ master-notes\.html#s[0-9-]+$ ]]; then
   exit 1
 fi
 
-if ! grep -Fq '<a href="app/">App</a>' master-notes.html; then
-  echo "Reader site navigation is missing the App link back to the knowledge app" >&2
+if ! grep -Fq '<a href="history.html">History</a>' master-notes.html; then
+  echo "Reader site navigation is missing the public History link" >&2
+  exit 1
+fi
+if grep -Fq '<a href="app/">App</a>' master-notes.html; then
+  echo "Research workspace should not be promoted in public reader navigation" >&2
+  exit 1
+fi
+if ! test -f app/index.html; then
+  echo "Research workspace must remain available at its direct URL" >&2
   exit 1
 fi
 
