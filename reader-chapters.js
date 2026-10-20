@@ -6,7 +6,28 @@
 (() => {
   'use strict';
   const main = document.querySelector('main');
-  const sections = main ? Array.from(main.querySelectorAll(':scope > section')) : [];
+  if (!main) return;
+  // An unusually long Study Notes section can still feel endless. Split it
+  // at existing numbered subsection headings; preserve all original anchors,
+  // audits, prose and related links without copying or truncating content.
+  if (document.title.includes('Study Notes')) {
+    for (const section of Array.from(main.querySelectorAll(':scope > section'))) {
+      const subsections = Array.from(section.children).filter(el =>
+        el.matches('h3[data-num][id]'));
+      if (section.textContent.length < 8500 || subsections.length < 2) continue;
+      let current = section;
+      for (const node of Array.from(section.childNodes)) {
+        if (node.nodeType === 1 && node.matches('h3[data-num][id]')) {
+          const next = document.createElement('section');
+          next.id = 'read-' + node.id;
+          current.after(next);
+          current = next;
+        }
+        if (current !== section) current.append(node);
+      }
+    }
+  }
+  const sections = Array.from(main.querySelectorAll(':scope > section'));
   if (sections.length < 2) return;
 
   // The legacy Observations renderer sometimes puts the next chapter heading
@@ -31,7 +52,8 @@
   function heading(section) {
     return section.querySelector(':scope > h2[id]') ||
       section.querySelector(':scope > h1[id]') ||
-      section.querySelector('h2[id],h1[id]') || section;
+      section.querySelector(':scope > h3[id]') ||
+      section.querySelector('h2[id],h1[id],h3[id]') || section;
   }
 
   function title(section, index) {
@@ -143,8 +165,9 @@
         const anchor = link.getAttribute('href').slice(1);
         const target = anchor && document.getElementById(decodeURIComponent(anchor));
         link.classList.toggle('here', !!target && sectionFromTarget(target) === index);
+        const linkedSection = sectionFromTarget(target);
         link.classList.toggle('dim', !!(query || auditStatus) &&
-          (!target || !matching(sectionFromTarget(target))));
+          (linkedSection < 0 || !matching(linkedSection)));
       });
     }
     noResults.style.display = hits.length ? 'none' : 'block';
