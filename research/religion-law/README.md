@@ -28,7 +28,7 @@ A law's text, its historical cause, and its current enforceability are separate 
 - `records/institutional-practice.json` — sourced records separating formal law from official practice, representation patterns, and accommodation frameworks
 - `overview-records.schema.json` — schema for the policy, global, and institutional-practice overview datasets
 - `context/state-context.schema.json` — schema for state religious-demographic and institutional-power context
-- `context/us-state-context.json` — 50 state context slots (30 coded so far); demographic/power coverage is tracked independently from legal coverage
+- `context/us-state-context.json` — 50 state context slots (all 50 coded at first-pass level); demographic/power coverage is tracked independently from legal coverage
 - `state-context-methodology.md` — sourcing, non-inference, denominator, and refresh rules for state context
 - `us-constitutional-federal.md` — verified initial U.S. module
 - `us-state-law.md` — state-law research queue and controls
@@ -37,7 +37,7 @@ A law's text, its historical cause, and its current enforceability are separate 
 
 ## Status
 
-**Coverage snapshot, 20 October 2026:** All 50 states have a first-pass profile and eight priority states have expanded profiles. The normalized state-law dataset has 60 records across 16 states (34 states have no normalized state-law record yet); all eight expanded priority states are now represented. The separate state context dataset has 50 state slots, but demographic and officeholder details have been populated for only 30; 20 remain `not_coded`. Comparative non-U.S. work remains a research framework rather than a full set of country profiles.
+**Coverage snapshot, 20 October 2026:** All 50 states have a first-pass profile and eight priority states have expanded profiles. The normalized state-law dataset has 60 records across 16 states (34 states have no normalized state-law record yet); all eight expanded priority states are now represented. The separate state context dataset has 50 state slots, and demographic and officeholder details are complete at first-pass level: all 50 have verified first-pass coding and 0 remain `not_coded` (officeholders as of 20 October 2026). Comparative non-U.S. work remains a research framework rather than a full set of country profiles.
 
 This module is published on `main`. Individual state and comparative records remain research-scoped according to their recorded verification status; publication does not mean the database is complete.
 
