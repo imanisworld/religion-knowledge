@@ -72,7 +72,7 @@ test('navigation only shows the active profile and preserves direct links', () =
   assert.match(script,/history\.pushState/);
   assert.match(script,/addEventListener\('hashchange',restore\)/);
   assert.match(script,/addEventListener\('popstate'/);
-  assert.match(script,/documentElement\.dataset\.theme/);
+  assert.match(script,/el\.dataset\.theme/);
   assert.match(styles,/@media\(min-width:850px\) and \(min-height:640px\)/);
   assert.match(styles,/height:calc\(100dvh - var\(--rk-nav-h,56px\)\)/);
   assert.match(styles,/\.tradition-profile\[hidden\]\{display:none!important\}/);
