@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "created": "2026-10-20",
+  "status": "historical_predictions_source_researched_pending_full_review",
+  "canonical_records_count": 35,
+  "staged_cases": [
+    {
+      "id": "cyrus-isaiah-44-45",
+      "label": "Cyrus named as shepherd and anointed ruler",
+      "earlier": "Isaiah 44:24–45:7",
+      "later": "Cyrus II's victories and Persian rule over Babylon in 539 BCE",
+      "kind": "Named royal oracle requiring a composition-date test",
+      "original": "כֹּה־אָמַר יְהוָה לִמְשִׁיחוֹ לְכוֹרֶשׁ ('Thus says YHWH to his anointed, to Cyrus'; Isaiah 45:1)",
+      "setting": "Isaiah 40–55 addresses a Babylonian-exile horizon and the arrival of Persian imperial power. Many historical-critical scholars locate these oracles around Cyrus's lifetime, with several models for authorship and subsequent redaction; older tradition credits Isaiah son of Amoz, active centuries earlier.",
+      "laterUse": "Isaiah calls Cyrus the agent of Jerusalem's restoration, and his conquest of Babylon in 539 BCE is independently documented. Later Jewish and Christian traditions disagree about whether the naming was recorded by an eighth-century prophet or a sixth-century exilic speaker.",
+      "relationship": "The claim's apparent advance-knowledge depends critically on when this particular section was composed, not simply the date of the book bearing Isaiah's name. Scholar Christopher Hays (2011) reports the strongest contemporary dating near Cyrus's reign, whereas Rainer Albertz (2003) proposes multiple editions extending into Darius's reign.",
+      "evidence": "Cyrus's rule and 539 BCE conquest are historical. These facts do not independently date the original oracle or demonstrate a century-and-a-half foresight; independent early-eighth-century documentation of the Cyrus-naming wording is unavailable.",
+      "sourceStatus": "Cyrus historically secure; sixth-century composition widely argued; long-range prediction disputed",
+      "refs": [
+        [
+          "Isaiah 44:28–45:1",
+          "https://www.biblegateway.com/passage/?search=Isaiah+44%3A28-45%3A1&version=NRSVUE"
+        ],
+        [
+          "Hebrew Isaiah 45:1",
+          "https://biblehub.com/text/isaiah/45-1.htm"
+        ],
+        [
+          "Encyclopaedia Iranica on Cyrus in Isaiah",
+          "https://www.iranicaonline.org/articles/isaiah-book-of/"
+        ],
+        [
+          "Christopher B. Hays (2011), Religion Compass",
+          "https://doi.org/10.1111/j.1749-8171.2011.00308.x"
+        ],
+        [
+          "Rainer Albertz (2003), Deutero-Isaiah and Darius",
+          "https://doi.org/10.1177/030908920302700306"
+        ],
+        [
+          "Livius on Cyrus's historical conquest",
+          "https://www.livius.org/sources/content/bible/isaiah-on-cyrus/"
+        ]
+      ]
+    },
+    {
+      "id": "jeremiah-25-seventy-years",
+      "label": "Seventy years serving Babylon",
+      "earlier": "Jeremiah 25:8–14",
+      "later": "Babylonian ascendancy, Jerusalem's fall, and Persia's defeat of Babylon",
+      "kind": "Time-delimited judgment oracle with contested starting point",
+      "original": "וְעָבְדוּ הַגּוֹיִם הָאֵלֶּה אֶת־מֶלֶךְ־בָּבֶל שִׁבְעִים שָׁנָה (these nations will serve the king of Babylon seventy years)",
+      "setting": "Jeremiah 25 speaks to Judah and neighboring nations amid Babylon's rise. The passage predicts seventy years of Babylonian domination, followed by punishment of Babylon itself; the interval is not worded solely as the duration every deportee would reside away from Judah.",
+      "laterUse": "Jeremiah 29:10 applies the seventy-year figure to Babylon in a letter to exiles; Zechariah, Chronicles and Daniel subsequently reuse or reinterpret the duration. Babylon fell to Cyrus's forces in 539 BCE, while Judah's deportations and temple rebuilding have different starting and ending dates.",
+      "relationship": "Readings include approximate or symbolic seventy years, political subjection to Babylon, and temple-destruction-to-rebuilding (c. 586–516 BCE) as a retrospective span. These cannot simply be substituted for one another without noting which event defines the endpoints.",
+      "evidence": "Assyrian/Babylonian/Persian chronology can independently constrain the proposed spans: 605 to 539 is roughly sixty-six years, 597 to 539 roughly fifty-eight, and 586 to 516 seventy. Even a numerically matching later period does not establish which period Jeremiah intended when writing.",
+      "sourceStatus": "Prediction and fall of Babylon documented; intended chronology and exactness debated",
+      "refs": [
+        [
+          "Jeremiah 25:8–14 NRSVUE",
+          "https://www.biblegateway.com/passage/?search=Jeremiah+25%3A8-14&version=NRSVUE"
+        ],
+        [
+          "Hebrew Jeremiah 25:11",
+          "https://biblehub.com/text/jeremiah/25-11.htm"
+        ],
+        [
+          "Jinkyu Kim (2018), The Meaning of Jeremiah's 70-Year Exile",
+          "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002397285"
+        ],
+        [
+          "Ross E. Winkle (1987), Jeremiah's Seventy Years: A Re-Assessment",
+          "https://paperity.org/p/81834058/jeremiahs-seventy-years-for-babylon-a-re-assessment-part-i-the-scriptural-data"
+        ],
+        [
+          "Livius: Cyrus conquers Babylon in 539 BCE",
+          "https://www.livius.org/sources/content/bible/isaiah-on-cyrus/"
+        ]
+      ]
+    },
+    {
+      "id": "jeremiah-29-seventy-for-babylon",
+      "label": "Seventy years for Babylon, then restoration",
+      "earlier": "Jeremiah 29:4–14 (especially 29:10)",
+      "later": "Exile restoration traditions; Ezra, Zechariah, Daniel and Chronicles",
+      "kind": "Same duration in a different immediate audience and grammatical setting",
+      "original": "כִּי־לְפִי מְלֹאת לְבָבֶל שִׁבְעִים שָׁנָה ('when seventy years are completed for Babylon', 29:10)",
+      "setting": "Jeremiah 29 is a letter presented to Judeans already deported to Babylon. It instructs them to settle, build families and seek the welfare of the city, then promises divine attention and their eventual restoration when Babylon's seventy years are finished.",
+      "laterUse": "Some traditions and English versions construe the phrase as 'in Babylon', implying seventy years for exiles; others read the Hebrew le-Bavel as 'for Babylon'—a period of Babylonian supremacy. Later books reinterpret the number against return and temple-renewal chronology.",
+      "relationship": "The textual distinction between seventy years 'for Babylon' and a fixed seventy-year residence for every exile matters. The 597 BCE deportees, 586 BCE destruction, 539 BCE fall of Babylon, and 516 BCE temple completion are different independent historical markers.",
+      "evidence": "The Hebrew lamed construction and immediate audience are verifiable. Jinkyu Kim (2018) traces how Zechariah's temple-focused interpretation differs from the letter's earlier setting; the later interpretive event horizon cannot be read back as independent dating proof.",
+      "sourceStatus": "Babylon-directed time phrase documented; beginning/end points and literalness disputed",
+      "refs": [
+        [
+          "Hebrew Jeremiah 29:10",
+          "https://biblehub.com/text/jeremiah/29-10.htm"
+        ],
+        [
+          "Jeremiah 29:4–14 NRSVUE",
+          "https://www.biblegateway.com/passage/?search=Jeremiah+29%3A4-14&version=NRSVUE"
+        ],
+        [
+          "Jinkyu Kim (2018), 70-year exile and later re-readings",
+          "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002397285"
+        ],
+        [
+          "Bible.org critical chronological discussion",
+          "https://bible.org/seriespage/jeremiah-29"
+        ],
+        [
+          "Zechariah 1:12 and 7:5",
+          "https://www.biblegateway.com/passage/?search=Zechariah+1%3A12%3BZechariah+7%3A5&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "ezekiel-26-tyre",
+      "label": "Tyre destroyed, scraped bare, and never rebuilt",
+      "earlier": "Ezekiel 26:1–21; compare Ezekiel 29:17–20",
+      "later": "Babylonian siege and Alexander's capture of Tyre in 332 BCE; modern Tyre",
+      "kind": "Concrete destruction oracle with later, distinct sieges",
+      "original": "וְלֹא־תִבָּנֶה עוֹד ('you shall not be rebuilt again', Ezekiel 26:14)",
+      "setting": "Ezekiel delivers judgment against the prosperous Phoenician port of Tyre after Jerusalem's disaster. In 26:7–11 Nebuchadnezzar is named as invader; other clauses refer to 'many nations' and describe the city as bare rock, fishing-net ground and never rebuilt.",
+      "laterUse": "A lengthy Babylonian siege is reported by Menander as quoted by Josephus, but modern historical reconstructions do not show Nebuchadnezzar capturing the island city. Alexander of Macedon did capture Tyre in 332 BCE, using a causeway to the island; the city was repopulated and remains inhabited as Ṣūr.",
+      "relationship": "Some interpreters allocate singular 'he' (Nebuchadnezzar) and plural 'they' to successive conquerors, or read 'never rebuilt' as an end to political dominance. Others see a prediction whose plain absolute details outrun surviving historical evidence. Genre, referent (island/mainland) and editorial layers are contested.",
+      "evidence": "Independent historical/archaeological information strongly establishes the later siege and continuing urban settlement. UNESCO describes Tyre as an ancient site under the modern town, with Roman and later remains. Literal permanent absence of the city is contradicted by ongoing habitation; arguments concerning destroyed political institutions or ancient foundations require a narrower, stated claim.",
+      "sourceStatus": "Sieges historically attested; literal 'never rebuilt' contradicted by continued settlement; scope contested",
+      "refs": [
+        [
+          "Ezekiel 26 NRSVUE",
+          "https://www.biblegateway.com/passage/?search=Ezekiel+26&version=NRSVUE"
+        ],
+        [
+          "Hebrew Ezekiel 26:14",
+          "https://biblehub.com/text/ezekiel/26-14.htm"
+        ],
+        [
+          "Menander of Ephesus preserved through Josephus, Livius",
+          "https://www.livius.org/sources/content/menander-of-ephesus/"
+        ],
+        [
+          "Livius on Babylonian and Macedonian Tyre",
+          "https://www.livius.org/articles/place/tyre/tyre-2/"
+        ],
+        [
+          "UNESCO World Heritage: Tyre and the modern town",
+          "https://whc.unesco.org/en/list/299/"
+        ],
+        [
+          "Livius on Alexander's siege of 332 BCE",
+          "https://www.livius.org/articles/battle/tyre-332-bce/"
+        ]
+      ]
+    }
+  ],
+  "inventory_loci": [
+    "Isaiah 44:28–45:1",
+    "Jeremiah 25:11–12",
+    "Jeremiah 29:10",
+    "Ezekiel 26:3–14"
+  ],
+  "discovery_warning": "These four cases are part of the original seed list, not an exhaustive inventory of all historical oracles.",
+  "release_controls": [
+    "Separate composition date from narrated event date",
+    "Do not equate later same numbers or city names with independently verified prediction",
+    "Reject invented archaeology or unsourced modern Tyre disappearance narratives",
+    "Require full review, reader/HTML/search synchronization and external final audit before merge"
+  ]
+}

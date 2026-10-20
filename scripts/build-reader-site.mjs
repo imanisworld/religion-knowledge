@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { buildSearchIndex } from './build-search-index.mjs';
 import { buildPublicCatalog } from './build-public-catalog.mjs';
+import { buildTraditionsPage } from './build-traditions-profiles.mjs';
 
 const RESEARCH_READERS = [
   ['master-notes.html', 'Study Notes', 'The full study — audits, corrections, and the reading in progress.'],
@@ -11,6 +12,8 @@ const RESEARCH_READERS = [
   ['other-side.html', 'The Strongest Case', 'The strongest traditional and apologetic cases, stated fairly.'],
   ['translations.html', 'Translations', 'Translation history and the choices behind disputed renderings.'],
   ['translation-evidence.html', 'Translation Evidence', 'What changed in Bible translations, how it changed, why, and what the evidence establishes.'],
+  ['prophecy-audit.html', 'Biblical Prophecy Audit', 'Trace earlier passages, later fulfillment claims, and external historical evidence.'],
+  ['illness-explanations.html', 'Illness Explanations', 'Ancient illness, spirits, divine punishment, medicine, contagion, and evidence limits.'],
   ['method-reference.html', 'Method & Reference', 'Survey method, open audit queue, reading timeline.'],
   ['glossary.html', 'Glossary', 'Terms and definitions used across the study.'],
   ['cited-persons.html', 'Cited Persons', 'Who the cited scholars, theologians, historians, and other sources are — including relevant context and flags.'],
@@ -23,11 +26,12 @@ const PERSONAL_PAGES = [
 ];
 const DISCOVERY_PAGES = [
   ['catalog.html', 'Gods, Religions & People', 'Find gods, religions, cultures, stories, and the people cited in this research.'],
+  ['traditions.html', 'Religions & Traditions', 'Explore 27 historical profiles with documented periods, types of evidence, and research limitations.'],
   ['comparisons.html', 'Comparison Tables', 'See timelines and tables comparing history, law, gender, and biblical texts.'],
   ['search.html', 'Search the Library', 'Look up a name, word, place, or question across the research.'],
 ];
 // The catalog is generated from Timeline data at build time; it is not a committed reader file.
-const GENERATED_PAGES = new Set(['catalog.html']);
+const GENERATED_PAGES = new Set(['catalog.html','traditions.html']);
 const READERS = [...RESEARCH_READERS, ...PERSONAL_PAGES, ...DISCOVERY_PAGES]
   .filter(([file]) => !GENERATED_PAGES.has(file));
 
@@ -54,12 +58,18 @@ const MISC_FILES = [
   'highlight-referral.js',
   'correction-form.js',
   'site-shell.css',
+  'reader-chapters.js',
+  'reader-chapters.css',
+  'traditions.js',
+  'traditions.css',
 ];
 
 const RESEARCH_DIRS = [
   'research/religion-law',
   'research/gender-over-time',
   'research/translation-evidence',
+  'research/prophecy-audit',
+  'research/illness-explanations',
   'research/synthesis',
 ];
 
@@ -121,7 +131,7 @@ function buildIndexHtml() {
     'history.html', 'religion-law.html', 'gender-over-time.html', 'patterns-synthesis.html',
   ]));
   const bibleCards = cardsFor(pick([
-    'translations.html', 'translation-evidence.html', 'master-notes.html', 'field-guide.html', 'other-side.html',
+    'translations.html', 'translation-evidence.html', 'prophecy-audit.html', 'illness-explanations.html', 'master-notes.html', 'field-guide.html', 'other-side.html',
   ]));
   const referenceCards = cardsFor(pick([
     'sources.html', 'cited-persons.html', 'method-reference.html', 'glossary.html',
@@ -466,6 +476,7 @@ for (const dir of RESEARCH_DIRS) {
 
 fs.writeFileSync(path.join(output, 'index.html'), buildIndexHtml(), 'utf8');
 fs.writeFileSync(path.join(output, 'catalog.html'), buildPublicCatalog(), 'utf8');
+fs.writeFileSync(path.join(output, 'traditions.html'), buildTraditionsPage(), 'utf8');
 
 // Build search index from the reader HTML files already copied to dist
 const searchIndex = buildSearchIndex(output);
@@ -481,5 +492,5 @@ console.log(`READER_SITE_BUILD_SUMMARY=${JSON.stringify({
   research_dirs: RESEARCH_DIRS.length,
   research_files: RESEARCH_DIRS.reduce((total, dir) => total + countFiles(dir), 0),
   search_entries: searchIndex.length,
-  total_files: allFiles.length + RESEARCH_DIRS.reduce((total, dir) => total + countFiles(dir), 0) + 3,
+  total_files: allFiles.length + RESEARCH_DIRS.reduce((total, dir) => total + countFiles(dir), 0) + 4,
 })}`);

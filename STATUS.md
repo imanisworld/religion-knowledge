@@ -8,6 +8,15 @@
 
 ---
 
+## Prophecies and Illness — bounded research releases (20 October 2026)
+
+- **PR #202 merged:** Biblical Prophecy Audit, 65 AI-reviewed research cases and 70 Search sections. The original 50-locus seed is mapped; 21 additional leads and further original-language/scholarly source checking remain open. See `research/prophecy-audit/STATUS.md`.
+- **PR #213 merged:** Illness Explanations, 13 AI-reviewed claims (4 internally verified and 9 qualified), a nine-section public reader, and 9 Search sections. Canonical claim registry now has **139 unique entries** with the previous 126 unchanged. See `research/illness-explanations/STATUS.md`.
+- **Release checks:** Both corpus and research-governance checks passed on merge commit `cf756397`. [Cloudflare deployment workflow](https://github.com/imanisworld/religion-knowledge/actions/runs/39492093720) succeeded for that commit, serving the `religion-knowledge` worker. A separate unauthenticated HTTP check of the live pages could not be completed from the review environment.
+- **Evidence controls:** The owner accepted source limitations and waived outside specialist review for these bounded editions only. Unchecked original-language passages, unread paywalled studies and the primary Mari tablets remain flagged. PR #212 remains a separate draft; its unverified Cited Persons promotions were not merged. The broader consolidation freeze remains in force.
+
+---
+
 ## Canonical Branch and Publication Policy
 
 `main` is the only branch that is considered canonical, deployable, and citable. All other branches are working branches — experimental, in-progress, or awaiting review. No branch other than `main` should be linked to, cited, or treated as reflecting the project's current research state.
@@ -38,7 +47,7 @@ This repository contains both `wrangler.jsonc` and `wrangler.toml`. **`wrangler.
 
 ## Religion & Law Coverage (20 October 2026)
 
-The U.S. research has **50 first-pass state profiles**, including **8 expanded priority states**. Its structured `us-state-starter.json` currently contains **60 state-law records from 16 states**. The separate `us-state-context.json` has **50 state slots**, of which **30 have verified first-pass demographic/officeholder context** and **20 remain uncoded**. This is partial research coverage; the record count must not be presented as completed legal coverage of every state.
+The U.S. research has **50 first-pass state profiles**, including **8 expanded priority states**. Its structured `us-state-starter.json` currently contains **60 state-law records from 16 states (pending PR #218 review)**. The separate `us-state-context.json` has **50 state slots**, of which **30 have verified first-pass demographic/officeholder context** and **20 remain uncoded**. This is partial research coverage; the record count must not be presented as completed legal coverage of every state.
 
 The old research branch `research/state-gap-closure-20260927` is **not merged into `main`** as of this note. It contains five gap-closure research files for Texas, Maine, Montana, cross-state inventories, and a local README. Review/port independently; its conclusions do not alter the canonical 8-state status until accepted.
 
