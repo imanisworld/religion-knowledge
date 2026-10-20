@@ -42,7 +42,7 @@ Audit entries also carry a `CHECKED` date. Anything without one has not been ver
 
 ### Additional research modules
 
-- **Gender Over Time** — `research/gender-over-time/index.md` / `gender-over-time.html` tracks culture- and period-specific sex/gender classifications, intersex history, eunuchs, religious roles, reproduction, family status, and law. It is intentionally **outside the nine-document core corpus** during the consolidation freeze. Structured starter records live at `research/gender-over-time/records.json`. It is visible in the deployed research library but is not yet part of the app dataset or the root cross-document search index.
+- **Gender Over Time** — `research/gender-over-time/index.md` / `gender-over-time.html` tracks culture- and period-specific sex/gender classifications, intersex history, eunuchs, religious roles, reproduction, family status, and law. It is intentionally **outside the nine-document core corpus** during the consolidation freeze. Structured starter records live at `research/gender-over-time/records.json`. It is visible in the deployed research library and the root cross-document Search index, but remains outside the app dataset. **Patterns & Synthesis** is also indexed in Search and available as a separate research reader.
 
 ### Two corpus scopes
 
