@@ -46,7 +46,7 @@ The old research branch `research/state-gap-closure-20260927` is **not merged in
 
 ## Cited Persons Follow-up (20 October 2026)
 
-A separate five-entry Perplexity source-discovery batch addressed Archer, Barton, Briggs, MacDonald, and MacIntyre. Bibliographic information was corroborated for some entries, but the needed primary/source-page checks remain outstanding. **All five retain their `UNRESOLVED` markers**; do not subtract them from the 171-person queue. See `docs/research/cited-persons-five-entry-followup-20261020.md`.
+A separate five-entry Perplexity source-discovery batch addressed Archer, Barton, Briggs, MacDonald, and MacIntyre. Bibliographic information was corroborated for some entries, but the needed primary/source-page checks remain outstanding. **All five retain their `UNRESOLVED` markers** and remain within the current 165-person unresolved queue (200 documented / 365 total after the separate six-person Paul-and-the-law batch in draft PR #212). See `docs/research/cited-persons-five-entry-followup-20261020.md`.
 
 ---
 
