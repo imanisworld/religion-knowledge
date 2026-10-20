@@ -124,6 +124,41 @@
 
 **Reference scholarship:** [Susan Ackerman (2025), women's life-cycle rituals in ancient Israel](https://academic.oup.com/book/60919); [Susan Ackerman (2025), a young woman's wedding](https://academic.oup.com/book/60919/chapter-abstract/530994349); [Avi Shveka & Avraham Faust, premarital sex in biblical law](https://cris.haifa.ac.il/en/publications/premarital-sex-in-biblical-law-a-cross-cultural-perspective/); [Giulia Sissa (2017), parthenos and social meanings of virginity](https://www.cambridge.org/core/journals/annales-histoire-sciences-sociales/article/une-virginite-sans-hymen-le-corps-feminin-en-grece-ancienne/21D547C6CC20CD46A2244CA24842D043); [Liddell–Scott–Jones Greek lexicon, parthenos (including males in Revelation 14:4)](https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionaries.v1:lsj-n79595/); [Liddell–Scott–Jones Greek lexicon, neaniskos](https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionaries.v1:lsj-n69961/); [Metropolitan Museum of Art, women in Classical Athens (a comparison, not ancient Israel)](https://www.metmuseum.org/essays/women-in-classical-greece).
 
+## Six layers of interpretation: Mary's consent in Luke 1
+
+**CHECKED 2026-10-20 · Textual findings and live scholarly disagreement · Interpretations attributed**
+
+This is a worked example of a standard to apply to *every* important passage on the site: **original words → meanings available then → author's message → later religious interpretation → modern reader's understanding → historical evidence**. Do not stop at replacing a Greek word with an English word; do not use an author's assertion as outside confirmation of a narrated event.
+
+### A six-layer example
+
+| Research layer | Luke 1:26–38 | What remains uncertain or must be kept separate |
+|---|---|---|
+| **Original words** | Luke 1:35 uses ἐπελεύσεται (will come upon) and ἐπισκιάσει (will overshadow); Luke 1:38 has δούλη (female servant/slave) and γένοιτό μοι (may it happen to me). | Observe the words, their forms, and the sequence without importing a modern sexual mechanism. |
+| **Meanings available at the time** | The 'overshadow' image can signify divine presence and power; δούλη can denote an enslaved woman or religious self-description of service. Neither term alone proves sexual intercourse, literal enslavement, or freely chosen consent. | Compare other biblical uses and the first-century social situation. The story gives no age for Mary. |
+| **Author's narrative** | An angel announces a future conception (1:31, 35). Mary questions how (1:34) and then says to let the message happen to her (1:38). The narrative depicts no human sexual intercourse. | Luke gives Mary a spoken response and portrays her favorably. He neither stages an explicit permission request nor narrates a refusal or its consequences. |
+| **Later religious interpretation** | Many Christian traditions understand Mary's reply as willing acceptance (the fiat); other readings emphasize obedient submission or religious vocation. | Identify whose theology and century the claim belongs to. Do not attribute later doctrine verbatim to Luke. |
+| **Modern ethical understanding** | Ethical analysis asks whether informed, voluntary consent was possible with such a power differential; whether nonsexual impregnation without meaningful agreement could violate bodily autonomy; and whether the narrator gives us enough information. | Distinguish rape (a category involving sexual violation), reproductive coercion, and the broader ethical issue of bodily autonomy. A modern critique is not evidence Luke reported a physical assault. |
+| **Historical evidence** | We can verify that the Greek narrative and later interpretations exist. There is no independent evidence establishing the supernatural conception, Mary's age, private state of mind, or what choice she could have made. | Treat the miracle as an ancient author's claim, not a demonstrated event. An unknown cannot be filled by a verdict. |
+
+**Primary passage:** [Luke 1:26–38, NRSVue](https://www.biblegateway.com/passage/?search=Luke+1%3A26-38&version=NRSVUE); [Greek Luke 1:35](https://www.greekbible.com/luke/1/35); [Greek Luke 1:38](https://www.biblegateway.com/verse/grc/Luke%201%3A38).
+
+### Does the text describe rape, reproductive coercion, or consent?
+
+- **Documented literary sequence:** The angel announces that Mary *will* conceive; the Greek future tense describes a future event. Mary asks how, and later says `γένοιτό μοι κατὰ τὸ ῥῆμά σου` (“may it happen to me according to your word”). There is no explicit description of sexual intercourse. Mary's exact age is not stated. The text does not say what would happen if she declined.
+- **Argument for Mary's agency:** Luke gives Mary a verbal response. Christian interpretation commonly treats it as affirmative consent and an act of faith; [Jack Mulder Jr. (2022/2023)](https://www.cambridge.org/core/journals/religious-studies/article/abs/in-defence-of-marys-consent-a-response-to-hereth/0FC80A7A8E35A89EB903D1B64B6E9A71) defends the possibility of her free consent against objections.
+- **Ethical challenge:** A person may affirm a decision under such overwhelming pressure that it cannot fairly count as free, informed consent. [Blake Hereth (2021/2022), “Mary, did you consent?”](https://www.cambridge.org/core/journals/religious-studies/article/mary-did-you-consent/769E09BDF29AA1FCECF2F4E8C53048C4) argues that power imbalance, coercive incentives, and inadequate information undermine the consent claim. The author of Luke does not independently settle those ethical criteria.
+- **Disputed sexual-violence interpretation:** [Michael Pope (2018), “Gabriel’s Entrance and Biblical Violence”](https://doi.org/10.15699/jbl.1373.2018.412783) proposes a reading involving sexual-violence imagery. [Bart Koet and Bert Jan Lietaert Peerbolte (2022)](https://research.vu.nl/en/publications/the-annunciation-narrative-luke-127-38-read-in-times-of-metoo/) reject the rape reading as insufficiently supported by the Greek, stressing that Mary's question and the future-tense announcement concern events yet to occur. This is an identifiable scholarly disagreement, not a consensus that an assault occurred.
+- **Reproductive choice in scholarship:** [Anna M. V. Bowden (2025), “Miraculous (mis)conception: Naming Mary's reproductive choice”](https://journals.sagepub.com/doi/10.1177/00346373251383472) examines the problem of naming choice and bodily agency in the annunciation story.
+
+**Responsible conclusion:** Luke narrates a divinely caused pregnancy and Mary's response to the announcement. Calling the story an established rape report exceeds the explicit narrative evidence; presenting it as unquestionable proof of freely informed consent exceeds the evidence as well. The tension involving power, obedience, and reproductive autonomy deserves direct discussion. Modern rape definitions and the ethical concern about nonconsensual impregnation should be differentiated, not collapsed into one verdict.
+
+**⟨INFERENCE⟩** The ethical objection is substantial even if the narrative intends an example of faith: a reader today can ask whether anyone confronted with an all-powerful being can meaningfully refuse. That's an assessment made *about* the story, not a firsthand report of what happened historically.
+
+### Repeatable reader standard
+
+For every major disputed passage, show: **the exact wording; ancient senses and context; the author's claimed message; identifiable later interpretations with dates or traditions; the modern interpretive/ethical consequences; and the limits of independent verification.** Record alternative scholarly readings without pretending that all are equally well supported. A translation note is only one part of the investigation.
+
 ## Interpretation limits
 
 **⟨DOCUMENTED⟩** The Greek or Hebrew wording and comparison of editions are checkable. The publisher's own account establishes its *stated reason* for a committee revision, not a hidden motive. The UBS Handbook explains why a translation may explicitly add an implied interlocutor in 2 Corinthians 12:16.
