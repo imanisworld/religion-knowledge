@@ -1,10 +1,10 @@
 # Biblical Prophecy — Evidence Audit
 
-**Checked:** October 20, 2026 · **Status:** 11-case starter batch, internally source-reviewed; external specialist review pending. This is not a complete inventory or a count of all biblical prophecies.
+**Checked:** October 20, 2026 · **Status:** 17 researched cases: 11 source-reviewed in Batch 1 and 6 new Matthew-formula studies awaiting their internal control pass. External specialist review remains on hold until the defined collection is complete. This is not a count of all biblical prophecies.
 
 The Bible's prophetic literature includes warnings, oracles about current political crises, predictions, poetic laments, promises of restoration, and retrospective historical narratives. A later author calling an earlier passage **fulfilled** establishes that the later author made that interpretation. It does not by itself establish that the earlier author predicted the later event.
 
-This module complements [Translations](../../Translations.md), [Historical Framework](../../Historical_Framework.md), and the [primary research corpus](../../README.md) without duplicating or modifying their earlier audits. Its structured source-of-record is [records.json](records.json).
+This module complements [Translations](../../Translations.md), [Historical Framework](../../Historical_Framework.md), and the [primary research corpus](../../README.md) without duplicating or modifying their earlier audits. Its structured source-of-record is [records.json](records.json). [The claim inventory](inventory.json) separately records which quotations have been researched and which are candidate leads.
 
 ## Research method
 
@@ -34,6 +34,13 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 | [Jeremiah 46:13–26](#jeremiah-46-egypt) | Historical campaigns of Nebuchadnezzar II | Historical prediction checked against external records | Predicted full conquest not documented; partial attacks documented; textual layers debated |
 | [Ezekiel 29:8–16; 29:17–21](#ezekiel-29-egypt) | Egyptian historical record of the sixth century BCE | Time-specified judgment oracle | Literal fulfillment unsupported by known independent record |
 | [Jonah 3:4–10; Jeremiah 18:7–10](#jonah-3-warning) | Nineveh's repentance within Jonah's story | Conditional warning, not fixed timetable | Non-occurrence and conditional logic explicit within the narrative |
+
+| [No surviving identifiable scriptural quotation](#nazorean-matthew-2-23) | Matthew 2:23 | Fulfillment formula with no identifiable antecedent | Fulfillment claim explicit; original quoted source unidentified |
+| [Isaiah 8:23–9:1 (Hebrew numbering; English Isaiah 9:1–2)](#isaiah-9-galilee-matthew-4) | Matthew 4:14–16 | Restoration oracle applied to Jesus' Galilean ministry | Earlier northern-restoration imagery and later application documented; supernatural forecast unverified |
+| [Isaiah 53:4](#isaiah-53-4-healing) | Matthew 8:16–17 | Healing formula quotation; lexical difference across Hebrew and Greek | Explicit citation and identifiable translation choice; specific theological significance debated |
+| [Isaiah 42:1–4](#isaiah-42-servant-matthew-12) | Matthew 12:15–21 | Servant-justice oracle applied to Jesus | Text-to-text use direct; earlier servant identity and fulfillment interpretation disputed |
+| [Psalm 78:1–8 (especially 78:2)](#psalm-78-parables-matthew-13) | Matthew 13:34–35 | Historical teaching psalm described as fulfilled | Earlier retrospective instruction and later reuse established; minor NT textual variant noted |
+| [Zechariah 11:12–13 (and debated allusions to Jeremiah 18–19; 32)](#zechariah-11-silver-matthew-27) | Matthew 26:14–16; 27:3–10 | Composite attribution and redaction of a shepherd oracle | Zechariah source and Jeremiah attribution verifiable; precise cause of misattribution debated |
 
 ## Passage audits
 
@@ -148,13 +155,147 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Primary and scholarly sources:** [Hebrew Jonah 3:4](https://biblehub.com/text/jonah/3-4.htm); [Jonah 3:10](https://www.biblegateway.com/passage/?search=Jonah+3%3A10&version=NRSVUE); [Jeremiah 18:7–10](https://www.biblegateway.com/passage/?search=Jeremiah+18%3A7-10&version=NRSVUE).
 
 
+### No surviving identifiable scriptural quotation — He will be called a Nazarene {#nazorean-matthew-2-23}
+
+- **Original language:** Ναζωραῖος κληθήσεται (Greek Matthew 2:23, 'he will be called a Nazarene'); no corresponding Hebrew prophecy text is known
+- **Earlier situation:** Matthew refers to what 'the prophets' said in the plural, but no extant verse in the Hebrew Bible makes this exact statement. Proposed connections include the Hebrew 'branch' (netser) in Isaiah 11:1, the Nazirite tradition, or a broader motif of social contempt; each has lexical or contextual obstacles.
+- **Later claim / event:** Matthew says Joseph's family settled in Nazareth so that the words spoken through the prophets might be fulfilled.
+- **Type of reuse or prediction:** A fulfillment claim without a securely identifiable prior passage. An association with an older scriptural theme is plausible, but reconstructing an exact lost quotation or the author's motive exceeds the evidence.
+- **Independent evidence and limitations:** Matthew 2:23 is verifiable. The lack of an extant matching oracle prevents word-for-word comparison or independent confirmation that 'Nazarene' was predicted; proposed Hebrew wordplays remain hypotheses.
+- **Provisional conclusion:** Fulfillment claim explicit; original quoted source unidentified
+- **Primary and scholarly sources:** [Matthew 2:23 with NET translation notes](https://classic.net.bible.org/verse.php?book=Mat&chapter=2&verse=23); [Matthew 2:23 Greek text](https://biblehub.com/text/matthew/2-23.htm); [Isaiah 11:1 (netser) comparison](https://biblehub.com/text/isaiah/11-1.htm).
+
+### Isaiah 8:23–9:1 (Hebrew numbering; English Isaiah 9:1–2) — Great light in Galilee {#isaiah-9-galilee-matthew-4}
+
+- **Original language:** הָעָם הַהֹלְכִים בַּחֹשֶׁךְ רָאוּ אוֹר גָּדוֹל ('people walking in darkness saw a great light')
+- **Earlier situation:** The Isaiah passage names the territories of Zebulun and Naphtali in northern Israel after devastation associated with imperial warfare in the eighth century BCE; its original horizon is hope after crisis. Its precise literary layering and royal expectation are debated.
+- **Later claim / event:** Matthew quotes the passage after Jesus relocates to Capernaum and begins his ministry in Galilee, identifying his activity with the light reaching the north.
+- **Type of reuse or prediction:** The application is explicit; Matthew adapts the geographical and metaphorical imagery to Jesus. The earlier oracle does not name Jesus or specify a first-century Capernaum ministry.
+- **Independent evidence and limitations:** The Hebrew text, its historical north-Israel setting, and the textual correspondence with Matthew are checkable. Matthew's report of the ministry cannot be treated as independent proof of supernatural fulfillment simply because Matthew supplies the citation.
+- **Provisional conclusion:** Earlier northern-restoration imagery and later application documented; supernatural forecast unverified
+- **Primary and scholarly sources:** [Isaiah 9:1–2 and Matthew 4:14–16](https://www.biblegateway.com/passage/?search=Isaiah+9%3A1-2%2CMatthew+4%3A14-16&version=NIV); [Hebrew Isaiah 9:2](https://biblehub.com/text/isaiah/9-2.htm); [Richard Beaton, Isaiah's Christ in Matthew's Gospel (2002), research program](https://assets.cambridge.org/97805218/18889/sample/9780521818889ws.pdf).
+
+### Isaiah 53:4 — He took our infirmities {#isaiah-53-4-healing}
+
+- **Original language:** חֳלָיֵנוּ הוּא נָשָׂא וּמַכְאֹבֵינוּ סְבָלָם ('our sicknesses he bore, our pains he carried')
+- **Earlier situation:** Isaiah's fourth servant poem depicts a sufferer bearing illness and pain, interpreted within the larger exile-restoration discourse. The ancient Greek version renders a related clause using 'sins', making the textual tradition crucial.
+- **Later claim / event:** Matthew quotes Isaiah 53:4 after reporting Jesus' healings and exorcisms, drawing attention to physical sickness in the wording; this is a narrower use than later applications to Jesus' death.
+- **Type of reuse or prediction:** A particular use of Isaiah 53 distinct from the broader servant-identity case already in this audit (isaiah-53). Matthew's phrasing is closer to the Hebrew's physical-illness sense than the old Greek version's 'sins'. Rikk Watts (2015) connects it to Matthew's wider theme of ending Israel's afflictions.
+- **Independent evidence and limitations:** The verbal source and Hebrew–Septuagint difference are independently inspectable. Matthew's literary explanation for healings does not independently establish that the reported miracles occurred, nor prove an original forecast of Jesus.
+- **Provisional conclusion:** Explicit citation and identifiable translation choice; specific theological significance debated
+- **Primary and scholarly sources:** [Isaiah 53:4 / Matthew 8:17 parallel](https://www.biblegateway.com/passage/?search=Matthew+8%3A17%2CIsaiah+53%3A4&version=NIV); [Hebrew Isaiah 53:4](https://biblehub.com/text/isaiah/53-4.htm); [Greek Septuagint comparison](https://intertextual.bible/text/isaiah-53.4/lxx-isaiah-53.4); [Rikk Watts (2015), Journal for the Study of the New Testament](https://doi.org/10.1177/0142064X15595940).
+
+### Isaiah 42:1–4 — The quiet servant bringing justice {#isaiah-42-servant-matthew-12}
+
+- **Original language:** הֵן עַבְדִּי ... מִשְׁפָּט לַגּוֹיִם יוֹצִיא ('Here is my servant ... he will bring justice to the nations')
+- **Earlier situation:** Isaiah's servant is characterized as chosen and Spirit-supported, bringing justice without destructive force; the servant's identity across Isaiah 40–55 is debated, and the text belongs to an exile/restoration horizon.
+- **Later claim / event:** Matthew quotes a lengthy adapted version to interpret Jesus' healing and instruction, including his restraint and the prospect of justice or hope among the nations.
+- **Type of reuse or prediction:** Explicit later identification with Jesus. The Greek wording used in Matthew differs in places from both the standard Hebrew and the old Greek Isaiah text; it is an interpretive quotation rather than an exact unedited reproduction.
+- **Independent evidence and limitations:** The passage's servant/justice language exists earlier, and Matthew's theological application is documented. Richard Beaton (2000) argues that the servant's justice is integral to Matthew's compassionate portrayal of Jesus; the original identity and fulfillment standard are debatable.
+- **Provisional conclusion:** Text-to-text use direct; earlier servant identity and fulfillment interpretation disputed
+- **Primary and scholarly sources:** [Hebrew Isaiah 42:1–4](https://www.biblegateway.com/passage/?search=Isaiah+42%3A1-4&version=NRSVUE); [Matthew 12:17–21 and Isaiah 42:1–4](https://www.biblegateway.com/passage/?search=Matthew+12%3A17-21%2CIsaiah+42%3A1-4&version=NIV); [Richard Beaton (2000), Matthew's use of Isaiah 42](https://doi.org/10.1177/0142064X0002207502); [Richard Beaton, Isaiah's Christ in Matthew's Gospel (2002)](https://assets.cambridge.org/97805218/18889/sample/9780521818889ws.pdf).
+
+### Psalm 78:1–8 (especially 78:2) — I will open my mouth in parables {#psalm-78-parables-matthew-13}
+
+- **Original language:** אֶפְתְּחָה בְמָשָׁל פִּי ('I will open my mouth with a parable')
+- **Earlier situation:** Psalm 78, associated by its superscription with Asaph, introduces a poetic instruction that retells Israel's past and teaches coming generations. In its own context it describes the psalmist's mode of teaching rather than a named future person's preaching.
+- **Later claim / event:** Matthew cites the line to explain Jesus' choice to teach in parables. Matthew's longer wording mentions what was hidden since the foundation of the world, whereas Hebrew Psalm 78:2 speaks about things 'from of old'.
+- **Type of reuse or prediction:** A later literary application of ancient wisdom and teaching language, not an unambiguous predictive oracle. Some Greek manuscripts name Isaiah as the 'prophet' in Matthew 13:35; most do not. The source remains Psalm 78:2.
+- **Independent evidence and limitations:** The older psalm and Matthew's citation are directly comparable; the choice of literary quotation does not independently prove historicity of every speech of Jesus. NET and NABRE textual notes document the rare Matthew 'Isaiah' variant.
+- **Provisional conclusion:** Earlier retrospective instruction and later reuse established; minor NT textual variant noted
+- **Primary and scholarly sources:** [Psalm 78:2 / Matthew 13:35 parallel](https://www.biblegateway.com/passage/?search=Psalm+78%3A2%2CMatthew+13%3A35&version=NABRE); [Hebrew Psalm 78:2](https://biblehub.com/text/psalms/78-2.htm); [NET textual note Matthew 13:35](https://classic.net.bible.org/passage.php?passage=Mat+13%3A35); [Yale Bible Study on Matthew's parables](https://yalebiblestudy.org/courses/the-gospel-of-matthew/lessons/controversies-and-parables-study-guide/).
+
+### Zechariah 11:12–13 (and debated allusions to Jeremiah 18–19; 32) — Thirty silver pieces attributed to Jeremiah {#zechariah-11-silver-matthew-27}
+
+- **Original language:** שְׁלֹשִׁים כָּסֶף ('thirty [pieces of] silver', Zechariah 11:12); Matthew says 'through Jeremiah'
+- **Earlier situation:** Zechariah 11 presents a symbolic shepherd drama about the rejection of a shepherd and the contemptuous thirty-silver payment. It mentions disposing of the money in the house of YHWH, but not the purchase of a potter's field.
+- **Later claim / event:** Matthew's Judas narrative specifies thirty silver pieces, money thrown into the temple, and the purchase of a potter's field; Matthew 27:9 calls the quotation Jeremiah although its closest wording is Zechariah 11:12–13.
+- **Type of reuse or prediction:** The discrepancy is explicit. Some scholars posit composite imagery from Jeremiah 19 or 32; Maarten J. J. Menken (2002) argues Zechariah 11:13 is the main source and Matthew's redaction explains the altered wording and selected narrative details.
+- **Independent evidence and limitations:** The source attribution in Matthew is demonstrably different from the best matching earlier text. A correction based solely on Matthew's own claim that Judas acted this way would be circular; the earlier source independently exists, but the thirty-coin event is not independently verified by that correspondence.
+- **Provisional conclusion:** Zechariah source and Jeremiah attribution verifiable; precise cause of misattribution debated
+- **Primary and scholarly sources:** [NRSVUE Zechariah 11:12–13 vs Matthew 27:9–10](https://www.biblegateway.com/passage/?search=Zechariah+11%3A12-13%3B+Matthew+27%3A9-10&version=NRSVUE); [Zechariah 11:12 Hebrew](https://biblehub.com/text/zechariah/11-12.htm); [Maarten J.J. Menken (2002), Biblica 83](https://www.bsw.org/biblica/vol-83-2002/the-old-testament-quotation-in-matthew-27-9-10-textual-form-and-context/238/article-p309.html); [Jeremiah 32:6–9 for comparison](https://www.biblegateway.com/passage/?search=Jeremiah+32%3A6-9&version=NRSVUE).
+
+## Bounded inventory: ten Matthew fulfillment formulas
+
+These ten are a **particular scholarly-defined subset** of Matthew's use of the Hebrew Bible. All ten have dedicated or linked audit cases; this does not finish Matthew's other quotations or other books.
+
+| Matthew reference | Earlier text / proposed source | Audit record |
+|---|---|---|
+| Matthew 1:22–23 | Isaiah 7:14 | [isaiah-7-14](#isaiah-7-14) |
+| Matthew 2:15 | Hosea 11:1 | [hosea-11-1](#hosea-11-1) |
+| Matthew 2:17–18 | Jeremiah 31:15 | [jeremiah-31-15](#jeremiah-31-15) |
+| Matthew 2:23 | No identifiable text | [nazorean-matthew-2-23](#nazorean-matthew-2-23) |
+| Matthew 4:14–16 | Isaiah 8:23–9:1 (Hebrew); 9:1–2 (English) | [isaiah-9-galilee-matthew-4](#isaiah-9-galilee-matthew-4) |
+| Matthew 8:17 | Isaiah 53:4 | [isaiah-53-4-healing](#isaiah-53-4-healing) |
+| Matthew 12:17–21 | Isaiah 42:1–4 | [isaiah-42-servant-matthew-12](#isaiah-42-servant-matthew-12) |
+| Matthew 13:35 | Psalm 78:2 | [psalm-78-parables-matthew-13](#psalm-78-parables-matthew-13) |
+| Matthew 21:4–5 | Zechariah 9:9 | [zechariah-9-9](#zechariah-9-9) |
+| Matthew 27:9–10 | Zechariah 11:12–13, attributed to Jeremiah | [zechariah-11-silver-matthew-27](#zechariah-11-silver-matthew-27) |
+
+### Wider seed inventory — pending discovery and research
+
+The following **50 entries are candidates, not findings**. A related record sometimes exists for a different later use of the same passage; the specific claim still needs review. An inventory is complete only after discovery checks against multiple lists and direct full-text searches.
+
+| Group | Candidate claim location | Source or subject | Status |
+|---|---|---|---|
+| other matthew | Matthew 2:5–6 | Micah 5:2 | Related case exists (micah-5-2); claim pending |
+| other matthew | Matthew 3:3 | Isaiah 40:3 | Related case exists (isaiah-40-3); claim pending |
+| other matthew | Matthew 13:14–15 | Isaiah 6:9–10 | Research pending |
+| other matthew | Matthew 26:31 | Zechariah 13:7 | Research pending |
+| other matthew | Matthew 26:54, 56 | Unspecified scriptures | Research pending |
+| other nt | Mark 1:2–3 | Malachi 3:1 / Isaiah 40:3 | Related case exists (isaiah-40-3); claim pending |
+| other nt | Luke 4:18–21 | Isaiah 61:1–2 / 58:6 | Research pending |
+| other nt | John 12:38 | Isaiah 53:1 | Research pending |
+| other nt | John 12:39–41 | Isaiah 6:9–10 | Research pending |
+| other nt | John 13:18 | Psalm 41:9 | Research pending |
+| other nt | John 19:24 | Psalm 22:18 | Related case exists (psalm-22); claim pending |
+| other nt | John 19:36 | Exodus 12:46 / Psalm 34:20 | Research pending |
+| other nt | John 19:37 | Zechariah 12:10 | Research pending |
+| other nt | Acts 2:16–21 | Joel 2:28–32 | Research pending |
+| other nt | Acts 2:25–31 | Psalm 16:8–11 | Research pending |
+| other nt | Acts 3:22–23 | Deuteronomy 18:15–19 | Research pending |
+| other nt | Acts 8:32–35 | Isaiah 53:7–8 | Related case exists (isaiah-53); claim pending |
+| other nt | Acts 13:33 | Psalm 2:7 | Research pending |
+| other nt | Acts 15:16–18 | Amos 9:11–12 | Research pending |
+| other nt | Romans 9:25–26 | Hosea 2:23 / 1:10 | Research pending |
+| other nt | Romans 11:26–27 | Isaiah 59:20–21 / 27:9 | Research pending |
+| other nt | Hebrews 1:5 | Psalm 2:7 / 2 Samuel 7:14 | Research pending |
+| other nt | Hebrews 8:8–12 | Jeremiah 31:31–34 | Research pending |
+| historical oracle | Isaiah 44:28–45:1 | Cyrus and restoration | Research pending |
+| historical oracle | Jeremiah 25:11–12 | Seventy years of Babylonian rule | Research pending |
+| historical oracle | Jeremiah 29:10 | Seventy years for Babylon | Research pending |
+| historical oracle | Ezekiel 26:3–14 | Tyre | Research pending |
+| historical oracle | Isaiah 13:17–22 | Babylon and Medes | Research pending |
+| historical oracle | Isaiah 17:1–3 | Damascus | Research pending |
+| historical oracle | Nahum 1–3 | Nineveh | Research pending |
+| historical oracle | Obadiah 1–21 | Edom | Research pending |
+| historical oracle | Jeremiah 49:7–22 | Edom | Research pending |
+| historical oracle | Haggai 2:6–9 | Temple glory | Research pending |
+| historical oracle | Zechariah 14:1–21 | Jerusalem and nations | Research pending |
+| apocalyptic | Daniel 2:31–45 | Statue and four kingdoms | Research pending |
+| apocalyptic | Daniel 7:1–27 | Four beasts / son of man | Research pending |
+| apocalyptic | Daniel 8:1–27 | Ram/goat and little horn | Research pending |
+| apocalyptic | Daniel 9:24–27 | Seventy weeks | Research pending |
+| apocalyptic | Daniel 11:2–45 | Kings of north and south | Research pending |
+| apocalyptic | Daniel 12:1–13 | Resurrection and time periods | Research pending |
+| apocalyptic | Mark 13:2 | Temple destruction | Research pending |
+| apocalyptic | Mark 13:30 / Matthew 24:34 | This generation | Research pending |
+| apocalyptic | Matthew 10:23 | Before the Son of Man comes | Research pending |
+| apocalyptic | Mark 9:1 / Matthew 16:28 | Some standing here will not taste death | Research pending |
+| apocalyptic | Mark 14:62 | Son of Man seen at God's right hand | Research pending |
+| apocalyptic | 1 Thessalonians 4:15–17 | We who are alive at the coming | Research pending |
+| apocalyptic | 1 Corinthians 15:51–52 | We will not all die | Research pending |
+| apocalyptic | Revelation 1:1–3; 22:6–12 | Soon / time near | Research pending |
+| apocalyptic | Revelation 13:1–18 | Beast and number | Research pending |
+| apocalyptic | Revelation 20–21 | Millennium and New Jerusalem | Research pending |
+
 ## Open inventory and stopping rule
 
-**Batch 1 is complete when:** eleven distinct claims have canonical records, links to underlying passages and scholarship, a published comparison, a source trail, search access, and CI validation. The status is *starter sample*, not "every prophecy done."
+**Batch 1:** 11 starter records, already internally reviewed. **Batch 2:** the six additional dedicated studies covering all ten classic Matthew formula quotations, with four earlier cases linked. The new entries are researched but still need a source-control review. Neither batch means "every prophecy done."
 
 Next nonduplicative batches, with each source passage + later claim as the canonical match key:
 
-- **Matthew's remaining fulfillment passages:** inventory every formula quotation and compare Hebrew/Greek originals; do not treat allusions and direct citations as the same type.
+- **Matthew:** the ten formula quotations are now indexed and researched; next enumerate and review the five separately tracked non-formula candidates and remaining quotations/allusions.
 - **Other New Testament authors:** Mark, Luke, John, Acts, Paul, Hebrews and Revelation; include quotations and explicitly labeled allusions.
 - **Hebrew Bible predictions:** Assyria, Babylon, Egypt, Persian period, restoration and conflict oracles, tested against independent records.
 - **Apocalyptic / end-time claims:** Daniel, Jesus' kingdom imminence sayings, Revelation and later receptions, tracking dating debates and genre.
