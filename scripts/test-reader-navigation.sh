@@ -24,6 +24,9 @@ setTimeout(() => {
     const chapters = [...page.querySelectorAll(':scope > section')];
     const select = document.querySelector('#reader-section-select');
     const about = document.querySelector('.reader-about');
+    const documentPicker = document.querySelector('#document-switcher');
+    const compactNavOk = documentPicker?.options.length === 11 &&
+      !document.querySelector('.docswitch');
     const active = chapters.filter(x => !x.hidden);
     const blanks = chapters.filter(section => ![...section.children]
       .some(child => !/^H[1-6]$/.test(child.tagName) &&
@@ -33,7 +36,7 @@ setTimeout(() => {
     const firstOk = active.length === 1 && !!heading &&
       select && select.value === '0' &&
       !/Introduction/i.test(select.options[0].textContent) &&
-      chapters.length >= 10 && blanks.length === 0 && aboutOk;
+      chapters.length >= 3 && blanks.length === 0 && aboutOk && compactNavOk;
     let navOk = false;
     if (firstOk) {
       const old = select.value;
@@ -68,7 +71,7 @@ setTimeout(() => {
       (firstOk && navOk && hashOk && laptopOk) ? 'pass' : 'fail';
     document.body.dataset.readerTopicDetail = JSON.stringify({
       chapters:chapters.length,blank:blanks.map(s => s.id).slice(0,8),
-      firstOk,navOk,hashOk,laptopOk,viewport:[innerWidth,innerHeight]
+      firstOk,navOk,hashOk,laptopOk,compactNavOk,viewport:[innerWidth,innerHeight]
     });
   } catch (error) {
     document.body.dataset.readerTopicSmoke = 'fail';
@@ -76,7 +79,8 @@ setTimeout(() => {
   }
 }, 0);
 </script>'''
-for name in ('master-notes', 'field-guide'):
+for name in ('master-notes', 'field-guide', 'history', 'sources',
+             'other-side', 'translations', 'method-reference', 'glossary'):
     source = Path(name + '.html').read_text(encoding='utf-8')
     if '</body>' not in source:
         raise SystemExit(name + ': HTML document missing body terminator')
@@ -86,7 +90,7 @@ PY
 
 python3 -m http.server 8766 --bind 127.0.0.1 >/tmp/religion-reader-http.log 2>&1 &
 SERVER_PID=$!
-trap 'kill "$SERVER_PID" >/dev/null 2>&1 || true; rm -f master-notes.reader-smoke.html field-guide.reader-smoke.html master-notes.return-smoke.html field-guide.return-smoke.html' EXIT
+trap 'kill "$SERVER_PID" >/dev/null 2>&1 || true; rm -f -- *.reader-smoke.html master-notes.return-smoke.html field-guide.return-smoke.html' EXIT
 
 READY=0
 for _ in {1..40}; do
@@ -101,7 +105,7 @@ if [[ "$READY" -ne 1 ]]; then
   exit 1
 fi
 
-for page in master-notes field-guide; do
+for page in master-notes field-guide history sources other-side translations method-reference glossary; do
   for size in 1280,800 390,844; do
     output="/tmp/religion-$page-$size-reader-dom.html"
     log="/tmp/religion-$page-$size-reader-chrome.log"
