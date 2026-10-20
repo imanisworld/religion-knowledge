@@ -4,7 +4,7 @@
 <title>Historical Framework</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Atkinson+Hyperlegible+Next:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Atkinson+Hyperlegible+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root{
   --ground:#EDEFEC; --paper:#FFFFFF; --ink:#17201D; --ink2:#4A5551; --ink3:#5F6A66;
@@ -13,8 +13,8 @@
   --camp:#57478C; --camp-soft:#EEEAF6;
   --rail:320px; --measure:70ch;
   --f-display:"Newsreader",Georgia,serif;
-  --f-body:"IBM Plex Sans",system-ui,sans-serif;
-  --f-mono:"IBM Plex Mono",ui-monospace,monospace;
+  --f-body:"Atkinson Hyperlegible Next",system-ui,sans-serif;
+  --f-mono:"Atkinson Hyperlegible Mono",ui-monospace,monospace;
 }
 *{box-sizing:border-box}
 html{overflow-x:clip}html{scroll-behavior:smooth;scroll-padding-top:5rem}
@@ -214,12 +214,7 @@ a.ext::after{content:"↗";font-size:.72em;margin-left:.18em;vertical-align:supe
   letter-spacing:.05em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:20rem}
 #nores{display:none;padding:2rem 0;color:var(--ink3);font-size:.9rem}
 
-table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}table{border-collapse:collapse;width:100%;max-width:var(--measure);margin:0 0 1.6rem;font-size:.875rem}code,pre{overflow-wrap:anywhere;word-break:break-word}
-th{text-align:left;font-family:var(--f-mono);font-size:.63rem;letter-spacing:.11em;text-transform:uppercase;
-  color:var(--ink3);font-weight:500;padding:.5rem .7rem;border-bottom:1.5px solid var(--rule)}
-td{padding:.55rem .7rem;border-bottom:1px solid var(--rule);vertical-align:top}
-tr:hover td{background:#F6F8F7}
-td:first-child{font-family:var(--f-mono);font-size:.8rem;white-space:nowrap;color:var(--accent)}
+code,pre{overflow-wrap:anywhere;word-break:break-word}
 h2 span.flagmark{color:var(--collapses)}
 #top{position:fixed;right:1.5rem;bottom:calc(1.5rem + env(safe-area-inset-bottom));display:grid;place-items:center;width:2.6rem;height:2.6rem;border-radius:50%;
   background:var(--ink);color:#fff;border:none;cursor:pointer;font-size:.9rem;opacity:0;
@@ -259,7 +254,6 @@ h2 span.flagmark{color:var(--collapses)}
 :root[data-theme=dark] .tbtn.on{background:#26332E;color:#F2F5F3;border-color:#3E4C46}
 :root[data-theme=dark] #top{background:#26332E;color:#F2F5F3}
 :root[data-theme=dark] .audit > summary:hover{background:#1C2622}
-:root[data-theme=dark] tr:hover td{background:#1C2622}
 :root[data-theme=dark] .badge{background:#26332E;color:var(--ink2)}
 :root[data-theme=dark] .badge.overstated{background:#3A2E14;color:#E8C176}
 :root[data-theme=dark] .badge.collapses{background:#3A1A1A;color:#E8A3A3}
@@ -333,7 +327,6 @@ h2{margin-top:4rem}
 :root[data-theme=dark] #tools{background:var(--toolbar-bg)}
 :root[data-theme=dark] .tbtn.on{background:var(--accent);color:#fff;border-color:var(--accent)}
 :root[data-theme=dark] .audit>summary:hover{background:var(--accent-soft)}
-:root[data-theme=dark] tr:hover td{background:#24191D}
 :root[data-theme=dark] .badge{background:#2A2024;color:var(--ink2)}
 :root[data-theme=dark] .badge.new{background:var(--accent-soft);color:#EAB0BD}
 :root[data-theme=dark] .related b{color:#EAB0BD}
@@ -364,9 +357,6 @@ h3{font-size:1.36rem;line-height:1.28;margin-top:2.55rem;margin-bottom:.82rem}
 .abody p,.abody ul{font-size:1rem;line-height:1.68}
 .fld{font-size:.66rem;margin-top:1.55rem}
 .related{font-size:.9rem;line-height:1.55}
-table{font-size:.92rem;line-height:1.55}
-th{font-size:.66rem}
-td{padding:.65rem .75rem}
 :root[data-theme=dark]{--ink2:#D1C5C9;--ink3:#AA9CA1;--rule:#44343A}
 @media(max-width:1080px){
   body{font-size:17px}
@@ -632,28 +622,6 @@ blockquote strong{color:var(--ink)}
   color:color-mix(in srgb,var(--ink3) 86%,var(--accent))
 }
 
-table{
-  border-collapse:separate;
-  border-spacing:0;
-  border:1px solid var(--rule);
-  border-radius:12px;
-  background:var(--paper);
-  box-shadow:0 7px 20px rgba(57,34,42,.035)
-}
-th{
-  background:color-mix(in srgb,var(--paper) 72%,var(--accent-soft));
-  padding:.7rem .8rem
-}
-td{padding:.72rem .8rem}
-th+th,td+td{border-left:1px solid color-mix(in srgb,var(--rule) 74%,transparent)}
-tbody tr:nth-child(even) td{
-  background:color-mix(in srgb,var(--paper) 96%,var(--ground))
-}
-tbody tr:last-child td{border-bottom:0}
-tr:hover td{
-  background:color-mix(in srgb,var(--paper) 82%,var(--accent-soft))
-}
-
 pre{
   max-width:var(--measure);
   overflow:auto;
@@ -695,14 +663,10 @@ hr+*{margin-top:0}
 :root[data-theme=dark] blockquote{
   background:color-mix(in srgb,var(--paper) 86%,var(--accent-soft))
 }
-:root[data-theme=dark] tbody tr:nth-child(even) td{
-  background:color-mix(in srgb,var(--paper) 92%,var(--ground))
-}
 @media(max-width:640px){
   blockquote{padding:.9rem 1rem}
   .audit>summary{padding-left:1.25rem;padding-right:1rem}
   .stamp{display:none}
-  th,td{padding:.62rem .68rem}
 }
 </style><link rel="stylesheet" href="site-shell.css"><script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script></head><body class="rk-with-sitebar rk-reader-page">
 <header class="rk-sitebar">
@@ -800,100 +764,100 @@ hr+*{margin-top:0}
 <p><strong>Concise formulation:</strong> <em>&quot;That confirms the author knew the world. It doesn&#39;t confirm the story.&quot;</em></p>
 
 </section><section id="sec-2"><h2 data-num="2" id="s2"><span class="num">§2</span>Historical Timeline</h2><p>Use this timeline to place texts and events in sequence. Dates before roughly 900 BCE are approximate and contested; from the Assyrian period onward, chronology is firm because it is anchored to dated eclipses and king lists.</p>
-<h3 data-num="2.1" id="s2-1"><span class="num">§2.1</span>Bronze Age and the emergence of Israel</h3><table>
-<thead>
-<tr>
-<th>Date</th>
-<th>Event</th>
-<th>Evidence status</th>
+<h3 data-num="2.1" id="s2-1"><span class="num">§2.1</span>Bronze Age and the emergence of Israel</h3><div class="rk-table stack" role="region" aria-label="Table: Date, Event, Evidence status" tabindex="0"><table role="table">
+<thead role="rowgroup">
+<tr role="row">
+<th role="columnheader">Date</th>
+<th role="columnheader">Event</th>
+<th role="columnheader">Evidence status</th>
 </tr>
 </thead>
-<tbody><tr>
-<td>c. 1550–1200 BCE</td>
-<td>Egyptian New Kingdom controls Canaan</td>
-<td>Firm — Egyptian records, Amarna letters</td>
+<tbody role="rowgroup"><tr role="row">
+<td role="cell" data-label="Date">c. 1550–1200 BCE</td>
+<td role="cell" data-label="Event">Egyptian New Kingdom controls Canaan</td>
+<td role="cell" data-label="Evidence status">Firm — Egyptian records, Amarna letters</td>
 </tr>
-<tr>
-<td>c. 1200 BCE</td>
-<td>Late Bronze Age collapse; palace civilizations fall across the eastern Mediterranean</td>
-<td>Firm — widespread disruption and destruction across many centers</td>
+<tr role="row">
+<td role="cell" data-label="Date">c. 1200 BCE</td>
+<td role="cell" data-label="Event">Late Bronze Age collapse; palace civilizations fall across the eastern Mediterranean</td>
+<td role="cell" data-label="Evidence status">Firm — widespread disruption and destruction across many centers</td>
 </tr>
-<tr>
-<td>c. 1208 BCE</td>
-<td><strong>Merneptah Stele</strong> — earliest extrabiblical mention of &quot;Israel,&quot; as a people, not a place</td>
-<td>Firm — the object exists</td>
+<tr role="row">
+<td role="cell" data-label="Date">c. 1208 BCE</td>
+<td role="cell" data-label="Event"><strong>Merneptah Stele</strong> — earliest extrabiblical mention of &quot;Israel,&quot; as a people, not a place</td>
+<td role="cell" data-label="Evidence status">Firm — the object exists</td>
 </tr>
-<tr>
-<td>c. 1200–1000 BCE</td>
-<td>Highland settlement in Canaan: hundreds of small unwalled villages</td>
-<td>Firm — survey archaeology</td>
+<tr role="row">
+<td role="cell" data-label="Date">c. 1200–1000 BCE</td>
+<td role="cell" data-label="Event">Highland settlement in Canaan: hundreds of small unwalled villages</td>
+<td role="cell" data-label="Evidence status">Firm — survey archaeology</td>
 </tr>
-</tbody></table>
+</tbody></table></div>
 <p><strong>What this means.</strong> The people called Israel are on the ground by 1208 BCE. The archaeological picture of their emergence looks like <em>gradual settlement of Canaanite highlands</em>, not conquest from outside. No archaeological pattern supports a single rapid conquest of Canaan at the scale Joshua describes, and the material culture is continuous with Canaanite culture — same pottery, same houses, same language family. The distinguishing marker is negative: an absence of pig bones.</p>
-<h3 data-num="2.2" id="s2-2"><span class="num">§2.2</span>Monarchy, Assyria, Babylon</h3><table>
-<thead>
-<tr>
-<th>Date</th>
-<th>Event</th>
-<th>Evidence status</th>
+<h3 data-num="2.2" id="s2-2"><span class="num">§2.2</span>Monarchy, Assyria, Babylon</h3><div class="rk-table stack" role="region" aria-label="Table: Date, Event, Evidence status" tabindex="0"><table role="table">
+<thead role="rowgroup">
+<tr role="row">
+<th role="columnheader">Date</th>
+<th role="columnheader">Event</th>
+<th role="columnheader">Evidence status</th>
 </tr>
 </thead>
-<tbody><tr>
-<td>c. 1000 BCE</td>
-<td>Traditional date for David</td>
-<td><strong>Contested.</strong> See §2.3</td>
+<tbody role="rowgroup"><tr role="row">
+<td role="cell" data-label="Date">c. 1000 BCE</td>
+<td role="cell" data-label="Event">Traditional date for David</td>
+<td role="cell" data-label="Evidence status"><strong>Contested.</strong> See §2.3</td>
 </tr>
-<tr>
-<td>c. 840 BCE</td>
-<td><strong>Tel Dan Stele</strong> — Aramaic inscription referring to the &quot;House of David&quot;</td>
-<td>Firm — the inscription exists</td>
+<tr role="row">
+<td role="cell" data-label="Date">c. 840 BCE</td>
+<td role="cell" data-label="Event"><strong>Tel Dan Stele</strong> — Aramaic inscription referring to the &quot;House of David&quot;</td>
+<td role="cell" data-label="Evidence status">Firm — the inscription exists</td>
 </tr>
-<tr>
-<td>c. 840 BCE</td>
-<td><strong>Mesha Stele</strong> — Moabite king records war with Israel; names YHWH</td>
-<td>Firm</td>
+<tr role="row">
+<td role="cell" data-label="Date">c. 840 BCE</td>
+<td role="cell" data-label="Event"><strong>Mesha Stele</strong> — Moabite king records war with Israel; names YHWH</td>
+<td role="cell" data-label="Evidence status">Firm</td>
 </tr>
-<tr>
-<td>722 BCE</td>
-<td>Assyria destroys the northern kingdom of Israel; deportations</td>
-<td>Firm — Assyrian annals + biblical</td>
+<tr role="row">
+<td role="cell" data-label="Date">722 BCE</td>
+<td role="cell" data-label="Event">Assyria destroys the northern kingdom of Israel; deportations</td>
+<td role="cell" data-label="Evidence status">Firm — Assyrian annals + biblical</td>
 </tr>
-<tr>
-<td>701 BCE</td>
-<td><strong>Sennacherib besieges Jerusalem</strong></td>
-<td>Firm — Sennacherib&#39;s Prism, Lachish reliefs, 2 Kings 18–19</td>
+<tr role="row">
+<td role="cell" data-label="Date">701 BCE</td>
+<td role="cell" data-label="Event"><strong>Sennacherib besieges Jerusalem</strong></td>
+<td role="cell" data-label="Evidence status">Firm — Sennacherib&#39;s Prism, Lachish reliefs, 2 Kings 18–19</td>
 </tr>
-<tr>
-<td>c. 622 BCE</td>
-<td>Josiah&#39;s reform; &quot;book of the law&quot; found in the Temple</td>
-<td>Biblical only</td>
+<tr role="row">
+<td role="cell" data-label="Date">c. 622 BCE</td>
+<td role="cell" data-label="Event">Josiah&#39;s reform; &quot;book of the law&quot; found in the Temple</td>
+<td role="cell" data-label="Evidence status">Biblical only</td>
 </tr>
-<tr>
-<td>597 BCE</td>
-<td>First Babylonian deportation</td>
-<td>Firm — Babylonian Chronicles</td>
+<tr role="row">
+<td role="cell" data-label="Date">597 BCE</td>
+<td role="cell" data-label="Event">First Babylonian deportation</td>
+<td role="cell" data-label="Evidence status">Firm — Babylonian Chronicles</td>
 </tr>
-<tr>
-<td>586 BCE</td>
-<td>Jerusalem falls; First Temple destroyed</td>
-<td>Firm</td>
+<tr role="row">
+<td role="cell" data-label="Date">586 BCE</td>
+<td role="cell" data-label="Event">Jerusalem falls; First Temple destroyed</td>
+<td role="cell" data-label="Evidence status">Firm</td>
 </tr>
-<tr>
-<td>539 BCE</td>
-<td>Cyrus takes Babylon</td>
-<td>Firm</td>
+<tr role="row">
+<td role="cell" data-label="Date">539 BCE</td>
+<td role="cell" data-label="Event">Cyrus takes Babylon</td>
+<td role="cell" data-label="Evidence status">Firm</td>
 </tr>
-<tr>
-<td>539 BCE</td>
-<td><strong>Cyrus Cylinder</strong> — Babylonian propaganda text. <strong>Does NOT mention Judah, Jerusalem, or Jews.</strong> See §2.2a</td>
-<td>Object firm; relevance to Judean return indirect and debated</td>
+<tr role="row">
+<td role="cell" data-label="Date">539 BCE</td>
+<td role="cell" data-label="Event"><strong>Cyrus Cylinder</strong> — Babylonian propaganda text. <strong>Does NOT mention Judah, Jerusalem, or Jews.</strong> See §2.2a</td>
+<td role="cell" data-label="Evidence status">Object firm; relevance to Judean return indirect and debated</td>
 </tr>
-<tr>
-<td>c. 516 BCE</td>
-<td>Second Temple completed</td>
-<td>Reasonably firm</td>
+<tr role="row">
+<td role="cell" data-label="Date">c. 516 BCE</td>
+<td role="cell" data-label="Event">Second Temple completed</td>
+<td role="cell" data-label="Evidence status">Reasonably firm</td>
 </tr>
-</tbody></table>
+</tbody></table></div>
 <h3 id="2-2a-correction-the-cyrus-cylinder">2.2a ⚑ CORRECTION — the Cyrus Cylinder</h3><p><strong>Corrected 7 Aug 2026 after external audit. The original entry said the Cylinder &quot;records his repatriation policy,&quot; which overstates it in the direction of the biblical account.</strong></p>
 <p><strong>What the Cylinder actually is.</strong> A royal proclamation in standard Babylonian literary form, legitimising a new dynasty. It denounces Nabonidus for neglecting Marduk, presents Marduk as choosing Cyrus, and claims Cyrus restored Babylonian cult practice and let displaced peoples return and rebuild sanctuaries. <strong>It names Mesopotamian cities. No mention of Judah or Jerusalem appears in the surviving text.</strong> The Smithsonian states plainly that the Cylinder does not mention the Jews by name.</p>
 <p><strong>Stronger objection still.</strong> Amélie Kuhrt argues the restoration language is a literary device contrasting Cyrus&#39;s piety with Nabonidus&#39;s blasphemy, not a description of policy actually carried out — on that reading the Cylinder sheds no light on the Jerusalem temple or a Judean return at all.</p>
@@ -910,7 +874,7 @@ hr+*{margin-top:0}
 </ul>
 <p><strong>Best-supported synthesis</strong> ⟨INFERENCE — Claude&#39;s read of where the evidence lands between the named camps above⟩<strong>:</strong> the Tel Dan inscription strongly supports that a ninth-century dynasty identified itself as Davidic. That evidences the dynasty&#39;s self-description, not the man&#39;s deeds. The empire described in Samuel–Kings is not archaeologically supported at that scale. Both findings matter.</p>
 <h3 data-num="2.4" id="s2-4"><span class="num">§2.4</span>The Second Temple period</h3><p>This period supplies the often-missing context between Malachi and Matthew, when many features distinctive to first-century Judaism took shape.</p>
-<table>
+<div class="rk-table" role="region" aria-label="Table: Date, Event" tabindex="0"><table>
 <thead>
 <tr>
 <th>Date</th>
@@ -918,38 +882,38 @@ hr+*{margin-top:0}
 </tr>
 </thead>
 <tbody><tr>
-<td>333–332 BCE</td>
-<td>Alexander conquers the Levant. Greek becomes the administrative and elite language.</td>
+<td data-label="Date">333–332 BCE</td>
+<td data-label="Event">Alexander conquers the Levant. Greek becomes the administrative and elite language.</td>
 </tr>
 <tr>
-<td>c. 250 BCE</td>
-<td><strong>Septuagint</strong> — Hebrew scriptures translated into Greek in Alexandria</td>
+<td data-label="Date">c. 250 BCE</td>
+<td data-label="Event"><strong>Septuagint</strong> — Hebrew scriptures translated into Greek in Alexandria</td>
 </tr>
 <tr>
-<td>175–164 BCE</td>
-<td>Antiochus IV Epiphanes; Temple desecrated; Hellenization crisis</td>
+<td data-label="Date">175–164 BCE</td>
+<td data-label="Event">Antiochus IV Epiphanes; Temple desecrated; Hellenization crisis</td>
 </tr>
 <tr>
-<td>167–160 BCE</td>
-<td><strong>Maccabean revolt</strong></td>
+<td data-label="Date">167–160 BCE</td>
+<td data-label="Event"><strong>Maccabean revolt</strong></td>
 </tr>
 <tr>
-<td>140–63 BCE</td>
-<td>Hasmonean independent Jewish state</td>
+<td data-label="Date">140–63 BCE</td>
+<td data-label="Event">Hasmonean independent Jewish state</td>
 </tr>
 <tr>
-<td>63 BCE</td>
-<td><strong>Pompey takes Jerusalem.</strong> Rome arrives.</td>
+<td data-label="Date">63 BCE</td>
+<td data-label="Event"><strong>Pompey takes Jerusalem.</strong> Rome arrives.</td>
 </tr>
 <tr>
-<td>37–4 BCE</td>
-<td>Herod the Great; massive Temple expansion</td>
+<td data-label="Date">37–4 BCE</td>
+<td data-label="Event">Herod the Great; massive Temple expansion</td>
 </tr>
 <tr>
-<td>6 CE</td>
-<td>Judea becomes a Roman province under direct rule</td>
+<td data-label="Date">6 CE</td>
+<td data-label="Event">Judea becomes a Roman province under direct rule</td>
 </tr>
-</tbody></table>
+</tbody></table></div>
 <p><strong>What formed in this window, and why it matters:</strong></p>
 <ul>
 <li><strong>Apocalyptic literature and the resurrection of the dead.</strong> Largely absent from earlier Hebrew scripture, fully developed by the first century. Daniel — the latest book in the Hebrew Bible, written during the Antiochus crisis around 165 BCE — is the pivot.</li>
@@ -964,70 +928,70 @@ hr+*{margin-top:0}
 <p><span class="mark doc">DOCUMENTED</span> That broader context does <strong>not</strong> make bodily resurrection simply a Greek “ghost” belief. Jewish resurrection traditions developed especially clearly in apocalyptic texts of the Hellenistic and Roman periods, while Greek and Roman afterlife traditions were diverse and often framed postmortem existence differently. Early Christianity emerged inside both environments: Jewish scripture and apocalyptic expectation supplied major conceptual roots, while the wider Greco-Roman world supplied a cultural setting in which visions, divine agents, and postmortem claims were intelligible categories.</p>
 <p><span class="mark inf">INFERENCE</span> The historical point is therefore contextual rather than reductive. Similarity of supernatural vocabulary or experience does not establish borrowing, and a shared cultural environment does not by itself explain a specific Christian claim. Any influence claim still requires chronology, contact/transmission, and meaningful correspondence.</p>
 <p><strong>Useful scholarship:</strong> C. D. Elledge on resurrection in early Judaism; Outi Lehtipuu on ancient resurrection and postmortem beliefs; scholarship on dreams and visions in early Jewish and Christian apocalyptic discourse.</p>
-<h3 data-num="2.5" id="s2-5"><span class="num">§2.5</span>Roman Judea into the Christian era</h3><table>
-<thead>
-<tr>
-<th>Date</th>
-<th>Event</th>
-<th>Evidence status</th>
+<h3 data-num="2.5" id="s2-5"><span class="num">§2.5</span>Roman Judea into the Christian era</h3><div class="rk-table stack" role="region" aria-label="Table: Date, Event, Evidence status" tabindex="0"><table role="table">
+<thead role="rowgroup">
+<tr role="row">
+<th role="columnheader">Date</th>
+<th role="columnheader">Event</th>
+<th role="columnheader">Evidence status</th>
 </tr>
 </thead>
-<tbody><tr>
-<td>26–36 CE</td>
-<td><strong>Pontius Pilate</strong>, prefect of Judea</td>
-<td>Firm — Pilate Stone, Caesarea, found 1961; Josephus; Philo</td>
+<tbody role="rowgroup"><tr role="row">
+<td role="cell" data-label="Date">26–36 CE</td>
+<td role="cell" data-label="Event"><strong>Pontius Pilate</strong>, prefect of Judea</td>
+<td role="cell" data-label="Evidence status">Firm — Pilate Stone, Caesarea, found 1961; Josephus; Philo</td>
 </tr>
-<tr>
-<td>c. 30–33 CE</td>
-<td>Crucifixion of Jesus</td>
-<td>Best-attested single fact about him</td>
+<tr role="row">
+<td role="cell" data-label="Date">c. 30–33 CE</td>
+<td role="cell" data-label="Event">Crucifixion of Jesus</td>
+<td role="cell" data-label="Evidence status">Best-attested single fact about him</td>
 </tr>
-<tr>
-<td>c. 50–60 CE</td>
-<td><strong>Paul&#39;s undisputed letters</strong> — earliest Christian writings</td>
-<td>Firm</td>
+<tr role="row">
+<td role="cell" data-label="Date">c. 50–60 CE</td>
+<td role="cell" data-label="Event"><strong>Paul&#39;s undisputed letters</strong> — earliest Christian writings</td>
+<td role="cell" data-label="Evidence status">Firm</td>
 </tr>
-<tr>
-<td>66–73 CE</td>
-<td>First Jewish Revolt</td>
-<td></td>
+<tr role="row">
+<td role="cell" data-label="Date">66–73 CE</td>
+<td role="cell" data-label="Event">First Jewish Revolt</td>
+<td role="cell" data-label="Evidence status"></td>
 </tr>
-<tr>
-<td><strong>70 CE</strong></td>
-<td><strong>Jerusalem sacked, Second Temple destroyed</strong></td>
-<td>Firm — Josephus, Arch of Titus</td>
+<tr role="row">
+<td role="cell" data-label="Date"><strong>70 CE</strong></td>
+<td role="cell" data-label="Event"><strong>Jerusalem sacked, Second Temple destroyed</strong></td>
+<td role="cell" data-label="Evidence status">Firm — Josephus, Arch of Titus</td>
 </tr>
-<tr>
-<td>c. 70–100 CE</td>
-<td>Gospels written</td>
-<td>Standard critical dating</td>
+<tr role="row">
+<td role="cell" data-label="Date">c. 70–100 CE</td>
+<td role="cell" data-label="Event">Gospels written</td>
+<td role="cell" data-label="Evidence status">Standard critical dating</td>
 </tr>
-<tr>
-<td>132–135 CE</td>
-<td>Bar Kokhba revolt; Jews barred from Jerusalem</td>
-<td>Firm</td>
+<tr role="row">
+<td role="cell" data-label="Date">132–135 CE</td>
+<td role="cell" data-label="Event">Bar Kokhba revolt; Jews barred from Jerusalem</td>
+<td role="cell" data-label="Evidence status">Firm</td>
 </tr>
-<tr>
-<td>313 CE</td>
-<td>Edict of Milan — Christianity legalized</td>
-<td>Firm</td>
+<tr role="row">
+<td role="cell" data-label="Date">313 CE</td>
+<td role="cell" data-label="Event">Edict of Milan — Christianity legalized</td>
+<td role="cell" data-label="Evidence status">Firm</td>
 </tr>
-<tr>
-<td>325 CE</td>
-<td><strong>Council of Nicaea</strong></td>
-<td>Firm — see §7</td>
+<tr role="row">
+<td role="cell" data-label="Date">325 CE</td>
+<td role="cell" data-label="Event"><strong>Council of Nicaea</strong></td>
+<td role="cell" data-label="Evidence status">Firm — see §7</td>
 </tr>
-<tr>
-<td>380 CE</td>
-<td>Edict of Thessalonica — Christianity becomes the state religion under Theodosius</td>
-<td>Firm</td>
+<tr role="row">
+<td role="cell" data-label="Date">380 CE</td>
+<td role="cell" data-label="Event">Edict of Thessalonica — Christianity becomes the state religion under Theodosius</td>
+<td role="cell" data-label="Evidence status">Firm</td>
 </tr>
-<tr>
-<td>393 / 397 CE</td>
-<td>Councils of Hippo and Carthage list canonical books</td>
-<td>Firm</td>
+<tr role="row">
+<td role="cell" data-label="Date">393 / 397 CE</td>
+<td role="cell" data-label="Event">Councils of Hippo and Carthage list canonical books</td>
+<td role="cell" data-label="Evidence status">Firm</td>
 </tr>
-</tbody></table>
+</tbody></table></div>
 <p><strong>70 CE is the hinge.</strong> Most critical scholars date Mark around 70 CE — some argue the late 60s — and Matthew, Luke, and John later. The dates remain debated, so do not say <em>every</em> Gospel is written after 70; say most critical dating places them around or after it. Judaism and Christianity both reorganize around its absence — rabbinic Judaism replacing sacrifice with study and prayer, Christianity reading the destruction as vindication. Any reading of the Gospels that ignores 70 CE is missing the environment they were composed in.</p>
 <h3 data-num="2.6" id="s2-6"><span class="num">§2.6</span>Pre-Exilic Folk Religion and the Asherah Evidence</h3><p>The standard picture of ancient Israelite religion as strictly monotheist from early on is contradicted by both the biblical text itself and material evidence from the 9th–8th centuries BCE. The evidence indicates that devotion to Asherah — whether understood as the goddess or as a cultic symbol associated with her — was an ordinary feature of popular Yahwism during the monarchy period, not an aberrant intrusion.</p>
 <p><strong>The inscriptions.</strong></p>
@@ -1098,7 +1062,7 @@ hr+*{margin-top:0}
 <p>That argument is stronger than the conspiracy version because it is true and cannot be refuted by a historian.</p>
 <div class="related"><b>Connects to</b><a href="master-notes.html#s5-2">Study §5.2 key structural facts</a><a href="#s7">§7 what Nicaea did not do</a></div>
 </section><section id="sec-6"><h2 data-num="6" id="s6"><span class="num">§6</span>Islam — Minimal Parallel Timeline</h2><p>For comparative work, the same evidentiary standards apply.</p>
-<table>
+<div class="rk-table" role="region" aria-label="Table: Date, Event" tabindex="0"><table>
 <thead>
 <tr>
 <th>Date</th>
@@ -1106,30 +1070,30 @@ hr+*{margin-top:0}
 </tr>
 </thead>
 <tbody><tr>
-<td>c. 570–632 CE</td>
-<td>Muhammad</td>
+<td data-label="Date">c. 570–632 CE</td>
+<td data-label="Event">Muhammad</td>
 </tr>
 <tr>
-<td>610 CE</td>
-<td>Traditional date of the first revelation</td>
+<td data-label="Date">610 CE</td>
+<td data-label="Event">Traditional date of the first revelation</td>
 </tr>
 <tr>
-<td>622 CE</td>
-<td>Hijra to Medina — year 1 of the Islamic calendar</td>
+<td data-label="Date">622 CE</td>
+<td data-label="Event">Hijra to Medina — year 1 of the Islamic calendar</td>
 </tr>
 <tr>
-<td>632 CE</td>
-<td>Death of Muhammad; succession crisis begins</td>
+<td data-label="Date">632 CE</td>
+<td data-label="Event">Death of Muhammad; succession crisis begins</td>
 </tr>
 <tr>
-<td>c. 650 CE</td>
-<td>Uthmanic recension — standardization is dated here <strong>by later Islamic tradition</strong>; early manuscripts support a very early textual tradition, but details of the recension and the suppression of variants remain debated</td>
+<td data-label="Date">c. 650 CE</td>
+<td data-label="Event">Uthmanic recension — standardization is dated here <strong>by later Islamic tradition</strong>; early manuscripts support a very early textual tradition, but details of the recension and the suppression of variants remain debated</td>
 </tr>
 <tr>
-<td>8th–9th c.</td>
-<td>Hadith collections compiled; <em>sira</em> biographies written</td>
+<td data-label="Date">8th–9th c.</td>
+<td data-label="Event">Hadith collections compiled; <em>sira</em> biographies written</td>
 </tr>
-</tbody></table>
+</tbody></table></div>
 <p><strong>Structural comparison worth holding:</strong> the Quran was standardized far closer to its origin than the New Testament was — a real point in its favor on transmission, and one Muslim apologists press hard. But the <em>sira</em> and hadith, which supply nearly all biographical detail about Muhammad, were written down one to two centuries later — a gap comparable to or worse than the Gospels&#39;. Ibn Ishaq&#39;s biography survives only in Ibn Hisham&#39;s later edition.</p>
 <p><strong>The symmetry to note:</strong> each tradition applies rigorous source criticism to the other&#39;s texts and not to its own. That observation is more useful than any individual fact.</p>
 
@@ -1178,145 +1142,145 @@ hr+*{margin-top:0}
 <p><strong>A textual question that requires no historical claim:</strong> Leviticus 19 puts &quot;love your neighbor as yourself&quot; nine verses from &quot;don&#39;t wear wool and linen together,&quot; with identical divine attribution. Nothing in the text marks the boundary. Every later scheme for sorting them comes from outside the text.</p>
 
 </section><section id="sec-12"><h2 data-num="12" id="s12"><span class="num">§12</span>The Patristic Era — Church Fathers, Church Mothers, and the Councils</h2><h3 data-num="12.1" id="s12-1"><span class="num">§12.1</span>The shared core</h3><p>Across the major early Christian writers — men and women, across the centuries this section covers — a real common core exists: Jesus central to salvation, his crucifixion and resurrection, the authority of Scripture, the importance of baptism, prayer/repentance/moral discipline, preserving apostolic teaching, martyrdom as a supreme act of faithfulness, ascetic and sexual discipline commonly (not universally) valued, the reality of resurrection and final judgment, and rejection of idolatry. Much of this crystallized in the Nicene Creed (325/381 CE — see §7). Everything below this line is where they didn&#39;t agree.</p>
-<h3 data-num="12.2" id="s12-2"><span class="num">§12.2</span>Chronological table</h3><table>
-<thead>
-<tr>
-<th>Period</th>
-<th>Historical context</th>
-<th>Key figures</th>
-<th>Main agreement</th>
-<th>Main disagreement</th>
+<h3 data-num="12.2" id="s12-2"><span class="num">§12.2</span>Chronological table</h3><div class="rk-table stack" role="region" aria-label="Table: Period, Historical context, Key figures, Main agreement, Main disagreement" tabindex="0"><table role="table">
+<thead role="rowgroup">
+<tr role="row">
+<th role="columnheader">Period</th>
+<th role="columnheader">Historical context</th>
+<th role="columnheader">Key figures</th>
+<th role="columnheader">Main agreement</th>
+<th role="columnheader">Main disagreement</th>
 </tr>
 </thead>
-<tbody><tr>
-<td>1st–2nd c.</td>
-<td>Christianity separating from Judaism; local, sporadic persecution (see §8); no fixed NT canon yet</td>
-<td>Clement of Rome, Ignatius of Antioch, Polycarp, Justin Martyr</td>
-<td>Jesus, resurrection, baptism, church unity</td>
-<td>Authority, relation to Judaism, martyrdom</td>
+<tbody role="rowgroup"><tr role="row">
+<td role="cell" data-label="Period">1st–2nd c.</td>
+<td role="cell" data-label="Historical context">Christianity separating from Judaism; local, sporadic persecution (see §8); no fixed NT canon yet</td>
+<td role="cell" data-label="Key figures">Clement of Rome, Ignatius of Antioch, Polycarp, Justin Martyr</td>
+<td role="cell" data-label="Main agreement">Jesus, resurrection, baptism, church unity</td>
+<td role="cell" data-label="Main disagreement">Authority, relation to Judaism, martyrdom</td>
 </tr>
-<tr>
-<td>3rd c.</td>
-<td>Expansion under continued sporadic persecution, empire-wide under Decius (250); theological schools develop</td>
-<td>Origen, Tertullian, Cyprian, Perpetua (martyred Carthage, 7 March 203)</td>
-<td>Scripture, Christ, church, salvation</td>
-<td>Allegory vs. literal reading, free will, rebaptism of heretics, restoration after apostasy</td>
+<tr role="row">
+<td role="cell" data-label="Period">3rd c.</td>
+<td role="cell" data-label="Historical context">Expansion under continued sporadic persecution, empire-wide under Decius (250); theological schools develop</td>
+<td role="cell" data-label="Key figures">Origen, Tertullian, Cyprian, Perpetua (martyred Carthage, 7 March 203)</td>
+<td role="cell" data-label="Main agreement">Scripture, Christ, church, salvation</td>
+<td role="cell" data-label="Main disagreement">Allegory vs. literal reading, free will, rebaptism of heretics, restoration after apostasy</td>
 </tr>
-<tr>
-<td>4th c.</td>
-<td>Legalized (313), then state religion (380); emperors convene councils to settle doctrine</td>
-<td>Athanasius, Basil the Great, Gregory of Nazianzus, Gregory of Nyssa, Macrina the Younger, Syncletica</td>
-<td>Christianity now needs formal, empire-wide doctrine</td>
-<td>The Trinity, Jesus&#39; full divinity (Arius vs. Athanasius — see §7), asceticism</td>
+<tr role="row">
+<td role="cell" data-label="Period">4th c.</td>
+<td role="cell" data-label="Historical context">Legalized (313), then state religion (380); emperors convene councils to settle doctrine</td>
+<td role="cell" data-label="Key figures">Athanasius, Basil the Great, Gregory of Nazianzus, Gregory of Nyssa, Macrina the Younger, Syncletica</td>
+<td role="cell" data-label="Main agreement">Christianity now needs formal, empire-wide doctrine</td>
+<td role="cell" data-label="Main disagreement">The Trinity, Jesus&#39; full divinity (Arius vs. Athanasius — see §7), asceticism</td>
 </tr>
-<tr>
-<td>5th c.</td>
-<td>Institutionally dominant in the Roman world; Christological formula fought over and formalized</td>
-<td>Augustine, Jerome, Cyril of Alexandria, Leo the Great, Melania the Elder, Paula</td>
-<td>Nicene Christianity as baseline</td>
-<td>Original sin, grace, predestination, Christ&#39;s two natures (Chalcedon, 451), authority (papal vs. conciliar)</td>
+<tr role="row">
+<td role="cell" data-label="Period">5th c.</td>
+<td role="cell" data-label="Historical context">Institutionally dominant in the Roman world; Christological formula fought over and formalized</td>
+<td role="cell" data-label="Key figures">Augustine, Jerome, Cyril of Alexandria, Leo the Great, Melania the Elder, Paula</td>
+<td role="cell" data-label="Main agreement">Nicene Christianity as baseline</td>
+<td role="cell" data-label="Main disagreement">Original sin, grace, predestination, Christ&#39;s two natures (Chalcedon, 451), authority (papal vs. conciliar)</td>
 </tr>
-<tr>
-<td>6th–8th c.</td>
-<td>East and West diverge institutionally; Byzantine Christianity consolidates, then fractures again over Christ&#39;s will</td>
-<td>Gregory the Great, Maximus the Confessor, John of Damascus</td>
-<td>Inherited Nicene/Chalcedonian Christianity</td>
-<td>Monothelitism (one will vs. two in Christ — see below), papal authority, then icons</td>
+<tr role="row">
+<td role="cell" data-label="Period">6th–8th c.</td>
+<td role="cell" data-label="Historical context">East and West diverge institutionally; Byzantine Christianity consolidates, then fractures again over Christ&#39;s will</td>
+<td role="cell" data-label="Key figures">Gregory the Great, Maximus the Confessor, John of Damascus</td>
+<td role="cell" data-label="Main agreement">Inherited Nicene/Chalcedonian Christianity</td>
+<td role="cell" data-label="Main disagreement">Monothelitism (one will vs. two in Christ — see below), papal authority, then icons</td>
 </tr>
-<tr>
-<td>1054</td>
-<td>East–West Schism</td>
-<td>—</td>
-<td>Sacramental, apostolic Christianity</td>
-<td>Papal authority, the <em>Filioque</em>, jurisdiction</td>
+<tr role="row">
+<td role="cell" data-label="Period">1054</td>
+<td role="cell" data-label="Historical context">East–West Schism</td>
+<td role="cell" data-label="Key figures">—</td>
+<td role="cell" data-label="Main agreement">Sacramental, apostolic Christianity</td>
+<td role="cell" data-label="Main disagreement">Papal authority, the <em>Filioque</em>, jurisdiction</td>
 </tr>
-<tr>
-<td>1200s</td>
-<td>Medieval Catholic scholasticism</td>
-<td>Thomas Aquinas <em>(medieval, not a Church Father — see §12.5)</em></td>
-<td>Christianity systematized through philosophy</td>
-<td>Faith/reason, sacramental theology, grace</td>
+<tr role="row">
+<td role="cell" data-label="Period">1200s</td>
+<td role="cell" data-label="Historical context">Medieval Catholic scholasticism</td>
+<td role="cell" data-label="Key figures">Thomas Aquinas <em>(medieval, not a Church Father — see §12.5)</em></td>
+<td role="cell" data-label="Main agreement">Christianity systematized through philosophy</td>
+<td role="cell" data-label="Main disagreement">Faith/reason, sacramental theology, grace</td>
 </tr>
-<tr>
-<td>1500s</td>
-<td>Protestant Reformation</td>
-<td>Luther, Calvin, Zwingli</td>
-<td>Jesus, Scripture, salvation</td>
-<td>Papal authority, justification, sacraments</td>
+<tr role="row">
+<td role="cell" data-label="Period">1500s</td>
+<td role="cell" data-label="Historical context">Protestant Reformation</td>
+<td role="cell" data-label="Key figures">Luther, Calvin, Zwingli</td>
+<td role="cell" data-label="Main agreement">Jesus, Scripture, salvation</td>
+<td role="cell" data-label="Main disagreement">Papal authority, justification, sacraments</td>
 </tr>
-<tr>
-<td>1600s–1900s</td>
-<td>Protestant denominations multiply</td>
-<td>Baptists, Methodists, Pentecostals, and others</td>
-<td>Basic Christian core (see §12.1)</td>
-<td>Baptism, predestination, spiritual gifts, women&#39;s ordination, salvation</td>
+<tr role="row">
+<td role="cell" data-label="Period">1600s–1900s</td>
+<td role="cell" data-label="Historical context">Protestant denominations multiply</td>
+<td role="cell" data-label="Key figures">Baptists, Methodists, Pentecostals, and others</td>
+<td role="cell" data-label="Main agreement">Basic Christian core (see §12.1)</td>
+<td role="cell" data-label="Main disagreement">Baptism, predestination, spiritual gifts, women&#39;s ordination, salvation</td>
 </tr>
-</tbody></table>
+</tbody></table></div>
 <p><strong>Maximus the Confessor&#39;s punishment is worth stating plainly, not softening.</strong> He opposed Monothelitism — the doctrine, briefly imperially favored, that Christ had only one will rather than two (divine and human) — and was tried, mutilated (tongue excised, right hand severed — most sources place this in 661), and exiled to Lazica in the Caucasus, where he died on 13 August 662. Monothelitism was itself condemned as heresy nineteen years later, at the Third Council of Constantinople (680–681). Sources: Pauline Allen and Bronwen Neil, <em>Maximus the Confessor and His Companions: Documents from Exile</em> (Oxford University Press, 2002) — a translation of the trial/exile documents themselves — and Andrew Louth, <em>Maximus the Confessor</em> (Routledge, 1996).</p>
-<h3 data-num="12.3" id="s12-3"><span class="num">§12.3</span>Where they actually disagreed</h3><table>
-<thead>
-<tr>
-<th>Issue</th>
-<th>One side</th>
-<th>Other side</th>
+<h3 data-num="12.3" id="s12-3"><span class="num">§12.3</span>Where they actually disagreed</h3><div class="rk-table stack" role="region" aria-label="Table: Issue, One side, Other side" tabindex="0"><table role="table">
+<thead role="rowgroup">
+<tr role="row">
+<th role="columnheader">Issue</th>
+<th role="columnheader">One side</th>
+<th role="columnheader">Other side</th>
 </tr>
 </thead>
-<tbody><tr>
-<td>Jesus&#39; divinity</td>
-<td>Arius: the Son was created, subordinate to the Father</td>
-<td>Athanasius: the Son is fully, eternally God — see §7</td>
+<tbody role="rowgroup"><tr role="row">
+<td role="cell" data-label="Issue">Jesus&#39; divinity</td>
+<td role="cell" data-label="One side">Arius: the Son was created, subordinate to the Father</td>
+<td role="cell" data-label="Other side">Athanasius: the Son is fully, eternally God — see §7</td>
 </tr>
-<tr>
-<td>Free will and grace</td>
-<td>Origen and most Eastern writers: substantial human freedom</td>
-<td>Augustine: the will is damaged by sin; grace is decisive</td>
+<tr role="row">
+<td role="cell" data-label="Issue">Free will and grace</td>
+<td role="cell" data-label="One side">Origen and most Eastern writers: substantial human freedom</td>
+<td role="cell" data-label="Other side">Augustine: the will is damaged by sin; grace is decisive</td>
 </tr>
-<tr>
-<td>Original sin</td>
-<td>Augustine: humanity inherits a profoundly fallen condition</td>
-<td>Eastern writers: inherited mortality/corruption emphasized over inherited guilt</td>
+<tr role="row">
+<td role="cell" data-label="Issue">Original sin</td>
+<td role="cell" data-label="One side">Augustine: humanity inherits a profoundly fallen condition</td>
+<td role="cell" data-label="Other side">Eastern writers: inherited mortality/corruption emphasized over inherited guilt</td>
 </tr>
-<tr>
-<td>Predestination</td>
-<td>Augustine: strong doctrine of election</td>
-<td>Most Eastern writers: markedly less deterministic</td>
+<tr role="row">
+<td role="cell" data-label="Issue">Predestination</td>
+<td role="cell" data-label="One side">Augustine: strong doctrine of election</td>
+<td role="cell" data-label="Other side">Most Eastern writers: markedly less deterministic</td>
 </tr>
-<tr>
-<td>Hell</td>
-<td>Augustine: eternal conscious punishment</td>
-<td>Origen: entertained eventual universal restoration; condemned at Constantinople II, 553</td>
+<tr role="row">
+<td role="cell" data-label="Issue">Hell</td>
+<td role="cell" data-label="One side">Augustine: eternal conscious punishment</td>
+<td role="cell" data-label="Other side">Origen: entertained eventual universal restoration; condemned at Constantinople II, 553</td>
 </tr>
-<tr>
-<td>Scripture interpretation</td>
-<td>Origen: allegorical/spiritual readings</td>
-<td>Antiochene writers (Chrysostom, Theodore of Mopsuestia): historical/literal emphasis — see caveat below</td>
+<tr role="row">
+<td role="cell" data-label="Issue">Scripture interpretation</td>
+<td role="cell" data-label="One side">Origen: allegorical/spiritual readings</td>
+<td role="cell" data-label="Other side">Antiochene writers (Chrysostom, Theodore of Mopsuestia): historical/literal emphasis — see caveat below</td>
 </tr>
-<tr>
-<td>Marriage vs. celibacy</td>
-<td>Jerome: celibacy clearly superior</td>
-<td>Others defended marriage more strongly</td>
+<tr role="row">
+<td role="cell" data-label="Issue">Marriage vs. celibacy</td>
+<td role="cell" data-label="One side">Jerome: celibacy clearly superior</td>
+<td role="cell" data-label="Other side">Others defended marriage more strongly</td>
 </tr>
-<tr>
-<td>Rebaptizing converts from heretical groups</td>
-<td>Cyprian of Carthage: rebaptize</td>
-<td>Stephen of Rome: earlier baptism can remain valid</td>
+<tr role="row">
+<td role="cell" data-label="Issue">Rebaptizing converts from heretical groups</td>
+<td role="cell" data-label="One side">Cyprian of Carthage: rebaptize</td>
+<td role="cell" data-label="Other side">Stephen of Rome: earlier baptism can remain valid</td>
 </tr>
-<tr>
-<td>Christ&#39;s one will or two</td>
-<td>Monothelite position (imperially favored, mid-600s)</td>
-<td>Maximus the Confessor: two wills — opposed Monothelitism, died for it, see §12.2</td>
+<tr role="row">
+<td role="cell" data-label="Issue">Christ&#39;s one will or two</td>
+<td role="cell" data-label="One side">Monothelite position (imperially favored, mid-600s)</td>
+<td role="cell" data-label="Other side">Maximus the Confessor: two wills — opposed Monothelitism, died for it, see §12.2</td>
 </tr>
-<tr>
-<td>Church authority</td>
-<td>Rome: increasing claim to universal jurisdiction</td>
-<td>Eastern bishops: resisted universal papal control</td>
+<tr role="row">
+<td role="cell" data-label="Issue">Church authority</td>
+<td role="cell" data-label="One side">Rome: increasing claim to universal jurisdiction</td>
+<td role="cell" data-label="Other side">Eastern bishops: resisted universal papal control</td>
 </tr>
-<tr>
-<td>Canon</td>
-<td>Some accepted Hebrews, Revelation, James, 2 Peter</td>
-<td>Others doubted or rejected them — see §5</td>
+<tr role="row">
+<td role="cell" data-label="Issue">Canon</td>
+<td role="cell" data-label="One side">Some accepted Hebrews, Revelation, James, 2 Peter</td>
+<td role="cell" data-label="Other side">Others doubted or rejected them — see §5</td>
 </tr>
-</tbody></table>
+</tbody></table></div>
 <p><strong>The Alexandrian/Antiochene split needs a caveat.</strong> <span class="camp">CRITICAL</span> Frances Young, <em>Biblical Exegesis and the Formation of Christian Culture</em> (Cambridge University Press, 1997), argues the standard &quot;Alexandria = allegory, Antioch = literal history&quot; textbook binary is overdrawn — the real methodological difference concerned how to read Scripture as unified narrative, not a clean allegorical-vs-literal split, and both schools used both techniques to some degree. This reframing has gained ground in patristics scholarship since the 1990s. The table row above is standard shorthand — not wrong, but it compresses a more nuanced dispute.</p>
 <p><strong>Marcion deserves more than &quot;rejected the Old Testament.&quot;</strong> He proposed, around the 140s CE, the first known fixed Christian scriptural canon: an edited Luke plus ten Pauline letters, no Old Testament. <span class="camp">CRITICAL, early 20th c.</span> Adolf von Harnack, <em>Marcion: Das Evangelium vom fremden Gott</em> (1921, expanded 1924), argued this forced the proto-orthodox church to define its own canon in direct response — a &quot;catalyst&quot; framing repeated in scholarship for decades. It is not settled. <span class="camp">CRITICAL, revisionist</span> John Barton directly disputes it, arguing (in <em>The Cambridge History of Christianity</em>) that &quot;Marcion was not responsible for the Christians adopting a New Testament; he was responsible for their retaining the Old Testament&quot; — that Marcion&#39;s canon provoked the church into keeping the Hebrew Bible more than it provoked the New Testament&#39;s formation. David Trobisch, <em>On the Origin of Christian Scripture</em> (2024), offers a third position: the canonical NT reads as a deliberate, centrally edited &quot;second edition&quot; responding to a Marcionite prototype. <strong>Treat Harnack&#39;s version as a real, historically influential thesis, not a settled fact</strong> ⟨INFERENCE — the three positions are documented; the &quot;not settled&quot; framing is Claude&#39;s synthesis of the disagreement between them⟩.</p>
 <h3 data-num="12.4" id="s12-4"><span class="num">§12.4</span>Why &quot;Church Father&quot; is itself a retrospective label</h3><p><span class="camp">CRITICAL, constructionist</span> Walter Bauer, <em>Orthodoxy and Heresy in Earliest Christianity</em> (German 1934; English translation, Fortress Press, 1971) argued the standard model — a stable original orthodoxy from which heresies later deviated — has the direction backwards in several regions. In Edessa, he held, the earliest Christianity present was Marcionite, with a recognizably &quot;orthodox&quot; form not arriving until roughly 300 CE; in Egypt, he argued a Gnostic form of Christianity was dominant before 200 CE. On this reading, Rome&#39;s version of Christianity won institutionally and later cast the alternatives as deviations from an orthodoxy that hadn&#39;t actually existed yet in those places. Bart Ehrman, <em>Lost Christianities: The Battle for Scripture and the Faiths We Never Knew</em> (2003), calls Bauer&#39;s book &quot;the most important book on the history of early Christianity written in the twentieth century&quot; and extends the same framework — competing early Christianities, with the winning &quot;proto-orthodox&quot; faction eventually suppressing and rewriting the others&#39; texts and history.</p>
