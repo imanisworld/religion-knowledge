@@ -93,3 +93,225 @@
   .reader-section-footer button {font-size:.77rem;padding:.55rem}
   .reader-footer-count {font-size:.72rem}
 }
+
+
+/* Laptop reading workspace: outer navigation stays in view. Only the active
+   passage scrolls when it exceeds the available height. No text is clipped. */
+.reader-about {
+  max-width:var(--measure);
+  margin:.35rem 0 .6rem;
+  flex-shrink:0;
+  border-bottom:1px solid var(--rule);
+}
+.reader-about > summary {
+  width:fit-content;
+  color:var(--accent);
+  padding:.3rem 0;
+  font-size:.79rem;
+  font-weight:650;
+  cursor:pointer;
+}
+.reader-about .howto {
+  padding:.65rem .85rem;
+  margin:.25rem 0 .55rem;
+  box-shadow:none;
+}
+.reader-about[open] .howto {
+  max-height:min(45dvh,350px);
+  overflow-y:auto;
+}
+.reader-paginated main > section[hidden] {display:none!important}
+.reader-paginated .reader-section-nav,
+.reader-paginated .reader-section-footer {
+  min-width:0;
+}
+
+/* The reader's default is light. Offer a softer charcoal dark alternative:
+   distinct paper/ground surfaces, near-white body text and legible controls. */
+:root[data-theme=dark] body.rk-reader-page {
+  color-scheme:dark;
+  --ground:#25262A;
+  --paper:#32343A;
+  --ink:#FBFBFD;
+  --ink2:#E4E6EB;
+  --ink3:#C5C9D2;
+  --rule:#676B75;
+  --accent:#FFC0CF;
+  --accent-soft:#493740;
+  --toolbar-bg:rgba(37,38,42,.97);
+  --rail-bg:#2B2D32;
+  --rail-deep:#24262B;
+  --rail-rule:#686A74;
+  --rail-text:#FCFCFD;
+  --rail-muted:#DBDDE3;
+  --rail-hover:#41424A;
+}
+:root[data-theme=dark] body.rk-reader-page #rail {
+  background:linear-gradient(180deg,var(--rail-bg),var(--rail-deep));
+  border-right-color:var(--rail-rule);
+}
+:root[data-theme=dark] body.rk-reader-page #toc a {
+  color:#E5E7ED;
+}
+:root[data-theme=dark] body.rk-reader-page #toc a.lvl2,
+:root[data-theme=dark] body.rk-reader-page #toc a.here {
+  color:#FFFFFF;
+}
+:root[data-theme=dark] body.rk-reader-page #toc a.lvl4 {
+  color:#D9DCE4;
+}
+:root[data-theme=dark] body.rk-reader-page #toc a.here {
+  background:#5A3F4A;
+}
+:root[data-theme=dark] body.rk-reader-page #search {
+  background:#32343A;
+  border-color:#777B84;
+  color:#FFFFFF;
+}
+:root[data-theme=dark] body.rk-reader-page #search::placeholder {
+  color:#D1D4DA;
+}
+:root[data-theme=dark] body.rk-reader-page .reader-section-controls select,
+:root[data-theme=dark] body.rk-reader-page .reader-section-nav button,
+:root[data-theme=dark] body.rk-reader-page .reader-section-footer button {
+  background:#32343A;
+  color:#FBFBFD;
+  border-color:#787B84;
+}
+:root[data-theme=dark] body.rk-reader-page .reader-section-nav,
+:root[data-theme=dark] body.rk-reader-page .reader-section-footer {
+  background:#32343A;
+}
+:root[data-theme=dark] body.rk-reader-page .tbtn.on {
+  background:#664352;
+  color:#FFFFFF;
+  border-color:#AF8394;
+}
+:root[data-theme=dark] body.rk-reader-page :is(#tools,.reader-section-nav,.reader-section-footer,.reader-about,.audit) {
+  color:var(--ink);
+}
+
+@media(min-width:900px) and (min-height:640px){
+  html.reader-paginated,
+  html.reader-paginated body.rk-reader-page {
+    overflow:hidden;
+  }
+  html.reader-paginated body.rk-reader-page {
+    height:100dvh;
+  }
+  html.reader-paginated body.rk-reader-page main {
+    height:calc(100dvh - var(--rk-nav-h,56px));
+    overflow:hidden;
+    padding-top:0;
+    padding-bottom:.55rem;
+    display:flex;
+    flex-direction:column;
+    min-height:0;
+  }
+  .reader-paginated main > :is(.masthead,#tools,.reader-section-nav,.reader-section-footer,.reader-about,#nores) {
+    flex-shrink:0;
+  }
+  .reader-paginated main > .masthead {
+    padding:.45rem 0 .55rem;
+    margin:0 0 .25rem;
+    border-bottom:1px solid var(--rule);
+  }
+  .reader-paginated .masthead .reader-context {
+    margin-bottom:.35rem;
+  }
+  .reader-paginated .masthead h1 {
+    font-size:clamp(1.45rem,2.1vw,1.85rem);
+    line-height:1.13;
+    margin:0 0 .35rem;
+    max-width:none;
+  }
+  .reader-paginated .masthead .lens {
+    display:none;
+  }
+  .reader-paginated .masthead .meta {
+    font-size:.75rem;
+    gap:.2rem .8rem;
+    line-height:1.4;
+  }
+  .reader-paginated main > #tools {
+    position:static;
+    margin:0;
+    padding:.32rem 0;
+    min-height:0;
+    gap:.3rem;
+    background:transparent;
+    border-bottom:1px solid var(--rule);
+    overflow-x:auto;
+    flex-wrap:nowrap;
+    scrollbar-width:thin;
+    box-shadow:none;
+  }
+  .reader-paginated #tools .tbtn {
+    font-size:.74rem;
+    padding:.37rem .63rem;
+    white-space:nowrap;
+  }
+  .reader-paginated .reader-about { margin:.2rem 0 }
+  .reader-paginated .reader-section-nav {
+    margin:.35rem 0 .6rem;
+    padding:.6rem .85rem .55rem;
+    scroll-margin-top:0;
+  }
+  .reader-paginated .reader-section-title {
+    margin-bottom:.3rem;
+  }
+  .reader-paginated .reader-section-controls {
+    align-items:center;
+    grid-template-columns:minmax(0,1fr) auto auto;
+    gap:.4rem;
+  }
+  .reader-paginated .reader-section-controls label {display:none}
+  .reader-paginated .reader-section-controls :is(select,button) {
+    min-height:36px;
+    padding:.36rem .55rem;
+  }
+  .reader-paginated .reader-section-status {
+    font-size:.72rem;
+    line-height:1.3;
+    margin:.35rem 0 0;
+  }
+  .reader-paginated main > section:not([hidden]) {
+    flex:1 1 0;
+    min-height:0;
+    width:100%;
+    max-height:none;
+    max-width:var(--measure);
+    overflow-y:auto;
+    overflow-x:hidden;
+    overscroll-behavior:contain;
+    scrollbar-gutter:stable;
+    padding:.4rem 1rem 1.25rem 0;
+    margin:0;
+    border-block:1px solid var(--rule);
+    scroll-padding-top:.6rem;
+  }
+  .reader-paginated main > section > :is(h1,h2,h3):first-child {
+    margin:.25rem 0 .85rem;
+    padding:0;
+    border-top:0;
+  }
+  .reader-paginated .reader-section-footer {
+    width:100%;
+    padding:.4rem .55rem;
+    margin:.35rem 0 0;
+  }
+  .reader-paginated .reader-section-footer button {min-height:35px;padding:.32rem .55rem}
+  .reader-paginated main > #nores {padding:.4rem 0}
+  .reader-paginated .reader-section-footer .reader-footer-count {font-size:.72rem}
+  html.focus-reading.reader-paginated main > :is(.reader-section-nav,.reader-section-footer,.reader-about) {
+    width:100%;
+    max-width:var(--measure);
+    margin-left:auto;
+    margin-right:auto;
+  }
+}
+
+@media(max-width:899px), (max-height:639px){
+  /* Conventional page flow on phones, short laptop windows and at high zoom. */
+  .reader-paginated main > section:not([hidden]) {overflow:visible}
+}
