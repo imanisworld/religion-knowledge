@@ -4,7 +4,7 @@
 **Repo:** `imanisworld/religion-knowledge`  
 **Research branch:** `research/prophecy-evidence-20261020`  
 **Open PR:** [#202](https://github.com/imanisworld/religion-knowledge/pull/202)  
-**Release rule:** Keep the PR open until scope discovery, internal source checks and one external independent research review are complete.
+**Release rule:** The owner accepted publication of the bounded 65-case edition with its unresolved source limitations clearly disclosed and waived outside specialist review for this edition. Keep the PR open until the consolidation freeze is addressed, latest-main integration and CI pass, and explicit merge/deploy approval is recorded. Wider discovery and critical-edition/source checks remain open follow-up research.
 
 ## Counts and meaning
 
@@ -67,11 +67,11 @@ The original **50-location supplemental seed has been completely mapped**, but a
 
 **Separate counts as of this checkpoint:** 65 canonical research cases; 50/50 original seed loci mapped; **21 provisional new leads**, none promoted as complete; 54 later canonical records await detailed source review. The wider inventory search is ongoing and additional omissions may be found.
 
-## Work remaining before independent review
+## Open research work and publication prerequisites
 
 1. Search systematically for omitted claims outside the **original fifty-locus seed** and define the inclusion/deduplication rules in an inventory methodology.
 2. Review **54** cases against Hebrew/Aramaic/Greek primary passages, manuscript variants, real scholarly publications, chronological and independent historical sources; revisit the earlier eleven if new evidence requires correction.
 3. Check reader, Search, mobile table labels, light/dark readability and current-main branch integration.
-4. Send one *complete* independent review packet after the declared set has been researched; reconcile reviewer corrections, then obtain the owner's merge decision.
+4. Outside specialist review may be sought later but is waived as a prerequisite for this bounded edition. Before publication, preserve the 11 partly unconfirmed citations and incomplete 21-lead inventory warnings; obtain a narrow freeze exception, pass final CI on the integration commit, and receive explicit merge/deploy approval.
 
 **Files:** [records.json](records.json) · [inventory.json](inventory.json) · [index.md](index.md) · [REVIEW.md](REVIEW.md) · [TODO.md](TODO.md).
