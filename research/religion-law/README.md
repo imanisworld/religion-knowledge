@@ -21,14 +21,15 @@ A law's text, its historical cause, and its current enforceability are separate 
 - `methodology.md` — coding and evidence rules
 - `schema.json` — machine-readable record schema
 - `records/us-federal-starter.json` — normalized federal comparison records
-- `records/us-state-starter.json` — normalized state records promoted from verified state profiles
-- `records/us-md-maryland.json` — earlier Maryland structured baseline pending migration to the common schema
+- `records/us-state-starter.json` — normalized state records promoted from verified state profiles (59 classifiable entries)
+- `records/pending-causation/us-tx-penal-21-06.json` — retained 1973 Texas §21.06 legal facts and disputed causal classification; intentionally excluded from A–E comparison pending §21.06-specific source passage
+- `records/us-md-maryland.json` — earlier Maryland profile, retained for provenance only; its provisions were migrated into `us-state-starter.json` on 20 October 2026 and the reader no longer loads it
 - `records/policy-influence.json` — sourced U.S. policy-influence overview; advocacy/public opinion is kept separate from legal causation
 - `records/global-legal-structure.json` — sourced U.S.-vs.-global structural comparison rows
 - `records/institutional-practice.json` — sourced records separating formal law from official practice, representation patterns, and accommodation frameworks
 - `overview-records.schema.json` — schema for the policy, global, and institutional-practice overview datasets
 - `context/state-context.schema.json` — schema for state religious-demographic and institutional-power context
-- `context/us-state-context.json` — 50-state context records; demographic/power coverage is tracked independently from legal coverage
+- `context/us-state-context.json` — 50 state context slots (15 coded so far); demographic/power coverage is tracked independently from legal coverage
 - `state-context-methodology.md` — sourcing, non-inference, denominator, and refresh rules for state context
 - `us-constitutional-federal.md` — verified initial U.S. module
 - `us-state-law.md` — state-law research queue and controls
@@ -37,7 +38,7 @@ A law's text, its historical cause, and its current enforceability are separate 
 
 ## Status
 
-**Coverage snapshot, 20 October 2026:** All 50 states have a first-pass profile and eight priority states have expanded profiles. The normalized state-law dataset has 39 records across 12 states (38 states have no normalized state-law record yet). The separate state context dataset has 50 state slots, but demographic and officeholder details have been populated for only 15; 35 remain `not_coded`. Comparative non-U.S. work remains a research framework rather than a full set of country profiles.
+**Coverage snapshot, 20 October 2026:** All 50 states have a first-pass profile and eight priority states have expanded profiles. The normalized state-law dataset has **59 records (source-classified) across 16 states**, with **1 additional Texas §21.06 causation file held unclassified** (34 states have no normalized state-law record yet); all eight expanded priority states are now represented. The separate state context dataset has 50 state slots, but demographic and officeholder details have been populated for only 15; 35 remain `not_coded`. Comparative non-U.S. work remains a research framework rather than a full set of country profiles.
 
 This module is published on `main`. Individual state and comparative records remain research-scoped according to their recorded verification status; publication does not mean the database is complete.
 

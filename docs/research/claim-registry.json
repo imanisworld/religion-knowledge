@@ -4819,5 +4819,89 @@
       }
     ],
     "notes": "Staged source draft; not on public site. Specific infectious disease, not claim that all illness has microbial origins."
+  },
+  {
+    "claim_id": "RL-TX2106-001",
+    "claim_text": "The located 1973 enactment record for Texas Penal Code §21.06 shows a professional Model Penal Code codification and a negotiated agreement among the State Bar, prosecutors' and defense lawyers' associations, with no identifiable religious advocacy; the religious connection is a remote inheritance through sodomy-law terminology. Verdict: mixed / predominantly secular.",
+    "claim_type": "causation_influence",
+    "status": "verified_with_qualification",
+    "confidence": "medium",
+    "primary_sources": [
+      {
+        "source": "Texas Legislative Reference Library, Penal Code legislative trail",
+        "locator": "S.B. 34, 63rd Leg. (1973) bill-file notes and three-association agreement; https://lrl.texas.gov/collections/PenalCodeTrail.cfm"
+      },
+      {
+        "source": "Texas Legislative Reference Library, Penal Code revision timeline",
+        "locator": "1965 State Bar committee, Page Keeton, MPC foundation, HB 419 (1971), SB 34 (1973); https://lrl.texas.gov/collections/PenalCodeTimeline.cfm"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "AMA Journal of Ethics, \"Decriminalization of Sodomy in the United States\" (Nov. 2014)",
+        "locator": "https://journalofethics.ama-assn.org/article/decriminalization-sodomy-united-states/2014-11",
+        "stance": "supports (Texas among states that decriminalized only opposite-sex sodomy; religious protest against decriminalization noted nationally)"
+      },
+      {
+        "citation": "Ross, Jecoa L., UTEP MA thesis (2016), unpublished, not peer-reviewed",
+        "locator": "https://scholarworks.utep.edu/cgi/viewcontent.cgi?article=1741&context=open_etd",
+        "stance": "supports with qualification (textual lineage from 1943 statute; term religiously rooted)"
+      }
+    ],
+    "counterargument": "The introduced version and Senate committee report of S.B. 34 are missing from the bill file, so religious testimony cannot be excluded; the cultural environment was pervasively religious, and retaining a same-sex-only offense may reflect religious moral views held by participants even without organized lobbying.",
+    "last_verified": "2026-10-20",
+    "reviewer": "religion-law-closeout-2026-10-20",
+    "public_locations": [
+      {
+        "file": "research/religion-law/us-states/texas.md",
+        "anchor": "#historical-causation-of-2106"
+      },
+      {
+        "file": "research/religion-law/records/us-state-starter.json",
+        "anchor": "US-TX-PENAL-21-06"
+      }
+    ]
+  },
+  {
+    "claim_id": "RL-ME3203-001",
+    "claim_text": "Maine's 1959 Sunday motor-vehicle sales ban (S.P. 381 / L.D. 1107, now 17 M.R.S. §3203) was requested by the Maine Automobile Dealers Association mainly for competitive and business reasons, with explicit Lord's Day framing in the House debate. Verdict: mixed, industry-driven.",
+    "claim_type": "causation_influence",
+    "status": "verified_with_qualification",
+    "confidence": "medium",
+    "primary_sources": [
+      {
+        "source": "Maine Legislative Record, Senate, May 5, 1959",
+        "locator": "pp. 1363–1365 (Sens. Dow and Hillman); https://lldc.mainelegislature.org/Open/LegRec/_99/Senate/LegRec_1959-05-05_SP_p1359-1367.pdf"
+      },
+      {
+        "source": "Maine Legislative Record, House, May 6, 1959",
+        "locator": "p. 1420 (Mr. Good of Sebago; Rep. Dumais; 77% questionnaire; 9–1 committee vote); https://lldc.mainelegislature.org/Open/LegRec/_99/House/LegRec_1959-05-06_HP_p1419-1453.pdf"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Kittery Motorcycle, Inc. v. Rowe, 201 F. Supp. 2d 189 (D. Me. 2002)",
+        "locator": "Review of 1959 legislative record (not re-fetched 2026-10-20; source blocked automated access)",
+        "stance": "supports (dealers principally concerned with competitive effects)"
+      },
+      {
+        "citation": "17 M.R.S. ch. 105, subch. 1 \"Holy Days\" and §3201 Lord's Day definition",
+        "locator": "https://legislature.maine.gov/legis/statutes/17/title17ch105sec0.html",
+        "stance": "qualifies (religious statutory architecture)"
+      }
+    ],
+    "counterargument": "The dealers themselves described the request as permission to observe the Lord's Day, and the rule sits in the Holy Days subchapter, so the religious framing may have been more than rhetorical; conversely, opponents called the bill discriminatory protectionism.",
+    "last_verified": "2026-10-20",
+    "reviewer": "religion-law-closeout-2026-10-20",
+    "public_locations": [
+      {
+        "file": "research/religion-law/us-states/maine.md",
+        "anchor": "#17-mrs-3203--sunday-motor-vehicle-sales"
+      },
+      {
+        "file": "research/religion-law/records/us-state-starter.json",
+        "anchor": "US-ME-17-3203"
+      }
+    ]
   }
 ]
