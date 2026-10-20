@@ -43,6 +43,8 @@ test('no narrow museum record can be used to assert earliest religion, precise c
   const cross = readClaim('phase7-transmission/claim_aksum_christian_cross_bm_coin.json');
   assert.equal(coin.sources[0].verification_method, 'SEARCH_SNIPPET');
   assert.equal(cross.sources[0].verification_method, 'SEARCH_SNIPPET');
+  assert.equal(coin.date_semantics, 'EVENT_DATE', 'Coin date is not first evidence for a religion');
+  assert.equal(cross.date_semantics, 'EVENT_DATE', 'Cross-bearing coin date is not a conversion start date');
   assert.deepEqual(cross.date, { earliest: 340, latest: 540, precision: 'CENTURY' });
   assert.match(cross.statement, /anonymous/i);
   assert.match(coin.statement, /without by itself identifying/i);
