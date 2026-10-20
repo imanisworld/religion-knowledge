@@ -84,5 +84,7 @@ test('subject pages connect in both directions without asserting historical infl
   assert.ok(patterns.includes('href="gender-over-time.html#method"'),
     'Historical patterns should lead readers back to the gender research');
   assert.match(catalog,/Similar gods or stories may have developed separately/);
-  assert.match(catalog,/View research file/);
+  assert.match(catalog,/Read research notes/);
+  assert.doesNotMatch(catalog,/github\.com|View research file/);
+  assert.match(catalog,/href="cited-persons.html#person-/);
 });
