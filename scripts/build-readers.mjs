@@ -458,10 +458,22 @@ function wrapTables(html) {
         return label ? `<td data-label="${label}"` : '<td';
       }) + '</tr>';
     });
-    const cls = labels.length >= 3 ? 'rk-table stack' : 'rk-table';
+    const stack = labels.length >= 3;
     const name = labels.length ? `Table: ${labels.join(', ')}` : 'Table';
-    return `<div class="${cls}" role="region" aria-label="${name}" tabindex="0"><table>${labelled}</table></div>`;
+    // Stacked tables are display:block on phones, which drops native table
+    // semantics in some browsers; explicit roles keep them announced as tables.
+    const body = stack ? addTableRoles(labelled) : labelled;
+    const open = stack ? '<table role="table">' : '<table>';
+    return `<div class="${stack ? 'rk-table stack' : 'rk-table'}" role="region" aria-label="${name}" tabindex="0">${open}${body}</table></div>`;
   });
+}
+
+function addTableRoles(inner) {
+  return inner
+    .replace(/<(thead|tbody)>/g, '<$1 role="rowgroup">')
+    .replace(/<tr(?=[\s>])/g, '<tr role="row"')
+    .replace(/<th(?=[\s>])/g, '<th role="columnheader"')
+    .replace(/<td(?=[\s>])/g, '<td role="cell"');
 }
 
 // ── AUDIT block builder ───────────────────────────────────────────────────────

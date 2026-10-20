@@ -504,6 +504,8 @@ body.rk-with-sitebar{
     background:transparent;
   }
   .rk-with-sitebar .rk-table.stack caption{padding:0 0 .7rem;border:0}
+  /* The sideways-scroll hint does not apply once the table stacks. */
+  .rk-with-sitebar .table-hint{display:none}
   .rk-with-sitebar .rk-table.stack thead{
     position:absolute;width:1px;height:1px;overflow:hidden;
     clip:rect(0 0 0 0);clip-path:inset(50%);white-space:nowrap;
