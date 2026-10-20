@@ -429,3 +429,57 @@ if ! grep -Fq 'data-reader-phone-smoke="pass"' /tmp/religion-reader-phone-dom.ht
   exit 1
 fi
 printf 'READER_PHONE_SMOKE=PASS viewport=390x844 rail=0 navigation=visible\\n'
+
+
+# Representatives of the other page layouts use separate CSS from the
+# generated readers. Catch future navigation and viewport regressions there.
+python3 - <<'PY'
+from pathlib import Path
+pages = (
+    'gender-over-time.html',
+    'patterns-synthesis.html',
+    'religion-law.html',
+    'search.html',
+)
+probe = """<script>
+(() => {
+  const width = document.documentElement.clientWidth;
+  const main = document.querySelector('main')?.getBoundingClientRect();
+  const brand = document.querySelector('.rk-brand')?.getBoundingClientRect();
+  const links = [...document.querySelectorAll('.rk-global-nav a')]
+    .map(link => link.getBoundingClientRect());
+  const pass = width <= 720 && main && main.left >= -1 &&
+    main.right <= width + 2 && brand && links.length === 4 &&
+    links.every(rect => rect.width > 0 && rect.left >= -1 &&
+      rect.right <= width + 2 && rect.top >= brand.bottom - 1);
+  document.body.dataset.siteMobileSmoke = pass ? 'pass' : 'fail';
+  document.body.dataset.siteMobileDetail = JSON.stringify({
+    width, mainLeft: main?.left, mainRight: main?.right,
+    brandBottom: brand?.bottom, links: links.map(r => [r.left, r.right, r.top])
+  });
+})();
+</script>"""
+for page in pages:
+    source = Path(page).read_text(encoding='utf-8')
+    if '</body>' not in source:
+        raise SystemExit(f'{page} is missing </body>')
+    Path(page.replace('.html', '.mobile-browser-smoke.html')).write_text(
+        source.replace('</body>', probe + '\n</body>'), encoding='utf-8'
+    )
+PY
+
+for page in gender-over-time patterns-synthesis religion-law search; do
+  "$BROWSER" \
+    --headless --disable-gpu --no-sandbox --hide-scrollbars \
+    --window-size=390,844 --virtual-time-budget=3500 --dump-dom \
+    "http://127.0.0.1:8765/$page.mobile-browser-smoke.html" \
+    >"/tmp/religion-$page-mobile-dom.html" \
+    2>"/tmp/religion-$page-mobile-browser.log"
+  if ! grep -Fq 'data-site-mobile-smoke="pass"' "/tmp/religion-$page-mobile-dom.html"; then
+    echo "Mobile site navigation/main layout failed: $page" >&2
+    grep -o 'data-site-mobile-detail="[^"]*"' "/tmp/religion-$page-mobile-dom.html" | head -1 >&2 || true
+    exit 1
+  fi
+  rm -f "$page.mobile-browser-smoke.html"
+done
+printf 'SITE_MOBILE_LAYOUT_SMOKE=PASS pages=gender-over-time,patterns-synthesis,religion-law,search\n'
