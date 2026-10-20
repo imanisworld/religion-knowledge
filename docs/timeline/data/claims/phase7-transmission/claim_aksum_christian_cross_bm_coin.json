@@ -1,0 +1,48 @@
+{
+  "related_observation_id": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "scholarly_disagreement": null,
+  "interpretations": [],
+  "status": "draft",
+  "id": "claim_aksum_christian_cross_bm_coin",
+  "subject_type": "Tradition",
+  "subject_id": "trad_aksumite_christianity",
+  "statement": "The British Museum catalogs an Aksumite copper-alloy coin (1989,0518.87) with a Greek cross on the reverse and an anonymous ruler, giving a broad circa 340–540 CE production interval; the iconographic evidence supports Christian symbolism in Aksumite minting but does not independently date Ezana's own conversion.",
+  "claim_tier": "OBSERVATION",
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": 340,
+    "latest": 540,
+    "precision": "CENTURY"
+  },
+  "region": [
+    "Horn of Africa"
+  ],
+  "evidence_types": [
+    "MATERIAL_CULTURE"
+  ],
+  "confidence": "HIGH",
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "British Museum Collections Online, anonymous Aksumite coin, 1989,0518.87, https://www.britishmuseum.org/collection/object/C_1989-0518-87",
+      "author": "British Museum",
+      "year": null,
+      "venue": "British Museum Collections Online",
+      "contemporary_with_event": false,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT source-specific web review",
+      "verified_date": "2026-10-20",
+      "verification_method": "SEARCH_SNIPPET",
+      "access_note": "Indexed museum record names the Greek cross and approximate date 340–540; direct page returned HTTP 403. Artifact and coin-series dating not checked from primary numismatic edition."
+    }
+  ],
+  "does_not_demonstrate": [
+    "This broad object date cannot fix Ezana's conversion year.",
+    "The anonymous coin should not be misattributed to Ezana.",
+    "Christian royal iconography does not establish exclusive Christian practice throughout Aksum."
+  ],
+  "adversarial_counter": "The broad 200-year museum date and anonymous attribution limit the chronological conclusion to use of a cross motif sometime within the cataloged period.",
+  "notes": "Metropolitan Museum's contextual essay 'African Christianity in Ethiopia' independently interprets cross-bearing Aksumite coinage but is not a substitute for the specific museum inventory record."
+}
