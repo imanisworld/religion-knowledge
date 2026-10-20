@@ -145,3 +145,7 @@
 - Snow: https://johnsnow.matrix.msu.edu/broadstpump/snow-the-pump-handle/
 - Koch: https://www.cdc.gov/mmwr/preview/mmwrhtml/00000222.htm
 - Mark 9:18 and Num 16:46, ESV: https://biblia.com/bible/esv/mark/9/18 ; https://www.esv.org/verses/Numbers+16:46–50
+
+## Subsequent source resolution — 20 October 2026
+
+The pre-review finding above accurately records the earlier retrieval failure, but the source is **now accessible**: [Perseus, Francis Adams translation, *On the Sacred Disease* §1](https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0627.tlg027.perseus-eng2/), paragraph beginning “All these they enjoin”; the [MIT Classics copy](https://classics.mit.edu/Hippocrates/sacred.html) contains the same translation. The text explicitly reports practitioners taking credit for recovery and using gods to deflect blame for deaths. `IL-HIPBLAME-001` has consequently advanced from `needs_qualification` to `verified_with_qualification`. This direct English-text confirmation does not prove the practice was common or establish the writer's personal identity. It is also not the independent external review.
