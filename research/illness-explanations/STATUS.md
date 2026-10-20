@@ -43,12 +43,11 @@
 
 | Priority | Work | Why blocked |
 |---|---|---|
-| 1 | **External independent claim review** of 13 entries | No independent reviewer’s findings yet; check texts, interpretation, stated confidence |
-| 2 | **Original-language audit** for contested terms and passages | No full Hebrew/Greek philological audit has been performed |
-| 3 | **Verify paywalled chapters** (Scurlock, Lawrence, Cambridge medicine chapter) and the primary Mari editions; reconcile Feder's distinct 2017/2019 arguments | Abstract-level or secondary quotation is an evidential limit |
-| 4 | **Reconcile open PR #212 registry edits and any changes to main** | Conflict confirmed and procedure rehearsed; see §3a. Re-check counts at merge time |
-| 5 | **Public reader/search integration after freeze lifted** | Existing corpus/registry CI already passed, but the new module is not registered. Re-run after integration, against latest `main`, and avoid #202 shared-generator conflicts |
-| 6 | **Explicit review, merge, publication, and deploy approvals** | Draft PR is noncanonical; main alone is citable/deployable |
+| 1 | **Preserve accepted research limitations** | Outside specialist review waived for this bounded edition; mark Hebrew/Greek/Akkadian, paywalled chapter, and Mari tablet checks as unfinished, not verified |
+| 2 | **Reconcile the claim registry against current `main`** | Do not merge held #212 just to unblock #213. Whichever PR merges later must preserve all distinct claim IDs (§3a) |
+| 3 | **Reader, Search and navigation integration** | The illness module is still a research-only draft, absent from public Library and Search; preserve #202's reader and typography changes |
+| 4 | **Scoped freeze exception and release approval** | The consolidation freeze remains in effect; owner acceptance of scholarly limitations does not itself resolve site-readiness and release gates |
+| 5 | **Final integrated testing** | Run registry validator, complete corpus/site tests, and phone/laptop layout checks on the final candidate commit before merge/deploy |
 
 ## 3a. Registry reconciliation with PR #212
 
@@ -56,7 +55,7 @@ Verified on 20 October 2026 against `main` at `ab55625` and PR #212 at `6b096b1`
 
 - `main` has **126** registry entries. PR #212 adds **9** (`CP-ARCHER-001`, `CP-BARTON-001`, `CP-BARTON-002`, `CP-BRIGGS-001`, `CP-SCHREIN-001`, `LC-NPPNAME-001`, `LC-SANDERS-001`, `LC-SUPERSESS-001`, `LC-TRIPART-001`). This branch adds **13** (`IL-*`). **No IDs overlap**, and neither branch alters any existing entry.
 - Both branches append after the same final entry, so whichever merges second gets a **certain textual conflict in `docs/research/claim-registry.json`**. It is the only conflicting file: root `STATUS.md` merges automatically, and PR #212 merges cleanly into `main` by itself.
-- **Expected order:** PR #212 first, because this branch is held for independent review and the research freeze.
+- **Current recommendation:** PR #212 remains a draft because its six proposed Cited Persons promotions lack required primary-source verification. It need **not** merge before #213. If #213 releases first, reconcile #212 with the 13 `IL-*` IDs later; do not advance its unverified person claims as a dependency of this release.
 
 **Resolution procedure (for whichever PR merges second):**
 
@@ -75,11 +74,11 @@ This procedure was rehearsed in a scratch worktree: the result was 148 entries, 
 
 - **Done:** an internal English-translation source check (including Hippocratic §1), an adversarial pre-review, a ChatGPT cross-model review, and a final Claude AI review of all 13 claims, with corrections applied.
 - **Not done (accepted as limits):** independent human specialist review; Hebrew, Greek or Akkadian collation; page-level reading of Scurlock, Lawrence or the Cambridge chapter; examination of the primary Mari tablets.
-- **Still required:** the consolidation freeze, the #212 registry reconciliation (§3a), and explicit permission to merge, deploy or publish. Public material must not claim independent specialist verification.
+- **Still required:** a narrow decision on the consolidation freeze, registry verification against the actual merge-base state (§3a), registered public reader/Search/navigation, final CI and layout checks, and explicit merge/deploy approval. #212's unverified person-claim changes remain held separately. Public material must not claim independent specialist verification.
 
 ## 4. Next safe action
 
-Reconcile the claim registry with PR #212 using the rehearsed procedure in §3a, once the merge order is settled. Then, when the consolidation freeze is lifted and the owner authorizes it, register the module in the reader, search and navigation, and rerun every check. The review gate is closed by the owner's reconfirmed decision (§3b); public text must still not call these claims independently reviewed.
+Prepare the illness reader, Library and Search integration without merging PR #212. Before a release, verify the registry against the then-current `main` and preserve all existing IDs. A narrow consolidation-freeze exception and explicit release approval are still required; rerun the full build, search, registry and responsive-layout checks on the final candidate. The outside specialist gate is waived for this bounded edition (§3b), and public text must still say the research was AI-reviewed rather than independently validated.
 
 ## 5. Connected existing project work
 
