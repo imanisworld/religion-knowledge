@@ -65,6 +65,9 @@ jobs:
       - name: Verify committed search index matches readers
         run: git diff --exit-code -- search-index.json
 
+      - name: Check public Cited Persons evidence warnings
+        run: node --test tests/public-cited-persons-source-gate.test.mjs
+
       - name: Regenerate normalized record chunks
         run: npm run generate-records
 
