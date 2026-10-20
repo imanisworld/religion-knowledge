@@ -19,6 +19,7 @@
 | **Seed locations with specific case records** | **48/50** | Distinct later reuses or claims are registered |
 | **Seed locations directly covered by earlier cases** | **2/50** | No unnecessary duplication |
 | **Seed locations unaddressed** | **0/50** | **Original seed complete; corpus discovery NOT complete** |
+| **Internal adversarial review (all 65)** | **Done 20 Oct 2026** | AI pass, not independent; 9 record corrections plus 3 rendering fixes; see REVIEW.md. Does not change the 54-case "needs full review" status |
 | **Independent external review** | **Not yet performed** | Complete broader scope and internal checks first |
 | **Live production release** | **Not merged** | PR/preview success does not mean deployed production |
 

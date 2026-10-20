@@ -719,8 +719,8 @@
       "kind": "Shepherd oracle applied to Jesus' arrest and disciples' flight",
       "original": "הַךְ אֶת־הָרֹעֶה וּתְפוּצֶיןָ הַצֹּאן (Hebrew imperative: strike the shepherd and let the sheep be scattered)",
       "setting": "Zechariah 13 describes purification and judgment for the people. God's sword is called against a shepherd called God's associate; the people are then divided and tested. The shepherd's original identity and whether the figure is positive or negative are disputed.",
-      "laterUse": "In Mark 14:27 and Matthew 26:31 Jesus quotes the line to describe the disciples' desertion. Matthew changes the Greek wording to 'I will strike the shepherd' and adds 'of the flock.' Matthew 26:56 then narrates that the disciples fled.",
-      "relationship": "A late prophetic shepherd oracle is explicitly applied to Jesus and the disciples, with an important shift from the Hebrew imperative to the first-person future 'I will strike'. Matthew's form is related to Mark's. Menken (2011) analyzes the earliest Greek and Hebrew forms and the sequence of Christian reception.",
+      "laterUse": "In Mark 14:27 and Matthew 26:31 Jesus quotes the line to describe the disciples' desertion. Both Mark and Matthew give the line as God's first-person 'I will strike the shepherd'; Matthew follows Mark and adds 'of the flock.' Matthew 26:56 then narrates that the disciples fled.",
+      "relationship": "A late prophetic shepherd oracle is explicitly applied to Jesus and the disciples, with an important shift from the Hebrew imperative to the first-person future 'I will strike', already present in Mark. Matthew's form follows Mark's. Menken (2011) analyzes the earliest Greek and Hebrew forms and the sequence of Christian reception.",
       "evidence": "The textual forms, including imperatives and future speech, are directly available. Matthew's narration of flight is not independent verification that the ancient oracle was a prediction about Jesus or that events occurred exactly as portrayed.",
       "sourceStatus": "Quotational reuse explicit; original shepherd identity and historical fulfillment disputed",
       "refs": [
@@ -777,7 +777,7 @@
       "kind": "First-person lament reapplied to Judas's betrayal",
       "original": "גַּם־אִישׁ שְׁלוֹמִי ... אוֹכֵל לַחְמִי ... הִגְדִּיל עָלַי עָקֵב ('even the man of my peace ... who eats my bread ... has raised a heel against me')",
       "setting": "In Psalm 41 the speaker laments sickness, enemies and a trusted companion's betrayal, then asks for recovery and vindication. The psalm names no future first-century disciple and contains no explicit chronological prediction.",
-      "laterUse": "John places a quotation of the shared bread and hostile heel in Jesus' words to explain a coming betrayal at the last meal, with Judas identified by the narrative. John omits the psalm's separate 'in whom I trusted' phrase.",
+      "laterUse": "John places a quotation of the shared bread and hostile heel in Jesus' words to explain a coming betrayal at the last meal, with Judas identified by the narrative. John omits the psalm's opening description of the betrayer as 'my close friend (literally, man of my peace) in whom I trusted'.",
       "relationship": "A preexisting experience of betrayal is recast as an event in Jesus' life; exact textual echo is clear, but the original genre is lament and prayer rather than a dated messianic forecast.",
       "evidence": "We can verify the Hebrew idiom, John’s quotation, and the contextual shift. The reuse is evidence of literary-theological interpretation; it is not an independently dated record that the historical Judas fulfilled a named advance prediction.",
       "sourceStatus": "Direct quotation verified; original poem about betrayal; advance-prediction claim unsupported",
@@ -1218,7 +1218,7 @@
       "setting": "An oracle announces waves of nations against Tyre, a major Phoenician port with mainland and island settlements. It names Nebuchadnezzar in 26:7–11, predicts desolation, and states Tyre will not be rebuilt. Ezekiel 29:18 later acknowledges Nebuchadnezzar's labor against Tyre without receiving an adequate reward.",
       "laterUse": "Nebuchadnezzar did campaign against Tyre; the precise outcome and duration are debated. Alexander captured the island city in 332 BCE. Some apologetic readings distribute 26:3–6 to many nations and 26:7–11 to Babylon, then appeal to Alexander for a later phase.",
       "relationship": "Test who is the predicted agent in each verse; separate mainland from island and the history of an ancient urban site from the continuous modern city. A later conqueror does not retroactively satisfy every explicit Nebuchadnezzar clause. Ezekiel's own later statement in 29:18 is part of the primary textual evidence.",
-      "evidence": "PThU biblical scholar's 2024 discussion argues that Ezekiel 26's envisioned outcome was not fully realized under Nebuchadnezzar and that appealing to Alexander changes the claim. Conservative archaeological defense disputes this and distinguishes land from island. The extant city and later occupations are incompatible with a literal claim that the entire location was never again inhabited; the exact sense of 'never rebuilt' and the original oracle's redaction are debated.",
+      "evidence": "A 2024 Protestant Theological University (PThU) Bible-blog discussion, whose author is not named in the retrieved record, argues that Ezekiel 26's envisioned outcome was not fully realized under Nebuchadnezzar and that appealing to Alexander changes the claim. Kris J. Udd (Tyndale Bulletin 56.1, 2005) likewise argues the oracle was not fulfilled as predicted, noting that Ezekiel 29:17–20 itself concedes Nebuchadnezzar's failure to take Tyre. Conservative archaeological defense disputes this and distinguishes land from island. The extant city and later occupations are incompatible with a literal claim that the entire location was never again inhabited; the exact sense of 'never rebuilt' and the original oracle's redaction are debated.",
       "sourceStatus": "Attack and later conquest historically attested; complete literal permanent destruction not established",
       "refs": [
         [
@@ -1232,6 +1232,10 @@
         [
           "Protestant Theological University (2024), When prophecy doesn't come true",
           "https://www.pthu.nl/en/bibleblog/2024/10/when-prophecy-doesnt-come-true/"
+        ],
+        [
+          "Kris J. Udd (2005), Prediction and Foreknowledge in Ezekiel's Prophecy against Tyre, Tyndale Bulletin 56.1",
+          "https://tyndalebulletin.org/article/29192-prediction-and-foreknowledge-in-ezekiel-s-prophecy-against-tyre.pdf"
         ],
         [
           "Associates for Biblical Research (2009), defensive reading",
@@ -1351,7 +1355,7 @@
       "later": "Edom's decline, Idumaean survival, and later reinterpretations",
       "kind": "National-judgment oracle with contested dating and an absolute-sounding survival claim",
       "original": "וְלֹא־יִהְיֶה שָׂרִיד לְבֵית עֵשָׂו ('there shall be no survivor for the house of Esau', Obadiah 18)",
-      "setting": "Obadiah denounces Edom's pride and alleged exploitation of Jerusalem's disaster, then imagines reversal, territorial recovery and divine rule. Scholarly dates range widely; Elie Assis (2015) argues for three composed stages: before Jerusalem's fall, in response to 586 BCE and later Edomite movement into southern Judah. The text shares striking sections with Jeremiah 49:7–22.",
+      "setting": "Obadiah denounces Edom's pride and alleged exploitation of Jerusalem's disaster, then imagines reversal, territorial recovery and divine rule. Scholarly dates range widely; Elie Assis (2014) argues for three composed stages: before Jerusalem's fall, in response to 586 BCE and later Edomite movement into southern Judah. The text shares striking sections with Jeremiah 49:7–22.",
       "laterUse": "The Edomite polity disappeared over time, but Edomite/Idumaean identity continued in southern Judea through the Hellenistic and Roman periods; Idumaeans figure in the Hasmonean era and Herod's ancestry. Later Jewish and Christian interpreters may read the fall of Edom as fulfilled, symbolic, or typological judgment.",
       "relationship": "Loss of an independent kingdom must be separated from the survival of Edomite people, their relocation and identity, and literal eradication of every descendant. The phrase 'no survivor' can function as national judgment rhetoric, but readers who take it literally face contrary evidence for Idumaean continuation. The prophecy's date and its shared literary traditions affect how far it could precede the events described.",
       "evidence": "Oxford's entry on Idumaea and research on Edomite-related settlement document survival of the identity for centuries, limiting literal extermination claims. Juan Manuel Tebes (2011) questions the traditional portrayal of Edomite betrayal in 586 BCE, warning against treating partisan narrative blame as an independently verified war report.",
@@ -1362,7 +1366,7 @@
           "https://biblehub.com/text/obadiah/1-18.htm"
         ],
         [
-          "Elie Assis, Structure/Redaction of Obadiah (JSOT 2015)",
+          "Elie Assis, Structure, Redaction and Significance in the Prophecy of Obadiah (JSOT 39.2, 2014)",
           "https://doi.org/10.1177/0309089214567376"
         ],
         [
@@ -1491,7 +1495,7 @@
       "later": "Successive Babylonian, Median, Persian, Greek or Roman empires; divine kingdom",
       "kind": "Four-empire apocalyptic scheme and enduring-kingdom prediction",
       "original": "Daniel 2:44, Aramaic: יְקִים אֱלָהּ שְׁמַיָּא מַלְכוּ ('the God of heaven will establish a kingdom'); the king is explicitly called the head of gold in 2:38.",
-      "setting": "Daniel's story is set at Nebuchadnezzar's Babylonian court. Chapter 2 itself is Aramaic and supplies no individual names for its last three kingdoms. Critical scholarship reads the sequence in the context of Greek-era Jewish apocalyptic expectation; the finished visions were edited in the second-century BCE Antiochene crisis, although individual court tales may be older.",
+      "setting": "Daniel's story is set at Nebuchadnezzar's Babylonian court. From 2:4b the chapter is in Aramaic, and it supplies no individual names for its last three kingdoms. Critical scholarship reads the sequence in the context of Greek-era Jewish apocalyptic expectation; the finished visions were edited in the second-century BCE Antiochene crisis, although individual court tales may be older.",
       "laterUse": "Yale's John J. Collins reconstructs Babylon, Media, Persia and the Greek Seleucid kingdom from the book's own succession, with failed Seleucid/Ptolemaic marriage alliances in the iron/clay imagery. A long-lived Christian interpretation instead combines Media and Persia and ends with Rome; traditions vary over whether the stone kingdom began with Jesus' ministry or remains future.",
       "relationship": "The relative dating of the composed chapter and the selected fourth kingdom determine whether an interpretation predicts long-distant Rome or criticizes Greek imperial power in its own day. The eternal and universal divine kingdom has no agreed independently measured historical completion.",
       "evidence": "Babylon, Persia, Macedonian conquest and Rome are independently historical empires; matching them to unspecified metals does not itself prove their assignment. The story's 'Darius the Mede' chronology differs from independent Persian history; the romanizing interpretation must address Antiochus-related imagery elsewhere in the book.",
@@ -1805,7 +1809,7 @@
       "setting": "Mark's declaration follows a teaching about the Son of Man coming in glory (8:38) and is immediately followed by the Transfiguration involving three disciples 'after six days' (9:2). Matthew revises the wording to the Son of Man 'coming in his kingdom'; Luke describes seeing the kingdom of God.",
       "laterUse": "Interpreters variously point to the Transfiguration, Jesus' resurrection and exaltation, Pentecost, Jerusalem's fall, or the final parousia. The Transfiguration is narratively close but visible only as a literary account; resurrection/exaltation is likewise claimed within Christian sources. A full final cosmic advent during those hearers' lives is not independently observed.",
       "relationship": "The wording sets a lifespan constraint, but readers disagree whether the promised 'coming in power' is an anticipatory vision or an ultimate eschatological transformation. Taking the verse to guarantee a final return within the listeners' lifespan confronts nonfulfillment; selecting a different event must be defended with the adjacent narrative and wider Gospel sequence.",
-      "evidence": "NET translator notes explicitly catalog Transfiguration, resurrection, Spirit and second coming readings. A 2026 scholarly article develops resurrection/enthronement as Mark's intended referent, showing that this reading is an argued alternative, not an uncontested definition.",
+      "evidence": "NET translator notes explicitly catalog Transfiguration, resurrection, Spirit and second coming readings. E. J. Davila (New Testament Studies, 2026), writing on Mark 16:1–8, argues that Mark presents Jesus' resurrection as the beginning of the kingdom, which supports a resurrection reading of 9:1, showing that this reading is an argued alternative, not an uncontested definition.",
       "sourceStatus": "Lifespan language unambiguous; kingdom-arrival referent and historical verification disputed",
       "refs": [
         [
@@ -1817,7 +1821,7 @@
           "https://classic.net.bible.org/verse.php?book=Mar&chapter=9&verse=1"
         ],
         [
-          "Cambridge New Testament Studies (2026), Does Mark Care That Jesus Was Raised from the Dead?",
+          "E. J. Davila (2026), Does Mark Care That Jesus Was Raised from the Dead?, New Testament Studies",
           "https://www.cambridge.org/core/journals/new-testament-studies/article/does-mark-care-that-jesus-was-raised-from-the-dead-on-resurrecting-the-king-and-the-kingdom-mark-1618/38D02EE65DBAAD30E9ACC4D53509A635"
         ],
         [
@@ -1870,7 +1874,7 @@
       "original": "1 Thessalonians 4:15 Greek ἡμεῖς οἱ ζῶντες οἱ περιλειπόμενοι εἰς τὴν παρουσίαν τοῦ κυρίου ('we the living, the remaining, until/for the coming of the Lord').",
       "setting": "Paul addresses a Thessalonian Christian community concerned that people have died before Jesus' coming. The letter is commonly placed around 50–51 CE, one of the earliest extant Christian writings. It reassures readers that the dead in Christ will rise before the surviving believers join them.",
       "laterUse": "Paul writes in the first-person plural 'we who are alive,' which many scholars understand as his expectation that he or members of his contemporary audience could survive until an imminent return. The apostle died and no publicly verifiable descent with the trumpet, resurrection and airborne assembly took place during that generation.",
-      "relationship": "The 'we' may be inclusive pastoral identification with the class of believers still alive *whenever* the parousia occurs rather than a categorical statement that Paul himself would survive; the Greek participle modifies this class. A 2024 Novum Testamentum article argues the immanent/near-expectation reading is only one of several grammatically defensible options. Do not assert a hard dated prophecy if the passage does not specify an explicit year.",
+      "relationship": "The 'we' may be inclusive pastoral identification with the class of believers still alive *whenever* the parousia occurs rather than a categorical statement that Paul himself would survive; the Greek participle modifies this class. A 2024 Novum Testamentum article argues the imminent/near-expectation reading is only one of several grammatically defensible options. Do not assert a hard dated prophecy if the passage does not specify an explicit year.",
       "evidence": "The first-century letter's grammar and Paul's eventual death are historically grounded; heavenly trumpet, clouds and resurrection are not independently corroborated. Distinguish probable near expectation from an unambiguous personal survival guarantee.",
       "sourceStatus": "First-person and resurrection sequence explicit; guaranteed lifetime deadline contested",
       "refs": [
@@ -1988,7 +1992,7 @@
           "https://bible.usccb.org/bible/revelation/0"
         ],
         [
-          "Theological Studies scholarly discussion of 616 Papyrus 115 (via Nelson)",
+          "Same Nelson article, Journal of Theological Studies 76.1: discussion of the 616 reading in Papyrus 115",
           "https://academic.oup.com/jts/article/76/1/109/8043235"
         ]
       ]
@@ -2098,7 +2102,7 @@
       "kind": "Ancient Greek servant quotation used as a Christian teaching interpretation",
       "original": "Acts 8:33 quotes Greek ἐν τῇ ταπεινώσει ἡ κρίσις αὐτοῦ ἤρθη ('in his humiliation his justice/judgment was taken away'); Hebrew Isaiah 53:8 reads מֵעֹצֶר וּמִמִּשְׁפָּט לֻקָּח ('by/from oppression and judgment he was taken').",
       "setting": "Isaiah's servant poem appears in Isaiah 52:13–53:12 and has disputed identity, including collective Israel, representative individual and other proposals; Isaiah 49:3 can call the servant Israel even as 49:5 depicts a mission to restore Israel. The Hebrew and ancient Greek forms of 53:8 differ significantly in their portrayal of oppression and judgment.",
-      "laterUse": "Acts narrates a royal official of a Nubian queen returning from worship in Jerusalem while reading Isaiah's Greek form. He asks Philip whom the prophet means, and Philip teaches that Jesus is the referent, after which the official is baptized. The narrative's question records that the passage's identity was not treated as self-evident.",
+      "laterUse": "Acts narrates a royal official of the Candace, queen of the Ethiopians (the kingdom of Kush/Meroë in Nubia), returning from worship in Jerusalem while reading Isaiah's Greek form. He asks Philip whom the prophet means, and Philip teaches that Jesus is the referent, after which the official is baptized. The narrative's question records that the passage's identity was not treated as self-evident.",
       "relationship": "Acts quotes the old Greek more closely than the Hebrew on the 'humiliation/justice' clause and applies an earlier servant poem to Jesus. The later interpretation is clearly documented as a claim by Acts' author and characters; it does not independently establish the earlier writer's intended identity or the historicity of the encounter.",
       "evidence": "USCCB's critical Acts 8 note identifies the quoted verses and evangelization role, and a direct comparison shows Hebrew/Greek wording differences. The reported angelic instructions, sudden disappearance and precise dialogue are only attested within Acts, not confirmed by independent contemporary records.",
       "sourceStatus": "Greek quotation and Jesus application explicit; Hebrew/Greek differences and earlier servant identity remain contested",

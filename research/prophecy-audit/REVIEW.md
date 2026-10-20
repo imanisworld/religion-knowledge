@@ -1,3 +1,34 @@
+## Internal adversarial review of all 65 cases — 20 October 2026
+
+**What this is:** An AI assistant read all 65 records against the text and spot-checked them by web search. It made the corrections below in `records.json`, `index.md` and `prophecy-audit.html` together. **It is not the independent external review, and it does not move any case out of "needs full review."** Bible-text sites, Oxford Academic and Brill could not be opened from the working environment, so evidence came from search results and DOI/landing records. No Hebrew, Greek or Aramaic was checked against a critical edition.
+
+**Overall:** No case overstates fulfillment. The records consistently separate the earlier text, the later use, and independent evidence, and they flag circular reasoning. The problems found were factual slips and citation hygiene.
+
+### Corrected in this pass
+
+| Case | Problem | Correction |
+|---|---|---|
+| `zechariah-13-matthew-26` | Said **Matthew** changed the wording to "I will strike the shepherd". Mark 14:27 already has the first-person future; Matthew follows Mark and adds "of the flock". | Both statements corrected. |
+| `psalm-41-john-13` | Said John omits only "in whom I trusted". John 13:18 omits the whole description "my close friend (man of my peace) in whom I trusted". | Corrected. |
+| `daniel-2-four-kingdoms` | "Chapter 2 itself is Aramaic." Daniel 2:1–4a is Hebrew; the Aramaic begins at 2:4b. | Corrected. |
+| `acts-8-isaiah53-ethiopian` | "A Nubian queen." Acts 8:27 says the Candace, queen of the Ethiopians; Nubia (Kush/Meroë) is the modern identification. | Text now gives Acts' wording, then the identification. |
+| `mark-9-1-taste-death` | Unnamed "2026 scholarly article". | Author named: E. J. Davila, *New Testament Studies* (2026). The article is on Mark 16:1–8, so the record now says it *supports* a resurrection reading of 9:1 rather than arguing it directly. |
+| `ezekiel-26-tyre` | Only an unattributed PThU blog for the non-fulfillment argument. | Added Kris J. Udd, "Prediction and Foreknowledge in Ezekiel's Prophecy against Tyre," *Tyndale Bulletin* 56.1 (2005). The blog's author is still unidentified. |
+| `obadiah-edom` | Assis dated 2015. | *JSOT* 39.2 (2014), pp. 209–221, consistent with the DOI. |
+| `revelation-13-beast-number` | A second reference labelled "Theological Studies… (via Nelson)" was the same Nelson *JTS* article. | Relabelled as the same article, so it is not counted as a second source. |
+| `one-thess-4-we-alive` | Typo "immanent". | "imminent". |
+| Reader HTML | Literal asterisks shown in three places (\*for\*, \*both\*, \*whenever\*). | Rendered as italics. |
+
+### Not resolved — for the independent reviewer
+
+- **1 Thess 4 article author.** Search links "Is There Imminent Expectation in 1 Thess 4:13–18?" (*Novum Testamentum* 66, 2024, pp. 231–256) to Stefan Fauconnier, but only through an auto-generated page. The record therefore still leaves the author unnamed. Confirm on Brill.
+- **Ferda (2020, *JTS*) and Kim (2019, KCI).** Both have DOIs or landing links, but their arguments were not confirmed by search.
+- **Freidenreich, *TheTorah*.** The argument exists; the "2026" date was not confirmed.
+- **Edsall.** The DOI confirms *JSNT*; the record's 2025 date matches online publication, not necessarily the issue.
+- **Structural risk.** `records.json`, `index.md` and `prophecy-audit.html` are three hand-maintained copies with no generator. They match today (every field and link checked), but any future edit must touch all three. A generator from `records.json` would remove this risk; it is not built here, to keep this pass to corrections.
+
+---
+
 ## Batch 11 — Revelation and remaining NT reuse claims (October 20, 2026)
 
 All six remaining candidates in the bounded fifty-locus seed now have case-specific studies. This is **source-located research, not a completed independent academic review**.
