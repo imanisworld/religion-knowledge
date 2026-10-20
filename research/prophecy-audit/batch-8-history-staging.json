@@ -1,0 +1,198 @@
+{
+  "version": 1,
+  "date": "2026-10-20",
+  "status": "source_located_for_full_review",
+  "cases": [
+    {
+      "id": "isaiah-17-damascus",
+      "label": "Damascus would cease to be a city",
+      "earlier": "Isaiah 17:1–3",
+      "later": "Assyria's defeat of Aram-Damascus in 732 BCE; later history of Damascus",
+      "kind": "Named city and kingdom judgment oracle tested against history",
+      "original": "מַשָּׂא דַּמָּשֶׂק ('oracle concerning Damascus', Isa 17:1); the text says it will be removed as a city and become a heap of ruins.",
+      "setting": "Isaiah 17:1–3 couples the end of Damascus's kingship with weakness in Ephraim/Israel, fitting the Syro-Ephraimite alliance and war of 735–732 BCE. Joseph Blenkinsopp's critical commentary in First Isaiah and the Cambridge exposition link these clauses to that crisis; literary units elsewhere in chapter 17 may have different horizons.",
+      "laterUse": "Tiglath-pileser III conquered Damascus in 732 BCE and ended the independent Aramean kingdom. Yet Damascus persisted as an inhabited city over subsequent periods, with extensive Hellenistic, Roman, Byzantine and Islamic layers documented by UNESCO.",
+      "relationship": "The end of Aram-Damascus's sovereign status is historically grounded and is closely connected with the oracle. The image of Damascus no longer being a city or reduced to rubble exceeds the lasting result: it should be described as destruction rhetoric, temporary damage, an unfulfilled literal detail, or a future expectation only with stated interpretive grounds.",
+      "evidence": "The Assyrian victory and loss of kingship can be independently confirmed from history. UNESCO confirms ongoing habitation, so the passage cannot be used as evidence that Damascus permanently vanished. The composition date relative to 732 BCE is inferred from literary and historical context, not secured by an extant dated pre-conquest manuscript.",
+      "sourceStatus": "Assyrian defeat and ended kingdom supported; permanent urban disappearance contradicted by history; original scope debated",
+      "refs": [
+        [
+          "Isaiah 17:1 Hebrew",
+          "https://biblehub.com/text/isaiah/17-1.htm"
+        ],
+        [
+          "Joseph Blenkinsopp, First Isaiah, 17:1–14 (critical historical context)",
+          "https://www.jstor.org/stable/j.ctvgs0919.31"
+        ],
+        [
+          "Cambridge Commentary on Isaiah 17 (732 BCE and textual complications)",
+          "https://biblehub.com/commentaries/cambridge/isaiah/17.htm"
+        ],
+        [
+          "UNESCO: Ancient City of Damascus, continued urban settlement",
+          "https://whc.unesco.org/en/list/20/"
+        ],
+        [
+          "2 Kings 16:9, narrative of Damascus's conquest",
+          "https://www.biblegateway.com/passage/?search=2+Kings+16%3A9&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "obadiah-edom",
+      "label": "Edom's punishment and no surviving house of Esau",
+      "earlier": "Obadiah 1–21",
+      "later": "Edom's decline, Idumaean survival, and later reinterpretations",
+      "kind": "National-judgment oracle with contested dating and an absolute-sounding survival claim",
+      "original": "וְלֹא־יִהְיֶה שָׂרִיד לְבֵית עֵשָׂו ('there shall be no survivor for the house of Esau', Obadiah 18)",
+      "setting": "Obadiah denounces Edom's pride and alleged exploitation of Jerusalem's disaster, then imagines reversal, territorial recovery and divine rule. Scholarly dates range widely; Elie Assis (2015) argues for three composed stages: before Jerusalem's fall, in response to 586 BCE and later Edomite movement into southern Judah. The text shares striking sections with Jeremiah 49:7–22.",
+      "laterUse": "The Edomite polity disappeared over time, but Edomite/Idumaean identity continued in southern Judea through the Hellenistic and Roman periods; Idumaeans figure in the Hasmonean era and Herod's ancestry. Later Jewish and Christian interpreters may read the fall of Edom as fulfilled, symbolic, or typological judgment.",
+      "relationship": "Loss of an independent kingdom must be separated from the survival of Edomite people, their relocation and identity, and literal eradication of every descendant. The phrase 'no survivor' can function as national judgment rhetoric, but readers who take it literally face contrary evidence for Idumaean continuation. The prophecy's date and its shared literary traditions affect how far it could precede the events described.",
+      "evidence": "Oxford's entry on Idumaea and research on Edomite-related settlement document survival of the identity for centuries, limiting literal extermination claims. Juan Manuel Tebes (2011) questions the traditional portrayal of Edomite betrayal in 586 BCE, warning against treating partisan narrative blame as an independently verified war report.",
+      "sourceStatus": "Political/territorial transformations documented; no-survivor literalism and Edomite complicity disputed",
+      "refs": [
+        [
+          "Obadiah 1:18 Hebrew",
+          "https://biblehub.com/text/obadiah/1-18.htm"
+        ],
+        [
+          "Elie Assis, Structure/Redaction of Obadiah (JSOT 2015)",
+          "https://doi.org/10.1177/0309089214567376"
+        ],
+        [
+          "Juan Manuel Tebes, Edomite Involvement in Jerusalem's Fall (2011)",
+          "https://doi.org/10.1177/0309089211423731"
+        ],
+        [
+          "Tessa Rajak, Idumaea, Oxford Classical Dictionary",
+          "https://doi.org/10.1093/acrefore/9780199381135.013.3252"
+        ],
+        [
+          "The Religion of Idumea and Its Relationship to Early Judaism (2020)",
+          "https://doi.org/10.3390/rel11100487"
+        ]
+      ]
+    },
+    {
+      "id": "jeremiah-49-edom",
+      "label": "Judgment of Edom and its shared oracle with Obadiah",
+      "earlier": "Jeremiah 49:7–22",
+      "later": "Edom/Idumaea between the Persian and Roman periods",
+      "kind": "Shared national-judgment tradition; independence of prediction is disputed",
+      "original": "כִּי־אֲנִי חָשַׂפְתִּי אֶת־עֵשָׂו ('For I have laid Esau bare', Jer 49:10); the oracle invokes desolation, terror and judgment on Edom.",
+      "setting": "Jeremiah 49:7–22 speaks against Teman/Bozrah and Edom. Its opening and middle lines are closely related to Obadiah 1–9, yet the texts differ in wording and scope. Scholarship debates whether Jeremiah drew on Obadiah, the reverse, a common earlier oracle, or layers assembled at different times.",
+      "laterUse": "The historical Edomite kingdom declined, while Idumaean communities developed and persisted in southern Judea. The passage also influenced later conceptions of Edom as a symbolic enemy; such reuse must not replace the historical referent automatically.",
+      "relationship": "Because substantial wording is shared, counting Obadiah and Jeremiah 49 as two independent successful forecasts is methodologically unjustified without establishing independent composition and dating. Graham Ogden (1982) investigates the literary relationship; Cambridge commentary notes a common-source alternative. The exact agent, scale and chronology of political change are also unresolved.",
+      "evidence": "Independent archaeological/historical sources support Edomite/Idumaean continuity, migration and cultural transformation rather than verified total extermination. Specific devastation imagery is largely preserved in the prophetic text, and cannot independently confirm its own accuracy.",
+      "sourceStatus": "Shared wording and Edomite identity history documented; literary priority, chronology and literal devastation uncertain",
+      "refs": [
+        [
+          "Jeremiah 49:7–22 primary passage",
+          "https://www.biblegateway.com/passage/?search=Jeremiah+49%3A7-22&version=NRSVUE"
+        ],
+        [
+          "Jeremiah 49:10 Hebrew",
+          "https://biblehub.com/text/jeremiah/49-10.htm"
+        ],
+        [
+          "Graham S. Ogden, Edom in Jeremiah 49 and Obadiah (JSOT 1982)",
+          "https://doi.org/10.1177/030908928200702406"
+        ],
+        [
+          "Cambridge commentary on shared sources, Jeremiah 49:7",
+          "https://biblehub.com/commentaries/jeremiah/49-7.htm"
+        ],
+        [
+          "Yigal Levin, Genesis of Idumea (Bar-Ilan University)",
+          "https://cris.biu.ac.il/en/publications/the-genesis-of-idumea/"
+        ]
+      ]
+    },
+    {
+      "id": "haggai-2-temple-glory",
+      "label": "Greater glory of the rebuilt temple and the nations' treasure",
+      "earlier": "Haggai 2:6–9 (with 2:1–5)",
+      "later": "Rebuilding of Jerusalem's temple; Hebrews 12:26–28 and Christian messianic applications",
+      "kind": "Near-horizon restoration promise and later eschatological/messianic reading",
+      "original": "חֶמְדַּת כָּל־הַגּוֹיִם (khemdat kol-haggoyim, 'desired/precious things of all nations'); וּבָאוּ ('they will come', plural), Haggai 2:7.",
+      "setting": "Haggai dates this encouragement to the second year of Darius (normally identified as Darius I, 520 BCE), when Judah's community was rebuilding the Jerusalem temple. The modest appearance of the project relative to Solomon's temple is explicit in 2:3, followed by promises of shaking nations, wealth, glory and peace. Ezra 6 dates temple dedication to Darius's sixth year, conventionally 515 BCE, with some academic dissent about chronology.",
+      "laterUse": "The Hebrew phrase often printed as 'desire of all nations' is commonly rendered 'treasures/precious things of the nations' because the plural verb indicates a collective sense and the next verse speaks of silver and gold. Some Christians have interpreted a singular 'Desired One' as Jesus; Hebrews 12:26 quotes the cosmic-shaking line in an eschatological argument.",
+      "relationship": "The temple-focused immediate setting, the treasure-vs-person linguistic question and the later use of the shaking image are distinct. A direct named prediction of Jesus from 2:7 is grammatically weak; faith-based typology is a different interpretive claim. 'Greater glory' can refer to cultic honor, prosperity or divine presence, making purely architectural comparisons insufficient.",
+      "evidence": "The Persian-period temple restoration is broadly documented by ancient literary sources, but exact glory, world-shaking and peace promises lack an independently measurable complete historical fulfillment. The NET translation note explicitly rejects deriving a direct original-context messianic prediction from the 'treasures' wording.",
+      "sourceStatus": "520 BCE temple-restoration context strong; treasures interpretation supported; universal shaking/glory fulfillment debated",
+      "refs": [
+        [
+          "Haggai 2:6–9 and translator notes (NET Bible)",
+          "https://classic.net.bible.org/passage.php?passage=hag+2%3A6-9"
+        ],
+        [
+          "Haggai 2:7 Hebrew",
+          "https://biblehub.com/text/haggai/2-7.htm"
+        ],
+        [
+          "Yehudite Imaginations of King Darius (Religions 2022), temple chronology",
+          "https://doi.org/10.3390/rel13030262"
+        ],
+        [
+          "Hebrews 12:26–28 later citation",
+          "https://www.biblegateway.com/passage/?search=Hebrews+12%3A26-28&version=NRSVUE"
+        ],
+        [
+          "Bible.org Haggai commentary, grammar and rebuilding context",
+          "https://bible.org/seriespage/haggai"
+        ]
+      ]
+    },
+    {
+      "id": "zechariah-14-day-of-yhwh",
+      "label": "The Mount of Olives splits and all nations worship in Jerusalem",
+      "earlier": "Zechariah 14:1–21",
+      "later": "Jewish liturgical expectation; Christian end-time readings; historically testable claims",
+      "kind": "Apocalyptic day-of-YHWH vision without a secure completed event match",
+      "original": "וְנִבְקַע הַר הַזֵּיתִים ('the Mount of Olives shall be split', Zech 14:4); the chapter also depicts living waters and yearly festival pilgrimage.",
+      "setting": "Zechariah 14 pictures hostile nations attacking Jerusalem, YHWH's personal intervention on the Mount of Olives, extraordinary light, living waters, and surviving nations worshipping at Sukkot. Zechariah 9–14 is widely treated as having a literary history distinct from dated 1–8; Paul Redditt (2021) situates major additions in the fifth century BCE while other scholars argue differing Persian/Hellenistic dates.",
+      "laterUse": "Jewish liturgy reads this chapter at Sukkot, treating the festival pilgrimage and universal kingship as future hope. Christian traditions connect the Mount of Olives and divine arrival to Jesus' second coming, sometimes with literal geological and geopolitical expectations. Those readings must be individually attributed rather than merged into one consensus.",
+      "relationship": "This is a visionary description of universal divine rule with cosmic and geographic imagery; whether meant literally, symbolically or as still-future eschatology is contested. It is not evidence that an independently dated historic Mount-of-Olives rupture occurred, nor does a later Jerusalem conflict reproduce every described feature.",
+      "evidence": "No independent historical documentation establishes the combined series of mountain splitting, perpetual miraculous light, world worship and uninterrupted seasonal water flows as an already completed event. Conversely, absence of such confirmation does not logically disprove an unbounded future expectation. A research verdict must specify past-fulfillment versus still-future claim.",
+      "sourceStatus": "Primary imagery and varied later reception documented; complete historical fulfillment not independently verified",
+      "refs": [
+        [
+          "Zechariah 14 original text",
+          "https://www.biblegateway.com/passage/?search=Zechariah+14&version=NRSVUE"
+        ],
+        [
+          "Zechariah 14:4 Hebrew",
+          "https://biblehub.com/text/zechariah/14-4.htm"
+        ],
+        [
+          "Paul L. Redditt, Zechariah, Oxford Handbook of the Minor Prophets (2021)",
+          "https://doi.org/10.1093/oxfordhb/9780190673208.013.31"
+        ],
+        [
+          "TheTorah.com: Sukkot, Future Redemption for Jews and Gentiles",
+          "https://www.thetorah.com/article/sukkot-the-festival-of-future-redemption-for-jews-and-gentiles"
+        ],
+        [
+          "Michael Fishbane: How Zechariah Relates to Sukkot",
+          "https://www.myjewishlearning.com/article/how-zechariah-relates-to-sukkot/"
+        ]
+      ]
+    }
+  ],
+  "candidate_loci": {
+    "isaiah-17-damascus": "Isaiah 17:1–3",
+    "obadiah-edom": "Obadiah 1–21",
+    "jeremiah-49-edom": "Jeremiah 49:7–22",
+    "haggai-2-temple-glory": "Haggai 2:6–9",
+    "zechariah-14-day-of-yhwh": "Zechariah 14:1–21"
+  },
+  "original_canonical_count": 41,
+  "review_notes": [
+    "Damascus was conquered in 732 BCE but never permanently uninhabited; separate city versus kingdom.",
+    "Obadiah and Jeremiah 49 share text; do not count as two independent witnessed successes.",
+    "Edomite/Idumaean identity did not simply vanish with political change; disputed Edomite involvement in 586 BCE.",
+    "Haggai is dated to the second year of a king named Darius, conventionally Darius I (520 BCE); a scholarly minority challenges the conventional identity/chronology.",
+    "Zechariah 14 is an apocalyptic vision with uncertain composition and no documented complete historical match."
+  ],
+  "gate": "Full case-by-case scholarly review and independent review still pending. PR #202 remains unmerged."
+}
