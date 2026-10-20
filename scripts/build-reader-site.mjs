@@ -20,6 +20,7 @@ const PERSONAL_PAGES = [
   ['personal-belief-history.html', 'Personal Belief History', 'A reconstruction log for what I actually believed at different stages, with unknowns preserved.'],
 ];
 const DISCOVERY_PAGES = [
+  ['comparisons.html', 'Comparison Tables', 'Open chronology, religion and law, gender, and reference tables across the library.'],
   ['search.html', 'Search', 'Search across all research documents and cited persons by name, topic, or scholar.'],
 ];
 const READERS = [...RESEARCH_READERS, ...PERSONAL_PAGES, ...DISCOVERY_PAGES];
@@ -274,6 +275,8 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
   .section-head{grid-template-columns:1fr;gap:.35rem;margin-top:2.35rem}
 }
 
+.hero .comparison-entry{margin-top:1rem}
+.hero .comparison-entry a{color:var(--accent);font-weight:600;text-underline-offset:4px}
 /* ---------- editorial landing: fewer cards, more hierarchy ---------- */
 :root{
   --info:#486A8D;
@@ -347,6 +350,7 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
     <p class="eyebrow">Research library</p>
     <h1>Religion Knowledge</h1>
     <p>Research on religion, biblical texts, history, law, and belief, with sources and evidence for individual claims. Browse a subject or search across the library.</p>
+    <p class="comparison-entry"><a href="comparisons.html">Browse comparison tables →</a></p>
   </div>
   <div class="section-head research-head">
     <div><p class="section-label">Research library</p><h2>Browse by research area</h2></div>
