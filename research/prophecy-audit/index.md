@@ -1,6 +1,6 @@
 # Biblical Prophecy — Evidence Audit
 
-**Checked:** October 20, 2026 · **Status:** 41 researched cases across seven batches: 11 initially reviewed, 30 newer cases needing claim-specific internal review. External review remains deferred until the defined collection is complete. This is not a count of all biblical prophecies.
+**Checked:** October 20, 2026 · **Status:** 46 researched cases across eight batches: 11 initially reviewed, 35 newer cases needing claim-specific internal review. External review remains deferred until the defined collection is complete. This is not a count of all biblical prophecies.
 
 The Bible's prophetic literature includes warnings, oracles about current political crises, predictions, poetic laments, promises of restoration, and retrospective historical narratives. A later author calling an earlier passage **fulfilled** establishes that the later author made that interpretation. It does not by itself establish that the earlier author predicted the later event.
 
@@ -69,6 +69,12 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 | [Ezekiel 26:1–21 and 29:17–21](#ezekiel-26-tyre) | Nebuchadnezzar II's campaign against Tyre and Alexander's conquest in 332 BCE | Oracles against a nation; multiple agents and later historical test | Attack and later conquest historically attested; complete literal permanent destruction not established |
 | [Isaiah 13:1–22](#isaiah-13-babylon-medes) | Fall of Babylon in 539 BCE and its later gradual changes | Imperial judgment oracle; composition date and imagery disputed | Babylon's fall documented; identity of attackers and permanent-destruction imagery require qualification |
 | [Nahum 1–3 (especially 2:1–13 and 3:8–10)](#nahum-nineveh-fall) | Fall of Nineveh in 612 BCE; Babylonian Chronicle ABC 3 | Judgment oracle with independent ancient chronicle | Historical event strongly corroborated; date of prophecy's composition and precise foresight less secure |
+
+| [Isaiah 17:1–3](#isaiah-17-damascus) | Assyria's defeat of Aram-Damascus in 732 BCE; later history of Damascus | Named city and kingdom judgment oracle tested against history | Assyrian defeat and ended kingdom supported; permanent urban disappearance contradicted by history; original scope debated |
+| [Obadiah 1–21](#obadiah-edom) | Edom's decline, Idumaean survival, and later reinterpretations | National-judgment oracle with contested dating and an absolute-sounding survival claim | Political/territorial transformations documented; no-survivor literalism and Edomite complicity disputed |
+| [Jeremiah 49:7–22](#jeremiah-49-edom) | Edom/Idumaea between the Persian and Roman periods | Shared national-judgment tradition; independence of prediction is disputed | Shared wording and Edomite identity history documented; literary priority, chronology and literal devastation uncertain |
+| [Haggai 2:6–9 (with 2:1–5)](#haggai-2-temple-glory) | Rebuilding of Jerusalem's temple; Hebrews 12:26–28 and Christian messianic applications | Near-horizon restoration promise and later eschatological/messianic reading | 520 BCE temple-restoration context strong; treasures interpretation supported; universal shaking/glory fulfillment debated |
+| [Zechariah 14:1–21](#zechariah-14-day-of-yhwh) | Jewish liturgical expectation; Christian end-time readings; historically testable claims | Apocalyptic day-of-YHWH vision without a secure completed event match | Primary imagery and varied later reception documented; complete historical fulfillment not independently verified |
 
 ## Passage audits
 
@@ -483,6 +489,56 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Historical event strongly corroborated; date of prophecy's composition and precise foresight less secure
 - **Primary and scholarly sources:** [Hebrew Nahum 1:1](https://biblehub.com/text/nahum/1-1.htm); [Nahum 2–3](https://www.biblegateway.com/passage/?search=Nahum+2-3&version=NRSVUE); [British Museum: tablet BM 21901](https://www.britishmuseum.org/collection/object/W_1896-0409-6); [Livius: Fall of Nineveh Chronicle (ABC 3)](https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-3-fall-of-nineveh-chronicle/); [Enter the Bible (Luther Seminary): Nahum summary](https://enterthebible.org/courses/nahum/lessons/summary-of-nahum/).
 
+### Isaiah 17:1–3 — Damascus would cease to be a city {#isaiah-17-damascus}
+
+- **Original language:** מַשָּׂא דַּמָּשֶׂק ('oracle concerning Damascus', Isa 17:1); the text says it will be removed as a city and become a heap of ruins.
+- **Earlier situation:** Isaiah 17:1–3 couples the end of Damascus's kingship with weakness in Ephraim/Israel, fitting the Syro-Ephraimite alliance and war of 735–732 BCE. Joseph Blenkinsopp's critical commentary in First Isaiah and the Cambridge exposition link these clauses to that crisis; literary units elsewhere in chapter 17 may have different horizons.
+- **Later claim / event:** Tiglath-pileser III conquered Damascus in 732 BCE and ended the independent Aramean kingdom. Yet Damascus persisted as an inhabited city over subsequent periods, with extensive Hellenistic, Roman, Byzantine and Islamic layers documented by UNESCO.
+- **Type of reuse or prediction:** The end of Aram-Damascus's sovereign status is historically grounded and is closely connected with the oracle. The image of Damascus no longer being a city or reduced to rubble exceeds the lasting result: it should be described as destruction rhetoric, temporary damage, an unfulfilled literal detail, or a future expectation only with stated interpretive grounds.
+- **Independent evidence and limitations:** The Assyrian victory and loss of kingship can be independently confirmed from history. UNESCO confirms ongoing habitation, so the passage cannot be used as evidence that Damascus permanently vanished. The composition date relative to 732 BCE is inferred from literary and historical context, not secured by an extant dated pre-conquest manuscript.
+- **Provisional conclusion:** Assyrian defeat and ended kingdom supported; permanent urban disappearance contradicted by history; original scope debated
+- **Primary and scholarly sources:** [Isaiah 17:1 Hebrew](https://biblehub.com/text/isaiah/17-1.htm); [Joseph Blenkinsopp, First Isaiah, 17:1–14 (critical historical context)](https://www.jstor.org/stable/j.ctvgs0919.31); [Cambridge Commentary on Isaiah 17 (732 BCE and textual complications)](https://biblehub.com/commentaries/cambridge/isaiah/17.htm); [UNESCO: Ancient City of Damascus, continued urban settlement](https://whc.unesco.org/en/list/20/); [2 Kings 16:9, narrative of Damascus's conquest](https://www.biblegateway.com/passage/?search=2+Kings+16%3A9&version=NRSVUE).
+
+### Obadiah 1–21 — Edom's punishment and no surviving house of Esau {#obadiah-edom}
+
+- **Original language:** וְלֹא־יִהְיֶה שָׂרִיד לְבֵית עֵשָׂו ('there shall be no survivor for the house of Esau', Obadiah 18)
+- **Earlier situation:** Obadiah denounces Edom's pride and alleged exploitation of Jerusalem's disaster, then imagines reversal, territorial recovery and divine rule. Scholarly dates range widely; Elie Assis (2015) argues for three composed stages: before Jerusalem's fall, in response to 586 BCE and later Edomite movement into southern Judah. The text shares striking sections with Jeremiah 49:7–22.
+- **Later claim / event:** The Edomite polity disappeared over time, but Edomite/Idumaean identity continued in southern Judea through the Hellenistic and Roman periods; Idumaeans figure in the Hasmonean era and Herod's ancestry. Later Jewish and Christian interpreters may read the fall of Edom as fulfilled, symbolic, or typological judgment.
+- **Type of reuse or prediction:** Loss of an independent kingdom must be separated from the survival of Edomite people, their relocation and identity, and literal eradication of every descendant. The phrase 'no survivor' can function as national judgment rhetoric, but readers who take it literally face contrary evidence for Idumaean continuation. The prophecy's date and its shared literary traditions affect how far it could precede the events described.
+- **Independent evidence and limitations:** Oxford's entry on Idumaea and research on Edomite-related settlement document survival of the identity for centuries, limiting literal extermination claims. Juan Manuel Tebes (2011) questions the traditional portrayal of Edomite betrayal in 586 BCE, warning against treating partisan narrative blame as an independently verified war report.
+- **Provisional conclusion:** Political/territorial transformations documented; no-survivor literalism and Edomite complicity disputed
+- **Primary and scholarly sources:** [Obadiah 1:18 Hebrew](https://biblehub.com/text/obadiah/1-18.htm); [Elie Assis, Structure/Redaction of Obadiah (JSOT 2015)](https://doi.org/10.1177/0309089214567376); [Juan Manuel Tebes, Edomite Involvement in Jerusalem's Fall (2011)](https://doi.org/10.1177/0309089211423731); [Tessa Rajak, Idumaea, Oxford Classical Dictionary](https://doi.org/10.1093/acrefore/9780199381135.013.3252); [The Religion of Idumea and Its Relationship to Early Judaism (2020)](https://doi.org/10.3390/rel11100487).
+
+### Jeremiah 49:7–22 — Judgment of Edom and its shared oracle with Obadiah {#jeremiah-49-edom}
+
+- **Original language:** כִּי־אֲנִי חָשַׂפְתִּי אֶת־עֵשָׂו ('For I have laid Esau bare', Jer 49:10); the oracle invokes desolation, terror and judgment on Edom.
+- **Earlier situation:** Jeremiah 49:7–22 speaks against Teman/Bozrah and Edom. Its opening and middle lines are closely related to Obadiah 1–9, yet the texts differ in wording and scope. Scholarship debates whether Jeremiah drew on Obadiah, the reverse, a common earlier oracle, or layers assembled at different times.
+- **Later claim / event:** The historical Edomite kingdom declined, while Idumaean communities developed and persisted in southern Judea. The passage also influenced later conceptions of Edom as a symbolic enemy; such reuse must not replace the historical referent automatically.
+- **Type of reuse or prediction:** Because substantial wording is shared, counting Obadiah and Jeremiah 49 as two independent successful forecasts is methodologically unjustified without establishing independent composition and dating. Graham Ogden (1982) investigates the literary relationship; Cambridge commentary notes a common-source alternative. The exact agent, scale and chronology of political change are also unresolved.
+- **Independent evidence and limitations:** Independent archaeological/historical sources support Edomite/Idumaean continuity, migration and cultural transformation rather than verified total extermination. Specific devastation imagery is largely preserved in the prophetic text, and cannot independently confirm its own accuracy.
+- **Provisional conclusion:** Shared wording and Edomite identity history documented; literary priority, chronology and literal devastation uncertain
+- **Primary and scholarly sources:** [Jeremiah 49:7–22 primary passage](https://www.biblegateway.com/passage/?search=Jeremiah+49%3A7-22&version=NRSVUE); [Jeremiah 49:10 Hebrew](https://biblehub.com/text/jeremiah/49-10.htm); [Graham S. Ogden, Edom in Jeremiah 49 and Obadiah (JSOT 1982)](https://doi.org/10.1177/030908928200702406); [Cambridge commentary on shared sources, Jeremiah 49:7](https://biblehub.com/commentaries/jeremiah/49-7.htm); [Yigal Levin, Genesis of Idumea (Bar-Ilan University)](https://cris.biu.ac.il/en/publications/the-genesis-of-idumea/).
+
+### Haggai 2:6–9 (with 2:1–5) — Greater glory of the rebuilt temple and the nations' treasure {#haggai-2-temple-glory}
+
+- **Original language:** חֶמְדַּת כָּל־הַגּוֹיִם (khemdat kol-haggoyim, 'desired/precious things of all nations'); וּבָאוּ ('they will come', plural), Haggai 2:7.
+- **Earlier situation:** Haggai dates this encouragement to the second year of Darius (normally identified as Darius I, 520 BCE), when Judah's community was rebuilding the Jerusalem temple. The modest appearance of the project relative to Solomon's temple is explicit in 2:3, followed by promises of shaking nations, wealth, glory and peace. Ezra 6 dates temple dedication to Darius's sixth year, conventionally 515 BCE, with some academic dissent about chronology.
+- **Later claim / event:** The Hebrew phrase often printed as 'desire of all nations' is commonly rendered 'treasures/precious things of the nations' because the plural verb indicates a collective sense and the next verse speaks of silver and gold. Some Christians have interpreted a singular 'Desired One' as Jesus; Hebrews 12:26 quotes the cosmic-shaking line in an eschatological argument.
+- **Type of reuse or prediction:** The temple-focused immediate setting, the treasure-vs-person linguistic question and the later use of the shaking image are distinct. A direct named prediction of Jesus from 2:7 is grammatically weak; faith-based typology is a different interpretive claim. 'Greater glory' can refer to cultic honor, prosperity or divine presence, making purely architectural comparisons insufficient.
+- **Independent evidence and limitations:** The Persian-period temple restoration is broadly documented by ancient literary sources, but exact glory, world-shaking and peace promises lack an independently measurable complete historical fulfillment. The NET translation note explicitly rejects deriving a direct original-context messianic prediction from the 'treasures' wording.
+- **Provisional conclusion:** 520 BCE temple-restoration context strong; treasures interpretation supported; universal shaking/glory fulfillment debated
+- **Primary and scholarly sources:** [Haggai 2:6–9 and translator notes (NET Bible)](https://classic.net.bible.org/passage.php?passage=hag+2%3A6-9); [Haggai 2:7 Hebrew](https://biblehub.com/text/haggai/2-7.htm); [Yehudite Imaginations of King Darius (Religions 2022), temple chronology](https://doi.org/10.3390/rel13030262); [Hebrews 12:26–28 later citation](https://www.biblegateway.com/passage/?search=Hebrews+12%3A26-28&version=NRSVUE); [Bible.org Haggai commentary, grammar and rebuilding context](https://bible.org/seriespage/haggai).
+
+### Zechariah 14:1–21 — The Mount of Olives splits and all nations worship in Jerusalem {#zechariah-14-day-of-yhwh}
+
+- **Original language:** וְנִבְקַע הַר הַזֵּיתִים ('the Mount of Olives shall be split', Zech 14:4); the chapter also depicts living waters and yearly festival pilgrimage.
+- **Earlier situation:** Zechariah 14 pictures hostile nations attacking Jerusalem, YHWH's personal intervention on the Mount of Olives, extraordinary light, living waters, and surviving nations worshipping at Sukkot. Zechariah 9–14 is widely treated as having a literary history distinct from dated 1–8; Paul Redditt (2021) situates major additions in the fifth century BCE while other scholars argue differing Persian/Hellenistic dates.
+- **Later claim / event:** Jewish liturgy reads this chapter at Sukkot, treating the festival pilgrimage and universal kingship as future hope. Christian traditions connect the Mount of Olives and divine arrival to Jesus' second coming, sometimes with literal geological and geopolitical expectations. Those readings must be individually attributed rather than merged into one consensus.
+- **Type of reuse or prediction:** This is a visionary description of universal divine rule with cosmic and geographic imagery; whether meant literally, symbolically or as still-future eschatology is contested. It is not evidence that an independently dated historic Mount-of-Olives rupture occurred, nor does a later Jerusalem conflict reproduce every described feature.
+- **Independent evidence and limitations:** No independent historical documentation establishes the combined series of mountain splitting, perpetual miraculous light, world worship and uninterrupted seasonal water flows as an already completed event. Conversely, absence of such confirmation does not logically disprove an unbounded future expectation. A research verdict must specify past-fulfillment versus still-future claim.
+- **Provisional conclusion:** Primary imagery and varied later reception documented; complete historical fulfillment not independently verified
+- **Primary and scholarly sources:** [Zechariah 14 original text](https://www.biblegateway.com/passage/?search=Zechariah+14&version=NRSVUE); [Zechariah 14:4 Hebrew](https://biblehub.com/text/zechariah/14-4.htm); [Paul L. Redditt, Zechariah, Oxford Handbook of the Minor Prophets (2021)](https://doi.org/10.1093/oxfordhb/9780190673208.013.31); [TheTorah.com: Sukkot, Future Redemption for Jews and Gentiles](https://www.thetorah.com/article/sukkot-the-festival-of-future-redemption-for-jews-and-gentiles); [Michael Fishbane: How Zechariah Relates to Sukkot](https://www.myjewishlearning.com/article/how-zechariah-relates-to-sukkot/).
+
 ## Bounded inventory: ten Matthew fulfillment formulas
 
 These ten are a **particular scholarly-defined subset** of Matthew's use of the Hebrew Bible. All ten have dedicated or linked audit cases; this does not finish Matthew's other quotations or other books.
@@ -502,7 +558,7 @@ These ten are a **particular scholarly-defined subset** of Matthew's use of the 
 
 ### Wider seed inventory — pending discovery and research
 
-The following **50 tracked candidate locations** now include **24 researched claims and two additional cases linked to earlier completed records**; 24 candidates remain pending or only partially linked. An item marked researched refers to a separate case record; it is not an independently reviewed claim. A related record can cover another later use, without completing this particular claim. This seed inventory remains incomplete until discovery is checked against multiple inventories and the underlying texts.
+The following **50 tracked candidate locations** now include **29 researched claims and two additional cases linked to earlier completed records**; 19 candidates remain pending or only partially linked. An item marked researched refers to a separate case record; it is not an independently reviewed claim. A related record can cover another later use, without completing this particular claim. This seed inventory remains incomplete until discovery is checked against multiple inventories and the underlying texts.
 
 | Group | Candidate claim location | Source or subject | Status |
 |---|---|---|---|
@@ -534,12 +590,12 @@ The following **50 tracked candidate locations** now include **24 researched cla
 | historical oracle | Jeremiah 29:10 | Seventy years for Babylon | Research record: jeremiah-29-seventy-years; review pending |
 | historical oracle | Ezekiel 26:3–14 | Tyre | Research record: ezekiel-26-tyre; review pending |
 | historical oracle | Isaiah 13:17–22 | Babylon and Medes | Research record: isaiah-13-babylon-medes; review pending |
-| historical oracle | Isaiah 17:1–3 | Damascus | Research pending |
+| historical oracle | Isaiah 17:1–3 | Damascus | Research record: isaiah-17-damascus; full review pending |
 | historical oracle | Nahum 1–3 | Nineveh | Research record: nahum-nineveh-fall; review pending |
-| historical oracle | Obadiah 1–21 | Edom | Research pending |
-| historical oracle | Jeremiah 49:7–22 | Edom | Research pending |
-| historical oracle | Haggai 2:6–9 | Temple glory | Research pending |
-| historical oracle | Zechariah 14:1–21 | Jerusalem and nations | Research pending |
+| historical oracle | Obadiah 1–21 | Edom | Research record: obadiah-edom; full review pending |
+| historical oracle | Jeremiah 49:7–22 | Edom | Research record: jeremiah-49-edom; full review pending |
+| historical oracle | Haggai 2:6–9 | Temple glory | Research record: haggai-2-temple-glory; full review pending |
+| historical oracle | Zechariah 14:1–21 | Jerusalem and nations | Research record: zechariah-14-day-of-yhwh; full review pending |
 | apocalyptic | Daniel 2:31–45 | Statue and four kingdoms | Research pending |
 | apocalyptic | Daniel 7:1–27 | Four beasts / son of man | Research pending |
 | apocalyptic | Daniel 8:1–27 | Ram/goat and little horn | Research pending |
@@ -559,15 +615,15 @@ The following **50 tracked candidate locations** now include **24 researched cla
 
 ## Open inventory and stopping rule
 
-**Batch 1:** 11 internally checked starter records. **Batch 2:** six research entries completing Matthew's ten classic formula quotations with four earlier case links. **Batch 3:** five NT passages showing the importance of Septuagint translation and later theological readings. **Batch 4:** three more Matthew claims (including a generic fulfillment assertion), while two other Matthew quotations link to existing records. **Batches 5–6:** ten further NT citation cases, with full internal and external reviews outstanding. The 24 entries in Batches 2–6 and six new historical-oracle entries in Batch 7 require full claim-by-claim review; Batches 5–6 received an initial source check. All batches are only a defined subset of the wider inventory.
+**Batch 1:** 11 internally checked starter records. **Batch 2:** six research entries completing Matthew's ten classic formula quotations with four earlier case links. **Batch 3:** five NT passages showing the importance of Septuagint translation and later theological readings. **Batch 4:** three more Matthew claims (including a generic fulfillment assertion), while two other Matthew quotations link to existing records. **Batches 5–6:** ten further NT citation cases, with full internal and external reviews outstanding. The 35 records in Batches 2–8 require full case-by-case review; Batch 8 completes source locating for the current historical-oracle seed, with overlapping Edom passages clearly distinguished. All batches are only a defined subset of the wider inventory.
 
-**Batch 7:** six historical-oracle cases comparing Cyrus, Babylonian domination, Tyre, Babylon's fall, and Nineveh with external records. Specific event corroboration is separated from whether the relevant biblical wording preceded the event. Source locating is complete for this batch; detailed academic review is pending.
+**Batch 7:** six historical-oracle cases comparing Cyrus, Babylonian domination, Tyre, Babylon's fall, and Nineveh with external records. **Batch 8:** Damascus, Obadiah and Jeremiah 49 on Edom, Haggai's temple promises, and Zechariah 14's Jerusalem vision. Both Edom cases share an earlier literary tradition. Detailed critical scholarship review remains pending.
 
 Next nonduplicative batches, with each source passage + later claim as the canonical match key:
 
 - **Matthew:** the ten formula quotations are now indexed and researched; next enumerate and review the five separately tracked non-formula candidates and remaining quotations/allusions.
 - **Other New Testament authors:** Mark, Luke, John, Acts, Paul, Hebrews and Revelation; include quotations and explicitly labeled allusions.
-- **Hebrew Bible predictions:** Assyria, Babylon, Egypt, Persian period, restoration and conflict oracles, tested against independent records.
+- **Historical oracles:** all eleven historical seed locations now have source-linked cases; verify their critical text, original composition dates, and independent historical evidence before upgrading review status.
 - **Apocalyptic / end-time claims:** Daniel, Jesus' kingdom imminence sayings, Revelation and later receptions, tracking dating debates and genre.
 - **Jewish and Christian messianic expectations:** catalog standards and interpretive differences without implying any single modern community speaks for all Judaism or Christianity.
 
