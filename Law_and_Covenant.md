@@ -7,11 +7,12 @@
 
 > **Provenance.** **Written by:** the AI research assistant (Perplexity Computer, running Claude), 20 October 2026, verified by search on that date. Scripture is quoted from the NRSVue, the corpus's primary translation since 10 August 2026 (Translations §6). This document gathers law-and-covenant material that was previously scattered across Study Notes §1.5, §9.5, and §9.6.3 and Observations §22.9. It links to those sections rather than repeating them. Every named-scholar claim carries a source in §9. It was written during the corpus's consolidation phase (`CLAUDE.md`). It also resolves the six Cited Persons entries for the Paul and the law debate (Sanders, Wright, Westerholm, Schreiner, Seifrid, Stuhlmacher) and records two corrections to earlier corpus wording (§7, third audit).
 
-> **Who is saying what.** The same three markers run through the whole corpus:
+> **Who is saying what.** These markers run through the whole corpus:
 >
 > - **⟨DOCUMENTED⟩**: a named scholar in a named publication, or a primary text quoted directly. You can check it.
 > - **⟨INFERENCE⟩**: reasoning built on documented facts that is not itself found in any source. It's the assistant's analysis, and it should never be cited as if someone had published it.
 > - **⟨YOURS⟩**: your own observation, recorded because it held up.
+> - **⟨UNRESOLVED⟩**: attributed to a named source, but the original passage has not been checked yet. Don't quote it as established.
 
 > **The short version.** "Torah" means instruction more than "law," and the Hebrew Bible frames it as a gift inside a covenant, not an entrance exam. Since E.P. Sanders (1977), most scholars agree that Second Temple Judaism was not a religion of earning salvation by merit. They still disagree about how much room it left for final judgment according to works. Paul says the law is "holy and just and good" and also that "the letter kills." Scholars split into four main camps over how those statements fit together. Christian traditions then built frameworks the texts don't contain themselves: moral/ceremonial/judicial law, covenant of works and covenant of grace, dispensations. Since 1965, official Catholic teaching has moved away from the idea that the church simply replaces Israel.
 
@@ -61,13 +62,13 @@
 
 ### 3.2 Sanders and "covenantal nomism"
 
-⟨DOCUMENTED⟩ **E.P. Sanders**, *Paul and Palestinian Judaism* (1977), surveyed Palestinian Jewish literature from about 200 BCE to 200 CE: Tannaitic rabbinic texts, the major Dead Sea Scrolls, and selected Apocrypha and Pseudepigrapha from Ben Sira to 4 Ezra ([review summary](https://thescripturesays.org/2016/06/27/book-review-sanders-paul-palestinian-judaism/)). His definition:
+⟨UNRESOLVED⟩ **E.P. Sanders**, *Paul and Palestinian Judaism* (1977), surveyed Palestinian Jewish literature from about 200 BCE to 200 CE: Tannaitic rabbinic texts, the major Dead Sea Scrolls, and selected Apocrypha and Pseudepigrapha from Ben Sira to 4 Ezra ([review summary](https://thescripturesays.org/2016/06/27/book-review-sanders-paul-palestinian-judaism/)). His definition:
 
 > "covenantal nomism is the view that one's place in God's plan is established on the basis of the covenant and that the covenant requires as the proper response of man his obedience to its commandments, while providing means of atonement for transgression" (p. 75; [quoted at Stark](https://jdavidstark.com/judaism-in-paul-and-palestinian-judaism/))
 
-In short, the covenant comes before the commandments. People obey **to stay in**, not **to get in**.
+In short, the covenant comes before the commandments. People obey **to stay in**, not **to get in**. **Unresolved:** the p. 75 wording is quoted through secondary sites; Sanders's original page has not been checked.
 
-⟨DOCUMENTED⟩ **Sanders named his own exception.** He did not claim that no Jewish text was legalistic. Of 4 Ezra he wrote: "In IV Ezra, in short, we see an instance in which covenantal nomism has collapsed. All that is left is legalistic perfectionism" (p. 409; [review summary](https://thescripturesays.org/2016/06/27/book-review-sanders-paul-palestinian-judaism/)). That is a single exception, dated after 70 CE and the Temple's destruction.
+⟨UNRESOLVED⟩ **Sanders named his own exception.** He did not claim that no Jewish text was legalistic. Of 4 Ezra he wrote: "In IV Ezra, in short, we see an instance in which covenantal nomism has collapsed. All that is left is legalistic perfectionism" (p. 409; [review summary](https://thescripturesays.org/2016/06/27/book-review-sanders-paul-palestinian-judaism/)). That is a single exception, dated after 70 CE and the Temple's destruction. **Unresolved:** the p. 409 quotation comes from a review; Sanders's original page has not been checked.
 
 ⟨DOCUMENTED⟩ **What the texts themselves say supports the "not too hard" side.** Deuteronomy 30:11: "Surely, this commandment that I am commanding you today is not too hard for you, nor is it too far away." Paul's own pre-Christian self-assessment: "as to righteousness under the law, blameless" (Phil 3:6). Observations §22.9 develops this point, including the Torah's built-in repair mechanisms (sacrifice, the Day of Atonement, repentance).
 
@@ -97,7 +98,7 @@ In short, the covenant comes before the commandments. People obey **to stay in**
 ### 4.1 Three ways to explain the tension
 
 1. ⟨DOCUMENTED⟩ **Paul is inconsistent.** Heikki Räisänen, *Paul and the Law* (WUNT 29, Mohr Siebeck, 1983; 2nd ed. 1987), argued that Paul's statements about the Torah contain real "tensions and self-contradictions" that no system resolves ([Mohr Siebeck listing](https://books.google.com/books/about/Paul_and_the_Law.html?id=MByQXPgNyF8C)).
-2. ⟨DOCUMENTED⟩ **Paul reasoned from solution to plight.** E.P. Sanders, *Paul, the Law, and the Jewish People* (Fortress, 1983), argued that Paul did not start with a problem in Judaism and find Christ as the answer. He started from Christ and worked backward: if salvation is through Christ, the law cannot be the way ([Fortress Press](https://www.fortresspress.com/store/product/9780800618780/Paul-the-Law-and-the-Jewish-People)).
+2. ⟨UNRESOLVED⟩ **Paul reasoned from solution to plight.** E.P. Sanders, *Paul, the Law, and the Jewish People* (Fortress, 1983), argued that Paul did not start with a problem in Judaism and find Christ as the answer. He started from Christ and worked backward: if salvation is through Christ, the law cannot be the way ([Fortress Press](https://www.fortresspress.com/store/product/9780800618780/Paul-the-Law-and-the-Jewish-People)). **Unresolved:** this summary rests on the publisher's description; Sanders's own text has not been checked.
 3. ⟨DOCUMENTED⟩ **Paul is coherent once the question is identified correctly.** This covers everyone else in §5. Each camp argues that a different question (individual guilt, ethnic boundaries, Israel's story, or Gentile inclusion) makes the statements fit together.
 
 ### 4.2 Three texts that decide a lot
@@ -189,7 +190,7 @@ In short, the covenant comes before the commandments. People obey **to stay in**
 
 **AUDIT**
 
-⟨DOCUMENTED⟩ Sanders's survey of Palestinian Jewish literature from 200 BCE to 200 CE found the covenant consistently framed as coming before obedience, with atonement built in (§3.2). His one exception, 4 Ezra, comes after 70 CE. The Torah says of itself that it is "not too hard" (Deut 30:11), and Paul calls himself "blameless" under it (Phil 3:6). The critics (*Justification and Variegated Nomism*, Gathercole) did not bring the caricature back. They argued for a **more varied** picture, with more weight on final judgment by works in some texts (§3.3).
+⟨UNRESOLVED⟩ Sanders's survey of Palestinian Jewish literature from 200 BCE to 200 CE found the covenant consistently framed as coming before obedience, with atonement built in (§3.2). His one exception, 4 Ezra, comes after 70 CE. The Torah says of itself that it is "not too hard" (Deut 30:11), and Paul calls himself "blameless" under it (Phil 3:6). The critics (*Justification and Variegated Nomism*, Gathercole) did not bring the caricature back. They argued for a **more varied** picture, with more weight on final judgment by works in some texts (§3.3). **Unresolved:** Sanders's findings are summarized from secondary reviews until his original pages are checked.
 
 **CORRECTED:** As a blanket description of Second Temple Judaism, the claim fails. The narrower claim, that some Second Temple texts tie **final** vindication to obedience, is supported and still disputed. Anyone using the broad claim should be pointed to Sanders. Anyone saying "Sanders proved no Jew ever relied on works" should be pointed to Sanders's own exception and to Gathercole.
 
