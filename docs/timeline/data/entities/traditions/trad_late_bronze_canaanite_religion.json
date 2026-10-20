@@ -55,5 +55,12 @@
       "url": "https://eupt.uni-goettingen.de/Korpus.html",
       "supports": "Numbered tablet entries (e.g. KTU 1.1–1.6) and editorial corpus; not a proof of direct borrowing."
     }
+  ],
+  "public_profile_facts": [
+    {
+      "statement": "The Göttingen critical corpus lists the Baal Cycle tablets as KTU 1.1–1.6, a directly identifiable group of Ugaritic mythological texts.",
+      "source_url": "https://eupt.uni-goettingen.de/Korpus.html",
+      "evidence_scope": "Verified at corpus inventory level. Further passage-level checks are required for specific interpretations or claims of borrowing by other traditions."
+    }
   ]
 }
