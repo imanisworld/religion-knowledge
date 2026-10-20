@@ -37,3 +37,23 @@ test('Religion & Law progress counts reflect structured records', () => {
       'Research status must accurately report incomplete context states');
   }
 });
+
+test('public Cited Persons audit leads describe uncertainty before promoting claims', () => {
+  const html = readFileSync('cited-persons.html','utf8');
+  const indexed = JSON.parse(readFileSync('search-index.json','utf8'));
+  const guards = [
+    ['person-archer-gleason', 'does not independently verify'],
+    ['person-barton-john', 'Specific interpretations unverified'],
+    ['person-briggs-peter', 'Do not cite'],
+    ['person-macdonald-dennis-r', 'has not been established'],
+    ['person-macintyre-alasdair', 'detailed interpretation pending'],
+  ];
+  for (const [id, warning] of guards) {
+    const match = html.match(new RegExp('<p id="'+id+'">([\\s\\S]*?)<\\/p>'));
+    assert.ok(match, 'Person missing from public reader: '+id);
+    assert.ok(match[1].includes(warning), 'Missing source-status caveat for '+id);
+    const entry = indexed.find(row=>row.url==='cited-persons.html#'+id);
+    assert.ok(entry,'Person missing from public search index: '+id);
+    assert.ok(entry.text.includes(warning),'Search still shows older unsupported text for '+id);
+  }
+});
