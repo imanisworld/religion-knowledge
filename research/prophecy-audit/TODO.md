@@ -1,30 +1,33 @@
-# Biblical Prophecy Audit — Work Queue
+# Biblical Prophecy Audit — Research and Release Checklist
 
-**Updated:** October 20, 2026 · [Current status](STATUS.md) · [PR #202](https://github.com/imanisworld/religion-knowledge/pull/202)
+**Updated:** October 20, 2026 · [Status and counts](STATUS.md) · [PR #202](https://github.com/imanisworld/religion-knowledge/pull/202)
 
-## Completed to source-location stage
+## Completed to research/source-location standard
 
-- [x] Preserve and cite 11 originally internally reviewed studies.
-- [x] Cover ten standard Matthew fulfillment formula quotations, distinguishing quotations from allusions.
-- [x] Research NT source-reuse batches across Matthew, Luke, John, Acts, Romans and Hebrews.
-- [x] Source-locate the eleven historical-oracle seed cases, including conquest/date issues for Babylon and Damascus and shared Edom oracles.
-- [x] **Daniel six-vision batch:** chapters 2, 7, 8, 9, 11 and 12, comparing Aramaic/Hebrew, Antiochene context, four-kingdom theories, seventy weeks, Daniel 11's anticipated ending, and resurrection/countdown differences.
-- [x] Synchronize **52** source-linked case records into the canonical Markdown, HTML reader and **57 prophecy Search entries**.
-- [x] Refresh status, outstanding claims, scholarly review notes and PR handoff.
+- [x] Original eleven cases researched and initially internally checked.
+- [x] Ten Matthew fulfillment formulas covered (bounded subset).
+- [x] Supplemental New Testament, nation-oracle and restoration cases in Batches 2–8.
+- [x] Six Daniel visions with Hellenistic dating, Antiochus IV, Jeremiah's seventy years reinterpreted, and failed/uncertain near-term predictions preserved.
+- [x] Seven Jesus/Paul timing claims in Batch 10; distinguish Temple 70 CE, near generation, competing 'coming' referents, 1 Thessalonians Greek participles and 1 Corinthians variant readings.
+- [x] Align 59 canonical research records with Markdown, HTML, comparison and 64 prophecy Search section entries.
+- [x] Update STATUS/REVIEW/PR progress without merging.
 
-## Remaining in the current seed — 13 claim locations
+## Six remaining candidate claim locations in this seed
 
-- [ ] **Jesus/Paul imminent-time claims (7):** Mark 13:2; Mark 13:30 / Matthew 24:34; Matthew 10:23; Mark 9:1 / Matthew 16:28; Mark 14:62; 1 Thessalonians 4:15–17; 1 Corinthians 15:51–52. Specify who the original audience was, what timing expression was used, and alternative preterist, futurist and historical-critical readings.
-- [ ] **Revelation (3):** Revelation 1:1–3 with 22:6–12 (soon/near); Revelation 13 (beast and 666/616 variants); Revelation 20–21 (millennium/new Jerusalem). Distinguish Roman imperial symbolism, textual variants and later futurism.
-- [ ] **NT quotations related to earlier cases (3):** Mark 1:2–3 (Malachi 3 + Isaiah 40, with Mark's attribution); John 19:24 (Psalm 22 garment-lot motif); Acts 8:32–35 (Isaiah 53 servant identity). Check the later author's precise claim without duplicating earlier passage research unnecessarily.
+- [ ] **Revelation 1:1–3 / 22:6–12:** 'soon' and 'time is near'; Greek `en tachei` and `engys`, date and original Asia Minor audience, later expectation.
+- [ ] **Revelation 13:** beast and 666/616; first-century Rome, Nero Caesar gematria and later futurist readings; manuscripts and limits.
+- [ ] **Revelation 20–21:** millennium, judgment and New Jerusalem; genre and competing eschatological traditions, historicity.
+- [ ] **Mark 1:2–3:** Malachi 3:1 / Isaiah 40:3 joint quotation and attribution to Isaiah; distinguish differing Old Testament original settings.
+- [ ] **John 19:24:** Psalm 22:18 garment lots; earlier lament and later passion narrative; test independence of the Gospel detail.
+- [ ] **Acts 8:32–35:** Isaiah 53:7–8 servant quotation; the Ethiopian official and Philip's identification of Jesus with the servant; distinguish original context and later application.
 
-## Review and completion gates
+## Mandatory completion work after the seed queue
 
-- [ ] **Inventory discovery:** search other Jewish, Christian and academic prophecy indexes and the biblical text for omitted kinds of predictions (apparently failed, conditional, royal, national, apocalyptic and messianic). Record inclusion criteria before calling the inventory finished.
-- [ ] **Full internal source review:** 41 later case records, including Daniel's six, need critical-text checks, external publication verification, competing interpretations and cautious chronology. Review earlier 11 if later scholarship warrants.
-- [ ] **Deduplication:** count distinct earlier-passage + later-test pairs while flagging a shared source tradition (for example Obadiah/Jeremiah 49).
-- [ ] **Website controls:** compare `records.json`, `index.md`, `prophecy-audit.html`, `inventory.json`, `search-index.json`, `STATUS.md` and `REVIEW.md`; run reproducible builds, case/search anchors, mobile table semantics and light/dark 390px/1440px previews.
-- [ ] **Independent outside academic review:** hand over the final fully scoped evidence set, collect exact corrections and opposing evidence, and resolve them before marking any contested finding as final.
-- [ ] **Merge/release:** do not merge PR #202 on green CI alone; seek project-owner decision after the independent review.
+- [ ] **Inventory discovery and explicit boundaries:** cross-verify Jewish, Christian and critical-academic catalogs and full-text biblical predictions. Include conditional threats, apparent failures, named nation predictions, royal promises, messianic readings and apocalyptic deadlines. Add omitted loci; do not claim a universally agreed number.
+- [ ] **Full case-by-case research verification for 48 newer cases**, especially Hebrew/Greek lexical accuracy, manuscript variants, original time horizon, actual contents of cited scholarship and independent historical source chains. Revisit initial 11 when appropriate.
+- [ ] **Deduplication:** distinguish earlier source from each later reuse/test and distinguish shared earlier literary sources, e.g. Obadiah and Jeremiah 49.
+- [ ] **Technical checks:** regenerate, verify 59 case links and Search, mobile tables, deep links, accessibility and light/dark at 390px and 1440px; rerun checks after later changes.
+- [ ] **Independent outside review:** one combined packet for entire defined inventory; log corrections/uncertainties and apply revisions before release.
+- [ ] **Release decision:** retain PR #202 open until explicit project-owner approval after the scholarly review.
 
-**Scope warning:** The 50 locations are a working discovery seed. Completing 13 does not establish a universally agreed 'total biblical prophecies' count.
+**Critical accounting rule:** The six pending locations are the remainder of a non-exhaustive 50-location research seed, not evidence that only six biblical prophecies remain to study.
