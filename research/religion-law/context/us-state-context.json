@@ -3280,221 +3280,1629 @@
   {
     "state": "Massachusetts",
     "slug": "massachusetts",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-10-20",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/massachusetts/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±5.8 percentage points for adults in Massachusetts",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "8%",
+          "percent": 8,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "29%",
+          "percent": 29,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "10%",
+          "percent": 10,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "3%",
+          "percent": 3,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "4%",
+          "percent": 4,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "8%",
+          "percent": 8,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "5%",
+          "percent": 5,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "25%",
+          "percent": 25,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Massachusetts table are Catholic (29%), Mainline Protestant (10%), and Evangelical Protestant (8%). Pew lists 8% atheist, 5% agnostic, and 25% nothing in particular. Figures are survey estimates; the state margin of error is ±5.8 percentage points, <1% did not answer, and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
-      "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "as_of": "2026-10-20",
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 6,
+      "documented_affiliations": 2,
+      "summary": "Two of six tracked Massachusetts power positions have documented affiliations, both self-identified in published interviews: Governor Maura Healey (Catholic) and Attorney General Andrea Joy Campbell (Christian, no denomination stated). The other four remain unknown. Massachusetts is 29% Catholic in Pew's survey, the largest named tradition, with 25% nothing in particular.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Maura Healey",
+          "affiliation_status": "documented",
+          "affiliation": "Catholic (self-identified)",
+          "affiliation_detail": "Politico reported Healey saying: “As a Catholic, I believe in ensuring we look after those around us, especially the most vulnerable among us.” No parish is named.",
+          "office_source": "https://www.mass.gov/orgs/governor-maura-healey-and-lt-governor-kim-driscoll",
+          "affiliation_source": "https://www.politico.com/newsletters/massachusetts-playbook/2024/05/16/when-healey-met-the-pope-00158298",
+          "source_note": "Office verified by Mass.gov; affiliation from a direct news report quoting her self-identification."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "Kim Driscoll",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://www.mass.gov/orgs/governor-maura-healey-and-lt-governor-kim-driscoll",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Attorney General",
+          "name": "Andrea Joy Campbell",
+          "affiliation_status": "documented",
+          "affiliation": "Christian (self-identified; no denomination stated)",
+          "affiliation_detail": "In a Boston Magazine interview Campbell said: “I’m a believer, a Christian.” No church or denomination is named.",
+          "office_source": "https://www.mass.gov/orgs/office-of-the-attorney-general",
+          "affiliation_source": "https://www.bostonmagazine.com/news/2023/09/13/andrea-campbell-interview/",
+          "source_note": "Office verified by Mass.gov; affiliation from a published interview."
+        },
+        {
+          "office": "Speaker of the House",
+          "name": "Ronald Mariano",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://malegislature.gov/Legislators/Leadership/House",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Senate President",
+          "name": "Karen E. Spilka",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "An encyclopedia states she is Jewish, but no official biography or direct news report was located in this pass; Wikipedia alone is not coded.",
+          "office_source": "https://malegislature.gov/Legislators/Leadership/Senate",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "Kimberly S. Budd",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://www.mass.gov/info-details/history-of-the-seats-of-the-supreme-judicial-court-bench",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        }
+      ]
     }
   },
   {
     "state": "Michigan",
     "slug": "michigan",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-10-20",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/michigan/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±4.2 percentage points for adults in Michigan",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "21%",
+          "percent": 21,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "19%",
+          "percent": 19,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "14%",
+          "percent": 14,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "5%",
+          "percent": 5,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "4%",
+          "percent": 4,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "5%",
+          "percent": 5,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "22%",
+          "percent": 22,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Michigan table are Evangelical Protestant (21%), Catholic (19%), and Mainline Protestant (14%). Pew lists 4% atheist, 5% agnostic, and 22% nothing in particular. Figures are survey estimates; the state margin of error is ±4.2 percentage points, 2% did not answer, and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
-      "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "as_of": "2026-10-20",
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 6,
+      "documented_affiliations": 4,
+      "summary": "Four of six tracked Michigan power positions have documented affiliations: Governor Gretchen Whitmer (Christian Church), Attorney General Dana Nessel (Jewish), House Speaker Matt Hall (Christian), and Senate Majority Leader Winnie Brinks (Christian Reformed). Three are Christian and one is Jewish. The lieutenant governor and chief justice remain unknown. Michigan is 21% evangelical Protestant and 19% Catholic in Pew's survey.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Gretchen Whitmer",
+          "affiliation_status": "documented",
+          "affiliation": "Christian (listed as “Christian Church”)",
+          "affiliation_detail": "The National Journal biographical profile lists “Religion: Christian Church.” The listing does not name a congregation or clarify whether it refers to a denomination.",
+          "office_source": "https://www.michigan.gov/whitmer",
+          "affiliation_source": "https://www.nationaljournal.com/media/vignette/samples/Gretchen%20Whitmer%20-%20Sample.pdf",
+          "source_note": "Office verified by Michigan.gov; affiliation from a reputable political reference profile."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "Garlin Gilchrist II",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Reporting describes childhood church involvement, but no current affiliation; upbringing is not coded.",
+          "office_source": "https://www.michigan.gov/en/whitmer/ltgov",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Attorney General",
+          "name": "Dana Nessel",
+          "affiliation_status": "documented",
+          "affiliation": "Jewish",
+          "affiliation_detail": "The Jewish Telegraphic Agency described Nessel as “The Jewish attorney” and reported that she grew up at the Reform congregation Temple Kol Ami in West Bloomfield. No current congregation is coded.",
+          "office_source": "https://www.michigan.gov/ag",
+          "affiliation_source": "https://www.jta.org/2019/02/20/politics/dana-nessel-the-first-openly-gay-politician-elected-to-michigan-state-office-draws-inspiration-from-judaism",
+          "source_note": "Office verified by Michigan.gov; affiliation (identity, not congregation) from direct news reporting."
+        },
+        {
+          "office": "Speaker of the House",
+          "name": "Matt Hall",
+          "affiliation_status": "documented",
+          "affiliation": "Christian (no denomination stated)",
+          "affiliation_detail": "The Michigan Legislative Biography database (Library of Michigan) lists “Religion: Christian.”",
+          "office_source": "https://www.house.mi.gov/",
+          "affiliation_source": "https://mdoe.state.mi.us/legislators/Legislator/LegislatorDetail/5523",
+          "source_note": "Office verified by the House site; affiliation from the state legislative biography database."
+        },
+        {
+          "office": "Senate Majority Leader",
+          "name": "Winnie Brinks",
+          "affiliation_status": "documented",
+          "affiliation": "Christian Reformed Church — Sherman Street CRC, Grand Rapids",
+          "affiliation_detail": "The Banner reported that Brinks “is a member of the Christian Reformed Church” and “attends Sherman Street CRC in Grand Rapids.” The Michigan Legislative Biography database lists “Christian Reformed.”",
+          "office_source": "https://senate.michigan.gov/senators/leadership/",
+          "affiliation_source": "https://www.thebanner.org/news/2023/03/crc-member-is-michigans-first-woman-as-senate-majority-leader",
+          "source_note": "The lieutenant governor presides over the Michigan Senate; the majority leader is tracked as the upper-chamber leader. Affiliation from direct denominational news reporting."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "Megan K. Cavanagh",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://www.courts.michigan.gov/courts/michigan-supreme-court/justices/chief-justice-megan-k-cavanagh/",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        }
+      ]
     }
   },
   {
     "state": "Minnesota",
     "slug": "minnesota",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-10-20",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/minnesota/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±5.7 percentage points for adults in Minnesota",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "20%",
+          "percent": 20,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "18%",
+          "percent": 18,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "22%",
+          "percent": 22,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "3%",
+          "percent": 3,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "5%",
+          "percent": 5,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "9%",
+          "percent": 9,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "15%",
+          "percent": 15,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Minnesota table are Mainline Protestant (22%), Evangelical Protestant (20%), and Catholic (18%). Pew lists 5% atheist, 9% agnostic, and 15% nothing in particular. Figures are survey estimates; the state margin of error is ±5.7 percentage points, 1% did not answer, and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
-      "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "as_of": "2026-10-20",
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 6,
+      "documented_affiliations": 4,
+      "summary": "Four of six tracked Minnesota power positions have documented affiliations: Governor Tim Walz (ELCA Lutheran), Lieutenant Governor Peggy Flanagan (Catholic), Attorney General Keith Ellison (Muslim), and House Speaker Lisa Demuth (Assemblies of God). Three are Christian and one is Muslim. The Senate President and the new chief justice, Theodora Gaïtas (in office since October 1, 2026), remain unknown. Minnesota is 22% mainline Protestant, 20% evangelical and 18% Catholic in Pew's survey.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Tim Walz",
+          "affiliation_status": "documented",
+          "affiliation": "Lutheran — Evangelical Lutheran Church in America (Pilgrim Lutheran Church)",
+          "affiliation_detail": "The Deseret News reported: “Walz has said on social media he attends Pilgrim Lutheran Church, which is part of the Evangelical Lutheran Church in America.”",
+          "office_source": "https://mn.gov/governor/",
+          "affiliation_source": "https://www.deseret.com/politics/2024/09/29/tim-walz-faith/",
+          "source_note": "Office verified by the official governor site; affiliation from direct news reporting."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "Peggy Flanagan",
+          "affiliation_status": "documented",
+          "affiliation": "Catholic",
+          "affiliation_detail": "Fox News (Dec. 26, 2025) described “Minnesota Lt Gov Peggy Flanagan, who is Catholic.” No parish is coded.",
+          "office_source": "https://mn.gov/governor/about-gov/peggyflanagan/",
+          "affiliation_source": "https://www.foxnews.com/politics/minnesota-senate-candidate-wears-hijab-visit-somali-market-fraud-scandal-unfolds",
+          "source_note": "Office verified by the official governor site; affiliation from direct news reporting."
+        },
+        {
+          "office": "Attorney General",
+          "name": "Keith Ellison",
+          "affiliation_status": "documented",
+          "affiliation": "Muslim",
+          "affiliation_detail": "Religion Unplugged reported that Ellison “became the first Black person and the first Muslim elected to statewide office in Minnesota in 2018.”",
+          "office_source": "https://ag.state.mn.us/Office/Communications/2026/02/17_LegislativeSession.asp",
+          "affiliation_source": "https://religionunplugged.com/news/2021/5/13/in-city-where-george-floyd-died-minister-emerges-as-key-champion-for-justice",
+          "source_note": "Office verified by the official AG site; affiliation from direct news reporting."
+        },
+        {
+          "office": "Speaker of the House",
+          "name": "Lisa Demuth",
+          "affiliation_status": "documented",
+          "affiliation": "Assemblies of God — River of Life church, Cold Spring",
+          "affiliation_detail": "The Minnesota Reformer (via States Newsroom) reported that “Demuth attends River of Life church in Cold Spring,” identified in the same article as an Assemblies of God church.",
+          "office_source": "https://www.house.mn.gov/members/profile/15498",
+          "affiliation_source": "https://www.newsfromthestates.com/article/godly-leadership-lisa-demuths-pentecostal-faith-driving-force-behind-her-politics",
+          "source_note": "Office verified by the official House profile; affiliation from direct news reporting (October 2026)."
+        },
+        {
+          "office": "Senate President",
+          "name": "Bobby Joe Champion",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Reporting mentions church choir work and faith, but no named current affiliation was located; not coded.",
+          "office_source": "https://www.lrl.mn.gov/history/spres",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "Theodora Gaïtas",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Appointed by Governor Walz to succeed Chief Justice Natalie Hudson; assumed office October 1, 2026. No affiliation located.",
+          "office_source": "https://mncourts.gov/about-the-courts/newsandannouncements/theodora-gaitas-named-next-minnesota-supreme-court-chief-justice",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        }
+      ]
     }
   },
   {
     "state": "Mississippi",
     "slug": "mississippi",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-10-20",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/mississippi/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±7.7 percentage points for adults in Mississippi",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "42%",
+          "percent": 42,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "5%",
+          "percent": 5,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "9%",
+          "percent": 9,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "20%",
+          "percent": 20,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "4%",
+          "percent": 4,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "13%",
+          "percent": 13,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Mississippi table are Evangelical Protestant (42%), Historically Black Protestant (20%), and Mainline Protestant (9%). Pew lists 4% atheist, 2% agnostic, and 13% nothing in particular. Figures are survey estimates; the state margin of error is ±7.7 percentage points, 3% did not answer, and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
-      "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "as_of": "2026-10-20",
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 6,
+      "documented_affiliations": 4,
+      "summary": "Four of six tracked Mississippi power positions have documented affiliations: Governor Tate Reeves (United Methodist), Lieutenant Governor Delbert Hosemann (Catholic), House Speaker Jason White (Baptist), and Senate President Pro Tempore Dean Kirby (Baptist). All four are Christian. Attorney General Lynn Fitch and Chief Justice Michael Randolph remain unknown under the project standard, though weaker or dated sources point to Methodist and Baptist ties. Mississippi is 42% evangelical and 20% historically Black Protestant in Pew's survey.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Tate Reeves",
+          "affiliation_status": "documented",
+          "affiliation": "United Methodist — Galloway United Methodist Church, Jackson",
+          "affiliation_detail": "Mississippi Today described “Galloway United Methodist, the downtown Jackson church where incumbent Republican Gov. Tate Reeves is a member.”",
+          "office_source": "https://governorreeves.ms.gov/governor-reeves-appoints-russell-b-jordan-county-court-judge-for-desoto-county/",
+          "affiliation_source": "https://mississippitoday.org/2023/09/29/tate-reeves-medicaid-expansion-church/",
+          "source_note": "Office verified by the governor's office; affiliation from direct news reporting."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "Delbert Hosemann",
+          "affiliation_status": "documented",
+          "affiliation": "Catholic — St. Richard Catholic Church",
+          "affiliation_detail": "His biography states: “He and Lynn, his wife of 54 years, are members of St. Richard Catholic Church.”",
+          "office_source": "https://www.mississippi.gov/government/elected-officials",
+          "affiliation_source": "https://delberthosemann.com/about-delbert/",
+          "source_note": "The lieutenant governor presides over the Mississippi Senate. Affiliation from his own published biography."
+        },
+        {
+          "office": "Attorney General",
+          "name": "Lynn Fitch",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "A candidate questionnaire on an advocacy voter-guide site states she is a practicing Methodist; advocacy-hosted listings are not coded under this project's standard.",
+          "office_source": "https://www.ms.gov/government/elected-officials",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Speaker of the House",
+          "name": "Jason White",
+          "affiliation_status": "documented",
+          "affiliation": "Baptist — West Baptist Church (deacon)",
+          "affiliation_detail": "His biography states: “They are members of West Baptist Church where Jason currently serves as a Deacon and Sunday School teacher.”",
+          "office_source": "https://www.lbo.ms.gov/pdfs/fy26_revrpt_june_2026.pdf",
+          "affiliation_source": "https://www.jasonwhitems.com/",
+          "source_note": "Office verified by a Legislative Budget Office report; affiliation from his own published biography."
+        },
+        {
+          "office": "Senate President Pro Tempore",
+          "name": "Dean Kirby",
+          "affiliation_status": "documented",
+          "affiliation": "Baptist",
+          "affiliation_detail": "The official Mississippi Legislature biography states: “He is of the Baptist faith.”",
+          "office_source": "https://www.lbo.ms.gov/Home/CommitteeMembers",
+          "affiliation_source": "https://billstatus.ls.state.ms.us/members/senate/Kirby.xml",
+          "source_note": "Tracked as the elected upper-chamber leader because the lieutenant governor is Senate President. Affiliation from the official legislative biography."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "Michael K. Randolph",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "A 2012 local news report described membership at Temple Baptist Church, Hattiesburg; no current source was located, so it is not coded as current affiliation.",
+          "office_source": "https://courts.ms.gov/appellatecourts/sc/bios/justicerandolph.php",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        }
+      ]
     }
   },
   {
     "state": "Missouri",
     "slug": "missouri",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-10-20",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/missouri/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±5.2 percentage points for adults in Missouri",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "31%",
+          "percent": 31,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "14%",
+          "percent": 14,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "10%",
+          "percent": 10,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "5%",
+          "percent": 5,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "5%",
+          "percent": 5,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "8%",
+          "percent": 8,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "20%",
+          "percent": 20,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Missouri table are Evangelical Protestant (31%), Catholic (14%), and Mainline Protestant (10%). Pew lists 5% atheist, 8% agnostic, and 20% nothing in particular. Figures are survey estimates; the state margin of error is ±5.2 percentage points, 1% did not answer, and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
-      "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "as_of": "2026-10-20",
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 6,
+      "documented_affiliations": 4,
+      "summary": "Four of six tracked Missouri power positions have documented affiliations: Governor Mike Kehoe (Catholic), Attorney General Catherine Hanaway (Catholic), Senate President Pro Tem Cindy O’Laughlin (Baptist), and Chief Justice W. Brent Powell (Catholic). All four are Christian. The lieutenant governor and House speaker remain unknown. Missouri is 31% evangelical and 14% Catholic in Pew's survey.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Mike Kehoe",
+          "affiliation_status": "documented",
+          "affiliation": "Catholic — Cathedral of St. Joseph Parish, Jefferson City",
+          "affiliation_detail": "The Missouri Catholic Conference reported: “Kehoe, a member of the Cathedral of St. Joseph Parish in Jefferson City, is the second Catholic to serve as governor of Missouri.”",
+          "office_source": "https://governor.mo.gov/",
+          "affiliation_source": "https://mocatholic.org/kehoe-becomes-missouris-58th-governor/",
+          "source_note": "Office verified by the official governor site; affiliation from direct reporting."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "David Wasinger",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official biography mentions values of “faith in God” from his upbringing; an encyclopedia states he is Catholic. Neither meets the standard.",
+          "office_source": "https://ltgov.mo.gov/biography/",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Attorney General",
+          "name": "Catherine L. Hanaway",
+          "affiliation_status": "documented",
+          "affiliation": "Catholic",
+          "affiliation_detail": "JNS reported: “As a Roman Catholic, her visits to the Jordan River and Church of the Holy Sepulchre were a highlight.”",
+          "office_source": "https://ago.mo.gov/",
+          "affiliation_source": "https://www.jns.org/news/u-s-news/missouri-attorney-general-focuses-on-fighting-jew-hatred-was-blown-away-visiting-christian-sites-in-israel",
+          "source_note": "Office verified by the official AG site; affiliation from direct news reporting."
+        },
+        {
+          "office": "Speaker of the House",
+          "name": "Jon Patterson",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://house.mo.gov/memberdetails.aspx?district=030",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Senate President Pro Tem",
+          "name": "Cindy O’Laughlin",
+          "affiliation_status": "documented",
+          "affiliation": "Baptist — Macon First Baptist Church",
+          "affiliation_detail": "The official Missouri Senate biography states she is “currently a member of … Macon First Baptist Church.”",
+          "office_source": "https://www.senate.mo.gov/Senators/Member?id=21",
+          "affiliation_source": "https://www.senate.mo.gov/Senators/Member?id=21",
+          "source_note": "Office and affiliation both documented by the official Senate biography."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "W. Brent Powell",
+          "affiliation_status": "documented",
+          "affiliation": "Catholic — Visitation Catholic Church, Kansas City",
+          "affiliation_detail": "The Missouri judicial-performance biography states he “is an active member of Visitation Catholic Church.”",
+          "office_source": "https://www.courts.mo.gov/page.jsp?id=133",
+          "affiliation_source": "https://yourmissourijudges.org/judges/w-brent-powell-2/",
+          "source_note": "Office verified by the Missouri courts site; affiliation from the official judicial-evaluation biography."
+        }
+      ]
     }
   },
   {
     "state": "Montana",
     "slug": "montana",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-10-20",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/montana/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±7.3 percentage points for adults in Montana",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "28%",
+          "percent": 28,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "12%",
+          "percent": 12,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "11%",
+          "percent": 11,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "3%",
+          "percent": 3,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "8%",
+          "percent": 8,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "12%",
+          "percent": 12,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "19%",
+          "percent": 19,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Montana table are Evangelical Protestant (28%), Catholic (12%), and Mainline Protestant (11%). Pew lists 8% atheist, 12% agnostic, and 19% nothing in particular. Figures are survey estimates; the state margin of error is ±7.3 percentage points, <1% did not answer, and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
-      "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "as_of": "2026-10-20",
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 6,
+      "documented_affiliations": 1,
+      "summary": "One of six tracked Montana power positions has a documented affiliation: Governor Greg Gianforte (Grace Bible Church, Bozeman). The other five remain unknown under the project standard. Montana is 28% evangelical in Pew's survey, with 19% nothing in particular, 12% agnostic and 8% atheist.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Greg Gianforte",
+          "affiliation_status": "documented",
+          "affiliation": "Nondenominational evangelical — Grace Bible Church, Bozeman",
+          "affiliation_detail": "Montana Free Press reported on “Grace Bible Church in Bozeman, where he’s a member,” and quoted Gianforte: “Grace Bible is our home church.”",
+          "office_source": "https://gov.mt.gov/",
+          "affiliation_source": "https://montanafreepress.org/2020/09/15/shared-state-episode-3-grateful-to-god/",
+          "source_note": "Office verified by the official governor site; affiliation from a direct news interview."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "Kristen Juras",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Reporting describes past Christian Legal Society involvement, not a current affiliation; not coded.",
+          "office_source": "https://mdtnews.mt.gov/news/news-folder/2026/10/20261009-Lt-Gov-Juras-Issues-EO-Temp-Suspend-Enforcement-Dyed-Fuel-Provisions-for-Commercial-Vehicles",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Attorney General",
+          "name": "Austin Knudsen",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://dojmt.gov/attorney-generals-office/",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Speaker of the House",
+          "name": "Brandon Ler",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://www.legmt.gov/house/",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Senate President",
+          "name": "Matt Regier",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://www.legmt.gov/senate/",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "Cory Swanson",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "A candidate questionnaire on an advocacy voter-guide site says he and his wife lead a non-denominational Christian church; advocacy-hosted listings are not coded.",
+          "office_source": "https://courts.mt.gov/courts/supreme/about/bios/Swanson",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        }
+      ]
     }
   },
   {
     "state": "Nebraska",
     "slug": "nebraska",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-10-20",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/nebraska/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±7.0 percentage points for adults in Nebraska",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "31%",
+          "percent": 31,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "20%",
+          "percent": 20,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "22%",
+          "percent": 22,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "4%",
+          "percent": 4,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "16%",
+          "percent": 16,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Nebraska table are Evangelical Protestant (31%), Mainline Protestant (22%), and Catholic (20%). Pew lists 2% atheist, 4% agnostic, and 16% nothing in particular. Figures are survey estimates; the state margin of error is ±7.0 percentage points, 1% did not answer, and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
-      "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "as_of": "2026-10-20",
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 5,
+      "documented_affiliations": 3,
+      "summary": "Nebraska has a unicameral Legislature, so five power positions are tracked. Three have documented affiliations: Governor Jim Pillen (Catholic), Lieutenant Governor Joe Kelly (Catholic), and Speaker John Arch (Grace Life Bible Church). All three are Christian. The attorney general and chief justice remain unknown. Nebraska is 31% evangelical, 22% mainline Protestant and 20% Catholic in Pew's survey.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Jim Pillen",
+          "affiliation_status": "documented",
+          "affiliation": "Catholic — St. Isidore Parish, Columbus",
+          "affiliation_detail": "The Diocese of Lincoln's interview states: “He is a member of St. Isidore Parish in Columbus.”",
+          "office_source": "https://governor.nebraska.gov/",
+          "affiliation_source": "https://www.lincolndiocese.org/news/diocesan-news/18580-interview-with-governor-pillen",
+          "source_note": "Office verified by the official governor site; affiliation from direct reporting."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "Joe Kelly",
+          "affiliation_status": "documented",
+          "affiliation": "Catholic — St. Peter Catholic Church, Lincoln",
+          "affiliation_detail": "The official biography states: “The Kellys live in Lincoln and attend St. Peter Catholic Church.”",
+          "office_source": "https://ltgov.nebraska.gov/about-lt-governor-joe-kelly",
+          "affiliation_source": "https://ltgov.nebraska.gov/about-lt-governor-joe-kelly",
+          "source_note": "The lieutenant governor presides over the unicameral Legislature. Office and affiliation from the official biography."
+        },
+        {
+          "office": "Attorney General",
+          "name": "Mike Hilgers",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "A candidate profile on an advocacy voter-guide site lists a Catholic parish; advocacy-hosted listings are not coded.",
+          "office_source": "https://ago.nebraska.gov/news/attorney-general-hilgers-announces-lawsuit-against-openai-deceiving-nebraskans-about-safety",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Speaker of the Legislature",
+          "name": "John Arch",
+          "affiliation_status": "documented",
+          "affiliation": "Evangelical — Grace Life Bible Church (board member)",
+          "affiliation_detail": "The official Speaker biography lists “Member: board, Grace Life Bible Church.”",
+          "office_source": "https://news.legislature.ne.gov/speaker/2026/01/08/speaker-arch-announces-2026-key-session-dates-and-important-session-information/",
+          "affiliation_source": "https://news.legislature.ne.gov/speaker/biography/",
+          "source_note": "Nebraska's Legislature is unicameral, so the Speaker is the single legislative leader. Affiliation from the official biography."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "Jeffrey J. Funke",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://nebraskajudicial.gov/courts/hon-jeffrey-j-funke-chief-justice",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        }
+      ]
     }
   },
   {
     "state": "Nevada",
     "slug": "nevada",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-10-20",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/nevada/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±7.6 percentage points for adults in Nevada",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "18%",
+          "percent": 18,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "21%",
+          "percent": 21,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "9%",
+          "percent": 9,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "6%",
+          "percent": 6,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "5%",
+          "percent": 5,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "3%",
+          "percent": 3,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "8%",
+          "percent": 8,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "24%",
+          "percent": 24,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's Nevada table are Catholic (21%), Evangelical Protestant (18%), and Mainline Protestant (9%). Pew lists 3% atheist, 8% agnostic, and 24% nothing in particular. Figures are survey estimates; the state margin of error is ±7.6 percentage points, 1% did not answer, and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
-      "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "as_of": "2026-10-20",
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 6,
+      "documented_affiliations": 2,
+      "summary": "Two of six tracked Nevada power positions have documented affiliations: Governor Joe Lombardo (Catholic) and Lieutenant Governor Stavros Anthony (Greek Orthodox, from past church-board service). Both are Christian. The other four remain unknown. Nevada is 21% Catholic, 18% evangelical and 5% Latter-day Saint in Pew's survey, with 24% nothing in particular.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Joe Lombardo",
+          "affiliation_status": "documented",
+          "affiliation": "Catholic",
+          "affiliation_detail": "Catholic News Service, via the Catholic Review, described “Nevada Gov. Joe Lombardo, a Catholic.”",
+          "office_source": "https://www.gov.nv.gov/executive-actions/executive-orders/2026-executive-orders/",
+          "affiliation_source": "https://catholicreview.org/nevadas-catholic-governor-who-campaigned-as-pro-life-signs-some-abortion-protections-into-law/",
+          "source_note": "Office verified by the official governor site; affiliation from direct news reporting."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "Stavros Anthony",
+          "affiliation_status": "documented",
+          "affiliation": "Greek Orthodox — St. John Greek Orthodox Church (board service)",
+          "affiliation_detail": "The official biography states he “served on the board of … St. John Greek Orthodox Church.” Board service is described in the past tense, so current membership is not separately confirmed.",
+          "office_source": "https://ltgov.nv.gov/",
+          "affiliation_source": "https://ltgov.nv.gov/AboutUs/BiographyStavrosAnthony/",
+          "source_note": "The lieutenant governor presides over the Nevada Senate. Affiliation from the official biography, with the tense caveat noted."
+        },
+        {
+          "office": "Attorney General",
+          "name": "Aaron D. Ford",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "A 2017 news profile said he was raised Baptist and that the family attends a Baptist church when in Las Vegas; upbringing and dated attendance are not coded as current affiliation.",
+          "office_source": "https://nsla.nv.gov/archives-attorneygeneral",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Speaker of the Assembly",
+          "name": "Steve Yeager",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://www.leg.state.nv.us/App/legislator/a/assembly/current/9",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Senate Majority Leader",
+          "name": "Nicole J. Cannizzaro",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Tracked as the upper-chamber leader because the lieutenant governor presides over the Senate.",
+          "office_source": "https://www.leg.state.nv.us/App/Legislator/A/Senate/current/6",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "Douglas W. Herndon",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://nvcourts.gov/supreme/court_information/justices/herndon,_douglas",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        }
+      ]
     }
   },
   {
     "state": "New Hampshire",
     "slug": "new-hampshire",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-10-20",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/new-hampshire/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±8.0 percentage points for adults in New Hampshire",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "10%",
+          "percent": 10,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "20%",
+          "percent": 20,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "13%",
+          "percent": 13,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "11%",
+          "percent": 11,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "8%",
+          "percent": 8,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "29%",
+          "percent": 29,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's New Hampshire table are Catholic (20%), Mainline Protestant (13%), and Evangelical Protestant (10%). Pew lists 11% atheist, 8% agnostic, and 29% nothing in particular. Figures are survey estimates; the state margin of error is ±8.0 percentage points, 3% did not answer, and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
-      "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "as_of": "2026-10-20",
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 4,
+      "documented_affiliations": 1,
+      "summary": "New Hampshire has no lieutenant governor, and the chief justice seat has been vacant since Gordon MacDonald resigned on September 15, 2026, so four filled positions are tracked. One has a documented affiliation: Governor Kelly Ayotte (Catholic). The attorney general, House speaker and Senate President remain unknown. New Hampshire is among the least religious states in Pew's survey, with 29% nothing in particular, 11% atheist and 8% agnostic.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Kelly Ayotte",
+          "affiliation_status": "documented",
+          "affiliation": "Catholic",
+          "affiliation_detail": "The Boston Globe reported: “Ayotte, who is Catholic, has been described in the political press by various classifications.”",
+          "office_source": "https://www.governor.nh.gov/",
+          "affiliation_source": "https://www.bostonglobe.com/2025/01/09/metro/nh-kelly-ayotte-governor-facts/",
+          "source_note": "Office verified by the official governor site; affiliation from direct news reporting."
+        },
+        {
+          "office": "Attorney General",
+          "name": "John M. Formella",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "A 2023 Executive Council document lists him as music director at a Congregational church; a church staff role is not coded as personal affiliation.",
+          "office_source": "https://www.doj.nh.gov/news-and-media/new-hampshire-department-justice-election-law-unit-supports-september-8-primary",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Speaker of the House",
+          "name": "Sherman A. Packard",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://gc.nh.gov/house/calendars_journals/viewer.aspx?fileName=calendars%5C2026%5CHC%2033.pdf",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Senate President",
+          "name": "Sharon M. Carson",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "New Hampshire has no lieutenant governor; the Senate President is first in the line of succession.",
+          "office_source": "https://gc.nh.gov/senate/members/leadership.aspx",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "Vacant",
+          "affiliation_status": "not_applicable",
+          "affiliation": "Not applicable — office vacant",
+          "affiliation_detail": "Chief Justice Gordon MacDonald resigned effective September 15, 2026. InDepthNH reports the four associate justices assumed the chief justice's administrative responsibilities. No successor was located as of October 20, 2026.",
+          "office_source": "https://indepthnh.org/2026/09/15/gordon-macdonald-resigns-as-chief-justice-of-nh-supreme-court-saying-he-accepts-responsibility-for-his-conduct/",
+          "source_note": "Vacant offices are excluded from the documented-affiliation denominator."
+        }
+      ]
     }
   },
   {
     "state": "New Jersey",
     "slug": "new-jersey",
-    "coverage_status": "not_coded",
-    "last_verified": null,
+    "coverage_status": "verified_first_pass",
+    "last_verified": "2026-10-20",
     "population": {
       "source_name": "Pew Research Center, 2023–24 Religious Landscape Study",
       "source_url": "https://www.pewresearch.org/religious-landscape-study/state/new-jersey/",
       "survey_period": "2023-07-17 to 2024-03-04",
-      "margin_of_error": null,
-      "shares": [],
-      "summary_note": "State-level source linked; detailed percentages have not yet been coded into this repository."
+      "margin_of_error": "±4.4 percentage points for adults in New Jersey",
+      "shares": [
+        {
+          "label": "Evangelical Protestant",
+          "value_display": "9%",
+          "percent": 9,
+          "group": "christian"
+        },
+        {
+          "label": "Catholic",
+          "value_display": "33%",
+          "percent": 33,
+          "group": "christian"
+        },
+        {
+          "label": "Mainline Protestant",
+          "value_display": "10%",
+          "percent": 10,
+          "group": "christian"
+        },
+        {
+          "label": "Historically Black Protestant",
+          "value_display": "5%",
+          "percent": 5,
+          "group": "christian"
+        },
+        {
+          "label": "Latter-day Saint",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Jehovah's Witness",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "christian"
+        },
+        {
+          "label": "Orthodox Christian",
+          "value_display": "1%",
+          "percent": 1,
+          "group": "christian"
+        },
+        {
+          "label": "Muslim",
+          "value_display": "2%",
+          "percent": 2,
+          "group": "other_religion"
+        },
+        {
+          "label": "Buddhist",
+          "value_display": "<1%",
+          "percent": null,
+          "group": "other_religion"
+        },
+        {
+          "label": "Jewish",
+          "value_display": "5%",
+          "percent": 5,
+          "group": "other_religion"
+        },
+        {
+          "label": "Hindu",
+          "value_display": "3%",
+          "percent": 3,
+          "group": "other_religion"
+        },
+        {
+          "label": "Atheist",
+          "value_display": "5%",
+          "percent": 5,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Agnostic",
+          "value_display": "6%",
+          "percent": 6,
+          "group": "unaffiliated"
+        },
+        {
+          "label": "Nothing in particular",
+          "value_display": "17%",
+          "percent": 17,
+          "group": "unaffiliated"
+        }
+      ],
+      "summary_note": "Largest named traditions in Pew's New Jersey table are Catholic (33%), Mainline Protestant (10%), and Evangelical Protestant (9%). Pew lists 5% atheist, 6% agnostic, and 17% nothing in particular. Figures are survey estimates; the state margin of error is ±4.4 percentage points, 1% did not answer, and categories may not sum to 100% because of rounding and <1% groups."
     },
     "power": {
-      "as_of": "2026-09-27",
-      "coverage_status": "not_started",
-      "tracked_positions": 0,
-      "documented_affiliations": 0,
-      "summary": "Officeholder religion review has not yet been completed for this state.",
-      "officeholders": []
+      "as_of": "2026-10-20",
+      "coverage_status": "verified_first_pass",
+      "tracked_positions": 5,
+      "documented_affiliations": 1,
+      "summary": "The lieutenant governor seat has been vacant since Dale Caldwell resigned on September 25, 2026, so five filled positions are tracked. One has a documented affiliation: Governor Mikie Sherrill (Catholic). The attorney general, Assembly speaker, Senate President and chief justice remain unknown. New Jersey is 33% Catholic in Pew's survey, with 5% Jewish, 3% Hindu and 2% Muslim.",
+      "officeholders": [
+        {
+          "office": "Governor",
+          "name": "Mikie Sherrill",
+          "affiliation_status": "documented",
+          "affiliation": "Catholic",
+          "affiliation_detail": "The Washington Examiner reported: “Sherrill identifies as Catholic, according to the Pew Research Center,” referring to Pew's congressional religion data from her House service.",
+          "office_source": "https://www.nj.gov/governor/",
+          "affiliation_source": "https://www.washingtonexaminer.com/news/campaigns/state/3438784/mikie-sherrill-democratic-pick-new-jersey-governor/",
+          "source_note": "Office verified by the official governor site (in office since January 20, 2026); affiliation from direct news reporting citing Pew."
+        },
+        {
+          "office": "Lieutenant Governor",
+          "name": "Vacant",
+          "affiliation_status": "not_applicable",
+          "affiliation": "Not applicable — office vacant",
+          "affiliation_detail": "Governor Sherrill's official statement reports that Lieutenant Governor Dale Caldwell resigned on September 25, 2026, after an independent investigation. No successor was located as of October 20, 2026.",
+          "office_source": "https://www.nj.gov/governor/news/2026/approved/20260925b.shtml",
+          "source_note": "Vacant offices are excluded from the documented-affiliation denominator."
+        },
+        {
+          "office": "Attorney General",
+          "name": "Jennifer Davenport",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://www.njoag.gov/about/meet-attorney-general-davenport/",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Speaker of the General Assembly",
+          "name": "Craig J. Coughlin",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Catholic schooling is not coded as affiliation.",
+          "office_source": "https://pub.njleg.state.nj.us/publications/members/printable_roster.pdf",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Senate President",
+          "name": "Nicholas P. Scutari",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "The official or current-office sources reviewed do not state a religious affiliation.",
+          "office_source": "https://www.njleg.state.nj.us/leadership",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        },
+        {
+          "office": "Chief Justice",
+          "name": "Stuart Rabner",
+          "affiliation_status": "unknown",
+          "affiliation": "Unknown / not publicly documented",
+          "affiliation_detail": "Community-tie reporting and an unsourced biographical database exist, but no official or direct statement of affiliation was located; not coded.",
+          "office_source": "https://www.njcourts.gov/press-releases/2026/07/new-jersey-judiciary-releases-general-assignment-order-court-year-2026-2027",
+          "source_note": "No affiliation inferred from name, education, public language, or policy positions."
+        }
+      ]
     }
   },
   {
