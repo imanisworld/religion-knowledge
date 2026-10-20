@@ -35,7 +35,9 @@ test('dating fields describe types of evidence and never create fake founding da
   assert.match(html, /Estimated oral antecedents/);
   assert.match(html, /Tradition-internal account/);
   assert.match(html, /Date not established/);
-  assert.match(html, /A stand-alone, source-checked summary of ceremonies/);
+  assert.match(html, /A source-specific summary of beliefs and practices has not yet been independently checked/);
+  assert.match(html, /A full source-checked account of ceremonies and continuity remains/);
+  assert.match(html, /Open supporting source ↗/);
   assert.match(html, /relationship requires its own evidence review/);
   assert.doesNotMatch(html, /github\.com/);
 });
@@ -52,6 +54,12 @@ test('corrected Akan, Popol Vuh and Ugaritic evidence remains qualified and sour
   assert.match(kiche.dating.surviving_manuscript_date.note,/Newberry Library/);
   assert.deepEqual([ugarit.dating.earliest_written_attestation.range.earliest,ugarit.dating.earliest_written_attestation.range.latest],[-1400,-1200]);
   for(const row of [akan,kiche,ugarit]) {
+    assert.ok(row.public_profile_facts?.length >= 1);
+    for(const fact of row.public_profile_facts) {
+      assert.ok(fact.evidence_scope.length > 50);
+      assert.ok(row.source_links.some(src=>src.url===fact.source_url));
+      assert.ok(html.includes(fact.statement.replace(/&/g,'&amp;').replace(/'/g,'&#39;')));
+    }
     assert.ok(row.source_links.length >= 2);
     for (const source of row.source_links) {
       assert.ok(source.url.startsWith('https://'),'Sources need usable HTTPS URLs');
