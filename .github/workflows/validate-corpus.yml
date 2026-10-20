@@ -80,6 +80,15 @@ jobs:
       - name: Render app in phone-sized Chromium
         run: bash scripts/test-browser.sh
 
+      - name: Validate generated comparison catalog
+        run: |
+          node --check scripts/build-public-catalog.mjs
+          node --test tests/public-catalog.test.mjs
+          npm run build:reader-site
+          test -s dist/reader-site/catalog.html
+          grep -Fq 'id="deities"' dist/reader-site/catalog.html
+          grep -Fq 'id="people"' dist/reader-site/catalog.html
+
       - name: Build standalone bundle
         run: npm run build:standalone
 
