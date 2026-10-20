@@ -1,8 +1,8 @@
 {
   "title": "Biblical Prophecy Evidence",
-  "version": 8,
+  "version": 9,
   "checked": "2026-10-20",
-  "scope": "52 source-backed research cases in nine batches; first eleven initially internally reviewed and forty-one later cases requiring full case-by-case verification. The 50 additional seed loci have 37 studied or linked and 13 pending or partial. Six Daniel visions are source-located; external review pending.",
+  "scope": "59 source-linked research cases in ten batches; 11 original cases internally reviewed and 48 later cases pending full content checks. The 50-candidate discovery seed has 44 covered and 6 pending/partial. Full inventory and independent review pending.",
   "status": "starter_checked",
   "method": "Do not treat a later narrative quoting an earlier passage as independent proof that the event happened. Record composition/redaction dating separately from the story's setting; a date is 'undetermined' if uncertain. Do not equate resemblance with historical causation. Do not call a retrospective lament or Exodus memory a failed forward prediction; do not automatically label a partial fulfillment as complete. A conditional warning must be assessed as a warning. Distinguish lexical variants from theological interpretations and from historical evidence. No binary overall truth-score.",
   "records": [
@@ -1693,11 +1693,240 @@
           "https://bible.usccb.org/bible/daniel/8"
         ]
       ]
+    },
+    {
+      "id": "mark-13-2-temple-destruction",
+      "label": "Not one Temple stone upon another",
+      "earlier": "Mark 13:1–2 (Jesus' reported prediction)",
+      "later": "Roman destruction of Jerusalem's Second Temple in 70 CE",
+      "kind": "Historically testable near-term prediction with uncertain text/speech date",
+      "original": "Mark 13:2 Greek: οὐ μὴ ἀφεθῇ ὧδε λίθος ἐπὶ λίθον ὃς οὐ μὴ καταλυθῇ ('not a stone will be left here upon a stone that will not be torn down').",
+      "setting": "Mark describes Jesus and his followers leaving Herod's Temple complex; the disciples admire its great stones and buildings, and Jesus announces their dismantling. Mark's composition is often dated approximately 65–75 CE, around the Jewish-Roman War and Temple destruction; a pre-70 date and historical prediction are defended by other scholars.",
+      "laterUse": "The Roman army destroyed and burned the Jerusalem Temple sanctuary in 70 CE, as historically recorded in Josephus and other sources. Substantial platform and retaining-wall masonry remains, so whether 'no stone upon another' is literal total removal or rhetorical language focused on the sacred buildings matters.",
+      "relationship": "A report about Jesus' speech decades before the event survives in a Gospel whose final literary date relative to 70 CE is debated. A historically verified Temple destruction therefore does not independently show that this precise wording was spoken before it happened.",
+      "evidence": "The destruction of the Temple in 70 CE is strongly evidenced, while exact independent confirmation of the speech or an earlier dated manuscript is unavailable. Remaining retaining-wall courses are distinguishable from sanctuary buildings; neither a facile literal-success claim nor a simple all-stones-standing objection accounts for that distinction.",
+      "sourceStatus": "Temple destruction historically confirmed; literal scope and timing of recorded prediction debated",
+      "refs": [
+        [
+          "Mark 13 and critical Temple-destruction notes (USCCB)",
+          "https://bible.usccb.org/bible/mark/13"
+        ],
+        [
+          "Mark 13:2 Greek text",
+          "https://biblehub.com/text/mark/13-2.htm"
+        ],
+        [
+          "S. G. F. Brandon, 'The Date of the Markan Gospel', New Testament Studies",
+          "https://www.cambridge.org/core/journals/new-testament-studies/article/abs/date-of-the-markan-gospel/B34650230D991C2B56A96866131DC994"
+        ],
+        [
+          "The Synoptic Gospels, BYU Religious Studies Center — pre/post 70 dating debate",
+          "https://rsc.byu.edu/new-testament-history-culture-society/synoptic-gospels"
+        ],
+        [
+          "Josephus, Jewish War 6.4–6 (primary account)",
+          "https://www.gutenberg.org/files/2850/2850-h/2850-h.htm"
+        ]
+      ]
+    },
+    {
+      "id": "mark-13-30-this-generation",
+      "label": "This generation will not pass until all these things happen",
+      "earlier": "Mark 13:24–32; Matthew 24:29–36",
+      "later": "The first-century generation, 70 CE destruction, and still-future Son of Man expectations",
+      "kind": "Explicit near-audience time constraint with disputed scope",
+      "original": "Mark 13:30: ἡ γενεὰ αὕτη οὐ μὴ παρέλθῃ μέχρις οὗ ταῦτα πάντα γένηται ('this generation certainly will not pass away until all these things occur').",
+      "setting": "Mark 13 begins with the Temple prediction, then narrates war, crisis, celestial signs and the Son of Man appearing on clouds (13:24–27). The phrase 'this generation' in Mark elsewhere usually addresses the narrative generation. Verse 32 also says no one knows the day or hour, generating an internal tension discussed by scholars.",
+      "laterUse": "Jerusalem's Temple was destroyed in 70 CE within approximately four decades of Jesus' ministry, but there is no independent historical verification of the combined cosmic and visible Son of Man events. Christian solutions distinguish Temple-judgment from final return, treat heavenly imagery symbolically, refer to a future signs-witnessing generation or understand the noun as a spiritual kind; these readings are contested.",
+      "relationship": "The verdict depends on precisely what 'all these things' covers. A reading referring to Jesus' contemporaries and the whole sequence through the cosmic return faces an unfulfilled deadline; restricting the horizon to the Temple's fall or redefining generation changes the claim being evaluated. Matthew and Luke's redactions require separate attention before collapsing all Synoptics.",
+      "evidence": "Benjamin Edsall (2025) studies generation language across the Gospel tradition and its ambiguities; Scott Charlesworth (2017) finds Matthew's immediate sequence from Jerusalem's fall to cosmic signs difficult to separate; preterist and alternative critiques are active scholarship. No historical evidence establishes a visible celestial coming within the contemporaries' lifespan.",
+      "sourceStatus": "Original time phrase explicit; 70 CE Temple event secure; all-things scope and promised return debated",
+      "refs": [
+        [
+          "Greek Mark 13:30",
+          "https://biblehub.com/text/mark/13-30.htm"
+        ],
+        [
+          "Mark 13:24–32 context",
+          "https://bible.usccb.org/bible/mark/13"
+        ],
+        [
+          "Benjamin A. Edsall (2025), 'This Generation' from Mark to Judas, JSNT",
+          "https://doi.org/10.1177/0142064X241289867"
+        ],
+        [
+          "Scott Charlesworth (2017), Historicist interpretation of the Olivet Discourse",
+          "https://doi.org/10.1177/1030570X17736324"
+        ],
+        [
+          "Mark 13:30 Second Temple context (Adam Winn, 2020)",
+          "https://doi.org/10.5325/bullbiblrese.30.4.0540"
+        ]
+      ]
+    },
+    {
+      "id": "matthew-10-23-towns-of-israel",
+      "label": "Before you finish Israel's towns, the Son of Man will come",
+      "earlier": "Matthew 10:16–23",
+      "later": "The disciples' Israel mission, resurrection/exaltation interpretations, Jerusalem 70 CE and final coming",
+      "kind": "Mission timetable and the Son of Man coming with disputed referent",
+      "original": "Matthew 10:23: οὐ μὴ τελέσητε τὰς πόλεις τοῦ Ἰσραὴλ ἕως ἔλθῃ ὁ υἱὸς τοῦ ἀνθρώπου ('you certainly will not complete the towns of Israel before the Son of Man comes').",
+      "setting": "In a mission speech addressed to the Twelve, Matthew instructs them to preach to Israel and warns of persecutions, synagogues and rulers. The Greek passage includes a strong negative with an 'until' clause and has textual variants regarding 'of Israel' in some manuscripts. Matthew 24:14 places global mission before the end; reconciling the passages has a substantial interpretive history.",
+      "laterUse": "Some historians see an imminent return expected during the disciples' lifetime, now historically unfulfilled. Some Christian theologians connect 'coming' to resurrection/exaltation, divine judgment on Jerusalem in 70 CE or a more distant final return. Torsten Löfstedt (2025 volume, online 2026) argues Matthew's 'coming' here is Jesus' exaltation at his resurrection, distinct from the final end.",
+      "relationship": "The near deadline is plain, while 'coming' has competing referents. Each referent changes the event used to test fulfillment. The text itself does not state one universal calendar deadline or specify that every ancient village had to hear a fully completed modern missionary campaign.",
+      "evidence": "Matthew's wording and historical chronology of Jesus' ministry, crucifixion and later Jerusalem fall are available for comparison. There is no independent evidence that the Son of Man visibly returned by the time the original group died. An exaltation claim can be a theological interpretation rather than an externally verifiable dated event.",
+      "sourceStatus": "Temporal syntax and original audience clear; event meant by 'comes' disputed",
+      "refs": [
+        [
+          "Matthew 10:23 Greek text",
+          "https://biblehub.com/text/matthew/10-23.htm"
+        ],
+        [
+          "Matthew 10:16–23 text and critical notes",
+          "https://bible.usccb.org/bible/matthew/10"
+        ],
+        [
+          "Torsten Löfstedt, 'The Coming of the Son of Man and the Mission to Israel'",
+          "https://doi.org/10.58546/se.v90i1.25546"
+        ],
+        [
+          "Matthew 24:14 comparative context",
+          "https://biblehub.com/text/matthew/24-14.htm"
+        ]
+      ]
+    },
+    {
+      "id": "mark-9-1-taste-death",
+      "label": "Some standing here will not taste death before the Kingdom comes",
+      "earlier": "Mark 9:1; Matthew 16:28; Luke 9:27",
+      "later": "The Transfiguration, resurrection/exaltation, Pentecost, 70 CE or future return",
+      "kind": "Prediction within a listener's lifespan with disputed event definition",
+      "original": "Mark 9:1 Greek: οὐ μὴ γεύσωνται θανάτου ἕως ἂν ἴδωσιν τὴν βασιλείαν τοῦ θεοῦ ἐληλυθυῖαν ἐν δυνάμει ('will certainly not taste death until they see God's kingdom come in power').",
+      "setting": "Mark's declaration follows a teaching about the Son of Man coming in glory (8:38) and is immediately followed by the Transfiguration involving three disciples 'after six days' (9:2). Matthew revises the wording to the Son of Man 'coming in his kingdom'; Luke describes seeing the kingdom of God.",
+      "laterUse": "Interpreters variously point to the Transfiguration, Jesus' resurrection and exaltation, Pentecost, Jerusalem's fall, or the final parousia. The Transfiguration is narratively close but visible only as a literary account; resurrection/exaltation is likewise claimed within Christian sources. A full final cosmic advent during those hearers' lives is not independently observed.",
+      "relationship": "The wording sets a lifespan constraint, but readers disagree whether the promised 'coming in power' is an anticipatory vision or an ultimate eschatological transformation. Taking the verse to guarantee a final return within the listeners' lifespan confronts nonfulfillment; selecting a different event must be defended with the adjacent narrative and wider Gospel sequence.",
+      "evidence": "NET translator notes explicitly catalog Transfiguration, resurrection, Spirit and second coming readings. A 2026 scholarly article develops resurrection/enthronement as Mark's intended referent, showing that this reading is an argued alternative, not an uncontested definition.",
+      "sourceStatus": "Lifespan language unambiguous; kingdom-arrival referent and historical verification disputed",
+      "refs": [
+        [
+          "Mark 9:1 Greek text",
+          "https://biblehub.com/text/mark/9-1.htm"
+        ],
+        [
+          "NET Bible on Mark 9:1 and four proposed fulfillments",
+          "https://classic.net.bible.org/verse.php?book=Mar&chapter=9&verse=1"
+        ],
+        [
+          "Cambridge New Testament Studies (2026), Does Mark Care That Jesus Was Raised from the Dead?",
+          "https://www.cambridge.org/core/journals/new-testament-studies/article/does-mark-care-that-jesus-was-raised-from-the-dead-on-resurrecting-the-king-and-the-kingdom-mark-1618/38D02EE65DBAAD30E9ACC4D53509A635"
+        ],
+        [
+          "Matthew 16:28 and Mark 9:1 parallels",
+          "https://www.biblegateway.com/passage/?search=Mark+9%3A1%3BMatthew+16%3A28&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "mark-14-62-son-man-high-priest",
+      "label": "You will see the Son of Man at God's right hand and on clouds",
+      "earlier": "Mark 14:61–64; Daniel 7:13–14; Psalm 110:1",
+      "later": "Jesus' exaltation, judgment on Jerusalem, and claimed final coming",
+      "kind": "Direct second-person address joined to Danielic and Davidic enthronement imagery",
+      "original": "Mark 14:62 Greek: ὄψεσθε τὸν υἱὸν τοῦ ἀνθρώπου ... ἐκ δεξιῶν καθήμενον ... καὶ ἐρχόμενον μετὰ τῶν νεφελῶν ('you will see the Son of Man ... seated at the right hand ... and coming with clouds').",
+      "setting": "At the hearing before the high priest, Mark portrays Jesus affirming his identity and combining Psalm 110's right-hand enthronement with Daniel 7's figure approaching the heavenly Ancient of Days. The second-person plural 'you will see' is heard by the priestly group and narratively implicates that audience.",
+      "laterUse": "Some interpreters understand a near vindication shown through Jesus' resurrection, Church growth or Jerusalem's destruction; others see the final visible parousia. Matthew 26:64 adds 'from now on,' suggesting an inaugurated heavenly vindication. Murray J. Smith and Ian J. Vaillancourt (2022) explicitly argue Mark includes *both* enthronement and later future advent.",
+      "relationship": "In Daniel 7 the humanlike figure comes toward God's throne to receive authority, a directional fact easily lost when imagining a descent to earth. A future returning Jesus is a later theological application requiring interpretation of Mark's juxtaposition and the direct audience 'you'.",
+      "evidence": "The quoted links to Daniel and Psalm 110 are independently readable. No outside historical record verifies that the high priestly audience saw Jesus seated in heaven or on clouds. The time horizon and whether the 'seeing' is figurative judgment or literal visibility remain disputed.",
+      "sourceStatus": "Combined sources and direct audience established; future versus inaugurated interpretation and fulfillment disputed",
+      "refs": [
+        [
+          "Mark 14:62 Greek",
+          "https://biblehub.com/text/mark/14-62.htm"
+        ],
+        [
+          "Daniel 7:13 Aramaic source",
+          "https://biblehub.com/text/daniel/7-13.htm"
+        ],
+        [
+          "Psalm 110:1 Hebrew",
+          "https://biblehub.com/text/psalms/110-1.htm"
+        ],
+        [
+          "Smith and Vaillancourt, JBL 2022, Enthroned and Coming to Reign",
+          "https://doi.org/10.15699/jbl.1413.2022.6"
+        ],
+        [
+          "Matthew 26:64 'from now on' wording",
+          "https://biblehub.com/text/matthew/26-64.htm"
+        ]
+      ]
+    },
+    {
+      "id": "one-thess-4-we-alive",
+      "label": "We the living who remain until the Lord's coming",
+      "earlier": "1 Thessalonians 4:13–18 (especially 4:15–17)",
+      "later": "The lifespans of Paul and his audience; Christian expectation of Jesus' return",
+      "kind": "Early Pauline apocalypse with disputed grammatical commitment to imminent lifetime fulfillment",
+      "original": "1 Thessalonians 4:15 Greek ἡμεῖς οἱ ζῶντες οἱ περιλειπόμενοι εἰς τὴν παρουσίαν τοῦ κυρίου ('we the living, the remaining, until/for the coming of the Lord').",
+      "setting": "Paul addresses a Thessalonian Christian community concerned that people have died before Jesus' coming. The letter is commonly placed around 50–51 CE, one of the earliest extant Christian writings. It reassures readers that the dead in Christ will rise before the surviving believers join them.",
+      "laterUse": "Paul writes in the first-person plural 'we who are alive,' which many scholars understand as his expectation that he or members of his contemporary audience could survive until an imminent return. The apostle died and no publicly verifiable descent with the trumpet, resurrection and airborne assembly took place during that generation.",
+      "relationship": "The 'we' may be inclusive pastoral identification with the class of believers still alive *whenever* the parousia occurs rather than a categorical statement that Paul himself would survive; the Greek participle modifies this class. A 2024 Novum Testamentum article argues the immanent/near-expectation reading is only one of several grammatically defensible options. Do not assert a hard dated prophecy if the passage does not specify an explicit year.",
+      "evidence": "The first-century letter's grammar and Paul's eventual death are historically grounded; heavenly trumpet, clouds and resurrection are not independently corroborated. Distinguish probable near expectation from an unambiguous personal survival guarantee.",
+      "sourceStatus": "First-person and resurrection sequence explicit; guaranteed lifetime deadline contested",
+      "refs": [
+        [
+          "1 Thessalonians 4:15 Greek text",
+          "https://biblehub.com/text/1_thessalonians/4-15.htm"
+        ],
+        [
+          "1 Thessalonians 4:13–18 NRSVUE",
+          "https://www.biblegateway.com/passage/?search=1+Thessalonians+4%3A13-18&version=NRSVUE"
+        ],
+        [
+          "Novum Testamentum (2024), Is There Imminent Expectation in 1 Thess 4:13–18?",
+          "https://brill.com/view/journals/nt/66/2/article-p231_5.xml?language=en"
+        ],
+        [
+          "USCCB 1 Thessalonians 4 contextual notes",
+          "https://bible.usccb.org/bible/1thessalonians/4"
+        ]
+      ]
+    },
+    {
+      "id": "one-cor-15-not-all-sleep",
+      "label": "We will not all sleep, but we will all be changed",
+      "earlier": "1 Corinthians 15:50–58 (especially 15:51–52)",
+      "later": "Paul's audience and later Christian resurrection expectations",
+      "kind": "Pauline time expectation with exceptional Greek manuscript variants",
+      "original": "Common critically preferred Greek: πάντες οὐ κοιμηθησόμεθα, πάντες δὲ ἀλλαγησόμεθα ('we will not all sleep, but we will all be changed'); some manuscripts instead read 'we all will sleep, but not all will be changed'.",
+      "setting": "In a letter commonly dated about 53–55 CE, Paul argues for resurrection and a final transformation at the last trumpet. 'Sleep' functions as a death metaphor; Paul specifies that believers' bodies must be transformed for immortality. The transmission history of verse 51 includes several markedly divergent Greek forms.",
+      "laterUse": "In the preferred modern critical reading, Paul speaks as though some believers will remain alive at the last trumpet; later scribes transmitted alternate formulations that change the apparent lifetime expectation. No independently observable global trumpet/resurrection is established as occurring in Paul's generation.",
+      "relationship": "Because some variants reverse key negatives, an evidence audit must name its textual base before treating the verse as a fixed expired promise. NET's textual note groups four principal variants and explains how embarrassment about Paul's generation dying could have motivated some scribal changes, without proving the motives of each copyist.",
+      "evidence": "The critical text and manuscript variants are ascertainable; a resurrection event is not historically independently confirmable. The preferred text establishes Paul's anticipation that some living believers might be changed, but an exact year or definitive guarantee about Paul individually is absent.",
+      "sourceStatus": "Preferred textual form and major variants documented; eschatological timeframe and miraculous event unverified",
+      "refs": [
+        [
+          "1 Corinthians 15:51 Greek interlinear",
+          "https://biblehub.com/text/1_corinthians/15-51.htm"
+        ],
+        [
+          "NET Bible 1 Corinthians 15:51 manuscript-note comparison",
+          "https://classic.net.bible.org/verse.php?book=1Co&chapter=15&tab=commentaries&theme=wiki&verse=51"
+        ],
+        [
+          "1 Corinthians 15 chapter and notes (USCCB)",
+          "https://bible.usccb.org/bible/1corinthians/15"
+        ],
+        [
+          "Scholarly citation of Fee and Metzger on 1 Cor 15:51 variant readings",
+          "https://rsc.byu.edu/vol-19-no-2-2018/analysis-joseph-smith-translation-1-corinthians-1540"
+        ]
+      ]
     }
   ],
   "review": {
     "review_date": "2026-10-20",
-    "internal_review_status": "11 first cases previously internally reviewed; remaining 41 studies including six Daniel visions require full source-critical verification.",
+    "internal_review_status": "First 11 originally internally reviewed; Batches 2–10 total 48 cases requiring full scholarly source verification. Batch 10 source-discovery completed.",
     "external_review_status": "held until full defined inventory audited",
     "review_document": "REVIEW.md"
   },
@@ -1814,6 +2043,20 @@
         "daniel-9-seventy-weeks",
         "daniel-11-kings-end",
         "daniel-12-resurrection-days"
+      ],
+      "status": "source_located_full_critical_review_pending"
+    },
+    {
+      "id": "batch-10",
+      "label": "Jesus and Paul near-time predictions in Mark, Matthew, 1 Thessalonians and 1 Corinthians",
+      "case_ids": [
+        "mark-13-2-temple-destruction",
+        "mark-13-30-this-generation",
+        "matthew-10-23-towns-of-israel",
+        "mark-9-1-taste-death",
+        "mark-14-62-son-man-high-priest",
+        "one-thess-4-we-alive",
+        "one-cor-15-not-all-sleep"
       ],
       "status": "source_located_full_critical_review_pending"
     }
