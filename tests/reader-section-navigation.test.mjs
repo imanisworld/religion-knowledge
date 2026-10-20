@@ -32,6 +32,15 @@ test('reader navigation remains accessible, searchable and deep-linkable', () =>
   assert.match(scripts, /section\.setAttribute\('role', 'region'\)/);
   assert.match(scripts, /section\.textContent\.length < 8500/);
   assert.match(scripts, /next\.id = 'read-' \+ node\.id/);
+  assert.match(scripts, /const intro = main\.querySelector\(':scope > #sec-intro'\)/);
+  assert.match(scripts, /about\.append\(intro\)/);
+  assert.match(scripts, /summary\.textContent = 'About this document'/);
+  assert.match(scripts, /let encounteredFirst = false/);
+  assert.match(scripts, /if \(encounteredFirst\)/);
+  assert.match(scripts, /encounteredFirst = true/);
+  assert.doesNotMatch(scripts, /return 'Introduction'/);
+  assert.match(scripts, /Choose a topic/);
+  assert.match(scripts, /target\.closest\('\.reader-about'\)/);
   assert.match(scripts, /aria-live="polite"/);
   assert.match(scripts, /section\.hidden = hits\.length === 0 \|\| i !== index/);
   assert.match(scripts, /document\.getElementById\(hash\)/);
