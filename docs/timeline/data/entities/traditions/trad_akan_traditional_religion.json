@@ -9,18 +9,14 @@
     "West Africa"
   ],
   "dating": {
-    "dating_summary": "The tripartite Nyame/abosom/asamanfo structure as commonly taught is substantially a 20th-century scholarly codification (Danquah 1944, Rattray 1923/1927, Opoku 1978) layered onto older, undated oral-ritual practice; earliest identified written attestation is Willem Bosman's 1704/1705 Dutch trading account; no archaeological or oral-origin date can be assigned with precision.",
+    "dating_summary": "The tripartite Nyame/abosom/asamanfo structure as commonly taught is substantially a 20th-century scholarly codification (Danquah 1944, Rattray 1923/1927, Opoku 1978) layered onto older, undated oral-ritual practice; Bosman's account was published in Dutch in 1703 and English in 1705, but the precise religious passage remains unchecked; no archaeological or oral-origin date can be assigned with precision.",
     "earliest_archaeological_evidence": {
       "range": null,
       "note": "UNKNOWN specifically for this cosmological system; Akan shrine-site archaeology exists but no dated find-specific attestation of Nyame/abosom worship was verified in this research pass."
     },
     "earliest_written_attestation": {
-      "range": {
-        "earliest": 1704,
-        "latest": 1705,
-        "precision": "YEAR"
-      },
-      "note": "Willem Bosman, A New and Accurate Description of the Coast of Guinea (Dutch 1704, English 1705) — an outside/colonial-trade observer's account, later quoted by Rattray."
+      "range": null,
+      "note": "Bosman's Coast of Guinea account exists in a Dutch edition dated 1703 and an English translation dated 1705 (University of Ghana bibliographic comparison, A. van Dantzig). No exact passage documenting this particular Nyame/abosom/asamanfo structure has yet been verified here. Publication dates of the account do not establish the earliest documented practice or the tradition's origin."
     },
     "surviving_manuscript_date": {
       "range": {
@@ -46,5 +42,17 @@
     }
   },
   "relationships": [],
-  "notes": "J.B. Danquah, The Akan Doctrine of God (1944; 2nd ed. 1968) — Danquah himself an anticolonial political-intellectual figure (co-founder UGCC, died in Nkrumah-era detention 1965), not a neutral ethnographer; his monotheism-framing of Nyame/Onyankopon/Odomankoma/Borebore is now itself subject to critique. R.S. Rattray, Religion and Art in Ashanti (Oxford, 1927). Anthony Ephirim-Donkor, African Religion Defined: A Systematic Study of Ancestor Worship Among the Akan."
+  "notes": "J.B. Danquah, The Akan Doctrine of God (1944; 2nd ed. 1968) — Danquah himself an anticolonial political-intellectual figure (co-founder UGCC, died in Nkrumah-era detention 1965), not a neutral ethnographer; his monotheism-framing of Nyame/Onyankopon/Odomankoma/Borebore is now itself subject to critique. R.S. Rattray, Religion and Art in Ashanti (Oxford, 1927). Anthony Ephirim-Donkor, African Religion Defined: A Systematic Study of Ancestor Worship Among the Akan.",
+  "source_links": [
+    {
+      "label": "University of Ghana — English Bosman and Dutch Bosman: A Comparison of Texts",
+      "url": "https://ugspace.ug.edu.gh/items/6407fa6a-8d73-42fe-b9bc-3940cfcf35b3",
+      "supports": "Bibliographic dating of Dutch 1703 and English 1705 editions; does not establish specific religious passage."
+    },
+    {
+      "label": "Ghana Journal of Religion and Theology — Rattray and the Akan concept of sunsum",
+      "url": "https://www.ajol.info/index.php/gjrt/article/view/230066",
+      "supports": "Modern critical perspective on how an early-20th-century colonial ethnographer described an Akan spiritual concept."
+    }
+  ]
 }
