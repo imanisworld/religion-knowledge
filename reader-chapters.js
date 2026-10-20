@@ -75,6 +75,11 @@
   }
 
   const names = sections.map(title);
+  sections.forEach((section, i) => {
+    section.tabIndex = 0;
+    section.setAttribute('role', 'region');
+    section.setAttribute('aria-label', names[i]);
+  });
   const wrapper = document.createElement('nav');
   wrapper.className = 'reader-section-nav';
   wrapper.setAttribute('aria-label', 'Reading section');
