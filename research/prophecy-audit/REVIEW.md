@@ -41,6 +41,18 @@
 
 **Review status:** Batch 1 internally reviewed; Batch 2 source-located and drafted; outside review postponed. Historical verification of supernatural claims remains outside available evidence.
 
+## Research continuation — Batches 3 and 4 (October 20, 2026)
+
+**Scope now recorded:** 25 cases in `records.json`, with 11 originally source-reviewed and 14 newly researched in Batches 2–4 awaiting claim-by-claim internal source control; external review remains on hold by user request.
+
+**Batch 3 — five New Testament adaptations:** Luke 4 / Isaiah 61 + 58 (selection and omitted vengeance); Acts 2 / Joel (the 'last days' framing); Acts 15 / Amos 9 (Hebrew Edom/possess versus Greek humanity/seek); John 19 / Zechariah 12 ('pierced' and first/third-person variation); Hebrews 8 / Jeremiah 31 (new covenant and differing supersessionist interpretations). Each now has structured evidence and reader/search coverage. Later editorial and theological inferences still require independent academic review.
+
+**Batch 4 — the remaining five non-formula Matthew candidates:** Matthew 13:14–15 / Isaiah 6:9–10 (Hebrew command versus Greek description), Matthew 26:31 / Zechariah 13:7 (Hebrew imperative versus Matthew's future tense), and Matthew 26:54,56 (general scriptures, no single identifiable quotation) have three new records. Matthew 2:5–6 / Micah 5 and Matthew 3:3 / Isaiah 40 link to earlier researched cases instead of duplicating them. Key source: [Maarten J. J. Menken (2011), Biblica 92](https://www.bsw.org/biblica/vol-92-2011/striking-the-shepherd-early-christian-versions-and-interpretations-of-zechariah-13-7/461/article-p58.html), [International Critical Commentary on Matthew 13](https://biblehub.com/commentaries/icc/matthew/13.htm).
+
+**Working inventory:** `inventory.json` tracks ten classic Matthean formula quotations and 50 additional non-formula, NT, historical, and apocalyptic candidates. Ten of the 50 now have coverage (eight new targeted records, two earlier related cases); 40 remain pending or partially related. This is not a verified exhaustive inventory of all prophecies, nor a final external review.
+
+**Next research:** continue with other New Testament citations (including remaining John/Acts/Paul/Hebrews) while checking that scholarly sources actually support the exact proposition. Then take up predictive oracles and apocalyptic timeframe passages. Keep the PR open.
+
 ## Independent reviewer instructions
 
 Check each record against the original-language passage in a critical edition where feasible (BHQ/BHS, Göttingen/Septuagint, NA28/UBS), not only the linked web interlinear. Confirm source links actually cover the claims they are offered to support, publication dates and authors, textual variants, cited historical events, and competing Jewish and Christian readings. Identify missing or weak sources and specify exact verse/claim corrections. Review the 11 source-linked records rather than replacing the methodology with a blanket pro/anti prophecy position. Prioritize factual errors, unearned certainty, circular evidence, and misleading claims of independent corroboration. Supply proposed wording and evidence for each correction.
