@@ -1,0 +1,38 @@
+{
+  "id": "US-TX-PENAL-21-06",
+  "classification_status": "undetermined_not_promoted",
+  "original_provisional_classification": "E_principally_secular_purpose",
+  "review_as_of": "2026-10-20",
+  "decision": "Removed from A–E public comparison: legal text and unenforceability established, enactment-specific reason for same-sex-only provision unverified. Neither mainly secular nor directly religious purpose should be asserted.",
+  "missing_source": "1973 §21.06-specific debate/drafting passage; investigate HB 514 hearings and SB 34 legislative records.",
+  "record": {
+    "id": "US-TX-PENAL-21-06",
+    "jurisdiction": "United States",
+    "subnational_jurisdiction": "Texas",
+    "legal_level": "statute",
+    "formal_citation": "Tex. Penal Code § 21.06 (“Homosexual Conduct”), enacted by S.B. 34, 63rd Leg., R.S. (1973)",
+    "date_enacted_or_decided": "1973-06-14",
+    "subject": "sexual conduct between persons of the same sex",
+    "legal_effect": "Made specified same-sex sexual contact a Class C misdemeanor; opposite-sex consensual adult conduct was decriminalized in the same revision.",
+    "religion_connection": "The broader sodomy-law tradition has historical religious and moral roots. Professional legal associations worked on the 1973 Penal Code overall, but presently verified passages do not establish why the legislature retained the same-sex-only offense in §21.06; no claim of absent religious advocacy is warranted.",
+    "evidence_type": [
+      "legislative_history",
+      "judicial"
+    ],
+    "competing_causes": [
+      "Model Penal Code-based codification led by the State Bar committee (chair Page Keeton)",
+      "Negotiated agreement among the State Bar, the Texas District and County Attorneys Association, and the Texas Criminal Defense Lawyers Association",
+      "National pattern of partial MPC adoption retaining same-sex-only offenses",
+      "Religious and moral disapproval present nationally but unverified as a direct cause for §21.06 in the surviving Texas proceedings"
+    ],
+    "scope_note": "Causation of the 1973 same-sex-specific rule unresolved: codewide drafting evidence cannot settle the purpose of this section; keep status unenforceable under Lawrence regardless of motive.",
+    "status": "unenforceable",
+    "enforcement_note": "Held unconstitutional in Lawrence v. Texas (2003); still printed with an official note.",
+    "primary_authority": "Tex. Penal Code ch. 21 with official note on Lawrence — https://statutes.capitol.texas.gov/Docs/PE/pdf/PE.21.pdf; Texas Legislative Reference Library, Penal Code legislative trail — https://lrl.texas.gov/collections/PenalCodeTrail.cfm",
+    "explanatory_authority": "Texas Legislative Reference Library, revision timeline — https://lrl.texas.gov/collections/PenalCodeTimeline.cfm; Lawrence v. Texas, 539 U.S. 558 (2003) — https://supreme.justia.com/cases/federal/us/539/558/",
+    "last_verified": "2026-10-20",
+    "review_priority": "high",
+    "confidence": "contested",
+    "notes": "Unclassified pending a verified §21.06-specific historical motive passage. Normalized record excluded from A–E tables; Texas state profile and enactment-history research remain available."
+  }
+}

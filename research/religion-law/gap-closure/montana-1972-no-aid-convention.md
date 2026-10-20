@@ -8,6 +8,7 @@
 
 - **Primary:** Montana Constitutional Convention 1971–1972, *Verbatim Transcript*, Vol. VI, pp. 2007–2032 (March 11, 1972), Montana courts library copy: https://courts.mt.gov/external/library/mt_cons_convention/vol6.pdf. The PDF page equals transcript page minus 1820. All quotes below were machine-matched against the OCR text of these pages.
 - **Primary, via secondary summary:** Education and Public Lands Committee majority and minority proposals, Vol. II, pp. 728–730 and 744–745, as summarized by the University of Montana Montana Constitution project: https://www.umt.edu/montana-constitution/articles/article-x/x-6.php. The scanned Vol. II OCR was unreadable, so committee-report wording relies on this summary and on the parts Burkhardt read aloud on the floor.
+- **Independent scholarly cross-check of roll calls:** Michael P. Dougherty, [“Montana's Constitutional Prohibition on Aid to Sectarian Schools,” 77 *Montana Law Review* 41, 49 n.80 (2016)](https://scholarworks.umt.edu/mlr/vol77/iss1/3/) expressly identifies Loendorf's **53–40** vote and Campbell's separate **13–79** vote, and pinpoints convention Vol. VI, pp. 2025–26, 2027, and 2030–31. A [2019 Supreme Court amicus brief](https://www.supremecourt.gov/DocketPDF/18/18-1195/116191/20190918124131813_Espinoza%20Merits%20Amicus%20Brief%20TO%20FILE.pdf), at p. 21, independently cites pp. 2030–31 for Campbell's 13–79 defeat. Both are **secondary quotations of the transcript** and do not substitute for this reviewer's direct examination of the March 11 primary page image.
 - **Retrospective (not 1972 evidence):** *Espinoza v. Montana Department of Revenue*, 591 U.S. 464 (2020), majority, concurrence, and dissents: https://supreme.justia.com/cases/federal/us/591/18-1195/. The Brief of Montana Constitutional Convention Delegates as amici (2019): https://www.supremecourt.gov/DocketPDF/18/18-1195/122418/20191114132808604_Montana%20Delegate%20Amicus.pdf
 
 ## What happened
@@ -17,7 +18,7 @@
    - **Majority (Burkhardt):** keep the 1889 text, including "directly or indirectly."
    - **Minority (Harbaugh, with Harrington and others):** delete "or indirectly" and add a federal-funds exception ([UMT](https://www.umt.edu/montana-constitution/articles/article-x/x-6.php)).
 3. **Floor substitute (Loendorf):** keep the majority's wording, including "indirectly," but add the federal-funds sentence. It carried **53 Aye, 40 No** (Tr. 2024–2025).
-4. **Campbell amendment:** It would have replaced the final sentence with a broader "nonstate money" clause. It failed **13 Aye, 79 No**. Section 6 as amended was then adopted by voice vote.
+4. **Campbell amendment:** It would have replaced the final sentence with a broader "nonstate money" clause. It failed **13 Aye, 79 No**, as separately reported by Dougherty (2016), p. 49 n.80, and a 2019 Supreme Court amicus brief, p. 21, both citing **Vol. VI, pp. 2030–31**. The full March 11 primary transcript page images were not independently reopened during the October 20 review. Section 6 as amended was then adopted by voice vote.
 5. **Net textual change from 1889:** The prohibition, including "sectarian," "sect," and "indirect," was carried forward. A new subsection (2) exempts "funds from federal sources provided to the state for the express purpose of distribution to non-public education."
 
 ## Convention evidence log
@@ -59,6 +60,10 @@
 A narrowly negotiated federal-funds exception answered the parochial-school constituency. The clause's 1889 Blaine-era origin is a separate layer: it remains **B (historical religious origin)** for the inherited wording. It is not evidence that the 1972 delegates shared the 1889 motive.
 
 **Confidence:** Medium-high for the account of the debate (primary transcript); medium for relative causal weight, because committee-hearing testimony and Vol. II report text were not read directly.
+
+## October 20 cross-check limitation
+
+The **13–79** tally has two separately authored documentary citations tracing it to the same specified convention pages: Dougherty's 2016 law-review footnote and the 2019 Supreme Court filing. This corroborates the tally **indirectly**. It does not upgrade the present independent review to *original-transcript verified*. A different 13–79 vote on March 9, recorded as **Kelleher's** failed motion (Vol. VI, p. 1839), must **not** be confused with **Campbell's** March 11 amendment (pp. 2030–31).
 
 ## Remaining limits
 
