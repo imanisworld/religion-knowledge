@@ -125,7 +125,7 @@ export function buildPublicCatalog() {
     '</style><script>try{document.documentElement.dataset.theme=localStorage.getItem("religion-knowledge-theme")||"light"}catch(e){}</script></head>'+
     '<body class="rk-with-sitebar"><a class="skip" href="#main">Skip to tables</a>'+
     '<header class="rk-sitebar"><div class="rk-sitebar-inner"><a class="rk-brand" href="index.html">Religion Knowledge<small>Research library</small></a>'+
-    '<nav class="rk-global-nav" aria-label="Site navigation"><a href="index.html">Library</a><a href="search.html">Search</a><a href="religion-law.html">Religion &amp; Law</a><a href="history.html">History</a></nav>'+
+    '<nav class="rk-global-nav" aria-label="Site navigation"><a href="index.html">Library</a><a href="history.html">History</a><a href="religion-law.html">Religion &amp; Law</a><a href="search.html">Search</a></nav>'+
     '<button class="rk-site-control" id="theme" type="button" aria-label="Toggle theme">Theme</button></div></header>'+
     '<main id="main"><p><a href="comparisons.html">← Comparison tables</a></p><h1>Gods, religions, cultures &amp; people</h1>'+
     '<p class="lede">Explore the gods, religions, cultures, stories, and people in our research. Start with the first list, open another section, or search for a name or place.</p>'+

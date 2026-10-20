@@ -4,7 +4,7 @@
 <title>Bible Deep Dive: Study Notes</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Atkinson+Hyperlegible+Next:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Atkinson+Hyperlegible+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root{
   --ground:#EDEFEC; --paper:#FFFFFF; --ink:#17201D; --ink2:#4A5551; --ink3:#5F6A66;
@@ -13,8 +13,8 @@
   --camp:#57478C; --camp-soft:#EEEAF6;
   --rail:320px; --measure:70ch;
   --f-display:"Newsreader",Georgia,serif;
-  --f-body:"IBM Plex Sans",system-ui,sans-serif;
-  --f-mono:"IBM Plex Mono",ui-monospace,monospace;
+  --f-body:"Atkinson Hyperlegible Next",system-ui,sans-serif;
+  --f-mono:"Atkinson Hyperlegible Mono",ui-monospace,monospace;
 }
 *{box-sizing:border-box}
 html{overflow-x:clip}html{scroll-behavior:smooth;scroll-padding-top:5rem}
@@ -214,12 +214,7 @@ a.ext::after{content:"↗";font-size:.72em;margin-left:.18em;vertical-align:supe
   letter-spacing:.05em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:20rem}
 #nores{display:none;padding:2rem 0;color:var(--ink3);font-size:.9rem}
 
-table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}table{border-collapse:collapse;width:100%;max-width:var(--measure);margin:0 0 1.6rem;font-size:.875rem}code,pre{overflow-wrap:anywhere;word-break:break-word}
-th{text-align:left;font-family:var(--f-mono);font-size:.63rem;letter-spacing:.11em;text-transform:uppercase;
-  color:var(--ink3);font-weight:500;padding:.5rem .7rem;border-bottom:1.5px solid var(--rule)}
-td{padding:.55rem .7rem;border-bottom:1px solid var(--rule);vertical-align:top}
-tr:hover td{background:#F6F8F7}
-td:first-child{font-family:var(--f-mono);font-size:.8rem;white-space:nowrap;color:var(--accent)}
+code,pre{overflow-wrap:anywhere;word-break:break-word}
 h2 span.flagmark{color:var(--collapses)}
 #top{position:fixed;right:1.5rem;bottom:calc(1.5rem + env(safe-area-inset-bottom));display:grid;place-items:center;width:2.6rem;height:2.6rem;border-radius:50%;
   background:var(--ink);color:#fff;border:none;cursor:pointer;font-size:.9rem;opacity:0;
@@ -259,7 +254,6 @@ h2 span.flagmark{color:var(--collapses)}
 :root[data-theme=dark] .tbtn.on{background:#26332E;color:#F2F5F3;border-color:#3E4C46}
 :root[data-theme=dark] #top{background:#26332E;color:#F2F5F3}
 :root[data-theme=dark] .audit > summary:hover{background:#1C2622}
-:root[data-theme=dark] tr:hover td{background:#1C2622}
 :root[data-theme=dark] .badge{background:#26332E;color:var(--ink2)}
 :root[data-theme=dark] .badge.overstated{background:#3A2E14;color:#E8C176}
 :root[data-theme=dark] .badge.collapses{background:#3A1A1A;color:#E8A3A3}
@@ -333,7 +327,6 @@ h2{margin-top:4rem}
 :root[data-theme=dark] #tools{background:var(--toolbar-bg)}
 :root[data-theme=dark] .tbtn.on{background:var(--accent);color:#fff;border-color:var(--accent)}
 :root[data-theme=dark] .audit>summary:hover{background:var(--accent-soft)}
-:root[data-theme=dark] tr:hover td{background:#24191D}
 :root[data-theme=dark] .badge{background:#2A2024;color:var(--ink2)}
 :root[data-theme=dark] .badge.new{background:var(--accent-soft);color:#EAB0BD}
 :root[data-theme=dark] .related b{color:#EAB0BD}
@@ -364,9 +357,6 @@ h3{font-size:1.36rem;line-height:1.28;margin-top:2.55rem;margin-bottom:.82rem}
 .abody p,.abody ul{font-size:1rem;line-height:1.68}
 .fld{font-size:.66rem;margin-top:1.55rem}
 .related{font-size:.9rem;line-height:1.55}
-table{font-size:.92rem;line-height:1.55}
-th{font-size:.66rem}
-td{padding:.65rem .75rem}
 :root[data-theme=dark]{--ink2:#D1C5C9;--ink3:#AA9CA1;--rule:#44343A}
 @media(max-width:1080px){
   body{font-size:17px}
@@ -632,28 +622,6 @@ blockquote strong{color:var(--ink)}
   color:color-mix(in srgb,var(--ink3) 86%,var(--accent))
 }
 
-table{
-  border-collapse:separate;
-  border-spacing:0;
-  border:1px solid var(--rule);
-  border-radius:12px;
-  background:var(--paper);
-  box-shadow:0 7px 20px rgba(57,34,42,.035)
-}
-th{
-  background:color-mix(in srgb,var(--paper) 72%,var(--accent-soft));
-  padding:.7rem .8rem
-}
-td{padding:.72rem .8rem}
-th+th,td+td{border-left:1px solid color-mix(in srgb,var(--rule) 74%,transparent)}
-tbody tr:nth-child(even) td{
-  background:color-mix(in srgb,var(--paper) 96%,var(--ground))
-}
-tbody tr:last-child td{border-bottom:0}
-tr:hover td{
-  background:color-mix(in srgb,var(--paper) 82%,var(--accent-soft))
-}
-
 pre{
   max-width:var(--measure);
   overflow:auto;
@@ -695,14 +663,10 @@ hr+*{margin-top:0}
 :root[data-theme=dark] blockquote{
   background:color-mix(in srgb,var(--paper) 86%,var(--accent-soft))
 }
-:root[data-theme=dark] tbody tr:nth-child(even) td{
-  background:color-mix(in srgb,var(--paper) 92%,var(--ground))
-}
 @media(max-width:640px){
   blockquote{padding:.9rem 1rem}
   .audit>summary{padding-left:1.25rem;padding-right:1rem}
   .stamp{display:none}
-  th,td{padding:.62rem .68rem}
 }
 </style><link rel="stylesheet" href="site-shell.css"><script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script></head><body class="rk-with-sitebar rk-reader-page">
 <header class="rk-sitebar">
@@ -710,9 +674,9 @@ hr+*{margin-top:0}
     <a class="rk-brand" href="index.html">Religion Knowledge<small>Research library</small></a>
     <nav class="rk-global-nav" aria-label="Site navigation">
       <a href="index.html">Library</a>
-      <a href="search.html">Search</a>
-      <a href="religion-law.html">Religion &amp; Law</a>
       <a href="history.html">History</a>
+      <a href="religion-law.html">Religion &amp; Law</a>
+      <a href="search.html">Search</a>
     </nav>
   </div>
 </header>
@@ -1187,7 +1151,7 @@ audit sections onward is marked.</p></div>
 <p><strong>The Law of the King (17:14–20)</strong> requires the king to be Israelite, prohibits multiplying horses and wives, warns against returning to Egypt for horses, and requires personal study of the law. The former claim that the royal history ignores these standards does not survive comparison with Solomon: 1 Kings deliberately places his wealth, horses obtained through Egypt, and many foreign wives together, then says the wives turned his heart away—the danger Deuteronomy 17 names. That correspondence is evidence for a literary relationship between Deuteronomy and Kings; it is not evidence of “apparent divine tolerance.” The live historical question is the direction and stage of that relationship. <code>CORRECTED 12 AUG 2026</code> (<a href="https://www.biblegateway.com/passage/?search=deu+17%3A16-17%2C+1ki+10%3A14-29%2C+11%3A1-10&version=NIV">Deuteronomy 17 and 1 Kings 10–11</a>)</p>
 <p><strong>Deuteronomy 34 — Moses&#39;s death.</strong> The chapter records his burial in an unknown location with the notation &quot;no one knows his burial place to this day.&quot; The phrase &quot;to this day&quot; supplies evidence of a later perspective looking backward and is incompatible with Moses narrating the chapter in its present form. Traditional harmonizations assign the chapter to Joshua or another later hand. <span class="mark inf">INFERENCE</span> Calling that move “special pleading” is an evaluation of the harmonization, not a historical finding; the historical observation is only that the chapter contains post-Mosaic narration.</p>
 <h3 data-num="9.6.3" id="s9-6-3"><span class="num">§9.6.3</span>The ANE Treaty Debate</h3><p>Deuteronomy&#39;s treaty structure breaks into six elements that parallel ancient Near Eastern vassal treaty form:</p>
-<table>
+<div class="rk-table" role="region" aria-label="Table: Treaty element, Deuteronomy" tabindex="0"><table>
 <thead>
 <tr>
 <th>Treaty element</th>
@@ -1195,30 +1159,30 @@ audit sections onward is marked.</p></div>
 </tr>
 </thead>
 <tbody><tr>
-<td>Preamble</td>
-<td>1:1–5</td>
+<td data-label="Treaty element">Preamble</td>
+<td data-label="Deuteronomy">1:1–5</td>
 </tr>
 <tr>
-<td>Historical prologue</td>
-<td>1:6–3:29</td>
+<td data-label="Treaty element">Historical prologue</td>
+<td data-label="Deuteronomy">1:6–3:29</td>
 </tr>
 <tr>
-<td>Stipulations</td>
-<td>4–26</td>
+<td data-label="Treaty element">Stipulations</td>
+<td data-label="Deuteronomy">4–26</td>
 </tr>
 <tr>
-<td>Document deposit / public reading</td>
-<td>31:9–13</td>
+<td data-label="Treaty element">Document deposit / public reading</td>
+<td data-label="Deuteronomy">31:9–13</td>
 </tr>
 <tr>
-<td>Witnesses</td>
-<td>32:1 (heaven and earth)</td>
+<td data-label="Treaty element">Witnesses</td>
+<td data-label="Deuteronomy">32:1 (heaven and earth)</td>
 </tr>
 <tr>
-<td>Blessings and curses</td>
-<td>27–28</td>
+<td data-label="Treaty element">Blessings and curses</td>
+<td data-label="Deuteronomy">27–28</td>
 </tr>
-</tbody></table>
+</tbody></table></div>
 <p><span class="mark doc">DOCUMENTED</span> <strong>George Mendenhall</strong> <span class="camp">CRITICAL</span>, &quot;Covenant Forms in Israelite Tradition,&quot; <em>Biblical Archaeologist</em> 17 (1954) — first to document systematic parallels between the Deuteronomy/Sinai covenant structure and <strong>Hittite suzerainty treaties</strong> of the 2nd millennium BCE. The parallel was independently developed by Meredith Kline <span class="camp">CONSERVATIVE-EVANGELICAL</span>, <em>Treaty of the Great King</em> (Eerdmans, 1963).</p>
 <p><span class="mark doc">DOCUMENTED</span> <strong>K.A. Kitchen</strong> <span class="camp">CONSERVATIVE-EVANGELICAL</span>, <em>On the Reliability of the Old Testament</em> (Eerdmans, 2003), built directly on Mendenhall: the full six-element treaty sequence — specifically the <strong>historical prologue appearing alongside blessings and curses</strong> — is documented in 2nd-millennium Hittite and Egyptian treaties but is <strong>absent</strong> from 1st-millennium Neo-Assyrian treaties, which have curses but lack the historical prologue. Kitchen argues this makes Deuteronomy structurally Mosaic-era: if you were imitating a 7th-century treaty form, you would not include a historical prologue, because that element had dropped out of the genre.</p>
 <p><span class="mark doc">DOCUMENTED</span> <strong>Moshe Weinfeld</strong> <span class="camp">CRITICAL</span>, <em>Deuteronomy and the Deuteronomic School</em> (Clarendon/Oxford, 1972) — identified a different corpus: correspondences between Deuteronomy and <strong>Neo-Assyrian loyalty oaths and vassal treaties</strong> of the 8th–7th centuries BCE, including the Esarhaddon Succession Treaty (672 BCE). Weinfeld&#39;s parallels support Josianic dating: if the text is drawing on treaty conventions contemporary with Assyrian dominance over Judah, it was composed then, not four centuries earlier.</p>

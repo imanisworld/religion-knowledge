@@ -44,6 +44,9 @@ jobs:
       - name: Validate committed corpus
         run: node scripts/import/validate-corpus.mjs
 
+      - name: Check research progress figures
+        run: node --test tests/research-status-counters.test.mjs
+
       - name: Validate Religion & Law overview records
         run: npm run validate:religion-law-overview
 
@@ -56,11 +59,17 @@ jobs:
       - name: Verify Markdown and reader structure are in sync
         run: npm run validate:reader-sync
 
+      - name: Check unresolved public person entries
+        run: node --test tests/public-cited-persons-source-gate.test.mjs
+
       - name: Regenerate cross-document search index
         run: npm run build:search-index
 
       - name: Verify committed search index matches readers
         run: git diff --exit-code -- search-index.json
+
+      - name: Check public Cited Persons evidence warnings
+        run: node --test tests/public-cited-persons-source-gate.test.mjs
 
       - name: Regenerate normalized record chunks
         run: npm run generate-records
@@ -80,14 +89,23 @@ jobs:
       - name: Render app in phone-sized Chromium
         run: bash scripts/test-browser.sh
 
-      - name: Validate generated comparison catalog
+      - name: Validate generated comparison catalog and its evidence graph
         run: |
+          npm run validate:timeline
           node --check scripts/build-public-catalog.mjs
           node --test tests/public-catalog.test.mjs
           npm run build:reader-site
           test -s dist/reader-site/catalog.html
           grep -Fq 'id="deities"' dist/reader-site/catalog.html
           grep -Fq 'id="people"' dist/reader-site/catalog.html
+
+      - name: Check text contrast and local content links
+        run: |
+          node --test tests/color-contrast.test.mjs
+          node --test tests/public-links.test.mjs
+
+      - name: Check homepage and navigation reading order
+        run: node --test tests/library-order.test.mjs
 
       - name: Build standalone bundle
         run: npm run build:standalone

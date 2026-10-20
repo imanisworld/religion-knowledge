@@ -1084,9 +1084,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_90c9b3b0c8f64a93a8b6",
-    "text": "Sheol. KJV translates it \"hell\" throughout the Old Testament. It means the grave, the shadowy place of the dead — no fire, no torment, no judgement. Modern translations transliterate it. Reading the KJV, you would think the Old Testament teaches hell. It does not.",
-    "raw_text": "**Sheol.** KJV translates it \"hell\" throughout the Old Testament. It means the grave, the shadowy place of the dead — no fire, no torment, no judgement. Modern translations transliterate it. Reading the KJV, you would think the Old Testament teaches hell. It does not.",
+    "id": "rk_c06cdee778ec1928235f",
+    "text": "Sheol. The Hebrew term Sheol refers to the realm of the dead. The KJV translates it differently across passages: \"grave\" (Genesis 37:35), \"hell\" (Psalm 9:17), and \"pit\" (Numbers 16:33). The KJV therefore does not use \"hell\" throughout, and later associations of English \"hell\" should not automatically be imported into every Hebrew occurrence. See the [Translation Evidence Ledger](translation-evidence.html#sheol-hell) for examples and sources.",
+    "raw_text": "**Sheol.** The Hebrew term *Sheol* refers to the realm of the dead. The KJV translates it differently across passages: \"grave\" (Genesis 37:35), \"hell\" (Psalm 9:17), and \"pit\" (Numbers 16:33). The KJV therefore does not use \"hell\" throughout, and later associations of English \"hell\" should not automatically be imported into every Hebrew occurrence. See the [Translation Evidence Ledger](translation-evidence.html#sheol-hell) for examples and sources.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
