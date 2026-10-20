@@ -4,7 +4,7 @@
 <title>Law &amp; Covenant</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Atkinson+Hyperlegible+Next:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Atkinson+Hyperlegible+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root{
   --ground:#EDEFEC; --paper:#FFFFFF; --ink:#17201D; --ink2:#4A5551; --ink3:#5F6A66;
@@ -13,8 +13,8 @@
   --camp:#57478C; --camp-soft:#EEEAF6;
   --rail:320px; --measure:70ch;
   --f-display:"Newsreader",Georgia,serif;
-  --f-body:"IBM Plex Sans",system-ui,sans-serif;
-  --f-mono:"IBM Plex Mono",ui-monospace,monospace;
+  --f-body:"Atkinson Hyperlegible Next",system-ui,sans-serif;
+  --f-mono:"Atkinson Hyperlegible Mono",ui-monospace,monospace;
 }
 *{box-sizing:border-box}
 html{overflow-x:clip}html{scroll-behavior:smooth;scroll-padding-top:5rem}
@@ -214,12 +214,7 @@ a.ext::after{content:"↗";font-size:.72em;margin-left:.18em;vertical-align:supe
   letter-spacing:.05em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:20rem}
 #nores{display:none;padding:2rem 0;color:var(--ink3);font-size:.9rem}
 
-table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}table{border-collapse:collapse;width:100%;max-width:var(--measure);margin:0 0 1.6rem;font-size:.875rem}code,pre{overflow-wrap:anywhere;word-break:break-word}
-th{text-align:left;font-family:var(--f-mono);font-size:.63rem;letter-spacing:.11em;text-transform:uppercase;
-  color:var(--ink3);font-weight:500;padding:.5rem .7rem;border-bottom:1.5px solid var(--rule)}
-td{padding:.55rem .7rem;border-bottom:1px solid var(--rule);vertical-align:top}
-tr:hover td{background:#F6F8F7}
-td:first-child{font-family:var(--f-mono);font-size:.8rem;white-space:nowrap;color:var(--accent)}
+code,pre{overflow-wrap:anywhere;word-break:break-word}
 h2 span.flagmark{color:var(--collapses)}
 #top{position:fixed;right:1.5rem;bottom:calc(1.5rem + env(safe-area-inset-bottom));display:grid;place-items:center;width:2.6rem;height:2.6rem;border-radius:50%;
   background:var(--ink);color:#fff;border:none;cursor:pointer;font-size:.9rem;opacity:0;
@@ -259,7 +254,6 @@ h2 span.flagmark{color:var(--collapses)}
 :root[data-theme=dark] .tbtn.on{background:#26332E;color:#F2F5F3;border-color:#3E4C46}
 :root[data-theme=dark] #top{background:#26332E;color:#F2F5F3}
 :root[data-theme=dark] .audit > summary:hover{background:#1C2622}
-:root[data-theme=dark] tr:hover td{background:#1C2622}
 :root[data-theme=dark] .badge{background:#26332E;color:var(--ink2)}
 :root[data-theme=dark] .badge.overstated{background:#3A2E14;color:#E8C176}
 :root[data-theme=dark] .badge.collapses{background:#3A1A1A;color:#E8A3A3}
@@ -333,7 +327,6 @@ h2{margin-top:4rem}
 :root[data-theme=dark] #tools{background:var(--toolbar-bg)}
 :root[data-theme=dark] .tbtn.on{background:var(--accent);color:#fff;border-color:var(--accent)}
 :root[data-theme=dark] .audit>summary:hover{background:var(--accent-soft)}
-:root[data-theme=dark] tr:hover td{background:#24191D}
 :root[data-theme=dark] .badge{background:#2A2024;color:var(--ink2)}
 :root[data-theme=dark] .badge.new{background:var(--accent-soft);color:#EAB0BD}
 :root[data-theme=dark] .related b{color:#EAB0BD}
@@ -364,9 +357,6 @@ h3{font-size:1.36rem;line-height:1.28;margin-top:2.55rem;margin-bottom:.82rem}
 .abody p,.abody ul{font-size:1rem;line-height:1.68}
 .fld{font-size:.66rem;margin-top:1.55rem}
 .related{font-size:.9rem;line-height:1.55}
-table{font-size:.92rem;line-height:1.55}
-th{font-size:.66rem}
-td{padding:.65rem .75rem}
 :root[data-theme=dark]{--ink2:#D1C5C9;--ink3:#AA9CA1;--rule:#44343A}
 @media(max-width:1080px){
   body{font-size:17px}
@@ -632,28 +622,6 @@ blockquote strong{color:var(--ink)}
   color:color-mix(in srgb,var(--ink3) 86%,var(--accent))
 }
 
-table{
-  border-collapse:separate;
-  border-spacing:0;
-  border:1px solid var(--rule);
-  border-radius:12px;
-  background:var(--paper);
-  box-shadow:0 7px 20px rgba(57,34,42,.035)
-}
-th{
-  background:color-mix(in srgb,var(--paper) 72%,var(--accent-soft));
-  padding:.7rem .8rem
-}
-td{padding:.72rem .8rem}
-th+th,td+td{border-left:1px solid color-mix(in srgb,var(--rule) 74%,transparent)}
-tbody tr:nth-child(even) td{
-  background:color-mix(in srgb,var(--paper) 96%,var(--ground))
-}
-tbody tr:last-child td{border-bottom:0}
-tr:hover td{
-  background:color-mix(in srgb,var(--paper) 82%,var(--accent-soft))
-}
-
 pre{
   max-width:var(--measure);
   overflow:auto;
@@ -695,14 +663,10 @@ hr+*{margin-top:0}
 :root[data-theme=dark] blockquote{
   background:color-mix(in srgb,var(--paper) 86%,var(--accent-soft))
 }
-:root[data-theme=dark] tbody tr:nth-child(even) td{
-  background:color-mix(in srgb,var(--paper) 92%,var(--ground))
-}
 @media(max-width:640px){
   blockquote{padding:.9rem 1rem}
   .audit>summary{padding-left:1.25rem;padding-right:1rem}
   .stamp{display:none}
-  th,td{padding:.62rem .68rem}
 }
 </style><link rel="stylesheet" href="site-shell.css"><script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script></head><body class="rk-with-sitebar rk-reader-page">
 <header class="rk-sitebar">
@@ -780,52 +744,52 @@ hr+*{margin-top:0}
 <p><span class="mark doc">DOCUMENTED</span> <strong>The Noahide commandments.</strong> Rabbinic tradition did not require Gentiles to keep the Torah. The Tosefta (Avodah Zarah 8:4, c. 70–300 CE) lists seven commandments binding on all &quot;children of Noah&quot;: establishing courts of justice, and prohibitions of idolatry, blasphemy, sexual immorality, bloodshed, robbery, and eating a limb torn from a living animal (<a href="https://www.posenlibrary.com/entry/noahide-laws">Posen Library</a>). This matters for §6. The question of what Gentiles owe God, and how that differs from what Israel owes, was already a Jewish question before it became a Christian one.</p>
 <hr>
 
-</section><section id="sec-2"><h2 data-num="2" id="s2"><span class="num">§2</span>The Covenants in the Hebrew Bible</h2><table>
-<thead>
-<tr>
-<th>Covenant</th>
-<th>Key text</th>
-<th>Partner</th>
-<th>Sign / obligation</th>
-<th>Framed as</th>
+</section><section id="sec-2"><h2 data-num="2" id="s2"><span class="num">§2</span>The Covenants in the Hebrew Bible</h2><div class="rk-table stack" role="region" aria-label="Table: Covenant, Key text, Partner, Sign / obligation, Framed as" tabindex="0"><table role="table">
+<thead role="rowgroup">
+<tr role="row">
+<th role="columnheader">Covenant</th>
+<th role="columnheader">Key text</th>
+<th role="columnheader">Partner</th>
+<th role="columnheader">Sign / obligation</th>
+<th role="columnheader">Framed as</th>
 </tr>
 </thead>
-<tbody><tr>
-<td>Noahic</td>
-<td>Gen 9:8–17</td>
-<td>All flesh</td>
-<td>Rainbow; no obligation on the human side for the promise itself</td>
-<td>Unilateral promise</td>
+<tbody role="rowgroup"><tr role="row">
+<td role="cell" data-label="Covenant">Noahic</td>
+<td role="cell" data-label="Key text">Gen 9:8–17</td>
+<td role="cell" data-label="Partner">All flesh</td>
+<td role="cell" data-label="Sign / obligation">Rainbow; no obligation on the human side for the promise itself</td>
+<td role="cell" data-label="Framed as">Unilateral promise</td>
 </tr>
-<tr>
-<td>Abrahamic</td>
-<td>Gen 15; 17</td>
-<td>Abraham and offspring</td>
-<td>Gen 15: God alone passes between the pieces. Gen 17:10–11: &quot;Every male among you shall be circumcised… it shall be a sign of the covenant&quot;</td>
-<td>Promise (Gen 15) with an obligation attached (Gen 17)</td>
+<tr role="row">
+<td role="cell" data-label="Covenant">Abrahamic</td>
+<td role="cell" data-label="Key text">Gen 15; 17</td>
+<td role="cell" data-label="Partner">Abraham and offspring</td>
+<td role="cell" data-label="Sign / obligation">Gen 15: God alone passes between the pieces. Gen 17:10–11: &quot;Every male among you shall be circumcised… it shall be a sign of the covenant&quot;</td>
+<td role="cell" data-label="Framed as">Promise (Gen 15) with an obligation attached (Gen 17)</td>
 </tr>
-<tr>
-<td>Sinai / Mosaic</td>
-<td>Exod 19–24; Deuteronomy</td>
-<td>Israel</td>
-<td>Exod 19:5: &quot;if you obey my voice and keep my covenant, you shall be my treasured possession&quot;</td>
-<td>Conditional, treaty-shaped</td>
+<tr role="row">
+<td role="cell" data-label="Covenant">Sinai / Mosaic</td>
+<td role="cell" data-label="Key text">Exod 19–24; Deuteronomy</td>
+<td role="cell" data-label="Partner">Israel</td>
+<td role="cell" data-label="Sign / obligation">Exod 19:5: &quot;if you obey my voice and keep my covenant, you shall be my treasured possession&quot;</td>
+<td role="cell" data-label="Framed as">Conditional, treaty-shaped</td>
 </tr>
-<tr>
-<td>Davidic</td>
-<td>2 Sam 7:8–16; Ps 89</td>
-<td>David&#39;s house</td>
-<td>2 Sam 7:14–15: &quot;When he commits iniquity, I will punish him… But I will not take my steadfast love from him&quot;</td>
-<td>Grant: punishment possible, revocation excluded</td>
+<tr role="row">
+<td role="cell" data-label="Covenant">Davidic</td>
+<td role="cell" data-label="Key text">2 Sam 7:8–16; Ps 89</td>
+<td role="cell" data-label="Partner">David&#39;s house</td>
+<td role="cell" data-label="Sign / obligation">2 Sam 7:14–15: &quot;When he commits iniquity, I will punish him… But I will not take my steadfast love from him&quot;</td>
+<td role="cell" data-label="Framed as">Grant: punishment possible, revocation excluded</td>
 </tr>
-<tr>
-<td>New covenant</td>
-<td>Jer 31:31–34</td>
-<td>&quot;the house of Israel and the house of Judah&quot;</td>
-<td>Jer 31:33: &quot;I will put my law within them, and I will write it on their hearts&quot;</td>
-<td>Renewal after a broken covenant</td>
+<tr role="row">
+<td role="cell" data-label="Covenant">New covenant</td>
+<td role="cell" data-label="Key text">Jer 31:31–34</td>
+<td role="cell" data-label="Partner">&quot;the house of Israel and the house of Judah&quot;</td>
+<td role="cell" data-label="Sign / obligation">Jer 31:33: &quot;I will put my law within them, and I will write it on their hearts&quot;</td>
+<td role="cell" data-label="Framed as">Renewal after a broken covenant</td>
 </tr>
-</tbody></table>
+</tbody></table></div>
 <p><span class="mark doc">DOCUMENTED</span> <strong>Treaty and grant.</strong> George Mendenhall&#39;s comparison of Sinai and Deuteronomy with Hittite and Neo-Assyrian vassal treaties is covered in Study Notes §9.6.3 and not repeated here. Moshe Weinfeld added the contrast: alongside the obligatory treaty form, the ancient Near East had a <strong>royal grant</strong>, where a king rewards a loyal servant with land or dynasty. He read the Abrahamic and Davidic covenants on that model (&quot;The Covenant of Grant in the Old Testament and in the Ancient Near East,&quot; <em>JAOS</em> 90 (1970): 184–203; <a href="https://vergil.uni-tuebingen.de/keibi/Record/KEI00086352/Details">bibliographic record</a>).</p>
 <p><span class="mark inf">INFERENCE</span> <strong>The tidy split between &quot;conditional&quot; and &quot;unconditional&quot; covenants is partly a later system laid over the text.</strong> The Davidic promise is unconditional in 2 Sam 7:15–16. Ps 132:12 and 1 Kgs 2:4 attach conditions to the same dynasty. The Abrahamic promise of Gen 15 picks up the circumcision obligation in Gen 17. The texts sit in tension, and the frameworks in §6 differ largely over which texts they treat as governing.</p>
 <p><span class="mark doc">DOCUMENTED</span> <strong>The new covenant is promised to Israel and Judah, not to a different people.</strong> Jeremiah follows the promise straight away with a statement about Israel&#39;s permanence: &quot;If this fixed order were ever to cease from my presence, says the Lord, then also the offspring of Israel would cease to be a nation before me forever&quot; (Jer 31:36). The Christian reception of this passage in Hebrews 8 is the subject of the last audit in §7.</p>
@@ -847,7 +811,7 @@ hr+*{margin-top:0}
 <hr>
 
 </section><section id="sec-4"><h2 data-num="4" id="s4"><span class="num">§4</span>Paul on the Law: The Texts That Pull Apart</h2><p><span class="mark doc">DOCUMENTED</span> Paul says both kinds of thing, sometimes in the same letter:</p>
-<table>
+<div class="rk-table" role="region" aria-label="Table: Positive or continuing, Negative or ending" tabindex="0"><table>
 <thead>
 <tr>
 <th>Positive or continuing</th>
@@ -855,22 +819,22 @@ hr+*{margin-top:0}
 </tr>
 </thead>
 <tbody><tr>
-<td>&quot;So the law is holy, and the commandment is holy and just and good&quot; (Rom 7:12)</td>
-<td>&quot;the letter kills, but the Spirit gives life&quot; (2 Cor 3:6)</td>
+<td data-label="Positive or continuing">&quot;So the law is holy, and the commandment is holy and just and good&quot; (Rom 7:12)</td>
+<td data-label="Negative or ending">&quot;the letter kills, but the Spirit gives life&quot; (2 Cor 3:6)</td>
 </tr>
 <tr>
-<td>&quot;Do we then overthrow the law through this faith? By no means! On the contrary, we uphold the law&quot; (Rom 3:31)</td>
-<td>&quot;Why then the law? It was added because of transgressions, until the offspring would come&quot; (Gal 3:19)</td>
+<td data-label="Positive or continuing">&quot;Do we then overthrow the law through this faith? By no means! On the contrary, we uphold the law&quot; (Rom 3:31)</td>
+<td data-label="Negative or ending">&quot;Why then the law? It was added because of transgressions, until the offspring would come&quot; (Gal 3:19)</td>
 </tr>
 <tr>
-<td>&quot;obeying the commandments of God is everything&quot; (1 Cor 7:19)</td>
-<td>&quot;every man who lets himself be circumcised… is obliged to obey the entire law&quot; (Gal 5:3), said as a warning</td>
+<td data-label="Positive or continuing">&quot;obeying the commandments of God is everything&quot; (1 Cor 7:19)</td>
+<td data-label="Negative or ending">&quot;every man who lets himself be circumcised… is obliged to obey the entire law&quot; (Gal 5:3), said as a warning</td>
 </tr>
 <tr>
-<td>&quot;to them belong… the covenants, the giving of the law&quot; (Rom 9:4)</td>
-<td>&quot;the law was our disciplinarian until Christ came… now that faith has come, we are no longer subject to a disciplinarian&quot; (Gal 3:24–25)</td>
+<td data-label="Positive or continuing">&quot;to them belong… the covenants, the giving of the law&quot; (Rom 9:4)</td>
+<td data-label="Negative or ending">&quot;the law was our disciplinarian until Christ came… now that faith has come, we are no longer subject to a disciplinarian&quot; (Gal 3:24–25)</td>
 </tr>
-</tbody></table>
+</tbody></table></div>
 <p><span class="mark doc">DOCUMENTED</span> <strong>1 Cor 7:19 is the sharpest case.</strong> &quot;Circumcision is nothing… but obeying the commandments of God is everything.&quot; Yet circumcision is itself one of the commandments (Gen 17:10). Paul is drawing a line inside the Torah that the Torah doesn&#39;t draw.</p>
 <h3 data-num="4.1" id="s4-1"><span class="num">§4.1</span>Three ways to explain the tension</h3><ol>
 <li><span class="mark doc">DOCUMENTED</span> <strong>Paul is inconsistent.</strong> Heikki Räisänen, <em>Paul and the Law</em> (WUNT 29, Mohr Siebeck, 1983; 2nd ed. 1987), argued that Paul&#39;s statements about the Torah contain real &quot;tensions and self-contradictions&quot; that no system resolves (<a href="https://books.google.com/books/about/Paul_and_the_Law.html?id=MByQXPgNyF8C">Mohr Siebeck listing</a>).</li>
@@ -893,52 +857,52 @@ hr+*{margin-top:0}
 <p><span class="mark inf">INFERENCE</span> This is the kind of committee choice Translations §5 tracks. Someone reading the NRSVue meets a contested reading of Galatians 2:16 without being told it is contested.</p>
 <hr>
 
-</section><section id="sec-5"><h2 data-num="5" id="s5"><span class="num">§5</span>The Perspectives: Who Reads Paul How</h2><table>
-<thead>
-<tr>
-<th></th>
-<th><strong>Traditional (&quot;Lutheran&quot;)</strong></th>
-<th><strong>New Perspective (NPP)</strong></th>
-<th><strong>Critics of the NPP</strong></th>
-<th><strong>Paul within Judaism</strong></th>
+</section><section id="sec-5"><h2 data-num="5" id="s5"><span class="num">§5</span>The Perspectives: Who Reads Paul How</h2><div class="rk-table stack" role="region" aria-label="Table: , Traditional (&quot;Lutheran&quot;), New Perspective (NPP), Critics of the NPP, Paul within Judaism" tabindex="0"><table role="table">
+<thead role="rowgroup">
+<tr role="row">
+<th role="columnheader"></th>
+<th role="columnheader"><strong>Traditional (&quot;Lutheran&quot;)</strong></th>
+<th role="columnheader"><strong>New Perspective (NPP)</strong></th>
+<th role="columnheader"><strong>Critics of the NPP</strong></th>
+<th role="columnheader"><strong>Paul within Judaism</strong></th>
 </tr>
 </thead>
-<tbody><tr>
-<td>Key names</td>
-<td>Augustine, Luther, Calvin; Bultmann</td>
-<td>Sanders, Dunn, Wright</td>
-<td>Westerholm, Seifrid, Schreiner, Stuhlmacher, Gathercole; Carson et al.</td>
-<td>Nanos, Zetterholm, Fredriksen</td>
+<tbody role="rowgroup"><tr role="row">
+<td role="cell">Key names</td>
+<td role="cell" data-label="Traditional (&quot;Lutheran&quot;)">Augustine, Luther, Calvin; Bultmann</td>
+<td role="cell" data-label="New Perspective (NPP)">Sanders, Dunn, Wright</td>
+<td role="cell" data-label="Critics of the NPP">Westerholm, Seifrid, Schreiner, Stuhlmacher, Gathercole; Carson et al.</td>
+<td role="cell" data-label="Paul within Judaism">Nanos, Zetterholm, Fredriksen</td>
 </tr>
-<tr>
-<td>&quot;Works of the law&quot;</td>
-<td>Doing what the law commands, as a basis for standing before God</td>
-<td>Especially the boundary markers (circumcision, food laws, sabbath) that separated Jews from Gentiles</td>
-<td>Mainly the full demands of the law, while granting that the NPP is partly right</td>
-<td>Torah observance as a Jewish obligation that Gentiles in Christ must not take on</td>
+<tr role="row">
+<td role="cell">&quot;Works of the law&quot;</td>
+<td role="cell" data-label="Traditional (&quot;Lutheran&quot;)">Doing what the law commands, as a basis for standing before God</td>
+<td role="cell" data-label="New Perspective (NPP)">Especially the boundary markers (circumcision, food laws, sabbath) that separated Jews from Gentiles</td>
+<td role="cell" data-label="Critics of the NPP">Mainly the full demands of the law, while granting that the NPP is partly right</td>
+<td role="cell" data-label="Paul within Judaism">Torah observance as a Jewish obligation that Gentiles in Christ must not take on</td>
 </tr>
-<tr>
-<td>The problem Paul addresses</td>
-<td>Human inability to be justified by deeds</td>
-<td>Ethnic exclusivity in God&#39;s people</td>
-<td>Human sin, and the law&#39;s power to condemn</td>
-<td>Gentiles trying to become Jews</td>
+<tr role="row">
+<td role="cell">The problem Paul addresses</td>
+<td role="cell" data-label="Traditional (&quot;Lutheran&quot;)">Human inability to be justified by deeds</td>
+<td role="cell" data-label="New Perspective (NPP)">Ethnic exclusivity in God&#39;s people</td>
+<td role="cell" data-label="Critics of the NPP">Human sin, and the law&#39;s power to condemn</td>
+<td role="cell" data-label="Paul within Judaism">Gentiles trying to become Jews</td>
 </tr>
-<tr>
-<td>Justification is…</td>
-<td>God declaring the sinner righteous</td>
-<td>Being recognized as a member of God&#39;s covenant people</td>
-<td>God&#39;s verdict about the sinner, with social implications</td>
-<td>God including Gentiles as Gentiles</td>
+<tr role="row">
+<td role="cell">Justification is…</td>
+<td role="cell" data-label="Traditional (&quot;Lutheran&quot;)">God declaring the sinner righteous</td>
+<td role="cell" data-label="New Perspective (NPP)">Being recognized as a member of God&#39;s covenant people</td>
+<td role="cell" data-label="Critics of the NPP">God&#39;s verdict about the sinner, with social implications</td>
+<td role="cell" data-label="Paul within Judaism">God including Gentiles as Gentiles</td>
 </tr>
-<tr>
-<td>Does Paul leave Torah behind?</td>
-<td>Yes, as a way of salvation</td>
-<td>Yes, as a badge of identity</td>
-<td>Yes, as a covenant administration</td>
-<td><strong>No.</strong> Paul stays a Torah-observant Jew</td>
+<tr role="row">
+<td role="cell">Does Paul leave Torah behind?</td>
+<td role="cell" data-label="Traditional (&quot;Lutheran&quot;)">Yes, as a way of salvation</td>
+<td role="cell" data-label="New Perspective (NPP)">Yes, as a badge of identity</td>
+<td role="cell" data-label="Critics of the NPP">Yes, as a covenant administration</td>
+<td role="cell" data-label="Paul within Judaism"><strong>No.</strong> Paul stays a Torah-observant Jew</td>
 </tr>
-</tbody></table>
+</tbody></table></div>
 <p><span class="mark doc">DOCUMENTED</span> <strong>The New Perspective.</strong> Sanders laid the foundation (§3.2). <strong>N.T. Wright</strong> used the phrase &quot;a new perspective&quot; in his 1978 Tyndale New Testament Lecture: &quot;a new way of looking at Paul which provides… not only an advance in the debate between Stendahl and Käsemann but also a new perspective on other related Pauline problems&quot; (&quot;The Paul of History and the Apostle of Faith,&quot; <em>Tyndale Bulletin</em> 29 (1978): 61–88; <a href="https://ntwrightpage.com/wp-content/uploads/2016/05/Wright_Paul_History.pdf">PDF</a>). <strong>James D.G. Dunn</strong> made it the movement&#39;s name in his 1982 Manson Memorial Lecture, published as &quot;The New Perspective on Paul&quot; (<em>BJRL</em> 65 (1983): 95–122; <a href="https://markgoodacre.org/PaulPage/New.html">text</a>). Wright&#39;s best-known statement of the ecclesiological reading is that justification &quot;wasn&#39;t so much about soteriology as about ecclesiology; not so much about salvation as about the church&quot; (<em>What Saint Paul Really Said</em>, 1997; quoted at <a href="https://learn.ligonier.org/articles/has-church-misunderstood-justification">Ligonier</a>). His main works on the topic are <em>The Climax of the Covenant: Christ and the Law in Pauline Theology</em> (T&amp;T Clark, 1991; Fortress ed. 1992; <a href="https://research-portal.st-andrews.ac.uk/en/publications/the-climax-of-the-covenant-christ-and-the-law-in-pauline-theology/">St Andrews</a>), <em>Paul and the Faithfulness of God</em> (Fortress, 2013; <a href="https://www.publishersweekly.com/9780800626839">Publishers Weekly</a>), and <em>Galatians</em> (Eerdmans, 2021; <a href="https://www.eerdmans.com/9781467462174/galatians/">Eerdmans</a>).</p>
 <p><span class="mark doc">DOCUMENTED</span> <strong>The critics.</strong></p>
 <ul>
@@ -953,45 +917,45 @@ hr+*{margin-top:0}
 <hr>
 <div class="related"><b>Connects to</b><a href="master-notes.html#s9-5-2">Study §9.5.2 the New Perspective</a><a href="master-notes.html#s9-5-3">Study §9.5.3 the curse of the law</a></div>
 </section><section id="sec-6"><h2 data-num="6" id="s6"><span class="num">§6</span>Continuity Between the Covenants: The Christian Frameworks</h2><p><span class="mark doc">DOCUMENTED</span> <strong>The earliest ruling.</strong> The Jerusalem decree in Acts 15:28–29 asks Gentile believers to &quot;abstain from what has been sacrificed to idols and from blood and from what is strangled and from sexual immorality.&quot; It doesn&#39;t ask for circumcision. Markus Bockmuehl, <em>Jewish Law in Gentile Churches</em> (T&amp;T Clark, 2000), reads the decree in light of Jewish halakhah for resident aliens, close to the Noahide logic in §1 (<a href="https://www.kesherjournal.com/article/jewish-law-in-gentile-churches-by-markus-brockmuehl/">review</a>). The Gospels add their own data point: Mark&#39;s narrator says of Jesus, &quot;Thus he declared all foods clean&quot; (Mark 7:19), while Matthew&#39;s Jesus says, &quot;I have come not to abolish but to fulfill&quot; (Matt 5:17).</p>
-<table>
-<thead>
-<tr>
-<th>Framework</th>
-<th>Core claim about the Mosaic law</th>
-<th>Founding statement</th>
+<div class="rk-table stack" role="region" aria-label="Table: Framework, Core claim about the Mosaic law, Founding statement" tabindex="0"><table role="table">
+<thead role="rowgroup">
+<tr role="row">
+<th role="columnheader">Framework</th>
+<th role="columnheader">Core claim about the Mosaic law</th>
+<th role="columnheader">Founding statement</th>
 </tr>
 </thead>
-<tbody><tr>
-<td><strong>Thomist three-way division</strong></td>
-<td>The Old Law has <strong>moral</strong> precepts (natural law, still binding), <strong>ceremonial</strong> precepts (worship, fulfilled in Christ), and <strong>judicial</strong> precepts (Israel&#39;s civil law, expired)</td>
-<td>Aquinas, <em>ST</em> I–II q.99 a.4: &quot;We must therefore distinguish three kinds of precept in the Old Law…&quot; (<a href="https://www.ccel.org/a/aquinas/summa/FS/FS099.html">CCEL</a>)</td>
+<tbody role="rowgroup"><tr role="row">
+<td role="cell" data-label="Framework"><strong>Thomist three-way division</strong></td>
+<td role="cell" data-label="Core claim about the Mosaic law">The Old Law has <strong>moral</strong> precepts (natural law, still binding), <strong>ceremonial</strong> precepts (worship, fulfilled in Christ), and <strong>judicial</strong> precepts (Israel&#39;s civil law, expired)</td>
+<td role="cell" data-label="Founding statement">Aquinas, <em>ST</em> I–II q.99 a.4: &quot;We must therefore distinguish three kinds of precept in the Old Law…&quot; (<a href="https://www.ccel.org/a/aquinas/summa/FS/FS099.html">CCEL</a>)</td>
 </tr>
-<tr>
-<td><strong>Reformed covenant theology</strong></td>
-<td>A covenant of works with Adam, then a covenant of grace across both Testaments. Ceremonial laws &quot;abrogated,&quot; judicial laws &quot;expired together with the State of that people,&quot; the moral law &quot;doth forever bind all&quot;</td>
-<td>Westminster Confession 7.2–7.3; 19.3–19.5 (1646) (<a href="https://wts.edu/wcf">WTS</a>); Calvin&#39;s three uses of the law, <em>Institutes</em> 2.7.6–12 (<a href="https://www.ccel.org/ccel/calvin/institutes.iv.viii.html">CCEL</a>)</td>
+<tr role="row">
+<td role="cell" data-label="Framework"><strong>Reformed covenant theology</strong></td>
+<td role="cell" data-label="Core claim about the Mosaic law">A covenant of works with Adam, then a covenant of grace across both Testaments. Ceremonial laws &quot;abrogated,&quot; judicial laws &quot;expired together with the State of that people,&quot; the moral law &quot;doth forever bind all&quot;</td>
+<td role="cell" data-label="Founding statement">Westminster Confession 7.2–7.3; 19.3–19.5 (1646) (<a href="https://wts.edu/wcf">WTS</a>); Calvin&#39;s three uses of the law, <em>Institutes</em> 2.7.6–12 (<a href="https://www.ccel.org/ccel/calvin/institutes.iv.viii.html">CCEL</a>)</td>
 </tr>
-<tr>
-<td><strong>Lutheran law and gospel</strong></td>
-<td>The law disciplines, shows people their sin, and guides those already born anew</td>
-<td>Formula of Concord, Solid Declaration art. VI (1577) (<a href="https://bookofconcord.org/formula-of-concord-solid-declaration/article-vi/">Book of Concord</a>)</td>
+<tr role="row">
+<td role="cell" data-label="Framework"><strong>Lutheran law and gospel</strong></td>
+<td role="cell" data-label="Core claim about the Mosaic law">The law disciplines, shows people their sin, and guides those already born anew</td>
+<td role="cell" data-label="Founding statement">Formula of Concord, Solid Declaration art. VI (1577) (<a href="https://bookofconcord.org/formula-of-concord-solid-declaration/article-vi/">Book of Concord</a>)</td>
 </tr>
-<tr>
-<td><strong>Dispensationalism</strong></td>
-<td>Israel and the church are distinct. The Mosaic law governed one dispensation, and promises to national Israel stay in force</td>
-<td>J.N. Darby (19th c.); popularized by the <em>Scofield Reference Bible</em> (1909) (<a href="https://en.wikipedia.org/wiki/Dispensationalism">overview</a>)</td>
+<tr role="row">
+<td role="cell" data-label="Framework"><strong>Dispensationalism</strong></td>
+<td role="cell" data-label="Core claim about the Mosaic law">Israel and the church are distinct. The Mosaic law governed one dispensation, and promises to national Israel stay in force</td>
+<td role="cell" data-label="Founding statement">J.N. Darby (19th c.); popularized by the <em>Scofield Reference Bible</em> (1909) (<a href="https://en.wikipedia.org/wiki/Dispensationalism">overview</a>)</td>
 </tr>
-<tr>
-<td><strong>Progressive covenantalism</strong></td>
-<td>A middle way: the covenants unfold progressively and are fulfilled in Christ, while the church is not simply &quot;Israel&quot;</td>
-<td>Gentry &amp; Wellum, <em>Kingdom through Covenant</em> (Crossway, 2012) (<a href="https://andynaselli.com/progressive-covenantalism-a-viea-media-between-covenant-theology-and-dispensationalism">Andy Naselli</a>)</td>
+<tr role="row">
+<td role="cell" data-label="Framework"><strong>Progressive covenantalism</strong></td>
+<td role="cell" data-label="Core claim about the Mosaic law">A middle way: the covenants unfold progressively and are fulfilled in Christ, while the church is not simply &quot;Israel&quot;</td>
+<td role="cell" data-label="Founding statement">Gentry &amp; Wellum, <em>Kingdom through Covenant</em> (Crossway, 2012) (<a href="https://andynaselli.com/progressive-covenantalism-a-viea-media-between-covenant-theology-and-dispensationalism">Andy Naselli</a>)</td>
 </tr>
-<tr>
-<td><strong>Post-1965 Catholic teaching</strong></td>
-<td>God&#39;s covenant with the Jewish people is irrevocable. The new covenant fulfils the earlier covenants rather than revoking them, and Christ remains the one Redeemer</td>
-<td><em>Nostra Aetate</em> §4 (28 Oct 1965); &quot;The Gifts and the Calling of God Are Irrevocable&quot; (10 Dec 2015) §27, §36, §40; DDF and two other dicasteries, <em>A Journey of Hope</em> (16 Sep 2026) §13</td>
+<tr role="row">
+<td role="cell" data-label="Framework"><strong>Post-1965 Catholic teaching</strong></td>
+<td role="cell" data-label="Core claim about the Mosaic law">God&#39;s covenant with the Jewish people is irrevocable. The new covenant fulfils the earlier covenants rather than revoking them, and Christ remains the one Redeemer</td>
+<td role="cell" data-label="Founding statement"><em>Nostra Aetate</em> §4 (28 Oct 1965); &quot;The Gifts and the Calling of God Are Irrevocable&quot; (10 Dec 2015) §27, §36, §40; DDF and two other dicasteries, <em>A Journey of Hope</em> (16 Sep 2026) §13</td>
 </tr>
-</tbody></table>
+</tbody></table></div>
 <p><span class="mark doc">DOCUMENTED</span> <strong>The Catholic sequence, in its own words.</strong></p>
 <ul>
 <li><strong>1965.</strong> <em>Nostra Aetate</em> §4: &quot;the Jews should not be spoken of as rejected or accursed as if this followed from holy scripture&quot; (<a href="https://www.adl.org/resources/backgrounder/nostra-aetate">ADL backgrounder</a>).</li>

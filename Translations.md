@@ -101,7 +101,7 @@ Check these in ESV, NRSVue, NIV, and JPS side by side. This is the highest-value
 
 **Leviticus 18:22.** NLT: "Do not practice homosexuality." An orientation category the authors could not have held, inserted into the text. Compare ESV and NRSVue, which stay closer to the Hebrew idiom.
 
-**Sheol.** KJV translates it "hell" throughout the Old Testament. It means the grave, the shadowy place of the dead — no fire, no torment, no judgement. Modern translations transliterate it. Reading the KJV, you would think the Old Testament teaches hell. It does not.
+**Sheol.** The Hebrew term *Sheol* refers to the realm of the dead. The KJV translates it differently across passages: "grave" (Genesis 37:35), "hell" (Psalm 9:17), and "pit" (Numbers 16:33). The KJV therefore does not use "hell" throughout, and later associations of English "hell" should not automatically be imported into every Hebrew occurrence. See the [Translation Evidence Ledger](translation-evidence.html#sheol-hell) for examples and sources.
 
 **Psalm 22:16.** "They pierced my hands and feet" (most Christian translations) vs. "like a lion, my hands and feet" (JPS). The Hebrew is genuinely difficult and the manuscripts differ. One reading is a crucifixion prophecy; the other is not.
 

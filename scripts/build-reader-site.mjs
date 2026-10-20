@@ -10,6 +10,7 @@ const RESEARCH_READERS = [
   ['sources.html', 'Sources & Primary Texts', 'Named scholars, publications, and primary-text citations.'],
   ['other-side.html', 'The Strongest Case', 'The strongest traditional and apologetic cases, stated fairly.'],
   ['translations.html', 'Translations', 'Translation history and the choices behind disputed renderings.'],
+  ['translation-evidence.html', 'Translation Evidence', 'What changed in Bible translations, how it changed, why, and what the evidence establishes.'],
   ['method-reference.html', 'Method & Reference', 'Survey method, open audit queue, reading timeline.'],
   ['glossary.html', 'Glossary', 'Terms and definitions used across the study.'],
   ['law-covenant.html', 'Law & Covenant', 'Torah, the biblical covenants, Second Temple Judaism, and the scholarly debate over Paul and the law.'],
@@ -59,6 +60,7 @@ const MISC_FILES = [
 const RESEARCH_DIRS = [
   'research/religion-law',
   'research/gender-over-time',
+  'research/translation-evidence',
   'research/synthesis',
 ];
 
@@ -120,7 +122,7 @@ function buildIndexHtml() {
     'history.html', 'religion-law.html', 'gender-over-time.html', 'patterns-synthesis.html',
   ]));
   const bibleCards = cardsFor(pick([
-    'translations.html', 'master-notes.html', 'field-guide.html', 'other-side.html', 'law-covenant.html',
+    'translations.html', 'translation-evidence.html', 'master-notes.html', 'field-guide.html', 'other-side.html', 'law-covenant.html',
   ]));
   const referenceCards = cardsFor(pick([
     'sources.html', 'cited-persons.html', 'method-reference.html', 'glossary.html',
@@ -134,14 +136,14 @@ function buildIndexHtml() {
 <title>Religion Knowledge</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet">
 <style>
 :root{
   --ground:#F5F1F0;--paper:#FFFDFC;--ink:#241B1E;--ink2:#62565A;--ink3:#6F6066;
   --rule:#DDD2D5;--accent:#8B3A4A;--accent-strong:#6F2D3A;--accent-soft:#F4E7EA;
   --shadow:0 18px 45px rgba(57,34,42,.07);
   --f-display:"Newsreader",Georgia,serif;
-  --f-body:"IBM Plex Sans",system-ui,sans-serif;
+  --f-body:"Atkinson Hyperlegible Next",system-ui,sans-serif;
 }
 *{box-sizing:border-box}
 html,body{overflow-x:hidden}

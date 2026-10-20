@@ -3,7 +3,7 @@
 **Canonical branch:** `main`  
 **Authoritative deployment config:** `wrangler.jsonc` (supersedes `wrangler.toml` — see note below)  
 **Last content audit:** 2026-09-26  
-**Last research governance update:** 2026-09-26  
+**Last research governance update:** 2026-10-20  
 **Research edition:** pre-1.0 (versioned releases pending)
 
 ---
@@ -33,8 +33,20 @@ This repository contains both `wrangler.jsonc` and `wrangler.toml`. **`wrangler.
 | `Bible_Deep_Dive_Master_Notes.md` | Partial (see Method §3–4) | 🔄 Partial | §1, §2, §5, §7, §8.6 audited; others pending |
 | `Field_Guide_Conversation_Reference.md` | Partial (see Method §4) | 🔄 Partial | §3.1, §4.1, §8, §13 audited; §1,2,5,9–12,14–17 pending |
 | `Sources_and_Primary_Texts.md` | Pending | ⚠️ Unreviewed | Full audit in progress |
-| `Cited_Persons.md` | Pending | ⚠️ Unreviewed | Full audit in progress |
+| `Cited_Persons.md` | 2026-10-20 marker recount; independent review incomplete | 🔄 Partial | 200 documented / 165 unresolved of 365 (six Paul-and-the-law entries resolved in PR #212); five-entry source follow-up does not close a case |
 | `Glossary.md` | Pending | ⚠️ Unreviewed | Full audit in progress |
+
+## Religion & Law Coverage (20 October 2026)
+
+The U.S. research has **50 first-pass state profiles**, including **8 expanded priority states**. Its structured `us-state-starter.json` currently contains **39 state-law records from 12 states**. The separate `us-state-context.json` has **50 state slots**, of which **15 have verified first-pass demographic/officeholder context** and **35 remain uncoded**. This is partial research coverage; the record count must not be presented as completed legal coverage of every state.
+
+The old research branch `research/state-gap-closure-20260927` is **not merged into `main`** as of this note. It contains five gap-closure research files for Texas, Maine, Montana, cross-state inventories, and a local README. Review/port independently; its conclusions do not alter the canonical 8-state status until accepted.
+
+---
+
+## Cited Persons Follow-up (20 October 2026)
+
+A separate five-entry Perplexity source-discovery batch addressed Archer, Barton, Briggs, MacDonald, and MacIntyre. Bibliographic information was corroborated for some entries, but the needed primary/source-page checks remain outstanding. **All five retain their `UNRESOLVED` markers**; do not subtract them from the 171-person queue. See `docs/research/cited-persons-five-entry-followup-20261020.md`.
 
 ---
 

@@ -7,7 +7,7 @@ const groupOrder = ['explore-title', 'topics-title', 'bible-title', 'evidence-ti
 const linksByGroup = new Map([
   ['explore-title', ['catalog.html','comparisons.html','search.html']],
   ['topics-title', ['history.html','religion-law.html','gender-over-time.html','patterns-synthesis.html']],
-  ['bible-title', ['translations.html','master-notes.html','field-guide.html','other-side.html','law-covenant.html']],
+  ['bible-title', ['translations.html','translation-evidence.html','master-notes.html','field-guide.html','other-side.html','law-covenant.html']],
   ['evidence-title', ['sources.html','cited-persons.html','method-reference.html','glossary.html']],
   ['personal-title', ['personal-belief-history.html']],
 ]);
@@ -31,7 +31,7 @@ test('the public navigation is consistently ordered', () => {
 
 test('every homepage reading and discovery entry is linked exactly once', () => {
   const links = [...html.matchAll(/<a class="card" href="([^"]+)">/g)].map(m=>m[1]);
-  assert.equal(links.length, 17);
+  assert.equal(links.length, 18);
   assert.equal(new Set(links).size, links.length);
   assert.ok(html.includes('href="catalog.html"'));
   assert.ok(html.includes('href="comparisons.html"'));
@@ -39,7 +39,7 @@ test('every homepage reading and discovery entry is linked exactly once', () => 
 
 test('existing public pages follow the same navigation sequence', () => {
   const files=['master-notes','field-guide','history','sources','other-side','translations',
-    'method-reference','glossary','law-covenant','cited-persons','religion-law',
+    'translation-evidence','method-reference','glossary','law-covenant','cited-persons','religion-law',
     'gender-over-time','patterns-synthesis','personal-belief-history','search','comparisons'];
   for(const file of files){
     const s=readFileSync(file+'.html','utf8');

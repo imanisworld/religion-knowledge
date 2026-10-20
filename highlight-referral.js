@@ -54,7 +54,7 @@
       'mark.hl-ref.hl-cur{background:#FDE047;outline:2px solid #CA8A04;border-radius:2px}' +
       '#hl-toast{position:fixed;bottom:5.5rem;right:1.5rem;z-index:100;' +
         'background:#FEF9C3;border:1px solid #D4A017;border-radius:6px;' +
-        'padding:.55rem .8rem;font-family:monospace;font-size:.78rem;' +
+        'padding:.55rem .8rem;font-family:"Atkinson Hyperlegible Next",system-ui,sans-serif;font-size:.78rem;' +
         'box-shadow:0 2px 10px rgba(0,0,0,.18);display:flex;align-items:center;' +
         'gap:.55rem;color:#5a4005;white-space:nowrap}' +
       '#hl-toast .hl-label{max-width:160px;overflow:hidden;text-overflow:ellipsis}' +

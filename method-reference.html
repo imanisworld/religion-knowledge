@@ -4,7 +4,7 @@
 <title>Method &amp; Reference</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Atkinson+Hyperlegible+Next:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Atkinson+Hyperlegible+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root{
   --ground:#EDEFEC; --paper:#FFFFFF; --ink:#17201D; --ink2:#4A5551; --ink3:#5F6A66;
@@ -13,8 +13,8 @@
   --camp:#57478C; --camp-soft:#EEEAF6;
   --rail:320px; --measure:70ch;
   --f-display:"Newsreader",Georgia,serif;
-  --f-body:"IBM Plex Sans",system-ui,sans-serif;
-  --f-mono:"IBM Plex Mono",ui-monospace,monospace;
+  --f-body:"Atkinson Hyperlegible Next",system-ui,sans-serif;
+  --f-mono:"Atkinson Hyperlegible Mono",ui-monospace,monospace;
 }
 *{box-sizing:border-box}
 html{overflow-x:clip}html{scroll-behavior:smooth;scroll-padding-top:5rem}
@@ -214,12 +214,7 @@ a.ext::after{content:"↗";font-size:.72em;margin-left:.18em;vertical-align:supe
   letter-spacing:.05em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:20rem}
 #nores{display:none;padding:2rem 0;color:var(--ink3);font-size:.9rem}
 
-table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}table{border-collapse:collapse;width:100%;max-width:var(--measure);margin:0 0 1.6rem;font-size:.875rem}code,pre{overflow-wrap:anywhere;word-break:break-word}
-th{text-align:left;font-family:var(--f-mono);font-size:.63rem;letter-spacing:.11em;text-transform:uppercase;
-  color:var(--ink3);font-weight:500;padding:.5rem .7rem;border-bottom:1.5px solid var(--rule)}
-td{padding:.55rem .7rem;border-bottom:1px solid var(--rule);vertical-align:top}
-tr:hover td{background:#F6F8F7}
-td:first-child{font-family:var(--f-mono);font-size:.8rem;white-space:nowrap;color:var(--accent)}
+code,pre{overflow-wrap:anywhere;word-break:break-word}
 h2 span.flagmark{color:var(--collapses)}
 #top{position:fixed;right:1.5rem;bottom:calc(1.5rem + env(safe-area-inset-bottom));display:grid;place-items:center;width:2.6rem;height:2.6rem;border-radius:50%;
   background:var(--ink);color:#fff;border:none;cursor:pointer;font-size:.9rem;opacity:0;
@@ -259,7 +254,6 @@ h2 span.flagmark{color:var(--collapses)}
 :root[data-theme=dark] .tbtn.on{background:#26332E;color:#F2F5F3;border-color:#3E4C46}
 :root[data-theme=dark] #top{background:#26332E;color:#F2F5F3}
 :root[data-theme=dark] .audit > summary:hover{background:#1C2622}
-:root[data-theme=dark] tr:hover td{background:#1C2622}
 :root[data-theme=dark] .badge{background:#26332E;color:var(--ink2)}
 :root[data-theme=dark] .badge.overstated{background:#3A2E14;color:#E8C176}
 :root[data-theme=dark] .badge.collapses{background:#3A1A1A;color:#E8A3A3}
@@ -333,7 +327,6 @@ h2{margin-top:4rem}
 :root[data-theme=dark] #tools{background:var(--toolbar-bg)}
 :root[data-theme=dark] .tbtn.on{background:var(--accent);color:#fff;border-color:var(--accent)}
 :root[data-theme=dark] .audit>summary:hover{background:var(--accent-soft)}
-:root[data-theme=dark] tr:hover td{background:#24191D}
 :root[data-theme=dark] .badge{background:#2A2024;color:var(--ink2)}
 :root[data-theme=dark] .badge.new{background:var(--accent-soft);color:#EAB0BD}
 :root[data-theme=dark] .related b{color:#EAB0BD}
@@ -364,9 +357,6 @@ h3{font-size:1.36rem;line-height:1.28;margin-top:2.55rem;margin-bottom:.82rem}
 .abody p,.abody ul{font-size:1rem;line-height:1.68}
 .fld{font-size:.66rem;margin-top:1.55rem}
 .related{font-size:.9rem;line-height:1.55}
-table{font-size:.92rem;line-height:1.55}
-th{font-size:.66rem}
-td{padding:.65rem .75rem}
 :root[data-theme=dark]{--ink2:#D1C5C9;--ink3:#AA9CA1;--rule:#44343A}
 @media(max-width:1080px){
   body{font-size:17px}
@@ -632,28 +622,6 @@ blockquote strong{color:var(--ink)}
   color:color-mix(in srgb,var(--ink3) 86%,var(--accent))
 }
 
-table{
-  border-collapse:separate;
-  border-spacing:0;
-  border:1px solid var(--rule);
-  border-radius:12px;
-  background:var(--paper);
-  box-shadow:0 7px 20px rgba(57,34,42,.035)
-}
-th{
-  background:color-mix(in srgb,var(--paper) 72%,var(--accent-soft));
-  padding:.7rem .8rem
-}
-td{padding:.72rem .8rem}
-th+th,td+td{border-left:1px solid color-mix(in srgb,var(--rule) 74%,transparent)}
-tbody tr:nth-child(even) td{
-  background:color-mix(in srgb,var(--paper) 96%,var(--ground))
-}
-tbody tr:last-child td{border-bottom:0}
-tr:hover td{
-  background:color-mix(in srgb,var(--paper) 82%,var(--accent-soft))
-}
-
 pre{
   max-width:var(--measure);
   overflow:auto;
@@ -695,14 +663,10 @@ hr+*{margin-top:0}
 :root[data-theme=dark] blockquote{
   background:color-mix(in srgb,var(--paper) 86%,var(--accent-soft))
 }
-:root[data-theme=dark] tbody tr:nth-child(even) td{
-  background:color-mix(in srgb,var(--paper) 92%,var(--ground))
-}
 @media(max-width:640px){
   blockquote{padding:.9rem 1rem}
   .audit>summary{padding-left:1.25rem;padding-right:1rem}
   .stamp{display:none}
-  th,td{padding:.62rem .68rem}
 }
 </style><link rel="stylesheet" href="site-shell.css"><script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script></head><body class="rk-with-sitebar rk-reader-page">
 <header class="rk-sitebar">
@@ -786,7 +750,7 @@ hr+*{margin-top:0}
 <p><strong>Entry format:</strong> AS RECORDED / STATUS / AUDIT / CORRECTED / WHY IT LOOKED RIGHT.</p>
 <p><strong>Use note:</strong> do not present an unaudited claim as settled. The queue at §3 lists what has not been checked.</p>
 
-</section><section id="sec-2"><h2 data-num="2" id="s2"><span class="num">§2</span>Where to Look While Reading or in Conversation</h2><table>
+</section><section id="sec-2"><h2 data-num="2" id="s2"><span class="num">§2</span>Where to Look While Reading or in Conversation</h2><div class="rk-table" role="region" aria-label="Table: Question or topic, Reference" tabindex="0"><table>
 <thead>
 <tr>
 <th>Question or topic</th>
@@ -794,46 +758,46 @@ hr+*{margin-top:0}
 </tr>
 </thead>
 <tbody><tr>
-<td>A date, an empire, an archaeological claim</td>
-<td>Historical Framework §2</td>
+<td data-label="Question or topic">A date, an empire, an archaeological claim</td>
+<td data-label="Reference">Historical Framework §2</td>
 </tr>
 <tr>
-<td>&quot;Constantine invented the Bible&quot; / Nicaea</td>
-<td>Historical Framework §7 — <strong>the popular skeptic version is false</strong></td>
+<td data-label="Question or topic">&quot;Constantine invented the Bible&quot; / Nicaea</td>
+<td data-label="Reference">Historical Framework §7 — <strong>the popular skeptic version is false</strong></td>
 </tr>
 <tr>
-<td>&quot;5,800 manuscripts&quot;</td>
-<td>Historical Framework §4 — verify the number and evaluate the inference separately</td>
+<td data-label="Question or topic">&quot;5,800 manuscripts&quot;</td>
+<td data-label="Reference">Historical Framework §4 — verify the number and evaluate the inference separately</td>
 </tr>
 <tr>
-<td>Josephus, Tacitus, extrabiblical evidence</td>
-<td>Historical Framework §3, Sources §2.3 and §3</td>
+<td data-label="Question or topic">Josephus, Tacitus, extrabiblical evidence</td>
+<td data-label="Reference">Historical Framework §3, Sources §2.3 and §3</td>
 </tr>
 <tr>
-<td>&quot;Archaeology confirms the Bible&quot;</td>
-<td>Historical Framework §1.3 and §10</td>
+<td data-label="Question or topic">&quot;Archaeology confirms the Bible&quot;</td>
+<td data-label="Reference">Historical Framework §1.3 and §10</td>
 </tr>
 <tr>
-<td>A specific verse, and the wording matters</td>
-<td>Translations §5</td>
+<td data-label="Question or topic">A specific verse, and the wording matters</td>
+<td data-label="Reference">Translations §5</td>
 </tr>
 <tr>
-<td>&quot;That&#39;s not what the Greek/Hebrew says&quot;</td>
-<td>Translations §2 and §5, Sources §2.1</td>
+<td data-label="Question or topic">&quot;That&#39;s not what the Greek/Hebrew says&quot;</td>
+<td data-label="Reference">Translations §2 and §5, Sources §2.1</td>
 </tr>
 <tr>
-<td>Reading is literal here and metaphor there</td>
-<td>The Strongest Case §2 — the frameworks have names</td>
+<td data-label="Question or topic">Reading is literal here and metaphor there</td>
+<td data-label="Reference">The Strongest Case §2 — the frameworks have names</td>
 </tr>
 <tr>
-<td>A named theologian or philosopher</td>
-<td>The Strongest Case §1</td>
+<td data-label="Question or topic">A named theologian or philosopher</td>
+<td data-label="Reference">The Strongest Case §1</td>
 </tr>
 <tr>
-<td>A word you don&#39;t know</td>
-<td>Glossary</td>
+<td data-label="Question or topic">A word you don&#39;t know</td>
+<td data-label="Reference">Glossary</td>
 </tr>
-</tbody></table>
+</tbody></table></div>
 <p><strong>Standing rule from Sources §6.2:</strong> never cite a source you have not opened. A source you cannot locate is a rumour with a footnote, not evidence.</p>
 
 </section><section id="sec-3"><h2 data-num="3" id="s3"><span class="num">§3</span>Study Notes Audit Queue — Closed</h2><p>All items originally flagged in Study Notes §11.2 have been audited; corrections sit inline beneath the claims they revise, marked ⚑, immediately after the section audited. Originals are preserved unaltered above each audit. Section numbers below refer to Study Notes (<code>Bible_Deep_Dive_Master_Notes.md</code>).</p>
@@ -866,7 +830,7 @@ hr+*{margin-top:0}
 <p><strong>§12.8 John 8:44 — audited 10 Aug 2026, the last item on the original two-item early-attention list.</strong> Terminology corrected to <strong>anti-Jewish</strong>, not antisemitic (a modern racial category dating from 1879; anachronistic applied to a first-century text). The synagogue-expulsion (Martyn&#39;s <em>aposynagogos</em>) explanation is flagged as a contested reconstruction, not settled background — Reinhartz critiques it directly. The &quot;Judeans&quot; translation is explicitly rejected as a fix, per the same Reinhartz/Levine/Crossley sourcing already established at Study Notes §8.5. Reception history stands as the strongest form of the claim and needs no theory of authorial intent. Both items originally flagged for early attention (§12.8, §13) are now closed — Task 2&#39;s audit queue moves to the remaining unaudited sections listed above, with no further items singled out for priority.</p>
 
 </section><section id="sec-5"><h2 data-num="5" id="s5"><span class="num">§5</span>Quick Timeline — Dates for Reading and Conversation</h2><p><em>Compressed from Historical Framework §2. This version is for grabbing fast, not for reading through. Dates before roughly 900 BCE are approximate; from the Assyrian period on, chronology is firm — anchored to dated eclipses and king lists.</em></p>
-<h3 data-num="5.1" id="s5-1"><span class="num">§5.1</span>Before and during the kingdoms</h3><table>
+<h3 data-num="5.1" id="s5-1"><span class="num">§5.1</span>Before and during the kingdoms</h3><div class="rk-table" role="region" aria-label="Table: Date, Event" tabindex="0"><table>
 <thead>
 <tr>
 <th>Date</th>
@@ -874,48 +838,48 @@ hr+*{margin-top:0}
 </tr>
 </thead>
 <tbody><tr>
-<td>c. 1208 BCE</td>
-<td>Merneptah Stele — first extrabiblical mention of Israel, as a people not a place</td>
+<td data-label="Date">c. 1208 BCE</td>
+<td data-label="Event">Merneptah Stele — first extrabiblical mention of Israel, as a people not a place</td>
 </tr>
 <tr>
-<td>c. 1200–1000</td>
-<td>Highland settlement in Canaan — gradual, no conquest layer</td>
+<td data-label="Date">c. 1200–1000</td>
+<td data-label="Event">Highland settlement in Canaan — gradual, no conquest layer</td>
 </tr>
 <tr>
-<td>c. 1000</td>
-<td>Traditional date for David — <strong>existence firm, scale disputed</strong></td>
+<td data-label="Date">c. 1000</td>
+<td data-label="Event">Traditional date for David — <strong>existence firm, scale disputed</strong></td>
 </tr>
 <tr>
-<td>c. 840</td>
-<td>Tel Dan Stele (&quot;House of David&quot;) and Mesha Stele (earliest extrabiblical YHWH)</td>
+<td data-label="Date">c. 840</td>
+<td data-label="Event">Tel Dan Stele (&quot;House of David&quot;) and Mesha Stele (earliest extrabiblical YHWH)</td>
 </tr>
 <tr>
-<td>722</td>
-<td>Assyria destroys the northern kingdom</td>
+<td data-label="Date">722</td>
+<td data-label="Event">Assyria destroys the northern kingdom</td>
 </tr>
 <tr>
-<td>701</td>
-<td>Sennacherib besieges Jerusalem — <strong>best-corroborated event in the Hebrew Bible</strong></td>
+<td data-label="Date">701</td>
+<td data-label="Event">Sennacherib besieges Jerusalem — <strong>best-corroborated event in the Hebrew Bible</strong></td>
 </tr>
 <tr>
-<td>c. 622</td>
-<td>Josiah&#39;s reform; &quot;book of the law&quot; found in the Temple</td>
+<td data-label="Date">c. 622</td>
+<td data-label="Event">Josiah&#39;s reform; &quot;book of the law&quot; found in the Temple</td>
 </tr>
 <tr>
-<td>586</td>
-<td>Jerusalem falls; First Temple destroyed; exile</td>
+<td data-label="Date">586</td>
+<td data-label="Event">Jerusalem falls; First Temple destroyed; exile</td>
 </tr>
 <tr>
-<td>539</td>
-<td>Cyrus takes Babylon</td>
+<td data-label="Date">539</td>
+<td data-label="Event">Cyrus takes Babylon</td>
 </tr>
 <tr>
-<td>c. 516</td>
-<td>Second Temple completed</td>
+<td data-label="Date">c. 516</td>
+<td data-label="Event">Second Temple completed</td>
 </tr>
-</tbody></table>
+</tbody></table></div>
 <h3 data-num="5.2" id="s5-2"><span class="num">§5.2</span>The Second Temple period between the Testaments</h3><p><em>Everything distinctive about first-century Judaism forms here. See Historical Framework §2.4.</em></p>
-<table>
+<div class="rk-table" role="region" aria-label="Table: Date, Event" tabindex="0"><table>
 <thead>
 <tr>
 <th>Date</th>
@@ -923,32 +887,32 @@ hr+*{margin-top:0}
 </tr>
 </thead>
 <tbody><tr>
-<td>333–332 BCE</td>
-<td>Alexander conquers the Levant; Greek becomes the elite language</td>
+<td data-label="Date">333–332 BCE</td>
+<td data-label="Event">Alexander conquers the Levant; Greek becomes the elite language</td>
 </tr>
 <tr>
-<td>c. 250</td>
-<td>Septuagint — Hebrew scriptures translated into Greek</td>
+<td data-label="Date">c. 250</td>
+<td data-label="Event">Septuagint — Hebrew scriptures translated into Greek</td>
 </tr>
 <tr>
-<td>c. 165</td>
-<td><strong>Daniel written</strong> — latest book in the Hebrew Bible</td>
+<td data-label="Date">c. 165</td>
+<td data-label="Event"><strong>Daniel written</strong> — latest book in the Hebrew Bible</td>
 </tr>
 <tr>
-<td>167–160</td>
-<td>Maccabean revolt</td>
+<td data-label="Date">167–160</td>
+<td data-label="Event">Maccabean revolt</td>
 </tr>
 <tr>
-<td>63</td>
-<td>Pompey takes Jerusalem — Rome arrives</td>
+<td data-label="Date">63</td>
+<td data-label="Event">Pompey takes Jerusalem — Rome arrives</td>
 </tr>
 <tr>
-<td>37–4</td>
-<td>Herod the Great; Temple expansion</td>
+<td data-label="Date">37–4</td>
+<td data-label="Event">Herod the Great; Temple expansion</td>
 </tr>
-</tbody></table>
+</tbody></table></div>
 <p><strong>What develops substantially in this window:</strong> resurrection of the dead · postmortem judgment and hell · a cosmic Satan · elaborated hierarchies and systems of angelology and demonology · intensified messianic expectation · Pharisees, Sadducees, Essenes, Zealots · synagogue-centered communal life and Torah study. The Torah already contains divine messengers commonly translated as angels and some antecedents for several other ideas; the claim is about the later developed systems and institutions, not the total absence of every component.</p>
-<h3 data-num="5.3" id="s5-3"><span class="num">§5.3</span>Jesus and the New Testament</h3><table>
+<h3 data-num="5.3" id="s5-3"><span class="num">§5.3</span>Jesus and the New Testament</h3><div class="rk-table" role="region" aria-label="Table: Date, Event" tabindex="0"><table>
 <thead>
 <tr>
 <th>Date</th>
@@ -956,51 +920,51 @@ hr+*{margin-top:0}
 </tr>
 </thead>
 <tbody><tr>
-<td>6 CE</td>
-<td>Judea becomes a Roman province</td>
+<td data-label="Date">6 CE</td>
+<td data-label="Event">Judea becomes a Roman province</td>
 </tr>
 <tr>
-<td>26–36</td>
-<td>Pontius Pilate, prefect — confirmed by the Pilate Stone, found 1961</td>
+<td data-label="Date">26–36</td>
+<td data-label="Event">Pontius Pilate, prefect — confirmed by the Pilate Stone, found 1961</td>
 </tr>
 <tr>
-<td>c. 30–33</td>
-<td>Crucifixion</td>
+<td data-label="Date">c. 30–33</td>
+<td data-label="Event">Crucifixion</td>
 </tr>
 <tr>
-<td><strong>c. 50–60</strong></td>
-<td><strong>Paul&#39;s undisputed letters — the earliest Christian writings that survive</strong></td>
+<td data-label="Date"><strong>c. 50–60</strong></td>
+<td data-label="Event"><strong>Paul&#39;s undisputed letters — the earliest Christian writings that survive</strong></td>
 </tr>
 <tr>
-<td>66–73</td>
-<td>First Jewish Revolt</td>
+<td data-label="Date">66–73</td>
+<td data-label="Event">First Jewish Revolt</td>
 </tr>
 <tr>
-<td><strong>70</strong></td>
-<td><strong>Jerusalem sacked, Second Temple destroyed — the hinge</strong></td>
+<td data-label="Date"><strong>70</strong></td>
+<td data-label="Event"><strong>Jerusalem sacked, Second Temple destroyed — the hinge</strong></td>
 </tr>
 <tr>
-<td>c. 70</td>
-<td>Mark</td>
+<td data-label="Date">c. 70</td>
+<td data-label="Event">Mark</td>
 </tr>
 <tr>
-<td>c. 80–85</td>
-<td>Matthew and Luke</td>
+<td data-label="Date">c. 80–85</td>
+<td data-label="Event">Matthew and Luke</td>
 </tr>
 <tr>
-<td>c. 90–100</td>
-<td>John</td>
+<td data-label="Date">c. 90–100</td>
+<td data-label="Event">John</td>
 </tr>
 <tr>
-<td>c. 95</td>
-<td>Revelation</td>
+<td data-label="Date">c. 95</td>
+<td data-label="Event">Revelation</td>
 </tr>
 <tr>
-<td>132–135</td>
-<td>Bar Kokhba revolt; Jews barred from Jerusalem</td>
+<td data-label="Date">132–135</td>
+<td data-label="Event">Bar Kokhba revolt; Jews barred from Jerusalem</td>
 </tr>
-</tbody></table>
-<h3 data-num="5.4" id="s5-4"><span class="num">§5.4</span>How the church and the canon formed</h3><table>
+</tbody></table></div>
+<h3 data-num="5.4" id="s5-4"><span class="num">§5.4</span>How the church and the canon formed</h3><div class="rk-table" role="region" aria-label="Table: Date, Event" tabindex="0"><table>
 <thead>
 <tr>
 <th>Date</th>
@@ -1008,43 +972,43 @@ hr+*{margin-top:0}
 </tr>
 </thead>
 <tbody><tr>
-<td>c. 112</td>
-<td>Pliny the Younger&#39;s letter — earliest outside description of Christian worship</td>
+<td data-label="Date">c. 112</td>
+<td data-label="Event">Pliny the Younger&#39;s letter — earliest outside description of Christian worship</td>
 </tr>
 <tr>
-<td>c. 115</td>
-<td>Tacitus on Christus executed under Pilate</td>
+<td data-label="Date">c. 115</td>
+<td data-label="Event">Tacitus on Christus executed under Pilate</td>
 </tr>
 <tr>
-<td>c. 140</td>
-<td>Marcion&#39;s canon — the first known list, declared heretical</td>
+<td data-label="Date">c. 140</td>
+<td data-label="Event">Marcion&#39;s canon — the first known list, declared heretical</td>
 </tr>
 <tr>
-<td>c. 180</td>
-<td>Irenaeus argues for exactly four Gospels</td>
+<td data-label="Date">c. 180</td>
+<td data-label="Event">Irenaeus argues for exactly four Gospels</td>
 </tr>
 <tr>
-<td>313</td>
-<td>Edict of Milan — Christianity legalised</td>
+<td data-label="Date">313</td>
+<td data-label="Event">Edict of Milan — Christianity legalised</td>
 </tr>
 <tr>
-<td><strong>325</strong></td>
-<td><strong>Nicaea — Arian controversy and the Nicene Creed. NOT the canon.</strong></td>
+<td data-label="Date"><strong>325</strong></td>
+<td data-label="Event"><strong>Nicaea — Arian controversy and the Nicene Creed. NOT the canon.</strong></td>
 </tr>
 <tr>
-<td>367</td>
-<td>Athanasius&#39;s 39th Festal Letter — first surviving list matching the 27-book NT</td>
+<td data-label="Date">367</td>
+<td data-label="Event">Athanasius&#39;s 39th Festal Letter — first surviving list matching the 27-book NT</td>
 </tr>
 <tr>
-<td>380</td>
-<td>Edict of Thessalonica — Christianity becomes the state religion</td>
+<td data-label="Date">380</td>
+<td data-label="Event">Edict of Thessalonica — Christianity becomes the state religion</td>
 </tr>
 <tr>
-<td>393 / 397</td>
-<td>Hippo and Carthage ratify regional canon lists</td>
+<td data-label="Date">393 / 397</td>
+<td data-label="Event">Hippo and Carthage ratify regional canon lists</td>
 </tr>
-</tbody></table>
-<h3 data-num="5.5" id="s5-5"><span class="num">§5.5</span>Islam</h3><table>
+</tbody></table></div>
+<h3 data-num="5.5" id="s5-5"><span class="num">§5.5</span>Islam</h3><div class="rk-table" role="region" aria-label="Table: Date, Event" tabindex="0"><table>
 <thead>
 <tr>
 <th>Date</th>
@@ -1052,27 +1016,27 @@ hr+*{margin-top:0}
 </tr>
 </thead>
 <tbody><tr>
-<td>c. 570–632</td>
-<td>Muhammad</td>
+<td data-label="Date">c. 570–632</td>
+<td data-label="Event">Muhammad</td>
 </tr>
 <tr>
-<td>610</td>
-<td>Traditional date of first revelation</td>
+<td data-label="Date">610</td>
+<td data-label="Event">Traditional date of first revelation</td>
 </tr>
 <tr>
-<td>622</td>
-<td>Hijra — year 1 of the Islamic calendar</td>
+<td data-label="Date">622</td>
+<td data-label="Event">Hijra — year 1 of the Islamic calendar</td>
 </tr>
 <tr>
-<td>c. 650</td>
-<td>Uthmanic recension — standardized Quranic text</td>
+<td data-label="Date">c. 650</td>
+<td data-label="Event">Uthmanic recension — standardized Quranic text</td>
 </tr>
 <tr>
-<td>8th–9th c.</td>
-<td>Hadith collections and <em>sira</em> biographies written down</td>
+<td data-label="Date">8th–9th c.</td>
+<td data-label="Event">Hadith collections and <em>sira</em> biographies written down</td>
 </tr>
-</tbody></table>
-<h3 data-num="5.6" id="s5-6"><span class="num">§5.6</span>English Bibles</h3><table>
+</tbody></table></div>
+<h3 data-num="5.6" id="s5-6"><span class="num">§5.6</span>English Bibles</h3><div class="rk-table" role="region" aria-label="Table: Date, Version" tabindex="0"><table>
 <thead>
 <tr>
 <th>Date</th>
@@ -1080,34 +1044,34 @@ hr+*{margin-top:0}
 </tr>
 </thead>
 <tbody><tr>
-<td>1382</td>
-<td>Wycliffe — first complete English Bible</td>
+<td data-label="Date">1382</td>
+<td data-label="Version">Wycliffe — first complete English Bible</td>
 </tr>
 <tr>
-<td>1526</td>
-<td>Tyndale New Testament — Tyndale executed 1536</td>
+<td data-label="Date">1526</td>
+<td data-label="Version">Tyndale New Testament — Tyndale executed 1536</td>
 </tr>
 <tr>
-<td>1611</td>
-<td>King James Version (<em>Textus Receptus</em> base)</td>
+<td data-label="Date">1611</td>
+<td data-label="Version">King James Version (<em>Textus Receptus</em> base)</td>
 </tr>
 <tr>
-<td>1901 / 1952</td>
-<td>ASV / RSV — the RSV&#39;s &quot;young woman&quot; at Isaiah 7:14 gets copies publicly burned</td>
+<td data-label="Date">1901 / 1952</td>
+<td data-label="Version">ASV / RSV — the RSV&#39;s &quot;young woman&quot; at Isaiah 7:14 gets copies publicly burned</td>
 </tr>
 <tr>
-<td>1978 / 2011</td>
-<td>NIV</td>
+<td data-label="Date">1978 / 2011</td>
+<td data-label="Version">NIV</td>
 </tr>
 <tr>
-<td>2001</td>
-<td>ESV</td>
+<td data-label="Date">2001</td>
+<td data-label="Version">ESV</td>
 </tr>
 <tr>
-<td>2021</td>
-<td>NRSVue — current academic standard</td>
+<td data-label="Date">2021</td>
+<td data-label="Version">NRSVue — current academic standard</td>
 </tr>
-</tbody></table>
+</tbody></table></div>
 <h3 data-num="5.7" id="s5-7"><span class="num">§5.7</span>Source gaps — key intervals to remember</h3><p>These are the figures to have ready. Every one is a <em>gap between event and writing</em>, which is the single most important number in any source discussion.</p>
 <ul>
 <li><strong>~40 years</strong> — crucifixion (c. 30) to the first Gospel (c. 70)</li>

@@ -4677,7 +4677,7 @@
     "claim_id": "CP-ARCHER-001",
     "claim_text": "Gleason Archer, in Encyclopedia of Bible Difficulties (1982), rejects reading ʾelep in the Numbers censuses as \"clan\" (naming Mendenhall, Bright, and Clark) and defends the 603,550 total from the place-value structure of the figures and the Exodus 38:25 half-shekel sum.",
     "claim_type": "historical_interpretation",
-    "status": "verified_with_qualification",
+    "status": "unreviewed",
     "confidence": "medium",
     "primary_sources": [
       {
@@ -4696,7 +4696,7 @@
         "anchor": "#person-archer-gleason"
       }
     ],
-    "notes": "Qualification: page numbers come from an unofficial hosted copy. Earlier wording \"defends every Numbers census figure\" narrowed.",
+    "notes": "Qualification: page numbers come from an unofficial hosted copy. Earlier wording \"defends every Numbers census figure\" narrowed. Status held at unreviewed under the five-entry follow-up gate (docs/research/cited-persons-five-entry-followup-20261020.md), which requires a verified edition before upgrading; the text was read only in a web copy.",
     "last_verified": "2026-10-20",
     "reviewer": "audit-2026-10-20"
   },
@@ -4704,8 +4704,8 @@
     "claim_id": "CP-BARTON-001",
     "claim_text": "John Barton disputes the Harnack/von Campenhausen thesis that the New Testament canon was an anti-Marcionite creation, summarizing (in his words, \"somewhat exaggerated\"): \"Marcion was not responsible for Christians adopting a New Testament; he was responsible for their retaining an Old Testament.\"",
     "claim_type": "scholarly_consensus",
-    "status": "verified",
-    "confidence": "high",
+    "status": "unreviewed",
+    "confidence": "medium",
     "primary_sources": [
       {
         "source": "John Barton, \"Marcion Revisited,\" in L.M. McDonald and J.A. Sanders (eds.), The Canon Debate (Hendrickson)",
@@ -4743,7 +4743,7 @@
         "anchor": "#s12-3"
       }
     ],
-    "notes": "Corrects Historical Framework §12.3, which credited the quote to The Cambridge History of Christianity and paraphrased it (\"the Christians\", \"the Old Testament\"). Page of the sentence within the chapter not confirmed.",
+    "notes": "Corrects Historical Framework §12.3, which credited the quote to The Cambridge History of Christianity and paraphrased it (\"the Christians\", \"the Old Testament\"). Page of the sentence within the chapter not confirmed. Status held at unreviewed under the five-entry follow-up gate (docs/research/cited-persons-five-entry-followup-20261020.md), which requires a verified edition before upgrading; the text was read only in a web copy.",
     "last_verified": "2026-10-20",
     "reviewer": "audit-2026-10-20"
   },
@@ -4788,7 +4788,7 @@
     "claim_id": "CP-BRIGGS-001",
     "claim_text": "Peter Briggs applies the eleph-as-troop proposal in Testing the Factuality of the Conquest of Ai Narrative in the Book of Joshua: he accepts Humphreys' Numbers 26 model (5,730 fighting men in 593 troops) as a working hypothesis, then argues for a troop size of about 100 in Joshua's time, giving results that differ from Humphreys' troop size of about 10.",
     "claim_type": "historical_interpretation",
-    "status": "verified_with_qualification",
+    "status": "unreviewed",
     "confidence": "medium",
     "primary_sources": [
       {
@@ -4819,7 +4819,7 @@
         "anchor": "#a-the-eleph-census-solution"
       }
     ],
-    "notes": "Qualification: Briggs's subject is Joshua and Ai, not the Numbers census as such; the earlier Cited Persons wording (\"applied the eleph proposal to Numbers\") was narrowed. Supersedes the same-day note calling the entry a probable misattribution. Read through the ABR web reprint, not the printed volume.",
+    "notes": "Qualification: Briggs's subject is Joshua and Ai, not the Numbers census as such; the earlier Cited Persons wording (\"applied the eleph proposal to Numbers\") was narrowed. Read through the ABR web reprint, not the printed volume. Status held at unreviewed under the five-entry follow-up gate (docs/research/cited-persons-five-entry-followup-20261020.md), which requires a verified edition before upgrading; the text was read only in a web copy.",
     "last_verified": "2026-10-20",
     "reviewer": "audit-2026-10-20"
   }

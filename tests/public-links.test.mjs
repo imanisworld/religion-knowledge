@@ -75,6 +75,14 @@ test('subject pages connect in both directions without asserting historical infl
   for(const target of ['history.html#s2-1','gender-over-time.html#biblical-gender-metaphors',
     'religion-law.html#compare-laws','cited-persons.html'])
     assert.ok(hub.includes('href="'+target+'"'),'Comparison hub missing '+target);
+  const gender=htmlByPage.get('gender-over-time.html')||'';
+  const patterns=htmlByPage.get('patterns-synthesis.html')||'';
+  assert.ok(gender.includes('href="translations.html#s5"'),
+    'Hebrew/Greek imagery needs a translation-context link');
+  assert.ok(gender.includes('href="patterns-synthesis.html#body"'),
+    'Gender imagery needs broader social-category context');
+  assert.ok(patterns.includes('href="gender-over-time.html#method"'),
+    'Historical patterns should lead readers back to the gender research');
   assert.match(catalog,/Similar gods or stories may have developed separately/);
   assert.match(catalog,/View research file/);
 });
