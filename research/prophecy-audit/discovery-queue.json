@@ -1,0 +1,234 @@
+{
+  "version": 1,
+  "created": "2026-10-20",
+  "state": "initial_completeness_search_unreviewed",
+  "description": "Additional plausible source-based prophecy/fulfillment loci omitted from the original bounded inventory; these are unresearched leads and are not part of the completed 65 canonical cases. The list is preliminary and cannot be declared exhaustive.",
+  "accounting": {
+    "canonical_cases": 65,
+    "original_matthew_formula_subset": 10,
+    "original_supplemental_seed": 50,
+    "original_seed_mapped": 50,
+    "new_unresearched_leads": 21
+  },
+  "provisional_inclusion_rule": "Include an explicit earlier claim concerning a future state/event, a canonical later fulfillment/reuse claim, or a clear retrospective reinterpretation that communities present as prophecy. Distinguish each earlier source from each separately testable later use, track conditionality and literary dependence.",
+  "provisional_exclusions": "Generic moral maxims, untethered poetic comparisons, and modern identifications lacking a specific biblical anchor do not automatically count as independent prophecies. Denominational canon boundaries still to be documented.",
+  "work_order": [
+    "Verify exact primary passage and traditional verse numbering in a scholarly edition",
+    "Assess whether existing records directly cover the same source-plus-later-test pair and link rather than duplicate",
+    "Determine original authorial/historical context and composition-date evidence",
+    "Research later interpretations across Jewish/Christian/historical-critical traditions",
+    "Check independent history and uncertainty before creating a canonical case"
+  ],
+  "items": [
+    {
+      "id": "discovery-001",
+      "locus": "Genesis 49:8–12",
+      "group": "royal_messianic",
+      "focus": "Judah's scepter and 'Shiloh' wording; textual ambiguity; later messianic receptions",
+      "reviewQuestion": "Source passage prophecy genre/dating and whom/what Shiloh denotes; distinguish tribal royal hopes from named Jesus forecast",
+      "related_case_id": null,
+      "status": "new_candidate_unresearched",
+      "primary_text_url": null
+    },
+    {
+      "id": "discovery-002",
+      "locus": "Numbers 24:15–19",
+      "group": "royal_messianic",
+      "focus": "Balaam's star and scepter from Jacob; Edom/Moab conquest and later Bar Kokhba reception",
+      "reviewQuestion": "Assess immediate military horizon and Jewish messianic reinterpretation versus claimed prediction of Jesus",
+      "related_case_id": null,
+      "status": "new_candidate_unresearched",
+      "primary_text_url": null
+    },
+    {
+      "id": "discovery-003",
+      "locus": "2 Samuel 7:12–16",
+      "group": "royal_covenant",
+      "focus": "Perpetual Davidic dynasty and a son disciplined for wrongdoing",
+      "reviewQuestion": "Standalone historical continuity claim; existing Hebrews 1:5 royal citation studies only one later reuse",
+      "related_case_id": "hebrews-1-5-royal-son",
+      "status": "new_candidate_unresearched",
+      "primary_text_url": null
+    },
+    {
+      "id": "discovery-004",
+      "locus": "Isaiah 2:2–4 / Micah 4:1–4",
+      "group": "restoration_world",
+      "focus": "Nations pilgrimage to Zion and swords beaten into plowshares",
+      "reviewQuestion": "Shared literary oracle and no independently completed universal end of warfare; avoid two independent forecasts",
+      "related_case_id": null,
+      "status": "new_candidate_unresearched",
+      "primary_text_url": null
+    },
+    {
+      "id": "discovery-005",
+      "locus": "Isaiah 11:1–9",
+      "group": "royal_messianic",
+      "focus": "Shoot from Jesse and justice, wolf/lamb imagery, knowledge filling the earth",
+      "reviewQuestion": "Check original royal-restoration hope and differing literal/metaphorical future kingdom applications",
+      "related_case_id": null,
+      "status": "new_candidate_unresearched",
+      "primary_text_url": null
+    },
+    {
+      "id": "discovery-006",
+      "locus": "Isaiah 19:18–25",
+      "group": "restoration_world",
+      "focus": "Egypt-Assyria-Israel highway and shared worship/blessing",
+      "reviewQuestion": "Egyptian/Assyrian historical referents, composition date and non-observed universal event",
+      "related_case_id": null,
+      "status": "new_candidate_unresearched",
+      "primary_text_url": "https://bible.usccb.org/bible/isaiah/19"
+    },
+    {
+      "id": "discovery-007",
+      "locus": "Jeremiah 23:5–6",
+      "group": "royal_messianic",
+      "focus": "Righteous Branch of David and Judah/Israel security",
+      "reviewQuestion": "Identify restored Judah immediate horizon and Jewish/Christian messianic interpretations",
+      "related_case_id": null,
+      "status": "new_candidate_unresearched",
+      "primary_text_url": null
+    },
+    {
+      "id": "discovery-008",
+      "locus": "Jeremiah 33:14–22",
+      "group": "royal_covenant",
+      "focus": "Unbroken Davidic kingship and Levitical priestly offerings",
+      "reviewQuestion": "Shorter Greek Jeremiah tradition and whether the promised perpetual institutions endured",
+      "related_case_id": null,
+      "status": "new_candidate_unresearched",
+      "primary_text_url": null
+    },
+    {
+      "id": "discovery-009",
+      "locus": "Jeremiah 50–51",
+      "group": "historical_oracle",
+      "focus": "Babylon's permanent desolation, destroyed walls and uninhabited land",
+      "reviewQuestion": "Historic Persian conquest versus much longer lived settlement and rhetoric; avoid duplicate Isaiah 13 case",
+      "related_case_id": "isaiah-13-medial-babylon",
+      "status": "new_candidate_unresearched",
+      "primary_text_url": null
+    },
+    {
+      "id": "discovery-010",
+      "locus": "Ezekiel 37:15–28",
+      "group": "restoration_world",
+      "focus": "Two sticks, reunification of Israel/Judah and one Davidic shepherd forever",
+      "reviewQuestion": "Distinguish political resettlement, ongoing division, future hope and later messianic reception",
+      "related_case_id": null,
+      "status": "new_candidate_unresearched",
+      "primary_text_url": null
+    },
+    {
+      "id": "discovery-011",
+      "locus": "Ezekiel 40–48",
+      "group": "restoration_world",
+      "focus": "Measured rebuilt temple, renewed cult, river and reallocated tribal land",
+      "reviewQuestion": "Literal architectural/ritual claims versus symbolic vision and later Revelation 21 no-temple reuse",
+      "related_case_id": "revelation-20-21-millennium-new-jerusalem",
+      "status": "new_candidate_unresearched",
+      "primary_text_url": null
+    },
+    {
+      "id": "discovery-012",
+      "locus": "Zechariah 6:9–15",
+      "group": "royal_messianic",
+      "focus": "Crown, Branch, high priest Joshua and the future temple builder",
+      "reviewQuestion": "Historic priest/governor relation and explicit conditional 'if you obey'; later christological uses",
+      "related_case_id": null,
+      "status": "new_candidate_unresearched",
+      "primary_text_url": "https://bible.usccb.org/bible/zechariah/6"
+    },
+    {
+      "id": "discovery-013",
+      "locus": "Zechariah 8:20–23",
+      "group": "restoration_world",
+      "focus": "Ten men from all languages grasp a Judean's garment to seek God",
+      "reviewQuestion": "Poetic multinational pilgrimage claim and dating of restored Jerusalem's role",
+      "related_case_id": null,
+      "status": "new_candidate_unresearched",
+      "primary_text_url": "https://bible.usccb.org/bible/zechariah/8"
+    },
+    {
+      "id": "discovery-014",
+      "locus": "Malachi 3:23–24 (4:5–6 English)",
+      "group": "royal_messianic",
+      "focus": "Elijah before the great day of YHWH; return of families",
+      "reviewQuestion": "John the Baptist identification in Matthew 11:14 and Mark 9:11–13; verse-number variation",
+      "related_case_id": "mark-1-composite-quotation",
+      "status": "new_candidate_unresearched",
+      "primary_text_url": null
+    },
+    {
+      "id": "discovery-015",
+      "locus": "Psalm 110:1–4",
+      "group": "royal_messianic",
+      "focus": "Enthroned lord and priest forever according to Melchizedek",
+      "reviewQuestion": "Existing Mark 14:62 only uses v1; distinct Hebrews 7 priesthood reception and original court context",
+      "related_case_id": "mark-14-62-son-man-high-priest",
+      "status": "new_candidate_unresearched",
+      "primary_text_url": null
+    },
+    {
+      "id": "discovery-016",
+      "locus": "Psalm 69:21 (some numbering 69:22)",
+      "group": "nt_reuse",
+      "focus": "Sufferer's thirst and vinegar; John 19:28–30 scriptural completion",
+      "reviewQuestion": "First-person lament versus narrative details; identify whether verse directly intended by John",
+      "related_case_id": null,
+      "status": "new_candidate_unresearched",
+      "primary_text_url": null
+    },
+    {
+      "id": "discovery-017",
+      "locus": "Luke 21:20–32",
+      "group": "nt_imminence",
+      "focus": "Jerusalem surrounded, Gentile period and 'this generation'",
+      "reviewQuestion": "Compare Luke's edited horizon with Mark 13 but do not automatically duplicate the same later wording",
+      "related_case_id": "mark-13-30-this-generation",
+      "status": "new_candidate_unresearched",
+      "primary_text_url": null
+    },
+    {
+      "id": "discovery-018",
+      "locus": "2 Thessalonians 2:1–12",
+      "group": "nt_imminence",
+      "focus": "Man of lawlessness before Day of Lord and restrainer",
+      "reviewQuestion": "Disputed Pauline authorship/date; relation to delay of parousia and imperial interpretations",
+      "related_case_id": "one-thess-4-we-alive",
+      "status": "new_candidate_unresearched",
+      "primary_text_url": null
+    },
+    {
+      "id": "discovery-019",
+      "locus": "2 Peter 3:3–13",
+      "group": "nt_imminence",
+      "focus": "Claim that the promised coming is delayed and a day is like a thousand years",
+      "reviewQuestion": "Late date/authorship debate; theological explanation of delay vs the original first-century near promises",
+      "related_case_id": "revelation-1-22-soon",
+      "status": "new_candidate_unresearched",
+      "primary_text_url": null
+    },
+    {
+      "id": "discovery-020",
+      "locus": "Revelation 11:1–13",
+      "group": "apocalyptic",
+      "focus": "Two witnesses, 1,260 days, city called Sodom/Egypt",
+      "reviewQuestion": "Apocalyptic calendar/genre, Rome/Jerusalem imagery and future literal interpretations",
+      "related_case_id": "revelation-13-beast-number",
+      "status": "new_candidate_unresearched",
+      "primary_text_url": null
+    },
+    {
+      "id": "discovery-021",
+      "locus": "Revelation 17–18",
+      "group": "apocalyptic",
+      "focus": "Babylon the great, seven mountains/kings and downfall of imperial city",
+      "reviewQuestion": "Rome identification versus literal old Babylon and later future kingdom readings",
+      "related_case_id": "revelation-13-beast-number",
+      "status": "new_candidate_unresearched",
+      "primary_text_url": null
+    }
+  ]
+}
