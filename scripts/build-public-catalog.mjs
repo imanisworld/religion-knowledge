@@ -130,23 +130,45 @@ export function buildPublicCatalog() {
     '<meta name="viewport" content="width=device-width,initial-scale=1">'+
     '<title>Gods, Religions, Cultures &amp; People · Religion Knowledge</title>'+
     '<link rel="stylesheet" href="site-shell.css">'+
-    '<style>:root{--f-body:system-ui,sans-serif}*{box-sizing:border-box}html{scroll-padding-top:7rem}'+
+    '<style>:root{--f-body:var(--rk-body,system-ui,sans-serif)}*{box-sizing:border-box}html{scroll-padding-top:7rem}'+
     'body{margin:0;background:var(--ground);color:var(--ink);font:16px/1.55 var(--f-body)}'+
     'main{max-width:1140px;padding:3.2rem 1.2rem 6rem;margin:auto}'+
-    'h1,h2{font-family:Georgia,serif;letter-spacing:-.025em;font-weight:500}h1{font-size:clamp(2.3rem,6vw,3.8rem);line-height:1.1;margin:.4rem 0 .7rem}'+
+    'h1,h2{font-family:var(--rk-display,Georgia,serif);letter-spacing:-.025em;font-weight:500}h1{font-size:clamp(2.3rem,6vw,3.8rem);line-height:1.1;margin:.4rem 0 .7rem}'+
     '.lede{max-width:76ch;color:var(--ink2)}.jump{display:flex;gap:.8rem 1.1rem;flex-wrap:wrap;margin:1.8rem 0 3rem;border-block:1px solid var(--rule);padding:1rem 0}'+
     '.jump a{font-size:.85rem;color:var(--accent)}.group{margin:0 0 3rem;scroll-margin-top:7rem}'+
-    '.group{border-bottom:1px solid var(--rule);padding-bottom:1rem}.section-head{display:flex;align-items:center;justify-content:space-between;gap:.8rem;cursor:pointer;padding:.7rem .2rem}.section-head .group-title{font:500 clamp(1.5rem,4vw,2rem)/1.2 Georgia,serif;color:var(--ink)}.section-head span:last-child{color:var(--ink2);font-size:.84rem;white-space:nowrap}.section-head:focus-visible{outline:2px solid var(--accent);outline-offset:3px}details>summary::marker{color:var(--accent)}'+
+    '.group{border-bottom:1px solid var(--rule);padding-bottom:1rem}.section-head{display:flex;align-items:center;justify-content:space-between;gap:.8rem;cursor:pointer;padding:.7rem .2rem}.section-head .group-title{font:500 clamp(1.5rem,4vw,2rem)/1.2 var(--rk-display,Georgia,serif);color:var(--ink)}.section-head span:last-child{color:var(--ink2);font-size:.84rem;white-space:nowrap}.section-head:focus-visible{outline:2px solid var(--accent);outline-offset:3px}details>summary::marker{color:var(--accent)}'+
     '.group>p{color:var(--ink2);font-size:.9rem;margin:.3rem 0 .95rem}'+
-    '.table-scroll{width:100%;overflow-x:auto;border:1px solid var(--rule);border-radius:6px}'+
-    'table{width:100%;min-width:680px;border-collapse:collapse;background:var(--paper)}th,td{text-align:left;vertical-align:top;padding:.75rem .9rem;border-bottom:1px solid var(--rule);font-size:.95rem}'+
-    'thead th{font-size:.72rem;text-transform:uppercase;letter-spacing:.07em;color:var(--ink2);background:var(--ground)}tbody th{font-weight:600;min-width:170px}'+
-    'tbody tr:last-child>*{border-bottom:0}td{color:var(--ink2)}td a{color:var(--accent)}'+
+    '.table-wrap{width:100%;min-width:0;border-top:1px solid var(--rule)}'+
+    '.catalog-table{width:100%;table-layout:fixed;border-collapse:collapse;background:var(--paper)}'+
+    '.catalog-table th,.catalog-table td{text-align:left;vertical-align:top;padding:.8rem .8rem;border-bottom:1px solid var(--rule);font-size:.9rem;overflow-wrap:anywhere}'+
+    '.catalog-table thead th{font-size:.72rem;text-transform:uppercase;letter-spacing:.05em;color:var(--ink2);background:var(--ground)}'+
+    '.catalog-table thead th:nth-child(1){width:27%}.catalog-table thead th:nth-child(2){width:18%}'+
+    '.catalog-table tbody th{font-weight:650;color:var(--ink)}.catalog-table td{color:var(--ink2)}'+
+    '.catalog-table tbody tr:last-child>*{border-bottom:0}.catalog-table tr[hidden]{display:none}'+
+    '.preview{margin:0;line-height:1.48;color:var(--ink)}'+
+    '.entry-more{margin:.36rem 0 0}.entry-more summary{width:max-content;max-width:100%;color:var(--accent);font-size:.84rem;font-weight:650;cursor:pointer;text-underline-offset:3px;text-decoration:underline}'+
+    '.entry-more[open]{margin-top:.6rem}.entry-details{margin:.6rem 0 .15rem;padding:.75rem 0 .1rem;border-top:1px solid var(--rule)}'+
+    '.entry-details div{margin:0 0 .8rem}.entry-details dt{font-size:.7rem;text-transform:uppercase;letter-spacing:.05em;font-weight:750;color:var(--ink2)}'+
+    '.entry-details dd{margin:.2rem 0 0;color:var(--ink);font-size:.9rem;line-height:1.55;overflow-wrap:anywhere;white-space:normal}'+
+    '.people-list ul{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 1.5rem}'+
+    '.people-list li{border-bottom:1px solid var(--rule);padding:.5rem .3rem;min-width:0}'+
+    '.people-list li[hidden]{display:none}.people-list a{font-weight:600;color:var(--ink)}'+
+    '.people-list li span{display:block;font-size:.75rem;color:var(--ink2)}'+
     '.status{border-left:3px solid var(--accent);padding:.75rem 1rem;margin:1.7rem 0;background:var(--paper);font-size:.9rem}'+
     'input[type=search]{max-width:32rem;width:100%;border:1px solid var(--rule);padding:.65rem .75rem;background:var(--paper);color:var(--ink);border-radius:6px;font:inherit}'+
     '.controls{margin-bottom:1.7rem}.controls label{display:block;font-size:.95rem;margin-bottom:.35rem}.scroll-note,.result-count{font-size:.88rem;color:var(--ink2)}.result-count{margin-top:.55rem}.status summary{font-weight:600;cursor:pointer}.status p{margin:.55rem 0 0}'+
     '.skip{position:absolute;left:-9999px}.skip:focus{left:1rem;top:1rem;padding:.5rem;background:var(--paper);z-index:110}'+
-    '@media(max-width:720px){main{padding:2rem 1rem 4rem}.section-head{align-items:start}.table-scroll{margin-inline:0}th,td{padding:.6rem .7rem}}'+
+    '@media(max-width:720px){main{padding:2rem 1rem 4rem}.section-head{align-items:start}.people-list ul{grid-template-columns:1fr}'+
+    '.catalog-table,.catalog-table tbody,.catalog-table tr,.catalog-table th,.catalog-table td{display:block;width:100%!important;min-width:0}'+
+    '.catalog-table thead{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}'+
+    '.catalog-table tr{padding:.75rem .85rem;margin:0 0 .65rem;border:1px solid var(--rule);border-radius:9px;background:var(--paper)}'+
+    '.catalog-table th,.catalog-table td{padding:.2rem 0;border:0!important;background:transparent}'+
+    '.catalog-table th[scope=row]{font-size:1rem;margin-bottom:.15rem}'+
+    '.catalog-table td[data-label=Region]{font-size:.8rem;color:var(--ink2);margin-bottom:.3rem}'+
+    '.catalog-table td[data-label=Overview]{font-size:.9rem}'+
+    '.table-wrap{border:0;background:transparent}.catalog-table{background:transparent}'+
+    '.entry-more summary{padding:.25rem 0}.jump{gap:.6rem 1rem}}'+
+    '@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}'+
     '</style><script>try{document.documentElement.dataset.theme=localStorage.getItem("religion-knowledge-theme")||"light"}catch(e){}</script></head>'+
     '<body class="rk-with-sitebar"><a class="skip" href="#main">Skip to tables</a>'+
     '<header class="rk-sitebar"><div class="rk-sitebar-inner"><a class="rk-brand" href="index.html">Religion Knowledge<small>Research library</small></a>'+
@@ -155,10 +177,10 @@ export function buildPublicCatalog() {
     '<main id="main"><p><a href="comparisons.html">← Comparison tables</a></p><h1>Gods, religions, cultures &amp; people</h1>'+
     '<p class="lede">Explore the gods, religions, cultures, stories, and people in our research. Start with the first list, open another section, or search for a name or place.</p>'+
     '<p class="lede"><strong>This research is still being checked.</strong> Some findings need independent review before they can be treated as established.</p>'+
-    '<details class="status"><summary>What do the evidence labels mean?</summary><p><strong>Published:</strong> added to the public research. <strong>Checked in research:</strong> a source check was recorded, but independent review may still be pending. <strong>Still to review:</strong> more checking is needed. These lists cover only the material we have researched so far. Similar gods or stories may have developed separately.</p><p>“View research file” opens the supporting data on GitHub. That file may use technical language.</p></details>'+
+    '<details class="status"><summary>What do the evidence labels mean?</summary><p><strong>Published:</strong> added to the public research. <strong>Checked in research:</strong> a source check was recorded, but independent review may still be pending. <strong>Still to review:</strong> more checking is needed. These lists cover only the material we have researched so far. Similar gods or stories may have developed separately.</p><p>Open “Read research notes” on any entry to see the available context and the status of linked claims without leaving the site.</p></details>'+
     '<nav class="jump" aria-label="Jump to a collection">'+nav+'</nav>'+
-    '<div class="controls"><label for="filter">Find a name, place, or topic</label><input id="filter" type="search" autocomplete="off" placeholder="For example: Baal, Maya, or West Africa"><p class="result-count" id="matchCount" aria-live="polite"></p><p class="scroll-note">On a phone, swipe a table sideways to see more columns.</p></div>'+
+    '<div class="controls"><label for="filter">Find a name, place, or topic</label><input id="filter" type="search" autocomplete="off" placeholder="For example: Baal, Maya, or West Africa"><p class="result-count" id="matchCount" aria-live="polite"></p><p class="scroll-note">On a phone, each entry is shown in a readable row. Open research notes for more detail.</p></div>'+
     groups+peopleTable()+
     '<p class="lede">Want to go further? Read the <a href="history.html">Historical Framework</a>, <a href="sources.html">Sources &amp; Primary Texts</a>, or <a href="cited-persons.html">Cited Persons</a> pages. They explain the sources and historical context.</p></main>'+
-    '<script>(()=>{const f=document.getElementById("filter");const groups=[...document.querySelectorAll("details.group")];let saved=null;function apply(){const q=f.value.toLocaleLowerCase().trim();if(q&&!saved)saved=new Map(groups.map(g=>[g.id,g.open]));if(!q&&saved){for(const g of groups){g.open=saved.get(g.id)||false;g.hidden=false;}saved=null;}let total=0;for(const g of groups){let found=0;for(const row of g.querySelectorAll("tbody tr")){const show=!q||row.textContent.toLocaleLowerCase().includes(q);row.hidden=!show;if(show)found++;}g.hidden=!!q&&!found;if(q&&found)g.open=true;total+=found;}document.getElementById("matchCount").textContent=q?total+" matching entries":"";}f.addEventListener("input",apply);document.querySelectorAll(".jump a").forEach(a=>a.addEventListener("click",()=>{f.value="";apply();const target=document.getElementById(a.getAttribute("href").slice(1));if(target)target.open=true;}));if(location.hash){const target=document.getElementById(location.hash.slice(1));if(target?.matches("details.group"))target.open=true;}document.getElementById("theme").addEventListener("click",()=>{let d=document.documentElement;d.dataset.theme=d.dataset.theme==="dark"?"light":"dark";try{localStorage.setItem("religion-knowledge-theme",d.dataset.theme)}catch(e){}})})();</script></body></html>';
+    '<script>(()=>{const f=document.getElementById("filter");const groups=[...document.querySelectorAll("details.group")];let saved=null;function apply(){const q=f.value.toLocaleLowerCase().trim();if(q&&!saved)saved=new Map(groups.map(g=>[g.id,g.open]));if(!q&&saved){for(const g of groups){g.open=saved.get(g.id)||false;g.hidden=false;}saved=null;}let total=0;for(const g of groups){let found=0;for(const row of g.querySelectorAll("[data-catalog-row]")){const show=!q||row.textContent.toLocaleLowerCase().includes(q);row.hidden=!show;if(show)found++;}g.hidden=!!q&&!found;if(q&&found)g.open=true;total+=found;}document.getElementById("matchCount").textContent=q?total+" matching entries":"";}f.addEventListener("input",apply);document.querySelectorAll(".jump a").forEach(a=>a.addEventListener("click",()=>{f.value="";apply();const target=document.getElementById(a.getAttribute("href").slice(1));if(target)target.open=true;}));if(location.hash){const target=document.getElementById(location.hash.slice(1));if(target?.matches("details.group"))target.open=true;}document.getElementById("theme").addEventListener("click",()=>{let d=document.documentElement;d.dataset.theme=d.dataset.theme==="dark"?"light":"dark";try{localStorage.setItem("religion-knowledge-theme",d.dataset.theme)}catch(e){}})})();</script></body></html>';
 }
