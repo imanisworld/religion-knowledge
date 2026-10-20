@@ -35,19 +35,19 @@ These leads are recorded in the canonical entries. None of them meets the verifi
 |---|---|---|---|
 | Archer | *Encyclopedia of Bible Difficulties* (Zondervan, 1982), pp. 124–125 | An Internet Archive library scan of this edition exists (`encyclopediaofbi00arch`, ISBN 0310435706). It is lending-only, and its text cannot be searched without signing in to borrow it. | Not checked. Stays `UNRESOLVED`. |
 | Barton | "Marcion Revisited," *The Canon Debate* (Hendrickson, 2002), pp. 341–354 | An Internet Archive scan exists (`canondebate0000unse`), also lending-only. Google Books blocked automated search. A print review (*Andrews University Seminary Studies*) quotes the essay at p. 342, confirming the essay and its pagination but not the sentence. | Not checked. Stays `UNRESOLVED`. |
-| Briggs | "Testing the Factuality of the Conquest of Ai Narrative," *Beyond the Jordan* (Wipf & Stock, 2005), pp. 157–196 | No scan or preview was found. The chapter and page range are confirmed by Dozeman's peer-reviewed survey, "The Book of Joshua in Recent Research," *Currents in Biblical Research* (2017), bibliography. | Identity and publication confirmed; text not checked in print. Stays `UNRESOLVED`. |
+| Briggs | "Testing the Factuality of the Conquest of Ai Narrative," *Beyond the Jordan* (Wipf & Stock, 2005), pp. 157–196 | The [publisher's limited preview](https://api.pageplace.de/preview/DT0400.9781725242876_A40373848/preview-9781725242876_A40373848.pdf) displays the book's imprint and table of contents: Briggs begins at p. 157, and the next chapter at p. 197. Dozeman (2017) independently cites the chapter. The 23-page preview does **not** include Briggs's chapter text. | Publication and page range verified at table-of-contents level; the argument not checked against the printed chapter. Stays `UNRESOLVED`. |
 
 **Side finding:** Cambridge University Press lists Harry Gamble as the author of ch. 9, "Marcion and the 'canon'," in *The Cambridge History of Christianity*. This supports correcting Historical Framework §12.3, which credited Barton's Marcion line to that volume.
 
-**To finish:** someone with the books in hand, or a borrowing account for the Internet Archive scans, needs to read the listed pages. Archer and Barton can be upgraded if the wording matches the leads above. Briggs can be upgraded if the printed chapter matches the ABR text.
+**To finish:** someone with the books in hand, or a borrowing account for the Internet Archive scans, needs to check the relevant pages. Archer's Numbers argument may be upgraded only after the cited wording is verified in a controlled edition. For Barton, verifying the Marcion passage would support **that claim only**; the separate Micah 6 attribution remains unresolved until its own textual locator is found. Briggs's argument requires page-level verification against the printed chapter (or another fully accessible, attributable primary publication explicitly substituted as the cited source), not merely its table of contents.
 
 Registry: `CP-ARCHER-001`, `CP-BARTON-001`, `CP-BARTON-002`, and `CP-BRIGGS-001` are all `unreviewed`.
 
 ## Queue control
 
-- `Cited_Persons.md` counts on 20 October 2026: **365 total, 194 documented, 171 unresolved**.
+- `Cited_Persons.md` counts on 20 October 2026 after the separate six-person Paul-and-the-law batch on draft PR #212: **365 total, 200 documented, 165 unresolved**. The previous scouting baseline was 194 documented / 171 unresolved. None of the five entries in this follow-up was upgraded.
 - **A–L:** 3 unresolved (Archer, Barton, Briggs).
-- **M–Z:** 168 unresolved; source entries remain readable in the canonical Markdown (Perplexity's prior tool response was truncated, but this does not mean those entries are missing).
+- **M–Z:** 162 unresolved; source entries remain readable in the canonical Markdown (Perplexity's prior tool response was truncated, but this does not mean those entries are missing).
 - **Next batch:** group shared source/identity work on Nix, Pauline Allen/Bronwen Neil, Richard Paul, and Jerome/Marcella/Paula; check the proposed cross-reference against each person's own bibliographic or historical sources before upgrading their status.
 - Audit tracker: [issue #198](https://github.com/imanisworld/religion-knowledge/issues/198).
 
