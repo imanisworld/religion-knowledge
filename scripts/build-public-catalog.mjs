@@ -141,13 +141,15 @@ function entityTable(group, claims) {
         esc(period.date) + '</span><span class="period-kind">' + esc(period.kind) + '</span></td>' : '') +
       '<td role="cell" data-label="Overview"><p class="preview">' + esc(shorten(overview(row, group), isTradition ? 220 : 155)) + '</p>' +
       '<details class="entry-more"><summary>Read research notes</summary>' +
-      detailText(row, counts) + '</details></td></tr>';
+      detailText(row, counts) + '</details>' +
+      (isTradition ? '<p class="profile-link"><a href="traditions.html#' + esc(row.id) + '">Open historical profile →</a></p>' : '') +
+      '</td></tr>';
   }).join('\n');
   const heads = '<th role="columnheader" scope="col">Entry</th><th role="columnheader" scope="col">Region</th>' +
     (isTradition ? '<th role="columnheader" scope="col">Documented period</th>' : '') +
     '<th role="columnheader" scope="col">Overview and evidence</th>';
   const explanation = isTradition
-    ? '<p class="period-explainer"><strong>How to read these dates:</strong> “Documented period” dates surviving written evidence in this research, where identified. It is not a founding date or an end date for the religion. Earlier oral practice, material evidence and the tradition’s own histories may follow different timelines. Open research notes for those distinctions.</p>'
+    ? '<p class="period-explainer"><strong>How to read these dates:</strong> “Documented period” dates surviving written evidence in this research, where identified. It is not a founding date or an end date for the religion. Earlier oral practice, material evidence and the tradition’s own histories may follow different timelines. <a href="traditions.html">Explore all 27 historical profiles</a> for source types and the limits of each date.</p>'
     : '';
   return '<details id="' + esc(group.dir) + '" class="group"' + (group.dir === 'deities' ? ' open' : '') +
     '><summary class="section-head"><span class="group-title">' + esc(group.title) + '</span><span>' + records.length +
@@ -197,6 +199,7 @@ export function buildPublicCatalog() {
     '.preview{margin:0;line-height:1.48;color:var(--ink)}'+
     '.entry-more{margin:.36rem 0 0}.entry-more summary{width:max-content;max-width:100%;color:var(--accent);font-size:.84rem;font-weight:650;cursor:pointer;text-underline-offset:3px;text-decoration:underline}'+
     '.entry-more[open]{margin-top:.6rem}.entry-details{margin:.6rem 0 .15rem;padding:.75rem 0 .1rem;border-top:1px solid var(--rule)}'+
+    '.profile-link{margin:.5rem 0 .1rem;font-size:.8rem;font-weight:650}.profile-link a{color:var(--accent)}'+
     '.entry-details div{margin:0 0 .8rem}.entry-details dt{font-size:.7rem;text-transform:uppercase;letter-spacing:.05em;font-weight:750;color:var(--ink2)}'+
     '.entry-details dd{margin:.2rem 0 0;color:var(--ink);font-size:.9rem;line-height:1.55;overflow-wrap:anywhere;white-space:normal}'+
     '.people-list ul{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 1.5rem}'+

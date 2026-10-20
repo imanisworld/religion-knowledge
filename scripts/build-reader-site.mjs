@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { buildSearchIndex } from './build-search-index.mjs';
 import { buildPublicCatalog } from './build-public-catalog.mjs';
+import { buildTraditionsPage } from './build-traditions-profiles.mjs';
 
 const RESEARCH_READERS = [
   ['master-notes.html', 'Study Notes', 'The full study — audits, corrections, and the reading in progress.'],
@@ -23,11 +24,12 @@ const PERSONAL_PAGES = [
 ];
 const DISCOVERY_PAGES = [
   ['catalog.html', 'Gods, Religions & People', 'Find gods, religions, cultures, stories, and the people cited in this research.'],
+  ['traditions.html', 'Religions & Traditions', 'Explore 27 historical profiles with documented periods, types of evidence, and research limitations.'],
   ['comparisons.html', 'Comparison Tables', 'See timelines and tables comparing history, law, gender, and biblical texts.'],
   ['search.html', 'Search the Library', 'Look up a name, word, place, or question across the research.'],
 ];
 // The catalog is generated from Timeline data at build time; it is not a committed reader file.
-const GENERATED_PAGES = new Set(['catalog.html']);
+const GENERATED_PAGES = new Set(['catalog.html','traditions.html']);
 const READERS = [...RESEARCH_READERS, ...PERSONAL_PAGES, ...DISCOVERY_PAGES]
   .filter(([file]) => !GENERATED_PAGES.has(file));
 
@@ -56,6 +58,8 @@ const MISC_FILES = [
   'site-shell.css',
   'reader-chapters.js',
   'reader-chapters.css',
+  'traditions.js',
+  'traditions.css',
 ];
 
 const RESEARCH_DIRS = [
@@ -468,6 +472,7 @@ for (const dir of RESEARCH_DIRS) {
 
 fs.writeFileSync(path.join(output, 'index.html'), buildIndexHtml(), 'utf8');
 fs.writeFileSync(path.join(output, 'catalog.html'), buildPublicCatalog(), 'utf8');
+fs.writeFileSync(path.join(output, 'traditions.html'), buildTraditionsPage(), 'utf8');
 
 // Build search index from the reader HTML files already copied to dist
 const searchIndex = buildSearchIndex(output);
@@ -483,5 +488,5 @@ console.log(`READER_SITE_BUILD_SUMMARY=${JSON.stringify({
   research_dirs: RESEARCH_DIRS.length,
   research_files: RESEARCH_DIRS.reduce((total, dir) => total + countFiles(dir), 0),
   search_entries: searchIndex.length,
-  total_files: allFiles.length + RESEARCH_DIRS.reduce((total, dir) => total + countFiles(dir), 0) + 3,
+  total_files: allFiles.length + RESEARCH_DIRS.reduce((total, dir) => total + countFiles(dir), 0) + 4,
 })}`);

@@ -48,9 +48,9 @@ test('religions & traditions list has visible documented periods with evidence-t
   assert.match(content, /class="catalog-table traditions-table"/);
   assert.match(content, /<th role="columnheader" scope="col">Documented period<\/th>/);
   assert.match(content, /data-label="Documented period"/);
-  assert.match(content, /1704–1705 CE/); // Akan recorded documentary window
+  assert.match(content, /No verified written date/); // Akan passage-level date remains unresolved
   assert.match(content, /1400–1200 BCE/); // Ugaritic Bronze Age tablets
-  assert.match(content, /1701–1703 CE/); // surviving Popol Vuh manuscript
+  assert.match(content, /1700–1715 CE/); // custodian's broader Popol Vuh manuscript range
   assert.match(content, /No verified written date/); // early Yahwism needs no invented start
   assert.match(content, /Written sources in this research/);
   assert.match(content, /Surviving manuscript in this research/);
@@ -61,5 +61,7 @@ test('religions & traditions list has visible documented periods with evidence-t
   assert.match(content, /Traditional or internal account/);
   assert.match(html, /traditions-table thead th:nth-child\(3\)\{width:19%\}/);
   assert.match(html, /data-label="Documented period"/);
+  assert.match(html, /href="traditions.html#trad_akan_traditional_religion"/);
+  assert.match(html, /href="traditions.html"/);
   assert.doesNotMatch(html, /github\.com/);
 });
