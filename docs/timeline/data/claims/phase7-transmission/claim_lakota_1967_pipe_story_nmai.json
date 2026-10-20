@@ -1,0 +1,45 @@
+{
+  "id": "claim_lakota_1967_pipe_story_nmai",
+  "subject_type": "Tradition",
+  "subject_id": "trad_lakota_religion",
+  "statement": "The Smithsonian National Museum of the American Indian publicly presents a version of the White Buffalo Calf Woman pipe-giving story explicitly attributed to John Lame Deer in 1967, witnessing a named twentieth-century telling within Lakota sacred narrative transmission.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "ORAL_TRADITION",
+    "ETHNOGRAPHIC"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Smithsonian National Museum of the American Indian, Native Knowledge 360, 'Oceti Sakowin Homelands', public White Buffalo Calf Woman account attributed to John Lame Deer (1967), https://americanindian.si.edu/nk360/plains-belonging-homelands/oceti-sakowin",
+      "author": "John Lame Deer (attributed public telling) / NMAI",
+      "year": null,
+      "venue": "Smithsonian NMAI Native Knowledge 360",
+      "contemporary_with_event": false,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT public institutional page review",
+      "verified_date": "2026-10-20",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Named narrator and 1967 attribution verified in a publicly shared educational account. No restricted ceremony descriptions are supplied; complete oral source edition and permissions not independently reviewed."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "1967 dates this recorded telling, not the story's inception or a sacred event in calendar history.",
+    "A single authorized public telling cannot be treated as the exclusive Lakota account.",
+    "Documentation of a sacred pipe story does not permit replicating restricted rituals or imposing a monotheism label."
+  ],
+  "adversarial_counter": "Oral narratives can have multiple tribally situated versions; narrator and the historical context must remain attached to any derivative summary.",
+  "status": "draft",
+  "notes": "Institutional-source audit. Scope: named public page and its content only; no tradition founding-year inference. Independent historical / community review required before status change."
+}
