@@ -33,8 +33,19 @@ This repository contains both `wrangler.jsonc` and `wrangler.toml`. **`wrangler.
 | `Bible_Deep_Dive_Master_Notes.md` | Partial (see Method §3–4) | 🔄 Partial | §1, §2, §5, §7, §8.6 audited; others pending |
 | `Field_Guide_Conversation_Reference.md` | Partial (see Method §4) | 🔄 Partial | §3.1, §4.1, §8, §13 audited; §1,2,5,9–12,14–17 pending |
 | `Sources_and_Primary_Texts.md` | Pending | ⚠️ Unreviewed | Full audit in progress |
-| `Cited_Persons.md` | Pending | ⚠️ Unreviewed | Full audit in progress |
+| `Cited_Persons.md` | 2026-10-20 (five-entry batch) | 🔄 Partial: 196 documented; 169 unresolved | Three entries A–L and 166 entries M–Z still unresolved; 365 total |
 | `Glossary.md` | Pending | ⚠️ Unreviewed | Full audit in progress |
+
+---
+
+## Religion & Law and Related Research (separately tracked)
+
+- **U.S. state profiles:** 50 of 50 have first-pass scaffold profiles; eight priority states have expanded, source-checked profiles. These are not complete legal encyclopedias.
+- **Normalized state-law records:** 39 entries across 12 states. The remaining 38 states do not yet have normalized records in `records/us-state-starter.json`.
+- **State religion-and-power context:** 50 state slots exist; 15 states (Alabama through Iowa) contain first-pass sourced demographic and officeholder-context data; 35 are not coded. This context **does not establish religious causation of laws**.
+- **Comparative international law:** first-pass framework and selected structural research exist; full country profiles are still pending.
+- **Unmerged gap-closure research:** `research/state-gap-closure-20260927` is ahead of its September base and behind modern `main`. Its Texas §21.06 and Maine Sunday-dealer enactment findings are research candidates for source QA and controlled promotion; Montana 1972 convention motives and cross-state inventories remain open. Do not merge the old branch wholesale or silently mark these questions resolved on `main`.
+- **Cited Persons:** five-entry Perplexity-scout batch independently reconciled on 20 October 2026. Archer and MacIntyre now have narrowly verified publication/text claims; Barton, Briggs, and MacDonald remain unresolved. Complete scholarly verification of all entries has **not** occurred.
 
 ---
 
