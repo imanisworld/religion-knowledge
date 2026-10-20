@@ -44,6 +44,8 @@ Audit entries also carry a `CHECKED` date. Anything without one has not been ver
 
 - **Gender Over Time** — `research/gender-over-time/index.md` / `gender-over-time.html` tracks culture- and period-specific sex/gender classifications, intersex history, eunuchs, religious roles, reproduction, family status, and law. It is intentionally **outside the nine-document core corpus** during the consolidation freeze. Structured starter records live at `research/gender-over-time/records.json`. It is visible in the deployed research library and the root cross-document Search index, but remains outside the app dataset. **Patterns & Synthesis** is also indexed in Search and available as a separate research reader.
 
+- **Translation Evidence** — `research/translation-evidence/index.md` / `translation-evidence.html` adds source-backed comparisons of original language, English rendering, manuscript variation, publisher revisions, and unknown motives, without duplicating the core Translations essay. Search-indexed and deployed as a research module.
+
 ### Two corpus scopes
 
 - **Research corpus:** nine Markdown documents / nine reader HTML documents, including `Cited_Persons.md`.
