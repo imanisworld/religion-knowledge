@@ -65,3 +65,9 @@ An internal consistency pass found five problems before independent review. Item
 Return a concise matrix: `claim_id | current wording | direct evidence | correction | verdict | unverified`. Include citations and an overall list of any surviving major interpretive differences.
 
 Review is advisory: **do not merge, deploy, change the live site, or alter the repository** without permission. Source verification and correction should be committed back to PR #213, followed by refreshed registry/checks and status updates. The review document itself does not mean that outside review happened.
+
+## October 20, 2026 — Hippocratic quote located and verified in translation
+
+The earlier pre-review limitation for `IL-HIPBLAME-001` has been **resolved at the English-text level**. The Francis Adams translation of the anonymous Hippocratic treatise *On the Sacred Disease* §1 is accessible at [Perseus](https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0627.tlg027.perseus-eng2/) (paragraph beginning “All these they enjoin”) and the [MIT Classics Archive](https://classics.mit.edu/Hippocrates/sacred.html). The two sites reproduce the **same translation** and therefore are not independent translators. The passage assigns honor/credit to practitioners upon recovery and attributes death-related blame to gods to shield the practitioners.
+
+**Updated internal registry decision:** `IL-HIPBLAME-001` = `verified_with_qualification` (source passage confirmed; ancient polemical accusation only). Totals among the thirteen illness claims: **4 verified, 9 verified with qualification, 0 needs qualification**. The compact slogan “credit if recover, gods if die” remains a paraphrase. No Greek critical-text collation, authorship adjudication, or independent academic review was performed. The older unresolved statements earlier in this document are retained as a record of the *previous* unsuccessful source lookup.
