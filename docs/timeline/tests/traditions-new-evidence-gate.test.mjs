@@ -11,11 +11,22 @@ const claims = [
   ['phase7-transmission/claim_aksum_christian_cross_bm_coin.json', 'trad_aksumite_christianity'],
   ['phase7-transmission/claim_kongo_afonso_1517_religious_request.json', 'trad_kongo_christianity'],
   ['phase7-transmission/claim_antonianism_1704_1706_met_essay.json', 'trad_antonianism'],
+  ['phase7-transmission/claim_ifa_living_divination_unesco.json', 'trad_ifa_orisa'],
+  ['phase7-transmission/claim_ifa_osun_grove_unesco_continuity.json', 'trad_ifa_orisa'],
+  ['phase7-transmission/claim_anangu_tjukurpa_law_public_boundary.json', 'trad_anangu_tjukurpa'],
+  ['phase7-transmission/claim_tiwi_pukumani_museum_practice.json', 'trad_tiwi_pukumani'],
+  ['phase7-transmission/claim_mexica_templo_mayor_1390_offerings_inah.json', 'trad_mexica_religion'],
+  ['phase7-transmission/claim_lakota_1967_pipe_story_nmai.json', 'trad_lakota_religion'],
+  ['phase7-transmission/claim_haudenosaunee_peace_clan_mothers_nmai.json', 'trad_haudenosaunee_religion'],
+  ['phase7-transmission/claim_inca_cusco_ritual_vessel_bm.json', 'trad_inca_state_religion'],
+  ['phase7-transmission/claim_hopi_katsina_early_dolls_heard.json', 'trad_hopi_religion'],
+  ['phase7-transmission/claim_fon_abomey_royal_sacred_spaces_unesco.json', 'trad_fon_vodun'],
+  ['phase7-transmission/claim_shona_matobo_mwari_living_unesco.json', 'trad_shona_religion']
 ];
 
 const readClaim = file => JSON.parse(readFileSync(path.join('docs/timeline/data/claims', file), 'utf8'));
 
-test('six tradition profiles have seven narrowly scoped draft claims, not published assumptions', () => {
+test('sixteen tradition profiles have eighteen narrowly scoped draft claims, not published assumptions', () => {
   const subjects = new Set();
   for (const [file, subject] of claims) {
     const record = readClaim(file);
@@ -35,7 +46,7 @@ test('six tradition profiles have seven narrowly scoped draft claims, not publis
       }
     }
   }
-  assert.equal(subjects.size, 6);
+  assert.equal(subjects.size, 16);
 });
 
 test('no narrow museum record can be used to assert earliest religion, precise conversion or shared origin', () => {
@@ -65,4 +76,46 @@ test('Aksumite letter and Kongo royal request use honestly scoped primary access
   const antonian = readClaim('phase7-transmission/claim_antonianism_1704_1706_met_essay.json');
   assert.doesNotMatch(antonian.statement, /Pedro II|Pedro IV/);
   assert.match(antonian.notes, /Pedro II.*Pedro IV/);
+});
+
+
+test('ten additional tradition source audits preserve cultural scope and chronological limits', () => {
+  const id = name => readClaim('phase7-transmission/claim_' + name + '.json');
+  const candidates = [
+    'ifa_living_divination_unesco',
+    'ifa_osun_grove_unesco_continuity',
+    'anangu_tjukurpa_law_public_boundary',
+    'tiwi_pukumani_museum_practice',
+    'mexica_templo_mayor_1390_offerings_inah',
+    'lakota_1967_pipe_story_nmai',
+    'haudenosaunee_peace_clan_mothers_nmai',
+    'inca_cusco_ritual_vessel_bm',
+    'hopi_katsina_early_dolls_heard',
+    'fon_abomey_royal_sacred_spaces_unesco',
+    'shona_matobo_mwari_living_unesco',
+  ];
+  assert.equal(candidates.length, 11);
+  for (const name of candidates) {
+    const record = id(name);
+    assert.equal(record.status, 'draft');
+    assert.equal(record.claim_tier, 'OBSERVATION');
+    assert.ok(record.does_not_demonstrate.some(text => /date|origin|found|centur|earliest|age|ancient|continu/i.test(text)),
+      'Chronological scope missing for ' + name);
+    assert.ok(record.sources.every(src => src.citation.includes('https://')));
+  }
+  const mexica = id('mexica_templo_mayor_1390_offerings_inah');
+  assert.equal(mexica.date.earliest, 1390);
+  assert.equal(mexica.date_semantics, 'EVENT_DATE');
+  assert.match(mexica.does_not_demonstrate.join(' '), /not the origin/);
+  const anangu = id('anangu_tjukurpa_law_public_boundary');
+  assert.match(anangu.statement + anangu.does_not_demonstrate.join(' '), /restricted/i);
+  const lakota = id('lakota_1967_pipe_story_nmai');
+  assert.equal(lakota.date, null, 'Narrative event should never inherit narrator recording date');
+  assert.match(lakota.statement, /1967/);
+  const shona = id('shona_matobo_mwari_living_unesco');
+  assert.equal(shona.date, null);
+  assert.match(shona.does_not_demonstrate.join(' '), /Iron Age/);
+  for (const museum of ['inca_cusco_ritual_vessel_bm', 'hopi_katsina_early_dolls_heard']) {
+    assert.equal(id(museum).sources[0].verification_method, 'SEARCH_SNIPPET');
+  }
 });
