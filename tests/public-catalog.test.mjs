@@ -101,3 +101,34 @@ test('every entity category exposes dating evidence or explicitly reports the mi
   assert.match(slices.get('writing_systems'), /end date not established/);
   assert.match(html, /Biographical dates appear only where an entry explicitly records them/);
 });
+
+
+test('catalog exposes supported motifs, script origin classifications, source limitations and meaningful person warnings', () => {
+  const html = buildPublicCatalog();
+  const section = (name, next) => {
+    const i = html.indexOf('<details id="' + name + '" class="group"');
+    const j = html.indexOf('<details id="' + next + '" class="group"', i + 1);
+    assert.ok(i >= 0 && j > i, 'Missing category: ' + name);
+    return html.slice(i, j);
+  };
+  const narratives = section('narratives','writing_systems');
+  const writing = section('writing_systems','people');
+  const traditions = section('traditions','cultures');
+  const people = html.slice(html.indexOf('<details id="people" class="group"'));
+
+  assert.match(narratives, /Narrative themes recorded in this research/);
+  assert.match(narratives, /earth clay human, flood/);
+  assert.match(narratives, /maize plant creation/);
+  assert.match(narratives, /Shared themes alone do not establish borrowing/);
+  assert.match(writing, /Writing system development — research classification/);
+  assert.match(writing, /stimulus diffusion/);
+  assert.match(writing, /Proposed script ancestry \(under review\)/);
+  assert.match(writing, /Aramaic \(disputed\)/);
+  assert.match(writing, /needs its own evidence check/);
+  assert.match(traditions, /Linked sources and their limits/);
+  assert.match(traditions, /University of Chicago — Ras Shamra Tablet Inventory/);
+  assert.match(traditions, /not evidence every Canaanite cult was identical/);
+  assert.match(people, /Source or context warning/);
+  assert.doesNotMatch(people, /Background context included/);
+  assert.doesNotMatch(html, /github\.com/);
+});
