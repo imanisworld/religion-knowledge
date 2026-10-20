@@ -4,7 +4,7 @@
 
 The Bible's prophetic literature includes warnings, oracles about current political crises, predictions, poetic laments, promises of restoration, and retrospective historical narratives. A later author calling an earlier passage **fulfilled** establishes that the later author made that interpretation. It does not by itself establish that the earlier author predicted the later event.
 
-This module complements [Translations](../../Translations.md), [Historical Framework](../../Historical_Framework.md), and the [primary research corpus](../../README.md) without duplicating or modifying their earlier audits. Its structured source-of-record is [records.json](records.json). [The claim inventory](inventory.json) separately records which quotations have been researched and which are candidate leads.
+This module complements [Translations](../../Translations.md), [Historical Framework](../../Historical_Framework.md), and the [primary research corpus](../../README.md) without duplicating or modifying their earlier audits. Its structured source-of-record is [records.json](records.json). [The claim inventory](inventory.json) separately records which quotations have been researched and which are candidate leads. See [current status](STATUS.md), [remaining research and release tasks](TODO.md), and [review findings](REVIEW.md) before treating any case as final.
 
 ## Research method
 
