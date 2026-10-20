@@ -1,3 +1,29 @@
+## Final review — all 13 claims (20 October 2026)
+
+**Reviewer:** Claude (AI assistant), at the owner's request, consolidating three passes: the internal adversarial pre-review, the owner's direct check of the Hippocratic text, and the ChatGPT cross-model review (PR #213 review 5590548738), all with corrections applied. **None of these is an independent specialist review.** Hebrew, Greek and Akkadian were not collated, and abstract-only sources remain abstract-only.
+
+**Result:** 0 of 13 collapse or overstate. 4 hold; 9 hold with qualification. The registry statuses (4 `verified`, 9 `verified_with_qualification`) match these verdicts. All 13 claim texts match the module's wording; `IL-HIPBLAME-001` was aligned to the module's revised sentence in this pass.
+
+| Claim | Verdict | Basis and remaining limit |
+|---|---|---|
+| `IL-DEUT-001` | Holds | Reworded to the cited NABRE ('disease, fever'); reports covenant theology, not epidemiology. |
+| `IL-NUM-001` | Holds | Wrath, incense, atonement and the plague stopping all confirmed at vv. 46–48; no biological efficacy claimed. |
+| `IL-MARK-001` | Holds with qualification | Seizure-like description confirmed; 'rigid' depends on translation; Greek and Lawrence (2013) unread. |
+| `IL-JOHN-001` | Holds with qualification | Purpose clause depends on punctuation (Poirier 2006); the traditional punctuation remains the majority reading. |
+| `IL-JOB-001` | Holds with qualification | Hebrew 42:7 'to me' vs 'about me' recorded; source-critical literature unchecked. |
+| `IL-SIRACH-001` | Holds with qualification | Hebrew 'defiant toward the physician' vs Greek 'fall into the physician's hands' recorded (Zapff 2011); exact Greek wording not retrieved first-hand. |
+| `IL-HIPMED-001` | Holds with qualification | English translation only; 'no more divine than others'; obsolete physiology not equated with neurology. |
+| `IL-HIPBLAME-001` | Holds with qualification | Adams §1 wording confirmed by the owner; a polemical accusation, with no evidence of how common the practice was. |
+| `IL-MESMED-001` | Holds with qualification (after correction) | Scurlock removed as support; Geller (2024) at abstract level; roles shifted over time. |
+| `IL-MARI-001` | Holds with qualification | Mediated by Feder; Neufeld (1986) added; tablets unexamined; 'infected' is Feder's reading. |
+| `IL-TZARAAT-001` | Holds with qualification | Not Hansen's disease (EJ; Sasson 2003); Priestly rationale kept distinct from a contagion rationale. |
+| `IL-SNOW-001` | Holds | 1854 method confirmed; outbreak already declining before the 8 Sept handle removal. |
+| `IL-KOCH-001` | Holds | 24 Mar / 10 Apr 1882 confirmed; one infectious cause, not all illness. |
+
+**Accepted limits:** The limits in the right-hand column are accepted by the owner (STATUS.md), not resolved.
+
+---
+
 # Adversarial Pre-Review — Illness Explanations
 
 **Date:** 20 October 2026

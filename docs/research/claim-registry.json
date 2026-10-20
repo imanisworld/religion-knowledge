@@ -4645,7 +4645,7 @@
   },
   {
     "claim_id": "IL-HIPBLAME-001",
-    "claim_text": "In §1, the author criticizes practitioners who take credit when a patient recovers but invoke the gods as an explanation if the patient dies.",
+    "claim_text": "In §1, the author accuses practitioners of claiming success if patients recover while explaining deaths in terms that excuse the practitioners and blame the gods.",
     "claim_type": "direct_textual",
     "status": "verified_with_qualification",
     "confidence": "high",
@@ -4668,7 +4668,7 @@
       }
     ],
     "secondary_sources": [],
-    "notes": "Internal direct-text verification 2026-10-20: Francis Adams's English translation of the anonymous Hippocratic treatise *On the Sacred Disease*, §1, states that healers anticipate taking honor and credit if the patient recovers, while if the patient dies they can argue the gods, not themselves, are to blame. Confirmed in Perseus, De morbo sacro §1, and the MIT Classics Archive copy of the same Adams translation. Passage wording includes: 'if the person should recover, theirs would be the honor and credit' and 'as if the gods, and not they, were to blame'. Context is a polemical criticism of practitioners; it does not establish how prevalent the behavior was in antiquity. The phrase 'credit if they recover, gods if they die' is a paraphrase and cannot be presented as a verbatim quotation. The authorship of the treatise is not securely established as Hippocrates personally. This is an internal English-translation source check, not verification of the Greek critical text or independent specialist review. Cross-review 2026-10-20 (owner-posted ChatGPT cross-model review, PR #213 review 5590548738; AI review, not outside specialist review): Holds with qualification. Allegation established in the Adams translation only; no evidence of prevalence; Greek not collated."
+    "notes": "Internal direct-text verification 2026-10-20: Francis Adams's English translation of the anonymous Hippocratic treatise *On the Sacred Disease*, §1, states that healers anticipate taking honor and credit if the patient recovers, while if the patient dies they can argue the gods, not themselves, are to blame. Confirmed in Perseus, De morbo sacro §1, and the MIT Classics Archive copy of the same Adams translation. Passage wording includes: 'if the person should recover, theirs would be the honor and credit' and 'as if the gods, and not they, were to blame'. Context is a polemical criticism of practitioners; it does not establish how prevalent the behavior was in antiquity. The phrase 'credit if they recover, gods if they die' is a paraphrase and cannot be presented as a verbatim quotation. The authorship of the treatise is not securely established as Hippocrates personally. This is an internal English-translation source check, not verification of the Greek critical text or independent specialist review. Cross-review 2026-10-20 (owner-posted ChatGPT cross-model review, PR #213 review 5590548738; AI review, not outside specialist review): Holds with qualification. Allegation established in the Adams translation only; no evidence of prevalence; Greek not collated. Final review 2026-10-20: claim text aligned to the module's current wording; substance unchanged."
   },
   {
     "claim_id": "IL-MESMED-001",
