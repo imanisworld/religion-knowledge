@@ -68,7 +68,7 @@ This project does not yet have tagged public releases. Until versioning is estab
 ## Known Open Issues
 
 - `wrangler.toml` deprecation not yet completed
-- Search index (`search-index.json`) not yet verified as current with source Markdown
+- Search indexing is CI-verified against the committed readers and research modules; generated results are checked for drift on every PR and push to `main`.
 - Several research sections listed above are unreviewed — see `docs/research/claim-registry.json` for tracking
 - Site footer does not yet display commit SHA or content-build timestamp
 - Versioned public releases not yet tagged
