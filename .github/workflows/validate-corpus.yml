@@ -38,6 +38,9 @@ jobs:
           node --check data/normalized/records.js
           node --check data/review/overrides.js
 
+      - name: Generate site before full suite (temporary review branch)
+        run: npm run build:reader-site
+
       - name: Diagnose full repository test suite (temporary review branch)
         run: npm test
 
