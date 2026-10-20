@@ -61,8 +61,16 @@ Control: 35 source-linked records; 11 initially internally reviewed; 24 need ful
 
 ## Independent reviewer instructions
 
-Check each record against the original-language passage in a critical edition where feasible (BHQ/BHS, Göttingen/Septuagint, NA28/UBS), not only the linked web interlinear. Confirm source links actually cover the claims they are offered to support, publication dates and authors, textual variants, cited historical events, and competing Jewish and Christian readings. Identify missing or weak sources and specify exact verse/claim corrections. Review the 11 source-linked records rather than replacing the methodology with a blanket pro/anti prophecy position. Prioritize factual errors, unearned certainty, circular evidence, and misleading claims of independent corroboration. Supply proposed wording and evidence for each correction.
+Check each record against the original-language passage in a critical edition where feasible (BHQ/BHS, Göttingen/Septuagint, NA28/UBS), not only the linked web interlinear. Confirm source links actually cover the claims they are offered to support, publication dates and authors, textual variants, cited historical events, and competing Jewish and Christian readings. Identify missing or weak sources and specify exact verse/claim corrections. Review all current source-linked records, with special priority on the thirty newer cases, rather than replacing the methodology with a blanket pro/anti prophecy position. Prioritize factual errors, unearned certainty, circular evidence, and misleading claims of independent corroboration. Supply proposed wording and evidence for each correction.
 
 **Release boundary:** CI green demonstrates technical validity; it is not an academic peer review. Keep the PR unmerged until an outside reviewer returns findings or the project owner explicitly elects to proceed with the documented limits.
 
 **Checks:** Source JSON, canonical Markdown, reader HTML, root search index and library navigation should stay synchronized. No additions to the nine-document canonical core were made.
+
+## Batch 7 and consolidated status — 2026-10-20
+
+The source-located register now has **41 cases** in seven batches; the original eleven were internally reviewed and the subsequent thirty await full detailed review. The 50-place seed inventory currently has 24 researched claims, two linked earlier cases, and 24 pending or partial. **Do not treat these 50 as exhaustive or claim any independent external review is complete.**
+
+Batch 7 records historical predictions about Cyrus, Jeremiah's two seventy-year passages, Tyre, Isaiah 13's Medes/Babylon, and Nineveh. Important source constraints: the Cyrus Cylinder confirms Cyrus's Babylonian conquest and restoration ideology but does not specifically verify Jerusalem's temple; Babylonian Chronicle ABC 3 records the fall of Nineveh but does not date Nahum's composition; Tyre must be evaluated using Ezekiel 26 alongside 29:17–21 and later archaeological history, rather than substituting Alexander for Nebuchadnezzar without explanation. The seventy-year date range cannot be selected silently.
+
+A reviewer should begin with [STATUS.md](STATUS.md) and [TODO.md](TODO.md), then verify [records.json](records.json) against primary texts and external historical publications. The PR remains in a research state and may not be described as academically peer-reviewed or historically verified merely because CI passes. This note supersedes older count-based statements above while preserving the original review history.
