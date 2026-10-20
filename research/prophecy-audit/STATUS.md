@@ -4,52 +4,55 @@
 **Repository:** `imanisworld/religion-knowledge`  
 **Research branch:** `research/prophecy-evidence-20261020`  
 **PR:** [#202](https://github.com/imanisworld/religion-knowledge/pull/202)  
-**Release decision:** Keep the PR open until the complete selected inventory, internal source checks, and independent review are finished.
+**Release rule:** Remain unmerged until inventory completion, full source verification, and an independent review have been completed.
 
-## Verified research counts
+## Source-of-truth counts
 
-| Measure | Count | Definition |
+| Measure | Count | Meaning |
 |---|---:|---|
-| Canonical source-linked case records | **46** | Entries in `records.json`, with matching Markdown, HTML reader cards, and search anchors on this branch |
-| Research batches | **8** | Batch history retained in `records.json` |
-| Initially internally reviewed | **11** | Earlier assistant content check, not outside academic peer review |
-| Later records needing detailed internal review | **35** | Batches 2–8, including source-located and spot-checked cases |
-| Classic Matthew fulfillment-formula quotations | **10/10** | A bounded quotation subset, not all Matthew allusions |
-| Additional seed candidate locations | **50** | Worklist, **not** a defensible total of all biblical prophecy |
-| Candidate locations with dedicated research cases | **29** | Distinct later claims may have a shared earlier textual source |
-| Candidate locations linked to earlier cases | **2** | Direct earlier case coverage without duplication |
-| Remaining seed candidates pending or partial | **19** | Six Daniel, seven Jesus/Paul imminent-timing texts, three Revelation groupings, and three NT quotation checks |
-| Historical oracle candidates researched | **11/11** | Source-located cases; full review still required |
-| Independent external review | **0 completed** | Explicitly deferred until the full chosen inventory is complete |
-| Main-site release | **Not yet merged** | A PR build or successful CI does not show that the research is in production |
+| Canonical source-linked research cases | **52** | The cases in `records.json`, `index.md`, research reader and Search on the PR branch |
+| Research batches | **9** | Batch status and record IDs in `records.json` |
+| Initially internally reviewed | **11** | Earlier assistant review, not outside academic peer review |
+| Later cases requiring full source audit | **41** | Batches 2–9, including source-located and spot-checked records |
+| Matthew's ten classic formula quotations | **10/10** | A bounded source/reception subset, not every possible biblical prophecy |
+| Additional tracked candidate locations | **50** | Seed list only; NOT an exhaustive count of biblical prophecies |
+| Candidate locations with dedicated records | **35** | A separate later use can justify a separate record |
+| Candidate locations linked to earlier records | **2** | Already covered by a relevant existing case |
+| Remaining candidate locations pending or partial | **13** | Seven Jesus/Paul imminence passages, three Revelation groupings, three NT quotation follow-ups |
+| Historical oracle seed coverage | **11/11** | Historical seed claims source-located; final audit pending |
+| Daniel vision seed coverage | **6/6** | Daniel 2, 7, 8, 9, 11, 12 researched, with text/dating issues explicit |
+| Independent external review | **None completed** | Deferred at user's request until whole defined inventory researched |
+| Production release | **Unmerged** | Green PR checks or previews do not establish main-site publication |
 
-**Counting rule:** The ten Matthean formulas and fifty additional seed locations overlap with the 46 case records. Do not sum these numbers or describe the worklist as all biblical prophecies. Its completeness still needs a discovery audit.
+The formula ten, fifty candidate locations, and fifty-two case records are **overlapping accounting views**. Never add them together to invent a single total for all prophecies. The cross-Bible discovery step remains outstanding.
 
-## Batches and review gate
+## Batch register
 
-| Batch | Cases | Subjects | Status |
+| Batch | Cases | Focus | Review status |
 |---|---:|---|---|
-| 1 | 11 | Initial cross-category sample | Internally reviewed (outside review still pending) |
+| 1 | 11 | First cross-category text/history comparisons | Initial internal review |
 | 2 | 6 | Matthew formula quotations | Full review pending |
-| 3 | 5 | NT Greek/Hebrew reuses | Full review pending |
+| 3 | 5 | Luke/Acts/John/Hebrews textual reuses | Full review pending |
 | 4 | 3 | Other Matthew quotations | Full review pending |
-| 5 | 5 | John 13/19 and Acts 2/3/13 | Source spot-checked; full review pending |
-| 6 | 5 | John 12, Romans 9/11, Hebrews 1 | Source spot-checked; full review pending |
-| 7 | 6 | Cyrus, Jeremiah's seventy years, Tyre, Isaiah 13 and Nineveh | Source located; full review pending |
-| 8 | 5 | Damascus, Obadiah, Jeremiah 49, Haggai 2, Zechariah 14 | Source located; full review pending |
-| **Total** | **46** | | |
+| 5 | 5 | John and Acts citations | Spot-checked; full review pending |
+| 6 | 5 | John, Romans, Hebrews citations | Spot-checked; full review pending |
+| 7 | 6 | Cyrus, Jeremiah's seventy years, Tyre, Babylon and Nineveh | Source-located; full review pending |
+| 8 | 5 | Damascus, Edom, Haggai 2 and Zechariah 14 | Source-located; full review pending |
+| 9 | 6 | Daniel 2/7/8/9/11/12 visions | Source-located; full critical review pending |
+| **Total** | **52** | | |
 
-## Most important evidence limitations
+## Daniel findings and critical review safeguards
 
-- Isaiah 17's Damascus oracle follows a geopolitical crisis in 735–732 BCE; loss of Aramean kingship was real, while [UNESCO documents continued urban settlement](https://whc.unesco.org/en/list/20/).
-- [Obadiah](https://doi.org/10.1177/0309089214567376) and [Jeremiah 49](https://doi.org/10.1177/030908928200702406) overlap in wording. They are separate biblical cases but not necessarily independent witnesses. Idumaean identity continued beyond the fall of Edom's polity.
-- Haggai 2's `khemdat kol-haggoyim` with a plural verb is commonly rendered as the nations' treasures ([NET notes](https://classic.net.bible.org/passage.php?passage=hag+2%3A6-9)); a singular messianic application is a later reading.
-- Zechariah 14's future Jerusalem scene is apocalyptic, involving the Mount of Olives, cosmic signs, living waters, and a universal pilgrimage. A complete historically observed fulfillment has not been established.
-- A historically documented event does not establish the date its oracle was first composed. An author citing earlier words documents that author's interpretation, which is distinct from outside evidence of a miracle.
-- Full claim review requires checking critical text, manuscript variants, relevant scholarly passages and competing Jewish/Christian interpretations. Citation existence and CI passing do not settle academic claims.
+- **Languages:** Daniel 2 and 7 are in biblical Aramaic, while 8, 9, 11 and 12 are in Hebrew. Check manuscripts and ancient Greek Daniel traditions as relevant.
+- **Four empires:** A historical-critical sequence of Babylon, Media, Persia and Greece competes with traditional Babylon, Medo-Persia, Greece and Rome. Name sources and premises for each, without claiming either sequence was simply written out in chapter 2.
+- **Antiochus IV:** Daniel 7–8 and 11 closely track Seleucid persecution and the Temple cult crisis, yet the book's final literary form and older court-tale sources can have different dates.
+- **Seventy weeks:** Daniel 9 interprets Jeremiah's seventy years as seventy sets of seven years. 'Anointed' in the original wording need not name Jesus; starting year, segmentation, proposed priests/kings and calendars must be documented.
+- **A testable mismatch:** Daniel 11:40–45's envisioned end of the final northern king differs from Antiochus IV's historically documented death in the eastern satrapies. Later future-ruler identifications require additional argument.
+- **Resurrection and numbers:** Daniel 12 contains a significant early Hebrew-Bible resurrection expectation, and 1,290 / 1,335 day durations distinct from Daniel 8's 2,300 evening/morning units; avoid smoothing these into a single supposedly exact timetable.
+- **Independent evidence:** Documented political history does not verify supernatural revelation or heaven's judgment. Likewise, composing a text close to its apparent historical setting is a scholarly dating inference, not a self-proving fact.
 
-## Handoff and next checkpoint
+## Next research and release gate
 
-Follow [TODO.md](TODO.md) for the 19 tracked unfinished loci. Finish those, then run an inventory discovery/deduplication audit. Verify **35 later cases** claim-by-claim; revisit earlier cases when needed. Rebuild and check the reader and search index before assembling the single external review packet. Do not merge until the outside reviewer returns findings and corrections are reconciled.
+The current seed list has **13 claim locations** left: Jesus/Paul time-sensitive sayings (7), Revelation (3), and other NT quotation follow-ups (3). Complete those, audit the scope for missing categories and passages, and fully verify all **41 later cases**. Regenerate and verify pages and Search after each batch. Only then send the entire evidence packet for the requested independent outside review, reconcile corrections, and ask the project owner before merge.
 
-**Source links:** [records.json](records.json) · [inventory.json](inventory.json) · [index.md](index.md) · [REVIEW.md](REVIEW.md) · [TODO.md](TODO.md)
+**References:** [records.json](records.json) · [inventory.json](inventory.json) · [index.md](index.md) · [REVIEW.md](REVIEW.md) · [TODO.md](TODO.md)
