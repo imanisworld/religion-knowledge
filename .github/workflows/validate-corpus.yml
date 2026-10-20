@@ -47,6 +47,9 @@ jobs:
       - name: Check research progress figures
         run: node --test tests/research-status-counters.test.mjs
 
+      - name: Check unresolved public biographies and indexed descriptions
+        run: node --test tests/public-cited-persons-source-gate.test.mjs
+
       - name: Validate Religion & Law overview records
         run: npm run validate:religion-law-overview
 
