@@ -51,13 +51,15 @@
 }
 .rk-site-control{border:1px solid var(--rk-rule);background:var(--rk-paper)}
 .rk-with-sitebar{--ground:#F5F1F0;--paper:#FFFDFC;--ink:#241B1E;--ink2:#62565A;--ink3:#6F6066;--rule:#DDD2D5;--accent:#8B3A4A;--accent-soft:#F4E7EA}
+/* A softer charcoal palette for the whole public library. Retain the user's
+   selected mode while ensuring secondary text and controls remain readable. */
 :root[data-theme=dark] .rk-with-sitebar{
-  --ground:#120E10;--paper:#1C1518;--ink:#F7F2F3;--ink2:#D1C5C9;--ink3:#AA9CA1;
-  --rule:#44343A;--accent:#D8899A;--accent-soft:#3A2028;
+  --ground:#25262A;--paper:#32343A;--ink:#FBFBFD;--ink2:#E4E6EB;--ink3:#C5C9D2;
+  --rule:#888D98;--accent:#FFC0CF;--accent-soft:#493740;
 }
 :root[data-theme=dark] .rk-sitebar{
-  --rk-ground:#120E10;--rk-paper:#1C1518;--rk-ink:#F7F2F3;--rk-ink2:#D1C5C9;
-  --rk-ink3:#AA9CA1;--rk-rule:#44343A;--rk-accent:#D8899A;--rk-accent-strong:#D8899A;--rk-soft:#3A2028;
+  --rk-ground:#25262A;--rk-paper:#32343A;--rk-ink:#FBFBFD;--rk-ink2:#E4E6EB;
+  --rk-ink3:#C5C9D2;--rk-rule:#888D98;--rk-accent:#FFC0CF;--rk-accent-strong:#FFC0CF;--rk-soft:#493740;
 }
 .rk-reader-page #rail{top:var(--rk-nav-h);bottom:0}
 .rk-reader-page #progress{top:var(--rk-nav-h)}
@@ -73,7 +75,17 @@
 .rk-reader-page .library summary:hover,.rk-reader-page .docswitch a:hover{border-color:#6B555D;color:#FFF7F9}
 .rk-reader-page .docswitch a.on{background:#8B3A4A!important;border-color:#8B3A4A!important;color:#fff!important}
 .rk-reader-page #search{background:#171113;border-color:#44343A;color:#F7F2F3}
-:root[data-theme=dark] .rk-reader-page #rail{background:#171113}
+:root[data-theme=dark] .rk-reader-page #rail{background:#292A2E}
+:root[data-theme=dark] .rk-reader-page #search{
+  background:#32343A;
+  border-color:#888D98;
+  color:#FBFBFD;
+}
+:root[data-theme=dark] .rk-reader-page #search::placeholder{color:#D6D8DF}
+:root[data-theme=dark] .rk-reader-page #toc a{color:#E5E7ED}
+:root[data-theme=dark] .rk-reader-page #toc a.lvl2{color:#FFFFFF}
+:root[data-theme=dark] .rk-reader-page #toc a.lvl4{color:#D9DCE4}
+:root[data-theme=dark] .rk-reader-page #toc a.here{color:#FFFFFF;background:#5A3F4A}
 :root[data-theme=dark] .rk-reader-page .docswitch a.on{background:#8B3A4A!important;border-color:#8B3A4A!important}
 /* The inline reader CSS sets --rail:312px AFTER its first mobile override.
    Reset it here (this stylesheet loads last) so every reader uses full mobile width. */
