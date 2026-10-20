@@ -74,7 +74,7 @@
 | 64 | `john-19-24-garments-psalm22` | Holds | Assessment consistent with the text; no contrary evidence found |
 | 65 | `acts-8-isaiah53-ethiopian` | Holds — corrected | Acts' own 'queen of the Ethiopians' now given before the modern Kush/Meroë identification |
 
-**Accepted limits:** The unconfirmed sources above, the absence of original-language collation, and the absence of independent specialist review all remain true. They are accepted by the owner as limitations (see STATUS.md), not resolved.
+**Unresolved limits:** The unconfirmed sources above, the absence of original-language collation, and the absence of independent specialist review remain outstanding. The earlier claim of owner acceptance as a substitute for outside review was incorrect and has been withdrawn (see STATUS.md).
 
 ---
 
