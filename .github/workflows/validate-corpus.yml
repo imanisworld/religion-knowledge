@@ -38,6 +38,9 @@ jobs:
           node --check data/normalized/records.js
           node --check data/review/overrides.js
 
+      - name: Diagnose full repository test suite (temporary review branch)
+        run: npm test
+
       - name: Run parser unit tests
         run: node --test tests/parser.test.mjs
 
