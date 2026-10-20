@@ -89,6 +89,55 @@ function documentedPeriod(row) {
   if (manuscript) return { date: manuscript, kind: 'Surviving manuscript in this research', note: d.surviving_manuscript_date?.note || '' };
   return { date: 'No verified written date', kind: 'See historical context', note: d.earliest_written_attestation?.note || '' };
 }
+
+function rangedEvidence(range, kind, note = '') {
+  if (!range || !Number.isFinite(range.earliest)) return null;
+  return {
+    date: Number.isFinite(range.latest) ? historicalRange(range) : historicalYear(range.earliest),
+    kind,
+    note,
+  };
+}
+// A date belongs to an attestation, manuscript, event, or bounded historical
+// context. Do not silently present the date of a source as a deity's birth,
+// a culture's beginning, or the age of a living oral tradition.
+function catalogPeriod(row, group) {
+  if (group.dir === 'traditions') return documentedPeriod(row);
+  if (group.dir === 'narratives') {
+    const documented = documentedPeriod(row);
+    if (documented.date !== 'No verified written date') return documented;
+    const estimated = row.dating?.estimated_composition;
+    return rangedEvidence(
+      estimated?.range,
+      estimated?.disputed ? 'Estimated composition — disputed' : 'Estimated composition — no extant manuscript dated here',
+      estimated?.method || ''
+    ) || { date: 'Date not established', kind: 'Written evidence not yet dated', note: '' };
+  }
+  if (group.dir === 'deities') {
+    const dated = (row.domain_history || []).map(d => d.period).filter(p => p && Number.isFinite(p.earliest))
+      .sort((a, b) => a.earliest - b.earliest)[0];
+    return rangedEvidence(dated,
+      dated?.date_semantics === 'EARLIEST_WRITTEN_ATTESTATION'
+        ? 'Earliest written evidence recorded'
+        : 'Dated portrayal in this research',
+      'A dated mention or portrayal is not the date a deity or belief originated.'
+    ) || { date: 'Date not established', kind: 'No dated source linked in this record', note: '' };
+  }
+  if (group.dir === 'cultures' || group.dir === 'writing_systems') {
+    const r = row.date_range;
+    const meaning = r?.date_semantics;
+    let kind = meaning === 'EARLIEST_SURVIVING_EVIDENCE' ? 'Surviving evidence / documented range'
+      : meaning === 'EVENT_DATE' ? 'Dated event in this research'
+      : meaning === 'EARLIEST_WRITTEN_ATTESTATION' ? 'Earliest written attestation'
+      : 'Documented historical context';
+    if (r && !Number.isFinite(r.latest)) kind += ' · end date not established';
+    return rangedEvidence(r, kind,
+      'Dated evidence or an event in this record; not necessarily the start or end of a culture or a writing system.'
+    ) || { date: 'Date not established', kind: 'No reliable date recorded here', note: '' };
+  }
+  return { date: 'Date not established', kind: 'Dating under review', note: '' };
+}
+
 function overview(row, group) {
   if (group.dir === 'deities' && row.domain_history?.length) return row.domain_history[0].domain;
   if (group.dir === 'narratives') return row.source_label || row.notes || 'Recorded creation narrative';
@@ -96,8 +145,9 @@ function overview(row, group) {
   if (group.dir === 'writing_systems') return [row.script_type ? plainTag(row.script_type) + ' writing system.' : '', row.notes || ''].filter(Boolean).join(' ');
   return row.notes || row.dating?.dating_summary || 'Research record; further detail under review.';
 }
-function detailText(row, counts) {
+function detailText(row, counts, period) {
   const fields = [];
+  if (period?.note && period.date !== 'Date not established') fields.push(['Date qualification', period.note]);
   if (row.notes) fields.push(['Research notes', row.notes]);
   if (row.dating?.dating_summary) fields.push(['Historical timeline and uncertainty', row.dating.dating_summary]);
   if (row.dating?.earliest_written_attestation?.note)
@@ -134,23 +184,24 @@ function entityTable(group, claims) {
   const rows = records.map(row => {
     const counts = claims.get(row.id) || { verified: 0, published: 0, other: 0 };
     const region = Array.isArray(row.region) && row.region.length ? row.region.join(', ') : 'Not specified';
-    const period = isTradition ? documentedPeriod(row) : null;
+    const period = catalogPeriod(row, group);
+    const dateLabel = isTradition ? 'Documented period' : 'Date / evidence';
     return '<tr role="row" data-catalog-row><th role="rowheader" scope="row" data-label="Entry">' + esc(row.name || row.id) + '</th>' +
       '<td role="cell" data-label="Region">' + esc(region) + '</td>' +
-      (period ? '<td role="cell" data-label="Documented period"><span class="period-value">' +
-        esc(period.date) + '</span><span class="period-kind">' + esc(period.kind) + '</span></td>' : '') +
+      '<td role="cell" data-label="' + esc(dateLabel) + '"><span class="period-value">' +
+        esc(period.date) + '</span><span class="period-kind">' + esc(period.kind) + '</span></td>' +
       '<td role="cell" data-label="Overview"><p class="preview">' + esc(shorten(overview(row, group), isTradition ? 220 : 155)) + '</p>' +
       '<details class="entry-more"><summary>Read research notes</summary>' +
-      detailText(row, counts) + '</details>' +
+      detailText(row, counts, period) + '</details>' +
       (isTradition ? '<p class="profile-link"><a href="traditions.html#' + esc(row.id) + '">Open historical profile →</a></p>' : '') +
       '</td></tr>';
   }).join('\n');
   const heads = '<th role="columnheader" scope="col">Entry</th><th role="columnheader" scope="col">Region</th>' +
-    (isTradition ? '<th role="columnheader" scope="col">Documented period</th>' : '') +
+    '<th role="columnheader" scope="col">' + (isTradition ? 'Documented period' : 'Date / evidence') + '</th>' +
     '<th role="columnheader" scope="col">Overview and evidence</th>';
   const explanation = isTradition
     ? '<p class="period-explainer"><strong>How to read these dates:</strong> “Documented period” dates surviving written evidence in this research, where identified. It is not a founding date or an end date for the religion. Earlier oral practice, material evidence and the tradition’s own histories may follow different timelines. <a href="traditions.html">Explore all 27 historical profiles</a> for source types and the limits of each date.</p>'
-    : '';
+    : '<p class="period-explainer"><strong>How to read dates:</strong> Each date is labeled as surviving evidence, a historical event, or an estimated composition. It is not automatically the origin or end date of a deity, culture, narrative or script. “Date not established” means this research record has no verified chronological field; no date has been guessed.</p>';
   return '<details id="' + esc(group.dir) + '" class="group"' + (group.dir === 'deities' ? ' open' : '') +
     '><summary class="section-head"><span class="group-title">' + esc(group.title) + '</span><span>' + records.length +
     ' entries</span></summary><p>' + esc(group.intro) + '</p>' + explanation +
@@ -162,7 +213,7 @@ function peopleTable() {
   const people = personRows();
   if (people.length < 300) throw new Error('Cited Persons source changed unexpectedly');
   return '<details id="people" class="group"><summary class="section-head"><span class="group-title">People cited in the research</span><span>' +
-    people.length + ' entries</span></summary><p>Find a person and open their background entry in the library. An entry may still need independent verification.</p>' +
+    people.length + ' entries</span></summary><p>Find a person and open their background entry in the library. Biographical dates appear only where an entry explicitly records them; this index has no verified birth and death dates for everyone. Publication years are not lifespans. An entry may still need independent verification.</p>' +
     '<div class="people-list"><ul>' +
     people.map(p => '<li data-catalog-row><a href="cited-persons.html#' + esc(p.id) + '">' + esc(p.name) + '</a>' +
       (p.flagged ? '<span>Background context included</span>' : '') + '</li>').join('\n') +
@@ -189,7 +240,7 @@ export function buildPublicCatalog() {
     '.catalog-table{width:100%;table-layout:fixed;border-collapse:collapse;background:var(--paper)}'+
     '.catalog-table th,.catalog-table td{text-align:left;vertical-align:top;padding:.8rem .8rem;border-bottom:1px solid var(--rule);font-size:.9rem;overflow-wrap:anywhere}'+
     '.catalog-table thead th{font-size:.72rem;text-transform:uppercase;letter-spacing:.05em;color:var(--ink2);background:var(--ground)}'+
-    '.catalog-table thead th:nth-child(1){width:27%}.catalog-table thead th:nth-child(2){width:18%}'+
+    '.catalog-table thead th:nth-child(1){width:24%}.catalog-table thead th:nth-child(2){width:15%}.catalog-table thead th:nth-child(3){width:19%}'+
     '.traditions-table thead th:nth-child(1){width:24%}.traditions-table thead th:nth-child(2){width:15%}.traditions-table thead th:nth-child(3){width:19%}'+
     '.period-value{display:block;color:var(--ink);font-size:.88rem;font-weight:650;font-variant-numeric:tabular-nums}'+
     '.period-kind{display:block;font-size:.75rem;line-height:1.4;color:var(--ink2);margin-top:.2rem}'+
@@ -217,7 +268,7 @@ export function buildPublicCatalog() {
     '.catalog-table th,.catalog-table td{padding:.2rem 0;border:0!important;background:transparent}'+
     '.catalog-table th[scope=row]{font-size:1rem;margin-bottom:.15rem}'+
     '.catalog-table td[data-label=Region]{font-size:.8rem;color:var(--ink2);margin-bottom:.3rem}'+
-    '.catalog-table td[data-label="Documented period"]{padding:.4rem 0;font-size:.84rem;margin-bottom:.3rem}'+
+    '.catalog-table td[data-label="Documented period"],.catalog-table td[data-label="Date / evidence"]{padding:.4rem 0;font-size:.84rem;margin-bottom:.3rem}'+
     '.catalog-table td[data-label=Overview]{font-size:.9rem}'+
     '.table-wrap{border:0;background:transparent}.catalog-table{background:transparent}'+
     '.entry-more summary{padding:.25rem 0}.jump{gap:.6rem 1rem}}'+
