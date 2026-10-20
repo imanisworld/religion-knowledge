@@ -318,6 +318,13 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
   gap:0 2.4rem;
   border-bottom:1px solid var(--rule);
 }
+.discovery-head + .grid{
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:0 1.6rem;
+}
+@media(max-width:900px){
+  .discovery-head + .grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
 .card{
   min-height:0;
   padding:1.15rem 2.3rem 1.15rem 0;
@@ -344,7 +351,7 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
   --pending:#D8B56E;
 }
 @media(max-width:620px){
-  .grid{grid-template-columns:1fr}
+  .grid,.discovery-head + .grid{grid-template-columns:1fr}
   .app-card{padding:1.35rem 1rem}
 }
 </style>
