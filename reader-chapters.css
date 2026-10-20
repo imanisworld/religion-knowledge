@@ -135,7 +135,7 @@
   --ink:#FBFBFD;
   --ink2:#E4E6EB;
   --ink3:#C5C9D2;
-  --rule:#676B75;
+  --rule:#888D98;
   --accent:#FFC0CF;
   --accent-soft:#493740;
   --toolbar-bg:rgba(37,38,42,.97);
@@ -176,7 +176,7 @@
 :root[data-theme=dark] body.rk-reader-page .reader-section-footer button {
   background:#32343A;
   color:#FBFBFD;
-  border-color:#787B84;
+  border-color:#8B8F99;
 }
 :root[data-theme=dark] body.rk-reader-page .reader-section-nav,
 :root[data-theme=dark] body.rk-reader-page .reader-section-footer {
@@ -314,4 +314,14 @@
 @media(max-width:899px), (max-height:639px){
   /* Conventional page flow on phones, short laptop windows and at high zoom. */
   .reader-paginated main > section:not([hidden]) {overflow:visible}
+}
+
+@media(min-width:900px) and (max-width:1080px) and (min-height:640px){
+  /* Keep the open-navigation button clear of the compact reader controls. */
+  .reader-paginated main > .masthead {padding-left:2.7rem}
+  .reader-paginated main > #tools {padding-left:2.7rem}
+}
+.reader-paginated main > section:focus-visible {
+  outline:2px solid var(--accent);
+  outline-offset:-3px;
 }
