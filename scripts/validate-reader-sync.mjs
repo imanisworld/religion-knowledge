@@ -122,14 +122,6 @@ function validateDocumentPicker(html, htmlFile) {
   }
 }
 
-for (const [markdownFile, htmlFile, expectedTitle] of DOCUMENTS) {') + '"').test(selected[0]?.[1] || '')) {
-    failures.push(`${htmlFile}: document picker must select exactly the current reader`);
-  }
-  if ((picker.match(/<optgroup\b/g) || []).length !== 3) {
-    failures.push(`${htmlFile}: expected three document groups`);
-  }
-}
-
 for (const [markdownFile, htmlFile, expectedTitle] of DOCUMENTS) {
   const markdown = fs.readFileSync(markdownFile, 'utf8');
   const html = fs.readFileSync(htmlFile, 'utf8');
