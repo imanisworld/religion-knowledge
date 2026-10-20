@@ -94,6 +94,9 @@ jobs:
       - name: Check reader topic navigation and accessibility
         run: node --test tests/reader-section-navigation.test.mjs
 
+      - name: Verify dates are visible across every catalog entity category
+        run: node --test tests/public-catalog.test.mjs
+
       - name: Render app in phone-sized Chromium
         run: bash scripts/test-browser.sh
 
