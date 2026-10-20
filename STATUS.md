@@ -33,7 +33,7 @@ This repository contains both `wrangler.jsonc` and `wrangler.toml`. **`wrangler.
 | `Bible_Deep_Dive_Master_Notes.md` | Partial (see Method §3–4) | 🔄 Partial | §1, §2, §5, §7, §8.6 audited; others pending |
 | `Field_Guide_Conversation_Reference.md` | Partial (see Method §4) | 🔄 Partial | §3.1, §4.1, §8, §13 audited; §1,2,5,9–12,14–17 pending |
 | `Sources_and_Primary_Texts.md` | Pending | ⚠️ Unreviewed | Full audit in progress |
-| `Cited_Persons.md` | 2026-10-20 (five-entry batch) | 🔄 Partial: 196 documented; 169 unresolved | Three entries A–L and 166 entries M–Z still unresolved; 365 total |
+| `Cited_Persons.md` | 2026-10-20 (five-entry batch) | 🔄 Partial: 196 documented; 169 unresolved | Two entries A–L and 167 entries M–Z still unresolved; 365 total |
 | `Glossary.md` | Pending | ⚠️ Unreviewed | Full audit in progress |
 
 ---
