@@ -194,7 +194,7 @@
     }
     if (scroll) {
       // Return to the reader controls, rather than the document masthead.
-      if (!window.matchMedia('(min-width:1081px) and (min-height:640px)').matches) {
+      if (!window.matchMedia('(min-width:900px) and (min-height:640px)').matches) {
         wrapper.scrollIntoView({ block: 'start', behavior: 'auto' });
       }
     }
