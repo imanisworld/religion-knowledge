@@ -89,6 +89,9 @@ jobs:
           grep -Fq 'id="deities"' dist/reader-site/catalog.html
           grep -Fq 'id="people"' dist/reader-site/catalog.html
 
+      - name: Check homepage and navigation reading order
+        run: node --test tests/library-order.test.mjs
+
       - name: Build standalone bundle
         run: npm run build:standalone
 
