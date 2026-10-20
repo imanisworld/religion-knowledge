@@ -10,7 +10,7 @@
   "subject_id": "trad_aksumite_paganism",
   "statement": "The British Museum catalog identifies a silver coin issued by Aksumite king Endubis (museum no. 1989,0518.6), dated approximately 270–300 CE, with a disc-and-crescent motif on both sides; the object is evidence of an early royal symbol, without by itself identifying the precise divine cult behind it.",
   "claim_tier": "OBSERVATION",
-  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date_semantics": "EVENT_DATE",
   "date": {
     "earliest": 270,
     "latest": 300,
@@ -44,5 +44,5 @@
     "The disc and crescent should not be assumed to represent an unchanged religious system before or after Endubis."
   ],
   "adversarial_counter": "Interpreting disc-and-crescent imagery as evidence of a specific named deity would require inscriptions or contextual comparisons beyond this object description.",
-  "notes": "Direct artifact page was blocked (403). Catalog text was verified from an indexed museum result only; leave draft pending recheck of the object and numismatic publication."
+  "notes": "Direct artifact page was blocked (403). Catalog text was verified from an indexed museum result only; leave draft pending recheck of the object and numismatic publication. The date is the museum-assigned production window for this particular coin; it is not an earliest surviving date for Aksumite religion."
 }
