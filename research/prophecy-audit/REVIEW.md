@@ -53,6 +53,12 @@
 
 **Next research:** continue with other New Testament citations (including remaining John/Acts/Paul/Hebrews) while checking that scholarly sources actually support the exact proposition. Then take up predictive oracles and apocalyptic timeframe passages. Keep the PR open.
 
+## Integrated Batches 5–6 — October 20, 2026
+
+Ten staged cases now appear in the canonical register and reader. These have a focused original-language/source spot-check, but **full internal and independent specialist review is pending**. Preserved distinctions: Psalm 16 Hebrew *shachat* (pit) and Greek decay; Acts 3 Leviticus 23:29 versus Numbers 15:30–31; Romans 11 'from Zion' versus Isaiah's 'to/for Zion'; Hosea's original Israel audience versus Paul's Gentile application; 2 Samuel 7's wrongdoing/discipline clause omitted in Hebrews 1. A tangential 2026 article about John 6 was removed from the John 19:36 case in favor of the directly relevant UBS translator handbook.
+
+Control: 35 source-linked records; 11 initially internally reviewed; 24 need full internal review. The wider 50-candidate inventory has 18 targeted cases, 2 earlier linked cases, and 30 pending/partial. This remains an *open seed inventory*, not a claim that every biblical prophecy has been audited.
+
 ## Independent reviewer instructions
 
 Check each record against the original-language passage in a critical edition where feasible (BHQ/BHS, Göttingen/Septuagint, NA28/UBS), not only the linked web interlinear. Confirm source links actually cover the claims they are offered to support, publication dates and authors, textual variants, cited historical events, and competing Jewish and Christian readings. Identify missing or weak sources and specify exact verse/claim corrections. Review the 11 source-linked records rather than replacing the methodology with a blanket pro/anti prophecy position. Prioritize factual errors, unearned certainty, circular evidence, and misleading claims of independent corroboration. Supply proposed wording and evidence for each correction.
