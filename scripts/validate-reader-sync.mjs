@@ -110,10 +110,19 @@ function validateDocumentPicker(html, htmlFile) {
   const hrefs = options.map(match => match[1].match(/\bvalue="([^"]+)"/)?.[1] || '');
   if (JSON.stringify(labels) !== JSON.stringify(EXPECTED_PICKER_LABELS) ||
       JSON.stringify(hrefs) !== JSON.stringify(SWITCHER_HREFS)) {
-    failures.push(`${htmlFile}: incorrect compact document selector labels or destinations`);
+    failures.push(htmlFile + ': incorrect compact document selector labels or destinations');
   }
   const selected = options.filter(match => /\bselected\b/.test(match[1]));
-  if (selected.length !== 1 || !new RegExp('\\bvalue="' + htmlFile.replace(/[.*+?^${}()|[\]\\]/g,'\\for (const [markdownFile, htmlFile, expectedTitle] of DOCUMENTS) {') + '"').test(selected[0]?.[1] || '')) {
+  const selectedHref = selected[0]?.[1].match(/\bvalue="([^"]+)"/)?.[1] || '';
+  if (selected.length !== 1 || selectedHref !== htmlFile) {
+    failures.push(htmlFile + ': document picker must select exactly the current reader');
+  }
+  if ((picker.match(/<optgroup\b/g) || []).length !== 3) {
+    failures.push(htmlFile + ': expected three document groups');
+  }
+}
+
+for (const [markdownFile, htmlFile, expectedTitle] of DOCUMENTS) {') + '"').test(selected[0]?.[1] || '')) {
     failures.push(`${htmlFile}: document picker must select exactly the current reader`);
   }
   if ((picker.match(/<optgroup\b/g) || []).length !== 3) {
