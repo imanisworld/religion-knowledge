@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "created": "2026-10-20",
+  "status": "research_draft_staged_for_source_review_and_post_210_integration",
+  "branch": "research/prophecy-evidence-20261020",
+  "related_pr": 202,
+  "scope": "Five nonduplicative NT reuses; source-backed draft only, not part of canonical 25 cases or current inventory-complete count.",
+  "canonical_count_unchanged": 25,
+  "additional_staged_batch5": 5,
+  "inventory_loci": [
+    [
+      "John 12:38",
+      "isaiah-53-1-john-12"
+    ],
+    [
+      "John 12:39–41",
+      "isaiah-6-john-12"
+    ],
+    [
+      "Romans 9:25–26",
+      "hosea-romans-9-gentiles"
+    ],
+    [
+      "Romans 11:26–27",
+      "isaiah-59-romans-11-zion"
+    ],
+    [
+      "Hebrews 1:5",
+      "hebrews-1-5-royal-son"
+    ]
+  ],
+  "cases": [
+    {
+      "id": "isaiah-53-1-john-12",
+      "label": "Who believed the report?",
+      "earlier": "Isaiah 53:1 (within Isaiah 52:13–53:12)",
+      "later": "John 12:37–38",
+      "kind": "Servant poem lament used to explain unbelief",
+      "original": "מִי הֶאֱמִין לִשְׁמֻעָתֵנוּ וּזְרוֹעַ יְהוָה עַל־מִי נִגְלָתָהּ (Who believed our message, and to whom was the arm of YHWH revealed?)",
+      "setting": "Isaiah 53:1 introduces the reaction of a speaking group to the suffering servant. The poem concerns suffering, reversal and recognition within the exile/restoration corpus, not an explicitly named first-century audience refusing Jesus.",
+      "laterUse": "John 12:37–38 reports disbelief despite Jesus' many signs, then quotes Isaiah 53:1 and calls that disbelief fulfillment of Isaiah's word.",
+      "relationship": "A rhetorical question about recognition in the servant poem is applied to Jesus' reception. This is a distinct quotation of Isaiah 53 from Matthew 8:17 and Acts 8:32–35, even though their source text belongs to the same poem.",
+      "evidence": "The correspondence and Isaiah's location within the servant poem are documented. John reports signs and people's reaction; quoting Isaiah inside the same Gospel does not independently corroborate those events or prove that Isaiah was predicting John 12.",
+      "sourceStatus": "Explicit use and earlier servant context confirmed; independent verification of signs absent",
+      "refs": [
+        [
+          "Hebrew Isaiah 53:1",
+          "https://biblehub.com/text/isaiah/53-1.htm"
+        ],
+        [
+          "Greek John 12:38",
+          "https://biblehub.com/text/john/12-38.htm"
+        ],
+        [
+          "NET notes on John 12:38–41",
+          "https://classic.net.bible.org/passage.php?passage=joh+12%3A38-41"
+        ],
+        [
+          "Yale Bible Study, Isaiah 52–53",
+          "https://yalebiblestudy.org/courses/second-isaiah/lessons/arm-of-god-study-guide/"
+        ]
+      ]
+    },
+    {
+      "id": "isaiah-6-john-12",
+      "label": "Isaiah saw whose glory?",
+      "earlier": "Isaiah 6:1–13, especially 6:9–10",
+      "later": "John 12:39–41",
+      "kind": "Commission narrative reused with changed emphasis on divine hardening and glory",
+      "original": "הַשְׁמֵן לֵב־הָעָם הַזֶּה ... וְעֵינָיו הָשַׁע (Hebrew commands to make this people's heart dull and shut its eyes); John: τετύφλωκεν αὐτῶν τοὺς ὀφθαλμοὺς ('he has blinded their eyes')",
+      "setting": "In Isaiah 6 the prophet sees YHWH's throne and glory, receives a commission and is told the people will resist understanding; destruction and a remnant follow. The older Greek version reshapes the agency of dullness, and biblical NT authors use different forms.",
+      "laterUse": "John 12:39–40 quotes active blinding and hardening to interpret unbelief, and 12:41 says Isaiah spoke because he saw 'his' glory—linked in John to Jesus, whereas Isaiah's immediate scene names YHWH.",
+      "relationship": "A pre-existing prophetic calling and judgment passage is interpreted christologically. John's harder verb agency differs from Matthew's earlier quotation of the Greek form (Matt 13:14–15), and John equates or closely identifies Jesus' glory with the glory Isaiah witnessed.",
+      "evidence": "The source-text differences and John's theological claim are direct textual observations. They do not independently establish that Isaiah saw Jesus, nor settle difficult ethical questions about responsibility if God hardens people.",
+      "sourceStatus": "Original referent and Johannine christological rereading documented; mechanism and ethics debated",
+      "refs": [
+        [
+          "Hebrew Isaiah 6:10",
+          "https://biblehub.com/text/isaiah/6-10.htm"
+        ],
+        [
+          "Greek John 12:40–41",
+          "https://www.biblegateway.com/passage/?search=John+12%3A39-41&version=SBLGNT"
+        ],
+        [
+          "NET notes on Isaiah's glory and blinding in John",
+          "https://classic.net.bible.org/passage.php?passage=joh+12%3A38-41"
+        ],
+        [
+          "Matthew 13:14–15 contrast",
+          "https://www.biblegateway.com/passage/?search=Matthew+13%3A14-15&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "hosea-romans-9-gentiles",
+      "label": "Israel's restoration applied to Gentiles",
+      "earlier": "Hosea 2:23 and 1:10 (Hebrew 2:25 and 2:1)",
+      "later": "Romans 9:24–26",
+      "kind": "Restoration promise reassigned or extended through Pauline interpretation",
+      "original": "וְאָמַרְתִּי לְלֹא־עַמִּי עַמִּי־אַתָּה (I will say to Not-my-people, You are my people); names Lo-Ammi and Lo-Ruhamah",
+      "setting": "Hosea's symbolic child names and later reversal address the condemned northern kingdom of Israel. Restoration imagery assures Israel that judgment will not have the final word, in the context of Israelite covenant history.",
+      "laterUse": "Romans 9:24 explicitly discusses those called 'not only from the Jews but also from the Gentiles', then cites Hosea 2:23 and 1:10 as support for God's extending mercy.",
+      "relationship": "Paul applies an earlier oracle referring to Israel to a new group, Gentile believers. Richard B. Hays (1989) calls the move revisionary; some Christian scholars argue Hosea's wider Abrahamic promises already imply inclusion of the nations.",
+      "evidence": "The original audience and Paul's expanded audience are observable in the wording. Paul's citation shows his interpretive argument, not that Hosea's eighth-century BCE author explicitly predicted a future Pauline Gentile mission.",
+      "sourceStatus": "Shift from Israel to Gentile inclusion documented; hermeneutical warrant debated",
+      "refs": [
+        [
+          "Hebrew Hosea 2:23",
+          "https://biblehub.com/text/hosea/2-23.htm"
+        ],
+        [
+          "Romans 9:24–26",
+          "https://www.biblegateway.com/passage/?search=Romans+9%3A24-26&version=NRSVUE"
+        ],
+        [
+          "Richard B. Hays, Echoes of Scripture in the Letters of Paul (1989), excerpt",
+          "https://intertextual.bible/text/hosea-2.23/romans-9.25"
+        ],
+        [
+          "Study of the Hosea to Gentile interpretation (2017)",
+          "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002267609"
+        ]
+      ]
+    },
+    {
+      "id": "isaiah-59-romans-11-zion",
+      "label": "Does the deliverer come to, for, or from Zion?",
+      "earlier": "Isaiah 59:20–21; Isaiah 27:9",
+      "later": "Romans 11:25–27",
+      "kind": "Composite oracle with a changed geographical preposition",
+      "original": "Hebrew Isaiah 59:20 לְצִיּוֹן ('to Zion'); old Greek ἕνεκεν Σιών ('for the sake of Zion'); Romans 11:26 ἐκ Σιών ('from Zion')",
+      "setting": "Isaiah 59 addresses Israel's wrongdoing and promises a redeemer coming to Zion and a covenantal transformation; Isaiah 27:9 includes removal of Jacob's guilt. Their original historical horizons and editorial relationships require separate study.",
+      "laterUse": "Romans 11:26–27 cites a composite form to describe the mysterious salvation of 'all Israel' as related to Gentile inclusion; it writes that the deliverer comes 'from Zion'.",
+      "relationship": "Paul's ἐκ is absent from the received Hebrew/Old Greek wording. J. R. Daniel Kirk (2010) argues that Paul intentionally alters the salvation-historical direction of Isaiah, while Kyoung Shik Kim (2014) sees a deliberate interpretation grounded in Isaiah 59–65. Existence of an unknown Greek Vorlage remains an alternative discussed in the literature, not a demonstrated fact.",
+      "evidence": "The three distinct prepositions and the composite quotation are textually verifiable; their theological significance is debated. This does not establish fulfillment of a miraculous deliverance or clarify, on its own, the meaning of 'all Israel'.",
+      "sourceStatus": "Textual directional shift certain in surviving witnesses; motive and fulfillment disputed",
+      "refs": [
+        [
+          "Hebrew Isaiah 59:20",
+          "https://biblehub.com/text/isaiah/59-20.htm"
+        ],
+        [
+          "Greek Romans 11:26",
+          "https://biblehub.com/text/romans/11-26.htm"
+        ],
+        [
+          "J. R. Daniel Kirk, JSNT 33 (2010)",
+          "https://doi.org/10.1177/0142064X10376003"
+        ],
+        [
+          "Kyoung Shik Kim, Romans 11:26–27 Ek Sion (2014)",
+          "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001883050"
+        ],
+        [
+          "Isaiah 27:9",
+          "https://www.biblegateway.com/passage/?search=Isaiah+27%3A9&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "hebrews-1-5-royal-son",
+      "label": "The adopted royal son and the angel comparison",
+      "earlier": "Psalm 2:7; 2 Samuel 7:12–16",
+      "later": "Hebrews 1:5",
+      "kind": "Two Davidic royal proclamations applied to an exalted Son",
+      "original": "Psalm 2:7 בְּנִי אַתָּה ('You are my son'); 2 Samuel 7:14 אֲנִי אֶהְיֶה־לּוֹ לְאָב וְהוּא יִהְיֶה־לִּי לְבֵן ('I will be father to him and he shall be son to me')",
+      "setting": "Psalm 2 voices God's authorization of a Zion king; 2 Samuel 7 promises continuity for David's house through his offspring and also explicitly envisages disciplining the heir if he does wrong. The paternal language signals covenantal kingship, not an explicit biological theory of divine reproduction.",
+      "laterUse": "Hebrews quotes both passages to distinguish Jesus, the divine Son, from angels and frame his superiority and enthronement. The quoted clause in 2 Samuel stops before the discipline warning, which belongs to the original longer oracle.",
+      "relationship": "The later writer brings two distinct earlier royal formulas together to characterize Jesus. Scholarly questions include adoption/enthronement imagery, christological identity, priestly role and how the Davidic discipline clause is handled in reception.",
+      "evidence": "The citations and omitted surrounding clause can be checked directly. They demonstrate an interpretive claim about Jesus' sonship and status, but neither text's original royal audience identified him by name or independently establishes exaltation in heaven.",
+      "sourceStatus": "Pairing and older royal context certain; theological entailments subject to interpretation",
+      "refs": [
+        [
+          "Hebrew Psalm 2:7",
+          "https://biblehub.com/text/psalms/2-7.htm"
+        ],
+        [
+          "2 Samuel 7:12–16 NRSVUE",
+          "https://www.biblegateway.com/passage/?search=2+Samuel+7%3A12-16&version=NRSVUE"
+        ],
+        [
+          "Hebrews 1:5 NRSVUE",
+          "https://www.biblegateway.com/passage/?search=Hebrews+1%3A5&version=NRSVUE"
+        ],
+        [
+          "Sung Kook Jung (2014), Uses of Psalm 2 and 2 Samuel 7 in Hebrews 1:5",
+          "https://kiss.kstudy.com/Detail/Ar?key=3359440"
+        ]
+      ]
+    }
+  ],
+  "review_requirements": [
+    "Verify the Hebrew/Old Greek/Gospel or epistle wording against critical editions where possible",
+    "Verify secondary sources support the cited propositions, not merely a related topic",
+    "Separate historical-original referent, NT reuse, theological judgment, and independent evidence",
+    "On integration, reconcile #202 with the merged UI #210 while preserving both research pages and shared search generator",
+    "Do not merge PR #202 until complete inventory and outside review"
+  ]
+}
