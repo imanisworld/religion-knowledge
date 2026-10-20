@@ -18,6 +18,7 @@
 | Claim classifications | 7 `verified`; 6 `verified_with_qualification` | Verifications are **internal source checks**, not independent external review |
 | Claim registry validation | **PASS — GitHub Actions** | Research Governance run #225: Node validator structure check and nonempty-registry check succeeded; an in-memory duplicate/text/format check also passed |
 | Source-document readback | Verified | Source Markdown updated; no publication changes |
+| Adversarial pre-review | **Done 20 Oct — internal, not independent** | [PRE-REVIEW.md](PRE-REVIEW.md): 5 hold; 7 hold with qualification (recommends downgrading `IL-JOHN-001` and `IL-SIRACH-001` from `verified`); `IL-HIPBLAME-001` unresolved. No claim or status changed |
 | Independent outside audit | **Not started / not complete** | [REVIEW.md](REVIEW.md) handoff now prepared; reviewer and claim-specific verdicts still needed |
 | Existing corpus and app CI | **PASS — GitHub Actions** | Religion Corpus run #535 passed parser tests, reader regeneration/sync, search-index checks, app validation, phone-sized Chromium, standalone build; new module remains unregistered/unpublished |
 
