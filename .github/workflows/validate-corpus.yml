@@ -100,7 +100,10 @@ jobs:
           npm run validate:timeline
           node --check scripts/build-public-catalog.mjs
           node --test tests/public-catalog.test.mjs
+          node --test tests/traditions-profiles.test.mjs
           npm run build:reader-site
+          test -s dist/reader-site/traditions.html
+          bash scripts/test-traditions-browser.sh
           test -s dist/reader-site/catalog.html
           grep -Fq 'id="deities"' dist/reader-site/catalog.html
           grep -Fq 'id="people"' dist/reader-site/catalog.html
