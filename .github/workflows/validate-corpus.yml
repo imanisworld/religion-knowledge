@@ -59,6 +59,9 @@ jobs:
       - name: Verify Markdown and reader structure are in sync
         run: npm run validate:reader-sync
 
+      - name: Check unresolved public person entries
+        run: node --test tests/public-cited-persons-source-gate.test.mjs
+
       - name: Regenerate cross-document search index
         run: npm run build:search-index
 
