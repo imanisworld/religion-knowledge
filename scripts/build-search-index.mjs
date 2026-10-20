@@ -13,6 +13,8 @@ const DOC_META = [
   ['other-side.html',      'The Strongest Case'],
   ['translations.html',    'Translations'],
   ['translation-evidence.html','Translation Evidence'],
+  ['prophecy-audit.html',  'Biblical Prophecy Audit'],
+  ['illness-explanations.html', 'Illness Explanations'],
   ['method-reference.html','Method & Reference'],
   ['glossary.html',        'Glossary'],
   ['law-covenant.html',    'Law & Covenant'],

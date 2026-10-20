@@ -68,7 +68,7 @@ test('subject pages connect in both directions without asserting historical infl
   const home=htmlByPage.get('index.html')||'';
   const hub=htmlByPage.get('comparisons.html')||'';
   const catalog=htmlByPage.get('catalog.html')||'';
-  for(const page of ['history.html','catalog.html','comparisons.html','search.html'])
+  for(const page of ['history.html','catalog.html','traditions.html','comparisons.html','search.html'])
     assert.ok(home.includes('href="'+page+'"'),'Homepage missing '+page);
   assert.ok(hub.includes('href="catalog.html"'),'Comparison hub must reach catalog');
   assert.ok(catalog.includes('href="comparisons.html"'),'Catalog must reach comparison hub');
@@ -84,5 +84,8 @@ test('subject pages connect in both directions without asserting historical infl
   assert.ok(patterns.includes('href="gender-over-time.html#method"'),
     'Historical patterns should lead readers back to the gender research');
   assert.match(catalog,/Similar gods or stories may have developed separately/);
-  assert.match(catalog,/View research file/);
+  assert.match(catalog,/Read research notes/);
+  assert.match(catalog,/href="traditions.html#trad_akan_traditional_religion"/);
+  assert.doesNotMatch(catalog,/github\.com|View research file/);
+  assert.match(catalog,/href="cited-persons.html#person-/);
 });

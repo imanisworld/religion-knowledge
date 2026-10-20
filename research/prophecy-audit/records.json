@@ -1,0 +1,2283 @@
+{
+  "title": "Biblical Prophecy Evidence",
+  "version": 10,
+  "checked": "2026-10-20",
+  "scope": "65 source-linked research cases in eleven batches; 11 initially internally reviewed, 54 further records require full claim-specific source verification. All 50 tracked supplemental seed claim loci are now researched or mapped; the broader biblical prophecy inventory remains discovery-incomplete.",
+  "status": "starter_checked",
+  "method": "Do not treat a later narrative quoting an earlier passage as independent proof that the event happened. Record composition/redaction dating separately from the story's setting; a date is 'undetermined' if uncertain. Do not equate resemblance with historical causation. Do not call a retrospective lament or Exodus memory a failed forward prediction; do not automatically label a partial fulfillment as complete. A conditional warning must be assessed as a warning. Distinguish lexical variants from theological interpretations and from historical evidence. No binary overall truth-score.",
+  "records": [
+    {
+      "id": "isaiah-7-14",
+      "label": "The young woman and Immanuel",
+      "earlier": "Isaiah 7:10–17",
+      "later": "Matthew 1:22–23",
+      "kind": "Contemporary sign later reapplied",
+      "original": "הָעַלְמָה (ha-‘almah; the young woman)",
+      "setting": "Isaiah addresses King Ahaz during a military crisis in Judah; the child functions as a sign within a near-term political timetable (see 7:15–16).",
+      "laterUse": "Matthew quotes the Greek-scripture form using parthenos and applies it to Mary's conception of Jesus.",
+      "relationship": "Retrospective messianic rereading, with a Hebrew-to-Greek lexical change.",
+      "evidence": "The connection is explicit in Matthew. The Hebrew noun alone does not require a miraculous conception; the supernatural claim is part of Matthew's narrative and not independently established.",
+      "sourceStatus": "Original-context reading strong; historical miracle unverified",
+      "refs": [
+        [
+          "Hebrew Isaiah 7:14",
+          "https://biblehub.com/text/isaiah/7-14.htm"
+        ],
+        [
+          "Greek Matthew 1:23",
+          "https://biblehub.com/text/matthew/1-23.htm"
+        ],
+        [
+          "TheTorah: Jewish origins of Christmas story",
+          "https://www.thetorah.com/article/the-jewish-origins-of-the-christmas-story"
+        ],
+        [
+          "Yale Bible Study: Matthew ancestry and birth",
+          "https://yalebiblestudy.org/courses/the-gospel-of-matthew/lessons/ancestry-and-birth-study-guide/"
+        ]
+      ]
+    },
+    {
+      "id": "hosea-11-1",
+      "label": "Out of Egypt I called my son",
+      "earlier": "Hosea 11:1–4",
+      "later": "Matthew 2:14–15",
+      "kind": "Past narrative later reapplied",
+      "original": "כִּי נַעַר יִשְׂרָאֵל (when Israel was a boy)",
+      "setting": "Hosea recalls the historical Exodus story and addresses Israel as God's wayward child; its verbs point back to a past relationship.",
+      "laterUse": "Matthew cites Hosea 11:1 immediately after narrating the family's flight into Egypt (Matthew 2:14–15), although their return from Egypt is narrated later (2:19–21).",
+      "relationship": "Matthew identifies Jesus with Israel by typology. Seong-Kwang Kevin Kim (2019) notes that the quotation about coming out is placed before Matthew narrates the return and offers a larger Israel/Egypt pattern to explain the application.",
+      "evidence": "Hosea describes Israel's past Exodus. Matthew's quotation and retelling are explicit but do not independently confirm the family’s travel. The timing of the quotation within Matthew is a real interpretive issue.",
+      "sourceStatus": "Earlier reference to Israel explicit; later typological use explicit",
+      "refs": [
+        [
+          "Hebrew Hosea 11:1",
+          "https://biblehub.com/text/hosea/11-1.htm"
+        ],
+        [
+          "Matthew 2:15",
+          "https://biblehub.com/text/matthew/2-15.htm"
+        ],
+        [
+          "TheTorah: Hosea 11 and Israel as a child",
+          "https://www.thetorah.com/article/israel-is-a-rebellious-child-yhwh-is-a-parent-but-not-a-person"
+        ],
+        [
+          "Yale Bible Study: Matthew and new Exodus",
+          "https://yalebiblestudy.org/courses/the-gospel-of-matthew/lessons/introduction-to-the-course-12/"
+        ],
+        [
+          "Seong-Kwang Kevin Kim (2019), The Use of Hosea 11:1 in Matthew 2:15",
+          "https://journal.kci.go.kr/ksots/archive/articleView?artiId=ART002505074"
+        ]
+      ]
+    },
+    {
+      "id": "jeremiah-31-15",
+      "label": "Rachel weeping for her children",
+      "earlier": "Jeremiah 31:15–17",
+      "later": "Matthew 2:16–18",
+      "kind": "Exile lament later reapplied",
+      "original": "רָחֵל מְבַכָּה (Rachel is weeping)",
+      "setting": "Rachel personifies grief for Israelite exile; the very next lines promise that the children will return from enemy territory.",
+      "laterUse": "Matthew quotes the lament when narrating Herod's killing of Bethlehem's boys.",
+      "relationship": "A poetic lament in an exile-restoration context is given a new narrative referent.",
+      "evidence": "The reuse is explicit and the original exile context can be verified. Matthew's particular massacre narrative is not independently established by this scriptural quotation.",
+      "sourceStatus": "Different historical referents documented; event evidence limited",
+      "refs": [
+        [
+          "Hebrew Jeremiah 31:15",
+          "https://biblehub.com/text/jeremiah/31-15.htm"
+        ],
+        [
+          "Matthew 2:17–18",
+          "https://www.biblegateway.com/passage/?search=Matthew+2%3A17-18&version=NRSVUE"
+        ],
+        [
+          "TheTorah: Jewish origins of Christmas story",
+          "https://www.thetorah.com/article/the-jewish-origins-of-the-christmas-story"
+        ],
+        [
+          "TheTorah: Rachel weeps in Ramah",
+          "https://www.thetorah.com/article/rachel-weeps-in-ramah-of-all-the-patriarchs-god-listens-only-to-her"
+        ]
+      ]
+    },
+    {
+      "id": "micah-5-2",
+      "label": "A ruler from Bethlehem",
+      "earlier": "Micah 5:2–5 (English numbering)",
+      "later": "Matthew 2:5–6; Luke 2:4–7",
+      "kind": "Future royal oracle",
+      "original": "בֵּית־לֶחֶם אֶפְרָתָה (Bethlehem Ephrathah)",
+      "setting": "Micah looks toward a ruler emerging from David's ancestral setting amid political insecurity, with hopes of peace and protection for Israel.",
+      "laterUse": "Matthew explicitly quotes Micah as identifying the Messiah's Bethlehem connection; Luke also places the birth in Bethlehem but supplies a different journey narrative and does not use the same fulfillment formula.",
+      "relationship": "The earlier passage is a genuine future-oriented royal oracle, later understood christologically.",
+      "evidence": "Micah contains a forward-looking Davidic royal oracle. The Bethlehem association may refer to Davidic origins as well as a locality; the two later nativity accounts do not supply independent contemporary corroboration of Jesus' precise birthplace.",
+      "sourceStatus": "Earlier royal oracle clear; Bethlehem birth details unverified independently",
+      "refs": [
+        [
+          "Hebrew Micah 5:2",
+          "https://biblehub.com/text/micah/5-2.htm"
+        ],
+        [
+          "Matthew 2:5–6",
+          "https://www.biblegateway.com/passage/?search=Matthew+2%3A5-6&version=NRSVUE"
+        ],
+        [
+          "TheTorah: why Bethlehem",
+          "https://www.thetorah.com/article/the-jewish-origins-of-the-christmas-story"
+        ],
+        [
+          "Yale Matthew study guide",
+          "https://yalebiblestudy.org/courses/the-gospel-of-matthew/lessons/ancestry-and-birth-study-guide/"
+        ]
+      ]
+    },
+    {
+      "id": "zechariah-9-9",
+      "label": "The king riding a donkey",
+      "earlier": "Zechariah 9:9–10",
+      "later": "Matthew 21:4–7; Mark 11:1–10; John 12:14–15",
+      "kind": "Future royal oracle",
+      "original": "עַל־חֲמוֹר וְעַל־עַיִר (on a donkey, and on a colt)",
+      "setting": "Zion is told to welcome a humble, victorious king, contrasted with military power and associated with the end of war in the next verse.",
+      "laterUse": "Mark and John describe one colt/donkey; Matthew names both a mother donkey and colt while citing Zechariah. What the pronoun 'them' refers to in Matthew 21:7 is also debated.",
+      "relationship": "There are competing explanations: Matthew may have read Zechariah's poetic parallelism as two animals (Yale's account); Tucker Ferda (2020) argues Matthew combined Zechariah 9:9 with Genesis 49:10–11; Adam Kubiś (2018) defends a historically two-animal scene. Zechariah's Hebrew parallel phrases need not refer to two mounts.",
+      "evidence": "Matthew's two-animal version is a textual fact. Its relationship to the one-animal accounts and the event itself is debated, so the Gospel quotation alone does not independently establish the exact incident.",
+      "sourceStatus": "Textual reuse explicit; exact event details not independently established",
+      "refs": [
+        [
+          "Hebrew Zechariah 9:9",
+          "https://biblehub.com/text/zechariah/9-9.htm"
+        ],
+        [
+          "Matthew 21:4–7",
+          "https://www.biblegateway.com/passage/?search=Matthew+21%3A4-7&version=NRSVUE"
+        ],
+        [
+          "Yale on Matthew 21",
+          "https://yalebiblestudy.org/courses/the-gospel-of-matthew/lessons/stories-of-the-end-study-guide/"
+        ],
+        [
+          "Tucker S. Ferda (2020), Journal of Theological Studies",
+          "https://doi.org/10.1093/jts/flaa088"
+        ],
+        [
+          "Adam Kubiś (2018), Biblical Annals",
+          "https://doi.org/10.31743/ba.2018.8.2.04"
+        ]
+      ]
+    },
+    {
+      "id": "isaiah-53",
+      "label": "The suffering servant",
+      "earlier": "Isaiah 52:13–53:12",
+      "later": "Matthew 8:17; Acts 8:32–35; 1 Peter 2:22–25",
+      "kind": "Servant poem later identified with Jesus",
+      "original": "עַבְדִּי (my servant; Isaiah 52:13)",
+      "setting": "The servant poem belongs to Isaiah 40–55's exile-and-restoration setting. Isaiah 49:3 explicitly calls the servant Israel, but Isaiah 49:5 also describes a servant commissioned to restore Israel. This complicates a simple identification; views include collective Israel, an individual representative, or an idealized servant.",
+      "laterUse": "New Testament texts apply servant phrases to Jesus' healings, suffering, death, and perceived redemptive role.",
+      "relationship": "Later interpretation identifies the servant with Jesus; interpretations of the original figure include collective Israel and individual or idealized servants.",
+      "evidence": "New Testament identification of the servant with Jesus is explicit. Even if Jesus' execution is accepted historically, it does not independently prove that the poem originally referred to him or that its theological portrayal of suffering was an advance prediction.",
+      "sourceStatus": "Servant identity debated; New Testament application documented",
+      "refs": [
+        [
+          "Hebrew Isaiah 52:13",
+          "https://biblehub.com/text/isaiah/52-13.htm"
+        ],
+        [
+          "Hebrew Isaiah 49:3",
+          "https://biblehub.com/text/isaiah/49-3.htm"
+        ],
+        [
+          "Acts 8:32–35",
+          "https://www.biblegateway.com/passage/?search=Acts+8%3A32-35&version=NRSVUE"
+        ],
+        [
+          "Yale: Second Isaiah suffering servant",
+          "https://yalebiblestudy.org/courses/second-isaiah/lessons/arm-of-god-study-guide/"
+        ],
+        [
+          "TheTorah: suffering servant interpretive reception",
+          "https://www.thetorah.com/article/the-skin-of-the-metzora-and-the-heart-of-the-messiah"
+        ],
+        [
+          "Hebrew Isaiah 49:5, servant commissioned to restore Israel",
+          "https://biblehub.com/text/isaiah/49-5.htm"
+        ]
+      ]
+    },
+    {
+      "id": "psalm-22",
+      "label": "My God, why have you forsaken me?",
+      "earlier": "Psalm 22",
+      "later": "Mark 15:34; Matthew 27:46; John 19:24",
+      "kind": "Lament psalm later reused",
+      "original": "כָּאֲרִי (Masoretic 'like a lion') / כארו (Naḥal Ḥever variant): Hebrew Psalm 22:17, often 22:16 in English Bibles",
+      "setting": "Psalm 22 is an anguished prayer of a suffering speaker who ultimately voices praise, not a prose forecast naming a future crucifixion.",
+      "laterUse": "Jesus' cry and the distribution of garments are narrated with language that evokes Psalm 22; Christians also connect the debated hands-and-feet reading to crucifixion.",
+      "relationship": "The evangelists echo an earlier lament, including its opening cry and imagery. The Masoretic text has 'like a lion'; a Naḥal Ḥever fragment supports a spelling with final waw; the Greek ὤρυξαν is 'they dug'. Translating the verbal tradition as 'pierced' is interpretive and disputed.",
+      "evidence": "Hopkin (2005) argues that the ancient fragment supports the verbal reading; Strawn (2000) stresses the lion imagery and textual difficulties; NET translation notes challenge 'pierce' as a gloss. Competing textual readings do not by themselves show that Psalm 22 originally predicted Jesus' crucifixion.",
+      "sourceStatus": "Ancient reading variation documented; prophetic status is interpretive",
+      "refs": [
+        [
+          "Masoretic Hebrew Psalm 22:17",
+          "https://biblehub.com/text/psalms/22-17.htm"
+        ],
+        [
+          "Shon D. Hopkin (2005), BYU Studies",
+          "https://scholarsarchive.byu.edu/byusq/vol44/iss3/9/"
+        ],
+        [
+          "Brent A. Strawn (2000), Journal of Biblical Literature",
+          "https://doi.org/10.2307/3268408"
+        ],
+        [
+          "NET Bible notes, Psalm 22",
+          "https://classic.net.bible.org/passage.php?passage=Psa+22%3A16-17"
+        ],
+        [
+          "Matthew 27:46",
+          "https://www.biblegateway.com/passage/?search=Matthew+27%3A46&version=NRSVUE"
+        ],
+        [
+          "John 19:24",
+          "https://www.biblegateway.com/passage/?search=John+19%3A24&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "isaiah-40-3",
+      "label": "The voice in the wilderness",
+      "earlier": "Isaiah 40:3–5",
+      "later": "Mark 1:2–4; Matthew 3:3; Luke 3:4–6",
+      "kind": "Restoration oracle and punctuation",
+      "original": "קֹול קֹורֵא בַּמִּדְבָּר (a voice calls: in the wilderness...)",
+      "setting": "Second Isaiah (Isaiah 40–55) is commonly situated in the sixth-century BCE exilic context. Hebrew poetry pairs 'in the wilderness' with 'in the desert'; the voice calls for a processional road prepared for YHWH's return to the people.",
+      "laterUse": "Gospel authors use the Greek textual tradition so that the voice belongs to John the Baptist in the wilderness.",
+      "relationship": "The Septuagint does not reproduce the Hebrew 'in the desert' parallel phrase in the second line, enabling 'in the wilderness' to describe the crying voice. The Gospels apply that Greek reading to John the Baptist. The shift involves the Greek version's wording as well as punctuation.",
+      "evidence": "Hebrew parallelism and Greek translation structure support distinct construals; the New Testament application is explicit. The earlier text does not name John the Baptist.",
+      "sourceStatus": "Literary and translation shift documented",
+      "refs": [
+        [
+          "Hebrew Isaiah 40:3",
+          "https://biblehub.com/text/isaiah/40-3.htm"
+        ],
+        [
+          "Greek Mark 1:3",
+          "https://biblehub.com/text/mark/1-3.htm"
+        ],
+        [
+          "David M. Freidenreich, TheTorah (2026): Hebrew and Greek compared",
+          "https://www.thetorah.com/article/a-voice-cries-out-in-the-wilderness-isaiah-translated-and-improved"
+        ]
+      ]
+    },
+    {
+      "id": "jeremiah-46-egypt",
+      "label": "Babylon's predicted conquest of Egypt",
+      "earlier": "Jeremiah 46:13–26",
+      "later": "Historical campaigns of Nebuchadnezzar II",
+      "kind": "Historical prediction checked against external records",
+      "original": "לָבוֹא נְבוּכַדְרֶאצַּר ... לְהַכּוֹת אֶת־אֶרֶץ מִצְרָיִם (Nebuchadnezzar coming to strike Egypt)",
+      "setting": "The oracle imagines a destructive Babylonian invasion and devastation of Egypt after Babylon's military rise.",
+      "laterUse": "Later interpreters may regard partial raids as fulfillment or understand the oracle as revised in light of events.",
+      "relationship": "A concrete military forecast, testable with Egyptian and Babylonian evidence and the book's editorial history.",
+      "evidence": "Babylon fought Egypt and conducted raids; Egyptian independence continued until Persian conquest. Dan'el Kahn argues parts of the present prophetic text were revised with later Egyptian civil-war knowledge.",
+      "sourceStatus": "Predicted full conquest not documented; partial attacks documented; textual layers debated",
+      "refs": [
+        [
+          "Hebrew Jeremiah 46:13",
+          "https://biblehub.com/text/jeremiah/46-13.htm"
+        ],
+        [
+          "Dan'el Kahn (2022), TheTorah",
+          "https://www.thetorah.com/article/nebuchadnezzar-fails-to-conquer-egypt-so-jeremiahs-prophecy-was-updated"
+        ]
+      ]
+    },
+    {
+      "id": "ezekiel-29-egypt",
+      "label": "Egypt uninhabited for forty years",
+      "earlier": "Ezekiel 29:8–16; 29:17–21",
+      "later": "Egyptian historical record of the sixth century BCE",
+      "kind": "Time-specified judgment oracle",
+      "original": "אַרְבָּעִים שָׁנָה (forty years)",
+      "setting": "The prophecy predicts devastation, dispersion, and lack of inhabitants for forty years, associated with Egyptian and Babylonian power.",
+      "laterUse": "The forty-year desolation can be read as a literal timetable or as a rounded/rhetorical period. Ezekiel 29:17–21 offers Egypt as compensation for Nebuchadnezzar's inadequate reward from his campaign against Tyre; historical conquests require outside evidence.",
+      "relationship": "Specific forecast compared to independent historical records, with attention to whether numbers are literal or rhetorical.",
+      "evidence": "No independently verified Egyptian history supports forty years of the entire country being uninhabited. Babylonian attacks occurred, but the available record does not establish complete depopulation on the prophesied scale. Interpretive debate remains over the imagery and intended literalness.",
+      "sourceStatus": "Literal fulfillment unsupported by known independent record",
+      "refs": [
+        [
+          "Hebrew Ezekiel 29:11",
+          "https://biblehub.com/text/ezekiel/29-11.htm"
+        ],
+        [
+          "Ezekiel 29:17–21",
+          "https://www.biblegateway.com/passage/?search=Ezekiel+29%3A17-21&version=NRSVUE"
+        ],
+        [
+          "Dan'el Kahn (2022), Egyptian and Babylonian evidence",
+          "https://www.thetorah.com/article/nebuchadnezzar-fails-to-conquer-egypt-so-jeremiahs-prophecy-was-updated"
+        ]
+      ]
+    },
+    {
+      "id": "jonah-3-warning",
+      "label": "Forty days until Nineveh's overthrow",
+      "earlier": "Jonah 3:4–10; Jeremiah 18:7–10",
+      "later": "Nineveh's repentance within Jonah's story",
+      "kind": "Conditional warning, not fixed timetable",
+      "original": "עֹוד אַרְבָּעִים יֹום (yet forty days)",
+      "setting": "The story has Jonah announce impending destruction; the city's response leads the narrator to say God does not bring the announced disaster.",
+      "laterUse": "Sometimes claimed as failed prediction or defended as a conditional warning.",
+      "relationship": "A teaching story about judgment and mercy, paired with Jeremiah's explicit principle that warnings may be conditional.",
+      "evidence": "The narrative itself says the announced disaster did not occur. It gives a reason within the story; this does not independently establish that Jonah preached to historical Nineveh or that its repentance happened.",
+      "sourceStatus": "Non-occurrence and conditional logic explicit within the narrative",
+      "refs": [
+        [
+          "Hebrew Jonah 3:4",
+          "https://biblehub.com/text/jonah/3-4.htm"
+        ],
+        [
+          "Jonah 3:10",
+          "https://www.biblegateway.com/passage/?search=Jonah+3%3A10&version=NRSVUE"
+        ],
+        [
+          "Jeremiah 18:7–10",
+          "https://www.biblegateway.com/passage/?search=Jeremiah+18%3A7-10&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "nazorean-matthew-2-23",
+      "label": "He will be called a Nazarene",
+      "earlier": "No surviving identifiable scriptural quotation",
+      "later": "Matthew 2:23",
+      "kind": "Fulfillment formula with no identifiable antecedent",
+      "original": "Ναζωραῖος κληθήσεται (Greek Matthew 2:23, 'he will be called a Nazarene'); no corresponding Hebrew prophecy text is known",
+      "setting": "Matthew refers to what 'the prophets' said in the plural, but no extant verse in the Hebrew Bible makes this exact statement. Proposed connections include the Hebrew 'branch' (netser) in Isaiah 11:1, the Nazirite tradition, or a broader motif of social contempt; each has lexical or contextual obstacles.",
+      "laterUse": "Matthew says Joseph's family settled in Nazareth so that the words spoken through the prophets might be fulfilled.",
+      "relationship": "A fulfillment claim without a securely identifiable prior passage. An association with an older scriptural theme is plausible, but reconstructing an exact lost quotation or the author's motive exceeds the evidence.",
+      "evidence": "Matthew 2:23 is verifiable. The lack of an extant matching oracle prevents word-for-word comparison or independent confirmation that 'Nazarene' was predicted; proposed Hebrew wordplays remain hypotheses.",
+      "sourceStatus": "Fulfillment claim explicit; original quoted source unidentified",
+      "refs": [
+        [
+          "Matthew 2:23 with NET translation notes",
+          "https://classic.net.bible.org/verse.php?book=Mat&chapter=2&verse=23"
+        ],
+        [
+          "Matthew 2:23 Greek text",
+          "https://biblehub.com/text/matthew/2-23.htm"
+        ],
+        [
+          "Isaiah 11:1 (netser) comparison",
+          "https://biblehub.com/text/isaiah/11-1.htm"
+        ]
+      ]
+    },
+    {
+      "id": "isaiah-9-galilee-matthew-4",
+      "label": "Great light in Galilee",
+      "earlier": "Isaiah 8:23–9:1 (Hebrew numbering; English Isaiah 9:1–2)",
+      "later": "Matthew 4:14–16",
+      "kind": "Restoration oracle applied to Jesus' Galilean ministry",
+      "original": "הָעָם הַהֹלְכִים בַּחֹשֶׁךְ רָאוּ אוֹר גָּדוֹל ('people walking in darkness saw a great light')",
+      "setting": "The Isaiah passage names the territories of Zebulun and Naphtali in northern Israel after devastation associated with imperial warfare in the eighth century BCE; its original horizon is hope after crisis. Its precise literary layering and royal expectation are debated.",
+      "laterUse": "Matthew quotes the passage after Jesus relocates to Capernaum and begins his ministry in Galilee, identifying his activity with the light reaching the north.",
+      "relationship": "The application is explicit; Matthew adapts the geographical and metaphorical imagery to Jesus. The earlier oracle does not name Jesus or specify a first-century Capernaum ministry.",
+      "evidence": "The Hebrew text, its historical north-Israel setting, and the textual correspondence with Matthew are checkable. Matthew's report of the ministry cannot be treated as independent proof of supernatural fulfillment simply because Matthew supplies the citation.",
+      "sourceStatus": "Earlier northern-restoration imagery and later application documented; supernatural forecast unverified",
+      "refs": [
+        [
+          "Isaiah 9:1–2 and Matthew 4:14–16",
+          "https://www.biblegateway.com/passage/?search=Isaiah+9%3A1-2%2CMatthew+4%3A14-16&version=NIV"
+        ],
+        [
+          "Hebrew Isaiah 9:2",
+          "https://biblehub.com/text/isaiah/9-2.htm"
+        ],
+        [
+          "Richard Beaton, Isaiah's Christ in Matthew's Gospel (2002), research program",
+          "https://assets.cambridge.org/97805218/18889/sample/9780521818889ws.pdf"
+        ]
+      ]
+    },
+    {
+      "id": "isaiah-53-4-healing",
+      "label": "He took our infirmities",
+      "earlier": "Isaiah 53:4",
+      "later": "Matthew 8:16–17",
+      "kind": "Healing formula quotation; lexical difference across Hebrew and Greek",
+      "original": "חֳלָיֵנוּ הוּא נָשָׂא וּמַכְאֹבֵינוּ סְבָלָם ('our sicknesses he bore, our pains he carried')",
+      "setting": "Isaiah's fourth servant poem depicts a sufferer bearing illness and pain, interpreted within the larger exile-restoration discourse. The ancient Greek version renders a related clause using 'sins', making the textual tradition crucial.",
+      "laterUse": "Matthew quotes Isaiah 53:4 after reporting Jesus' healings and exorcisms, drawing attention to physical sickness in the wording; this is a narrower use than later applications to Jesus' death.",
+      "relationship": "A particular use of Isaiah 53 distinct from the broader servant-identity case already in this audit (isaiah-53). Matthew's phrasing is closer to the Hebrew's physical-illness sense than the old Greek version's 'sins'. Rikk Watts (2015) connects it to Matthew's wider theme of ending Israel's afflictions.",
+      "evidence": "The verbal source and Hebrew–Septuagint difference are independently inspectable. Matthew's literary explanation for healings does not independently establish that the reported miracles occurred, nor prove an original forecast of Jesus.",
+      "sourceStatus": "Explicit citation and identifiable translation choice; specific theological significance debated",
+      "refs": [
+        [
+          "Isaiah 53:4 / Matthew 8:17 parallel",
+          "https://www.biblegateway.com/passage/?search=Matthew+8%3A17%2CIsaiah+53%3A4&version=NIV"
+        ],
+        [
+          "Hebrew Isaiah 53:4",
+          "https://biblehub.com/text/isaiah/53-4.htm"
+        ],
+        [
+          "Greek Septuagint comparison",
+          "https://intertextual.bible/text/isaiah-53.4/lxx-isaiah-53.4"
+        ],
+        [
+          "Rikk Watts (2015), Journal for the Study of the New Testament",
+          "https://doi.org/10.1177/0142064X15595940"
+        ]
+      ]
+    },
+    {
+      "id": "isaiah-42-servant-matthew-12",
+      "label": "The quiet servant bringing justice",
+      "earlier": "Isaiah 42:1–4",
+      "later": "Matthew 12:15–21",
+      "kind": "Servant-justice oracle applied to Jesus",
+      "original": "הֵן עַבְדִּי ... מִשְׁפָּט לַגּוֹיִם יוֹצִיא ('Here is my servant ... he will bring justice to the nations')",
+      "setting": "Isaiah's servant is characterized as chosen and Spirit-supported, bringing justice without destructive force; the servant's identity across Isaiah 40–55 is debated, and the text belongs to an exile/restoration horizon.",
+      "laterUse": "Matthew quotes a lengthy adapted version to interpret Jesus' healing and instruction, including his restraint and the prospect of justice or hope among the nations.",
+      "relationship": "Explicit later identification with Jesus. The Greek wording used in Matthew differs in places from both the standard Hebrew and the old Greek Isaiah text; it is an interpretive quotation rather than an exact unedited reproduction.",
+      "evidence": "The passage's servant/justice language exists earlier, and Matthew's theological application is documented. Richard Beaton (2000) argues that the servant's justice is integral to Matthew's compassionate portrayal of Jesus; the original identity and fulfillment standard are debatable.",
+      "sourceStatus": "Text-to-text use direct; earlier servant identity and fulfillment interpretation disputed",
+      "refs": [
+        [
+          "Hebrew Isaiah 42:1–4",
+          "https://www.biblegateway.com/passage/?search=Isaiah+42%3A1-4&version=NRSVUE"
+        ],
+        [
+          "Matthew 12:17–21 and Isaiah 42:1–4",
+          "https://www.biblegateway.com/passage/?search=Matthew+12%3A17-21%2CIsaiah+42%3A1-4&version=NIV"
+        ],
+        [
+          "Richard Beaton (2000), Matthew's use of Isaiah 42",
+          "https://doi.org/10.1177/0142064X0002207502"
+        ],
+        [
+          "Richard Beaton, Isaiah's Christ in Matthew's Gospel (2002)",
+          "https://assets.cambridge.org/97805218/18889/sample/9780521818889ws.pdf"
+        ]
+      ]
+    },
+    {
+      "id": "psalm-78-parables-matthew-13",
+      "label": "I will open my mouth in parables",
+      "earlier": "Psalm 78:1–8 (especially 78:2)",
+      "later": "Matthew 13:34–35",
+      "kind": "Historical teaching psalm described as fulfilled",
+      "original": "אֶפְתְּחָה בְמָשָׁל פִּי ('I will open my mouth with a parable')",
+      "setting": "Psalm 78, associated by its superscription with Asaph, introduces a poetic instruction that retells Israel's past and teaches coming generations. In its own context it describes the psalmist's mode of teaching rather than a named future person's preaching.",
+      "laterUse": "Matthew cites the line to explain Jesus' choice to teach in parables. Matthew's longer wording mentions what was hidden since the foundation of the world, whereas Hebrew Psalm 78:2 speaks about things 'from of old'.",
+      "relationship": "A later literary application of ancient wisdom and teaching language, not an unambiguous predictive oracle. Some Greek manuscripts name Isaiah as the 'prophet' in Matthew 13:35; most do not. The source remains Psalm 78:2.",
+      "evidence": "The older psalm and Matthew's citation are directly comparable; the choice of literary quotation does not independently prove historicity of every speech of Jesus. NET and NABRE textual notes document the rare Matthew 'Isaiah' variant.",
+      "sourceStatus": "Earlier retrospective instruction and later reuse established; minor NT textual variant noted",
+      "refs": [
+        [
+          "Psalm 78:2 / Matthew 13:35 parallel",
+          "https://www.biblegateway.com/passage/?search=Psalm+78%3A2%2CMatthew+13%3A35&version=NABRE"
+        ],
+        [
+          "Hebrew Psalm 78:2",
+          "https://biblehub.com/text/psalms/78-2.htm"
+        ],
+        [
+          "NET textual note Matthew 13:35",
+          "https://classic.net.bible.org/passage.php?passage=Mat+13%3A35"
+        ],
+        [
+          "Yale Bible Study on Matthew's parables",
+          "https://yalebiblestudy.org/courses/the-gospel-of-matthew/lessons/controversies-and-parables-study-guide/"
+        ]
+      ]
+    },
+    {
+      "id": "zechariah-11-silver-matthew-27",
+      "label": "Thirty silver pieces attributed to Jeremiah",
+      "earlier": "Zechariah 11:12–13 (and debated allusions to Jeremiah 18–19; 32)",
+      "later": "Matthew 26:14–16; 27:3–10",
+      "kind": "Composite attribution and redaction of a shepherd oracle",
+      "original": "שְׁלֹשִׁים כָּסֶף ('thirty [pieces of] silver', Zechariah 11:12); Matthew says 'through Jeremiah'",
+      "setting": "Zechariah 11 presents a symbolic shepherd drama about the rejection of a shepherd and the contemptuous thirty-silver payment. It mentions disposing of the money in the house of YHWH, but not the purchase of a potter's field.",
+      "laterUse": "Matthew's Judas narrative specifies thirty silver pieces, money thrown into the temple, and the purchase of a potter's field; Matthew 27:9 calls the quotation Jeremiah although its closest wording is Zechariah 11:12–13.",
+      "relationship": "The discrepancy is explicit. Some scholars posit composite imagery from Jeremiah 19 or 32; Maarten J. J. Menken (2002) argues Zechariah 11:13 is the main source, explains the altered wording as a revised Septuagint text read together with Jeremiah 32 (LXX 39):6–15, and attributes the quotation's limited influence on the surrounding narrative to Matthew's editing.",
+      "evidence": "The source attribution in Matthew is demonstrably different from the best matching earlier text. A correction based solely on Matthew's own claim that Judas acted this way would be circular; the earlier source independently exists, but the thirty-coin event is not independently verified by that correspondence.",
+      "sourceStatus": "Zechariah source and Jeremiah attribution verifiable; precise cause of misattribution debated",
+      "refs": [
+        [
+          "NRSVUE Zechariah 11:12–13 vs Matthew 27:9–10",
+          "https://www.biblegateway.com/passage/?search=Zechariah+11%3A12-13%3B+Matthew+27%3A9-10&version=NRSVUE"
+        ],
+        [
+          "Zechariah 11:12 Hebrew",
+          "https://biblehub.com/text/zechariah/11-12.htm"
+        ],
+        [
+          "Maarten J.J. Menken (2002), Biblica 83",
+          "https://www.bsw.org/biblica/vol-83-2002/the-old-testament-quotation-in-matthew-27-9-10-textual-form-and-context/238/article-p309.html"
+        ],
+        [
+          "Jeremiah 32:6–9 for comparison",
+          "https://www.biblegateway.com/passage/?search=Jeremiah+32%3A6-9&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "isaiah-61-luke-4",
+      "label": "Good news, liberation, and the omitted day of vengeance",
+      "earlier": "Isaiah 61:1–2; 58:6 (Greek textual combination)",
+      "later": "Luke 4:16–21",
+      "kind": "Fulfillment declaration combining Hebrew Bible passages through Greek wording",
+      "original": "רוּחַ אֲדֹנָי יְהוִה עָלָי (Spirit of the Lord YHWH is upon me); Luke draws on Greek Isaiah 61 and 58",
+      "setting": "Isaiah 61 addresses the restoration community with news of liberation, comfort, and reversal; 61:2 includes both a favorable year and a day of divine vengeance. Isaiah 58:6 speaks of release from oppression in a critique of unjust fasting.",
+      "laterUse": "Luke depicts Jesus reading an Isaianic scroll in Nazareth and declaring 'Today this scripture has been fulfilled'. Luke's Greek passage features sight for the blind from the Old Greek, adds a release line from Isaiah 58:6, and stops before the day-of-vengeance clause.",
+      "relationship": "Explicit fulfillment claim with a composite quotation, selection and omission. Timothy Michael Law (2013) identifies the Septuagint sources; scholars debate whether omitting vengeance signals Luke's editorial theological emphasis.",
+      "evidence": "The differences between Isaiah's Hebrew, Old Greek, and Luke's quotation are directly visible. The narrated synagogue encounter establishes Luke's literary depiction, not independently verified firsthand testimony about a historical speech.",
+      "sourceStatus": "Quote and editorial changes directly checkable; historical speech uncorroborated",
+      "refs": [
+        [
+          "Isaiah 61:1–2 in NRSVUE",
+          "https://www.biblegateway.com/passage/?search=Isaiah+61%3A1-2&version=NRSVUE"
+        ],
+        [
+          "Luke 4:18–21 in NRSVUE",
+          "https://www.biblegateway.com/passage/?search=Luke+4%3A18-21&version=NRSVUE"
+        ],
+        [
+          "Greek and Hebrew comparison (with Timothy Michael Law 2013)",
+          "https://intertextual.bible/text/lxx-isaiah-61.1/luke-4.18"
+        ],
+        [
+          "Peer-reviewed analysis, HTS Teologiese Studies (2018)",
+          "https://scielo.org.za/scielo.php?pid=S0259-94222018000100058&script=sci_arttext"
+        ]
+      ]
+    },
+    {
+      "id": "joel-2-acts-2",
+      "label": "Afterward becomes in the last days",
+      "earlier": "Joel 2:28–32 (Hebrew 3:1–5)",
+      "later": "Acts 2:16–21",
+      "kind": "Future Spirit oracle reread as Pentecost fulfillment",
+      "original": "וְהָיָה אַחֲרֵי־כֵן ('and it shall be afterward')",
+      "setting": "Joel anticipates restoration and God's Spirit poured upon people of differing ages and genders after the communal crisis described in the book; the vision also includes cosmic signs and judgment.",
+      "laterUse": "Acts' Peter says the Pentecost events are what Joel spoke about. Acts 2:17 introduces Joel's prophecy as occurring 'in the last days' rather than the Hebrew passage's simpler 'afterward'.",
+      "relationship": "Explicit prophetic identification and interpretive temporal framing. The addition 'in the last days' matters for how the narrator places Pentecost inside eschatological history.",
+      "evidence": "The textual wording and narrative use are independently checkable. Acts is a later report of the event being interpreted; it does not alone provide an independent verification of miraculous Spirit outpouring or the completion of cosmic signs.",
+      "sourceStatus": "Original/Acts time-language difference confirmed; supernatural fulfillment a faith claim",
+      "refs": [
+        [
+          "NRSVUE Joel 2:28 and Acts 2:17 compared",
+          "https://www.biblegateway.com/passage/?search=Joel+2%3A28%2CActs+2%3A17&version=NRSVUE"
+        ],
+        [
+          "Hebrew Joel 2:28",
+          "https://biblehub.com/text/joel/2-28.htm"
+        ],
+        [
+          "Acts 2:16–21 context",
+          "https://www.biblegateway.com/passage/?search=Acts+2%3A16-21&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "amos-9-acts-15",
+      "label": "Edom possessed or humankind seeking God?",
+      "earlier": "Amos 9:11–12",
+      "later": "Acts 15:15–19",
+      "kind": "Greek translation changes the actors in a restoration oracle",
+      "original": "לְמַעַן יִירְשׁוּ אֶת־שְׁאֵרִית אֱדוֹם (so they may possess the remnant of Edom)",
+      "setting": "The closing oracle of Amos envisions restoration of David's fallen structure and renewed relationships with Edom and the nations. Its exact dating, possible editorial growth, and whether it envisages conquest or broader inclusion are discussed in scholarship.",
+      "laterUse": "Acts presents James citing a Greek form in which 'the rest of humankind' seek the Lord, supporting the inclusion of Gentiles without requiring them to become Jews.",
+      "relationship": "The Septuagint has 'seek' and 'humankind' in place of Hebrew 'possess' and 'Edom'. These are major grammatical and semantic changes, often explained through similar Hebrew letters and alternate vocalization; however, the phrase 'all the nations who are called by my name' is shared, so inclusion does not depend solely on the new Greek subjects.",
+      "evidence": "Hebrew Amos, Old Greek, and Acts 15 can be compared. James D. Nogalski (2015) traces three stages of the text's interpretation. The Acts account itself is not independent proof the earlier author foresaw a specific first-century council.",
+      "sourceStatus": "Substantial source-language difference documented; exact translation-history mechanism debated",
+      "refs": [
+        [
+          "Amos 9:11–12 Hebrew/English",
+          "https://www.biblegateway.com/passage/?search=Amos+9%3A11-12&version=NRSVUE"
+        ],
+        [
+          "Acts 15:16–18 text",
+          "https://www.biblegateway.com/passage/?search=Acts+15%3A16-18&version=NRSVUE"
+        ],
+        [
+          "James D. Nogalski (2015), Three Faces of Hope",
+          "https://doi.org/10.1177/0034637315578828"
+        ],
+        [
+          "Septuagint/Hebrew details as secondary comparative source",
+          "https://historicalchristian.faith/doctrine/doctrines/nt-use-of-ot/arguments/amos-9-11-12.html"
+        ]
+      ]
+    },
+    {
+      "id": "zechariah-12-john-19",
+      "label": "Look on the one they pierced",
+      "earlier": "Zechariah 12:10–14",
+      "later": "John 19:34–37; Revelation 1:7",
+      "kind": "Piercing oracle and divergent Greek/Hebrew wording",
+      "original": "וְהִבִּיטוּ אֵלַי אֵת אֲשֶׁר־דָּקָרוּ ('they will look toward me whom they pierced' in the Masoretic Text)",
+      "setting": "In Zechariah 12, the house of David and inhabitants of Jerusalem are part of a future conflict, divine deliverance and communal mourning. The identity of the pierced figure and the relationship between first- and third-person phrasing are debated.",
+      "laterUse": "John quotes the oracle immediately after describing a soldier piercing Jesus' side; Revelation 1:7 echoes it when describing Jesus' appearance.",
+      "relationship": "The verb in John's quote is closer to Hebrew 'pierced' than the ancient Greek Zechariah's markedly different expression. John's Greek also frames the object in third person while the Masoretic text includes 'to me'. Whether John translated Hebrew directly or used an available Hebraizing Greek form is unproven.",
+      "evidence": "The verbal parallels and variants are checkable. Christian and Jewish readings identify the subject differently. An independently accepted execution by crucifixion does not establish that the original Zechariah oracle specifically foretold John's narrative detail.",
+      "sourceStatus": "Original and later wording documented; intended historical identity and textual route disputed",
+      "refs": [
+        [
+          "Hebrew Zechariah 12:10",
+          "https://biblehub.com/text/zechariah/12-10.htm"
+        ],
+        [
+          "John 19:37",
+          "https://biblehub.com/text/john/19-37.htm"
+        ],
+        [
+          "Adam Kubiś on Zechariah in John (2012)",
+          "https://intertextual.bible/text/zechariah-12.10/john-19.37"
+        ],
+        [
+          "Jewish interpretive perspective",
+          "https://jewsforjudaism.org/knowledge/articles/does-john-1937-misquote-zechariah-1210/"
+        ]
+      ]
+    },
+    {
+      "id": "jeremiah-31-hebrews-8",
+      "label": "A new covenant for Israel and Judah",
+      "earlier": "Jeremiah 31:31–34",
+      "later": "Hebrews 8:8–13",
+      "kind": "New covenant promise applied to later Christian religious community",
+      "original": "וְכָרַתִּי ... בְּרִית חֲדָשָׁה ('I will make ... a new covenant')",
+      "setting": "Jeremiah promises the houses of Israel and Judah a renewed covenant, in which divine teaching or Torah is internalized and sins are forgiven, as part of a restoration sequence after exile.",
+      "laterUse": "Hebrews quotes Jeremiah at length to argue that a new priestly or covenantal order has become available through Jesus; Hebrews 8:13 says the earlier order is becoming old and approaching disappearance.",
+      "relationship": "Explicit reuse and reinterpretation. Scholars disagree about how far Hebrews' language extends to replacing Judaism or Israel's covenant; Nicholas J. Moore (2024) argues the immediate argument centers on cultic aspects and warns against translating its Greek as a blanket denunciation of Judaism.",
+      "evidence": "The shared wording is observable. The earlier text specifically names Israel and Judah; it does not name Jesus. Religious conclusions about superseding Judaism depend on later interpretation, and there is no independent historical observation that can confirm a divine covenant transfer.",
+      "sourceStatus": "Quotation documented; theological and supersessionist readings disputed",
+      "refs": [
+        [
+          "Jeremiah 31:31–34 NRSVUE",
+          "https://www.biblegateway.com/passage/?search=Jeremiah+31%3A31-34&version=NRSVUE"
+        ],
+        [
+          "Hebrews 8:8–13 NRSVUE",
+          "https://www.biblegateway.com/passage/?search=Hebrews+8%3A8-13&version=NRSVUE"
+        ],
+        [
+          "Nicholas J. Moore (2024), Supersessionism and the Cult Attitude of Stephen and Hebrews",
+          "https://doi.org/10.1177/00211400241230995"
+        ],
+        [
+          "Ted Goshorn (2016), Emory thesis on non-supersessionist covenant readings",
+          "https://etd.library.emory.edu/concern/etds/s1784m67g?locale=en"
+        ]
+      ]
+    },
+    {
+      "id": "isaiah-6-matthew-13",
+      "label": "Hearing but not understanding",
+      "earlier": "Isaiah 6:9–10",
+      "later": "Matthew 13:13–15; Mark 4:12; Luke 8:10; John 12:39–40; Acts 28:26–27",
+      "kind": "Judgment-commission text reused to explain response to Jesus",
+      "original": "הַשְׁמֵן לֵב־הָעָם הַזֶּה (Hebrew Isaiah 6:10: make the heart of this people dull/fat); Greek: ἐπαχύνθη γὰρ ἡ καρδία (their heart has grown dull)",
+      "setting": "Isaiah's call narrative commissions him to address a people who will fail to understand, immediately before an oracle about destruction and a remnant. The Hebrew imperative can depict divine causation in hardening; the ancient Greek wording instead describes their hearts as having become dull and their own closing of eyes.",
+      "laterUse": "Matthew quotes the Greek form to interpret why some people do not understand Jesus' parables; Acts 28:26–27 also follows the Greek. John 12:40 instead uses active hardening language closer to the Hebrew agency. Mark 4:12 and Luke 8:10 employ shorter versions.",
+      "relationship": "A pre-existing commissioning/judgment passage is applied to later audiences. The original verses are not a named future prediction of first-century parable teaching; distinct biblical authors use different textual forms with meaningful changes in emphasis.",
+      "evidence": "The Hebrew and Greek versions and New Testament reuse can be compared directly. The International Critical Commentary notes Matthew's reliance on the Greek quotation and its relationship to Mark 4:12. Variants in divine/reader agency do not, by themselves, settle doctrines of predestination.",
+      "sourceStatus": "Direct biblical quotations verifiable; original referent distinct from later application",
+      "refs": [
+        [
+          "Isaiah 6:9–10 compared with Matthew 13:14–15",
+          "https://www.biblegateway.com/passage/?search=Isaiah+6%3A9-10%2CMatthew+13%3A14-15&version=NIV"
+        ],
+        [
+          "NET Bible notes on Matthew 13:14–15",
+          "https://classic.net.bible.org/passage.php/passage.php?passage=Mat+13%3A14%2C15"
+        ],
+        [
+          "International Critical Commentary on Matthew 13",
+          "https://biblehub.com/commentaries/icc/matthew/13.htm"
+        ],
+        [
+          "John 12:40 Greek text",
+          "https://biblehub.com/text/john/12-40.htm"
+        ]
+      ]
+    },
+    {
+      "id": "zechariah-13-matthew-26",
+      "label": "Strike the shepherd, and the sheep will scatter",
+      "earlier": "Zechariah 13:7–9",
+      "later": "Mark 14:27; Matthew 26:31 and 26:56; John 16:32 (allusion)",
+      "kind": "Shepherd oracle applied to Jesus' arrest and disciples' flight",
+      "original": "הַךְ אֶת־הָרֹעֶה וּתְפוּצֶיןָ הַצֹּאן (Hebrew imperative: strike the shepherd and let the sheep be scattered)",
+      "setting": "Zechariah 13 describes purification and judgment for the people. God's sword is called against a shepherd called God's associate; the people are then divided and tested. The shepherd's original identity and whether the figure is positive or negative are disputed.",
+      "laterUse": "In Mark 14:27 and Matthew 26:31 Jesus quotes the line to describe the disciples' desertion. Both Mark and Matthew give the line as God's first-person 'I will strike the shepherd'; Matthew follows Mark and adds 'of the flock.' Matthew 26:56 then narrates that the disciples fled.",
+      "relationship": "A late prophetic shepherd oracle is explicitly applied to Jesus and the disciples, with an important shift from the Hebrew imperative to the first-person future 'I will strike', already present in Mark. Matthew's form follows Mark's. Menken (2011) analyzes the earliest Greek and Hebrew forms and the sequence of Christian reception.",
+      "evidence": "The textual forms, including imperatives and future speech, are directly available. Matthew's narration of flight is not independent verification that the ancient oracle was a prediction about Jesus or that events occurred exactly as portrayed.",
+      "sourceStatus": "Quotational reuse explicit; original shepherd identity and historical fulfillment disputed",
+      "refs": [
+        [
+          "Hebrew Zechariah 13:7",
+          "https://biblehub.com/text/zechariah/13-7.htm"
+        ],
+        [
+          "Matthew 26:31 and 26:56",
+          "https://www.biblegateway.com/passage/?search=Matthew+26%3A31%2C56&version=NRSVUE"
+        ],
+        [
+          "Maarten J. J. Menken (2011), Biblica 92, pp. 39–59",
+          "https://www.bsw.org/biblica/vol-92-2011/striking-the-shepherd-early-christian-versions-and-interpretations-of-zechariah-13-7/461/article-p58.html"
+        ],
+        [
+          "The Use and Reception of the Prophets in the New Testament (2022)",
+          "https://www.mdpi.com/2077-1444/13/4/304"
+        ]
+      ]
+    },
+    {
+      "id": "matthew-26-scriptures-unspecified",
+      "label": "All this to fulfill the scriptures of the prophets",
+      "earlier": "No single earlier scripture identified in Matthew 26:54, 56",
+      "later": "Matthew 26:54, 56",
+      "kind": "Generic multiple-scripture fulfillment assertion",
+      "original": "πληρωθῶσιν αἱ γραφαί (Matthew 26:54: that the Scriptures might be fulfilled); αἱ γραφαὶ τῶν προφητῶν (26:56: writings of the prophets)",
+      "setting": "Unlike a direct quotation, these sentences do not provide a new verse-by-verse prophetic original. Wider passion themes are often connected to Isaiah 53, Psalm 22, and Zechariah 13:7; Matthew 26:31 has already made the latter connection explicit.",
+      "laterUse": "Matthew has Jesus present his arrest as necessary for fulfillment in 26:54; a narrative remark in 26:56 also attributes events to the prophets' writings. The scene then says the disciples fled.",
+      "relationship": "General fulfillment rationale attached to a constructed literary sequence, with a specific nearby source in Zechariah 13:7 but without a separately identifiable quotation in 26:54/56. Do not invent a single Hebrew original for the plural phrase.",
+      "evidence": "The Greek reference to scriptures is explicit. Proposed antecedents are interpretive, and the narrator's fulfillment label does not independently confirm arrest details. Link to the separate Zechariah 13:7 record for the specific shepherd citation.",
+      "sourceStatus": "Generic scriptural claim documented; exact set of earlier passages unspecified",
+      "refs": [
+        [
+          "Matthew 26:54–56 in parallel translations",
+          "https://www.biblegateway.com/passage/?search=Matthew+26%3A54-56&version=ESV%3BKJV%3BNASB%3BNKJV"
+        ],
+        [
+          "Matthew 26:31 and Zechariah 13:7 parallel",
+          "https://intertextual.bible/text/zechariah-13.7/matthew-26.31"
+        ],
+        [
+          "ESV cross references for unspecified fulfillment claims",
+          "https://www.esv.org/Mt26.54%3BMt26.56%3BMk9.12%3BLk18.31%3BLk24.25-27%3BLk24.46%3BAc17.2-3%3BAc26.22-23%3B1Co15.3%3B1P1.10-11/"
+        ]
+      ]
+    },
+    {
+      "id": "psalm-41-john-13",
+      "label": "A trusted table companion turns against the speaker",
+      "earlier": "Psalm 41:9 (Hebrew 41:10)",
+      "later": "John 13:18–30",
+      "kind": "First-person lament reapplied to Judas's betrayal",
+      "original": "גַּם־אִישׁ שְׁלוֹמִי ... אוֹכֵל לַחְמִי ... הִגְדִּיל עָלַי עָקֵב ('even the man of my peace ... who eats my bread ... has raised a heel against me')",
+      "setting": "In Psalm 41 the speaker laments sickness, enemies and a trusted companion's betrayal, then asks for recovery and vindication. The psalm names no future first-century disciple and contains no explicit chronological prediction.",
+      "laterUse": "John places a quotation of the shared bread and hostile heel in Jesus' words to explain a coming betrayal at the last meal, with Judas identified by the narrative. John omits the psalm's opening description of the betrayer as 'my close friend (literally, man of my peace) in whom I trusted'.",
+      "relationship": "A preexisting experience of betrayal is recast as an event in Jesus' life; exact textual echo is clear, but the original genre is lament and prayer rather than a dated messianic forecast.",
+      "evidence": "We can verify the Hebrew idiom, John’s quotation, and the contextual shift. The reuse is evidence of literary-theological interpretation; it is not an independently dated record that the historical Judas fulfilled a named advance prediction.",
+      "sourceStatus": "Direct quotation verified; original poem about betrayal; advance-prediction claim unsupported",
+      "refs": [
+        [
+          "Hebrew Psalm 41:9",
+          "https://biblehub.com/text/psalms/41-9.htm"
+        ],
+        [
+          "Greek John 13:18",
+          "https://biblehub.com/text/john/13-18.htm"
+        ],
+        [
+          "Primary comparison with Craig S. Keener commentary",
+          "https://intertextual.bible/text/psalm-41.9/john-13.18"
+        ],
+        [
+          "Psalm 41:9 and John 13:18 translations",
+          "https://www.biblegateway.com/passage/?search=Psalm+41%3A9%3BJohn+13%3A18&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "psalm-16-acts-2",
+      "label": "You will not abandon me to Sheol or decay",
+      "earlier": "Psalm 16:8–11",
+      "later": "Acts 2:25–31 (also Acts 13:35–37)",
+      "kind": "Hebrew Sheol/pit language read as a resurrection proof via Greek translation",
+      "original": "לֹא־תַעֲזֹב נַפְשִׁי לִשְׁאוֹל ... לִרְאוֹת שָׁחַת ('you will not abandon my life to Sheol ... to see the pit/decay'); Greek διαφθορά ('decay, corruption')",
+      "setting": "In Psalm 16, a worshipper expresses confidence in divine care and rescue from danger or death. The Hebrew שַׁחַת has debated senses, frequently 'pit' in parallel with Sheol; the Greek translators render 'corruption/decay'.",
+      "laterUse": "Acts depicts Peter quoting the Greek Psalm and arguing that David's body decayed while Jesus was resurrected, so the psalm must have concerned the Messiah. Acts 13 uses the same contrast.",
+      "relationship": "An earlier first-person prayer becomes a proof text for resurrection through Acts' interpretation and the Greek Psalm. The semantic difference between pit and decay is significant, while the Sheol line still invites different resurrection readings.",
+      "evidence": "The source-language difference and argument in Acts are directly documented. Historical knowledge of David's death does not establish the resurrection of Jesus, and the Psalm's original speaker does not explicitly name a future messiah.",
+      "sourceStatus": "Greek wording materially informs Acts' argument; supernatural conclusion unverified independently",
+      "refs": [
+        [
+          "Hebrew Psalm 16:10",
+          "https://biblehub.com/text/psalms/16-10.htm"
+        ],
+        [
+          "Greek Acts 2:27",
+          "https://biblehub.com/text/acts/2-27.htm"
+        ],
+        [
+          "The Use of Psalm 16:8–11 in Acts 2:25–28 (Bible.org study)",
+          "https://bible.org/article/use-psalm-168-11-acts-225-28"
+        ],
+        [
+          "Acts 2:25–31 / Psalm 16:8–11 NRSVue",
+          "https://www.biblegateway.com/passage/?search=Acts+2%3A25-31%3BPsalm+16%3A8-11&version=NRSVUE"
+        ],
+        [
+          "Brown–Driver–Briggs, Hebrew shachat (pit)",
+          "https://biblehub.com/hebrew/7845.htm"
+        ]
+      ]
+    },
+    {
+      "id": "deuteronomy-18-acts-3",
+      "label": "The prophet like Moses and the changed punishment",
+      "earlier": "Deuteronomy 18:15–22 (possible combined wording from Leviticus 23:29 or Numbers 15:30–31)",
+      "later": "Acts 3:22–23",
+      "kind": "Prophetic succession promise applied to Jesus through a composite quotation",
+      "original": "נָבִיא מִקִּרְבְּךָ מֵאַחֶיךָ כָּמֹנִי ('a prophet from among you, from your kin, like me'); Acts adds ἐξολεθρευθήσεται ἐκ τοῦ λαοῦ ('will be rooted out from the people')",
+      "setting": "Deuteronomy 18 prescribes how Israel should receive legitimate prophets after Moses and warns against divination and false prophetic claims. Scholarly debate concerns whether its 'prophet like Moses' signals continuing prophetic succession, one final figure, or later messianic reception.",
+      "laterUse": "In Acts 3 Peter identifies Jesus with the Mosaic prophet and warns that anyone rejecting him will be cut off from the people, a stronger or different penalty than Deuteronomy 18:19's wording.",
+      "relationship": "An explicit later identification with Jesus plus a composite citation. Many reference editions trace the 'cut off' wording to Leviticus 23:29; Eric J. Brewer (2024/2025) argues Numbers 15:30–31 provides a thematically closer source. The composite source remains debated.",
+      "evidence": "The difference between Hebrew Deuteronomy and Acts and the added sanction are directly observable. The Acts quotation establishes what its author believed about Jesus; it does not independently confirm that Deuteronomy's author intended Jesus.",
+      "sourceStatus": "Textual shift and Christian application verified; composite source and original intent debated",
+      "refs": [
+        [
+          "Hebrew Deuteronomy 18:15",
+          "https://biblehub.com/text/deuteronomy/18-15.htm"
+        ],
+        [
+          "Greek Acts 3:22–23",
+          "https://www.biblegateway.com/passage/?search=Acts+3%3A22-23&version=SBLGNT"
+        ],
+        [
+          "Stephen L. Cook, Oxford Handbook of Deuteronomy (2021)",
+          "https://academic.oup.com/edited-volume/34717/chapter-abstract/296452274"
+        ],
+        [
+          "Christoph W. Stenschke, 'The prophet like Moses' (2021)",
+          "https://verbumetecclesia.org.za/index.php/ve/article/view/1962/0"
+        ],
+        [
+          "Eric J. Brewer, 'The Prophet like Moses and the Word of the Lord' (NTS 2024; posted 2025)",
+          "https://doi.org/10.1017/S0028688524000134"
+        ]
+      ]
+    },
+    {
+      "id": "unbroken-bones-john-19",
+      "label": "The Passover bone rule applied to Jesus",
+      "earlier": "Exodus 12:46; Numbers 9:12; compare Psalm 34:20",
+      "later": "John 19:33–36",
+      "kind": "Ritual instruction and righteous-person psalm reframed as a fulfillment",
+      "original": "וְעֶצֶם לֹא תִשְׁבְּרוּ־בוֹ ('you shall not break a bone of it', Exodus 12:46); John: ὀστοῦν οὐ συντριβήσεται αὐτοῦ ('a bone of his will not be broken')",
+      "setting": "Exodus and Numbers prescribe handling the Passover sacrifice; their words address a recurring ritual, not the expected manner of one named future person's death. Psalm 34:20 portrays God's protection of a righteous person.",
+      "laterUse": "John says Jesus' legs were not broken, then calls this a fulfillment of Scripture, invoking Passover-lamb symbolism already important in the Gospel. Some scholars also see Psalm 34:20 in the passive syntax.",
+      "relationship": "A command about an animal sacrifice becomes a claim about the significance of Jesus' death. The active Hebrew instruction 'you shall not break' changes to the passive Greek description 'will not be broken'; source dependence can include Exodus/Numbers and the Psalm.",
+      "evidence": "John's words and earlier ritual laws can be compared. The NET Bible's note lists multiple plausible textual sources. John's account itself does not independently verify the soldiers' actions or turn the older law into an explicit historical forecast.",
+      "sourceStatus": "Ritual-to-fulfillment reuse documented; precise literary source composite/disputed",
+      "refs": [
+        [
+          "Hebrew Exodus 12:46",
+          "https://biblehub.com/text/exodus/12-46.htm"
+        ],
+        [
+          "Numbers 9:12 NRSVue",
+          "https://www.biblegateway.com/passage/?search=Numbers+9%3A12&version=NRSVUE"
+        ],
+        [
+          "Psalm 34:20 NRSVue",
+          "https://www.biblegateway.com/passage/?search=Psalm+34%3A20&version=NRSVUE"
+        ],
+        [
+          "Greek John 19:36",
+          "https://biblehub.com/text/john/19-36.htm"
+        ],
+        [
+          "NET notes, John 19:36–37",
+          "https://classic.net.bible.org/passage.php?passage=Joh+19%3A36%2C37"
+        ],
+        [
+          "United Bible Societies Handbook, John 19:36",
+          "https://tips.translation.bible/tip_verse/john-1936/"
+        ]
+      ]
+    },
+    {
+      "id": "psalm-2-acts-13",
+      "label": "Today I have begotten you",
+      "earlier": "Psalm 2:6–7",
+      "later": "Acts 13:32–34 (compare Hebrews 1:5)",
+      "kind": "Royal enthronement language applied to Jesus' resurrection/exaltation",
+      "original": "בְּנִי אַתָּה אֲנִי הַיּוֹם יְלִדְתִּיךָ ('you are my son; today I have begotten you')",
+      "setting": "Psalm 2 portrays a ruler installed on Zion and opposition from other kings. 'Son' and 'begotten today' evoke royal installation and divinely authorized kingship in a poetic setting, not an anatomical account of divine paternity.",
+      "laterUse": "Acts 13 presents the Psalm as good news fulfilled in the raising of Jesus, and uses a distinct Psalm 16 quotation shortly afterward for the argument that his body did not decay. Scholars debate whether the 'raising' in verse 33 refers specifically to resurrection or to Jesus being raised up and installed in God's plan.",
+      "relationship": "An earlier royal formula is reread christologically, especially with resurrection/exaltation in the adjacent verses. This differs from a literal prediction of a future biological birth, and New Testament uses do not all depend on an identical interpretation.",
+      "evidence": "The earlier poem and Acts quotation are verifiable. Modern scholarship links the early Christian reading to resurrection and heavenly enthronement motifs, but the older verse itself does not name Jesus or independently establish that he rose from the dead.",
+      "sourceStatus": "Royal formula and later reuse verified; precise Acts 13:33 referent disputed",
+      "refs": [
+        [
+          "Hebrew Psalm 2:7",
+          "https://biblehub.com/text/psalms/2-7.htm"
+        ],
+        [
+          "Acts 13:32–35 NRSVue",
+          "https://www.biblegateway.com/passage/?search=Acts+13%3A32-35&version=NRSVUE"
+        ],
+        [
+          "Lee Hyung-il (2012), role of Psalm 2:6 in Acts 13:33",
+          "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001679202"
+        ],
+        [
+          "Hebrews 1:5 NRSVue",
+          "https://www.biblegateway.com/passage/?search=Hebrews+1%3A5&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "isaiah-53-1-john-12",
+      "label": "Who believed the report?",
+      "earlier": "Isaiah 53:1 (within Isaiah 52:13–53:12)",
+      "later": "John 12:37–38",
+      "kind": "Servant poem lament used to explain unbelief",
+      "original": "מִי הֶאֱמִין לִשְׁמֻעָתֵנוּ וּזְרוֹעַ יְהוָה עַל־מִי נִגְלָתָהּ (Who believed our message, and to whom was the arm of YHWH revealed?)",
+      "setting": "Isaiah 53:1 introduces the reaction of a speaking group to the suffering servant. The poem concerns suffering, reversal and recognition within the exile/restoration corpus, not an explicitly named first-century audience refusing Jesus.",
+      "laterUse": "John 12:37–38 reports disbelief despite Jesus' many signs, then quotes Isaiah 53:1 and calls that disbelief fulfillment of Isaiah's word.",
+      "relationship": "A rhetorical question about recognition in the servant poem is applied to Jesus' reception. This is a distinct quotation of Isaiah 53 from Matthew 8:17 and Acts 8:32–35, even though their source text belongs to the same poem.",
+      "evidence": "The correspondence and Isaiah's location within the servant poem are documented. John reports signs and people's reaction; quoting Isaiah inside the same Gospel does not independently corroborate those events or prove that Isaiah was predicting John 12.",
+      "sourceStatus": "Explicit use and earlier servant context confirmed; independent verification of signs absent",
+      "refs": [
+        [
+          "Hebrew Isaiah 53:1",
+          "https://biblehub.com/text/isaiah/53-1.htm"
+        ],
+        [
+          "Greek John 12:38",
+          "https://biblehub.com/text/john/12-38.htm"
+        ],
+        [
+          "NET notes on John 12:38–41",
+          "https://classic.net.bible.org/passage.php?passage=joh+12%3A38-41"
+        ],
+        [
+          "Yale Bible Study, Isaiah 52–53",
+          "https://yalebiblestudy.org/courses/second-isaiah/lessons/arm-of-god-study-guide/"
+        ]
+      ]
+    },
+    {
+      "id": "isaiah-6-john-12",
+      "label": "Isaiah saw whose glory?",
+      "earlier": "Isaiah 6:1–13, especially 6:9–10",
+      "later": "John 12:39–41",
+      "kind": "Commission narrative reused with changed emphasis on divine hardening and glory",
+      "original": "הַשְׁמֵן לֵב־הָעָם הַזֶּה ... וְעֵינָיו הָשַׁע (Hebrew commands to make this people's heart dull and shut its eyes); John: τετύφλωκεν αὐτῶν τοὺς ὀφθαλμοὺς ('he has blinded their eyes')",
+      "setting": "In Isaiah 6 the prophet sees YHWH's throne and glory, receives a commission and is told the people will resist understanding; destruction and a remnant follow. The older Greek version reshapes the agency of dullness, and biblical NT authors use different forms.",
+      "laterUse": "John 12:39–40 quotes active blinding and hardening to interpret unbelief, and 12:41 says Isaiah spoke because he saw 'his' glory—linked in John to Jesus, whereas Isaiah's immediate scene names YHWH.",
+      "relationship": "A pre-existing prophetic calling and judgment passage is interpreted christologically. John's harder verb agency differs from Matthew's earlier quotation of the Greek form (Matt 13:14–15), and John equates or closely identifies Jesus' glory with the glory Isaiah witnessed.",
+      "evidence": "The source-text differences and John's theological claim are direct textual observations. They do not independently establish that Isaiah saw Jesus, nor settle difficult ethical questions about responsibility if God hardens people.",
+      "sourceStatus": "Original referent and Johannine christological rereading documented; mechanism and ethics debated",
+      "refs": [
+        [
+          "Hebrew Isaiah 6:10",
+          "https://biblehub.com/text/isaiah/6-10.htm"
+        ],
+        [
+          "Greek John 12:40–41",
+          "https://www.biblegateway.com/passage/?search=John+12%3A39-41&version=SBLGNT"
+        ],
+        [
+          "NET notes on Isaiah's glory and blinding in John",
+          "https://classic.net.bible.org/passage.php?passage=joh+12%3A38-41"
+        ],
+        [
+          "Matthew 13:14–15 contrast",
+          "https://www.biblegateway.com/passage/?search=Matthew+13%3A14-15&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "hosea-romans-9-gentiles",
+      "label": "Israel's restoration applied to Gentiles",
+      "earlier": "Hosea 2:23 and 1:10 (Hebrew 2:25 and 2:1)",
+      "later": "Romans 9:24–26",
+      "kind": "Restoration promise reassigned or extended through Pauline interpretation",
+      "original": "וְאָמַרְתִּי לְלֹא־עַמִּי עַמִּי־אַתָּה (I will say to Not-my-people, You are my people); names Lo-Ammi and Lo-Ruhamah",
+      "setting": "Hosea's symbolic child names and later reversal address the condemned northern kingdom of Israel. Restoration imagery assures Israel that judgment will not have the final word, in the context of Israelite covenant history.",
+      "laterUse": "Romans 9:24 explicitly discusses those called 'not only from the Jews but also from the Gentiles', then cites Hosea 2:23 and 1:10 as support for God's extending mercy.",
+      "relationship": "Paul applies an earlier oracle referring to Israel to a new group, Gentile believers. Richard B. Hays (1989) calls the move revisionary; some Christian scholars argue Hosea's wider Abrahamic promises already imply inclusion of the nations.",
+      "evidence": "The original audience and Paul's expanded audience are observable in the wording. Paul's citation shows his interpretive argument, not that Hosea's eighth-century BCE author explicitly predicted a future Pauline Gentile mission.",
+      "sourceStatus": "Shift from Israel to Gentile inclusion documented; hermeneutical warrant debated",
+      "refs": [
+        [
+          "Hebrew Hosea 2:23",
+          "https://biblehub.com/text/hosea/2-23.htm"
+        ],
+        [
+          "Romans 9:24–26",
+          "https://www.biblegateway.com/passage/?search=Romans+9%3A24-26&version=NRSVUE"
+        ],
+        [
+          "Richard B. Hays, Echoes of Scripture in the Letters of Paul (1989), excerpt",
+          "https://intertextual.bible/text/hosea-2.23/romans-9.25"
+        ],
+        [
+          "Study of the Hosea to Gentile interpretation (2017)",
+          "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002267609"
+        ]
+      ]
+    },
+    {
+      "id": "isaiah-59-romans-11-zion",
+      "label": "Does the deliverer come to, for, or from Zion?",
+      "earlier": "Isaiah 59:20–21; Isaiah 27:9",
+      "later": "Romans 11:25–27",
+      "kind": "Composite oracle with a changed geographical preposition",
+      "original": "Hebrew Isaiah 59:20 לְצִיּוֹן ('to Zion'); old Greek ἕνεκεν Σιών ('for the sake of Zion'); Romans 11:26 ἐκ Σιών ('from Zion')",
+      "setting": "Isaiah 59 addresses Israel's wrongdoing and promises a redeemer coming to Zion and a covenantal transformation; Isaiah 27:9 includes removal of Jacob's guilt. Their original historical horizons and editorial relationships require separate study.",
+      "laterUse": "Romans 11:26–27 cites a composite form to describe the mysterious salvation of 'all Israel' as related to Gentile inclusion; it writes that the deliverer comes 'from Zion'.",
+      "relationship": "Paul's ἐκ is absent from the received Hebrew/Old Greek wording. J. R. Daniel Kirk (2010) argues that Paul intentionally alters the salvation-historical direction of Isaiah, while Kyoung Shik Kim (2014) sees a deliberate interpretation grounded in Isaiah 59–65. Existence of an unknown Greek Vorlage remains an alternative discussed in the literature, not a demonstrated fact.",
+      "evidence": "The three distinct prepositions and the composite quotation are textually verifiable; their theological significance is debated. This does not establish fulfillment of a miraculous deliverance or clarify, on its own, the meaning of 'all Israel'.",
+      "sourceStatus": "Textual directional shift certain in surviving witnesses; motive and fulfillment disputed",
+      "refs": [
+        [
+          "Hebrew Isaiah 59:20",
+          "https://biblehub.com/text/isaiah/59-20.htm"
+        ],
+        [
+          "Greek Romans 11:26",
+          "https://biblehub.com/text/romans/11-26.htm"
+        ],
+        [
+          "J. R. Daniel Kirk, JSNT 33 (2010)",
+          "https://doi.org/10.1177/0142064X10376003"
+        ],
+        [
+          "Kyoung Shik Kim, Romans 11:26–27 Ek Sion (2014)",
+          "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001883050"
+        ],
+        [
+          "Isaiah 27:9",
+          "https://www.biblegateway.com/passage/?search=Isaiah+27%3A9&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "hebrews-1-5-royal-son",
+      "label": "The adopted royal son and the angel comparison",
+      "earlier": "Psalm 2:7; 2 Samuel 7:12–16",
+      "later": "Hebrews 1:5",
+      "kind": "Two Davidic royal proclamations applied to an exalted Son",
+      "original": "Psalm 2:7 בְּנִי אַתָּה ('You are my son'); 2 Samuel 7:14 אֲנִי אֶהְיֶה־לּוֹ לְאָב וְהוּא יִהְיֶה־לִּי לְבֵן ('I will be father to him and he shall be son to me')",
+      "setting": "Psalm 2 voices God's authorization of a Zion king; 2 Samuel 7 promises continuity for David's house through his offspring and also explicitly envisages disciplining the heir if he does wrong. The paternal language signals covenantal kingship, not an explicit biological theory of divine reproduction.",
+      "laterUse": "Hebrews quotes both passages to distinguish Jesus, the divine Son, from angels and frame his superiority and enthronement. The quoted clause in 2 Samuel stops before the discipline warning, which belongs to the original longer oracle.",
+      "relationship": "The later writer brings two distinct earlier royal formulas together to characterize Jesus. Scholarly questions include adoption/enthronement imagery, christological identity, priestly role and how the Davidic discipline clause is handled in reception.",
+      "evidence": "The citations and omitted surrounding clause can be checked directly. They demonstrate an interpretive claim about Jesus' sonship and status, but neither text's original royal audience identified him by name or independently establishes exaltation in heaven.",
+      "sourceStatus": "Pairing and older royal context certain; theological entailments subject to interpretation",
+      "refs": [
+        [
+          "Hebrew Psalm 2:7",
+          "https://biblehub.com/text/psalms/2-7.htm"
+        ],
+        [
+          "2 Samuel 7:12–16 NRSVUE",
+          "https://www.biblegateway.com/passage/?search=2+Samuel+7%3A12-16&version=NRSVUE"
+        ],
+        [
+          "Hebrews 1:5 NRSVUE",
+          "https://www.biblegateway.com/passage/?search=Hebrews+1%3A5&version=NRSVUE"
+        ],
+        [
+          "Sung Kook Jung (2014), Uses of Psalm 2 and 2 Samuel 7 in Hebrews 1:5",
+          "https://kiss.kstudy.com/Detail/Ar?key=3359440"
+        ],
+        [
+          "Gert J. Steyn (2003), Psalm 2 in Hebrews",
+          "https://journals.co.za/doi/10.10520/EJC83141"
+        ]
+      ]
+    },
+    {
+      "id": "cyrus-isaiah-44-45",
+      "label": "Cyrus named as God's shepherd and anointed",
+      "earlier": "Isaiah 44:24–45:7 (especially 44:28; 45:1)",
+      "later": "Cyrus II's capture of Babylon in 539 BCE and Persian-era restoration",
+      "kind": "Named royal oracle; dating of Isaiah 40–55 is decisive",
+      "original": "לְכוֹרֶשׁ רֹעִי ('of Cyrus: my shepherd'); לִמְשִׁיחוֹ לְכוֹרֶשׁ ('to his anointed, to Cyrus')",
+      "setting": "Isaiah 40–55 addresses an audience for whom exile and Babylonian domination are live concerns and Cyrus is an agent of deliverance. Most historical-critical scholars date this material to the mid-sixth century BCE, distinct from Isaiah ben Amoz's eighth-century setting; traditional single-author interpreters hold that Cyrus was predicted by name much earlier. The text's composition history determines the advance-prediction question.",
+      "laterUse": "Cyrus conquered Babylon in 539 BCE and Persia subsequently sponsored restoration in its territories. Isaiah applies a divine commission to Cyrus, even using 'anointed', a title not reserved here for a Judean king.",
+      "relationship": "Named ruler and attested conquest, with contested composition chronology. The Cyrus Cylinder describes his conquest and temple-restoration ideology in Babylonia; it does not name Judeans or verify Isaiah's particular Jerusalem/temple claims.",
+      "evidence": "The British Museum and Getty independently date Cyrus's capture of Babylon to 539 BCE. These sources corroborate his historical role, not that an eighth-century manuscript contained his name or that the Judean prophecy was fulfilled by supernatural foreknowledge. The critical exilic dating is itself an evidence-based historical interpretation and should not be asserted as mathematical certainty.",
+      "sourceStatus": "Cyrus and conquest confirmed; how long before the event this oracle was composed is debated",
+      "refs": [
+        [
+          "Hebrew Isaiah 44:28",
+          "https://biblehub.com/text/isaiah/44-28.htm"
+        ],
+        [
+          "Hebrew Isaiah 45:1",
+          "https://biblehub.com/text/isaiah/45-1.htm"
+        ],
+        [
+          "British Museum: original Cyrus Cylinder",
+          "https://www.britishmuseum.org/collection/object/W_1880-0617-1941"
+        ],
+        [
+          "Getty: Cyrus Cylinder and ancient Persia",
+          "https://www.getty.edu/art/exhibitions/cyrus_cylinder/"
+        ],
+        [
+          "Bible Archaeology Review on Cyrus Cylinder and Isaiah",
+          "https://www.biblicalarchaeology.org/daily/ancient-cultures/the-cyrus-cylinder/"
+        ]
+      ]
+    },
+    {
+      "id": "jeremiah-25-seventy-years",
+      "label": "Seventy years of service to Babylon",
+      "earlier": "Jeremiah 25:8–14 (especially 25:11–12)",
+      "later": "Neo-Babylonian regional rule and Babylon's capture by Cyrus in 539 BCE; 2 Chronicles 36:20–21",
+      "kind": "Time-bounded imperial judgment oracle",
+      "original": "שִׁבְעִים שָׁנָה ('seventy years') of service to the king of Babylon (Jeremiah 25:11)",
+      "setting": "Jeremiah 25 presents Babylon as the instrument of judgment over Judah and surrounding nations, then predicts a reversal after seventy years. This is about imperial domination and desolation, not necessarily each exile's personal period of captivity; the book has multiple textual/editorial layers.",
+      "laterUse": "2 Chronicles 36:20–21 and Daniel 9:2 later interpret the seventy-year tradition with differing emphases on the land, Babylon, and Jerusalem's desolation.",
+      "relationship": "A quantified oracle applied to historical chronology and adapted by later biblical interpreters. Exact start/end choices (e.g., Babylon's ascendancy c. 605 BCE to 539 BCE) do not yield precisely seventy solar years. Other pairings such as 586–516 BCE concern temple destruction/rebuilding and a different subject.",
+      "evidence": "Babylonian hegemony and the 539 BCE Persian capture are externally supported. The length of the seventy years is contested: Ross Winkle (1987) develops a relatively literal chronology, while historical/other commentaries treat the number as rounded or schematic. Do not claim that all chronological interpretations are equally secure.",
+      "sourceStatus": "Imperial history documented; the literal seventy-year calculation is contested",
+      "refs": [
+        [
+          "Hebrew Jeremiah 25:11–12",
+          "https://biblehub.com/text/jeremiah/25-11.htm"
+        ],
+        [
+          "Ross E. Winkle (1987), Jeremiah's Seventy Years Part II",
+          "https://digitalcommons.andrews.edu/auss/vol25/iss3/3/"
+        ],
+        [
+          "Matthew H. Patton, Jeremiah commentary and seventy-year excursus",
+          "https://www.thegospelcoalition.org/commentary/jeremiah/"
+        ],
+        [
+          "Jeremiah 25:12 textual/editorial commentary",
+          "https://biblehub.com/commentaries/jeremiah/25-12.htm"
+        ],
+        [
+          "2 Chronicles 36:20–21",
+          "https://www.biblegateway.com/passage/?search=2+Chronicles+36%3A20-21&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "jeremiah-29-seventy-years",
+      "label": "Seventy years *for* Babylon and a promised return",
+      "earlier": "Jeremiah 29:1–14 (especially 29:10)",
+      "later": "Return and restoration traditions in Ezra 1 and 2 Chronicles 36",
+      "kind": "Exilic letter; disputed preposition and calendar scope",
+      "original": "לְבָבֶל שִׁבְעִים שָׁנָה ('seventy years for Babylon' in a natural Hebrew rendering; alternatives say 'at/in Babylon')",
+      "setting": "The narrative presents a letter addressed to Judeans already deported to Babylonia; it counsels settlement and community life and promises divine attention after seventy years for Babylon. This is a different communicative situation from the oracle in Jeremiah 25.",
+      "laterUse": "Ezra and Chronicles present a return after Persia's conquest and incorporate the fulfillment of Jeremiah's words; Daniel 9 reflects another interpretation of the seventy years in relation to Jerusalem.",
+      "relationship": "Related to but separately evaluated from Jeremiah 25: 'for Babylon' can concern the duration of Babylonian supremacy, rather than mandating seventy years of imprisonment for every deportee. The dating of the letter and its editorial transmission remain disputed.",
+      "evidence": "Deportations, Persian conquest, and restoration-era return are historically grounded at a broad level. The chronological calculation and whose years are counted are debated. A 2018 peer-reviewed study explores why 586–516 BCE (destruction and rebuilding of the temple) became a later inner-biblical way to account for the number; that choice should not be retrojected into Jeremiah's original letter without qualification.",
+      "sourceStatus": "Exilic context and later reception documented; precise seventy-year fulfillment disputed",
+      "refs": [
+        [
+          "Hebrew Jeremiah 29:10",
+          "https://biblehub.com/text/jeremiah/29-10.htm"
+        ],
+        [
+          "Ross E. Winkle (1987) historical data",
+          "https://digitalcommons.andrews.edu/auss/vol25/iss3/3/"
+        ],
+        [
+          "2018 Korean Biblical Studies article (English abstract): seventy years in Jeremiah",
+          "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002397285"
+        ],
+        [
+          "Jeremiah 29 textual/historical commentary",
+          "https://bible.org/seriespage/jeremiah-29"
+        ],
+        [
+          "Ezra 1:1–4",
+          "https://www.biblegateway.com/passage/?search=Ezra+1%3A1-4&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "ezekiel-26-tyre",
+      "label": "Tyre destroyed and never rebuilt?",
+      "earlier": "Ezekiel 26:1–21 and 29:17–21",
+      "later": "Nebuchadnezzar II's campaign against Tyre and Alexander's conquest in 332 BCE",
+      "kind": "Oracles against a nation; multiple agents and later historical test",
+      "original": "וְלֹא תִבָּנֶה עוֹד ('you shall not be rebuilt again', Ezekiel 26:14)",
+      "setting": "An oracle announces waves of nations against Tyre, a major Phoenician port with mainland and island settlements. It names Nebuchadnezzar in 26:7–11, predicts desolation, and states Tyre will not be rebuilt. Ezekiel 29:18 later acknowledges Nebuchadnezzar's labor against Tyre without receiving an adequate reward.",
+      "laterUse": "Nebuchadnezzar did campaign against Tyre; the precise outcome and duration are debated. Alexander captured the island city in 332 BCE. Some apologetic readings distribute 26:3–6 to many nations and 26:7–11 to Babylon, then appeal to Alexander for a later phase.",
+      "relationship": "Test who is the predicted agent in each verse; separate mainland from island and the history of an ancient urban site from the continuous modern city. A later conqueror does not retroactively satisfy every explicit Nebuchadnezzar clause. Ezekiel's own later statement in 29:18 is part of the primary textual evidence.",
+      "evidence": "A 2024 Protestant Theological University (PThU) Bible-blog discussion, whose author is not named in the retrieved record, argues that Ezekiel 26's envisioned outcome was not fully realized under Nebuchadnezzar and that appealing to Alexander changes the claim. Kris J. Udd (Tyndale Bulletin 56.1, 2005) likewise argues the oracle was not fulfilled as predicted, noting that Ezekiel 29:17–20 itself concedes Nebuchadnezzar's failure to take Tyre. Conservative archaeological defense disputes this and distinguishes land from island. The extant city and later occupations are incompatible with a literal claim that the entire location was never again inhabited; the exact sense of 'never rebuilt' and the original oracle's redaction are debated.",
+      "sourceStatus": "Attack and later conquest historically attested; complete literal permanent destruction not established",
+      "refs": [
+        [
+          "Hebrew Ezekiel 26:14",
+          "https://biblehub.com/text/ezekiel/26-14.htm"
+        ],
+        [
+          "Ezekiel 29:17–21 (Nebuchadnezzar's labor)",
+          "https://www.biblegateway.com/passage/?search=Ezekiel+29%3A17-21&version=NRSVUE"
+        ],
+        [
+          "Protestant Theological University (2024), When prophecy doesn't come true",
+          "https://www.pthu.nl/en/bibleblog/2024/10/when-prophecy-doesnt-come-true/"
+        ],
+        [
+          "Kris J. Udd (2005), Prediction and Foreknowledge in Ezekiel's Prophecy against Tyre, Tyndale Bulletin 56.1",
+          "https://tyndalebulletin.org/article/29192-prediction-and-foreknowledge-in-ezekiel-s-prophecy-against-tyre.pdf"
+        ],
+        [
+          "Associates for Biblical Research (2009), defensive reading",
+          "https://biblearchaeology.org/research-articles/ezekiel-26114-a-proof-text-for-inerrancy-or-fallibility-of-the-old-testament/"
+        ],
+        [
+          "Ancient Tyre history and siege review",
+          "https://www.britannica.com/place/Tyre-Lebanon"
+        ]
+      ]
+    },
+    {
+      "id": "isaiah-13-babylon-medes",
+      "label": "The Medes and Babylon's desolation",
+      "earlier": "Isaiah 13:1–22",
+      "later": "Fall of Babylon in 539 BCE and its later gradual changes",
+      "kind": "Imperial judgment oracle; composition date and imagery disputed",
+      "original": "הִנְנִי מֵעִיר עֲלֵיהֶם אֶת־מָדָי ('I am stirring up the Medes against them', Isaiah 13:17)",
+      "setting": "Isaiah 13 depicts Babylon as a ruling empire threatened by the Medes; the context presupposes Babylonian rather than eighth-century Assyrian hegemony. Many scholars therefore situate this section in a later exilic setting, although the precise date and original literary layers are contested.",
+      "laterUse": "Cyrus's Persian-led army entered Babylon in 539 BCE, after the Persians had absorbed Median power. Babylon did not become uninhabited immediately; over time its city and political status changed.",
+      "relationship": "Distinguish 'Medes' as a historical coalition/ethnic label from identifying Cyrus's victory as exclusively Median; separate the oracle's violent destruction language from the relatively limited fighting at Babylon's capture in 539 BCE.",
+      "evidence": "The historical Babylonian/Persian takeover is independently documented; some prophecy details resemble broad judgment rhetoric and cannot be matched one-for-one to 539. Critical commentary dates this poem based on its depiction of Babylon as dominant, not simply because a literal prediction would be deemed impossible.",
+      "sourceStatus": "Babylon's fall documented; identity of attackers and permanent-destruction imagery require qualification",
+      "refs": [
+        [
+          "Hebrew Isaiah 13:17",
+          "https://biblehub.com/text/isaiah/13-17.htm"
+        ],
+        [
+          "Cambridge commentary on Isaiah 13 and later composition",
+          "https://biblehub.com/commentaries/cambridge/isaiah/13.htm"
+        ],
+        [
+          "British Museum: Cyrus Cylinder",
+          "https://www.britishmuseum.org/collection/object/W_1880-0617-1941"
+        ],
+        [
+          "Getty Museum: Cyrus's conquest in 539 BCE",
+          "https://www.getty.edu/art/exhibitions/cyrus_cylinder/"
+        ]
+      ]
+    },
+    {
+      "id": "nahum-nineveh-fall",
+      "label": "Nineveh destroyed in 612 BCE",
+      "earlier": "Nahum 1–3 (especially 2:1–13 and 3:8–10)",
+      "later": "Fall of Nineveh in 612 BCE; Babylonian Chronicle ABC 3",
+      "kind": "Judgment oracle with independent ancient chronicle",
+      "original": "מַשָּׂא נִינְוֵה ('oracle concerning Nineveh', Nahum 1:1)",
+      "setting": "Nahum condemns Assyrian Nineveh and envisages its defeat. Nahum 3:8 points back to the sack of Thebes (663 BCE). Scholars debate whether individual poems were composed before or around Nineveh's 612 BCE fall and when their final literary form was fixed.",
+      "laterUse": "The Fall of Nineveh Chronicle (BM 21901, ABC 3) describes the Babylonians and Medes besieging and capturing Nineveh in 612 BCE. This is external evidence for the outcome, rather than for the date of Nahum's oracle.",
+      "relationship": "A rare case with strong independent corroboration of the named city's destruction. The evidence for an advance prediction depends on demonstrating that the relevant parts of Nahum existed before 612 BCE rather than being revised at or after the event.",
+      "evidence": "The British Museum identifies tablet BM 21901 as the historical chronicle of events in 616–609 BCE, and the Livius translation of ABC 3 reports a three-month siege and destruction. It confirms Nineveh's fall, but cannot by itself date Nahum's earliest literary layer, validate supernatural causation, or confirm every dramatic poetic image.",
+      "sourceStatus": "Historical event strongly corroborated; date of prophecy's composition and precise foresight less secure",
+      "refs": [
+        [
+          "Hebrew Nahum 1:1",
+          "https://biblehub.com/text/nahum/1-1.htm"
+        ],
+        [
+          "Nahum 2–3",
+          "https://www.biblegateway.com/passage/?search=Nahum+2-3&version=NRSVUE"
+        ],
+        [
+          "British Museum: tablet BM 21901",
+          "https://www.britishmuseum.org/collection/object/W_1896-0409-6"
+        ],
+        [
+          "Livius: Fall of Nineveh Chronicle (ABC 3)",
+          "https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-3-fall-of-nineveh-chronicle/"
+        ],
+        [
+          "Enter the Bible (Luther Seminary): Nahum summary",
+          "https://enterthebible.org/courses/nahum/lessons/summary-of-nahum/"
+        ]
+      ]
+    },
+    {
+      "id": "isaiah-17-damascus",
+      "label": "Damascus would cease to be a city",
+      "earlier": "Isaiah 17:1–3",
+      "later": "Assyria's defeat of Aram-Damascus in 732 BCE; later history of Damascus",
+      "kind": "Named city and kingdom judgment oracle tested against history",
+      "original": "מַשָּׂא דַּמָּשֶׂק ('oracle concerning Damascus', Isa 17:1); the text says it will be removed as a city and become a heap of ruins.",
+      "setting": "Isaiah 17:1–3 couples the end of Damascus's kingship with weakness in Ephraim/Israel, fitting the Syro-Ephraimite alliance and war of 735–732 BCE. Joseph Blenkinsopp's critical commentary in First Isaiah and the Cambridge exposition link these clauses to that crisis; literary units elsewhere in chapter 17 may have different horizons.",
+      "laterUse": "Tiglath-pileser III conquered Damascus in 732 BCE and ended the independent Aramean kingdom. Yet Damascus persisted as an inhabited city over subsequent periods, with extensive Hellenistic, Roman, Byzantine and Islamic layers documented by UNESCO.",
+      "relationship": "The end of Aram-Damascus's sovereign status is historically grounded and is closely connected with the oracle. The image of Damascus no longer being a city or reduced to rubble exceeds the lasting result: it should be described as destruction rhetoric, temporary damage, an unfulfilled literal detail, or a future expectation only with stated interpretive grounds.",
+      "evidence": "The Assyrian victory and loss of kingship can be independently confirmed from history. UNESCO confirms ongoing habitation, so the passage cannot be used as evidence that Damascus permanently vanished. The composition date relative to 732 BCE is inferred from literary and historical context, not secured by an extant dated pre-conquest manuscript.",
+      "sourceStatus": "Assyrian defeat and ended kingdom supported; permanent urban disappearance contradicted by history; original scope debated",
+      "refs": [
+        [
+          "Isaiah 17:1 Hebrew",
+          "https://biblehub.com/text/isaiah/17-1.htm"
+        ],
+        [
+          "Joseph Blenkinsopp, First Isaiah, 17:1–14 (critical historical context)",
+          "https://www.jstor.org/stable/j.ctvgs0919.31"
+        ],
+        [
+          "Cambridge Commentary on Isaiah 17 (732 BCE and textual complications)",
+          "https://biblehub.com/commentaries/cambridge/isaiah/17.htm"
+        ],
+        [
+          "UNESCO: Ancient City of Damascus, continued urban settlement",
+          "https://whc.unesco.org/en/list/20/"
+        ],
+        [
+          "2 Kings 16:9, narrative of Damascus's conquest",
+          "https://www.biblegateway.com/passage/?search=2+Kings+16%3A9&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "obadiah-edom",
+      "label": "Edom's punishment and no surviving house of Esau",
+      "earlier": "Obadiah 1–21",
+      "later": "Edom's decline, Idumaean survival, and later reinterpretations",
+      "kind": "National-judgment oracle with contested dating and an absolute-sounding survival claim",
+      "original": "וְלֹא־יִהְיֶה שָׂרִיד לְבֵית עֵשָׂו ('there shall be no survivor for the house of Esau', Obadiah 18)",
+      "setting": "Obadiah denounces Edom's pride and alleged exploitation of Jerusalem's disaster, then imagines reversal, territorial recovery and divine rule. Scholarly dates range widely; Elie Assis (2014) argues for three composed stages: before Jerusalem's fall, in response to 586 BCE and later Edomite movement into southern Judah. The text shares striking sections with Jeremiah 49:7–22.",
+      "laterUse": "The Edomite polity disappeared over time, but Edomite/Idumaean identity continued in southern Judea through the Hellenistic and Roman periods; Idumaeans figure in the Hasmonean era and Herod's ancestry. Later Jewish and Christian interpreters may read the fall of Edom as fulfilled, symbolic, or typological judgment.",
+      "relationship": "Loss of an independent kingdom must be separated from the survival of Edomite people, their relocation and identity, and literal eradication of every descendant. The phrase 'no survivor' can function as national judgment rhetoric, but readers who take it literally face contrary evidence for Idumaean continuation. The prophecy's date and its shared literary traditions affect how far it could precede the events described.",
+      "evidence": "Oxford's entry on Idumaea and research on Edomite-related settlement document survival of the identity for centuries, limiting literal extermination claims. Juan Manuel Tebes (2011) questions the traditional portrayal of Edomite betrayal in 586 BCE, warning against treating partisan narrative blame as an independently verified war report.",
+      "sourceStatus": "Political/territorial transformations documented; no-survivor literalism and Edomite complicity disputed",
+      "refs": [
+        [
+          "Obadiah 1:18 Hebrew",
+          "https://biblehub.com/text/obadiah/1-18.htm"
+        ],
+        [
+          "Elie Assis, Structure, Redaction and Significance in the Prophecy of Obadiah (JSOT 39.2, 2014)",
+          "https://doi.org/10.1177/0309089214567376"
+        ],
+        [
+          "Juan Manuel Tebes, Edomite Involvement in Jerusalem's Fall (2011)",
+          "https://doi.org/10.1177/0309089211423731"
+        ],
+        [
+          "Tessa Rajak, Idumaea, Oxford Classical Dictionary",
+          "https://doi.org/10.1093/acrefore/9780199381135.013.3252"
+        ],
+        [
+          "Yigal Levin, The Religion of Idumea and Its Relationship to Early Judaism (Religions 11, 2020)",
+          "https://doi.org/10.3390/rel11100487"
+        ]
+      ]
+    },
+    {
+      "id": "jeremiah-49-edom",
+      "label": "Judgment of Edom and its shared oracle with Obadiah",
+      "earlier": "Jeremiah 49:7–22",
+      "later": "Edom/Idumaea between the Persian and Roman periods",
+      "kind": "Shared national-judgment tradition; independence of prediction is disputed",
+      "original": "כִּי־אֲנִי חָשַׂפְתִּי אֶת־עֵשָׂו ('For I have laid Esau bare', Jer 49:10); the oracle invokes desolation, terror and judgment on Edom.",
+      "setting": "Jeremiah 49:7–22 speaks against Teman/Bozrah and Edom. Its opening and middle lines are closely related to Obadiah 1–9, yet the texts differ in wording and scope. Scholarship debates whether Jeremiah drew on Obadiah, the reverse, a common earlier oracle, or layers assembled at different times.",
+      "laterUse": "The historical Edomite kingdom declined, while Idumaean communities developed and persisted in southern Judea. The passage also influenced later conceptions of Edom as a symbolic enemy; such reuse must not replace the historical referent automatically.",
+      "relationship": "Because substantial wording is shared, counting Obadiah and Jeremiah 49 as two independent successful forecasts is methodologically unjustified without establishing independent composition and dating. Graham Ogden (1982) reads both Jeremiah 49:7–22 and Obadiah as prophetic responses to the communal lament of Psalm 137; Cambridge commentary notes a common-source alternative. The exact agent, scale and chronology of political change are also unresolved.",
+      "evidence": "Independent archaeological/historical sources support Edomite/Idumaean continuity, migration and cultural transformation rather than verified total extermination. Specific devastation imagery is largely preserved in the prophetic text, and cannot independently confirm its own accuracy.",
+      "sourceStatus": "Shared wording and Edomite identity history documented; literary priority, chronology and literal devastation uncertain",
+      "refs": [
+        [
+          "Jeremiah 49:7–22 primary passage",
+          "https://www.biblegateway.com/passage/?search=Jeremiah+49%3A7-22&version=NRSVUE"
+        ],
+        [
+          "Jeremiah 49:10 Hebrew",
+          "https://biblehub.com/text/jeremiah/49-10.htm"
+        ],
+        [
+          "Graham S. Ogden, Prophetic Oracles against Foreign Nations and Psalms of Communal Lament: The Relationship of Psalm 137 to Jeremiah 49:7–22 and Obadiah (JSOT 24, 1982)",
+          "https://doi.org/10.1177/030908928200702406"
+        ],
+        [
+          "Cambridge commentary on shared sources, Jeremiah 49:7",
+          "https://biblehub.com/commentaries/jeremiah/49-7.htm"
+        ],
+        [
+          "Yigal Levin, Genesis of Idumea (Bar-Ilan University)",
+          "https://cris.biu.ac.il/en/publications/the-genesis-of-idumea/"
+        ]
+      ]
+    },
+    {
+      "id": "haggai-2-temple-glory",
+      "label": "Greater glory of the rebuilt temple and the nations' treasure",
+      "earlier": "Haggai 2:6–9 (with 2:1–5)",
+      "later": "Rebuilding of Jerusalem's temple; Hebrews 12:26–28 and Christian messianic applications",
+      "kind": "Near-horizon restoration promise and later eschatological/messianic reading",
+      "original": "חֶמְדַּת כָּל־הַגּוֹיִם (khemdat kol-haggoyim, 'desired/precious things of all nations'); וּבָאוּ ('they will come', plural), Haggai 2:7.",
+      "setting": "Haggai dates this encouragement to the second year of Darius (normally identified as Darius I, 520 BCE), when Judah's community was rebuilding the Jerusalem temple. The modest appearance of the project relative to Solomon's temple is explicit in 2:3, followed by promises of shaking nations, wealth, glory and peace. Ezra 6 dates temple dedication to Darius's sixth year, conventionally 515 BCE, with some academic dissent about chronology.",
+      "laterUse": "The Hebrew phrase often printed as 'desire of all nations' is commonly rendered 'treasures/precious things of the nations' because the plural verb indicates a collective sense and the next verse speaks of silver and gold. Some Christians have interpreted a singular 'Desired One' as Jesus; Hebrews 12:26 quotes the cosmic-shaking line in an eschatological argument.",
+      "relationship": "The temple-focused immediate setting, the treasure-vs-person linguistic question and the later use of the shaking image are distinct. A direct named prediction of Jesus from 2:7 is grammatically weak; faith-based typology is a different interpretive claim. 'Greater glory' can refer to cultic honor, prosperity or divine presence, making purely architectural comparisons insufficient.",
+      "evidence": "The Persian-period temple restoration is broadly documented by ancient literary sources, but exact glory, world-shaking and peace promises lack an independently measurable complete historical fulfillment. The NET translation note explicitly rejects deriving a direct original-context messianic prediction from the 'treasures' wording.",
+      "sourceStatus": "520 BCE temple-restoration context strong; treasures interpretation supported; universal shaking/glory fulfillment debated",
+      "refs": [
+        [
+          "Haggai 2:6–9 and translator notes (NET Bible)",
+          "https://classic.net.bible.org/passage.php?passage=hag+2%3A6-9"
+        ],
+        [
+          "Haggai 2:7 Hebrew",
+          "https://biblehub.com/text/haggai/2-7.htm"
+        ],
+        [
+          "Kristin Joachimsen, Yehudite Imaginations of King Darius and His Officials (Religions 13, 2022), temple chronology",
+          "https://doi.org/10.3390/rel13030262"
+        ],
+        [
+          "Hebrews 12:26–28 later citation",
+          "https://www.biblegateway.com/passage/?search=Hebrews+12%3A26-28&version=NRSVUE"
+        ],
+        [
+          "Bible.org Haggai commentary, grammar and rebuilding context",
+          "https://bible.org/seriespage/haggai"
+        ]
+      ]
+    },
+    {
+      "id": "zechariah-14-day-of-yhwh",
+      "label": "The Mount of Olives splits and all nations worship in Jerusalem",
+      "earlier": "Zechariah 14:1–21",
+      "later": "Jewish liturgical expectation; Christian end-time readings; historically testable claims",
+      "kind": "Apocalyptic day-of-YHWH vision without a secure completed event match",
+      "original": "וְנִבְקַע הַר הַזֵּיתִים ('the Mount of Olives shall be split', Zech 14:4); the chapter also depicts living waters and yearly festival pilgrimage.",
+      "setting": "Zechariah 14 pictures hostile nations attacking Jerusalem, YHWH's personal intervention on the Mount of Olives, extraordinary light, living waters, and surviving nations worshipping at Sukkot. Zechariah 9–14 is widely treated as having a literary history distinct from dated 1–8; Paul Redditt (2021) situates major additions in the fifth century BCE while other scholars argue differing Persian/Hellenistic dates.",
+      "laterUse": "Jewish liturgy reads this chapter at Sukkot, treating the festival pilgrimage and universal kingship as future hope. Christian traditions connect the Mount of Olives and divine arrival to Jesus' second coming, sometimes with literal geological and geopolitical expectations. Those readings must be individually attributed rather than merged into one consensus.",
+      "relationship": "This is a visionary description of universal divine rule with cosmic and geographic imagery; whether meant literally, symbolically or as still-future eschatology is contested. It is not evidence that an independently dated historic Mount-of-Olives rupture occurred, nor does a later Jerusalem conflict reproduce every described feature.",
+      "evidence": "No independent historical documentation establishes the combined series of mountain splitting, perpetual miraculous light, world worship and uninterrupted seasonal water flows as an already completed event. Conversely, absence of such confirmation does not logically disprove an unbounded future expectation. A research verdict must specify past-fulfillment versus still-future claim.",
+      "sourceStatus": "Primary imagery and varied later reception documented; complete historical fulfillment not independently verified",
+      "refs": [
+        [
+          "Zechariah 14 original text",
+          "https://www.biblegateway.com/passage/?search=Zechariah+14&version=NRSVUE"
+        ],
+        [
+          "Zechariah 14:4 Hebrew",
+          "https://biblehub.com/text/zechariah/14-4.htm"
+        ],
+        [
+          "Paul L. Redditt, Zechariah, Oxford Handbook of the Minor Prophets (2021)",
+          "https://doi.org/10.1093/oxfordhb/9780190673208.013.31"
+        ],
+        [
+          "TheTorah.com: Sukkot, Future Redemption for Jews and Gentiles",
+          "https://www.thetorah.com/article/sukkot-the-festival-of-future-redemption-for-jews-and-gentiles"
+        ],
+        [
+          "Michael Fishbane: How Zechariah Relates to Sukkot",
+          "https://www.myjewishlearning.com/article/how-zechariah-relates-to-sukkot/"
+        ]
+      ]
+    },
+    {
+      "id": "daniel-2-four-kingdoms",
+      "label": "Statue of four kingdoms and a kingdom that will never end",
+      "earlier": "Daniel 2:31–45 (Aramaic)",
+      "later": "Successive Babylonian, Median, Persian, Greek or Roman empires; divine kingdom",
+      "kind": "Four-empire apocalyptic scheme and enduring-kingdom prediction",
+      "original": "Daniel 2:44, Aramaic: יְקִים אֱלָהּ שְׁמַיָּא מַלְכוּ ('the God of heaven will establish a kingdom'); the king is explicitly called the head of gold in 2:38.",
+      "setting": "Daniel's story is set at Nebuchadnezzar's Babylonian court. From 2:4b the chapter is in Aramaic, and it supplies no individual names for its last three kingdoms. Critical scholarship reads the sequence in the context of Greek-era Jewish apocalyptic expectation; the finished visions were edited in the second-century BCE Antiochene crisis, although individual court tales may be older.",
+      "laterUse": "Yale's John J. Collins reconstructs Babylon, Media, Persia and the Greek Seleucid kingdom from the book's own succession, with failed Seleucid/Ptolemaic marriage alliances in the iron/clay imagery. A long-lived Christian interpretation instead combines Media and Persia and ends with Rome; traditions vary over whether the stone kingdom began with Jesus' ministry or remains future.",
+      "relationship": "The relative dating of the composed chapter and the selected fourth kingdom determine whether an interpretation predicts long-distant Rome or criticizes Greek imperial power in its own day. The eternal and universal divine kingdom has no agreed independently measured historical completion.",
+      "evidence": "Babylon, Persia, Macedonian conquest and Rome are independently historical empires; matching them to unspecified metals does not itself prove their assignment. The story's 'Darius the Mede' chronology differs from independent Persian history; the romanizing interpretation must address Antiochus-related imagery elsewhere in the book.",
+      "sourceStatus": "Four-empire symbolism and later interpretations verifiable; fourth empire, dating and eternal kingdom fulfillment debated",
+      "refs": [
+        [
+          "Daniel 2:31–45, USCCB critical text and notes",
+          "https://bible.usccb.org/bible/daniel/2"
+        ],
+        [
+          "Daniel 2:44 Aramaic",
+          "https://biblehub.com/text/daniel/2-44.htm"
+        ],
+        [
+          "John J. Collins, Yale Bible Study: Daniel 1–2",
+          "https://yalebiblestudy.org/courses/daniel/lessons/daniel-1-2-study-guide/"
+        ],
+        [
+          "Cambridge commentary: four-kingdom models and Rome",
+          "https://biblehub.com/commentaries/cambridge/daniel/2.htm"
+        ],
+        [
+          "Traditional Roman-fourth-empire reading (Ligonier)",
+          "https://learn.ligonier.org/articles/coming-son-man-unfolding-biblical-eschatology"
+        ]
+      ]
+    },
+    {
+      "id": "daniel-7-beasts-son-of-man",
+      "label": "Four beasts, Antiochus's horn and one like a human being",
+      "earlier": "Daniel 7:1–27 (Aramaic)",
+      "later": "Greek-era persecution, judgment and later Son of Man applications to Jesus",
+      "kind": "Visionary kingdom scheme and divine judgment; later christological reuse",
+      "original": "Daniel 7:13 Aramaic כְּבַר אֱנָשׁ ('like a son of man', i.e. like a human being); Daniel 7:18 says the 'holy ones' receive the kingdom.",
+      "setting": "Four hybrid beasts rise from a mythic sea, and an Ancient of Days judges their empires. Scholarly comparisons trace imagery of divine kingship, sea-monsters and the cloud rider to ancient Near Eastern literary traditions. The little horn is widely read as Antiochus IV, whose suppression of Jerusalem's temple cult occurred in the 160s BCE.",
+      "laterUse": "Many historians identify the sequence as Babylon, Media, Persia, Greece; readers placing Rome fourth combine Media-Persia. The figure appearing 'like a human being' receives rule from the Ancient of Days. Christian New Testament passages identify Jesus with a Son of Man figure, while Daniel 7:18, 27 relate the kingdom to the holy ones; scholarship debates an angelic individual, collective symbol or messianic representative.",
+      "relationship": "The figure moves toward the heavenly throne to receive power, not clearly from heaven to earth at that moment. This distinction matters to later readings of a predicted second coming. Linking the fourth beast to Rome and all horns to later figures is an additional hermeneutic requiring its own evidence.",
+      "evidence": "Seleucid persecution is historically attested; literal celestial enthronement and eternal rule are theological/apocalyptic claims not historically observable. The same passage has significant interpretive differences within academic, Jewish and Christian traditions.",
+      "sourceStatus": "Antiochene crisis closely fits horn/persecution; heavenly figure identity and future fulfillment contested",
+      "refs": [
+        [
+          "Daniel 7 with historical notes (USCCB)",
+          "https://bible.usccb.org/bible/daniel/7"
+        ],
+        [
+          "Daniel 7:13 Aramaic",
+          "https://biblehub.com/text/daniel/7-13.htm"
+        ],
+        [
+          "John J. Collins, Yale Bible Study: Daniel 7",
+          "https://yalebiblestudy.org/courses/daniel/lessons/daniel-7-study-guide/"
+        ],
+        [
+          "Tim Meadowcroft, 'One Like a Son of Man' (2016)",
+          "https://doi.org/10.2307/26373916"
+        ],
+        [
+          "Distinct Christian reading of a Roman fourth kingdom",
+          "https://learn.ligonier.org/articles/coming-son-man-unfolding-biblical-eschatology"
+        ]
+      ]
+    },
+    {
+      "id": "daniel-8-ram-goat-2300",
+      "label": "Ram, he-goat, Antiochus and 2,300 evenings/mornings",
+      "earlier": "Daniel 8:1–27 (Hebrew)",
+      "later": "Medo-Persian and Macedonian history; desecration and rededication of the temple",
+      "kind": "Symbolic vision with an interpreted empire sequence and contested duration",
+      "original": "Daniel 8:20 explicitly names מָדַי וּפָרָס (Media and Persia); 8:21 names Greece; 8:14 gives עֶרֶב בֹּקֶר אַלְפַּיִם וּשְׁלֹשׁ מֵאוֹת ('2,300 evening–morning [units]').",
+      "setting": "The vision is set in Belshazzar's reign but names Media/Persia, Greece and four post-Alexander kingdoms in its own angelic interpretation. The subsequent horn interrupts sacrifice and threatens heavenly/temple order; the historical-critical identification is Antiochus IV's Jerusalem cultic suppression.",
+      "laterUse": "The 2,300 evenings and mornings are read as 1,150 days if counted as two daily sacrificial occasions, or as 2,300 days in other interpretations. The length does not fit every proposed historical starting date exactly, and later day-year prophetic chronologies use a different unit assumption.",
+      "relationship": "Chapter 8 removes guesswork for its first empires, yet the vision's timeline and heavenly destruction imagery remain highly figurative. Distinguish its early-second-century BCE historical focus from later symbolic and futurist reuse.",
+      "evidence": "Alexander's Macedonian conquests, subsequent successor dynasties and the Antiochene temple crisis are historical; 1 Maccabees dates the Temple's rededication to 164 BCE. Independent evidence does not demonstrate an angelic revelation in Belshazzar's time or verify the numeric 2,300-unit start/end without choosing premises.",
+      "sourceStatus": "Named empires are explicit, Antiochus reference strong; count, dating and supernatural prediction remain debated",
+      "refs": [
+        [
+          "Daniel 8 and critical notes (USCCB)",
+          "https://bible.usccb.org/bible/daniel/8"
+        ],
+        [
+          "Daniel 8:20 Hebrew",
+          "https://biblehub.com/text/daniel/8-20.htm"
+        ],
+        [
+          "Daniel 8:14 Hebrew",
+          "https://biblehub.com/text/daniel/8-14.htm"
+        ],
+        [
+          "John J. Collins, Yale Bible Study: Daniel 8–9",
+          "https://yalebiblestudy.org/courses/daniel/lessons/daniel-8-9-study-guide/"
+        ],
+        [
+          "1 Maccabees 4:52–59 rededication",
+          "https://bible.usccb.org/bible/1maccabees/4"
+        ]
+      ]
+    },
+    {
+      "id": "daniel-9-seventy-weeks",
+      "label": "Jeremiah's seventy years reinterpreted as seventy weeks of years",
+      "earlier": "Daniel 9:1–27 (especially 9:24–27, Hebrew)",
+      "later": "Priestly leadership, Antiochus IV and Christian calculations of Jesus' death or end times",
+      "kind": "Inner-biblical rewriting of a dated prediction with contested anointed figures",
+      "original": "Daniel 9:24 Hebrew שָׁבֻעִים שִׁבְעִים ('seventy sevens', traditionally 'seventy weeks'); 9:25–26 says מָשִׁיחַ ('an anointed one') without naming Jesus.",
+      "setting": "Set under 'Darius the Mede,' Daniel prays over Jeremiah's seventy years (25:11–12 and 29:10). Gabriel reassigns the time horizon to 70 units of seven years (490), structured as seven, sixty-two and one 'weeks,' ending in restored justice and sanctuary after crisis. Most historical-critical scholars relate the last 'anointed one' to the high priest Onias III killed c. 171 BCE, with an earlier priest or royal leader at the first period.",
+      "laterUse": "Christians have long used different Artaxerxes decree dates and calendar/year counts to locate Jesus' ministry or crucifixion; some separate a future final week. Jewish and critical readers may instead locate the culmination around the Seleucid desecration and temple restoration. These chronologies are interpretations and are not all mutually compatible.",
+      "relationship": "Unlike a wholly new forecast, Daniel 9 explicitly interprets an earlier Jeremiah oracle. The term 'anointed' is an ordinary designation for priests and kings; capitalization as 'the Messiah' can predetermine the referent. Grammar, division of the weeks, assumed start/end points and proposed calendar conversions require verification before claiming exact fulfillment.",
+      "evidence": "Jeremiah's earlier words, the later 490-year interpretation and the documented Antiochene temple crisis can be independently compared. No calculation is self-proving when its start date, selected anointed figure or calendar length are chosen after the fact.",
+      "sourceStatus": "Reinterpretation of Jeremiah certain; anointed identities and numerical fulfillment are debated",
+      "refs": [
+        [
+          "Daniel 9:24–27 (USCCB text/notes)",
+          "https://bible.usccb.org/bible/daniel/9"
+        ],
+        [
+          "Daniel 9:24 Hebrew",
+          "https://biblehub.com/text/daniel/9-24.htm"
+        ],
+        [
+          "John J. Collins, Yale Bible Study: Daniel 8–9",
+          "https://yalebiblestudy.org/courses/daniel/lessons/daniel-8-9-study-guide/"
+        ],
+        [
+          "Cambridge commentary and traditional chronology variants",
+          "https://biblehub.com/commentaries/cambridge/daniel/9.htm"
+        ],
+        [
+          "Jeremiah 29:10 source comparison",
+          "https://biblehub.com/text/jeremiah/29-10.htm"
+        ]
+      ]
+    },
+    {
+      "id": "daniel-11-kings-end",
+      "label": "Kings of north and south; where the forecast changes",
+      "earlier": "Daniel 11:2–45 (Hebrew)",
+      "later": "Persian-era narrative, Ptolemaic/Seleucid wars and the actual death of Antiochus IV",
+      "kind": "Detailed historical sequence followed by a testable prediction of an end",
+      "original": "Daniel 11:40 Hebrew וּבְעֵת קֵץ ('at the time of the end'); 11:45 envisions the final ruler's end between the sea and the beautiful holy mountain.",
+      "setting": "The vision is presented as a revelation to a Daniel situated in Cyrus's Persian era. From Alexander onward the details strongly track Ptolemaic/Seleucid rivalries, the attempted Egyptian campaigns and Antiochus IV's treatment of Judeans. Yale's Collins describes the first Persian overview as imprecise but the Hellenistic section as detailed.",
+      "laterUse": "The final verses (11:40–45) envision a campaign and the king's demise near the holy mountain. USCCB's critical notes say those events do not correspond to the Maccabean-era record: Antiochus IV died in the East, in Persia (often geographically called the eastern satrapies), in late 164 BCE. Alternative futurist readings relocate the end to an eschatological ruler or see typology.",
+      "relationship": "The concentration of detailed historical matches before a mismatch near 11:40–45 is a major argument for composing the final vision during Antiochus's persecution, before knowledge of his death. Distinguish an inference about probable composition from certainty about each literary layer, and examine claims that later redaction could change the forecast.",
+      "evidence": "Seleucid succession and Antiochus's activity are independently corroborated in Greco-Roman and Jewish sources. The discrepancy at the ending is a concrete evidentiary limitation for interpretations that demand the same near-term ruler and literal geography. Later antichrist or future-horizon readings are possible interpretive alternatives, not independently verified original referents.",
+      "sourceStatus": "Hellenistic event matches strong; final king death setting fails a straightforward Antiochus identification",
+      "refs": [
+        [
+          "Daniel 11 with explicit historical notes (USCCB)",
+          "https://bible.usccb.org/bible/daniel/11"
+        ],
+        [
+          "Daniel 11:40 Hebrew",
+          "https://biblehub.com/text/daniel/11-40.htm"
+        ],
+        [
+          "Daniel 11:45 Hebrew",
+          "https://biblehub.com/text/daniel/11-45.htm"
+        ],
+        [
+          "John J. Collins, Yale Bible Study: Daniel 10–12",
+          "https://yalebiblestudy.org/courses/the-books-of-samuel/lessons/daniel-10-12-study-guide/"
+        ],
+        [
+          "Historical context, 1 Maccabees 6",
+          "https://bible.usccb.org/bible/1maccabees/6"
+        ]
+      ]
+    },
+    {
+      "id": "daniel-12-resurrection-days",
+      "label": "Resurrection, the sealed end, and 1,290/1,335 days",
+      "earlier": "Daniel 12:1–13 (Hebrew)",
+      "later": "Antiochene persecution, restoration, later resurrection and apocalyptic countdowns",
+      "kind": "End-time resurrection expectation with several non-identical duration formulas",
+      "original": "Daniel 12:2 Hebrew וְרַבִּים מִיְּשֵׁנֵי אַדְמַת־עָפָר יָקִיצוּ ('many of those sleeping in the dust of the earth shall awaken'); 12:11–12 lists 1,290 and 1,335 days.",
+      "setting": "Daniel 12 continues the angelic disclosure of the Antiochene crisis in chapter 11. Michael protects God's people, some dead awake to life or disgrace, and the wise receive lasting honor. The text contains one of the Hebrew Bible's clearest individual resurrection formulations, though its 'many' wording does not automatically specify universal resurrection.",
+      "laterUse": "The book offers a 'time, times and half a time' as well as 1,290 and 1,335 days, while chapter 8 uses 2,300 evenings/mornings. USCCB suggests the different figures reflect successive calculations of a hoped-for end during the persecution. Jewish and Christian communities later developed divergent teachings of resurrection and reused the countdowns for distant end times.",
+      "relationship": "Different denominators, daily sacrifices and editorial adjustments should be compared without silently treating them as one modern-calendar prediction. The transformation from an immediate persecution context to later universal end-of-world scenarios is a documented reception-history move.",
+      "evidence": "The crisis and temple rededication are historically studied, but no independent evidence verifies a first-century BCE mass resurrection or precisely dated world judgment. Whether the figures represent authorial corrections or coexisting symbolic schemas is debated.",
+      "sourceStatus": "Early resurrection teaching and competing durations verifiable; worldwide end events not corroborated",
+      "refs": [
+        [
+          "Daniel 12 with USCCB notes on 1,290/1,335 days",
+          "https://bible.usccb.org/bible/daniel/12"
+        ],
+        [
+          "Daniel 12:2 Hebrew",
+          "https://biblehub.com/text/daniel/12-2.htm"
+        ],
+        [
+          "John J. Collins, Yale Bible Study: Daniel 10–12",
+          "https://yalebiblestudy.org/courses/the-books-of-samuel/lessons/daniel-10-12-study-guide/"
+        ],
+        [
+          "Daniel historical/composition context, Yale",
+          "https://yalebiblestudy.org/courses/daniel/lessons/who-was-daniel-study-guide/"
+        ],
+        [
+          "Daniel 8 and alternate 2,300 count",
+          "https://bible.usccb.org/bible/daniel/8"
+        ]
+      ]
+    },
+    {
+      "id": "mark-13-2-temple-destruction",
+      "label": "Not one Temple stone upon another",
+      "earlier": "Mark 13:1–2 (Jesus' reported prediction)",
+      "later": "Roman destruction of Jerusalem's Second Temple in 70 CE",
+      "kind": "Historically testable near-term prediction with uncertain text/speech date",
+      "original": "Mark 13:2 Greek: οὐ μὴ ἀφεθῇ ὧδε λίθος ἐπὶ λίθον ὃς οὐ μὴ καταλυθῇ ('not a stone will be left here upon a stone that will not be torn down').",
+      "setting": "Mark describes Jesus and his followers leaving Herod's Temple complex; the disciples admire its great stones and buildings, and Jesus announces their dismantling. Mark's composition is often dated approximately 65–75 CE, around the Jewish-Roman War and Temple destruction; a pre-70 date and historical prediction are defended by other scholars.",
+      "laterUse": "The Roman army destroyed and burned the Jerusalem Temple sanctuary in 70 CE, as historically recorded in Josephus and other sources. Substantial platform and retaining-wall masonry remains, so whether 'no stone upon another' is literal total removal or rhetorical language focused on the sacred buildings matters.",
+      "relationship": "A report about Jesus' speech decades before the event survives in a Gospel whose final literary date relative to 70 CE is debated. A historically verified Temple destruction therefore does not independently show that this precise wording was spoken before it happened.",
+      "evidence": "The destruction of the Temple in 70 CE is strongly evidenced, while exact independent confirmation of the speech or an earlier dated manuscript is unavailable. Remaining retaining-wall courses are distinguishable from sanctuary buildings; neither a facile literal-success claim nor a simple all-stones-standing objection accounts for that distinction.",
+      "sourceStatus": "Temple destruction historically confirmed; literal scope and timing of recorded prediction debated",
+      "refs": [
+        [
+          "Mark 13 and critical Temple-destruction notes (USCCB)",
+          "https://bible.usccb.org/bible/mark/13"
+        ],
+        [
+          "Mark 13:2 Greek text",
+          "https://biblehub.com/text/mark/13-2.htm"
+        ],
+        [
+          "S. G. F. Brandon, 'The Date of the Markan Gospel', New Testament Studies",
+          "https://www.cambridge.org/core/journals/new-testament-studies/article/abs/date-of-the-markan-gospel/B34650230D991C2B56A96866131DC994"
+        ],
+        [
+          "The Synoptic Gospels, BYU Religious Studies Center — pre/post 70 dating debate",
+          "https://rsc.byu.edu/new-testament-history-culture-society/synoptic-gospels"
+        ],
+        [
+          "Josephus, Jewish War 6.4–6 (primary account)",
+          "https://www.gutenberg.org/files/2850/2850-h/2850-h.htm"
+        ]
+      ]
+    },
+    {
+      "id": "mark-13-30-this-generation",
+      "label": "This generation will not pass until all these things happen",
+      "earlier": "Mark 13:24–32; Matthew 24:29–36",
+      "later": "The first-century generation, 70 CE destruction, and still-future Son of Man expectations",
+      "kind": "Explicit near-audience time constraint with disputed scope",
+      "original": "Mark 13:30: ἡ γενεὰ αὕτη οὐ μὴ παρέλθῃ μέχρις οὗ ταῦτα πάντα γένηται ('this generation certainly will not pass away until all these things occur').",
+      "setting": "Mark 13 begins with the Temple prediction, then narrates war, crisis, celestial signs and the Son of Man appearing on clouds (13:24–27). The phrase 'this generation' in Mark elsewhere usually addresses the narrative generation. Verse 32 also says no one knows the day or hour, generating an internal tension discussed by scholars.",
+      "laterUse": "Jerusalem's Temple was destroyed in 70 CE within approximately four decades of Jesus' ministry, but there is no independent historical verification of the combined cosmic and visible Son of Man events. Christian solutions distinguish Temple-judgment from final return, treat heavenly imagery symbolically, refer to a future signs-witnessing generation or understand the noun as a spiritual kind; these readings are contested.",
+      "relationship": "The verdict depends on precisely what 'all these things' covers. A reading referring to Jesus' contemporaries and the whole sequence through the cosmic return faces an unfulfilled deadline; restricting the horizon to the Temple's fall or redefining generation changes the claim being evaluated. Matthew and Luke's redactions require separate attention before collapsing all Synoptics.",
+      "evidence": "Benjamin Edsall (2025) studies generation language across the Gospel tradition and its ambiguities; Scott Charlesworth (2017) finds Matthew's immediate sequence from Jerusalem's fall to cosmic signs difficult to separate; preterist and alternative critiques are active scholarship. No historical evidence establishes a visible celestial coming within the contemporaries' lifespan.",
+      "sourceStatus": "Original time phrase explicit; 70 CE Temple event secure; all-things scope and promised return debated",
+      "refs": [
+        [
+          "Greek Mark 13:30",
+          "https://biblehub.com/text/mark/13-30.htm"
+        ],
+        [
+          "Mark 13:24–32 context",
+          "https://bible.usccb.org/bible/mark/13"
+        ],
+        [
+          "Benjamin A. Edsall (2025), 'This Generation' from Mark to Judas, JSNT",
+          "https://doi.org/10.1177/0142064X241289867"
+        ],
+        [
+          "Scott Charlesworth (2017), Historicist interpretation of the Olivet Discourse",
+          "https://doi.org/10.1177/1030570X17736324"
+        ],
+        [
+          "Mark 13:30 Second Temple context (Adam Winn, 2020)",
+          "https://doi.org/10.5325/bullbiblrese.30.4.0540"
+        ]
+      ]
+    },
+    {
+      "id": "matthew-10-23-towns-of-israel",
+      "label": "Before you finish Israel's towns, the Son of Man will come",
+      "earlier": "Matthew 10:16–23",
+      "later": "The disciples' Israel mission, resurrection/exaltation interpretations, Jerusalem 70 CE and final coming",
+      "kind": "Mission timetable and the Son of Man coming with disputed referent",
+      "original": "Matthew 10:23: οὐ μὴ τελέσητε τὰς πόλεις τοῦ Ἰσραὴλ ἕως ἔλθῃ ὁ υἱὸς τοῦ ἀνθρώπου ('you certainly will not complete the towns of Israel before the Son of Man comes').",
+      "setting": "In a mission speech addressed to the Twelve, Matthew instructs them to preach to Israel and warns of persecutions, synagogues and rulers. The Greek passage includes a strong negative with an 'until' clause and has textual variants regarding 'of Israel' in some manuscripts. Matthew 24:14 places global mission before the end; reconciling the passages has a substantial interpretive history.",
+      "laterUse": "Some historians see an imminent return expected during the disciples' lifetime, now historically unfulfilled. Some Christian theologians connect 'coming' to resurrection/exaltation, divine judgment on Jerusalem in 70 CE or a more distant final return. Torsten Löfstedt (2025 volume, online 2026) argues Matthew's 'coming' here is Jesus' exaltation at his resurrection, distinct from the final end.",
+      "relationship": "The near deadline is plain, while 'coming' has competing referents. Each referent changes the event used to test fulfillment. The text itself does not state one universal calendar deadline or specify that every ancient village had to hear a fully completed modern missionary campaign.",
+      "evidence": "Matthew's wording and historical chronology of Jesus' ministry, crucifixion and later Jerusalem fall are available for comparison. There is no independent evidence that the Son of Man visibly returned by the time the original group died. An exaltation claim can be a theological interpretation rather than an externally verifiable dated event.",
+      "sourceStatus": "Temporal syntax and original audience clear; event meant by 'comes' disputed",
+      "refs": [
+        [
+          "Matthew 10:23 Greek text",
+          "https://biblehub.com/text/matthew/10-23.htm"
+        ],
+        [
+          "Matthew 10:16–23 text and critical notes",
+          "https://bible.usccb.org/bible/matthew/10"
+        ],
+        [
+          "Torsten Löfstedt, 'The Coming of the Son of Man and the Mission to Israel'",
+          "https://doi.org/10.58546/se.v90i1.25546"
+        ],
+        [
+          "Matthew 24:14 comparative context",
+          "https://biblehub.com/text/matthew/24-14.htm"
+        ]
+      ]
+    },
+    {
+      "id": "mark-9-1-taste-death",
+      "label": "Some standing here will not taste death before the Kingdom comes",
+      "earlier": "Mark 9:1; Matthew 16:28; Luke 9:27",
+      "later": "The Transfiguration, resurrection/exaltation, Pentecost, 70 CE or future return",
+      "kind": "Prediction within a listener's lifespan with disputed event definition",
+      "original": "Mark 9:1 Greek: οὐ μὴ γεύσωνται θανάτου ἕως ἂν ἴδωσιν τὴν βασιλείαν τοῦ θεοῦ ἐληλυθυῖαν ἐν δυνάμει ('will certainly not taste death until they see God's kingdom come in power').",
+      "setting": "Mark's declaration follows a teaching about the Son of Man coming in glory (8:38) and is immediately followed by the Transfiguration involving three disciples 'after six days' (9:2). Matthew revises the wording to the Son of Man 'coming in his kingdom'; Luke describes seeing the kingdom of God.",
+      "laterUse": "Interpreters variously point to the Transfiguration, Jesus' resurrection and exaltation, Pentecost, Jerusalem's fall, or the final parousia. The Transfiguration is narratively close but visible only as a literary account; resurrection/exaltation is likewise claimed within Christian sources. A full final cosmic advent during those hearers' lives is not independently observed.",
+      "relationship": "The wording sets a lifespan constraint, but readers disagree whether the promised 'coming in power' is an anticipatory vision or an ultimate eschatological transformation. Taking the verse to guarantee a final return within the listeners' lifespan confronts nonfulfillment; selecting a different event must be defended with the adjacent narrative and wider Gospel sequence.",
+      "evidence": "NET translator notes explicitly catalog Transfiguration, resurrection, Spirit and second coming readings. E. J. Davila (New Testament Studies, 2026), writing on Mark 16:1–8, argues that Mark presents Jesus' resurrection as the beginning of the kingdom, which supports a resurrection reading of 9:1, showing that this reading is an argued alternative, not an uncontested definition.",
+      "sourceStatus": "Lifespan language unambiguous; kingdom-arrival referent and historical verification disputed",
+      "refs": [
+        [
+          "Mark 9:1 Greek text",
+          "https://biblehub.com/text/mark/9-1.htm"
+        ],
+        [
+          "NET Bible on Mark 9:1 and four proposed fulfillments",
+          "https://classic.net.bible.org/verse.php?book=Mar&chapter=9&verse=1"
+        ],
+        [
+          "E. J. Davila (2026), Does Mark Care That Jesus Was Raised from the Dead?, New Testament Studies",
+          "https://www.cambridge.org/core/journals/new-testament-studies/article/does-mark-care-that-jesus-was-raised-from-the-dead-on-resurrecting-the-king-and-the-kingdom-mark-1618/38D02EE65DBAAD30E9ACC4D53509A635"
+        ],
+        [
+          "Matthew 16:28 and Mark 9:1 parallels",
+          "https://www.biblegateway.com/passage/?search=Mark+9%3A1%3BMatthew+16%3A28&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "mark-14-62-son-man-high-priest",
+      "label": "You will see the Son of Man at God's right hand and on clouds",
+      "earlier": "Mark 14:61–64; Daniel 7:13–14; Psalm 110:1",
+      "later": "Jesus' exaltation, judgment on Jerusalem, and claimed final coming",
+      "kind": "Direct second-person address joined to Danielic and Davidic enthronement imagery",
+      "original": "Mark 14:62 Greek: ὄψεσθε τὸν υἱὸν τοῦ ἀνθρώπου ... ἐκ δεξιῶν καθήμενον ... καὶ ἐρχόμενον μετὰ τῶν νεφελῶν ('you will see the Son of Man ... seated at the right hand ... and coming with clouds').",
+      "setting": "At the hearing before the high priest, Mark portrays Jesus affirming his identity and combining Psalm 110's right-hand enthronement with Daniel 7's figure approaching the heavenly Ancient of Days. The second-person plural 'you will see' is heard by the priestly group and narratively implicates that audience.",
+      "laterUse": "Some interpreters understand a near vindication shown through Jesus' resurrection, Church growth or Jerusalem's destruction; others see the final visible parousia. Matthew 26:64 adds 'from now on,' suggesting an inaugurated heavenly vindication. Murray J. Smith and Ian J. Vaillancourt (2022) explicitly argue Mark includes *both* enthronement and later future advent.",
+      "relationship": "In Daniel 7 the humanlike figure comes toward God's throne to receive authority, a directional fact easily lost when imagining a descent to earth. A future returning Jesus is a later theological application requiring interpretation of Mark's juxtaposition and the direct audience 'you'.",
+      "evidence": "The quoted links to Daniel and Psalm 110 are independently readable. No outside historical record verifies that the high priestly audience saw Jesus seated in heaven or on clouds. The time horizon and whether the 'seeing' is figurative judgment or literal visibility remain disputed.",
+      "sourceStatus": "Combined sources and direct audience established; future versus inaugurated interpretation and fulfillment disputed",
+      "refs": [
+        [
+          "Mark 14:62 Greek",
+          "https://biblehub.com/text/mark/14-62.htm"
+        ],
+        [
+          "Daniel 7:13 Aramaic source",
+          "https://biblehub.com/text/daniel/7-13.htm"
+        ],
+        [
+          "Psalm 110:1 Hebrew",
+          "https://biblehub.com/text/psalms/110-1.htm"
+        ],
+        [
+          "Smith and Vaillancourt, JBL 2022, Enthroned and Coming to Reign",
+          "https://doi.org/10.15699/jbl.1413.2022.6"
+        ],
+        [
+          "Matthew 26:64 'from now on' wording",
+          "https://biblehub.com/text/matthew/26-64.htm"
+        ]
+      ]
+    },
+    {
+      "id": "one-thess-4-we-alive",
+      "label": "We the living who remain until the Lord's coming",
+      "earlier": "1 Thessalonians 4:13–18 (especially 4:15–17)",
+      "later": "The lifespans of Paul and his audience; Christian expectation of Jesus' return",
+      "kind": "Early Pauline apocalypse with disputed grammatical commitment to imminent lifetime fulfillment",
+      "original": "1 Thessalonians 4:15 Greek ἡμεῖς οἱ ζῶντες οἱ περιλειπόμενοι εἰς τὴν παρουσίαν τοῦ κυρίου ('we the living, the remaining, until/for the coming of the Lord').",
+      "setting": "Paul addresses a Thessalonian Christian community concerned that people have died before Jesus' coming. The letter is commonly placed around 50–51 CE, one of the earliest extant Christian writings. It reassures readers that the dead in Christ will rise before the surviving believers join them.",
+      "laterUse": "Paul writes in the first-person plural 'we who are alive,' which many scholars understand as his expectation that he or members of his contemporary audience could survive until an imminent return. The apostle died and no publicly verifiable descent with the trumpet, resurrection and airborne assembly took place during that generation.",
+      "relationship": "The 'we' may be inclusive pastoral identification with the class of believers still alive *whenever* the parousia occurs rather than a categorical statement that Paul himself would survive; the Greek participle modifies this class. A 2024 Novum Testamentum article argues the imminent/near-expectation reading is only one of several grammatically defensible options. Do not assert a hard dated prophecy if the passage does not specify an explicit year.",
+      "evidence": "The first-century letter's grammar and Paul's eventual death are historically grounded; heavenly trumpet, clouds and resurrection are not independently corroborated. Distinguish probable near expectation from an unambiguous personal survival guarantee.",
+      "sourceStatus": "First-person and resurrection sequence explicit; guaranteed lifetime deadline contested",
+      "refs": [
+        [
+          "1 Thessalonians 4:15 Greek text",
+          "https://biblehub.com/text/1_thessalonians/4-15.htm"
+        ],
+        [
+          "1 Thessalonians 4:13–18 NRSVUE",
+          "https://www.biblegateway.com/passage/?search=1+Thessalonians+4%3A13-18&version=NRSVUE"
+        ],
+        [
+          "Novum Testamentum (2024), Is There Imminent Expectation in 1 Thess 4:13–18?",
+          "https://brill.com/view/journals/nt/66/2/article-p231_5.xml?language=en"
+        ],
+        [
+          "USCCB 1 Thessalonians 4 contextual notes",
+          "https://bible.usccb.org/bible/1thessalonians/4"
+        ]
+      ]
+    },
+    {
+      "id": "one-cor-15-not-all-sleep",
+      "label": "We will not all sleep, but we will all be changed",
+      "earlier": "1 Corinthians 15:50–58 (especially 15:51–52)",
+      "later": "Paul's audience and later Christian resurrection expectations",
+      "kind": "Pauline time expectation with exceptional Greek manuscript variants",
+      "original": "Common critically preferred Greek: πάντες οὐ κοιμηθησόμεθα, πάντες δὲ ἀλλαγησόμεθα ('we will not all sleep, but we will all be changed'); some manuscripts instead read 'we all will sleep, but not all will be changed'.",
+      "setting": "In a letter commonly dated about 53–55 CE, Paul argues for resurrection and a final transformation at the last trumpet. 'Sleep' functions as a death metaphor; Paul specifies that believers' bodies must be transformed for immortality. The transmission history of verse 51 includes several markedly divergent Greek forms.",
+      "laterUse": "In the preferred modern critical reading, Paul speaks as though some believers will remain alive at the last trumpet; later scribes transmitted alternate formulations that change the apparent lifetime expectation. No independently observable global trumpet/resurrection is established as occurring in Paul's generation.",
+      "relationship": "Because some variants reverse key negatives, an evidence audit must name its textual base before treating the verse as a fixed expired promise. NET's textual note groups four principal variants and explains how embarrassment about Paul's generation dying could have motivated some scribal changes, without proving the motives of each copyist.",
+      "evidence": "The critical text and manuscript variants are ascertainable; a resurrection event is not historically independently confirmable. The preferred text establishes Paul's anticipation that some living believers might be changed, but an exact year or definitive guarantee about Paul individually is absent.",
+      "sourceStatus": "Preferred textual form and major variants documented; eschatological timeframe and miraculous event unverified",
+      "refs": [
+        [
+          "1 Corinthians 15:51 Greek interlinear",
+          "https://biblehub.com/text/1_corinthians/15-51.htm"
+        ],
+        [
+          "NET Bible 1 Corinthians 15:51 manuscript-note comparison",
+          "https://classic.net.bible.org/verse.php?book=1Co&chapter=15&tab=commentaries&theme=wiki&verse=51"
+        ],
+        [
+          "1 Corinthians 15 chapter and notes (USCCB)",
+          "https://bible.usccb.org/bible/1corinthians/15"
+        ],
+        [
+          "Scholarly citation of Fee and Metzger on 1 Cor 15:51 variant readings",
+          "https://rsc.byu.edu/vol-19-no-2-2018/analysis-joseph-smith-translation-1-corinthians-1540"
+        ]
+      ]
+    },
+    {
+      "id": "revelation-1-22-soon",
+      "label": "What must happen soon: the appointed time is near",
+      "earlier": "Revelation 1:1–3 and 22:6–12, 20",
+      "later": "Seven churches in Roman Asia; successive centuries of Christian expectations",
+      "kind": "Explicit imminent apocalyptic framing with disputed referent and time horizon",
+      "original": "Greek ἐν τάχει (en tachei, 'soon/quickly', Rev 1:1; 22:6), ἐγγύς (engys, 'near', 1:3; 22:10), and ἔρχομαι ταχύ ('I am coming soon/quickly', 22:7, 12, 20).",
+      "setting": "The book introduces itself as a revelation addressed to seven churches in the Roman province of Asia. Its prologue and epilogue frame visions of imperial evil, judgment and new creation with repeated imminence language. The book's final form is commonly placed near Domitian's late-first-century reign, though early Nero-era dating and redaction models remain disputed.",
+      "laterUse": "Christians have applied the passages to first-century divine judgment on Rome or Jerusalem, the quickly unfolding consequences of Christ's resurrection, the end-of-age return still awaited, or the claim that events happen rapidly once initiated. Readings that postpone the promised culmination indefinitely must explain both ἐν τάχει and ἐγγύς and the addressees' context.",
+      "relationship": "A claim about soon/near events, stated to the author's contemporary readers, intersects the entire vision but does not itself specify a calendar date. 'Swiftly when it happens' can be argued for ταχύ in certain contexts, but it does not automatically cancel the explicitly spatial-temporal 'near' at both bookends. Apocalyptic symbols and stages can carry multiple referents; specify which events have occurred before rating fulfillment.",
+      "evidence": "The original Greek expressions and named Asian congregations are directly ascertainable. No independently observed end of death, new creation, or universal visible return is documented within that audience's lifespan. Claims that the language refers only to contemporary Roman tribulation, rather than the book's cosmic end, remain interpretive positions that require argument.",
+      "sourceStatus": "Near-time Greek and original audience explicit; scope and literal fulfillment of complete visions disputed",
+      "refs": [
+        [
+          "Revelation 1 text and critical notes (USCCB)",
+          "https://bible.usccb.org/bible/revelation/1"
+        ],
+        [
+          "Revelation 22 epilogue and repeated 'soon' (USCCB)",
+          "https://bible.usccb.org/bible/revelation/22"
+        ],
+        [
+          "USCCB critical Introduction to Revelation, authorship and dating",
+          "https://bible.usccb.org/bible/revelation/0"
+        ],
+        [
+          "Greek Revelation 1:1",
+          "https://biblehub.com/text/revelation/1-1.htm"
+        ],
+        [
+          "Greek Revelation 22:10",
+          "https://biblehub.com/text/revelation/22-10.htm"
+        ]
+      ]
+    },
+    {
+      "id": "revelation-13-beast-number",
+      "label": "The beast, coercive worship and 666/616",
+      "earlier": "Revelation 13:1–18; Daniel 7:2–8; Revelation 17:9–11",
+      "later": "First-century Roman imperial institutions and subsequent end-time beast interpretations",
+      "kind": "Apocalyptic political symbol and cryptographic number with significant textual variant",
+      "original": "Rev 13:18 Greek ψήφισάτω τὸν ἀριθμὸν τοῦ θηρίου ('let them calculate the beast's number'); principal number ἑξακόσιοι ἑξήκοντα ἕξ (666), with ancient 616 variant.",
+      "setting": "Revelation's sea beast borrows features from Daniel 7's four political beasts, while a land beast promotes worship of the first. In a Roman-Asia setting, imperial authority, emperor worship and restrictions on economic activity provide a historically grounded interpretive backdrop. The seven heads can be associated with Rome's rulers/hills, but the details are not straightforward chronological data.",
+      "laterUse": "A major scholarly identification reads 666 as 'Neron Caesar' transliterated into Hebrew letters, yielding 666, with a Latinized name spelling yielding 616. Papyrus 115 preserves a form of the 616 variant; it is not a modern numerical invention. Max Nelson (2025) challenges the dominant Nero proposal with a Claudian-house candidate, confirming continuing scholarly disagreement. Many Christian futurist traditions interpret the beast as a still-future political ruler or system.",
+      "relationship": "The number is a feature of first-century name-number calculation (gematria/isopsephy) and has manuscript variation that must be recorded before modern identifications. The text invokes Danielic empire imagery, not a directly demonstrable future identification from a present-day technology, ID system or political figure. Rome-centered readings are historically contextual but not proof that every apocalyptic image was fulfilled by Nero.",
+      "evidence": "Roman imperial rule, Nero's death in 68 CE, Asian provincial imperial cults, and textual witnesses to 666/616 are historically documented. The chapter's supernatural miracles, global control and final downfall are not independently verified as an integrated literal event; scholars dispute single-name decoding and the intended audience/dating.",
+      "sourceStatus": "Roman imperial context and 666/616 variants supported; beast identity and any full predictive fulfillment disputed",
+      "refs": [
+        [
+          "Revelation 13 text and historical notes (USCCB)",
+          "https://bible.usccb.org/bible/revelation/13"
+        ],
+        [
+          "Greek Revelation 13:18",
+          "https://biblehub.com/text/revelation/13-18.htm"
+        ],
+        [
+          "Max Nelson (2025), A Concealed Claudian: The Meaning of 666 in Revelation",
+          "https://doi.org/10.1093/jts/flaf015"
+        ],
+        [
+          "USCCB Revelation Introduction, first-century Asia/Rome context",
+          "https://bible.usccb.org/bible/revelation/0"
+        ],
+        [
+          "Same Nelson article, Journal of Theological Studies 76.1: discussion of the 616 reading in Papyrus 115",
+          "https://academic.oup.com/jts/article/76/1/109/8043235"
+        ]
+      ]
+    },
+    {
+      "id": "revelation-20-21-millennium-new-jerusalem",
+      "label": "Thousand-year reign, final judgment and new Jerusalem",
+      "earlier": "Revelation 20:1–21:27; Isaiah 65:17–25; Ezekiel 37–48",
+      "later": "Jewish restoration imagery, Christian premillennial/amillennial/postmillennial expectations, claimed end of death",
+      "kind": "Eschatological vision reusing older restoration images; duration and sequence contested",
+      "original": "Rev 20:2 χίλια ἔτη ('a thousand years'); Rev 21:1 οὐρανὸν καινὸν καὶ γῆν καινήν ('new heaven and new earth'); Rev 21:4 θάνατος οὐκ ἔσται ἔτι ('death will be no more').",
+      "setting": "A vision following the beast's judgment depicts Satan bound for one thousand years, martyrs reigning, a later release and final battle, judgment of the dead, and a new heaven and new earth descending with a vast cubic Jerusalem. The author reworks Isaiah 25, 65–66, Ezekiel 37–48 and Danielic resurrection/court imagery. The 'new city' has no separate temple because God and the Lamb embody its sanctuary.",
+      "laterUse": "Premillennialists read a future distinct thousand-year reign followed by final judgment; amillennialists understand the thousand years symbolically as Christ's present reign with a final consummation; postmillennial readings view an extended gospel transformation before final return. Jewish and Christian readings of Isaiah/Ezekiel antecedents differ. Catholic USCCB notes explicitly interpret the millennium as a symbolic, rather than literal, long period.",
+      "relationship": "The gigantic cube, innumerable architectural jewels and replacement of sun/temple are structured symbols; a blanket assertion that the material describes exactly 1,000 elapsed modern years is a tradition-specific premise. The promise of no more death is a more direct observable end-state condition, and no historical period has fulfilled it as a universal physical fact.",
+      "evidence": "Earlier intertexts and competing reception histories can be verified. No independently observable global resurrection, permanent ending of death, destruction of the cosmos or descent of a jewel-built heavenly metropolis has been recorded. A future expectation is logically different from an already verified historical event.",
+      "sourceStatus": "Apocalyptic intertexts and competing millennium interpretations attested; final world transformation unverified",
+      "refs": [
+        [
+          "Revelation 20 and notes on symbolic millennium (USCCB)",
+          "https://bible.usccb.org/bible/revelation/20"
+        ],
+        [
+          "Revelation 21 on new heavens and Jerusalem (USCCB)",
+          "https://bible.usccb.org/bible/revelation/21"
+        ],
+        [
+          "Revelation 22 on living waters and tree of life (USCCB)",
+          "https://bible.usccb.org/bible/revelation/22"
+        ],
+        [
+          "Isaiah 65:17 and Ezekiel 40–48 intertexts",
+          "https://www.biblegateway.com/passage/?search=Isaiah+65%3A17%3BEzekiel+47%3A1-12&version=NRSVUE"
+        ],
+        [
+          "Greek Revelation 20:2",
+          "https://biblehub.com/text/revelation/20-2.htm"
+        ]
+      ]
+    },
+    {
+      "id": "mark-1-composite-quotation",
+      "label": "Isaiah is named over a three-passage composite quotation",
+      "earlier": "Exodus 23:20; Malachi 3:1; Isaiah 40:3",
+      "later": "Mark 1:2–3, applied to John the Baptist's ministry",
+      "kind": "Composite literary quotation with 'Isaiah' vs 'prophets' textual variant",
+      "original": "Mark 1:2 ἐν τῷ Ἠσαΐᾳ τῷ προφήτῃ ('in Isaiah the prophet') in the early critical witnesses; later variant ἐν τοῖς προφήταις ('in the prophets'). Mark's first quoted messenger wording echoes Exodus 23:20 and Malachi 3:1; 1:3 cites Isaiah 40:3.",
+      "setting": "Exodus's messenger originally guides Israel toward the land; Malachi warns of coming purification and a messenger before YHWH's arrival; Isaiah 40 announces comfort and a wilderness highway for YHWH during exile/restoration. None originally names John the Baptist.",
+      "laterUse": "Mark makes John the Baptist the preparing wilderness messenger for Jesus and captions both source fragments with Isaiah. Matthew and Luke rework these traditions in their own order. Many manuscripts read 'in the prophets,' a possible smoothing of the difficult naming issue; the older/widely attested critical reading favors Isaiah.",
+      "relationship": "Mark's introductory quotation is conflated from at least two different prophet texts and language echoed from Exodus. It is not a single uncontested exact forward-looking prediction. Attribution to the leading prophet can be an ancient composition convention; a mistaken attribution or later editorial correction are alternative scholarly explanations, but each must explain the manuscript evidence.",
+      "evidence": "Direct primary comparison and well-documented textual variants establish the wording change. NET critical notes specify witnesses and explain why the harder Isaiah reading has early support; this determines which 'attribution problem' an analyst is actually judging. The Gospel's literary reuse does not independently corroborate John the Baptist as a uniquely predicted individual.",
+      "sourceStatus": "Three-source composite and early Isaiah attribution supported; original referents distinct from later Christian reading",
+      "refs": [
+        [
+          "Mark 1:2–3 with footnotes and texts of Exodus/Malachi/Isaiah",
+          "https://www.biblegateway.com/passage/?search=Mark+1%3A2-3%2CExodus+23%3A20%2CIsaiah+40%3A3%2CMalachi+3%3A1&version=ESV"
+        ],
+        [
+          "NET critical apparatus on Isaiah vs prophets wording",
+          "https://classic.net.bible.org/passage.php?passage=Mar+1%3A2-3"
+        ],
+        [
+          "Monograph on OT quotation adaptation in Mark (2023)",
+          "https://www.jstor.org/stable/jj.20261345.7"
+        ],
+        [
+          "USCCB translation note on Mark 1:2",
+          "https://bible.usccb.org/bible/mark/1"
+        ]
+      ]
+    },
+    {
+      "id": "john-19-24-garments-psalm22",
+      "label": "Psalm 22's garment-lot lament becomes two fulfillment actions",
+      "earlier": "Psalm 22:18 (Hebrew; 22:19 in some numbering)",
+      "later": "John 19:23–24 (compare Mark 15:24; Matthew 27:35; Luke 23:34)",
+      "kind": "Poetic lament reused as a passion scene with narrative elaboration",
+      "original": "Psalm 22:18 יְחַלְּקוּ בְגָדַי לָהֶם וְעַל־לְבוּשִׁי יַפִּילוּ גוֹרָל ('they divide my clothes among themselves, and cast lots for my clothing').",
+      "setting": "Psalm 22 is a first-person lament by a speaker who believes he has been abandoned and exposed to humiliating violence, before a turn toward divine deliverance and praise. Its two garment expressions use synonymous poetic parallelism to depict enemies treating the sufferer as doomed; no first-century Roman soldiers are named.",
+      "laterUse": "All four canonical passion accounts mention garments and casting lots. John alone quotes Psalm 22 directly at this exact point and distinguishes the soldiers' dividing several garments from separately casting lots for a seamless tunic; the USCCB note describes the scene as a literal division of poetic parallelism into two narrated actions.",
+      "relationship": "The earlier lyric describes humiliation and dispossession within a prayer, while the Gospel treats it as Jesus' fulfilled scripture. Multiple Gospels may preserve shared tradition and cannot automatically be counted as four independent eyewitness confirmations; deliberate narrative shaping around scripture is a live historical-critical possibility.",
+      "evidence": "Psalm wording and John's allocation of the two actions can be compared. There is no external material record of the soldiers' precise lottery, so the evangelist's assertion of fulfillment cannot independently establish that every physical detail occurred as narrated.",
+      "sourceStatus": "Scriptural quotation and parallelism clear; specific allocation scene lacks independent attestation",
+      "refs": [
+        [
+          "Psalm 22 original Hebrew garment line",
+          "https://biblehub.com/text/psalms/22-18.htm"
+        ],
+        [
+          "USCCB John 19:23–24 and note contrasting John and Synoptics",
+          "https://bible.usccb.org/bible/john/19"
+        ],
+        [
+          "Psalm 22 full poem, USCCB numbering 22:19",
+          "https://bible.usccb.org/bible/psalms/22"
+        ],
+        [
+          "All Gospels on garment division",
+          "https://www.biblegateway.com/passage/?search=Mark+15%3A24%3BJohn+19%3A23-24%3BMatthew+27%3A35%3BLuke+23%3A34&version=NRSVUE"
+        ]
+      ]
+    },
+    {
+      "id": "acts-8-isaiah53-ethiopian",
+      "label": "The Ethiopian official asks who Isaiah's suffering servant is",
+      "earlier": "Isaiah 53:7–8 (Hebrew and ancient Greek)",
+      "later": "Acts 8:26–40, especially 8:32–35",
+      "kind": "Ancient Greek servant quotation used as a Christian teaching interpretation",
+      "original": "Acts 8:33 quotes Greek ἐν τῇ ταπεινώσει ἡ κρίσις αὐτοῦ ἤρθη ('in his humiliation his justice/judgment was taken away'); Hebrew Isaiah 53:8 reads מֵעֹצֶר וּמִמִּשְׁפָּט לֻקָּח ('by/from oppression and judgment he was taken').",
+      "setting": "Isaiah's servant poem appears in Isaiah 52:13–53:12 and has disputed identity, including collective Israel, representative individual and other proposals; Isaiah 49:3 can call the servant Israel even as 49:5 depicts a mission to restore Israel. The Hebrew and ancient Greek forms of 53:8 differ significantly in their portrayal of oppression and judgment.",
+      "laterUse": "Acts narrates a royal official of the Candace, queen of the Ethiopians (the kingdom of Kush/Meroë in Nubia), returning from worship in Jerusalem while reading Isaiah's Greek form. He asks Philip whom the prophet means, and Philip teaches that Jesus is the referent, after which the official is baptized. The narrative's question records that the passage's identity was not treated as self-evident.",
+      "relationship": "Acts quotes the old Greek more closely than the Hebrew on the 'humiliation/justice' clause and applies an earlier servant poem to Jesus. The later interpretation is clearly documented as a claim by Acts' author and characters; it does not independently establish the earlier writer's intended identity or the historicity of the encounter.",
+      "evidence": "USCCB's critical Acts 8 note identifies the quoted verses and evangelization role, and a direct comparison shows Hebrew/Greek wording differences. The reported angelic instructions, sudden disappearance and precise dialogue are only attested within Acts, not confirmed by independent contemporary records.",
+      "sourceStatus": "Greek quotation and Jesus application explicit; Hebrew/Greek differences and earlier servant identity remain contested",
+      "refs": [
+        [
+          "Acts 8:26–40 with critical commentary (USCCB)",
+          "https://bible.usccb.org/bible/acts/8"
+        ],
+        [
+          "Isaiah 53:7–8 Hebrew and poem context",
+          "https://bible.usccb.org/bible/isaiah/53"
+        ],
+        [
+          "Greek Acts 8:33",
+          "https://biblehub.com/text/acts/8-33.htm"
+        ],
+        [
+          "Commentary comparing Hebrew Isaiah 53:8 and Acts' LXX wording",
+          "https://biblehub.com/commentaries/acts/8-33.htm"
+        ],
+        [
+          "Isaiah 53:8 Hebrew",
+          "https://biblehub.com/text/isaiah/53-8.htm"
+        ]
+      ]
+    }
+  ],
+  "review": {
+    "review_date": "2026-10-20",
+    "internal_review_status": "All 65 cases reviewed case by case by an AI assistant on 2026-10-20 (verdict matrix in REVIEW.md); not an independent specialist review; original-language collation not performed.",
+    "external_review_status": "not performed; owner accepted documented limits on 2026-10-20, reconfirmed when asked directly (see STATUS.md)",
+    "review_document": "REVIEW.md"
+  },
+  "batches": [
+    {
+      "id": "batch-1",
+      "label": "Initial cross-category starter cases",
+      "case_ids": [
+        "isaiah-7-14",
+        "hosea-11-1",
+        "jeremiah-31-15",
+        "micah-5-2",
+        "zechariah-9-9",
+        "isaiah-53",
+        "psalm-22",
+        "isaiah-40-3",
+        "jeremiah-46-egypt",
+        "ezekiel-29-egypt",
+        "jonah-3-warning"
+      ],
+      "status": "internally_reviewed"
+    },
+    {
+      "id": "batch-2",
+      "label": "Complete Matthew's ten classic fulfillment-formula quotation cases",
+      "case_ids": [
+        "nazorean-matthew-2-23",
+        "isaiah-9-galilee-matthew-4",
+        "isaiah-53-4-healing",
+        "isaiah-42-servant-matthew-12",
+        "psalm-78-parables-matthew-13",
+        "zechariah-11-silver-matthew-27"
+      ],
+      "status": "research_complete_internal_review_pending"
+    },
+    {
+      "id": "batch-3",
+      "label": "Five high-value NT adaptations of prophetic Hebrew/Greek texts",
+      "case_ids": [
+        "isaiah-61-luke-4",
+        "joel-2-acts-2",
+        "amos-9-acts-15",
+        "zechariah-12-john-19",
+        "jeremiah-31-hebrews-8"
+      ],
+      "status": "research_complete_internal_review_pending"
+    },
+    {
+      "id": "batch-4",
+      "label": "Additional Matthew references beyond the ten formulas",
+      "case_ids": [
+        "isaiah-6-matthew-13",
+        "zechariah-13-matthew-26",
+        "matthew-26-scriptures-unspecified"
+      ],
+      "status": "research_complete_internal_review_pending"
+    },
+    {
+      "id": "batch-5",
+      "label": "John 13/19 and Acts 2/3/13",
+      "case_ids": [
+        "psalm-41-john-13",
+        "psalm-16-acts-2",
+        "deuteronomy-18-acts-3",
+        "unbroken-bones-john-19",
+        "psalm-2-acts-13"
+      ],
+      "status": "source_spot_checked_full_review_pending"
+    },
+    {
+      "id": "batch-6",
+      "label": "John 12, Romans 9/11 and Hebrews 1",
+      "case_ids": [
+        "isaiah-53-1-john-12",
+        "isaiah-6-john-12",
+        "hosea-romans-9-gentiles",
+        "isaiah-59-romans-11-zion",
+        "hebrews-1-5-royal-son"
+      ],
+      "status": "source_spot_checked_full_review_pending"
+    },
+    {
+      "id": "batch-7",
+      "label": "Historical oracles: Cyrus, 70 years, Tyre, Babylon and Nineveh",
+      "case_ids": [
+        "cyrus-isaiah-44-45",
+        "jeremiah-25-seventy-years",
+        "jeremiah-29-seventy-years",
+        "ezekiel-26-tyre",
+        "isaiah-13-babylon-medes",
+        "nahum-nineveh-fall"
+      ],
+      "status": "source_located_full_review_pending"
+    },
+    {
+      "id": "batch-8",
+      "label": "Damascus, Edom, Haggai and Zechariah historical claims",
+      "case_ids": [
+        "isaiah-17-damascus",
+        "obadiah-edom",
+        "jeremiah-49-edom",
+        "haggai-2-temple-glory",
+        "zechariah-14-day-of-yhwh"
+      ],
+      "status": "source_located_full_review_pending"
+    },
+    {
+      "id": "batch-9",
+      "label": "Daniel 2, 7, 8, 9, 11 and 12 visions and competing historical predictions",
+      "case_ids": [
+        "daniel-2-four-kingdoms",
+        "daniel-7-beasts-son-of-man",
+        "daniel-8-ram-goat-2300",
+        "daniel-9-seventy-weeks",
+        "daniel-11-kings-end",
+        "daniel-12-resurrection-days"
+      ],
+      "status": "source_located_full_critical_review_pending"
+    },
+    {
+      "id": "batch-10",
+      "label": "Jesus and Paul near-time predictions in Mark, Matthew, 1 Thessalonians and 1 Corinthians",
+      "case_ids": [
+        "mark-13-2-temple-destruction",
+        "mark-13-30-this-generation",
+        "matthew-10-23-towns-of-israel",
+        "mark-9-1-taste-death",
+        "mark-14-62-son-man-high-priest",
+        "one-thess-4-we-alive",
+        "one-cor-15-not-all-sleep"
+      ],
+      "status": "source_located_full_critical_review_pending"
+    },
+    {
+      "id": "batch-11",
+      "label": "Revelation imminent end/beast/new creation and NT scriptural reuse in Mark 1, John 19, Acts 8",
+      "case_ids": [
+        "revelation-1-22-soon",
+        "revelation-13-beast-number",
+        "revelation-20-21-millennium-new-jerusalem",
+        "mark-1-composite-quotation",
+        "john-19-24-garments-psalm22",
+        "acts-8-isaiah53-ethiopian"
+      ],
+      "status": "source_located_full_critical_review_pending"
+    }
+  ]
+}

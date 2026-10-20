@@ -68,8 +68,10 @@ jobs:
       - name: Verify committed search index matches readers
         run: git diff --exit-code -- search-index.json
 
-      - name: Check public Cited Persons evidence warnings
-        run: node --test tests/public-cited-persons-source-gate.test.mjs
+      - name: Check public Cited Persons evidence warnings and corrected citations
+        run: |
+          node --test tests/public-cited-persons-source-gate.test.mjs
+          node --test tests/public-cited-persons-bibliography-corrections.test.mjs
 
       - name: Regenerate normalized record chunks
         run: npm run generate-records
@@ -86,15 +88,28 @@ jobs:
       - name: Validate app data loading
         run: node scripts/import/validate-app-data.mjs
 
+      - name: Check specialized research page pagination
+        run: bash scripts/test-research-page-navigation.sh
+
+      - name: Check reader topic navigation and accessibility
+        run: node --test tests/reader-section-navigation.test.mjs
+
       - name: Render app in phone-sized Chromium
         run: bash scripts/test-browser.sh
+
+      - name: Check nonempty reader topics in laptop and phone Chromium
+        run: bash scripts/test-reader-navigation.sh
 
       - name: Validate generated comparison catalog and its evidence graph
         run: |
           npm run validate:timeline
           node --check scripts/build-public-catalog.mjs
           node --test tests/public-catalog.test.mjs
+          node --test tests/traditions-profiles.test.mjs
           npm run build:reader-site
+          node --test tests/research-page-navigation-and-public-files.test.mjs
+          test -s dist/reader-site/traditions.html
+          bash scripts/test-traditions-browser.sh
           test -s dist/reader-site/catalog.html
           grep -Fq 'id="deities"' dist/reader-site/catalog.html
           grep -Fq 'id="people"' dist/reader-site/catalog.html
@@ -106,6 +121,9 @@ jobs:
 
       - name: Check homepage and navigation reading order
         run: node --test tests/library-order.test.mjs
+
+      - name: Run complete repository test suite after generating site
+        run: node --test
 
       - name: Build standalone bundle
         run: npm run build:standalone

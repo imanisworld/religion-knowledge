@@ -33,3 +33,11 @@
 - **No claim made that this file itself fixed the six promoted person records.** They remain in PR #212's working branch. **Main still has 194 documented, 171 unresolved** at the reviewed snapshot.
 
 **Reconciliation outcome:** branch differences and source blockers are recorded; publishing the six promotions is **blocked**, not approved. After source-gated changes are made and tests rerun, PR #212 may return for merge decision.
+
+## Reconciliation applied (20 October 2026, branch `claude/reconcile-212-with-main-20261020`)
+
+- **Main merged in**, including the 11 public corrections from #229 (now on main). All 11 corrected Cited Persons lines are byte-identical to main; Archer, Barton and Briggs keep this PR's follow-up wording.
+- **Six promotions held, not published.** Sanders, Schreiner, Seifrid, Stuhlmacher, Westerholm and Wright keep this PR's corrected text but return to `⟨UNRESOLVED⟩`, each with an explicit **Unresolved:** line naming the missing original passage. Counts are back to **194 documented / 171 unresolved** in `Cited_Persons.md`, `STATUS.md` and `README.md`. Schreiner is the closest to promotable (bibliography-only, verified from original records) but still needs the owner's claim-specific acceptance.
+- **Registry:** `LC-SANDERS-001` lowered from `verified_with_qualification` / high to `needs_qualification` / medium, because Sanders pp. 75 and 409 are quoted through secondary reviews.
+- **Still open before merge:** the Law & Covenant reader itself marks the Sanders-based claims (`Law_and_Covenant.md` §3.2 and the Sanders summary paragraph) as `⟨DOCUMENTED⟩` on the same secondary page citations. Either inspect Sanders's original pages or relabel those paragraphs before this module goes public.
+- Generated readers, search index and normalized records were rebuilt with the repo scripts; Law & Covenant was added to the compact document switcher introduced on main by #230.

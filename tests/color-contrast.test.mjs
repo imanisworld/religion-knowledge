@@ -50,6 +50,11 @@ test('public text and link palettes pass 4.5:1 in light and dark themes',()=>{
   readable('Dark links',dark['accent'],[dark['ground'],dark['paper'],dark['accent-soft']]);
   readable('Dark brand metadata',darkNav['rk-ink3'],[darkNav['rk-ground'],darkNav['rk-paper']]);
   readable('Dark navigation',darkNav['rk-ink2'],[darkNav['rk-ground'],darkNav['rk-paper']]);
+  assert.ok(ratio(dark['rule'],dark['paper'])>=3,
+    'Dark mode borders should remain visible against the reading surface');
+  assert.ok(ratio(darkNav['rk-rule'],darkNav['rk-paper'])>=3,
+    'Dark navigation borders should remain discernible');
+  readable('Dark sitebar links',darkNav['rk-accent'],[darkNav['rk-ground'],darkNav['rk-paper']]);
 });
 
 test('the standalone comparisons page and landing use theme-aware readable colors',()=>{
