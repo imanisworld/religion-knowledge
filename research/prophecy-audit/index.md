@@ -1,6 +1,6 @@
 # Biblical Prophecy — Evidence Audit
 
-**Checked:** October 20, 2026 · **Status:** 65 researched cases across eleven batches: all 65 reviewed case by case by an AI assistant (not an independent specialist review; see REVIEW.md). No outside specialist review was performed; the owner accepted the documented limits instead (STATUS.md). This is not a count of all biblical prophecies.
+**Checked:** October 20, 2026 · **Status:** 65 researched cases across eleven batches: all 65 reviewed case by case by an AI assistant (not an independent specialist review; see REVIEW.md). No outside specialist review has been performed; that requirement remains open (STATUS.md). This is not a count of all biblical prophecies.
 
 The Bible's prophetic literature includes warnings, oracles about current political crises, predictions, poetic laments, promises of restoration, and retrospective historical narratives. A later author calling an earlier passage **fulfilled** establishes that the later author made that interpretation. It does not by itself establish that the earlier author predicted the later event.
 
