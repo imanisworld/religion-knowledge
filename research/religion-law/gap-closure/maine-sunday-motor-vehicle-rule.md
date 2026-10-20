@@ -54,6 +54,8 @@ The most important practical problem was collective action among competing deale
 
 That reading is not merely inferred from a national pattern. In *Kittery Motorcycle, Inc. v. Rowe*, 201 F. Supp. 2d 189 (D. Me. 2002), the federal district court reviewed the 1959 legislative record and concluded that dealers were principally concerned with competitive effects: individual dealers would feel compelled to open if competitors could sell on Sunday.
 
+**Source-access recheck (2026-10-20):** The complete published court opinion was read at [*Kittery Motorcycle*, 201 F. Supp. 2d 189](https://law.justia.com/cases/federal/district-courts/FSupp2/201/189/2481731/), including the passage and footnote 5 on the 1959 Senate record. The court discussed both the industry-competition explanation and the broader change from earlier religious premises to later secular Sunday-closing rationales. The opinion is a later judicial analysis, not eyewitness 1959 legislative testimony; the cited Senate and House debates remain the enactment-specific primary sources.
+
 **Causation weight:** High.
 
 ### 2. Business-operational concerns — directly documented
