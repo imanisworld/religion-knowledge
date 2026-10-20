@@ -10,6 +10,7 @@ const RESEARCH_READERS = [
   ['sources.html', 'Sources & Primary Texts', 'Named scholars, publications, and primary-text citations.'],
   ['other-side.html', 'The Strongest Case', 'The strongest traditional and apologetic cases, stated fairly.'],
   ['translations.html', 'Translations', 'Translation history and the choices behind disputed renderings.'],
+  ['prophecy-audit.html', 'Biblical Prophecy Audit', 'Trace earlier passages, later fulfillment claims, and external historical evidence.'],
   ['method-reference.html', 'Method & Reference', 'Survey method, open audit queue, reading timeline.'],
   ['glossary.html', 'Glossary', 'Terms and definitions used across the study.'],
   ['cited-persons.html', 'Cited Persons', 'Who the cited scholars, theologians, historians, and other sources are — including relevant context and flags.'],
@@ -58,6 +59,7 @@ const MISC_FILES = [
 const RESEARCH_DIRS = [
   'research/religion-law',
   'research/gender-over-time',
+  'research/prophecy-audit',
   'research/synthesis',
 ];
 
