@@ -86,6 +86,9 @@ jobs:
       - name: Validate app data loading
         run: node scripts/import/validate-app-data.mjs
 
+      - name: Check specialized research page pagination
+        run: bash scripts/test-research-page-navigation.sh
+
       - name: Check reader topic navigation and accessibility
         run: node --test tests/reader-section-navigation.test.mjs
 
@@ -94,9 +97,6 @@ jobs:
 
       - name: Check nonempty reader topics in laptop and phone Chromium
         run: bash scripts/test-reader-navigation.sh
-
-      - name: Check specialized research page pagination
-        run: bash scripts/test-research-page-navigation.sh
 
       - name: Validate generated comparison catalog and its evidence graph
         run: |
