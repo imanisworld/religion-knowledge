@@ -50,6 +50,12 @@
 - **John 19:24:** Psalm 22's two parallel lines about garments become two narrated actions in John. The narration is evidence of a Gospel interpretation, not independent confirmation of soldiers' exact clothing arrangements.
 - **Acts 8:32–35:** The quotation uses Isaiah 53's **ancient Greek** form, including 'in humiliation justice was taken away', differing from Hebrew 53:8. The Ethiopian official's question makes the identity issue explicit.
 
+## Expanded completeness search — new leads
+
+The original **50-location supplemental seed has been completely mapped**, but a first wider completeness pass identified **21 additional unresearched candidate loci** in [discovery-queue.json](discovery-queue.json). These include Davidic dynasty promises, national restoration, Jeremiah's wider Babylon oracles, Zechariah's Branch, delayed-parousia explanations, and more Revelation visions. Some overlap earlier source passages, so deduplication must precede adding canonical cases.
+
+**Separate counts as of this checkpoint:** 65 canonical research cases; 50/50 original seed loci mapped; **21 provisional new leads**, none promoted as complete; 54 later canonical records await detailed source review. The wider inventory search is ongoing and additional omissions may be found.
+
 ## Work remaining before independent review
 
 1. Search systematically for omitted claims outside the **original fifty-locus seed** and define the inclusion/deduplication rules in an inventory methodology.
