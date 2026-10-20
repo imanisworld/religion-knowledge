@@ -47,7 +47,7 @@ This repository contains both `wrangler.jsonc` and `wrangler.toml`. **`wrangler.
 
 ## Religion & Law Coverage (20 October 2026)
 
-The U.S. research has **50 first-pass state profiles**, including **8 expanded priority states**. Its structured `us-state-starter.json` currently contains **59 state-law records (source-classified) from 16 states (pending PR #218 review), plus one Texas §21.06 provision-specific causation record held outside the A–E comparison**. The separate `us-state-context.json` has **50 state slots**, of which **30 have verified first-pass demographic/officeholder context** and **20 remain uncoded**. This is partial research coverage; the record count must not be presented as completed legal coverage of every state.
+The U.S. research has **50 first-pass state profiles**, including **8 expanded priority states**. Its structured `us-state-starter.json` currently contains **59 state-law records (source-classified) from 16 states (pending PR #218 review), plus one Texas §21.06 provision-specific causation record held outside the A–E comparison**. The separate `us-state-context.json` has **50 state slots**, of which all **50 have verified first-pass demographic/officeholder context** (**0 remain uncoded**; officeholder data as of 20 October 2026). This is partial research coverage; the record count must not be presented as completed legal coverage of every state.
 
 The old research branch `research/state-gap-closure-20260927` is **not merged into `main`** as of this note. It contains five gap-closure research files for Texas, Maine, Montana, cross-state inventories, and a local README. Review/port independently; its conclusions do not alter the canonical 8-state status until accepted.
 
