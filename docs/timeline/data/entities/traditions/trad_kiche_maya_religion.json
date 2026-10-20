@@ -10,7 +10,7 @@
     "Mesoamerica"
   ],
   "dating": {
-    "dating_summary": "The Popol Vuh's earliest surviving written form is Francisco Ximénez's 1701-1703 K'iche'/Spanish copy of a now-lost c. 1554-1558 alphabetic K'iche' original. The narrative content itself — the Hero Twins cycle, the Maize God's death and resurrection, the Lords of Xibalba — is independently attested in Classic-period (250-900 CE) painted ceramic iconography, pushing verified narrative antiquity back roughly a millennium before the earliest surviving manuscript, though the exact form and complexity of the pre-contact oral/pictorial tradition cannot be reconstructed with precision.",
+    "dating_summary": "The Popol Vuh's earliest surviving written form is Francisco Ximénez's c. 1700–1715 K'iche'/Spanish copy of a now-lost c. 1554-1558 alphabetic K'iche' original. The narrative content itself — the Hero Twins cycle, the Maize God's death and resurrection, the Lords of Xibalba — is independently attested in Classic-period (250-900 CE) painted ceramic iconography, pushing verified narrative antiquity back roughly a millennium before the earliest surviving manuscript, though the exact form and complexity of the pre-contact oral/pictorial tradition cannot be reconstructed with precision.",
     "earliest_archaeological_evidence": {
       "range": {
         "earliest": 250,
@@ -25,11 +25,11 @@
     },
     "surviving_manuscript_date": {
       "range": {
-        "earliest": 1701,
-        "latest": 1703,
+        "earliest": 1700,
+        "latest": 1715,
         "precision": "YEAR"
       },
-      "note": "Francisco Ximénez (Dominican friar, parish priest of Santo Tomás Chichicastenango), the only surviving copy of the K'iche' text with accompanying Spanish translation, held today at the Newberry Library, Chicago."
+      "note": "The Newberry Library, custodian of Ayer MS 1515, dates Ximénez's transcription and Spanish translation to approximately 1700–1715. Some catalogue summaries give a narrower 1700–1703 estimate; the broader custodian range is used rather than claiming unjustified single-year precision. This dates the surviving copy, not the origin of the K'iche' tradition."
     },
     "estimated_composition": {
       "range": {
@@ -55,5 +55,17 @@
     }
   },
   "relationships": [],
-  "notes": "Scope decision, explicit and sourced: \"Maya\" is not a single people (Matthew Restall, \"Maya Ethnogenesis\"; Sharer and Traxler, The Ancient Maya, 6th ed., Stanford UP, 2006) — this Tradition entity anchors specifically on K'iche' religion via the Popol Vuh, the best-documented Maya religious-narrative text, rather than claiming to represent a uniform pan-Maya religion; the underlying mythic figures (Hero Twins, Maize God, Xibalba) are attested far more broadly across the Classic Maya lowlands centuries before the K'iche' polity itself existed — the iconography is pan-Maya/Classic, the text is K'iche'/colonial. Contemporary K'iche' and broader highland Guatemalan Maya religious practice has documented restricted-knowledge/initiation conventions centered on the ajq'ij (\"daykeeper\") role, practitioners of the 260-day sacred calendar who undergo multi-year oral apprenticeship; ajq'ijab' practiced in secrecy during Guatemala's civil war (1960-1996) due to persecution, becoming more publicly visible only after the 1996 peace accords — reported here per the standing ethical constraint as existence-only, no restricted content described."
+  "notes": "Scope decision, explicit and sourced: \"Maya\" is not a single people (Matthew Restall, \"Maya Ethnogenesis\"; Sharer and Traxler, The Ancient Maya, 6th ed., Stanford UP, 2006) — this Tradition entity anchors specifically on K'iche' religion via the Popol Vuh, the best-documented Maya religious-narrative text, rather than claiming to represent a uniform pan-Maya religion; the underlying mythic figures (Hero Twins, Maize God, Xibalba) are attested far more broadly across the Classic Maya lowlands centuries before the K'iche' polity itself existed — the iconography is pan-Maya/Classic, the text is K'iche'/colonial. Contemporary K'iche' and broader highland Guatemalan Maya religious practice has documented restricted-knowledge/initiation conventions centered on the ajq'ij (\"daykeeper\") role, practitioners of the 260-day sacred calendar who undergo multi-year oral apprenticeship; ajq'ijab' practiced in secrecy during Guatemala's civil war (1960-1996) due to persecution, becoming more publicly visible only after the 1996 peace accords — reported here per the standing ethical constraint as existence-only, no restricted content described.",
+  "source_links": [
+    {
+      "label": "Newberry Library — Popol Vuh manuscript research guide",
+      "url": "https://www.newberry.org/collection/research-guide/popol-vuh",
+      "supports": "Custodian's broad 1700–1715 date and manuscript provenance; not the date of oral origins."
+    },
+    {
+      "label": "Library of Congress — digitized Popol Vuh manuscript",
+      "url": "https://www.loc.gov/item/2021668226",
+      "supports": "Surviving manuscript and catalogue information; reflects narrower dating conventions."
+    }
+  ]
 }
