@@ -26,7 +26,7 @@
 ### Aksumite state religion before Christianity — Endubis coin
 
 - **Evidence:** [British Museum, Endubis silver coin 1989,0518.6](https://www.britishmuseum.org/collection/object/C_1989-0518-6), museum-dated c. **270–300 CE** and described as showing a disc-and-crescent motif on both sides.
-- **Access level:** Only a sufficiently detailed indexed **museum search result** was accessible; the object webpage itself returned HTTP **403**. Recorded with \`SEARCH_SNIPPET\`, not as a direct read of the coin or a numismatic catalogue.
+- **Access level:** Only a sufficiently detailed indexed **museum search result** was accessible; the object webpage itself returned HTTP **403**. Recorded with `SEARCH_SNIPPET`, not as a direct read of the coin or a numismatic catalogue.
 - **What follows:** One early Aksumite official symbol; this alone cannot identify Mahrem/Astar/Beher-Meder, a "first" religion, or a continuity line. The specific pre-Christian Ezana inscriptions (RIÉ 185 / DAE 6–7) remain unchecked at passage level.
 
 ### Aksumite Christianity — an imperial letter and a cross-bearing coin
@@ -48,7 +48,9 @@
 - **Detected disagreement:** The Met's **2003** essay names **Pedro II** as ordering the 1706 execution; its **2026** essay instead names **Pedro IV**. This apparent discrepancy requires a documented correction/check against the historical record. The new claim records Kimpa Vita's execution **without** attaching an unverified ruler's name. The exact political responsibility remains unresolved.
 - **Material evidence caution:** [Met pendant 1999.295.1](https://www.metmuseum.org/art/collection/search/318317) illustrates devotion to St. Anthony but is catalogued broadly **sixteenth–nineteenth century**; it cannot automatically be assigned to movement members or the 1704–1706 years.
 
-**Method note:** All added Claims are \`draft\`. Directly read translated primary texts, directly read museum curator pages, and inaccessible museum records found via indexed search carry **different verification-method labels**. A bibliographic catalogue does not establish the underlying religious doctrine by itself.
+**Chronological control:** Both new British Museum coin claims have `EVENT_DATE` semantics for museum-assigned object-production windows. Neither is labeled the earliest surviving evidence for the corresponding religion; that broader inference would require independent comparison across archaeological finds.
+
+**Method note:** All added Claims are `draft`. Directly read translated primary texts, directly read museum curator pages, and inaccessible museum records found via indexed search carry **different verification-method labels**. A bibliographic catalogue does not establish the underlying religious doctrine by itself.
 
 ## Evidence distinctions for all 27 Traditions
 
