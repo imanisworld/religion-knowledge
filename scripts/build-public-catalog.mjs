@@ -8,7 +8,6 @@ import path from 'node:path';
 
 const ROOT = process.cwd();
 const BASE = 'docs/timeline/data/entities';
-const REPO = 'https://github.com/imanisworld/religion-knowledge/blob/main/';
 const TYPES = [
   { dir: 'deities', title: 'Gods and deities', intro: 'Gods and other divine figures mentioned in our research.', tags: false },
   { dir: 'traditions', title: 'Religions and traditions', intro: 'Religious and cosmological traditions, including traditions with multiple classifications.', tags: true },
@@ -62,39 +61,65 @@ function personRows() {
         flagged: /class="flag-tag"/.test(match[2]) };
     });
 }
+
+function shorten(value, limit = 155) {
+  const text = clean(value);
+  return text.length <= limit ? text : text.slice(0, limit).replace(/\s+\S*$/, '') + '…';
+}
+function plainTag(value) { return String(value ?? '').replace(/_/g, ' ').toLowerCase(); }
+function overview(row, group) {
+  if (group.dir === 'deities' && row.domain_history?.length) return row.domain_history[0].domain;
+  if (group.dir === 'narratives') return row.source_label || row.notes || 'Recorded creation narrative';
+  if (group.dir === 'writing_systems') return [row.script_type ? plainTag(row.script_type) + ' writing system.' : '', row.notes || ''].filter(Boolean).join(' ');
+  return row.notes || row.dating?.dating_summary || 'Research record; further detail under review.';
+}
+function detailText(row, counts) {
+  const fields = [];
+  if (row.notes) fields.push(['Research notes', row.notes]);
+  if (row.dating?.dating_summary) fields.push(['Dating and evidence', row.dating.dating_summary]);
+  if (row.source_label) fields.push(['Text or source', row.source_label]);
+  if (row.language) fields.push(['Original language', row.language]);
+  if (row.genre) fields.push(['Genre', plainTag(row.genre)]);
+  if (row.script_type) fields.push(['Writing system type', plainTag(row.script_type)]);
+  if (row.category_tags?.length) fields.push(['Research categories', row.category_tags.map(plainTag).join(', ')]);
+  if (row.domain_history?.length) fields.push(['Historical description', row.domain_history.map(d => d.domain).join('; ')]);
+  const tally = [
+    counts.published ? counts.published + ' publicly recorded' : '',
+    counts.verified ? counts.verified + ' checked in research' : '',
+    counts.other ? counts.other + ' awaiting review' : '',
+  ].filter(Boolean).join(' · ') || 'No linked claim checks yet';
+  fields.push(['Linked claim checks', tally]);
+  return '<dl class="entry-details">' + fields.map(([label, value]) =>
+    '<div><dt>' + esc(label) + '</dt><dd>' + esc(value) + '</dd></div>').join('') + '</dl>';
+}
 function entityTable(group, claims) {
   const records = entities(group.dir);
-  if (!records.length) throw new Error('Missing entities for '+group.dir);
-  const cols = group.tags ?
-    '<th scope="col">Name</th><th scope="col">Region</th><th scope="col">Research categories</th><th scope="col">Evidence status</th><th scope="col">More detail</th>' :
-    '<th scope="col">Name</th><th scope="col">Region</th><th scope="col">Evidence status</th><th scope="col">More detail</th>';
-  const rows = records.map(r => {
-    const counts = claims.get(r.id) || {verified:0,published:0,other:0};
-    const tally = [
-      counts.published ? counts.published+' published' : '',
-      counts.verified ? counts.verified+' checked in research' : '',
-      counts.other ? counts.other+' still to review' : '',
-    ].filter(Boolean).join(' · ') || 'No findings linked yet';
-    const region = Array.isArray(r.region) ? r.region.join(', ') : 'Unspecified';
-    const tag = group.tags ? '<td>'+esc((r.category_tags || []).join(', ') || 'Unclassified')+'</td>' : '';
-    return '<tr><th scope="row">'+esc(r.name || r.id)+'</th><td>'+esc(region)+'</td>'+tag+
-      '<td>'+esc(tally)+'</td><td><a href="'+esc(REPO+encodeURI(r._file))+'" target="_blank" rel="noopener noreferrer" >View research file</a></td></tr>';
+  if (!records.length) throw new Error('Missing entities for ' + group.dir);
+  const rows = records.map(row => {
+    const counts = claims.get(row.id) || { verified: 0, published: 0, other: 0 };
+    const region = Array.isArray(row.region) && row.region.length ? row.region.join(', ') : 'Not specified';
+    return '<tr data-catalog-row><th scope="row" data-label="Entry">' + esc(row.name || row.id) + '</th>' +
+      '<td data-label="Region">' + esc(region) + '</td>' +
+      '<td data-label="Overview"><p class="preview">' + esc(shorten(overview(row, group))) + '</p>' +
+      '<details class="entry-more"><summary>Read research notes</summary>' +
+      detailText(row, counts) + '</details></td></tr>';
   }).join('\n');
-  return '<details id="'+esc(group.dir)+'" class="group"'+(group.dir==='deities'?' open':'')+
-    '><summary class="section-head"><span class="group-title">'+esc(group.title)+'</span><span>'+records.length+
-    ' entries</span></summary><p>'+esc(group.intro)+
-    '</p><div class="table-scroll" role="region" aria-label="'+esc(group.title)+' table" tabindex="0"><table><thead><tr>'+
-    cols+'</tr></thead><tbody>'+rows+'</tbody></table></div></details>';
+  return '<details id="' + esc(group.dir) + '" class="group"' + (group.dir === 'deities' ? ' open' : '') +
+    '><summary class="section-head"><span class="group-title">' + esc(group.title) + '</span><span>' + records.length +
+    ' entries</span></summary><p>' + esc(group.intro) +
+    '</p><div class="table-wrap"><table class="catalog-table"><thead><tr>' +
+    '<th scope="col">Entry</th><th scope="col">Region</th><th scope="col">Overview and evidence</th>' +
+    '</tr></thead><tbody>' + rows + '</tbody></table></div></details>';
 }
 function peopleTable() {
   const people = personRows();
   if (people.length < 300) throw new Error('Cited Persons source changed unexpectedly');
-  return '<details id="people" class="group"><summary class="section-head"><span class="group-title">People cited in the research</span><span>'+
-    people.length+' entries</span></summary><p>Writers, researchers, theologians and historical figures mentioned in the biblical research. This list covers people mentioned in the study. Some entries still need independent checking.</p>'+
-    '<div class="table-scroll" role="region" tabindex="0" aria-label="People cited in the research table"><table><thead><tr><th scope="col">Person</th><th scope="col">Notes</th><th scope="col">More detail</th></tr></thead><tbody>'+
-    people.map(p => '<tr><th scope="row">'+esc(p.name)+'</th><td>'+(p.flagged?'Important background noted':'—')+
-      '</td><td><a href="cited-persons.html#'+esc(p.id)+'">View reference</a></td></tr>').join('\n')+
-    '</tbody></table></div></details>';
+  return '<details id="people" class="group"><summary class="section-head"><span class="group-title">People cited in the research</span><span>' +
+    people.length + ' entries</span></summary><p>Find a person and open their background entry in the library. An entry may still need independent verification.</p>' +
+    '<div class="people-list"><ul>' +
+    people.map(p => '<li data-catalog-row><a href="cited-persons.html#' + esc(p.id) + '">' + esc(p.name) + '</a>' +
+      (p.flagged ? '<span>Background context included</span>' : '') + '</li>').join('\n') +
+    '</ul></div></details>';
 }
 export function buildPublicCatalog() {
   const claims = claimCounts();
