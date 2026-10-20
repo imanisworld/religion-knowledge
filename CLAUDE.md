@@ -8,7 +8,7 @@ A long-running critical study of the Bible and religious belief systems, approac
 
 Write for curious readers who may know nothing about the Bible, ancient history, or academic terminology. Use plain language without talking down to anyone. Be direct, preserve necessary uncertainty, and correct errors openly. Do not soften evidence to be agreeable. Past audits uncovered several real mistakes, so factual accuracy takes priority over confident-sounding prose.
 
-**Current phase: consolidation.** The whole-document Markdown-to-reader generator now exists and is CI-gated, but 171 Cited Persons entries remained unresolved at the October 2026 control count. Do not add major new research sections until that verification queue and the control-layer debt are materially reduced. Corrections, source audits, reader synchronization, and control-layer work are allowed.
+**Current phase: consolidation.** The whole-document Markdown-to-reader generator now exists and is CI-gated, but 169 Cited Persons entries remain unresolved after the 20 October 2026 five-entry audit batch. Do not add major new research sections until that verification queue and the control-layer debt are materially reduced. Corrections, source audits, reader synchronization, and control-layer work are allowed.
 
 ## Repo structure
 
