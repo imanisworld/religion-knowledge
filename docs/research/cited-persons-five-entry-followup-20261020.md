@@ -29,6 +29,18 @@ These leads are recorded in the canonical entries. None of them meets the verifi
 - **Briggs:** a likely identity. Peter Briggs (Trinity Southwest University) wrote "Testing the Factuality of the Conquest of Ai Narrative in the Book of Joshua," in *Beyond the Jordan* (Wipf & Stock, 2005), pp. 157–196. His text, published by Associates for Biblical Research, applies Humphreys' model to Joshua and Ai. **Still needed:** the printed chapter.
 - **MacDonald, MacIntyre:** no new primary-page evidence.
 
+### Print-edition check attempted (20 October 2026): not completed
+
+| Person | Printed source sought | What was reachable | Result |
+|---|---|---|---|
+| Archer | *Encyclopedia of Bible Difficulties* (Zondervan, 1982), pp. 124–125 | An Internet Archive library scan of this edition exists (`encyclopediaofbi00arch`, ISBN 0310435706). It is lending-only, and its text cannot be searched without signing in to borrow it. | Not checked. Stays `UNRESOLVED`. |
+| Barton | "Marcion Revisited," *The Canon Debate* (Hendrickson, 2002), pp. 341–354 | An Internet Archive scan exists (`canondebate0000unse`), also lending-only. Google Books blocked automated search. A print review (*Andrews University Seminary Studies*) quotes the essay at p. 342, confirming the essay and its pagination but not the sentence. | Not checked. Stays `UNRESOLVED`. |
+| Briggs | "Testing the Factuality of the Conquest of Ai Narrative," *Beyond the Jordan* (Wipf & Stock, 2005), pp. 157–196 | No scan or preview was found. The chapter and page range are confirmed by Dozeman's peer-reviewed survey, "The Book of Joshua in Recent Research," *Currents in Biblical Research* (2017), bibliography. | Identity and publication confirmed; text not checked in print. Stays `UNRESOLVED`. |
+
+**Side finding:** Cambridge University Press lists Harry Gamble as the author of ch. 9, "Marcion and the 'canon'," in *The Cambridge History of Christianity*. This supports correcting Historical Framework §12.3, which credited Barton's Marcion line to that volume.
+
+**To finish:** someone with the books in hand, or a borrowing account for the Internet Archive scans, needs to read the listed pages. Archer and Barton can be upgraded if the wording matches the leads above. Briggs can be upgraded if the printed chapter matches the ABR text.
+
 Registry: `CP-ARCHER-001`, `CP-BARTON-001`, `CP-BARTON-002`, and `CP-BRIGGS-001` are all `unreviewed`.
 
 ## Queue control
