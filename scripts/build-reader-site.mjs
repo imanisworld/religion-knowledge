@@ -16,6 +16,7 @@ const RESEARCH_READERS = [
   ['illness-explanations.html', 'Illness Explanations', 'Ancient illness, spirits, divine punishment, medicine, contagion, and evidence limits.'],
   ['method-reference.html', 'Method & Reference', 'Survey method, open audit queue, reading timeline.'],
   ['glossary.html', 'Glossary', 'Terms and definitions used across the study.'],
+  ['law-covenant.html', 'Law & Covenant', 'Torah, the biblical covenants, Second Temple Judaism, and the scholarly debate over Paul and the law.'],
   ['cited-persons.html', 'Cited Persons', 'Who the cited scholars, theologians, historians, and other sources are — including relevant context and flags.'],
   ['religion-law.html', 'Religion & Law', 'U.S. and comparative law research separating legal text, historical influence, current rationale, and enforceability.'],
   ['gender-over-time.html', 'Gender Over Time', 'Sex, gender systems, intersex history, religious roles, reproduction, law, and social classification across cultures and time.'],
@@ -129,7 +130,7 @@ function buildIndexHtml() {
     'history.html', 'religion-law.html', 'gender-over-time.html', 'patterns-synthesis.html',
   ]));
   const bibleCards = cardsFor(pick([
-    'translations.html', 'translation-evidence.html', 'prophecy-audit.html', 'illness-explanations.html', 'master-notes.html', 'field-guide.html', 'other-side.html',
+    'translations.html', 'translation-evidence.html', 'prophecy-audit.html', 'illness-explanations.html', 'master-notes.html', 'field-guide.html', 'other-side.html', 'law-covenant.html',
   ]));
   const referenceCards = cardsFor(pick([
     'sources.html', 'cited-persons.html', 'method-reference.html', 'glossary.html',

@@ -1,0 +1,1210 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Law &amp; Covenant</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Atkinson+Hyperlegible+Next:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Atkinson+Hyperlegible+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ground:#EDEFEC; --paper:#FFFFFF; --ink:#17201D; --ink2:#4A5551; --ink3:#5F6A66;
+  --rule:#D3D8D4; --accent:#1F5E5B; --accent-soft:#E3EDEC;
+  --holds:#2D6A4F; --overstated:#A8681B; --collapses:#8E2B2B; --new:#1F5E5B;
+  --camp:#57478C; --camp-soft:#EEEAF6;
+  --rail:320px; --measure:70ch;
+  --f-display:"Newsreader",Georgia,serif;
+  --f-body:"Atkinson Hyperlegible Next",system-ui,sans-serif;
+  --f-mono:"Atkinson Hyperlegible Mono",ui-monospace,monospace;
+}
+*{box-sizing:border-box}
+html{overflow-x:clip}html{scroll-behavior:smooth;scroll-padding-top:5rem}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{animation:none!important;transition:none!important}}
+body{margin:0;overflow-x:clip;background:var(--ground);color:var(--ink);font-family:var(--f-body);
+  font-size:16.5px;line-height:1.62;-webkit-font-smoothing:antialiased}
+
+/* ---------- rail ---------- */
+#rail{position:fixed;inset:0 auto 0 0;width:var(--rail);background:var(--ink);
+  color:#C9D2CE;display:flex;flex-direction:column;z-index:40}
+#rail header{padding:1.35rem 1.4rem 1rem;border-bottom:1px solid #2C3833}
+#rail .doctitle{font-family:var(--f-display);font-size:1.16rem;line-height:1.2;
+  color:#F2F5F3;font-weight:500;letter-spacing:-.01em;margin:0 0 .3rem}
+#rail .docsub{font-family:var(--f-mono);font-size:.63rem;letter-spacing:.13em;
+  text-transform:uppercase;color:#7F8D88}
+.docswitch{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.85rem}
+.docswitch a{flex:1;text-align:center;font-family:var(--f-mono);font-size:.63rem;
+  letter-spacing:.07em;text-transform:uppercase;padding:.45rem .3rem;border-radius:3px;
+  text-decoration:none;color:#8E9C97;border:1px solid #2C3833;transition:.15s}
+.docswitch a:hover{color:#E6EDEA;border-color:#3E4C46}
+.docswitch a.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+
+/* ---------- library dropdown ---------- */
+.quicknav{display:flex;gap:.4rem;margin-top:.85rem}
+.quicknav a{flex:1;text-align:center;font-family:var(--f-mono);font-size:.63rem;
+  letter-spacing:.07em;text-transform:uppercase;padding:.45rem .3rem;border-radius:3px;
+  text-decoration:none;color:#8E9C97;border:1px solid #2C3833;transition:.15s}
+.quicknav a:hover{color:#E6EDEA;border-color:#3E4C46}
+.library{margin-top:.5rem}
+.library summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:.5rem;
+  justify-content:space-between;font-family:var(--f-mono);font-size:.63rem;letter-spacing:.07em;
+  text-transform:uppercase;color:#8E9C97;border:1px solid #2C3833;border-radius:3px;
+  padding:.48rem .6rem;transition:.15s}
+.library summary::-webkit-details-marker{display:none}
+.library summary:hover{color:#E6EDEA;border-color:#3E4C46}
+.library summary svg{flex:none;transition:transform .18s}
+.library[open] summary svg{transform:rotate(180deg)}
+.library .docswitch{flex-direction:column;gap:.3rem;margin-top:.5rem}
+.library .docswitch a{text-align:left;flex:none}
+
+#search{margin:.9rem 1.4rem;padding:.55rem .7rem;border-radius:4px;border:1px solid #2C3833;
+  background:#0F1614;color:#E6EDEA;font-family:var(--f-body);font-size:.85rem;width:calc(100% - 2.8rem)}
+#search::placeholder{color:#5E6C67}
+#search:focus{outline:2px solid var(--accent);outline-offset:1px;border-color:transparent}
+#toc{flex:1;overflow-y:auto;overscroll-behavior-y:contain;scrollbar-gutter:stable;padding:0 .7rem 2rem}
+#toc a{display:block;text-decoration:none;color:#A8B4B0;padding:.32rem .7rem;
+  border-radius:3px;font-size:.845rem;line-height:1.35;border-left:2px solid transparent}
+#toc a:hover{color:#F2F5F3;background:#212C28}
+#toc a.lvl2{font-weight:600;color:#D6DEDA;margin-top:.55rem;font-size:.875rem}
+#toc a.lvl3{padding-left:1.4rem;font-size:.8rem}
+#toc a.lvl4{padding-left:1.4rem;font-family:var(--f-mono);font-size:.7rem;letter-spacing:.02em;
+  color:#8E9C97;display:flex;align-items:center;gap:.4rem}
+#toc a.lvl4::before{content:"⚑";font-size:.75rem}
+#toc a.here{background:#26332E;color:#fff;border-left-color:var(--accent)}
+#toc a.lvl4.st-overstated::before{color:var(--overstated)}
+#toc a.lvl4.st-collapses::before{color:#C05252}
+#toc a.lvl4.st-holds::before{color:#4E9970}
+#toc a.lvl4.st-new::before{color:#5FA9A5}
+#toc a.dim{display:none}
+
+/* ---------- main ---------- */
+main{margin-left:var(--rail);padding:0 3.5rem 8rem;max-width:calc(var(--measure) + 12rem)}
+#progress{position:fixed;top:0;left:var(--rail);right:0;height:2px;background:transparent;z-index:50}
+#progress i{display:block;height:100%;background:var(--accent);width:0}
+
+.reader-context{
+  display:flex;align-items:center;gap:.45rem;max-width:var(--measure);min-width:0;
+  margin:0 0 1.25rem;color:var(--ink3);font-family:var(--f-mono);
+  font-size:.67rem;line-height:1.4;letter-spacing:.035em
+}
+.reader-context a{color:var(--accent);text-decoration:none;font-weight:500}
+.reader-context a:hover{text-decoration:underline;text-underline-offset:3px}
+.reader-context .sep{opacity:.45;flex:none}
+#reader-current{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0}
+
+.masthead{padding:4rem 0 2.2rem;border-bottom:1px solid var(--rule);margin-bottom:2.5rem}
+.masthead h1{font-family:var(--f-display);font-size:clamp(2.1rem,4.2vw,3.05rem);
+  font-weight:400;letter-spacing:-.025em;line-height:1.06;margin:0 0 .8rem}
+.masthead .lens{font-family:var(--f-mono);font-size:.7rem;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--accent);margin-bottom:1.4rem}
+.meta{display:flex;flex-wrap:wrap;gap:.5rem 1.6rem;font-size:.82rem;color:var(--ink2)}
+.meta b{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--ink3);font-weight:500;margin-right:.35rem}
+
+.howto{background:var(--paper);border:1px solid var(--rule);border-left:3px solid var(--accent);
+  border-radius:0 5px 5px 0;padding:1.3rem 1.5rem;margin:0 0 3rem;max-width:var(--measure)}
+.howto p{margin:0 0 .75rem;font-size:.925rem;color:var(--ink2)}
+.howto p:last-child{margin-bottom:0}
+.howto strong{color:var(--ink)}
+
+section{max-width:var(--measure);margin-bottom:3.4rem;scroll-margin-top:4.5rem}
+section.dim{display:none}
+h2{font-family:var(--f-display);font-size:1.92rem;font-weight:500;letter-spacing:-.02em;
+  line-height:1.14;margin:3.6rem 0 1.3rem;padding-top:1.6rem;border-top:1px solid var(--rule);
+  max-width:var(--measure);scroll-margin-top:4.5rem;display:flex;gap:.7rem;align-items:baseline}
+h2 .num{font-family:var(--f-mono);font-size:.78rem;color:var(--accent);letter-spacing:.06em;
+  font-weight:500;flex:none;padding-top:.42rem}
+h3{font-family:var(--f-display);font-size:1.24rem;font-weight:600;letter-spacing:-.008em;
+  margin:2.3rem 0 .7rem;scroll-margin-top:4.5rem;display:flex;gap:.6rem;align-items:baseline}
+h3 .num{font-family:var(--f-mono);font-size:.7rem;color:var(--ink3);flex:none;padding-top:.2rem}
+p{margin:0 0 1.05rem;max-width:var(--measure)}
+ul,ol{max-width:var(--measure);padding-left:1.2rem;margin:0 0 1.15rem}
+li{margin-bottom:.45rem}
+strong{font-weight:600}
+hr{display:none}
+a{color:var(--accent);text-underline-offset:2px}
+
+/* ---------- audit apparatus ---------- */
+.audit{position:relative;background:var(--paper);border:1px solid var(--rule);
+  border-radius:5px;margin:1.5rem 0 2.4rem;overflow:hidden;max-width:var(--measure)}
+.audit::before{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--ink3)}
+.audit[data-status=overstated]::before{background:var(--overstated)}
+.audit[data-status=collapses]::before{background:var(--collapses)}
+.audit[data-status=holds]::before{background:var(--holds)}
+.audit[data-status=new]::before{background:var(--new)}
+.audit > summary{list-style:none;cursor:pointer;padding:1rem 1.3rem 1rem 1.5rem;
+  display:flex;gap:.75rem;align-items:flex-start;flex-wrap:wrap;transition:background .15s}
+.audit > summary::-webkit-details-marker{display:none}
+.audit > summary:hover{background:#F6F8F7}
+.audit > summary:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
+.siglum{font-size:.95rem;line-height:1.4;flex:none;color:var(--ink3)}
+.audit[data-status=overstated] .siglum{color:var(--overstated)}
+.audit[data-status=collapses] .siglum{color:var(--collapses)}
+.audit[data-status=holds] .siglum{color:var(--holds)}
+.audit[data-status=new] .siglum{color:var(--new)}
+.audit .atitle{flex:1;min-width:14rem;font-family:var(--f-display);font-size:1.02rem;
+  font-weight:600;line-height:1.3}
+.badge{font-family:var(--f-mono);font-size:.6rem;letter-spacing:.11em;text-transform:uppercase;
+  padding:.28rem .55rem;border-radius:99px;flex:none;font-weight:500;white-space:nowrap;
+  background:#EDEFEC;color:var(--ink2)}
+.badge.overstated{background:#FBF0DE;color:#7E4E11}
+.badge.collapses{background:#F9E6E6;color:#7A2222}
+.badge.holds{background:#E3F1E9;color:#1F4C38}
+.badge.new{background:var(--accent-soft);color:#134745}
+.stamp{font-family:var(--f-mono);font-size:.58rem;letter-spacing:.09em;color:var(--ink3);
+  flex:none;padding:.32rem .45rem;border:1px solid var(--rule);border-radius:3px;white-space:nowrap}
+.chev{flex:none;color:var(--ink3);font-size:.75rem;transition:transform .18s;margin-top:.28rem}
+.audit[open] .chev{transform:rotate(90deg)}
+.abody{padding:.2rem 1.5rem 1.35rem;border-top:1px solid var(--rule);margin-top:0}
+.abody > p:first-child{margin-top:1.1rem}
+.abody p{font-size:.925rem;margin-bottom:.9rem}
+.abody ul{font-size:.925rem}
+.abody em{color:var(--ink2)}
+
+/* field labels inside audits */
+.fld{display:block;font-family:var(--f-mono);font-size:.63rem;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--ink3);margin:1.4rem 0 .3rem}
+.abody > p.hasfld{margin-top:0}
+
+/* camp tags */
+.mark{font-family:var(--f-mono);font-size:.6rem;letter-spacing:.07em;padding:.12rem .4rem;
+  border-radius:3px;white-space:normal;font-weight:500;font-style:normal;vertical-align:baseline}
+.mark.inf{background:#F6EBD6;color:#7A5510;border:1px solid #E4CFA6}
+.mark.doc{background:#E3F1E9;color:#1F4C38;border:1px solid #C2DFD1}
+.mark.unresolved{background:#FDF4E7;color:#7A5510;border:1px solid #E4CFA6}
+.mark.you{background:#E5E9F6;color:#2E3E73;border:1px solid #C6CEE8}
+.camp{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.05em;background:var(--camp-soft);
+  color:var(--camp);padding:.1rem .38rem;border-radius:3px;white-space:nowrap}
+
+/* cross-reference links */
+.xref{font-family:var(--f-mono);font-size:.86em;color:var(--accent);text-decoration:none;
+  border-bottom:1px dotted currentColor;padding:0 .05em}
+.xref:hover{background:var(--accent-soft)}
+.gloss{border-bottom:1px dashed #B79A4E;cursor:help;position:relative}
+.gloss:hover,.gloss:focus{background:#FBF3D9;outline:none}
+.gloss .tip{position:absolute;left:0;top:calc(100% + 7px);width:min(21rem,78vw);
+  background:var(--ink);color:#E9EFEC;padding:.65rem .8rem;border-radius:5px;font-size:.8rem;
+  line-height:1.45;font-weight:400;font-style:normal;z-index:70;opacity:0;pointer-events:none;
+  transition:opacity .13s;box-shadow:0 6px 22px rgba(0,0,0,.24)}
+.gloss .tip b{display:block;font-family:var(--f-mono);font-size:.62rem;letter-spacing:.1em;
+  text-transform:uppercase;color:#8FBFBC;margin-bottom:.25rem}
+.gloss:hover .tip,.gloss:focus .tip{opacity:1}
+.gloss.flip .tip{left:auto;right:0}
+a.ext{color:var(--accent);font-weight:500;text-decoration:none;border-bottom:1px solid #A8CFCC;padding-bottom:1px}
+a.ext:hover{border-bottom-color:var(--accent);background:var(--accent-soft)}
+a.ext::after{content:"↗";font-size:.72em;margin-left:.18em;vertical-align:super;opacity:.65}
+:target > .flashwrap,.flash{animation:flash 1.5s ease-out}
+@keyframes flash{0%,22%{background:#FBF0C9}100%{background:transparent}}
+
+/* related links */
+.related{margin:1.1rem 0 0;padding:.75rem 1rem;background:var(--accent-soft);
+  border-radius:4px;font-size:.83rem;max-width:var(--measure)}
+.related b{font-family:var(--f-mono);font-size:.6rem;letter-spacing:.12em;text-transform:uppercase;
+  color:#134745;display:block;margin-bottom:.35rem}
+.related a{display:inline-block;margin:0 .9rem .3rem 0;overflow-wrap:anywhere}
+
+/* toolbar */
+#tools{position:sticky;top:0;background:rgba(237,239,236,.93);backdrop-filter:blur(8px);
+  padding:.7rem 0;margin:0 0 0;z-index:30;display:flex;gap:.5rem;align-items:center;
+  border-bottom:1px solid var(--rule);flex-wrap:wrap}
+.tbtn{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;
+  padding:.42rem .7rem;border:1px solid var(--rule);background:var(--paper);color:var(--ink2);
+  border-radius:3px;cursor:pointer;transition:.15s}
+.tbtn:hover{border-color:var(--accent);color:var(--accent)}
+.tbtn.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+#here{margin-left:auto;font-family:var(--f-mono);font-size:.66rem;color:var(--ink3);
+  letter-spacing:.05em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:20rem}
+#nores{display:none;padding:2rem 0;color:var(--ink3);font-size:.9rem}
+
+code,pre{overflow-wrap:anywhere;word-break:break-word}
+h2 span.flagmark{color:var(--collapses)}
+#top{position:fixed;right:1.5rem;bottom:calc(1.5rem + env(safe-area-inset-bottom));display:grid;place-items:center;width:2.6rem;height:2.6rem;border-radius:50%;
+  background:var(--ink);color:#fff;border:none;cursor:pointer;font-size:.9rem;opacity:0;
+  transition:opacity .2s;z-index:45}
+#top.show{opacity:.85}
+#top:hover{opacity:1}
+
+@media(max-width:1080px){
+  :root{--rail:0px}
+  #rail{transform:translateX(-100%);visibility:hidden;width:300px;transition:transform .22s,visibility .22s;inset:0 auto 0 0}
+  #rail.open{transform:none;visibility:visible;box-shadow:0 0 40px rgba(0,0,0,.3)}
+  main{padding:0 1.1rem 6rem;max-width:none}
+  #menu{display:block!important}
+  #progress{left:0}
+  .masthead{padding-top:4.2rem}
+  .camp{white-space:normal}
+  .related a{white-space:normal}
+  .audit .atitle{min-width:0}
+  td:first-child{white-space:normal}
+  #here{display:none}
+  #tools{padding:.5rem 0 .5rem 2.6rem;gap:.4rem}
+  .tbtn{font-size:.6rem;padding:.38rem .55rem}
+}
+#overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:39}
+#overlay.show{display:block}
+#menu{display:none;position:fixed;top:.85rem;left:.85rem;z-index:60;background:var(--ink);
+  color:#fff;border:none;border-radius:4px;padding:.5rem .75rem;cursor:pointer;font-size:.9rem}
+#menu svg{display:block}
+
+/* ---------- dark mode ---------- */
+@keyframes flashdark{0%,22%{background:#3A3414}100%{background:transparent}}
+:root[data-theme=dark]{--ground:#10130F;--paper:#17201D;--ink:#F2F5F3;--ink2:#A8B4B0;--ink3:#8A9792;--rule:#2C3833;--accent:#6FBFB5;--accent-soft:#1B3330;--holds:#7FCB9E;--overstated:#E6B876;--collapses:#E8A3A3;--new:#6FBFB5;--camp:#B7ABE0;--camp-soft:#292344}
+:root[data-theme=dark] #rail{background:#0F1614}
+:root[data-theme=dark] .docswitch a.on{background:#1F5E5B;color:#fff;border-color:#1F5E5B}
+:root[data-theme=dark] #menu{background:#26332E;color:#F2F5F3}
+:root[data-theme=dark] #tools{background:rgba(16,19,15,.93)}
+:root[data-theme=dark] .tbtn.on{background:#26332E;color:#F2F5F3;border-color:#3E4C46}
+:root[data-theme=dark] #top{background:#26332E;color:#F2F5F3}
+:root[data-theme=dark] .audit > summary:hover{background:#1C2622}
+:root[data-theme=dark] .badge{background:#26332E;color:var(--ink2)}
+:root[data-theme=dark] .badge.overstated{background:#3A2E14;color:#E8C176}
+:root[data-theme=dark] .badge.collapses{background:#3A1A1A;color:#E8A3A3}
+:root[data-theme=dark] .badge.holds{background:#17332A;color:#8FD4AA}
+:root[data-theme=dark] .badge.new{background:#1B3330;color:#8FD4CC}
+:root[data-theme=dark] .mark.inf{background:#3A2E14;color:#E8C176;border-color:#5C4A22}
+:root[data-theme=dark] .mark.doc{background:#17332A;color:#8FD4AA;border-color:#245240}
+:root[data-theme=dark] .mark.unresolved{background:#3A2E14;color:#E8C176;border-color:#5C4A22}
+:root[data-theme=dark] .mark.you{background:#232B4A;color:#B7C2EE;border-color:#33406E}
+:root[data-theme=dark] .gloss{border-bottom-color:#8A7434}
+:root[data-theme=dark] .gloss:hover{background:#332B10}
+:root[data-theme=dark] .gloss:focus{background:#332B10}
+:root[data-theme=dark] a.ext{border-bottom-color:#3E5C58}
+:root[data-theme=dark] .related b{color:#8FD4CC}
+:root[data-theme=dark] .flash{animation-name:flashdark}
+:root[data-theme=dark] :target > .flashwrap{animation-name:flashdark}
+/* ---------- reader visual refresh ---------- */
+:root{
+  --ground:#F5F1F0;--paper:#FFFDFC;--ink:#241B1E;--ink2:#62565A;--ink3:#807277;
+  --rule:#DDD2D5;--accent:#8B3A4A;--accent-soft:#F4E7EA;--new:#8B3A4A;
+  --rail-bg:#21181B;--rail-deep:#171013;--rail-rule:#3A2D32;
+  --rail-text:#F7F1F3;--rail-muted:#B6A6AC;--rail-hover:#34242A;
+  --toolbar-bg:rgba(245,241,240,.94);--rail:330px;--measure:72ch
+}
+body{line-height:1.68}
+#rail{background:linear-gradient(180deg,var(--rail-bg) 0%,var(--rail-deep) 100%);border-right:1px solid var(--rail-rule);box-shadow:12px 0 36px rgba(55,28,37,.08)}
+#rail header{padding:1.6rem 1.55rem 1.2rem;border-bottom-color:var(--rail-rule)}
+#rail .doctitle{font-size:1.27rem;color:var(--rail-text)}
+#rail .docsub{color:var(--rail-muted);margin-top:.45rem}
+.docswitch,.quicknav{gap:.5rem}
+.docswitch a,.quicknav a,.library summary{color:var(--rail-muted);border-color:var(--rail-rule);border-radius:8px;padding:.55rem}
+.docswitch a:hover,.quicknav a:hover,.library summary:hover{color:var(--rail-text);border-color:#6B4A55;background:rgba(139,58,74,.10)}
+.docswitch a.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+.library{margin-top:.6rem}
+#search{margin:1rem 1.4rem;padding:.68rem .8rem;border-radius:10px;border-color:var(--rail-rule);background:var(--rail-deep);color:var(--rail-text)}
+#search::placeholder{color:#8E7F84}
+#toc{padding:0 .85rem 2rem}
+#toc a{padding:.42rem .75rem;border-radius:7px;color:#B9ACB0;line-height:1.4}
+#toc a:hover{color:var(--rail-text);background:var(--rail-hover)}
+#toc a.lvl2{color:#E7DDE0;margin-top:.62rem}
+#toc a.lvl4{color:#A99A9F}
+#toc a.here{background:rgba(139,58,74,.24);color:#fff;border-left-color:var(--accent)}
+#toc a.lvl4.st-new::before{color:var(--accent)}
+main{padding:0 4.25rem 8rem;max-width:calc(var(--measure) + 16rem)}
+.masthead{padding:5rem 0 2.6rem;margin-bottom:2.9rem}
+.masthead h1{font-size:clamp(2.35rem,4.7vw,3.45rem);line-height:1.02}
+.masthead .lens{margin-bottom:1.55rem}
+.meta{gap:.6rem 1.9rem}
+#tools{background:var(--toolbar-bg);padding:.85rem 0;gap:.55rem;box-shadow:0 1px 0 var(--rule)}
+.tbtn{padding:.5rem .78rem;border-radius:8px;background:var(--paper)}
+.tbtn:hover{background:var(--accent-soft)}
+.tbtn.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+.howto,.audit{border-radius:12px;box-shadow:0 10px 28px rgba(57,34,42,.06)}
+.howto{padding:1.45rem 1.6rem}
+.audit::before{width:4px}
+.audit>summary{padding:1.08rem 1.4rem 1.08rem 1.6rem}
+.audit>summary:hover{background:var(--accent-soft)}
+.badge{border-radius:999px}
+.badge.new{background:var(--accent-soft);color:var(--accent)}
+.related{border-radius:9px}
+.related b{color:var(--accent)}
+.gloss .tip b{color:#DCA1AE}
+a.ext{border-bottom-color:#C9A1AA}
+#top{background:var(--accent)}
+h2{margin-top:4rem}
+@media(max-width:1080px){main{padding:0 1.25rem 6rem}.masthead{padding-top:4.7rem}}
+:root[data-theme=dark]{--ground:#120E10;--paper:#1C1518;--ink:#F7F2F3;--ink2:#C4B7BB;--ink3:#978A8F;--rule:#382B30;--accent:#D8899A;--accent-soft:#3A2028;--new:#D8899A;--rail-bg:#100C0E;--rail-deep:#0C090A;--rail-rule:#2B2024;--rail-text:#FAF5F6;--rail-muted:#A99BA0;--rail-hover:#251A1E;--toolbar-bg:rgba(18,14,16,.94)}
+:root[data-theme=dark] #rail{background:linear-gradient(180deg,var(--rail-bg) 0%,var(--rail-deep) 100%)}
+:root[data-theme=dark] .docswitch a.on{background:var(--accent);border-color:var(--accent)}
+:root[data-theme=dark] #menu,:root[data-theme=dark] #top{background:var(--accent);color:#fff}
+:root[data-theme=dark] #tools{background:var(--toolbar-bg)}
+:root[data-theme=dark] .tbtn.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+:root[data-theme=dark] .audit>summary:hover{background:var(--accent-soft)}
+:root[data-theme=dark] .badge{background:#2A2024;color:var(--ink2)}
+:root[data-theme=dark] .badge.new{background:var(--accent-soft);color:#EAB0BD}
+:root[data-theme=dark] .related b{color:#EAB0BD}
+:root[data-theme=dark] a.ext{border-bottom-color:#70414D}
+/* ---------- reader readability refinement ---------- */
+:root{--measure:66ch}
+body{font-size:17.25px;line-height:1.72}
+main{padding-left:4.5rem;padding-right:3rem}
+.masthead{padding-top:4.6rem}
+.masthead h1{max-width:18ch}
+.meta{font-size:.88rem;line-height:1.55}
+.howto p{font-size:1rem;line-height:1.7;color:var(--ink2)}
+section{margin-bottom:3.8rem}
+p{margin-bottom:1.18rem}
+ul,ol{margin-bottom:1.3rem;padding-left:1.35rem}
+li{margin-bottom:.58rem}
+h2{font-size:2.05rem;line-height:1.16;margin-top:4.25rem;margin-bottom:1.45rem}
+h3{font-size:1.36rem;line-height:1.28;margin-top:2.55rem;margin-bottom:.82rem}
+#search{font-size:.9rem;line-height:1.4}
+#toc a{font-size:.9rem;line-height:1.42;padding-top:.38rem;padding-bottom:.38rem}
+#toc a.lvl2{font-size:.94rem;line-height:1.38}
+#toc a.lvl3{font-size:.86rem}
+#toc a.lvl4{font-size:.75rem;line-height:1.42}
+#rail .docsub{font-size:.67rem}
+.tbtn{font-size:.68rem;line-height:1.25}
+.audit .atitle{font-size:1.09rem;line-height:1.38}
+.abody{padding: .35rem 1.6rem 1.5rem}
+.abody p,.abody ul{font-size:1rem;line-height:1.68}
+.fld{font-size:.66rem;margin-top:1.55rem}
+.related{font-size:.9rem;line-height:1.55}
+:root[data-theme=dark]{--ink2:#D1C5C9;--ink3:#AA9CA1;--rule:#44343A}
+@media(max-width:1080px){
+  body{font-size:17px}
+  main{padding-left:1.25rem;padding-right:1.25rem}
+}
+@media(max-width:640px){
+  body{font-size:16.5px;line-height:1.7}
+  .masthead h1{font-size:2.35rem}
+  h2{font-size:1.82rem}
+  h3{font-size:1.25rem}
+}
+
+/* ---------- reader interface refinement ---------- */
+:root{--rail:312px}
+#progress{height:3px}
+#rail header{padding:1.4rem 1.35rem 1.05rem}
+#rail .doctitle{font-size:1.2rem}
+#rail .docsub{font-size:.65rem;letter-spacing:.11em}
+.quicknav a,
+.library summary{
+  font-family:var(--f-body);
+  font-size:.76rem;
+  font-weight:600;
+  letter-spacing:0;
+  text-transform:none;
+  padding:.58rem .68rem
+}
+.library .docswitch a{
+  font-family:var(--f-body);
+  font-size:.81rem;
+  font-weight:500;
+  letter-spacing:0;
+  text-transform:none;
+  padding:.58rem .7rem
+}
+#search{
+  margin:.85rem 1.15rem 1rem;
+  width:calc(100% - 2.3rem);
+  padding:.72rem .82rem;
+  font-size:.91rem;
+  background:color-mix(in srgb,var(--rail-deep) 86%,var(--rail-hover))
+}
+#search:focus{
+  outline:3px solid rgba(216,137,154,.2);
+  outline-offset:0;
+  border-color:#6B4A55
+}
+#toc{padding:0 .65rem 4.25rem}
+#toc a{border-left:0;padding:.4rem .7rem}
+#toc a.lvl2{
+  margin-top:.8rem;
+  padding-top:.52rem;
+  padding-bottom:.46rem;
+  font-weight:650
+}
+#toc a.lvl3{padding-left:1.15rem}
+#toc a.lvl4{padding-left:1.15rem}
+#toc a.here{
+  background:rgba(139,58,74,.2);
+  box-shadow:inset 3px 0 0 var(--accent);
+  color:#fff
+}
+.masthead{
+  padding-top:3.8rem;
+  padding-bottom:2rem;
+  margin-bottom:1.85rem
+}
+.masthead h1{
+  font-size:clamp(2.25rem,4.3vw,3.15rem);
+  letter-spacing:-.03em
+}
+.masthead .lens{
+  margin-bottom:1.2rem;
+  font-size:.68rem;
+  letter-spacing:.12em
+}
+.meta{gap:.45rem 1.45rem}
+.meta b{letter-spacing:.06em}
+#tools{
+  margin-bottom:1.35rem;
+  padding:.62rem 0;
+  border-bottom:0;
+  box-shadow:none;
+  gap:.45rem
+}
+.tbtn{
+  flex:0 0 auto;
+  font-family:var(--f-body);
+  font-size:.76rem;
+  font-weight:600;
+  letter-spacing:0;
+  text-transform:none;
+  padding:.5rem .82rem;
+  border-radius:999px;
+  background:transparent
+}
+.tbtn:hover{
+  background:var(--accent-soft);
+  border-color:color-mix(in srgb,var(--accent) 58%,var(--rule));
+  color:var(--accent)
+}
+.tbtn.on{box-shadow:0 5px 16px rgba(139,58,74,.16)}
+#here{
+  font-family:var(--f-body);
+  font-size:.74rem;
+  letter-spacing:0;
+  color:var(--ink3);
+  max-width:17rem
+}
+.howto{
+  margin-bottom:2.5rem;
+  border-left-width:4px;
+  box-shadow:0 8px 22px rgba(57,34,42,.045)
+}
+.audit{
+  box-shadow:0 7px 20px rgba(57,34,42,.04)
+}
+.audit>summary{align-items:center}
+.badge,.stamp{letter-spacing:.07em}
+#menu{
+  border-radius:999px;
+  padding:.62rem;
+  box-shadow:0 8px 22px rgba(33,26,28,.18)
+}
+#top{
+  width:2.75rem;
+  height:2.75rem;
+  box-shadow:0 8px 22px rgba(33,26,28,.18)
+}
+:root[data-theme=dark] #search{background:#171114}
+@media(max-width:1080px){
+  #rail{width:min(86vw,320px)}
+  .masthead{padding-top:4rem;margin-bottom:1.4rem}
+  #tools{
+    flex-wrap:nowrap;
+    overflow-x:auto;
+    scrollbar-width:none;
+    margin-left:-1.25rem;
+    margin-right:-1.25rem;
+    padding:.55rem 1.25rem .55rem 3.75rem;
+    border-bottom:1px solid var(--rule)
+  }
+  #tools::-webkit-scrollbar{display:none}
+  .tbtn{font-size:.74rem;padding:.48rem .75rem}
+}
+@media(max-width:640px){
+  .masthead{padding-bottom:1.55rem}
+  .masthead h1{font-size:2.2rem}
+  .meta{gap:.4rem 1rem}
+  .reader-context{font-size:.63rem;margin-bottom:1rem}
+  .reader-context .reader-doc,.reader-context .reader-doc-sep{display:none}
+}
+
+/* ---------- focus reading mode ---------- */
+.gloss .tip{
+  background:#21181B;
+  color:#F7F2F3;
+  border:1px solid #4E3941;
+  box-shadow:0 12px 32px rgba(33,26,28,.28)
+}
+.gloss .tip b{color:#EAB0BD}
+a.ext{border-bottom-color:#C9A1AA}
+html.focus-reading{--rail:0px}
+html.focus-reading #rail{
+  transform:translateX(-100%);
+  visibility:hidden;
+  box-shadow:none
+}
+html.focus-reading #progress{left:0}
+html.focus-reading main{
+  margin-left:0;
+  max-width:none;
+  padding-left:clamp(1.25rem,8vw,8rem);
+  padding-right:clamp(1.25rem,8vw,8rem)
+}
+html.focus-reading main>.masthead,
+html.focus-reading main>#tools,
+html.focus-reading main>.howto,
+html.focus-reading main>#nores,
+html.focus-reading main>section{
+  max-width:var(--measure);
+  margin-left:auto;
+  margin-right:auto
+}
+html.focus-reading #menu{display:none!important}
+html.focus-reading #tools{width:100%}
+html.focus-reading .masthead{width:100%}
+@media(max-width:1080px){
+  html.focus-reading main{
+    padding-left:1.25rem;
+    padding-right:1.25rem
+  }
+}
+
+/* ---------- reader content hierarchy ---------- */
+blockquote{
+  max-width:var(--measure);
+  margin:1.35rem 0 1.7rem;
+  padding:1rem 1.2rem;
+  border-left:4px solid color-mix(in srgb,var(--accent) 70%,var(--rule));
+  border-radius:0 10px 10px 0;
+  background:color-mix(in srgb,var(--paper) 88%,var(--accent-soft));
+  color:var(--ink2)
+}
+blockquote p{margin-bottom:.78rem}
+blockquote p:last-child{margin-bottom:0}
+blockquote strong{color:var(--ink)}
+
+.audit{
+  transition:border-color .16s ease,box-shadow .16s ease,background .16s ease
+}
+.audit[open]{
+  border-color:color-mix(in srgb,var(--accent) 28%,var(--rule));
+  box-shadow:0 12px 30px rgba(57,34,42,.065)
+}
+.audit>summary{
+  min-height:3.8rem;
+  align-items:center;
+  gap:.7rem
+}
+.audit[open]>summary{
+  background:color-mix(in srgb,var(--paper) 72%,var(--accent-soft))
+}
+.siglum{
+  display:grid;
+  place-items:center;
+  width:1.55rem;
+  height:1.55rem;
+  border-radius:999px;
+  background:color-mix(in srgb,var(--paper) 72%,var(--rule));
+  font-size:.82rem
+}
+.audit .atitle{
+  font-size:1.08rem;
+  line-height:1.34
+}
+.badge{
+  font-size:.63rem;
+  padding:.32rem .58rem;
+  line-height:1.2
+}
+.stamp{
+  font-size:.6rem;
+  padding:.3rem .48rem;
+  border-radius:999px
+}
+.chev{
+  display:grid;
+  place-items:center;
+  width:1.55rem;
+  height:1.55rem;
+  border-radius:999px;
+  background:color-mix(in srgb,var(--paper) 78%,var(--rule));
+  margin-top:0
+}
+.abody{
+  background:color-mix(in srgb,var(--paper) 94%,var(--ground));
+  padding-top:.55rem
+}
+.abody>p:first-child{margin-top:1rem}
+.fld{
+  padding-top:.2rem;
+  color:color-mix(in srgb,var(--ink3) 86%,var(--accent))
+}
+
+pre{
+  max-width:var(--measure);
+  overflow:auto;
+  margin:1.35rem 0 1.7rem;
+  padding:1rem 1.1rem;
+  border:1px solid var(--rule);
+  border-radius:10px;
+  background:color-mix(in srgb,var(--paper) 84%,var(--ground));
+  font-family:var(--f-mono);
+  font-size:.84rem;
+  line-height:1.6
+}
+code{
+  font-family:var(--f-mono);
+  font-size:.88em
+}
+p code,li code,td code{
+  padding:.08rem .28rem;
+  border-radius:5px;
+  background:color-mix(in srgb,var(--paper) 72%,var(--accent-soft))
+}
+figure{
+  max-width:var(--measure);
+  margin:1.7rem 0
+}
+img{
+  max-width:100%;
+  height:auto;
+  border-radius:10px
+}
+figcaption{
+  margin-top:.55rem;
+  color:var(--ink3);
+  font-size:.82rem;
+  line-height:1.5
+}
+hr+*{margin-top:0}
+
+:root[data-theme=dark] blockquote{
+  background:color-mix(in srgb,var(--paper) 86%,var(--accent-soft))
+}
+@media(max-width:640px){
+  blockquote{padding:.9rem 1rem}
+  .audit>summary{padding-left:1.25rem;padding-right:1rem}
+  .stamp{display:none}
+}
+</style><link rel="stylesheet" href="site-shell.css"><link rel="stylesheet" href="reader-chapters.css"><script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script></head><body class="rk-with-sitebar rk-reader-page">
+<header class="rk-sitebar">
+  <div class="rk-sitebar-inner">
+    <a class="rk-brand" href="index.html">Religion Knowledge<small>Research library</small></a>
+    <nav class="rk-global-nav" aria-label="Site navigation">
+      <a href="index.html">Library</a>
+      <a href="history.html">History</a>
+      <a href="religion-law.html">Religion &amp; Law</a>
+      <a href="search.html">Search</a>
+    </nav>
+  </div>
+</header>
+<button id="menu" aria-label="Toggle navigation"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+<div id="overlay"></div>
+<div id="progress"><i></i></div>
+<nav id="rail" aria-label="Contents">
+  <header>
+    <p class="doctitle">Law &amp; Covenant</p>
+    <p class="docsub">Torah, covenant, and Paul</p>
+    <div class="document-picker">
+    <label for="document-switcher">Switch document</label>
+    <select id="document-switcher" aria-label="Switch document"><optgroup label="Reading"><option value="master-notes.html">Study Notes</option><option value="field-guide.html">Observations</option><option value="history.html">History</option><option value="other-side.html">The Strongest Case</option><option value="translations.html">Translations</option><option value="law-covenant.html" selected>Law &amp; Covenant</option></optgroup><optgroup label="Sources & references"><option value="sources.html">Sources</option><option value="method-reference.html">Method &amp; Reference</option><option value="glossary.html">Glossary</option><option value="cited-persons.html">Cited Persons</option></optgroup><optgroup label="Other topics"><option value="religion-law.html">Religion &amp; Law</option><option value="personal-belief-history.html">Personal History</option></optgroup></select>
+  </div>
+  </header>
+  <input id="search" type="search" placeholder="Search  ( / )" aria-label="Search document">
+  <div id="toc"><a class="lvl2" href="#s1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">1</span> The Words: Torah, Berit, Nomos</a>
+<a class="lvl2" href="#s2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">2</span> The Covenants in the Hebrew Bible</a>
+<a class="lvl2" href="#s3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">3</span> Torah in Second Temple Judaism</a>
+<a class="lvl3" href="#s3-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">3.1</span> Diversity, not a single &quot;Judaism&quot;</a>
+<a class="lvl3" href="#s3-2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">3.2</span> Sanders and &quot;covenantal nomism&quot;</a>
+<a class="lvl3" href="#s3-3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">3.3</span> The pushback: &quot;variegated nomism&quot;</a>
+<a class="lvl2" href="#s4"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">4</span> Paul on the Law: The Texts That Pull Apart</a>
+<a class="lvl3" href="#s4-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">4.1</span> Three ways to explain the tension</a>
+<a class="lvl3" href="#s4-2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">4.2</span> Three texts that decide a lot</a>
+<a class="lvl2" href="#s5"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">5</span> The Perspectives: Who Reads Paul How</a>
+<a class="lvl2" href="#s6"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">6</span> Continuity Between the Covenants: The Christian Frameworks</a>
+<a class="lvl2" href="#s7"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">7</span> Audits</a>
+<a class="lvl4 st-overstated" href="#a-first-century-jews-earned-salvation-by-keeping-the-law">First-Century Jews Earned Salvation by Keeping the Law</a>
+<a class="lvl4 st-overstated" href="#a-christians-keep-the-moral-law-but-not-the-ceremonial-or-civil-law">Christians Keep the Moral Law but Not the Ceremonial or Civil Law</a>
+<a class="lvl4 st-collapses" href="#a-who-named-the-new-perspective-and-the-schreiner-book-credit">Who Named the New Perspective, and the Schreiner Book Credit</a>
+<a class="lvl4 st-overstated" href="#a-the-new-covenant-replaced-god-s-covenant-with-israel">The New Covenant Replaced God's Covenant with Israel</a>
+<a class="lvl2" href="#s8"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">8</span> Where This Connects</a>
+<a class="lvl2" href="#s9"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">9</span> Sources</a></div>
+</nav>
+<main>
+  <div class="masthead">
+    <nav class="reader-context" aria-label="Breadcrumb"><a href="index.html">Library</a><span class="sep">›</span><span class="reader-doc">Law &amp; Covenant</span><span class="sep reader-doc-sep">›</span><span id="reader-current">Overview</span></nav>
+    <p class="lens">Torah, the Covenants, Second Temple Judaism, and Paul</p>
+    <h1>Law &amp; Covenant</h1>
+    <div class="meta"><span><b>Source</b>NRSVue</span><span><b>Updated</b>20 October 2026</span><span><b>Companion</b><a href="master-notes.html">Study Notes</a></span></div>
+  </div>
+  <div id="tools"><button class="tbtn" id="toggleAudits">Expand all audits</button><button class="tbtn filt" data-st="collapses">⚑ Collapses</button><button class="tbtn filt" data-st="overstated">⚑ Overstated</button><button class="tbtn filt" data-st="holds">⚑ Holds</button><button class="tbtn" id="themebtn" aria-label="Toggle dark mode">Theme</button><span id="here"></span></div>
+  <div id="nores">No section matches that search.</div>
+  <section id="sec-intro">
+<p><em>Torah, the Biblical Covenants, Second Temple Judaism, and Paul — What the Texts Say and Where the Readings Divide</em></p>
+<p><strong>Companion to:</strong> Study Notes · Observations · Translations · Sources · The Strongest Case · Glossary · Cited Persons
+<strong>Last updated:</strong> 20 October 2026</p>
+<blockquote>
+<p><strong>Provenance.</strong> <strong>Written by:</strong> the AI research assistant (Perplexity Computer, running Claude), 20 October 2026, verified by search on that date. Scripture is quoted from the NRSVue, the corpus&#39;s primary translation since 10 August 2026 (Translations §6). This document gathers law-and-covenant material that was previously scattered across Study Notes §1.5, §9.5, and §9.6.3 and Observations §22.9. It links to those sections rather than repeating them. Every named-scholar claim carries a source in §9. It was written during the corpus&#39;s consolidation phase (<code>CLAUDE.md</code>). It also resolves the six Cited Persons entries for the Paul and the law debate (Sanders, Wright, Westerholm, Schreiner, Seifrid, Stuhlmacher) and records two corrections to earlier corpus wording (§7, third audit).</p>
+</blockquote>
+<blockquote>
+<p><strong>Who is saying what.</strong> The same three markers run through the whole corpus:</p>
+<ul>
+<li><strong><span class="mark doc">DOCUMENTED</span></strong>: a named scholar in a named publication, or a primary text quoted directly. You can check it.</li>
+<li><strong><span class="mark inf">INFERENCE</span></strong>: reasoning built on documented facts that is not itself found in any source. It&#39;s the assistant&#39;s analysis, and it should never be cited as if someone had published it.</li>
+<li><strong><span class="mark you">YOURS</span></strong>: your own observation, recorded because it held up.</li>
+</ul>
+</blockquote>
+<blockquote>
+<p><strong>The short version.</strong> &quot;Torah&quot; means instruction more than &quot;law,&quot; and the Hebrew Bible frames it as a gift inside a covenant, not an entrance exam. Since E.P. Sanders (1977), most scholars agree that Second Temple Judaism was not a religion of earning salvation by merit. They still disagree about how much room it left for final judgment according to works. Paul says the law is &quot;holy and just and good&quot; and also that &quot;the letter kills.&quot; Scholars split into four main camps over how those statements fit together. Christian traditions then built frameworks the texts don&#39;t contain themselves: moral/ceremonial/judicial law, covenant of works and covenant of grace, dispensations. Since 1965, official Catholic teaching has moved away from the idea that the church simply replaces Israel.</p>
+</blockquote>
+<hr>
+</section><section id="sec-1"><h2 data-num="1" id="s1"><span class="num">§1</span>The Words: Torah, Berit, Nomos</h2><p><span class="mark doc">DOCUMENTED</span> <strong>Torah (תּוֹרָה)</strong> comes from the root <em>y-r-h</em>, which in the Hiphil means &quot;to direct, teach, instruct.&quot; Brown–Driver–Briggs lists &quot;instruction, direction&quot; as the first sense of <em>torah</em>, ahead of &quot;law&quot; (<a href="https://www.scriptureandtruth.com/bdb/h8451">BDB entry</a>). The word covers a parent&#39;s teaching (Prov 1:8), priestly rulings, prophetic instruction, and eventually the five books of Moses as a whole.</p>
+<p><span class="mark doc">DOCUMENTED</span> <strong>Nomos</strong> is the Septuagint&#39;s usual rendering of <em>torah</em>, and it is the word Paul uses. Greek <em>nomos</em> carries the sense of civic or statutory law. That is one reason English readers of Paul hear &quot;law&quot; in a legal-courtroom sense the Hebrew word doesn&#39;t require.</p>
+<p><span class="mark doc">DOCUMENTED</span> <strong>Berit (בְּרִית)</strong>, &quot;covenant,&quot; names a binding relationship with obligations. It can be a treaty between kings, a marriage, or a royal grant. §2 covers why the type of covenant matters.</p>
+<p><span class="mark doc">DOCUMENTED</span> <strong>The &quot;613 commandments&quot;</strong> comes from one Talmudic homily, not from the Torah itself. Rabbi Simlai (b. Makkot 23b–24a) says 613 commandments were given to Moses: 365 prohibitions matching the days of the solar year and 248 positive commands matching a person&#39;s limbs. Rabbinic literature as a whole barely supports an exact count, and outside that passage the manuscripts usually read &quot;all the commandments.&quot; The number looks symbolic rather than arithmetical (<a href="https://www.thetorah.com/article/the-origins-and-use-of-the-613-mitzvot">TheTorah.com</a>; <a href="https://www.chabad.org/torah-texts/5458913/The-Talmud/Makot/Chapter-3/23b">b. Makkot 23b</a>). Medieval codifiers such as Maimonides produced the familiar lists later.</p>
+<p><span class="mark doc">DOCUMENTED</span> <strong>The Noahide commandments.</strong> Rabbinic tradition did not require Gentiles to keep the Torah. The Tosefta (Avodah Zarah 8:4, c. 70–300 CE) lists seven commandments binding on all &quot;children of Noah&quot;: establishing courts of justice, and prohibitions of idolatry, blasphemy, sexual immorality, bloodshed, robbery, and eating a limb torn from a living animal (<a href="https://www.posenlibrary.com/entry/noahide-laws">Posen Library</a>). This matters for §6. The question of what Gentiles owe God, and how that differs from what Israel owes, was already a Jewish question before it became a Christian one.</p>
+<hr>
+
+</section><section id="sec-2"><h2 data-num="2" id="s2"><span class="num">§2</span>The Covenants in the Hebrew Bible</h2><div class="rk-table stack" role="region" aria-label="Table: Covenant, Key text, Partner, Sign / obligation, Framed as" tabindex="0"><table role="table">
+<thead role="rowgroup">
+<tr role="row">
+<th role="columnheader">Covenant</th>
+<th role="columnheader">Key text</th>
+<th role="columnheader">Partner</th>
+<th role="columnheader">Sign / obligation</th>
+<th role="columnheader">Framed as</th>
+</tr>
+</thead>
+<tbody role="rowgroup"><tr role="row">
+<td role="cell" data-label="Covenant">Noahic</td>
+<td role="cell" data-label="Key text">Gen 9:8–17</td>
+<td role="cell" data-label="Partner">All flesh</td>
+<td role="cell" data-label="Sign / obligation">Rainbow; no obligation on the human side for the promise itself</td>
+<td role="cell" data-label="Framed as">Unilateral promise</td>
+</tr>
+<tr role="row">
+<td role="cell" data-label="Covenant">Abrahamic</td>
+<td role="cell" data-label="Key text">Gen 15; 17</td>
+<td role="cell" data-label="Partner">Abraham and offspring</td>
+<td role="cell" data-label="Sign / obligation">Gen 15: God alone passes between the pieces. Gen 17:10–11: &quot;Every male among you shall be circumcised… it shall be a sign of the covenant&quot;</td>
+<td role="cell" data-label="Framed as">Promise (Gen 15) with an obligation attached (Gen 17)</td>
+</tr>
+<tr role="row">
+<td role="cell" data-label="Covenant">Sinai / Mosaic</td>
+<td role="cell" data-label="Key text">Exod 19–24; Deuteronomy</td>
+<td role="cell" data-label="Partner">Israel</td>
+<td role="cell" data-label="Sign / obligation">Exod 19:5: &quot;if you obey my voice and keep my covenant, you shall be my treasured possession&quot;</td>
+<td role="cell" data-label="Framed as">Conditional, treaty-shaped</td>
+</tr>
+<tr role="row">
+<td role="cell" data-label="Covenant">Davidic</td>
+<td role="cell" data-label="Key text">2 Sam 7:8–16; Ps 89</td>
+<td role="cell" data-label="Partner">David&#39;s house</td>
+<td role="cell" data-label="Sign / obligation">2 Sam 7:14–15: &quot;When he commits iniquity, I will punish him… But I will not take my steadfast love from him&quot;</td>
+<td role="cell" data-label="Framed as">Grant: punishment possible, revocation excluded</td>
+</tr>
+<tr role="row">
+<td role="cell" data-label="Covenant">New covenant</td>
+<td role="cell" data-label="Key text">Jer 31:31–34</td>
+<td role="cell" data-label="Partner">&quot;the house of Israel and the house of Judah&quot;</td>
+<td role="cell" data-label="Sign / obligation">Jer 31:33: &quot;I will put my law within them, and I will write it on their hearts&quot;</td>
+<td role="cell" data-label="Framed as">Renewal after a broken covenant</td>
+</tr>
+</tbody></table></div>
+<p><span class="mark doc">DOCUMENTED</span> <strong>Treaty and grant.</strong> George Mendenhall&#39;s comparison of Sinai and Deuteronomy with Hittite and Neo-Assyrian vassal treaties is covered in Study Notes §9.6.3 and not repeated here. Moshe Weinfeld added the contrast: alongside the obligatory treaty form, the ancient Near East had a <strong>royal grant</strong>, where a king rewards a loyal servant with land or dynasty. He read the Abrahamic and Davidic covenants on that model (&quot;The Covenant of Grant in the Old Testament and in the Ancient Near East,&quot; <em>JAOS</em> 90 (1970): 184–203; <a href="https://vergil.uni-tuebingen.de/keibi/Record/KEI00086352/Details">bibliographic record</a>).</p>
+<p><span class="mark inf">INFERENCE</span> <strong>The tidy split between &quot;conditional&quot; and &quot;unconditional&quot; covenants is partly a later system laid over the text.</strong> The Davidic promise is unconditional in 2 Sam 7:15–16. Ps 132:12 and 1 Kgs 2:4 attach conditions to the same dynasty. The Abrahamic promise of Gen 15 picks up the circumcision obligation in Gen 17. The texts sit in tension, and the frameworks in §6 differ largely over which texts they treat as governing.</p>
+<p><span class="mark doc">DOCUMENTED</span> <strong>The new covenant is promised to Israel and Judah, not to a different people.</strong> Jeremiah follows the promise straight away with a statement about Israel&#39;s permanence: &quot;If this fixed order were ever to cease from my presence, says the Lord, then also the offspring of Israel would cease to be a nation before me forever&quot; (Jer 31:36). The Christian reception of this passage in Hebrews 8 is the subject of the last audit in §7.</p>
+<hr>
+<div class="related"><b>Connects to</b><a href="master-notes.html#s9-6-3">Study §9.6.3 the ANE treaty debate</a></div>
+</section><section id="sec-3"><h2 data-num="3" id="s3"><span class="num">§3</span>Torah in Second Temple Judaism</h2><h3 data-num="3.1" id="s3-1"><span class="num">§3.1</span>Diversity, not a single &quot;Judaism&quot;</h3><p><span class="mark doc">DOCUMENTED</span> In Paul&#39;s lifetime, Jews disagreed sharply about how to keep the Torah. Pharisees, Sadducees, Essenes, the Qumran community, and Diaspora interpreters such as Philo disagreed about calendar, purity, oral tradition, and resurrection. The Qumran letter <strong>4QMMT</strong> (<em>Miqṣat Maʿaśê ha-Torah</em>, &quot;Some of the Works/Precepts of the Torah&quot;), composed around 150 BCE, sets out purity and calendar rulings on which its authors split from the Jerusalem establishment. It closes by saying that doing them &quot;will be accounted to you as righteousness&quot; (Abegg&#39;s translation, quoted in the <a href="https://en.wikipedia.org/wiki/4QMMT">4QMMT overview</a>).</p>
+<p><span class="mark doc">DOCUMENTED</span> <strong>Why 4QMMT matters for Paul.</strong> Its title phrase is the closest Hebrew parallel to Paul&#39;s <em>erga nomou</em>, &quot;works of the law&quot; (Gal 2:16; 3:2, 5, 10; Rom 3:20, 28). Martin Abegg argued that Paul was rebutting this kind of theology (&quot;Paul, &#39;Works of the Law&#39; and MMT,&quot; <em>BAR</em> 20:6 (1994); <a href="https://library.biblicalarchaeology.org/issue/november-december-1994/">BAR issue</a>). James D.G. Dunn argued that MMT&#39;s &quot;works&quot; are exactly the sectarian, boundary-drawing rulings his reading of Galatians predicts (&quot;4QMMT and Galatians,&quot; <em>NTS</em> 43 (1997): 147–153; <a href="https://www.cambridge.org/core/journals/new-testament-studies/article/4qmmt-and-galatians1/F34DE4AB1519F607A9671F322D4DF1E4">Cambridge</a>).</p>
+<p><span class="mark inf">INFERENCE</span> 4QMMT cuts both ways. It supports Dunn: the works in question are specific rulings that mark one group off from another. It also supports the traditional reading: those works are said to be &quot;accounted… as righteousness.&quot; Neither camp gets it free.</p>
+<h3 data-num="3.2" id="s3-2"><span class="num">§3.2</span>Sanders and &quot;covenantal nomism&quot;</h3><p><span class="mark doc">DOCUMENTED</span> <strong>E.P. Sanders</strong>, <em>Paul and Palestinian Judaism</em> (1977), surveyed Palestinian Jewish literature from about 200 BCE to 200 CE: Tannaitic rabbinic texts, the major Dead Sea Scrolls, and selected Apocrypha and Pseudepigrapha from Ben Sira to 4 Ezra (<a href="https://thescripturesays.org/2016/06/27/book-review-sanders-paul-palestinian-judaism/">review summary</a>). His definition:</p>
+<blockquote>
+<p>&quot;covenantal nomism is the view that one&#39;s place in God&#39;s plan is established on the basis of the covenant and that the covenant requires as the proper response of man his obedience to its commandments, while providing means of atonement for transgression&quot; (p. 75; <a href="https://jdavidstark.com/judaism-in-paul-and-palestinian-judaism/">quoted at Stark</a>)</p>
+</blockquote>
+<p>In short, the covenant comes before the commandments. People obey <strong>to stay in</strong>, not <strong>to get in</strong>.</p>
+<p><span class="mark doc">DOCUMENTED</span> <strong>Sanders named his own exception.</strong> He did not claim that no Jewish text was legalistic. Of 4 Ezra he wrote: &quot;In IV Ezra, in short, we see an instance in which covenantal nomism has collapsed. All that is left is legalistic perfectionism&quot; (p. 409; <a href="https://thescripturesays.org/2016/06/27/book-review-sanders-paul-palestinian-judaism/">review summary</a>). That is a single exception, dated after 70 CE and the Temple&#39;s destruction.</p>
+<p><span class="mark doc">DOCUMENTED</span> <strong>What the texts themselves say supports the &quot;not too hard&quot; side.</strong> Deuteronomy 30:11: &quot;Surely, this commandment that I am commanding you today is not too hard for you, nor is it too far away.&quot; Paul&#39;s own pre-Christian self-assessment: &quot;as to righteousness under the law, blameless&quot; (Phil 3:6). Observations §22.9 develops this point, including the Torah&#39;s built-in repair mechanisms (sacrifice, the Day of Atonement, repentance).</p>
+<div class="related"><b>Connects to</b><a href="field-guide.html#s22-9">Observations §22.9 the law-keeping problem</a></div><h3 data-num="3.3" id="s3-3"><span class="num">§3.3</span>The pushback: &quot;variegated nomism&quot;</h3><p><span class="mark doc">DOCUMENTED</span> <strong>D.A. Carson, Peter O&#39;Brien, and Mark Seifrid</strong> (eds.), <em>Justification and Variegated Nomism</em>, vol. 1: <em>The Complexities of Second Temple Judaism</em> (Mohr Siebeck, 2001), went through the same literature corpus by corpus. Their conclusion was that &quot;covenantal nomism&quot; is too broad a category: some texts fit it, and others weight final judgment by works more heavily than Sanders allowed (<a href="https://www.mohrsiebeck.com/en/book/justification-and-variegated-nomism-volume-i-9783161469947/">Mohr Siebeck</a>).</p>
+<p><span class="mark doc">DOCUMENTED</span> <strong>Simon Gathercole</strong>, <em>Where Is Boasting? Early Jewish Soteriology and Paul&#39;s Response in Romans 1–5</em> (Eerdmans, 2002), accepted that Jews saw election as grace. He argued that many texts still expected <strong>final</strong> vindication on the basis of obedience, and that this, not getting in, is what Paul attacks (<a href="https://www.eerdmans.com/9781467427708/where-is-boasting/">Eerdmans</a>).</p>
+<p><span class="mark inf">INFERENCE</span> <strong>Where things stand.</strong> The old Christian caricature, in which Jews tried to earn God&#39;s favour from scratch, is dead in the scholarship and has no serious defenders. What remains disputed is narrower: whether &quot;staying in&quot; and final judgment involved enough reliance on deeds that Paul&#39;s critique still lands on something real in Judaism, or whether Paul is objecting to something else (§5).</p>
+<hr>
+
+</section><section id="sec-4"><h2 data-num="4" id="s4"><span class="num">§4</span>Paul on the Law: The Texts That Pull Apart</h2><p><span class="mark doc">DOCUMENTED</span> Paul says both kinds of thing, sometimes in the same letter:</p>
+<div class="rk-table" role="region" aria-label="Table: Positive or continuing, Negative or ending" tabindex="0"><table>
+<thead>
+<tr>
+<th>Positive or continuing</th>
+<th>Negative or ending</th>
+</tr>
+</thead>
+<tbody><tr>
+<td data-label="Positive or continuing">&quot;So the law is holy, and the commandment is holy and just and good&quot; (Rom 7:12)</td>
+<td data-label="Negative or ending">&quot;the letter kills, but the Spirit gives life&quot; (2 Cor 3:6)</td>
+</tr>
+<tr>
+<td data-label="Positive or continuing">&quot;Do we then overthrow the law through this faith? By no means! On the contrary, we uphold the law&quot; (Rom 3:31)</td>
+<td data-label="Negative or ending">&quot;Why then the law? It was added because of transgressions, until the offspring would come&quot; (Gal 3:19)</td>
+</tr>
+<tr>
+<td data-label="Positive or continuing">&quot;obeying the commandments of God is everything&quot; (1 Cor 7:19)</td>
+<td data-label="Negative or ending">&quot;every man who lets himself be circumcised… is obliged to obey the entire law&quot; (Gal 5:3), said as a warning</td>
+</tr>
+<tr>
+<td data-label="Positive or continuing">&quot;to them belong… the covenants, the giving of the law&quot; (Rom 9:4)</td>
+<td data-label="Negative or ending">&quot;the law was our disciplinarian until Christ came… now that faith has come, we are no longer subject to a disciplinarian&quot; (Gal 3:24–25)</td>
+</tr>
+</tbody></table></div>
+<p><span class="mark doc">DOCUMENTED</span> <strong>1 Cor 7:19 is the sharpest case.</strong> &quot;Circumcision is nothing… but obeying the commandments of God is everything.&quot; Yet circumcision is itself one of the commandments (Gen 17:10). Paul is drawing a line inside the Torah that the Torah doesn&#39;t draw.</p>
+<h3 data-num="4.1" id="s4-1"><span class="num">§4.1</span>Three ways to explain the tension</h3><ol>
+<li><span class="mark doc">DOCUMENTED</span> <strong>Paul is inconsistent.</strong> Heikki Räisänen, <em>Paul and the Law</em> (WUNT 29, Mohr Siebeck, 1983; 2nd ed. 1987), argued that Paul&#39;s statements about the Torah contain real &quot;tensions and self-contradictions&quot; that no system resolves (<a href="https://books.google.com/books/about/Paul_and_the_Law.html?id=MByQXPgNyF8C">Mohr Siebeck listing</a>).</li>
+<li><span class="mark doc">DOCUMENTED</span> <strong>Paul reasoned from solution to plight.</strong> E.P. Sanders, <em>Paul, the Law, and the Jewish People</em> (Fortress, 1983), argued that Paul did not start with a problem in Judaism and find Christ as the answer. He started from Christ and worked backward: if salvation is through Christ, the law cannot be the way (<a href="https://www.fortresspress.com/store/product/9780800618780/Paul-the-Law-and-the-Jewish-People">Fortress Press</a>).</li>
+<li><span class="mark doc">DOCUMENTED</span> <strong>Paul is coherent once the question is identified correctly.</strong> This covers everyone else in §5. Each camp argues that a different question (individual guilt, ethnic boundaries, Israel&#39;s story, or Gentile inclusion) makes the statements fit together.</li>
+</ol>
+<h3 data-num="4.2" id="s4-2"><span class="num">§4.2</span>Three texts that decide a lot</h3><p><span class="mark doc">DOCUMENTED</span> <strong>Romans 7: who is the &quot;I&quot;?</strong> &quot;I do not do what I want, but I do the very thing I hate&quot; (7:15).</p>
+<ul>
+<li>The Greek Fathers read it as Paul before conversion.</li>
+<li>Augustine first agreed, then changed his view during the Pelagian controversy to read it as Paul the Christian. Luther and Calvin followed that later view.</li>
+<li>Werner Kümmel, <em>Römer 7 und die Bekehrung des Paulus</em> (1929), argued that the &quot;I&quot; is a rhetorical device, not autobiography. That became a major turning point in the passage&#39;s interpretation.</li>
+<li>N.T. Wright reads the &quot;I&quot; as Israel under the Torah.</li>
+<li>C.H. Dodd and G.K. Beale hear Adam in vv. 7–11 (<a href="https://rtc.edu.au/wp-content/uploads/Romans-7-a-history-of-interpretation-2018.pdf">Vox Reformata survey, 2018</a>).</li>
+<li>Stanley Stowers, <em>A Rereading of Romans</em> (Yale, 1994), reads 7:7–25 as <em>prosopopoeia</em>, speech-in-character, voicing a Gentile trying to master the passions through the law (<a href="https://muse.jhu.edu/article/727563/summary">review</a>).</li>
+<li>Krister Stendahl&#39;s &quot;The Apostle Paul and the Introspective Conscience of the West&quot; (<em>HTR</em> 56 (1963): 199–215) argued that reading Romans 7 as a guilty conscience is a Western, Augustinian–Lutheran projection onto a Paul who called himself &quot;blameless&quot; (<a href="https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/apostle-paul-and-the-introspective-conscience-of-the-west/4172993A034F101DAD79981809A47F52">Cambridge</a>).</li>
+</ul>
+<p><span class="mark doc">DOCUMENTED</span> <strong>Galatians 3:24: <em>paidagōgos</em>.</strong> A <em>paidagōgos</em> was a household slave who escorted and supervised a boy until he came of age. He was not a teacher (<a href="https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Custodian">Encyclopedia of the Bible, &quot;Custodian&quot;</a>). Norman H. Young, &quot;Paidagogos: The Social Setting of a Pauline Metaphor,&quot; <em>Novum Testamentum</em> 29 (1987), traced how the image stresses a temporary, restrictive role, not instruction leading to Christ (<a href="https://scispace.com/journals/novum-testamentum-8ad8qfmh/1987">record</a>). Translations encode the choice: KJV &quot;schoolmaster&quot; (teaching), ESV &quot;guardian,&quot; NRSVue &quot;disciplinarian&quot; (restriction).</p>
+<p><span class="mark doc">DOCUMENTED</span> <strong>Romans 10:4: <em>telos</em>.</strong> NRSVue: &quot;Christ is the <strong>culmination</strong> of the law.&quot; Greek <em>telos</em> can mean termination (&quot;end,&quot; as in many traditional renderings) or goal. The NRSVue&#39;s &quot;culmination&quot; leans toward fulfilment over abolition. This is a live translation decision of the kind Translations §5 tracks.</p>
+<p><span class="mark doc">DOCUMENTED</span> <strong>Galatians 2:16: <em>pistis Christou</em>.</strong> The NRSVue main text reads &quot;justified not by the works of the law but through <strong>the faith of Jesus Christ</strong>,&quot; with &quot;faith in Jesus Christ&quot; in a footnote (<a href="https://www.biblegateway.com/passage/?search=Galatians+2%3A16&version=NRSVUE">NRSVue at BibleGateway</a>). That reverses the ESV and NIV, which put &quot;faith in&quot; in the text. Richard B. Hays, <em>The Faith of Jesus Christ</em> (1983), is the landmark argument for the subjective genitive: Christ&#39;s own faithfulness, not the believer&#39;s faith (<a href="https://johnwesleyfellows.org/profiles/richard-b-hays/">profile</a>).</p>
+<p><span class="mark inf">INFERENCE</span> This is the kind of committee choice Translations §5 tracks. Someone reading the NRSVue meets a contested reading of Galatians 2:16 without being told it is contested.</p>
+<hr>
+
+</section><section id="sec-5"><h2 data-num="5" id="s5"><span class="num">§5</span>The Perspectives: Who Reads Paul How</h2><div class="rk-table stack" role="region" aria-label="Table: , Traditional (&quot;Lutheran&quot;), New Perspective (NPP), Critics of the NPP, Paul within Judaism" tabindex="0"><table role="table">
+<thead role="rowgroup">
+<tr role="row">
+<th role="columnheader"></th>
+<th role="columnheader"><strong>Traditional (&quot;Lutheran&quot;)</strong></th>
+<th role="columnheader"><strong>New Perspective (NPP)</strong></th>
+<th role="columnheader"><strong>Critics of the NPP</strong></th>
+<th role="columnheader"><strong>Paul within Judaism</strong></th>
+</tr>
+</thead>
+<tbody role="rowgroup"><tr role="row">
+<td role="cell">Key names</td>
+<td role="cell" data-label="Traditional (&quot;Lutheran&quot;)">Augustine, Luther, Calvin; Bultmann</td>
+<td role="cell" data-label="New Perspective (NPP)">Sanders, Dunn, Wright</td>
+<td role="cell" data-label="Critics of the NPP">Westerholm, Seifrid, Schreiner, Stuhlmacher, Gathercole; Carson et al.</td>
+<td role="cell" data-label="Paul within Judaism">Nanos, Zetterholm, Fredriksen</td>
+</tr>
+<tr role="row">
+<td role="cell">&quot;Works of the law&quot;</td>
+<td role="cell" data-label="Traditional (&quot;Lutheran&quot;)">Doing what the law commands, as a basis for standing before God</td>
+<td role="cell" data-label="New Perspective (NPP)">Especially the boundary markers (circumcision, food laws, sabbath) that separated Jews from Gentiles</td>
+<td role="cell" data-label="Critics of the NPP">Mainly the full demands of the law, while granting that the NPP is partly right</td>
+<td role="cell" data-label="Paul within Judaism">Torah observance as a Jewish obligation that Gentiles in Christ must not take on</td>
+</tr>
+<tr role="row">
+<td role="cell">The problem Paul addresses</td>
+<td role="cell" data-label="Traditional (&quot;Lutheran&quot;)">Human inability to be justified by deeds</td>
+<td role="cell" data-label="New Perspective (NPP)">Ethnic exclusivity in God&#39;s people</td>
+<td role="cell" data-label="Critics of the NPP">Human sin, and the law&#39;s power to condemn</td>
+<td role="cell" data-label="Paul within Judaism">Gentiles trying to become Jews</td>
+</tr>
+<tr role="row">
+<td role="cell">Justification is…</td>
+<td role="cell" data-label="Traditional (&quot;Lutheran&quot;)">God declaring the sinner righteous</td>
+<td role="cell" data-label="New Perspective (NPP)">Being recognized as a member of God&#39;s covenant people</td>
+<td role="cell" data-label="Critics of the NPP">God&#39;s verdict about the sinner, with social implications</td>
+<td role="cell" data-label="Paul within Judaism">God including Gentiles as Gentiles</td>
+</tr>
+<tr role="row">
+<td role="cell">Does Paul leave Torah behind?</td>
+<td role="cell" data-label="Traditional (&quot;Lutheran&quot;)">Yes, as a way of salvation</td>
+<td role="cell" data-label="New Perspective (NPP)">Yes, as a badge of identity</td>
+<td role="cell" data-label="Critics of the NPP">Yes, as a covenant administration</td>
+<td role="cell" data-label="Paul within Judaism"><strong>No.</strong> Paul stays a Torah-observant Jew</td>
+</tr>
+</tbody></table></div>
+<p><span class="mark doc">DOCUMENTED</span> <strong>The New Perspective.</strong> Sanders laid the foundation (§3.2). <strong>N.T. Wright</strong> used the phrase &quot;a new perspective&quot; in his 1978 Tyndale New Testament Lecture: &quot;a new way of looking at Paul which provides… not only an advance in the debate between Stendahl and Käsemann but also a new perspective on other related Pauline problems&quot; (&quot;The Paul of History and the Apostle of Faith,&quot; <em>Tyndale Bulletin</em> 29 (1978): 61–88; <a href="https://ntwrightpage.com/wp-content/uploads/2016/05/Wright_Paul_History.pdf">PDF</a>). <strong>James D.G. Dunn</strong> made it the movement&#39;s name in his 1982 Manson Memorial Lecture, published as &quot;The New Perspective on Paul&quot; (<em>BJRL</em> 65 (1983): 95–122; <a href="https://markgoodacre.org/PaulPage/New.html">text</a>). Wright&#39;s best-known statement of the ecclesiological reading is that justification &quot;wasn&#39;t so much about soteriology as about ecclesiology; not so much about salvation as about the church&quot; (<em>What Saint Paul Really Said</em>, 1997; quoted at <a href="https://learn.ligonier.org/articles/has-church-misunderstood-justification">Ligonier</a>). His main works on the topic are <em>The Climax of the Covenant: Christ and the Law in Pauline Theology</em> (T&amp;T Clark, 1991; Fortress ed. 1992; <a href="https://research-portal.st-andrews.ac.uk/en/publications/the-climax-of-the-covenant-christ-and-the-law-in-pauline-theology/">St Andrews</a>), <em>Paul and the Faithfulness of God</em> (Fortress, 2013; <a href="https://www.publishersweekly.com/9780800626839">Publishers Weekly</a>), and <em>Galatians</em> (Eerdmans, 2021; <a href="https://www.eerdmans.com/9781467462174/galatians/">Eerdmans</a>).</p>
+<p><span class="mark doc">DOCUMENTED</span> <strong>The critics.</strong></p>
+<ul>
+<li><strong>Stephen Westerholm</strong> (McMaster University) wrote <em>Israel&#39;s Law and the Church&#39;s Faith</em> (Eerdmans, 1988; <a href="https://www.eerdmans.com/9780802802880/israels-law-and-the-churchs-faith/">Eerdmans</a>) and <em>Perspectives Old and New on Paul: The &quot;Lutheran&quot; Paul and His Critics</em> (Eerdmans, 2004). The 2004 book first surveys the &quot;Lutheran&quot; readers and their twentieth-century critics, then argues that the core of the &quot;Lutheran&quot; reading is substantially right, while taking some nuance from the NPP (<a href="https://www.thegospelcoalition.org/themelios/review/perspectives-old-and-new-on-paul-the-lutheran-paul-and-his-critics/">Themelios review</a>).</li>
+<li><strong>Thomas R. Schreiner</strong> argued against Sanders in &quot;Is Perfect Obedience to the Law Possible? A Re-Examination of Galatians 3:10,&quot; <em>JETS</em> 27:2 (1984): 151–160 (<a href="https://www.galaxie.com/article/jets27-2-05">Galaxie</a>), and in <em>The Law and Its Fulfillment: A Pauline Theology of Law</em> (Baker, 1993). Study Notes §9.5.3 sets his reading of Gal 3:10 alongside Dunn&#39;s and Wright&#39;s.</li>
+<li><strong>Mark A. Seifrid</strong> wrote <em>Justification by Faith: The Origin and Development of a Central Pauline Theme</em> (Brill, 1992), co-edited <em>Justification and Variegated Nomism</em>, and wrote <em>Christ, Our Righteousness</em> (IVP, 2000; <a href="https://www.ivpress.com/christ-our-righteousness">IVP</a>).</li>
+<li><strong>Peter Stuhlmacher</strong> (Tübingen) wrote <em>Revisiting Paul&#39;s Doctrine of Justification: A Challenge to the New Perspective</em> (IVP, 2001), with an essay by Donald Hagner (<a href="https://www.thegospelcoalition.org/themelios/review/revisiting-pauls-doctrine-of-justification-a-challenge-to-the-new-perspective/">Themelios review</a>).</li>
+<li><strong>John Piper</strong>&#39;s <em>The Future of Justification: A Response to N.T. Wright</em> (Crossway, 2007) drew Wright&#39;s book-length reply, <em>Justification: God&#39;s Plan and Paul&#39;s Vision</em> (2009) (<a href="https://banneroftruth.org/us/resources/book-review-resources/2009/the-future-of-justification-a-review-by-douglas-kuiper/">Banner of Truth review</a>; <a href="https://intervarsity.org/news/new-from-intervarsity-press-ijustification/i">IVP announcement</a>).</li>
+</ul>
+<p><span class="mark doc">DOCUMENTED</span> <strong>Paul within Judaism.</strong> Mark D. Nanos and Magnus Zetterholm, eds., <em>Paul within Judaism: Restoring the First-Century Context to the Apostle</em> (Fortress, 2015; <a href="https://academic.oup.com/jts/article/66/2/782/2386022">JTS review</a>). Paula Fredriksen, <em>Paul: The Pagans&#39; Apostle</em> (Yale, 2017; <a href="https://yalebooks.yale.edu/book/9780300225884/paul/">Yale UP</a>). This school treats both the traditional reading and the NPP as Christian readings in which Paul leaves Judaism behind. It argues that Paul&#39;s polemic against &quot;works of the law&quot; is aimed at <strong>Gentiles</strong> taking up circumcision, not at Jews keeping Torah.</p>
+<p><span class="mark inf">INFERENCE</span> <strong>What the camps actually disagree about.</strong> All four agree that Paul thinks Gentiles in Christ shouldn&#39;t be circumcised. Their disagreement is about <strong>why</strong>, and whether the reason applies to Jews too. The traditional reading says the reason is universal: no one is justified by deeds. The NPP says it&#39;s ecclesial: God&#39;s people aren&#39;t defined by Jewish markers. Paul within Judaism says it&#39;s specific to Gentiles: Gentiles are saved as Gentiles. Study Notes §9.5.2–9.5.3 applies this to Galatians. Its observation that &quot;the New Perspective&quot; is not one reading still stands.</p>
+<hr>
+<div class="related"><b>Connects to</b><a href="master-notes.html#s9-5-2">Study §9.5.2 the New Perspective</a><a href="master-notes.html#s9-5-3">Study §9.5.3 the curse of the law</a></div>
+</section><section id="sec-6"><h2 data-num="6" id="s6"><span class="num">§6</span>Continuity Between the Covenants: The Christian Frameworks</h2><p><span class="mark doc">DOCUMENTED</span> <strong>The earliest ruling.</strong> The Jerusalem decree in Acts 15:28–29 asks Gentile believers to &quot;abstain from what has been sacrificed to idols and from blood and from what is strangled and from sexual immorality.&quot; It doesn&#39;t ask for circumcision. Markus Bockmuehl, <em>Jewish Law in Gentile Churches</em> (T&amp;T Clark, 2000), reads the decree in light of Jewish halakhah for resident aliens, close to the Noahide logic in §1 (<a href="https://www.kesherjournal.com/article/jewish-law-in-gentile-churches-by-markus-brockmuehl/">review</a>). The Gospels add their own data point: Mark&#39;s narrator says of Jesus, &quot;Thus he declared all foods clean&quot; (Mark 7:19), while Matthew&#39;s Jesus says, &quot;I have come not to abolish but to fulfill&quot; (Matt 5:17).</p>
+<div class="rk-table stack" role="region" aria-label="Table: Framework, Core claim about the Mosaic law, Founding statement" tabindex="0"><table role="table">
+<thead role="rowgroup">
+<tr role="row">
+<th role="columnheader">Framework</th>
+<th role="columnheader">Core claim about the Mosaic law</th>
+<th role="columnheader">Founding statement</th>
+</tr>
+</thead>
+<tbody role="rowgroup"><tr role="row">
+<td role="cell" data-label="Framework"><strong>Thomist three-way division</strong></td>
+<td role="cell" data-label="Core claim about the Mosaic law">The Old Law has <strong>moral</strong> precepts (natural law, still binding), <strong>ceremonial</strong> precepts (worship, fulfilled in Christ), and <strong>judicial</strong> precepts (Israel&#39;s civil law, expired)</td>
+<td role="cell" data-label="Founding statement">Aquinas, <em>ST</em> I–II q.99 a.4: &quot;We must therefore distinguish three kinds of precept in the Old Law…&quot; (<a href="https://www.ccel.org/a/aquinas/summa/FS/FS099.html">CCEL</a>)</td>
+</tr>
+<tr role="row">
+<td role="cell" data-label="Framework"><strong>Reformed covenant theology</strong></td>
+<td role="cell" data-label="Core claim about the Mosaic law">A covenant of works with Adam, then a covenant of grace across both Testaments. Ceremonial laws &quot;abrogated,&quot; judicial laws &quot;expired together with the State of that people,&quot; the moral law &quot;doth forever bind all&quot;</td>
+<td role="cell" data-label="Founding statement">Westminster Confession 7.2–7.3; 19.3–19.5 (1646) (<a href="https://wts.edu/wcf">WTS</a>); Calvin&#39;s three uses of the law, <em>Institutes</em> 2.7.6–12 (<a href="https://www.ccel.org/ccel/calvin/institutes.iv.viii.html">CCEL</a>)</td>
+</tr>
+<tr role="row">
+<td role="cell" data-label="Framework"><strong>Lutheran law and gospel</strong></td>
+<td role="cell" data-label="Core claim about the Mosaic law">The law disciplines, shows people their sin, and guides those already born anew</td>
+<td role="cell" data-label="Founding statement">Formula of Concord, Solid Declaration art. VI (1577) (<a href="https://bookofconcord.org/formula-of-concord-solid-declaration/article-vi/">Book of Concord</a>)</td>
+</tr>
+<tr role="row">
+<td role="cell" data-label="Framework"><strong>Dispensationalism</strong></td>
+<td role="cell" data-label="Core claim about the Mosaic law">Israel and the church are distinct. The Mosaic law governed one dispensation, and promises to national Israel stay in force</td>
+<td role="cell" data-label="Founding statement">J.N. Darby (19th c.); popularized by the <em>Scofield Reference Bible</em> (1909) (<a href="https://en.wikipedia.org/wiki/Dispensationalism">overview</a>)</td>
+</tr>
+<tr role="row">
+<td role="cell" data-label="Framework"><strong>Progressive covenantalism</strong></td>
+<td role="cell" data-label="Core claim about the Mosaic law">A middle way: the covenants unfold progressively and are fulfilled in Christ, while the church is not simply &quot;Israel&quot;</td>
+<td role="cell" data-label="Founding statement">Gentry &amp; Wellum, <em>Kingdom through Covenant</em> (Crossway, 2012) (<a href="https://andynaselli.com/progressive-covenantalism-a-viea-media-between-covenant-theology-and-dispensationalism">Andy Naselli</a>)</td>
+</tr>
+<tr role="row">
+<td role="cell" data-label="Framework"><strong>Post-1965 Catholic teaching</strong></td>
+<td role="cell" data-label="Core claim about the Mosaic law">God&#39;s covenant with the Jewish people is irrevocable. The new covenant fulfils the earlier covenants rather than revoking them, and Christ remains the one Redeemer</td>
+<td role="cell" data-label="Founding statement"><em>Nostra Aetate</em> §4 (28 Oct 1965); &quot;The Gifts and the Calling of God Are Irrevocable&quot; (10 Dec 2015) §27, §36, §40; DDF and two other dicasteries, <em>A Journey of Hope</em> (16 Sep 2026) §13</td>
+</tr>
+</tbody></table></div>
+<p><span class="mark doc">DOCUMENTED</span> <strong>The Catholic sequence, in its own words.</strong></p>
+<ul>
+<li><strong>1965.</strong> <em>Nostra Aetate</em> §4: &quot;the Jews should not be spoken of as rejected or accursed as if this followed from holy scripture&quot; (<a href="https://www.adl.org/resources/backgrounder/nostra-aetate">ADL backgrounder</a>).</li>
+<li><strong>2015.</strong> The Pontifical Commission for Religious Relations with the Jews said the new covenant &quot;does not revoke the earlier covenants, but brings them to fulfilment&quot; (§27). It said that how Jews share in salvation without explicitly confessing Christ &quot;is and remains an unfathomable divine mystery&quot; (§36). And it said the Church &quot;neither conducts nor supports any specific institutional mission work directed towards Jews&quot; (§40) (<a href="https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2015/12/10/0976.pdf">Vatican press dossier, Italian</a>).</li>
+<li><strong>2026.</strong> On 16 September 2026 the Dicastery for the Doctrine of the Faith, with the dicasteries for Christian Unity and for Interreligious Dialogue, issued <em>A Journey of Hope: Sixty Years of Interreligious Dialogue and Fraternity in the Light of the Conciliar Declaration Nostra Aetate</em>, approved by Pope Leo XIV. It says: &quot;God&#39;s covenant with the Jewish people is irrevocable, and this continually challenges the Church.&quot; It adds that this &quot;does not mean, for Christians, that there are two paths to salvation,&quot; and that &quot;the religious life of contemporary Jews… is relevant to Christians&quot; (§13) (<a href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20260916_nota-cammino-speranza_en.html">Vatican</a>).</li>
+</ul>
+<p><span class="mark doc">DOCUMENTED</span> <strong>Naming supersessionism.</strong> R. Kendall Soulen, <em>The God of Israel and Christian Theology</em> (Fortress, 1996), distinguishes three types (<a href="https://julesisaacstichting.org/the-god-of-israel-and-christian-theology-part-one/">Jules Isaac Stichting summary</a>):</p>
+<ul>
+<li><strong>Economic:</strong> Israel&#39;s preparatory role is complete once Christ comes.</li>
+<li><strong>Punitive:</strong> Israel is displaced as punishment for rejecting Jesus.</li>
+<li><strong>Structural:</strong> the standard Christian narrative (creation → fall → Christ → consummation) skips Israel, so Israel stops mattering to how Christians understand God.</li>
+</ul>
+<p><span class="mark inf">INFERENCE</span> Soulen&#39;s types help with reading the table. Most mainstream frameworks after 1965 have dropped punitive supersessionism explicitly. Many still hold an economic version without saying so: &quot;fulfilment&quot; can mean either fulfilled and continuing, or fulfilled and finished. The real question is which of those a given framework means.</p>
+<p><span class="mark doc">DOCUMENTED</span> <strong>The Jewish side of the question.</strong> Rabbinic Judaism has no &quot;old covenant&quot; in the Christian sense. Torah remains God&#39;s instruction to Israel, interpreted through the oral tradition, and Gentiles are judged by the Noahide standard (§1). In Jewish framing, the Christian question of whether the old covenant is still valid is a question about someone else&#39;s text.</p>
+<hr>
+<div class="related"><b>Connects to</b><a href="master-notes.html#s1-5">Study §1.5 selective law-keeping</a></div>
+</section><section id="sec-7"><h2 data-num="7" id="s7"><span class="num">§7</span>Audits</h2><blockquote>
+<p>Each audit takes a claim that is common in conversation, or one this corpus itself recorded earlier, and checks it against the sources above.</p>
+</blockquote>
+<details class="audit" data-status="overstated" id="a-first-century-jews-earned-salvation-by-keeping-the-law"><summary><span class="siglum">⚑</span><span class="atitle">First-Century Jews Earned Salvation by Keeping the Law</span><span class="stamp">CHECKED 20 OCT 2026</span><span class="badge overstated">Overstated</span><span class="chev">▶</span></summary><div class="abody"><span class="fld">AS RECORDED</span><p class="hasfld">This is common in Christian preaching and in older scholarship: Judaism was a religion of works-righteousness, and Paul discovered grace in opposition to it.</p>
+<span class="fld">STATUS</span><p class="hasfld">not supported as a description of Judaism in general. A narrower version survives as a live debate.</p>
+<span class="fld">AUDIT</span><p class="hasfld"><span class="mark doc">DOCUMENTED</span> Sanders&#39;s survey of Palestinian Jewish literature from 200 BCE to 200 CE found the covenant consistently framed as coming before obedience, with atonement built in (§3.2). His one exception, 4 Ezra, comes after 70 CE. The Torah says of itself that it is &quot;not too hard&quot; (Deut 30:11), and Paul calls himself &quot;blameless&quot; under it (Phil 3:6). The critics (<em>Justification and Variegated Nomism</em>, Gathercole) did not bring the caricature back. They argued for a <strong>more varied</strong> picture, with more weight on final judgment by works in some texts (§3.3).</p>
+<span class="fld">CORRECTED</span><p class="hasfld">As a blanket description of Second Temple Judaism, the claim fails. The narrower claim, that some Second Temple texts tie <strong>final</strong> vindication to obedience, is supported and still disputed. Anyone using the broad claim should be pointed to Sanders. Anyone saying &quot;Sanders proved no Jew ever relied on works&quot; should be pointed to Sanders&#39;s own exception and to Gathercole.</p>
+<span class="fld">WHY IT LOOKED RIGHT</span><p class="hasfld"><span class="mark inf">INFERENCE</span>:** Paul&#39;s contrast between &quot;works of the law&quot; and faith (Gal 2:16) reads naturally as a contrast between two ways of salvation. For centuries Christian readers met Judaism only through Paul&#39;s polemic, not through Jewish sources.</p>
+</div></details><details class="audit" data-status="overstated" id="a-christians-keep-the-moral-law-but-not-the-ceremonial-or-civil-law"><summary><span class="siglum">⚑</span><span class="atitle">Christians Keep the Moral Law but Not the Ceremonial or Civil Law</span><span class="stamp">CHECKED 20 OCT 2026</span><span class="badge overstated">Overstated</span><span class="chev">▶</span></summary><div class="abody"><span class="fld">AS RECORDED</span><p class="hasfld">This is the usual Christian answer to &quot;Why keep Leviticus 18 but not Leviticus 19:19?&quot;</p>
+<span class="fld">STATUS</span><p class="hasfld">a later theological framework, presented as if the text stated it.</p>
+<span class="fld">AUDIT</span><p class="hasfld"><span class="mark doc">DOCUMENTED</span> The three-way division is spelled out by Aquinas (<em>ST</em> I–II q.99 a.4) and made confessional in Westminster Confession 19.3–19.5 (§6). Aquinas grounds it in the wording of Deut 6:1 (&quot;precepts… ceremonies… judgments&quot;), which is a reading of that verse, not a classification the text announces.</p>
+<p><span class="mark doc">DOCUMENTED</span> The Torah doesn&#39;t sort its own commands this way. Leviticus 19 puts &quot;you shall love your neighbor as yourself&quot; (19:18) right next to the bans on mixed breeding, mixed seed, and mixed fabrics (19:19), with no change of category. Paul himself, in 1 Cor 7:19, sets circumcision against &quot;the commandments of God,&quot; which is a cut inside the law that the law doesn&#39;t make (§4).</p>
+<span class="fld">CORRECTED</span><p class="hasfld">The division has a long and serious pedigree, and it is coherent as Christian theology. It is not a distinction the Torah draws. Anyone presenting it as what the Bible says is presenting an interpretation as text. This connects to <span class="mark you">YOURS</span> Study Notes §1.5 (selective law-keeping) and Observations §22.9.</p>
+<span class="fld">WHY IT LOOKED RIGHT</span><p class="hasfld"><span class="mark inf">INFERENCE</span>:** Some commands do look universal (murder, theft) and others look Israel-specific (sacrifice, purity), so the sorting feels intuitive. The problem is where the line falls. Sexual and dietary rules sit side by side in the same holiness code.</p>
+</div></details><details class="audit" data-status="collapses" id="a-who-named-the-new-perspective-and-the-schreiner-book-credit"><summary><span class="siglum">⚑</span><span class="atitle">Who Named the New Perspective, and the Schreiner Book Credit</span><span class="stamp">CHECKED 20 OCT 2026</span><span class="badge collapses">Collapses</span><span class="chev">▶</span></summary><div class="abody"><span class="fld">AS RECORDED</span><p class="hasfld">Study Notes §9.5.2 had &quot;James D.G. Dunn… coined the term &#39;New Perspective&#39; in a 1983 lecture.&quot; Separately, the Cited Persons entry for Thomas Schreiner credited him with <em>Israel&#39;s Law and the Church&#39;s Faith</em> (1988).</p>
+<span class="fld">STATUS</span><p class="hasfld">both details were wrong as recorded, and both are now corrected in the corpus.</p>
+<span class="fld">AUDIT</span><p class="hasfld"><span class="mark doc">DOCUMENTED</span> Wright used &quot;a new perspective&quot; in his 1978 Tyndale lecture, published in <em>Tyndale Bulletin</em> 29 (<a href="https://ntwrightpage.com/wp-content/uploads/2016/05/Wright_Paul_History.pdf">PDF</a>). Dunn&#39;s lecture was the <strong>1982</strong> Manson Memorial Lecture, published in 1983 (<a href="https://markgoodacre.org/PaulPage/New.html">BJRL 65 (1983)</a>). The Cited Persons entry for Dunn already gave the 1982/1983 dates correctly.</p>
+<p><span class="mark doc">DOCUMENTED</span> <em>Israel&#39;s Law and the Church&#39;s Faith: Paul and His Recent Interpreters</em> (Eerdmans, 1988) is <strong>Stephen Westerholm&#39;s</strong> book (<a href="https://www.eerdmans.com/9780802802880/israels-law-and-the-churchs-faith/">Eerdmans</a>). Study Notes §9.5.2 already credited it correctly.</p>
+<span class="fld">CORRECTED</span><p class="hasfld">Dunn <strong>named and popularized</strong> the movement in a 1982 lecture published in 1983, and Wright had used the phrase in 1978. Study Notes §9.5.2 now says this. Schreiner&#39;s works on the topic are the 1984 <em>JETS</em> article on Galatians 3:10 and <em>The Law and Its Fulfillment</em> (1993). The Cited Persons entry is corrected.</p>
+</div></details><details class="audit" data-status="overstated" id="a-the-new-covenant-replaced-god-s-covenant-with-israel"><summary><span class="siglum">⚑</span><span class="atitle">The New Covenant Replaced God's Covenant with Israel</span><span class="stamp">CHECKED 20 OCT 2026</span><span class="badge overstated">Overstated</span><span class="chev">▶</span></summary><div class="abody"><span class="fld">AS RECORDED</span><p class="hasfld">This is the replacement (supersessionist) reading: the church is the new Israel, and the Sinai covenant is over.</p>
+<span class="fld">STATUS</span><p class="hasfld">a documented, historically dominant Christian position, but not the only reading the New Testament supports.</p>
+<span class="fld">AUDIT</span><p class="hasfld"><span class="mark doc">DOCUMENTED</span> Hebrews says it directly: &quot;In speaking of a new covenant, he has made the first one obsolete, and what is obsolete and growing old will soon disappear&quot; (Heb 8:13). That verse closes Hebrews&#39; quotation of Jer 31:31–34 (Heb 8:8–12), often described as the longest Old Testament quotation in the New Testament (<a href="https://reformedhomiletics.org/hebrews/58-hebrews-08">Reformed Homiletics</a>).</p>
+<p><span class="mark doc">DOCUMENTED</span> Paul says the opposite about the <strong>people</strong>: &quot;has God rejected his people? By no means!&quot; (Rom 11:1), and &quot;as regards election they are beloved for the sake of their ancestors, for the gifts and the calling of God are irrevocable&quot; (Rom 11:28–29). Jeremiah&#39;s own context ties the new covenant to Israel&#39;s permanence (Jer 31:35–37).</p>
+<p><span class="mark inf">INFERENCE</span> Hebrews talks about the <strong>covenant administration</strong>: priesthood, sanctuary, sacrifice. Romans 11 talks about the <strong>people&#39;s election</strong>. A reader can hold both: the Sinai cult is surpassed, and Israel&#39;s calling is not revoked. That is roughly where Catholic teaching has landed (1965, 2015, 2026; §6). The replacement reading puts the two claims together into one, and neither text makes that move.</p>
+<span class="fld">CORRECTED</span><p class="hasfld">Hebrews supports &quot;the first covenant is obsolete.&quot; Romans supports &quot;Israel is not rejected.&quot; The Catholic Church has revised its own earlier teaching in official documents. Anyone presenting replacement as simply &quot;what the Bible teaches&quot; is leaving out Romans 9–11.</p>
+<span class="fld">WHY IT LOOKED RIGHT</span><p class="hasfld"><span class="mark inf">INFERENCE</span>:** Hebrews 8:13 is short, quotable, and unambiguous on its own terms. Romans 9–11 is long and argued in steps, so it is quoted far less often.</p>
+</div></details>
+</section><section id="sec-8"><h2 data-num="8" id="s8"><span class="num">§8</span>Where This Connects</h2><ul>
+<li><strong>Study Notes §1.5</strong>: selective law-keeping (<span class="mark you">YOURS</span>), the observation the second audit in §7 tests.</li>
+<li><strong>Study Notes §9.5.2–9.5.3</strong>: Galatians, the New Perspective, and the three competing readings of the curse in Gal 3:10–14 (Schreiner, Dunn, Wright).</li>
+<li><strong>Study Notes §9.6.3</strong>: the ANE treaty debate behind Deuteronomy (Mendenhall, Kitchen, Weinfeld, Tigay).</li>
+<li><strong>Observations §22.9</strong>: the law-keeping problem, the Torah&#39;s repair mechanisms, and the people the text calls blameless.</li>
+<li><strong>Translations §5–6</strong>: verses where translations diverge, and the switch to the NRSVue. Relevant here are the NRSVue&#39;s renderings of Gal 2:16 (&quot;faith of&quot;), Gal 3:24 (&quot;disciplinarian&quot;), and Rom 10:4 (&quot;culmination&quot;).</li>
+<li><strong>Cited Persons</strong>: Sanders, Dunn, Wright, Westerholm, Schreiner, Seifrid, Stuhlmacher.</li>
+</ul>
+<p><strong>Open items, not done in this pass:</strong></p>
+<ul>
+<li>Page-level checks of Schreiner&#39;s <em>The Law and Its Fulfillment</em> and of Räisänen&#39;s specific examples of contradiction.</li>
+<li>A Jewish-scholarly treatment of Paul (for example Daniel Boyarin, <em>A Radical Jew</em>, 1994; Pamela Eisenbaum, <em>Paul Was Not a Christian</em>, 2009). They are named here as leads only and not yet verified.</li>
+<li>The Hebrews 8 to Romans 11 question as a standalone Study Notes entry.</li>
+</ul>
+<hr>
+
+</section><section id="sec-9"><h2 data-num="9" id="s9"><span class="num">§9</span>Sources</h2><p><strong>Primary texts</strong></p>
+<ul>
+<li>NRSVue at BibleGateway: <a href="https://www.biblegateway.com/passage/?search=Galatians+3%3A24-25%3B+Romans+3%3A31%3B+Romans+7%3A12%3B+Philippians+3%3A6%3B+Romans+10%3A4&version=NRSVUE">Galatians 2:16, 3:19, 3:24–25, 5:3; Romans 3:31, 7:12, 7:15, 7:24–25, 9:4, 10:4, 11:1, 11:28–29; Philippians 3:6; Deuteronomy 30:11–14; Jeremiah 31:31–37; Hebrews 8:13; Matthew 5:17; Mark 7:19; Acts 15:28–29; 1 Corinthians 7:19; 2 Corinthians 3:6; 2 Samuel 7:14–16; Exodus 19:5–6; Genesis 17:10–11</a></li>
+<li>b. Makkot 23b: <a href="https://www.chabad.org/torah-texts/5458913/The-Talmud/Makot/Chapter-3/23b">Chabad.org</a></li>
+<li>Tosefta Avodah Zarah 8:4: <a href="https://www.posenlibrary.com/entry/noahide-laws">Posen Library</a></li>
+<li>4QMMT: <a href="https://en.wikipedia.org/wiki/4QMMT">overview</a></li>
+<li>Aquinas, <em>Summa Theologiae</em> I–II q.99: <a href="https://www.ccel.org/a/aquinas/summa/FS/FS099.html">CCEL</a></li>
+<li>Calvin, <em>Institutes</em> 2.7: <a href="https://www.ccel.org/ccel/calvin/institutes.iv.viii.html">CCEL</a></li>
+<li>Westminster Confession of Faith: <a href="https://wts.edu/wcf">WTS</a></li>
+<li>Formula of Concord, SD VI: <a href="https://bookofconcord.org/formula-of-concord-solid-declaration/article-vi/">Book of Concord</a></li>
+<li><em>Nostra Aetate</em> §4: <a href="https://www.adl.org/resources/backgrounder/nostra-aetate">ADL backgrounder</a></li>
+<li>&quot;The Gifts and the Calling of God Are Irrevocable&quot; (2015): <a href="https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2015/12/10/0976.pdf">Vatican press dossier</a></li>
+<li><em>A Journey of Hope</em> (DDF et al., 16 Sep 2026): <a href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20260916_nota-cammino-speranza_en.html">Vatican</a></li>
+</ul>
+<p><strong>Scholarship</strong></p>
+<ul>
+<li>BDB, <em>torah</em>: <a href="https://www.scriptureandtruth.com/bdb/h8451">Scripture and Truth</a></li>
+<li>TheTorah.com on the 613: <a href="https://www.thetorah.com/article/the-origins-and-use-of-the-613-mitzvot">article</a></li>
+<li>Weinfeld 1970: <a href="https://vergil.uni-tuebingen.de/keibi/Record/KEI00086352/Details">record</a></li>
+<li>Abegg 1994: <a href="https://library.biblicalarchaeology.org/issue/november-december-1994/">BAR</a></li>
+<li>Dunn 1997: <a href="https://www.cambridge.org/core/journals/new-testament-studies/article/4qmmt-and-galatians1/F34DE4AB1519F607A9671F322D4DF1E4">NTS</a></li>
+<li>Dunn 1983: <a href="https://markgoodacre.org/PaulPage/New.html">BJRL text</a></li>
+<li>Sanders 1977: <a href="https://jdavidstark.com/judaism-in-paul-and-palestinian-judaism/">Stark</a>; <a href="https://thescripturesays.org/2016/06/27/book-review-sanders-paul-palestinian-judaism/">review summary</a></li>
+<li>Sanders 1983: <a href="https://www.fortresspress.com/store/product/9780800618780/Paul-the-Law-and-the-Jewish-People">Fortress</a></li>
+<li>Carson, O&#39;Brien &amp; Seifrid 2001: <a href="https://www.mohrsiebeck.com/en/book/justification-and-variegated-nomism-volume-i-9783161469947/">Mohr Siebeck</a></li>
+<li>Gathercole 2002: <a href="https://www.eerdmans.com/9781467427708/where-is-boasting/">Eerdmans</a></li>
+<li>Räisänen: <a href="https://books.google.com/books/about/Paul_and_the_Law.html?id=MByQXPgNyF8C">listing</a></li>
+<li>Romans 7 interpretation survey: <a href="https://rtc.edu.au/wp-content/uploads/Romans-7-a-history-of-interpretation-2018.pdf">Vox Reformata 2018</a></li>
+<li>Stowers: <a href="https://muse.jhu.edu/article/727563/summary">review</a></li>
+<li>Stendahl 1963: <a href="https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/apostle-paul-and-the-introspective-conscience-of-the-west/4172993A034F101DAD79981809A47F52">HTR</a></li>
+<li>Young 1987: <a href="https://scispace.com/journals/novum-testamentum-8ad8qfmh/1987">record</a></li>
+<li>Hays: <a href="https://johnwesleyfellows.org/profiles/richard-b-hays/">profile</a></li>
+<li>Wright 1978: <a href="https://ntwrightpage.com/wp-content/uploads/2016/05/Wright_Paul_History.pdf">PDF</a></li>
+<li>Wright 1997 quotation: <a href="https://learn.ligonier.org/articles/has-church-misunderstood-justification">Ligonier</a></li>
+<li>Wright 1991: <a href="https://research-portal.st-andrews.ac.uk/en/publications/the-climax-of-the-covenant-christ-and-the-law-in-pauline-theology/">St Andrews</a></li>
+<li>Wright 2013: <a href="https://www.publishersweekly.com/9780800626839">Publishers Weekly</a></li>
+<li>Wright 2021: <a href="https://www.eerdmans.com/9781467462174/galatians/">Eerdmans</a></li>
+<li>Westerholm 1988: <a href="https://www.eerdmans.com/9780802802880/israels-law-and-the-churchs-faith/">Eerdmans</a></li>
+<li>Westerholm 2004: <a href="https://www.thegospelcoalition.org/themelios/review/perspectives-old-and-new-on-paul-the-lutheran-paul-and-his-critics/">Themelios</a></li>
+<li>Schreiner 1984: <a href="https://www.galaxie.com/article/jets27-2-05">Galaxie</a></li>
+<li>Seifrid 2000: <a href="https://www.ivpress.com/christ-our-righteousness">IVP</a></li>
+<li>Stuhlmacher 2001: <a href="https://www.thegospelcoalition.org/themelios/review/revisiting-pauls-doctrine-of-justification-a-challenge-to-the-new-perspective/">Themelios</a></li>
+<li>Piper and Wright: <a href="https://banneroftruth.org/us/resources/book-review-resources/2009/the-future-of-justification-a-review-by-douglas-kuiper/">Banner of Truth</a>; <a href="https://intervarsity.org/news/new-from-intervarsity-press-ijustification/i">IVP</a></li>
+<li>Nanos &amp; Zetterholm 2015: <a href="https://academic.oup.com/jts/article/66/2/782/2386022">JTS</a></li>
+<li>Fredriksen 2017: <a href="https://yalebooks.yale.edu/book/9780300225884/paul/">Yale UP</a></li>
+<li>Bockmuehl 2000: <a href="https://www.kesherjournal.com/article/jewish-law-in-gentile-churches-by-markus-brockmuehl/">review</a></li>
+<li>Soulen 1996: <a href="https://julesisaacstichting.org/the-god-of-israel-and-christian-theology-part-one/">summary</a></li>
+<li>Gentry &amp; Wellum 2012: <a href="https://andynaselli.com/progressive-covenantalism-a-viea-media-between-covenant-theology-and-dispensationalism">Naselli</a></li>
+<li>Dispensationalism: <a href="https://en.wikipedia.org/wiki/Dispensationalism">overview</a></li>
+</ul>
+
+
+</section>
+</main>
+<button id="top" aria-label="Back to top"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"/></svg></button>
+<script>
+const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
+
+/* One compact document selector replaces the tall list of navigation cards. */
+const documentPicker = $('#document-switcher');
+if(documentPicker) documentPicker.addEventListener('change', () => {
+  if(documentPicker.value) location.assign(documentPicker.value);
+});
+
+/* keep wheel/trackpad scrolling inside the navigation rail */
+const rail=$('#rail'), railToc=$('#toc');
+if(rail&&railToc) rail.addEventListener('wheel',e=>{
+  if(e.ctrlKey||!e.deltaY)return;
+  railToc.scrollTop+=e.deltaY;
+  e.preventDefault();
+},{passive:false});
+
+/* progress */
+addEventListener('scroll',()=>{
+  const h=document.documentElement, p=h.scrollTop/(h.scrollHeight-h.clientHeight)*100;
+  $('#progress i').style.width=p+'%';
+  $('#top').classList.toggle('show',h.scrollTop>600);
+},{passive:true});
+
+/* scrollspy + current location */
+const heads=$$('h2[id],h3[id]');
+const currentLabel=$('#reader-current');
+const setCurrentLocation=text=>{
+  const label=(text||'Overview').trim();
+  $('#here').textContent=label;
+  if(currentLabel)currentLabel.textContent=label;
+};
+const spy=new IntersectionObserver(es=>{
+  es.forEach(e=>{if(!e.isIntersecting)return;
+    const id=e.target.id;
+    $$('#toc a').forEach(a=>a.classList.toggle('here',a.getAttribute('href')==='#'+id));
+    const l=$('#toc a.here'); if(l){setCurrentLocation(l.textContent);
+      const r=l.getBoundingClientRect(),c=$('#toc').getBoundingClientRect();
+      if(r.top<c.top||r.bottom>c.bottom)l.scrollIntoView({block:'center'});}
+  });
+},{rootMargin:'-70px 0px -72% 0px'});
+heads.forEach(h=>spy.observe(h));
+
+/* search */
+const sec=$$('main section'), tocA=$$('#toc a');
+$('#search').addEventListener('input',e=>{
+  const q=e.target.value.trim().toLowerCase();
+  if(!q){sec.forEach(s=>s.classList.remove('dim'));tocA.forEach(a=>a.classList.remove('dim'));
+    $('#nores').style.display='none';return;}
+  let hits=0;
+  sec.forEach(s=>{const m=s.textContent.toLowerCase().includes(q);
+    s.classList.toggle('dim',!m); if(m)hits++;});
+  tocA.forEach(a=>{const t=$(a.getAttribute('href'));
+    const s=t&&t.closest('section'); a.classList.toggle('dim',!(s&&!s.classList.contains('dim')));});
+  $('#nores').style.display=hits?'none':'block';
+});
+
+/* audit toggles */
+let openAll=false;
+const ta=$('#toggleAudits'); if(ta) ta.addEventListener('click',e=>{
+  openAll=!openAll; $$('.audit').forEach(d=>d.open=openAll);
+  e.target.classList.toggle('on',openAll);
+  e.target.textContent=openAll?'Collapse all audits':'Expand all audits';
+});
+/* status filter */
+$$('.filt').forEach(b=>b.addEventListener('click',()=>{
+  const on=b.classList.toggle('on');
+  $$('.filt').forEach(o=>{if(o!==b)o.classList.remove('on')});
+  const st=b.dataset.st;
+  if(!on){sec.forEach(s=>s.classList.remove('dim'));return}
+  sec.forEach(s=>s.classList.toggle('dim',!s.querySelector(`.audit[data-status="${st}"]`)));
+  $$('.audit').forEach(d=>d.open=d.dataset.status===st);
+}));
+
+/* xref flash + open target audit */
+addEventListener('click',e=>{
+  const a=e.target.closest('a[href^="#"]'); if(!a)return;
+  const t=$(a.getAttribute('href')); if(!t)return;
+  const d=t.closest('details'); if(d)d.open=true;
+  const dd=t.matches('details')?t:null; if(dd)dd.open=true;
+  t.classList.remove('flash'); void t.offsetWidth; t.classList.add('flash');
+});
+if(location.hash){
+  const t=$(location.hash),d=t&&t.closest('details');if(d)d.open=true;
+  const a=tocA.find(link=>link.getAttribute('href')===location.hash);if(a)setCurrentLocation(a.textContent);
+}
+
+$$('.gloss').forEach(g=>g.addEventListener('mouseenter',()=>{
+  const t=g.querySelector('.tip'); g.classList.remove('flip');
+  if(g.getBoundingClientRect().left+t.offsetWidth>innerWidth-20)g.classList.add('flip');
+}));
+$('#top').addEventListener('click',()=>scrollTo({top:0,behavior:'smooth'}));
+$('#menu').addEventListener('click',()=>{const o=$('#rail').classList.toggle('open');$('#overlay').classList.toggle('show',o)});
+
+/* focus reading mode */
+const toolsBar=$('#tools');
+if(toolsBar){
+  const focusBtn=document.createElement('button');
+  focusBtn.type='button';
+  focusBtn.className='tbtn';
+  focusBtn.id='focusbtn';
+  focusBtn.setAttribute('aria-pressed','false');
+  const themeButton=$('#themebtn');
+  if(themeButton)toolsBar.insertBefore(focusBtn,themeButton);
+  else toolsBar.appendChild(focusBtn);
+
+  const focusKey='religion-reader-focus';
+  const setFocus=(on,persist=true)=>{
+    document.documentElement.classList.toggle('focus-reading',on);
+    focusBtn.classList.toggle('on',on);
+    focusBtn.setAttribute('aria-pressed',String(on));
+    focusBtn.textContent=on?'Exit focus':'Focus';
+    if(persist){try{localStorage.setItem(focusKey,on?'1':'0')}catch(e){}}
+  };
+  let savedFocus=false;
+  try{savedFocus=localStorage.getItem(focusKey)==='1'}catch(e){}
+  setFocus(savedFocus,false);
+  focusBtn.addEventListener('click',()=>setFocus(!document.documentElement.classList.contains('focus-reading')));
+}
+
+/* theme toggle (shared key with the app) */
+const tb=$('#themebtn'); if(tb) tb.addEventListener('click',()=>{
+  const r=document.documentElement;
+  const cur=r.dataset.theme||'light';
+  r.dataset.theme=cur==='dark'?'light':'dark';
+  try{localStorage.setItem('religion-knowledge-theme',r.dataset.theme)}catch(e){}
+});
+$('#overlay').addEventListener('click',()=>{$('#rail').classList.remove('open');$('#overlay').classList.remove('show')});
+$('#toc').addEventListener('click',e=>{if(e.target.tagName==='A'&&innerWidth<1080){$('#rail').classList.remove('open');$('#overlay').classList.remove('show')}});
+addEventListener('keydown',e=>{
+  if(e.key==='/'&&document.activeElement!==$('#search')){e.preventDefault();$('#search').focus()}
+  if(e.key==='Escape'){$('#search').value='';$('#search').dispatchEvent(new Event('input'));$('#search').blur()}
+});
+</script><script src="highlight-referral.js"></script><script src="correction-form.js"></script><script src="reader-chapters.js"></script>
+</body></html>

@@ -21,6 +21,21 @@ marked.use({ mangle: false, headerIds: false });
 // Links are [displayText, href].
 
 const RELATED_BY_DOC = {
+  'law-covenant.html': {
+    's2': [
+      [['Study §9.6.3 the ANE treaty debate', 'master-notes.html#s9-6-3']],
+    ],
+    's3-2': [
+      [['Observations §22.9 the law-keeping problem', 'field-guide.html#s22-9']],
+    ],
+    's5': [
+      [['Study §9.5.2 the New Perspective', 'master-notes.html#s9-5-2'],
+       ['Study §9.5.3 the curse of the law', 'master-notes.html#s9-5-3']],
+    ],
+    's6': [
+      [['Study §1.5 selective law-keeping', 'master-notes.html#s1-5']],
+    ],
+  },
   'history.html': {
     's2-4': [
       [['Study §5.4 damnation escalation', 'master-notes.html#s5-4'],
@@ -184,6 +199,7 @@ const DOCSWITCH = [
   { label: 'Translations',       href: 'translations.html' },
   { label: 'Method &amp; Reference', href: 'method-reference.html' },
   { label: 'Glossary',           href: 'glossary.html' },
+  { label: 'Law &amp; Covenant',  href: 'law-covenant.html' },
   { label: 'Cited Persons',      href: 'cited-persons.html' },
   { label: 'Religion &amp; Law', href: 'religion-law.html' },
   { label: 'Personal History',   href: 'personal-belief-history.html' },
@@ -274,6 +290,19 @@ audit sections onward is marked.</p>`,
     masthead: 'Translations',
     meta:     '<span><b>Source</b>ESV + audiobook</span><span><b>Updated</b>August 2026</span><span><b>Companion</b><a href="master-notes.html">Study Notes</a></span>',
     hasAudits: false,
+    hasHowto:  false,
+    chapterMarkers: false,
+  },
+  {
+    md:       'Law_and_Covenant.md',
+    html:     'law-covenant.html',
+    title:    'Law &amp; Covenant',
+    doctitle: 'Law &amp; Covenant',
+    docsub:   'Torah, covenant, and Paul',
+    lens:     'Torah, the Covenants, Second Temple Judaism, and Paul',
+    masthead: 'Law &amp; Covenant',
+    meta:     '<span><b>Source</b>NRSVue</span><span><b>Updated</b>20 October 2026</span><span><b>Companion</b><a href="master-notes.html">Study Notes</a></span>',
+    hasAudits: true,
     hasHowto:  false,
     chapterMarkers: false,
   },
@@ -907,7 +936,7 @@ function buildDocswitch(currentHref) {
   // Native document picker: the 11-document list no longer expands into a
   // second full-height navigation inside the table of contents.
   const groups = [
-    ['Reading', ['master-notes.html', 'field-guide.html', 'history.html', 'other-side.html', 'translations.html']],
+    ['Reading', ['master-notes.html', 'field-guide.html', 'history.html', 'other-side.html', 'translations.html', 'law-covenant.html']],
     ['Sources & references', ['sources.html', 'method-reference.html', 'glossary.html', 'cited-persons.html']],
     ['Other topics', ['religion-law.html', 'personal-belief-history.html']],
   ];

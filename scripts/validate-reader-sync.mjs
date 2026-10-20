@@ -9,6 +9,7 @@ const DOCUMENTS = [
   ['Translations.md', 'translations.html', 'Translations'],
   ['Method_and_Reference.md', 'method-reference.html', 'Method & Reference'],
   ['Glossary.md', 'glossary.html', 'Glossary'],
+  ['Law_and_Covenant.md', 'law-covenant.html', 'Law & Covenant'],
 ];
 
 // cited-persons.html is hand-maintained; Cited_Persons.md is a working draft
@@ -27,6 +28,7 @@ const SWITCHER_LABELS = [
   'Translations',
   'Method & Reference',
   'Glossary',
+  'Law & Covenant',
   'Cited Persons',
   'Religion & Law',
   'Personal History',
@@ -94,12 +96,12 @@ const idsFor = (file) => {
 
 const SWITCHER_HREFS = [
   'master-notes.html', 'field-guide.html', 'history.html', 'other-side.html',
-  'translations.html', 'sources.html', 'method-reference.html',
+  'translations.html', 'law-covenant.html', 'sources.html', 'method-reference.html',
   'glossary.html', 'cited-persons.html', 'religion-law.html',
   'personal-belief-history.html',
 ];
 const EXPECTED_PICKER_LABELS = [
-  'Study Notes','Observations','History','The Strongest Case','Translations',
+  'Study Notes','Observations','History','The Strongest Case','Translations','Law & Covenant',
   'Sources','Method & Reference','Glossary','Cited Persons',
   'Religion & Law','Personal History',
 ];

@@ -17,6 +17,7 @@ const DOC_META = [
   ['illness-explanations.html', 'Illness Explanations'],
   ['method-reference.html','Method & Reference'],
   ['glossary.html',        'Glossary'],
+  ['law-covenant.html',    'Law & Covenant'],
   ['cited-persons.html',   'Cited Persons'],
   ['gender-over-time.html', 'Gender Over Time'],
   ['patterns-synthesis.html','Patterns & Synthesis'],
