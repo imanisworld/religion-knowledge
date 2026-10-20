@@ -2,7 +2,7 @@
 
 Who each cited person is and where they are coming from. The goal is not to discredit anyone but to know what lens shaped their conclusions before using them as authorities. A slavery defender can be an excellent primary source for what proslavery Christians argued; they become a bad choice if presented as a neutral authority on whether slavery was morally acceptable.
 
-> **Control status — 12 August 2026:** this is a working orientation index, not an audited authority file. **Complete named-entry pass: 165 documented, 200 unresolved; 0 entries not yet audited (365 named entries total).** The index remains intentionally excluded from the eight-source app dataset. A `CHECKED` label means the wording below is supported by the linked evidence; `UNRESOLVED` means the claim must not be quoted as established. Corrections are made openly.
+> **Control status — 20 October 2026 (marker recount; no new fact-check):** this is a working orientation index, not a fully independently verified authority file. **Current entry markers: 194 documented, 171 unresolved; 0 unclassified (365 named entries total).** The index remains intentionally excluded from the eight-source app dataset. A `CHECKED` label means the wording below is supported by the linked evidence; `UNRESOLVED` means the claim must not be quoted as established. Corrections are made openly.
 
 ---
 
@@ -450,9 +450,9 @@ Who each cited person is and where they are coming from. The goal is not to disc
 
 ## M
 
-⟨UNRESOLVED⟩ **MacDonald, Dennis R.** — Critical scholar; *There Is No Male and Female* (1987). Argues the "no male and female" clause in Galatians 3:28 circulated as an independent Jesus saying before Paul used it. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`
+⟨UNRESOLVED⟩ **MacDonald, Dennis R.** — New Testament scholar; *There Is No Male and Female: The Fate of a Dominical Saying in Paul and Gnosticism* (Fortress Press, 1987). MacDonald **reconstructs** an earlier saying attributed to Jesus behind Galatians 3:27–28; this is his scholarly proposal, not an established fact about what circulated before Paul. Adela Yarbro Collins reports this reconstruction and cites MacDonald pp. 5–9; Collins separately discusses the wider view that Paul adapted earlier baptismal language. The primary argument and his comparison with later Gnostic texts still require page-level review. `UNRESOLVED 20 OCT 2026 — SECONDARY SOURCE CHECKED; PRIMARY PAGES REQUIRED` ([Yarbro Collins 2019, p. 28, note 4](https://doi.org/10.25784/jeac.v1i0.98))
 
-⟨UNRESOLVED⟩ **MacIntyre, Alasdair** — Philosopher; "Hume on Is and Ought" (1959). The is-ought problem in meta-ethics. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`
+⟨UNRESOLVED⟩ **MacIntyre, Alasdair** — Philosopher; author of “Hume on 'Is' and 'Ought',” *The Philosophical Review* 68, no. 4 (1959): 451–468. The article critically discusses Hume’s well-known distinction between descriptions of what *is* and claims about what *ought* to be. The article’s bibliographic details are documented; its precise argument has not been checked in the primary pages and must not be summarized further from a citation alone. `UNRESOLVED 20 OCT 2026 — BIBLIOGRAPHY CHECKED; ARTICLE PAGES REQUIRED` ([journal DOI](https://doi.org/10.2307/2182491))
 
 ⟨UNRESOLVED⟩ **Mackie, J.L.** — Philosopher; atheist; *Ethics: Inventing Right and Wrong* (1977); "Evil and Omnipotence" (*Mind*, 1955). Error theory — objective moral values do not exist — and the logical problem of evil. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`
 
