@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { buildSearchIndex } from './build-search-index.mjs';
+import { buildPublicCatalog } from './build-public-catalog.mjs';
 
 const RESEARCH_READERS = [
   ['master-notes.html', 'Study Notes', 'The full study — audits, corrections, and the reading in progress.'],
@@ -21,9 +22,14 @@ const PERSONAL_PAGES = [
   ['personal-belief-history.html', 'Personal Belief History', 'A reconstruction log for what I actually believed at different stages, with unknowns preserved.'],
 ];
 const DISCOVERY_PAGES = [
-  ['search.html', 'Search', 'Search across all research documents and cited persons by name, topic, or scholar.'],
+  ['catalog.html', 'Gods, Religions & People', 'Find gods, religions, cultures, stories, and the people cited in this research.'],
+  ['comparisons.html', 'Comparison Tables', 'See timelines and tables comparing history, law, gender, and biblical texts.'],
+  ['search.html', 'Search the Library', 'Look up a name, word, place, or question across the research.'],
 ];
-const READERS = [...RESEARCH_READERS, ...PERSONAL_PAGES, ...DISCOVERY_PAGES];
+// The catalog is generated from Timeline data at build time; it is not a committed reader file.
+const GENERATED_PAGES = new Set(['catalog.html']);
+const READERS = [...RESEARCH_READERS, ...PERSONAL_PAGES, ...DISCOVERY_PAGES]
+  .filter(([file]) => !GENERATED_PAGES.has(file));
 
 // The deployed site is the full product, mirroring the repo layout so the
 // app's relative paths (../data/…, ../master-notes.html) work unchanged:
@@ -106,7 +112,20 @@ function buildIndexHtml() {
         <h2>${title}</h2>
         <p>${blurb}</p>
       </a>`).join('');
-  const researchCards = cardsFor(RESEARCH_READERS);
+  const pick = (files) => files.map((file) => {
+    const record = RESEARCH_READERS.find(([name]) => name === file);
+    if (!record) throw new Error(`Missing homepage reader: ${file}`);
+    return record;
+  });
+  const topicCards = cardsFor(pick([
+    'history.html', 'religion-law.html', 'gender-over-time.html', 'patterns-synthesis.html',
+  ]));
+  const bibleCards = cardsFor(pick([
+    'translations.html', 'translation-evidence.html', 'master-notes.html', 'field-guide.html', 'other-side.html',
+  ]));
+  const referenceCards = cardsFor(pick([
+    'sources.html', 'cited-persons.html', 'method-reference.html', 'glossary.html',
+  ]));
   const personalCards = cardsFor(PERSONAL_PAGES);
   const discoveryCards = cardsFor(DISCOVERY_PAGES);
 
@@ -116,14 +135,14 @@ function buildIndexHtml() {
 <title>Religion Knowledge</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet">
 <style>
 :root{
-  --ground:#F5F1F0;--paper:#FFFDFC;--ink:#241B1E;--ink2:#62565A;--ink3:#807277;
+  --ground:#F5F1F0;--paper:#FFFDFC;--ink:#241B1E;--ink2:#62565A;--ink3:#6F6066;
   --rule:#DDD2D5;--accent:#8B3A4A;--accent-strong:#6F2D3A;--accent-soft:#F4E7EA;
   --shadow:0 18px 45px rgba(57,34,42,.07);
   --f-display:"Newsreader",Georgia,serif;
-  --f-body:"IBM Plex Sans",system-ui,sans-serif;
+  --f-body:"Atkinson Hyperlegible Next",system-ui,sans-serif;
 }
 *{box-sizing:border-box}
 html,body{overflow-x:hidden}
@@ -276,6 +295,8 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
   .section-head{grid-template-columns:1fr;gap:.35rem;margin-top:2.35rem}
 }
 
+.hero .comparison-entry{margin-top:1rem}
+.hero .comparison-entry a{color:var(--accent);font-weight:600;text-underline-offset:4px}
 /* ---------- editorial landing: fewer cards, more hierarchy ---------- */
 :root{
   --info:#486A8D;
@@ -298,6 +319,13 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
   grid-template-columns:repeat(2,minmax(0,1fr));
   gap:0 2.4rem;
   border-bottom:1px solid var(--rule);
+}
+.discovery-head + .grid{
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:0 1.6rem;
+}
+@media(max-width:900px){
+  .discovery-head + .grid{grid-template-columns:repeat(2,minmax(0,1fr))}
 }
 .card{
   min-height:0;
@@ -325,7 +353,7 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
   --pending:#D8B56E;
 }
 @media(max-width:620px){
-  .grid{grid-template-columns:1fr}
+  .grid,.discovery-head + .grid{grid-template-columns:1fr}
   .app-card{padding:1.35rem 1rem}
 }
 </style>
@@ -337,9 +365,9 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
     <a class="rk-brand" href="index.html">Religion Knowledge<small>Research library</small></a>
     <nav class="rk-global-nav" aria-label="Site navigation">
       <a href="index.html" aria-current="page">Library</a>
-      <a href="search.html">Search</a>
-      <a href="religion-law.html">Religion &amp; Law</a>
       <a href="history.html">History</a>
+      <a href="religion-law.html">Religion &amp; Law</a>
+      <a href="search.html">Search</a>
     </nav>
     <button id="landingTheme" class="rk-site-control" type="button" aria-label="Toggle theme">Theme</button>
   </div>
@@ -348,26 +376,43 @@ main>.hero>p{font-size:1.08rem;line-height:1.72;max-width:64ch}
   <div class="hero">
     <p class="eyebrow">Research library</p>
     <h1>Religion Knowledge</h1>
-    <p>Research on religion, biblical texts, history, law, and belief, with sources and evidence for individual claims. Browse a subject or search across the library.</p>
+    <p>Explore how religions, beliefs, and biblical texts changed over time. Choose a topic below or search for something specific.</p>
   </div>
-  <div class="section-head research-head">
-    <div><p class="section-label">Research library</p><h2>Browse by research area</h2></div>
-    <p>Open a subject to read the research, supporting sources, and corrections.</p>
-  </div>
-  <div class="grid">${researchCards}
-  </div>
-  <div class="section-head discovery-head">
-    <div><p class="section-label">Discovery</p><h2>Find something specific</h2></div>
-    <p>Search across readers, cited persons, and the Religion &amp; Law research set.</p>
-  </div>
-  <div class="grid compact-grid">${discoveryCards}
-  </div>
-  <div class="section-head personal-head">
-    <div><p class="section-label">Personal record</p><h2>Belief history</h2></div>
-    <p>A separate reconstruction of what you remember believing at different stages, with unknowns preserved.</p>
-  </div>
-  <div class="grid compact-grid">${personalCards}
-  </div>
+  <section aria-labelledby="explore-title">
+    <div class="section-head discovery-head">
+      <div><p class="section-label">Start here</p><h2 id="explore-title">Explore the research</h2></div>
+      <p>Find people, religions, gods, and side-by-side comparisons.</p>
+    </div>
+    <div class="grid">${discoveryCards}</div>
+  </section>
+  <section aria-labelledby="topics-title">
+    <div class="section-head research-head">
+      <div><p class="section-label">Understand the context</p><h2 id="topics-title">History and society</h2></div>
+      <p>Start with history, then explore law, gender, and themes shared across cultures.</p>
+    </div>
+    <div class="grid">${topicCards}</div>
+  </section>
+  <section aria-labelledby="bible-title">
+    <div class="section-head research-head">
+      <div><p class="section-label">Read more deeply</p><h2 id="bible-title">Bible and religious texts</h2></div>
+      <p>Follow the translation choices, study notes, questions, and different interpretations.</p>
+    </div>
+    <div class="grid">${bibleCards}</div>
+  </section>
+  <section aria-labelledby="evidence-title">
+    <div class="section-head research-head">
+      <div><p class="section-label">Check the evidence</p><h2 id="evidence-title">Sources and definitions</h2></div>
+      <p>Find the publications, people, methods, and terms behind the research.</p>
+    </div>
+    <div class="grid">${referenceCards}</div>
+  </section>
+  <section aria-labelledby="personal-title">
+    <div class="section-head personal-head">
+      <div><p class="section-label">Personal record</p><h2 id="personal-title">Belief history</h2></div>
+      <p>A separate record of remembered beliefs, including what is still unknown.</p>
+    </div>
+    <div class="grid compact-grid">${personalCards}</div>
+  </section>
 </main>
 <script>
 const landingTheme=document.getElementById('landingTheme');
@@ -420,6 +465,7 @@ for (const dir of RESEARCH_DIRS) {
 // standalone, and deployed builds all share the same behavior.
 
 fs.writeFileSync(path.join(output, 'index.html'), buildIndexHtml(), 'utf8');
+fs.writeFileSync(path.join(output, 'catalog.html'), buildPublicCatalog(), 'utf8');
 
 // Build search index from the reader HTML files already copied to dist
 const searchIndex = buildSearchIndex(output);
@@ -435,5 +481,5 @@ console.log(`READER_SITE_BUILD_SUMMARY=${JSON.stringify({
   research_dirs: RESEARCH_DIRS.length,
   research_files: RESEARCH_DIRS.reduce((total, dir) => total + countFiles(dir), 0),
   search_entries: searchIndex.length,
-  total_files: allFiles.length + RESEARCH_DIRS.reduce((total, dir) => total + countFiles(dir), 0) + 2,
+  total_files: allFiles.length + RESEARCH_DIRS.reduce((total, dir) => total + countFiles(dir), 0) + 3,
 })}`);
