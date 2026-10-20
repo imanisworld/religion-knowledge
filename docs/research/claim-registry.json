@@ -4699,5 +4699,128 @@
     "notes": "Qualification: page numbers come from an unofficial hosted copy. Earlier wording \"defends every Numbers census figure\" narrowed.",
     "last_verified": "2026-10-20",
     "reviewer": "audit-2026-10-20"
+  },
+  {
+    "claim_id": "CP-BARTON-001",
+    "claim_text": "John Barton disputes the Harnack/von Campenhausen thesis that the New Testament canon was an anti-Marcionite creation, summarizing (in his words, \"somewhat exaggerated\"): \"Marcion was not responsible for Christians adopting a New Testament; he was responsible for their retaining an Old Testament.\"",
+    "claim_type": "scholarly_consensus",
+    "status": "verified",
+    "confidence": "high",
+    "primary_sources": [
+      {
+        "source": "John Barton, \"Marcion Revisited,\" in L.M. McDonald and J.A. Sanders (eds.), The Canon Debate (Hendrickson)",
+        "locator": "pp. 341-354; reprinted as ch. 6 (from p. 67) of Barton, The Old Testament: Canon, Literature and Theology (Ashgate, 2007)"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Adolf von Harnack, Marcion: Das Evangelium vom fremden Gott (1921; 2nd ed. 1924)",
+        "locator": "as quoted by Barton in \"Marcion Revisited\"",
+        "stance": "opposes"
+      },
+      {
+        "citation": "Hans von Campenhausen, The Formation of the Christian Bible (1972)",
+        "locator": "as quoted by Barton in \"Marcion Revisited\"",
+        "stance": "opposes"
+      }
+    ],
+    "counterargument": "Harnack, von Campenhausen and John Knox held that Marcion's canon was the model the church reacted against in forming its New Testament; David Trobisch (2024) argues a related \"second edition\" thesis. The question remains open.",
+    "public_locations": [
+      {
+        "file": "Cited_Persons.md",
+        "anchor": "#b"
+      },
+      {
+        "file": "cited-persons.html",
+        "anchor": "#person-barton-john"
+      },
+      {
+        "file": "Historical_Framework.md",
+        "anchor": "#123-where-they-actually-disagreed"
+      },
+      {
+        "file": "history.html",
+        "anchor": "#s12-3"
+      }
+    ],
+    "notes": "Corrects Historical Framework §12.3, which credited the quote to The Cambridge History of Christianity and paraphrased it (\"the Christians\", \"the Old Testament\"). Page of the sentence within the chapter not confirmed.",
+    "last_verified": "2026-10-20",
+    "reviewer": "audit-2026-10-20"
+  },
+  {
+    "claim_id": "CP-BARTON-002",
+    "claim_text": "John Barton reads Micah 6 as rhetorical prioritization rather than a contradiction of Levitical law, and groups Micah 6:6-8 with Amos 5:21-24 and Hosea 4:1-10 as instances of the same debate.",
+    "claim_type": "historical_interpretation",
+    "status": "unreviewed",
+    "confidence": "low",
+    "primary_sources": [
+      {
+        "source": "Micah 6:6-8; Amos 5:21-24; Hosea 4:1-10",
+        "locator": "biblical passages only; no Barton passage located"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "John Barton (work not identified)",
+        "locator": "not located; checked against Barton, The Old Testament: Canon, Literature and Theology (2007), which has no discussion of Micah 6:6-8",
+        "stance": "unknown"
+      }
+    ],
+    "public_locations": [
+      {
+        "file": "Cited_Persons.md",
+        "anchor": "#b"
+      },
+      {
+        "file": "Field_Guide_Conversation_Reference.md",
+        "anchor": "#a-ethics-summarizing-language-continuous-with-torah-not-in-contradiction-to-it"
+      },
+      {
+        "file": "field-guide.html",
+        "anchor": "#a-ethics-summarizing-language-continuous-with-torah-not-in-contradiction-to-it"
+      }
+    ],
+    "notes": "Attribution unverified after two checks (12 Aug and 20 Oct 2026). Candidate places to look: Barton, Ethics in Ancient Israel (2014); Barton, Understanding Old Testament Ethics (2003). Do not quote until a page is found.",
+    "last_verified": "2026-10-20",
+    "reviewer": "audit-2026-10-20"
+  },
+  {
+    "claim_id": "CP-BRIGGS-001",
+    "claim_text": "Peter Briggs applies the eleph-as-troop proposal in Testing the Factuality of the Conquest of Ai Narrative in the Book of Joshua: he accepts Humphreys' Numbers 26 model (5,730 fighting men in 593 troops) as a working hypothesis, then argues for a troop size of about 100 in Joshua's time, giving results that differ from Humphreys' troop size of about 10.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "medium",
+    "primary_sources": [
+      {
+        "source": "Peter Briggs, \"Testing the Factuality of the Conquest of Ai Narrative in the Book of Joshua,\" in G.A. Carnagey (ed.), Beyond the Jordan: Studies in Honor of W. Harold Mare (Wipf & Stock, 2005)",
+        "locator": "pp. 157-196; 5th ed. Trinity Southwest University Press, 2007; read via the ABR four-part reprint, part two (E-value calculation)"
+      },
+      {
+        "source": "Colin J. Humphreys, \"The Number of People in the Exodus from Egypt,\" Vetus Testamentum 48 (1998)",
+        "locator": "pp. 196-213"
+      }
+    ],
+    "secondary_sources": [],
+    "public_locations": [
+      {
+        "file": "Cited_Persons.md",
+        "anchor": "#b"
+      },
+      {
+        "file": "cited-persons.html",
+        "anchor": "#person-briggs-peter"
+      },
+      {
+        "file": "Bible_Deep_Dive_Master_Notes.md",
+        "anchor": "#a-the-eleph-census-solution"
+      },
+      {
+        "file": "master-notes.html",
+        "anchor": "#a-the-eleph-census-solution"
+      }
+    ],
+    "notes": "Qualification: Briggs's subject is Joshua and Ai, not the Numbers census as such; the earlier Cited Persons wording (\"applied the eleph proposal to Numbers\") was narrowed. Supersedes the same-day note calling the entry a probable misattribution. Read through the ABR web reprint, not the printed volume.",
+    "last_verified": "2026-10-20",
+    "reviewer": "audit-2026-10-20"
   }
 ]
