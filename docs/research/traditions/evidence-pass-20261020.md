@@ -1,8 +1,8 @@
 # Religions & Traditions — Primary Source Evidence Pass
 
 **Date:** 2026-10-20  
-**Scope:** The existing 27 public Tradition entities. Six traditions now have newly scoped source checks (seven atomic claims); 21 of the 27 still await a new source pass.  
-**Publication:** No tradition's claimed origin has been established by these records; all seven new Claims remain `draft` for independent source review.
+**Scope:** The existing 27 public Tradition entities. Sixteen traditions now have newly scoped source checks (18 atomic draft claims across three batches); 11 of the 27 still await a new source pass.  
+**Publication:** No tradition's claimed origin has been established by these records; all 18 new Claims remain `draft` for independent source review.
 
 ## Source-backed findings
 
@@ -56,7 +56,7 @@
 
 The public catalog distinguishes **documented period**, **surviving manuscript**, **archaeological context**, **estimated composition**, **oral origin**, and **internal religious origin claims**. Every additional statement about named beliefs, practice, historical changes, and community continuity requires a directly checked source locator.
 
-**Research queue:** 6 of 27 now have narrow new source checks (7 separate draft claims: two in the first batch, five in this batch, across four new traditions). 21 still await a new source pass. See issue #220 for completeness requirements. Existing source leads and earlier claims have **not** been automatically promoted.
+**Research queue:** 16 of 27 now have narrow new source checks (18 separate draft claims: two in batch 1, five in batch 2, eleven in batch 3). 11 still await a new source pass. See [batch 3 research details](evidence-pass-20261020-batch3.md). See issue #220 for completeness requirements. Existing source leads and earlier claims have **not** been automatically promoted.
 
 ## Validation gates
 
