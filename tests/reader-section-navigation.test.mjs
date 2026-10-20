@@ -28,10 +28,12 @@ test('focused reading is explicitly enabled for Study Notes and Observations onl
 test('reader navigation remains accessible, searchable and deep-linkable', () => {
   assert.doesNotThrow(() => new vm.Script(scripts));
   assert.match(scripts, /reader-section-select/);
+  assert.match(scripts, /section\.tabIndex = 0/);
+  assert.match(scripts, /section\.setAttribute\('role', 'region'\)/);
   assert.match(scripts, /section\.textContent\.length < 8500/);
   assert.match(scripts, /next\.id = 'read-' \+ node\.id/);
   assert.match(scripts, /aria-live="polite"/);
-  assert.match(scripts, /section\.hidden = i !== index/);
+  assert.match(scripts, /section\.hidden = hits\.length === 0 \|\| i !== index/);
   assert.match(scripts, /document\.getElementById\(hash\)/);
   assert.match(scripts, /addEventListener\('hashchange'/);
   assert.match(scripts, /addEventListener\('popstate'/);
@@ -41,4 +43,49 @@ test('reader navigation remains accessible, searchable and deep-linkable', () =>
   assert.match(stylesheet, /main > section\[hidden\]/);
   assert.match(stylesheet, /@media\(max-width:640px\)/);
   assert.doesNotMatch(scripts, /fetch\(|innerHTML\s*=\s*location/);
+});
+
+
+function luminance(hex) {
+  const channels = [1,3,5].map(i => parseInt(hex.slice(i,i+2), 16) / 255);
+  const srgb = channels.map(x => x <= .04045 ? x / 12.92 : ((x + .055) / 1.055) ** 2.4);
+  return srgb[0] * .2126 + srgb[1] * .7152 + srgb[2] * .0722;
+}
+function contrast(a, b) {
+  const [higher, lower] = [luminance(a), luminance(b)].sort((x, y) => y - x);
+  return (higher + .05) / (lower + .05);
+}
+
+test('laptop reading workspace keeps controls and a scrollable passage in one viewport', () => {
+  assert.match(stylesheet, /@media\(min-width:900px\) and \(min-height:640px\)/);
+  assert.match(stylesheet, /height:calc\(100dvh - var\(--rk-nav-h,56px\)\)/);
+  assert.match(stylesheet, /flex-direction:column/);
+  assert.match(stylesheet, /flex:1 1 0/);
+  assert.match(stylesheet, /overflow-y:auto/);
+  assert.match(stylesheet, /scrollbar-gutter:stable/);
+  assert.match(stylesheet, /@media\(max-width:899px\), \(max-height:639px\)/);
+  assert.match(scripts, /className = 'reader-about'/);
+  assert.match(scripts, /min-width:900px/);
+  assert.match(scripts, /scrollTop = 0/);
+  assert.match(scripts, /Switch to light theme/);
+  assert.match(scripts, /Switch to dark theme/);
+});
+
+test('reader dark theme is legible and light remains the saved-preference default', () => {
+  const dark = stylesheet.match(/:root\[data-theme=dark\] body\.rk-reader-page \{([\s\S]*?)\}/);
+  assert.ok(dark, 'Missing dark-mode reading palette');
+  const colors = Object.fromEntries([...dark[1].matchAll(/--([\w-]+):\s*(#[0-9a-f]{6})/gi)]
+    .map(([, key, color]) => [key, color]));
+  for (const foreground of ['ink','ink2','ink3','accent']) {
+    for (const background of ['ground','paper']) {
+      const score = contrast(colors[foreground], colors[background]);
+      assert.ok(score >= 4.5, foreground + ' against ' + background +
+        ' should meet WCAG 4.5:1; got ' + score.toFixed(2));
+    }
+  }
+  assert.ok(contrast(colors.rule, colors.paper) >= 3,
+    'Dark theme control borders should remain visually distinguishable');
+  for (const html of ['master-notes.html','field-guide.html']) {
+    assert.match(readFileSync(html,'utf8'), /data-theme="light"/);
+  }
 });
