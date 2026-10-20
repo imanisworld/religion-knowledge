@@ -20,18 +20,20 @@
 | **Seed locations directly covered by earlier cases** | **2/50** | No unnecessary duplication |
 | **Seed locations unaddressed** | **0/50** | **Original seed complete; corpus discovery NOT complete** |
 | **Full AI review (all 65)** | **Done 20 Oct 2026** | Claude review, not independent; verdict matrix in REVIEW.md; 0 overstated, 0 collapse, corrections applied |
-| **Independent external review** | **Pending — not performed** | No explicit authorization to waive this requirement has been verified |
+| **Independent external review** | **Not performed — waived by the owner (20 Oct 2026, reconfirmed)** | See "Owner decision" below |
 | **Live production release** | **Not merged** | PR/preview success does not mean deployed production |
 
 **Important:** 65 cases, 50 seed locations, and ten Matthew formula quotations describe *overlapping sets*; do not add them together. This seed was assembled as a starting list rather than an exhaustive inventory of every prophecy, and none of the 54 newer cases should be described as independently verified.
 
-## Review gate — authorization clarification (20 October 2026)
+## Owner decision — review gate (20 October 2026)
 
-An earlier status incorrectly stated that the owner accepted the limits of AI review as a substitute for outside specialist review. **No explicit owner waiver was verified; that assertion is withdrawn.** The owner authorized correcting the record, **not** merging or dispensing with independent review.
+**Decision:** The owner accepts the documented limits of the AI reviews in place of an outside specialist review for this module.
 
-- **Completed:** An internal review of the first 11 cases, an adversarial pass, and a full Claude AI verdict matrix for all 65 cases (`REVIEW.md`), with corrections applied across the records.
-- **Outstanding:** Independent human specialist review; Hebrew, Greek and Aramaic collation; page-level reading of paywalled scholarship; verification of partly unconfirmed scholarly references, and wider inventory/source research.
-- **Release control:** The external-review gate remains open. Neither the consolidation freeze nor the merge/deploy gate is lifted. Public text must continue to label this material as AI-reviewed, not independently validated.
+**History:** This decision was first recorded in commit 9be4d3b. Commits bd2c60e–63ab1ce then withdrew it because no explicit waiver had been verified. On 20 October 2026 the owner was asked directly, in the Claude Code session, whether a waiver had been given ("Did you mean to accept the documented limits in place of outside review?"). The owner answered "Yes — I accept, both PRs", covering this PR and #213. The decision is restored on that basis.
+
+- **Completed:** an internal review of the first 11 cases, an adversarial pass, and a full Claude verdict matrix for all 65 cases (`REVIEW.md`), with corrections applied across the records.
+- **Not done (accepted as limits):** independent human specialist review; Hebrew, Greek and Aramaic collation; page-level reading of paywalled scholarship; confirmation of the scholarly references marked partly unconfirmed; wider inventory and source research.
+- **What this does not do:** it does not lift the consolidation freeze or authorize a merge or deploy. Public text must still label this material as AI-reviewed, not independently validated.
 
 ## Batch register
 
