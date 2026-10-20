@@ -80,8 +80,9 @@ jobs:
       - name: Render app in phone-sized Chromium
         run: bash scripts/test-browser.sh
 
-      - name: Validate generated comparison catalog
+      - name: Validate generated comparison catalog and its evidence graph
         run: |
+          npm run validate:timeline
           node --check scripts/build-public-catalog.mjs
           node --test tests/public-catalog.test.mjs
           npm run build:reader-site
