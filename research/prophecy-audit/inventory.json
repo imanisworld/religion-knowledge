@@ -1,8 +1,8 @@
 {
-  "version": 7,
+  "version": 8,
   "updated": "2026-10-20",
   "method": "Working scope: direct or explicit fulfillment claims in the New Testament; concrete time/place predictions and conditional threats in the Hebrew Bible and New Testament; messianic proof texts and apocalyptic prediction claims. List source and later use separately. Other echo-only candidates are included only when a specific later claim is identified. Entries in pending groups are candidate discovery leads, not vetted/complete research. The number shown is the number of tracked claims in this working inventory, not an objective total of all biblical prophecies.",
-  "scope_notes": "Non-exhaustive fifty-locus supplemental queue beyond ten Matthew formulas: 35 have dedicated research records, two linked to earlier cases, and 13 remain pending/partially related. All six Daniel loci are researched but require full critical text/source review.",
+  "scope_notes": "Non-exhaustive seed beyond Matthew's ten classic formulas: 50 candidate loci, 42 with dedicated claim studies, two linked to existing studies and six pending/partial (three Revelation and three NT quotation checks). Seven near-time Jesus/Paul cases have source-linked records.",
   "matthew_formula_ten": [
     {
       "group": "matthew_formula_ten",
@@ -438,56 +438,63 @@
       "claim_locus": "Mark 13:2",
       "earlier_source": "Temple destruction",
       "question": "Prediction and Gospel composition dating",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "mark-13-2-temple-destruction"
     },
     {
       "group": "apocalyptic",
       "claim_locus": "Mark 13:30 / Matthew 24:34",
       "earlier_source": "This generation",
       "question": "Kingdom/return time frame and interpretive debate",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "mark-13-30-this-generation"
     },
     {
       "group": "apocalyptic",
       "claim_locus": "Matthew 10:23",
       "earlier_source": "Before the Son of Man comes",
       "question": "Mission urgency timing",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "matthew-10-23-towns-of-israel"
     },
     {
       "group": "apocalyptic",
       "claim_locus": "Mark 9:1 / Matthew 16:28",
       "earlier_source": "Some standing here will not taste death",
       "question": "Kingdom and transfiguration/readings",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "mark-9-1-taste-death"
     },
     {
       "group": "apocalyptic",
       "claim_locus": "Mark 14:62",
       "earlier_source": "Son of Man seen at God's right hand",
       "question": "Apocalyptic vindication and time frame",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "mark-14-62-son-man-high-priest"
     },
     {
       "group": "apocalyptic",
       "claim_locus": "1 Thessalonians 4:15–17",
       "earlier_source": "We who are alive at the coming",
       "question": "Paul's eschatological 'we'",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "one-thess-4-we-alive"
     },
     {
       "group": "apocalyptic",
       "claim_locus": "1 Corinthians 15:51–52",
       "earlier_source": "We will not all die",
       "question": "Resurrection timing, variant manuscripts",
-      "status": "research_pending",
-      "related_case_id": null
+      "status": "researched",
+      "related_case_id": null,
+      "case_id": "one-cor-15-not-all-sleep"
     },
     {
       "group": "apocalyptic",
