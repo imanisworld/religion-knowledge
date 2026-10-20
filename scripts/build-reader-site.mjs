@@ -54,6 +54,8 @@ const MISC_FILES = [
   'highlight-referral.js',
   'correction-form.js',
   'site-shell.css',
+  'reader-chapters.js',
+  'reader-chapters.css',
 ];
 
 const RESEARCH_DIRS = [
