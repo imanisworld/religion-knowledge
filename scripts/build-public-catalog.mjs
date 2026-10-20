@@ -148,6 +148,20 @@ function overview(row, group) {
 function detailText(row, counts, period) {
   const fields = [];
   if (period?.note && period.date !== 'Date not established') fields.push(['Date qualification', period.note]);
+  // Preserve distinct historical clocks: composition, source attestation and
+  // surviving copies may be centuries apart, especially for oral traditions.
+  const d = row.dating || {};
+  const datedKinds = [
+    ['Earliest written source date', d.earliest_written_attestation],
+    ['Surviving manuscript date', d.surviving_manuscript_date],
+    ['Estimated composition date', d.estimated_composition],
+    ['Archaeological evidence date', d.earliest_archaeological_evidence],
+    ['Estimated oral origin date', d.estimated_oral_origin],
+  ];
+  for (const [label, evidence] of datedKinds) {
+    const dated = rangedEvidence(evidence?.range, '');
+    if (dated) fields.push([label, dated.date + (evidence.disputed ? ' (disputed estimate)' : '')]);
+  }
   if (row.notes) fields.push(['Research notes', row.notes]);
   if (row.dating?.dating_summary) fields.push(['Historical timeline and uncertainty', row.dating.dating_summary]);
   if (row.dating?.earliest_written_attestation?.note)
