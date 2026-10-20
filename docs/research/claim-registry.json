@@ -4452,5 +4452,342 @@
         "anchor": "#reproduction-and-the-binary-justification"
       }
     ]
+  },
+  {
+    "claim_id": "IL-DEUT-001",
+    "claim_text": "Yahweh will afflict disobedient Israel with pestilence and various diseases.",
+    "claim_type": "direct_textual",
+    "status": "verified",
+    "confidence": "high",
+    "last_verified": "2026-10-20",
+    "reviewer": "Internal assistant source check; external independent review pending",
+    "public_locations": [
+      {
+        "file": "research/illness-explanations/index.md",
+        "anchor": "#2-ancient-texts-what-is-actually-attributed-to-whom"
+      }
+    ],
+    "primary_sources": [
+      {
+        "source": "Deuteronomy 28, NABRE",
+        "locator": "28:20–22 https://bible.usccb.org/bible/deuteronomy/28"
+      }
+    ],
+    "secondary_sources": [],
+    "notes": "Staged source draft; not on public site. Covenant narrative, not epidemiological findings."
+  },
+  {
+    "claim_id": "IL-NUM-001",
+    "claim_text": "A plague is linked to divine wrath; Aaron offers incense and makes atonement; the plague ends.",
+    "claim_type": "direct_textual",
+    "status": "verified",
+    "confidence": "high",
+    "last_verified": "2026-10-20",
+    "reviewer": "Internal assistant source check; external independent review pending",
+    "public_locations": [
+      {
+        "file": "research/illness-explanations/index.md",
+        "anchor": "#2-ancient-texts-what-is-actually-attributed-to-whom"
+      }
+    ],
+    "primary_sources": [
+      {
+        "source": "Numbers 16, NRSVue",
+        "locator": "16:41–50 https://www.biblegateway.com/passage/?search=Num+16%3A41-50&version=NRSVUE"
+      }
+    ],
+    "secondary_sources": [],
+    "notes": "Staged source draft; not on public site. No medical efficacy asserted."
+  },
+  {
+    "claim_id": "IL-MARK-001",
+    "claim_text": "A boy is described as convulsing, falling, becoming rigid, and foaming at the mouth; a spirit is expelled.",
+    "claim_type": "direct_textual",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-10-20",
+    "reviewer": "Internal assistant source check; external independent review pending",
+    "public_locations": [
+      {
+        "file": "research/illness-explanations/index.md",
+        "anchor": "#2-ancient-texts-what-is-actually-attributed-to-whom"
+      }
+    ],
+    "primary_sources": [
+      {
+        "source": "Mark 9, NABRE",
+        "locator": "9:17–29 https://bible.usccb.org/bible/mark/9"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Louise J. Lawrence, Sense and Stigma in the Gospels (Oxford University Press, 2013), chapter 5, pp. 98–123.",
+        "locator": "Oxford chapter abstract only: https://academic.oup.com/book/4088/chapter-abstract/145789629",
+        "stance": "discusses"
+      }
+    ],
+    "notes": "Staged source draft; not on public site. No diagnosis or historical event confirmation."
+  },
+  {
+    "claim_id": "IL-JOHN-001",
+    "claim_text": "The disciples ask whether a man's blindness from birth resulted from his or his parents' sin; Jesus rejects both attributions but explains the episode in terms of revealing God's works.",
+    "claim_type": "direct_textual",
+    "status": "verified",
+    "confidence": "high",
+    "last_verified": "2026-10-20",
+    "reviewer": "Internal assistant source check; external independent review pending",
+    "public_locations": [
+      {
+        "file": "research/illness-explanations/index.md",
+        "anchor": "#2-ancient-texts-what-is-actually-attributed-to-whom"
+      }
+    ],
+    "primary_sources": [
+      {
+        "source": "John 9, NRSVue",
+        "locator": "9:1–3 https://www.biblegateway.com/passage/?search=John+9%3A1-3&version=NRSVUE"
+      }
+    ],
+    "secondary_sources": [],
+    "notes": "Staged source draft; not on public site. Text still makes a theological claim."
+  },
+  {
+    "claim_id": "IL-JOB-001",
+    "claim_text": "Job's friends connect suffering to wrongdoing; at the end Yahweh rebukes the friends for speaking wrongly about him.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "medium",
+    "last_verified": "2026-10-20",
+    "reviewer": "Internal assistant source check; external independent review pending",
+    "public_locations": [
+      {
+        "file": "research/illness-explanations/index.md",
+        "anchor": "#2-ancient-texts-what-is-actually-attributed-to-whom"
+      }
+    ],
+    "primary_sources": [
+      {
+        "source": "Job, NRSVue",
+        "locator": "4:7–8; 8:4–6; 42:7 https://www.biblegateway.com/verse/en/Job%2042%3A7"
+      }
+    ],
+    "secondary_sources": [],
+    "notes": "Staged source draft; not on public site. 42:7 alone does not explain which argument was rejected."
+  },
+  {
+    "claim_id": "IL-SIRACH-001",
+    "claim_text": "The author praises physicians, medicinal plants, pharmacists, prayer, repentance, and sacrifice, and says sinners will defy the physician (v. 15).",
+    "claim_type": "direct_textual",
+    "status": "verified",
+    "confidence": "high",
+    "last_verified": "2026-10-20",
+    "reviewer": "Internal assistant source check; external independent review pending",
+    "public_locations": [
+      {
+        "file": "research/illness-explanations/index.md",
+        "anchor": "#2-ancient-texts-what-is-actually-attributed-to-whom"
+      }
+    ],
+    "primary_sources": [
+      {
+        "source": "Sirach 38, NABRE",
+        "locator": "38:1–15 https://bible.usccb.org/bible/sirach/38"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "USCCB, Introduction to the Wisdom of Ben Sira",
+        "locator": "Composition c. 180 BCE https://bible.usccb.org/bible/sirach/0",
+        "stance": "discusses"
+      }
+    ],
+    "notes": "Staged source draft; not on public site. Coexistence of prayer, remedies, physicians, repentance."
+  },
+  {
+    "claim_id": "IL-HIPMED-001",
+    "claim_text": "The anonymous author challenges treating the “sacred disease” (commonly associated with epilepsy) as uniquely divine, disputes purifications and incantations as an explanation for cures, and argues for bodily causes.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "high",
+    "last_verified": "2026-10-20",
+    "reviewer": "Internal assistant source check; external independent review pending",
+    "public_locations": [
+      {
+        "file": "research/illness-explanations/index.md",
+        "anchor": "#3-naturalistic-criticism-already-existed-in-antiquity"
+      }
+    ],
+    "primary_sources": [
+      {
+        "source": "Hippocratic corpus, On the Sacred Disease, trans. Francis Adams",
+        "locator": "§§1–2 https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0627.tlg027.perseus-eng2/"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "The Cambridge Ancient History, volume 12, Medicine chapter (Cambridge University Press)",
+        "locator": "Chapter summary only https://www.cambridge.org/core/books/abs/cambridge-ancient-history/medicine/103AFD7FDAFB24DB5B605F6FB3E19BEF",
+        "stance": "qualifies"
+      }
+    ],
+    "notes": "Staged source draft; not on public site. Bodily explanations are not modern neurology, and the author does not reject all divine language."
+  },
+  {
+    "claim_id": "IL-HIPBLAME-001",
+    "claim_text": "In §1, the author criticizes practitioners who take credit when a patient recovers but invoke the gods as an explanation if the patient dies.",
+    "claim_type": "direct_textual",
+    "status": "verified",
+    "confidence": "high",
+    "last_verified": "2026-10-20",
+    "reviewer": "Internal assistant source check; external independent review pending",
+    "public_locations": [
+      {
+        "file": "research/illness-explanations/index.md",
+        "anchor": "#3-naturalistic-criticism-already-existed-in-antiquity"
+      }
+    ],
+    "primary_sources": [
+      {
+        "source": "Hippocratic corpus, On the Sacred Disease, trans. Francis Adams",
+        "locator": "§1 https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0627.tlg027.perseus-eng2/"
+      }
+    ],
+    "secondary_sources": [],
+    "notes": "Staged source draft; not on public site. A polemical claim within one ancient text; not established frequency of such practice."
+  },
+  {
+    "claim_id": "IL-MESMED-001",
+    "claim_text": "Long before modern germ theory, Mesopotamian traditions included diagnostic descriptions, treatment knowledge, and specialists with different roles.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "medium",
+    "last_verified": "2026-10-20",
+    "reviewer": "Internal assistant source check; external independent review pending",
+    "public_locations": [
+      {
+        "file": "research/illness-explanations/index.md",
+        "anchor": "#3-naturalistic-criticism-already-existed-in-antiquity"
+      }
+    ],
+    "primary_sources": [],
+    "secondary_sources": [
+      {
+        "citation": "JoAnn Scurlock, Mesopotamian Beginnings for Greek Science?, in Oxford Handbook of Science and Medicine in the Classical World (Oxford University Press, 2018), pp. 35–46.",
+        "locator": "Abstract only https://academic.oup.com/edited-volume/34644/chapter-abstract/295182564",
+        "stance": "supports"
+      }
+    ],
+    "notes": "Staged source draft; not on public site. Full chapter not read."
+  },
+  {
+    "claim_id": "IL-MARI-001",
+    "claim_text": "discusses early eighteenth-century BCE letters from Mari describing separation of infected servants and restrictions on sharing vessels or furniture.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "medium",
+    "last_verified": "2026-10-20",
+    "reviewer": "Internal assistant source check; external independent review pending",
+    "public_locations": [
+      {
+        "file": "research/illness-explanations/index.md",
+        "anchor": "#3-naturalistic-criticism-already-existed-in-antiquity"
+      }
+    ],
+    "primary_sources": [],
+    "secondary_sources": [
+      {
+        "citation": "Yitzhaq Feder, Tum’ah: Ritual Impurity or Fear of Contagious Disease? (TheTorah.com, 2019).",
+        "locator": "Early Evidence of Belief in Contagion https://www.thetorah.com/article/tumah-ritual-impurity-or-fear-of-contagious-disease",
+        "stance": "supports"
+      }
+    ],
+    "notes": "Staged source draft; not on public site. Feder reproduces letters, but primary cuneiform edition has not been independently examined."
+  },
+  {
+    "claim_id": "IL-TZARAAT-001",
+    "claim_text": "the ancient descriptions do not fit one modern diagnosis.",
+    "claim_type": "historical_interpretation",
+    "status": "verified_with_qualification",
+    "confidence": "medium",
+    "last_verified": "2026-10-20",
+    "reviewer": "Internal assistant source check; external independent review pending",
+    "public_locations": [
+      {
+        "file": "research/illness-explanations/index.md",
+        "anchor": "#4-ritual-impurity-is-a-separate-category"
+      }
+    ],
+    "primary_sources": [
+      {
+        "source": "Leviticus 13–14, NRSVue",
+        "locator": "13:1–46; 14:1–57 https://www.biblegateway.com/passage/?search=Leviticus+13-14&version=NRSVUE"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "citation": "Yitzhaq Feder, Tzaraat in Light of Its Mesopotamian Parallels (TheTorah.com, 2017)",
+        "locator": "Imaginary Disease? section https://www.thetorah.com/article/tzaraat-in-light-of-its-mesopotamian-parallels",
+        "stance": "supports"
+      },
+      {
+        "citation": "Samson O. Olanisebe, Laws of Tzara'at in Leviticus 13–14 and Medical Leprosy Compared, Jewish Bible Quarterly 42.2 (2014), pp. 121–127",
+        "locator": "Abstract https://www.jewishbible.org/articles/laws-of-tzaraat-in-leviticus-13-14-and-medical-leprosy/",
+        "stance": "supports"
+      }
+    ],
+    "notes": "Staged source draft; not on public site. The taxonomy and contagion interpretation remain open to source review."
+  },
+  {
+    "claim_id": "IL-SNOW-001",
+    "claim_text": "Physician John Snow used deaths, interviews, and water-source patterns around London's Broad Street pump to argue for waterborne cholera transmission.",
+    "claim_type": "historical_date_event",
+    "status": "verified",
+    "confidence": "high",
+    "last_verified": "2026-10-20",
+    "reviewer": "Internal assistant source check; external independent review pending",
+    "public_locations": [
+      {
+        "file": "research/illness-explanations/index.md",
+        "anchor": "#5-what-nineteenth-century-science-changed"
+      }
+    ],
+    "primary_sources": [],
+    "secondary_sources": [
+      {
+        "citation": "CDC, 150th Anniversary of John Snow and the Pump Handle, MMWR (2004)",
+        "locator": "1854 investigation https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5334a1.htm",
+        "stance": "supports"
+      }
+    ],
+    "notes": "Staged source draft; not on public site. Historical summary; not an independent estimate of the pump handle's impact."
+  },
+  {
+    "claim_id": "IL-KOCH-001",
+    "claim_text": "Koch reported the bacterial agent of tuberculosis, providing evidence for a specific infectious cause.",
+    "claim_type": "historical_date_event",
+    "status": "verified",
+    "confidence": "high",
+    "last_verified": "2026-10-20",
+    "reviewer": "Internal assistant source check; external independent review pending",
+    "public_locations": [
+      {
+        "file": "research/illness-explanations/index.md",
+        "anchor": "#5-what-nineteenth-century-science-changed"
+      }
+    ],
+    "primary_sources": [],
+    "secondary_sources": [
+      {
+        "citation": "CDC, Centennial: Koch's Discovery of the Tubercle Bacillus, MMWR (1982)",
+        "locator": "24 March / 10 April 1882 https://www.cdc.gov/mmwr/preview/mmwrhtml/00000222.htm",
+        "stance": "supports"
+      },
+      {
+        "citation": "National Research Council, Science, Medicine, and Animals (National Academies Press, 2004)",
+        "locator": "A Theory of Germs https://www.nationalacademies.org/read/10733/chapter/4",
+        "stance": "discusses"
+      }
+    ],
+    "notes": "Staged source draft; not on public site. Specific infectious disease, not claim that all illness has microbial origins."
   }
 ]
