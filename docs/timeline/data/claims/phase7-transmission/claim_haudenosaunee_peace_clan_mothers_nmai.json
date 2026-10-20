@@ -1,0 +1,45 @@
+{
+  "id": "claim_haudenosaunee_peace_clan_mothers_nmai",
+  "subject_type": "Tradition",
+  "subject_id": "trad_haudenosaunee_religion",
+  "statement": "Smithsonian NMAI's Haudenosaunee educational materials explain the Gayanesshagowa (Great Law of Peace) as guiding political and social life and describe clan mothers' responsibilities in leadership, ceremonies and community welfare.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "ORAL_TRADITION",
+    "ETHNOGRAPHIC"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Smithsonian NMAI, Native Knowledge 360, 'American Revolution: Haudenosaunee Perseverance', Chapter 5, 'The Practice of Peace', glossary and introductory description, https://americanindian.si.edu/nk360/american-revolution-perseverance/students/chapter-5/",
+      "author": "National Museum of the American Indian",
+      "year": null,
+      "venue": "Smithsonian NMAI Native Knowledge 360",
+      "contemporary_with_event": false,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT public institutional page review",
+      "verified_date": "2026-10-20",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Full public educational chapter opened and read for Great Law and clan-mother definitions; no date of origin is asserted."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "This educational description does not establish a founding year for the Haudenosaunee Confederacy.",
+    "Ceremonial, political and social authority are intertwined, and should not be flattened into a single doctrinal religion.",
+    "NMAI public teaching is not a literal transcript of every council's oral legal tradition."
+  ],
+  "adversarial_counter": "Different Haudenosaunee nations and knowledge custodians may use distinct emphases; precise chronology requires separate dated evidence.",
+  "status": "draft",
+  "notes": "Institutional-source audit. Scope: named public page and its content only; no tradition founding-year inference. Independent historical / community review required before status change."
+}
