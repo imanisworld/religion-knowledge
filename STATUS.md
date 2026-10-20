@@ -8,6 +8,12 @@
 
 ---
 
+## Illness Explanations — bounded research release (20 October 2026)
+
+PR #213 provides thirteen source-linked illness claims, a public reader and Search registration. The edition was AI-reviewed (four held, nine held with qualification); an external specialist audit was waived by the owner with the original-language, paywalled-book and Mari tablet limitations disclosed. PR #212 remains a separate draft and no unsupported Cited Persons upgrade was included. Research and source limits are recorded in `research/illness-explanations/STATUS.md`; independently verify live deployment rather than treating merge as proof of publication.
+
+---
+
 ## Canonical Branch and Publication Policy
 
 `main` is the only branch that is considered canonical, deployable, and citable. All other branches are working branches — experimental, in-progress, or awaiting review. No branch other than `main` should be linked to, cited, or treated as reflecting the project's current research state.

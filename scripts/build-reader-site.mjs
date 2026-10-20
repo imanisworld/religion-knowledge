@@ -13,6 +13,7 @@ const RESEARCH_READERS = [
   ['translations.html', 'Translations', 'Translation history and the choices behind disputed renderings.'],
   ['translation-evidence.html', 'Translation Evidence', 'What changed in Bible translations, how it changed, why, and what the evidence establishes.'],
   ['prophecy-audit.html', 'Biblical Prophecy Audit', 'Trace earlier passages, later fulfillment claims, and external historical evidence.'],
+  ['illness-explanations.html', 'Illness Explanations', 'Ancient illness, spirits, divine punishment, medicine, contagion, and evidence limits.'],
   ['method-reference.html', 'Method & Reference', 'Survey method, open audit queue, reading timeline.'],
   ['glossary.html', 'Glossary', 'Terms and definitions used across the study.'],
   ['cited-persons.html', 'Cited Persons', 'Who the cited scholars, theologians, historians, and other sources are — including relevant context and flags.'],
@@ -68,6 +69,7 @@ const RESEARCH_DIRS = [
   'research/gender-over-time',
   'research/translation-evidence',
   'research/prophecy-audit',
+  'research/illness-explanations',
   'research/synthesis',
 ];
 
@@ -129,7 +131,7 @@ function buildIndexHtml() {
     'history.html', 'religion-law.html', 'gender-over-time.html', 'patterns-synthesis.html',
   ]));
   const bibleCards = cardsFor(pick([
-    'translations.html', 'translation-evidence.html', 'prophecy-audit.html', 'master-notes.html', 'field-guide.html', 'other-side.html',
+    'translations.html', 'translation-evidence.html', 'prophecy-audit.html', 'illness-explanations.html', 'master-notes.html', 'field-guide.html', 'other-side.html',
   ]));
   const referenceCards = cardsFor(pick([
     'sources.html', 'cited-persons.html', 'method-reference.html', 'glossary.html',
