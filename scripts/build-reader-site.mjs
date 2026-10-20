@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { buildSearchIndex } from './build-search-index.mjs';
+import { buildPublicCatalog } from './build-public-catalog.mjs';
 
 const RESEARCH_READERS = [
   ['master-notes.html', 'Study Notes', 'The full study — audits, corrections, and the reading in progress.'],
@@ -21,9 +22,13 @@ const PERSONAL_PAGES = [
 ];
 const DISCOVERY_PAGES = [
   ['comparisons.html', 'Comparison Tables', 'Open chronology, religion and law, gender, and reference tables across the library.'],
+  ['catalog.html', 'Gods, Religions & People', 'Browse the source-linked historical research index of deities, traditions, cultures, writing, narratives, and cited people.'],
   ['search.html', 'Search', 'Search across all research documents and cited persons by name, topic, or scholar.'],
 ];
-const READERS = [...RESEARCH_READERS, ...PERSONAL_PAGES, ...DISCOVERY_PAGES];
+// The catalog is generated from Timeline data at build time; it is not a committed reader file.
+const GENERATED_PAGES = new Set(['catalog.html']);
+const READERS = [...RESEARCH_READERS, ...PERSONAL_PAGES, ...DISCOVERY_PAGES]
+  .filter(([file]) => !GENERATED_PAGES.has(file));
 
 // The deployed site is the full product, mirroring the repo layout so the
 // app's relative paths (../data/…, ../master-notes.html) work unchanged:
@@ -422,6 +427,7 @@ for (const dir of RESEARCH_DIRS) {
 // standalone, and deployed builds all share the same behavior.
 
 fs.writeFileSync(path.join(output, 'index.html'), buildIndexHtml(), 'utf8');
+fs.writeFileSync(path.join(output, 'catalog.html'), buildPublicCatalog(), 'utf8');
 
 // Build search index from the reader HTML files already copied to dist
 const searchIndex = buildSearchIndex(output);
@@ -437,5 +443,5 @@ console.log(`READER_SITE_BUILD_SUMMARY=${JSON.stringify({
   research_dirs: RESEARCH_DIRS.length,
   research_files: RESEARCH_DIRS.reduce((total, dir) => total + countFiles(dir), 0),
   search_entries: searchIndex.length,
-  total_files: allFiles.length + RESEARCH_DIRS.reduce((total, dir) => total + countFiles(dir), 0) + 2,
+  total_files: allFiles.length + RESEARCH_DIRS.reduce((total, dir) => total + countFiles(dir), 0) + 3,
 })}`);
