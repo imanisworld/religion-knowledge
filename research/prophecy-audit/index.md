@@ -1,6 +1,6 @@
 # Biblical Prophecy — Evidence Audit
 
-**Checked:** October 20, 2026 · **Status:** 22 researched cases across three batches: 11 internally checked, 11 newer cases awaiting claim-specific internal review. External review remains deferred until the defined collection is complete. This is not a count of all biblical prophecies.
+**Checked:** October 20, 2026 · **Status:** 25 researched cases across four batches: 11 internally checked and 14 awaiting claim-specific internal review. External review remains deferred until the defined collection is complete. This is not a count of all biblical prophecies.
 
 The Bible's prophetic literature includes warnings, oracles about current political crises, predictions, poetic laments, promises of restoration, and retrospective historical narratives. A later author calling an earlier passage **fulfilled** establishes that the later author made that interpretation. It does not by itself establish that the earlier author predicted the later event.
 
@@ -47,6 +47,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 | [Amos 9:11–12](#amos-9-acts-15) | Acts 15:15–19 | Greek translation changes the actors in a restoration oracle | Substantial source-language difference documented; exact translation-history mechanism debated |
 | [Zechariah 12:10–14](#zechariah-12-john-19) | John 19:34–37; Revelation 1:7 | Piercing oracle and divergent Greek/Hebrew wording | Original and later wording documented; intended historical identity and textual route disputed |
 | [Jeremiah 31:31–34](#jeremiah-31-hebrews-8) | Hebrews 8:8–13 | New covenant promise applied to later Christian religious community | Quotation documented; theological and supersessionist readings disputed |
+
+| [Isaiah 6:9–10](#isaiah-6-matthew-13) | Matthew 13:13–15; Mark 4:12; Luke 8:10; John 12:39–40; Acts 28:26–27 | Judgment-commission text reused to explain response to Jesus | Direct biblical quotations verifiable; original referent distinct from later application |
+| [Zechariah 13:7–9](#zechariah-13-matthew-26) | Mark 14:27; Matthew 26:31 and 26:56; John 16:32 (allusion) | Shepherd oracle applied to Jesus' arrest and disciples' flight | Quotational reuse explicit; original shepherd identity and historical fulfillment disputed |
+| [No single earlier scripture identified in Matthew 26:54, 56](#matthew-26-scriptures-unspecified) | Matthew 26:54, 56 | Generic multiple-scripture fulfillment assertion | Generic scriptural claim documented; exact set of earlier passages unspecified |
 
 ## Passage audits
 
@@ -271,6 +275,36 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Quotation documented; theological and supersessionist readings disputed
 - **Primary and scholarly sources:** [Jeremiah 31:31–34 NRSVUE](https://www.biblegateway.com/passage/?search=Jeremiah+31%3A31-34&version=NRSVUE); [Hebrews 8:8–13 NRSVUE](https://www.biblegateway.com/passage/?search=Hebrews+8%3A8-13&version=NRSVUE); [Nicholas J. Moore (2024), Supersessionism and the Cult Attitude of Stephen and Hebrews](https://doi.org/10.1177/00211400241230995); [Ted Goshorn (2016), Emory thesis on non-supersessionist covenant readings](https://etd.library.emory.edu/concern/etds/s1784m67g?locale=en).
 
+### Isaiah 6:9–10 — Hearing but not understanding {#isaiah-6-matthew-13}
+
+- **Original language:** הַשְׁמֵן לֵב־הָעָם הַזֶּה (Hebrew Isaiah 6:10: make the heart of this people dull/fat); Greek: ἐπαχύνθη γὰρ ἡ καρδία (their heart has grown dull)
+- **Earlier situation:** Isaiah's call narrative commissions him to address a people who will fail to understand, immediately before an oracle about destruction and a remnant. The Hebrew imperative can depict divine causation in hardening; the ancient Greek wording instead describes their hearts as having become dull and their own closing of eyes.
+- **Later claim / event:** Matthew quotes the Greek form to interpret why some people do not understand Jesus' parables; Acts 28:26–27 also follows the Greek. John 12:40 instead uses active hardening language closer to the Hebrew agency. Mark 4:12 and Luke 8:10 employ shorter versions.
+- **Type of reuse or prediction:** A pre-existing commissioning/judgment passage is applied to later audiences. The original verses are not a named future prediction of first-century parable teaching; distinct biblical authors use different textual forms with meaningful changes in emphasis.
+- **Independent evidence and limitations:** The Hebrew and Greek versions and New Testament reuse can be compared directly. The International Critical Commentary notes Matthew's reliance on the Greek quotation and its relationship to Mark 4:12. Variants in divine/reader agency do not, by themselves, settle doctrines of predestination.
+- **Provisional conclusion:** Direct biblical quotations verifiable; original referent distinct from later application
+- **Primary and scholarly sources:** [Isaiah 6:9–10 compared with Matthew 13:14–15](https://www.biblegateway.com/passage/?search=Isaiah+6%3A9-10%2CMatthew+13%3A14-15&version=NIV); [NET Bible notes on Matthew 13:14–15](https://classic.net.bible.org/passage.php/passage.php?passage=Mat+13%3A14%2C15); [International Critical Commentary on Matthew 13](https://biblehub.com/commentaries/icc/matthew/13.htm); [John 12:40 Greek text](https://biblehub.com/text/john/12-40.htm).
+
+### Zechariah 13:7–9 — Strike the shepherd, and the sheep will scatter {#zechariah-13-matthew-26}
+
+- **Original language:** הַךְ אֶת־הָרֹעֶה וּתְפוּצֶיןָ הַצֹּאן (Hebrew imperative: strike the shepherd and let the sheep be scattered)
+- **Earlier situation:** Zechariah 13 describes purification and judgment for the people. God's sword is called against a shepherd called God's associate; the people are then divided and tested. The shepherd's original identity and whether the figure is positive or negative are disputed.
+- **Later claim / event:** In Mark 14:27 and Matthew 26:31 Jesus quotes the line to describe the disciples' desertion. Matthew changes the Greek wording to 'I will strike the shepherd' and adds 'of the flock.' Matthew 26:56 then narrates that the disciples fled.
+- **Type of reuse or prediction:** A late prophetic shepherd oracle is explicitly applied to Jesus and the disciples, with an important shift from the Hebrew imperative to the first-person future 'I will strike'. Matthew's form is related to Mark's. Menken (2011) analyzes the earliest Greek and Hebrew forms and the sequence of Christian reception.
+- **Independent evidence and limitations:** The textual forms, including imperatives and future speech, are directly available. Matthew's narration of flight is not independent verification that the ancient oracle was a prediction about Jesus or that events occurred exactly as portrayed.
+- **Provisional conclusion:** Quotational reuse explicit; original shepherd identity and historical fulfillment disputed
+- **Primary and scholarly sources:** [Hebrew Zechariah 13:7](https://biblehub.com/text/zechariah/13-7.htm); [Matthew 26:31 and 26:56](https://www.biblegateway.com/passage/?search=Matthew+26%3A31%2C56&version=NRSVUE); [Maarten J. J. Menken (2011), Biblica 92, pp. 39–59](https://www.bsw.org/biblica/vol-92-2011/striking-the-shepherd-early-christian-versions-and-interpretations-of-zechariah-13-7/461/article-p58.html); [The Use and Reception of the Prophets in the New Testament (2022)](https://www.mdpi.com/2077-1444/13/4/304).
+
+### No single earlier scripture identified in Matthew 26:54, 56 — All this to fulfill the scriptures of the prophets {#matthew-26-scriptures-unspecified}
+
+- **Original language:** πληρωθῶσιν αἱ γραφαί (Matthew 26:54: that the Scriptures might be fulfilled); αἱ γραφαὶ τῶν προφητῶν (26:56: writings of the prophets)
+- **Earlier situation:** Unlike a direct quotation, these sentences do not provide a new verse-by-verse prophetic original. Wider passion themes are often connected to Isaiah 53, Psalm 22, and Zechariah 13:7; Matthew 26:31 has already made the latter connection explicit.
+- **Later claim / event:** Matthew has Jesus present his arrest as necessary for fulfillment in 26:54; a narrative remark in 26:56 also attributes events to the prophets' writings. The scene then says the disciples fled.
+- **Type of reuse or prediction:** General fulfillment rationale attached to a constructed literary sequence, with a specific nearby source in Zechariah 13:7 but without a separately identifiable quotation in 26:54/56. Do not invent a single Hebrew original for the plural phrase.
+- **Independent evidence and limitations:** The Greek reference to scriptures is explicit. Proposed antecedents are interpretive, and the narrator's fulfillment label does not independently confirm arrest details. Link to the separate Zechariah 13:7 record for the specific shepherd citation.
+- **Provisional conclusion:** Generic scriptural claim documented; exact set of earlier passages unspecified
+- **Primary and scholarly sources:** [Matthew 26:54–56 in parallel translations](https://www.biblegateway.com/passage/?search=Matthew+26%3A54-56&version=ESV%3BKJV%3BNASB%3BNKJV); [Matthew 26:31 and Zechariah 13:7 parallel](https://intertextual.bible/text/zechariah-13.7/matthew-26.31); [ESV cross references for unspecified fulfillment claims](https://www.esv.org/Mt26.54%3BMt26.56%3BMk9.12%3BLk18.31%3BLk24.25-27%3BLk24.46%3BAc17.2-3%3BAc26.22-23%3B1Co15.3%3B1P1.10-11/).
+
 ## Bounded inventory: ten Matthew fulfillment formulas
 
 These ten are a **particular scholarly-defined subset** of Matthew's use of the Hebrew Bible. All ten have dedicated or linked audit cases; this does not finish Matthew's other quotations or other books.
@@ -290,15 +324,15 @@ These ten are a **particular scholarly-defined subset** of Matthew's use of the 
 
 ### Wider seed inventory — pending discovery and research
 
-The following **50 tracked candidate locations** now include **five source-researched claims and 45 cases still pending or only partially linked**. An item marked researched refers to a separate case record; it is not an independently reviewed claim. A related record can cover another later use, without completing this particular claim. This seed inventory remains incomplete until discovery is checked against multiple inventories and the underlying texts.
+The following **50 tracked candidate locations** now include **eight newly researched cases and two additional cases linked to earlier completed records**; 40 candidates remain pending or only partially linked. An item marked researched refers to a separate case record; it is not an independently reviewed claim. A related record can cover another later use, without completing this particular claim. This seed inventory remains incomplete until discovery is checked against multiple inventories and the underlying texts.
 
 | Group | Candidate claim location | Source or subject | Status |
 |---|---|---|---|
-| other matthew | Matthew 2:5–6 | Micah 5:2 | Related case exists (micah-5-2); claim pending |
-| other matthew | Matthew 3:3 | Isaiah 40:3 | Related case exists (isaiah-40-3); claim pending |
-| other matthew | Matthew 13:14–15 | Isaiah 6:9–10 | Research pending |
-| other matthew | Matthew 26:31 | Zechariah 13:7 | Research pending |
-| other matthew | Matthew 26:54, 56 | Unspecified scriptures | Research pending |
+| other matthew | Matthew 2:5–6 | Micah 5:2 | Covered by existing case: micah-5-2 |
+| other matthew | Matthew 3:3 | Isaiah 40:3 | Covered by existing case: isaiah-40-3 |
+| other matthew | Matthew 13:14–15 | Isaiah 6:9–10 | Research record: isaiah-6-matthew-13; review pending |
+| other matthew | Matthew 26:31 | Zechariah 13:7 | Research record: zechariah-13-matthew-26; review pending |
+| other matthew | Matthew 26:54, 56 | Unspecified scriptures | Research record: matthew-26-scriptures-unspecified; review pending |
 | other nt | Mark 1:2–3 | Malachi 3:1 / Isaiah 40:3 | Related case exists (isaiah-40-3); claim pending |
 | other nt | Luke 4:18–21 | Isaiah 61:1–2 / 58:6 | Research record: isaiah-61-luke-4; review pending |
 | other nt | John 12:38 | Isaiah 53:1 | Research pending |
@@ -347,7 +381,7 @@ The following **50 tracked candidate locations** now include **five source-resea
 
 ## Open inventory and stopping rule
 
-**Batch 1:** 11 internally checked starter records. **Batch 2:** six research entries completing Matthew's ten classic formula quotations with four earlier case links. **Batch 3:** five NT passages showing the importance of Septuagint translation and later theological readings. The 11 entries in Batches 2–3 remain pending internal content-control review. All batches are only a defined subset of the wider inventory.
+**Batch 1:** 11 internally checked starter records. **Batch 2:** six research entries completing Matthew's ten classic formula quotations with four earlier case links. **Batch 3:** five NT passages showing the importance of Septuagint translation and later theological readings. **Batch 4:** three more Matthew claims (including a generic fulfillment assertion), while two other Matthew quotations link to existing records. The 14 entries in Batches 2–4 remain pending internal content-control review. All batches are only a defined subset of the wider inventory.
 
 Next nonduplicative batches, with each source passage + later claim as the canonical match key:
 
