@@ -1,0 +1,1325 @@
+{
+  "title": "Different Christian readings of the 65 prophecy audits",
+  "checked": "2026-10-20",
+  "scope": "Informative Christian reception and disagreement, distinct from original ancient referent and independent event verification.",
+  "read_me_first": "Interpretive schools are not denominational memberships. Catholic and Orthodox church sources support general typological approaches; Protestant authors disagree within denominations. Most linked framework sources document interpretive methods rather than offering page-specific endorsements of every illustrative example. Do not infer consensus or establish historical miracles from a later reading.",
+  "source_registry": {
+    "catholic_typology": {
+      "label": "Catholic Catechism §§128–130: typology and enduring original context",
+      "url": "https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html",
+      "scope": "Official general hermeneutical framework, not a verse-by-verse ruling."
+    },
+    "orthodox_typology": {
+      "label": "Orthodox Church in America: prophecy and Christ-centered interpretation",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets",
+      "scope": "Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage."
+    },
+    "orthodox_scripture": {
+      "label": "Orthodox Church in America: How to Read the Bible",
+      "url": "https://www.oca.org/reflections/misc-authors/how-to-read-the-bible",
+      "scope": "Representative Orthodox typological and liturgical methodology."
+    },
+    "christian_apocalypse": {
+      "label": "Bible.org review of Steve Gregg's Four Views of Revelation book",
+      "url": "https://bible.org/article/revelation-four-views-parallel-commentary",
+      "scope": "Review of Steve Gregg's 1997 parallel-commentary book describing four interpretive approaches; not the book's full original arguments or a denomination-wide survey."
+    },
+    "christians_fourviews": {
+      "label": "Probe Ministries: Four Views of Revelation",
+      "url": "https://probe.org/four-views-of-revelation/",
+      "scope": "Evangelical comparative overview of Revelation interpretation."
+    },
+    "reformed_millennium": {
+      "label": "Ligonier (Reformed): The Millennial Maze",
+      "url": "https://learn.ligonier.org/articles/millennial-maze",
+      "scope": "Representative Reformed discussion of major millennial schools, not a uniform Protestant creed."
+    },
+    "catholic_endtimes": {
+      "label": "Catholic Catechism §§675–677: last things and millenarianism",
+      "url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_7.html",
+      "scope": "Official Catholic teaching rejects millenarianism while affirming a future final judgment."
+    },
+    "adventist_daniel": {
+      "label": "Seventh-day Adventist General Conference: fundamental beliefs, heavenly sanctuary",
+      "url": "https://gc.adventist.org/beliefs/",
+      "scope": "Official Seventh-day Adventist historicist reading of Daniel 8:14's 2,300-day period ending in 1844."
+    },
+    "adventist_history": {
+      "label": "Adventist Church: 1844 and the Millerite interpretation",
+      "url": "https://adventist.org/identity/history",
+      "scope": "Church self-history of the Daniel 8–9 calculation, the disappointment and subsequent teaching."
+    },
+    "reformed_return": {
+      "label": "Ligonier (Reformed): The Return of Christ",
+      "url": "https://learn.ligonier.org/guides/the-return-of-christ",
+      "scope": "Representative Reformed distinction of first advent, second advent and prophetic fulfillment."
+    },
+    "catholic_isaiah_714": {
+      "label": "Catholic Catechism §497 on Isaiah 7:14 and Matthew 1:23",
+      "url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/artcile_3/paragraph_2_conceived_by_the_power_of_the_holy_spirit_and_born_of_the_virgin_mary.html",
+      "scope": "Official Catholic interpretation of Isaiah 7:14 as fulfilled in Jesus; does not establish the original Ahaz-era referent or historical event."
+    },
+    "evangelical_isaiah_dual": {
+      "label": "GotQuestions, Isaiah 7:14's double-fulfillment interpretation",
+      "url": "https://www.gotquestions.org/virgin-or-young-woman.html",
+      "scope": "Evangelical ministry's explicit near-Ahaz and farther-Jesus interpretation; not an evangelical consensus or philological proof."
+    },
+    "orthodox_isaiah53_holyfriday": {
+      "label": "OCA Great and Holy Friday: Isaiah 53 applied to Jesus",
+      "url": "https://www.oca.org/saints/all-lives/2024/5/3",
+      "scope": "Original OCA liturgical account links Isaiah 52:14–53:12 to the cross; not evidence of the servant's original referent."
+    },
+    "evangelical_isaiah53": {
+      "label": "Desiring God: Isaiah 53:11 and Jesus' death",
+      "url": "https://www.desiringgod.org/articles/finished",
+      "scope": "A directly accessible evangelical devotional argument identifying the servant with Jesus; not proof of historical prediction."
+    },
+    "reformed_jeremiah31": {
+      "label": "Keith Mathison at Ligonier, Hebrews and the New Covenant",
+      "url": "https://learn.ligonier.org/articles/new-covenant",
+      "scope": "Named Reformed author analyzes Jeremiah 31 and Hebrews 8 specifically; not a binding position for every Reformed church."
+    },
+    "disp_jeremiah31": {
+      "label": "John F. Walvoord, The New Covenant with Israel",
+      "url": "https://bible.org/seriespage/18-new-covenant-israel",
+      "scope": "Original dispensational author argues present Christian benefits and a still-future fulfillment for Israel; theological exegesis."
+    },
+    "adventist_1844_specific": {
+      "label": "Seventh-day Adventist General Conference, Fundamental Belief 24",
+      "url": "https://gc.adventist.org/beliefs/",
+      "scope": "Official doctrine directly connects Daniel 8's 2,300 prophetic days with 1844 heavenly sanctuary ministry; not independent corroboration."
+    },
+    "christological_daniel9_chase": {
+      "label": "Mitchell L. Chase, Daniel 9:24–27 author commentary",
+      "url": "https://www.thegospelcoalition.org/commentary/daniel/",
+      "scope": "Original author treats Daniel's last seven as Christ's work and Jerusalem 70 CE, not a future seven-year gap."
+    },
+    "disp_daniel9_vlach": {
+      "label": "Michael J. Vlach, Dispensational Theology on Daniel 9",
+      "url": "https://www.thegospelcoalition.org/essay/dispensational-theology/",
+      "scope": "Author directly describes a future seventieth week and distinct future Israel; a specific theological model."
+    },
+    "partial_preterist_mark13_sproul": {
+      "label": "R. C. Sproul sermon Christ Coming in Glory, Mark 13:24–37",
+      "url": "https://learn.ligonier.org/sermons/mark-christ-coming-glory",
+      "scope": "Original sermon treats 'this generation' as Jesus' contemporaries and weighs first-century judgment imagery versus future return."
+    },
+    "revelation13_carson": {
+      "label": "D. A. Carson sermon on Revelation 13:1–10",
+      "url": "https://www.thegospelcoalition.org/sermon/revelation-13-part-1/",
+      "scope": "Original sermon interprets recurring political opposition using Antiochus/Nero; does not explain the 666/616 numerical variants."
+    },
+    "revelation20_mathison": {
+      "label": "Keith Mathison, The Millennial Maze on Revelation 20",
+      "url": "https://learn.ligonier.org/articles/millennial-maze",
+      "scope": "Named author directly describes amillennial, premillennial (historic/dispensational), postmillennial views; not universal church doctrine."
+    },
+    "belcher_hosea": {
+      "label": "Richard Belcher, Foundations of Biblical Interpretation, Part 2",
+      "url": "https://www.thegospelcoalition.org/sermon/interpretation-part-2/",
+      "scope": "Richard Belcher directly examines Hosea 11:1 and Matthew 2:15; this named interpreter does not represent official Catholic or Orthodox doctrine."
+    },
+    "themelios_jer31": {
+      "label": "Themelios, Who Is the Prophet Talking About?",
+      "url": "https://www.thegospelcoalition.org/themelios/article/who-is-the-prophet-talking-about-some-reflections-on-the-new-testaments-use-of-the-old/",
+      "scope": "Themelios scholarly article directly discusses Jeremiah 31:15 and Matthew 2:17–18 as typological reuse; no Catholic denomination-wide endorsement inferred."
+    },
+    "ligonier_micah52": {
+      "label": "Ligonier, Bethlehem Ephrathah (Micah 5:2)",
+      "url": "https://learn.ligonier.org/devotionals/bethlehem-ephrathah",
+      "scope": "Ligonier's Micah 5:2 devotional directly identifies Bethlehem as a predictive messianic birthplace; a representative Reformed ministry reading, not historical verification."
+    },
+    "barrett_zech99": {
+      "label": "Michael P. V. Barrett, Zechariah commentary (9:9)",
+      "url": "https://www.thegospelcoalition.org/commentary/zechariah/",
+      "scope": "Named commentator Michael P. V. Barrett directly discusses Zechariah 9:9 and the Gospel triumphal-entry accounts; theological fulfillment reading only."
+    }
+  },
+  "case_count": 65,
+  "case_ids": [
+    "isaiah-7-14",
+    "hosea-11-1",
+    "jeremiah-31-15",
+    "micah-5-2",
+    "zechariah-9-9",
+    "isaiah-53",
+    "psalm-22",
+    "isaiah-40-3",
+    "jeremiah-46-egypt",
+    "ezekiel-29-egypt",
+    "jonah-3-warning",
+    "nazorean-matthew-2-23",
+    "isaiah-9-galilee-matthew-4",
+    "isaiah-53-4-healing",
+    "isaiah-42-servant-matthew-12",
+    "psalm-78-parables-matthew-13",
+    "zechariah-11-silver-matthew-27",
+    "isaiah-61-luke-4",
+    "joel-2-acts-2",
+    "amos-9-acts-15",
+    "zechariah-12-john-19",
+    "jeremiah-31-hebrews-8",
+    "isaiah-6-matthew-13",
+    "zechariah-13-matthew-26",
+    "matthew-26-scriptures-unspecified",
+    "psalm-41-john-13",
+    "psalm-16-acts-2",
+    "deuteronomy-18-acts-3",
+    "unbroken-bones-john-19",
+    "psalm-2-acts-13",
+    "isaiah-53-1-john-12",
+    "isaiah-6-john-12",
+    "hosea-romans-9-gentiles",
+    "isaiah-59-romans-11-zion",
+    "hebrews-1-5-royal-son",
+    "cyrus-isaiah-44-45",
+    "jeremiah-25-seventy-years",
+    "jeremiah-29-seventy-years",
+    "ezekiel-26-tyre",
+    "isaiah-13-babylon-medes",
+    "nahum-nineveh-fall",
+    "isaiah-17-damascus",
+    "obadiah-edom",
+    "jeremiah-49-edom",
+    "haggai-2-temple-glory",
+    "zechariah-14-day-of-yhwh",
+    "daniel-2-four-kingdoms",
+    "daniel-7-beasts-son-of-man",
+    "daniel-8-ram-goat-2300",
+    "daniel-9-seventy-weeks",
+    "daniel-11-kings-end",
+    "daniel-12-resurrection-days",
+    "mark-13-2-temple-destruction",
+    "mark-13-30-this-generation",
+    "matthew-10-23-towns-of-israel",
+    "mark-9-1-taste-death",
+    "mark-14-62-son-man-high-priest",
+    "one-thess-4-we-alive",
+    "one-cor-15-not-all-sleep",
+    "revelation-1-22-soon",
+    "revelation-13-beast-number",
+    "revelation-20-21-millennium-new-jerusalem",
+    "mark-1-composite-quotation",
+    "john-19-24-garments-psalm22",
+    "acts-8-isaiah53-ethiopian"
+  ],
+  "cases": {
+    "isaiah-7-14": [
+      {
+        "label": "Catholic fulfillment of Isaiah 7:14 (Catechism §497)",
+        "explanation": "Catholic teaching explicitly interprets Isaiah 7:14 and Matthew 1:23 as fulfilled in Jesus' virginal conception. The Ahaz-era context and the historical occurrence require separate evidence.",
+        "source_key": "catholic_isaiah_714",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
+      },
+      {
+        "label": "Near-and-far fulfillment (GotQuestions evangelical reading)",
+        "explanation": "The ministry interprets Isaiah 7:14 as first addressing King Ahaz's immediate crisis and then receiving a farther messianic application to Jesus in Matthew. This remains a theological construction.",
+        "source_key": "evangelical_isaiah_dual",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
+      }
+    ],
+    "hosea-11-1": [
+      {
+        "label": "Israel recapitulated in Jesus (Richard Belcher)",
+        "explanation": "Richard Belcher reads Hosea 11:1 as Israel's past Exodus and Matthew 2:15 as Jesus reenacting Israel's story; this is a representative Christian typological reading, not a prediction originally addressed to Jesus.",
+        "source_key": "belcher_hosea",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
+      },
+      {
+        "label": "Prophetic double significance (some evangelicals)",
+        "explanation": "The Exodus statement is read as intentionally capable of a later messianic fulfillment in Jesus; this is a theological claim about Scripture's wider design.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "jeremiah-31-15": [
+      {
+        "label": "Exile lament typologically reapplied (Themelios author)",
+        "explanation": "This scholarly Christian discussion treats Jeremiah 31:15's exile-era lament and Matthew 2:17–18's Bethlehem narrative as typological correspondence rather than straightforward prediction of Herod.",
+        "source_key": "themelios_jer31",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
+      },
+      {
+        "label": "Predictive messianic pattern",
+        "explanation": "Some Christian readings treat Jeremiah's lament as a divinely foreseen echo of Herod's killing; Jeremiah itself does not name Herod.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "micah-5-2": [
+      {
+        "label": "Messianic ruler with historical horizon",
+        "explanation": "Christian readings identify the ruler with Jesus, while retaining the oracle's original hope for a new Davidic leader in Judah's crisis.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Bethlehem birthplace prediction (Ligonier reading)",
+        "explanation": "Ligonier's Micah 5:2 study explicitly identifies Bethlehem as a predicted birthplace of Jesus, links it to Matthew 2:6, and discusses the earlier Davidic restoration context. Independent birthplace evidence remains a separate issue.",
+        "source_key": "ligonier_micah52",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
+      }
+    ],
+    "zechariah-9-9": [
+      {
+        "label": "Jesus as humble king (liturgical/typological)",
+        "explanation": "The entry into Jerusalem enacts the peaceful king's imagery and is commemorated in Christian Holy Week readings.",
+        "source_key": "orthodox_scripture",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Triumphal-entry fulfillment (Michael P. V. Barrett)",
+        "explanation": "Michael P. V. Barrett explicitly interprets Zechariah 9:9 as foretelling the ideal Davidic king and identifies its New Testament fulfillment as Jesus' entry in Matthew 21 and John 12. Narrative independence remains unverified.",
+        "source_key": "barrett_zech99",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
+      }
+    ],
+    "isaiah-53": [
+      {
+        "label": "Orthodox Holy Friday suffering-servant interpretation",
+        "explanation": "The Orthodox Church in America's Holy Friday liturgical reading applies Isaiah 52:14–53:12 directly to Jesus' suffering and death, apart from the original Hebrew servant-identity question.",
+        "source_key": "orthodox_isaiah53_holyfriday",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
+      },
+      {
+        "label": "Evangelical atonement reading (Desiring God)",
+        "explanation": "An evangelical devotional article interprets Isaiah 53:11 as Jesus bearing others' wrongdoing at the cross; it makes an explicit theological claim about the passage, not independent historical verification.",
+        "source_key": "evangelical_isaiah53",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
+      }
+    ],
+    "psalm-22": [
+      {
+        "label": "Christological lament/typology",
+        "explanation": "The psalm is an ancient lament prayed through Christ's crucifixion; its first-person suffering can be reread liturgically without proving every line was an isolated prediction.",
+        "source_key": "orthodox_scripture",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Detailed passion prophecy",
+        "explanation": "Other Christians emphasize pierced/hurt imagery, casting lots, and the crucifixion narratives as specific foretold facts; translation variants and quotation must be considered.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "isaiah-40-3": [
+      {
+        "label": "New Exodus preparation",
+        "explanation": "The Gospels' use of the wilderness voice is viewed as a typological new exodus and John the Baptist's ministry as Christ's herald.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Predicted forerunner",
+        "explanation": "A direct-fulfillment reading takes Isaiah as intentionally forecasting John the Baptist; the original restoration setting remains integral to the Hebrew text.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "jeremiah-46-egypt": [
+      {
+        "label": "Historical campaign and conditional/oracular imagery",
+        "explanation": "Some Christian interpreters connect the oracle to Nebuchadnezzar's military reach while treating totality formulas as prophetic rhetoric rather than comprehensive census data.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Sequential or unfinished fulfillment",
+        "explanation": "Others expect later stages of judgment or a larger fulfillment beyond the attested Babylonian campaigns; that proposal needs its own evidence rather than being assumed.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "ezekiel-29-egypt": [
+      {
+        "label": "Prophetic hyperbole and historical judgment",
+        "explanation": "Some Christian readings treat the forty-year devastation and loss-of-power phrases as stylized judgment language with a sixth-century historical frame.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Literal yet future or layered judgment",
+        "explanation": "Others try to preserve the forty-year uninhabited period as literal or deferred; the claimed chronology has no independently established match in the audit.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "jonah-3-warning": [
+      {
+        "label": "Conditional warning",
+        "explanation": "Jonah's threatened judgment is contingent on Nineveh's repentance; this fits Christian preaching that prophecy can call for changed conduct rather than an unavoidable date.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Christological sign of Jonah",
+        "explanation": "Christians also read Jonah's story as prefiguring death and resurrection through Matthew 12:40; this is a different New Testament use than the forty-day threat.",
+        "source_key": "catholic_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "nazorean-matthew-2-23": [
+      {
+        "label": "Thematic synthesis",
+        "explanation": "Some Christian commentators understand Matthew's plural 'prophets' as a summary of lowly or despised messianic origins, not a recoverable quoted verse.",
+        "source_key": "catholic_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Wordplay or Nazirite association",
+        "explanation": "Alternative Christian proposals link 'Nazarene' to Hebrew wordplay or Nazirite motifs; none is a secure surviving direct source for Matthew's exact line.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "isaiah-9-galilee-matthew-4": [
+      {
+        "label": "Restoration fulfilled in Jesus' ministry",
+        "explanation": "Galilee's promised light is read as light brought by Jesus' teaching and healing after an earlier northern-Israel crisis.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Messianic geographic prediction",
+        "explanation": "Some Christians read Galilee as specifically and intentionally forecasting where Jesus would begin his ministry; the original restoration imagery has its own referent.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "isaiah-53-4-healing": [
+      {
+        "label": "Healing as embodied salvation",
+        "explanation": "Matthew's healing stories are read as sharing the servant's burden-bearing work, not solely as the later substitutionary death theology.",
+        "source_key": "catholic_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Atonement and healing fulfillment",
+        "explanation": "Other evangelical/pentecostal readings connect the verse to physical healing purchased in Christ's suffering, a disputed extension beyond Matthew's context.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "isaiah-42-servant-matthew-12": [
+      {
+        "label": "Servant pattern realized in Jesus",
+        "explanation": "Jesus' quiet justice and care are read as typological or messianic realization of Isaiah's servant, interpreted within the poem's original mission language.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Direct Christ prediction",
+        "explanation": "Another Christian line treats the entire description as the prophet's advance portrait of Jesus' public conduct and ministry.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "psalm-78-parables-matthew-13": [
+      {
+        "label": "Scriptural pattern of teaching",
+        "explanation": "The ancient historical instruction psalm models the kind of wise teaching that Matthew describes as fulfilled in Jesus' parables.",
+        "source_key": "catholic_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Specific prediction about Jesus' teaching",
+        "explanation": "A direct-forecast account regards 'open my mouth in parables' as foretelling Jesus; the psalm itself speaks retrospectively about Israel's history.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "zechariah-11-silver-matthew-27": [
+      {
+        "label": "Figural convergence of prophetic themes",
+        "explanation": "Christians may understand Matthew as intertwining Zechariah's rejected shepherd and Jeremiah's potter/field themes to interpret betrayal and blood money.",
+        "source_key": "catholic_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Specific thirty-piece forecast",
+        "explanation": "Others treat the price as a precise prophecy about Judas; Matthew's attribution to Jeremiah and the distinct earlier contexts still need explanation.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "isaiah-61-luke-4": [
+      {
+        "label": "Messiah inaugurates restoration",
+        "explanation": "Jesus' synagogue reading is seen as the beginning of liberation and good news; Luke's shortened selection shapes a present ministry announcement.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Two-advent or deferred vengeance reading",
+        "explanation": "A popular futurist Christian reading takes the omitted 'day of vengeance' as deferred to Jesus' future return, distinguishing first and second advents.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "joel-2-acts-2": [
+      {
+        "label": "Pentecost as inaugurated fulfillment",
+        "explanation": "Acts announces the Spirit promise has begun among Jesus' followers, while cosmic imagery may be read as prophetic language or a still-future consummation.",
+        "source_key": "catholic_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "First installment before a future Day of the Lord",
+        "explanation": "Futurist readings take the outpouring as partial and the cosmic portents as awaiting a final tribulation and return.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "amos-9-acts-15": [
+      {
+        "label": "Gentile inclusion through restoration",
+        "explanation": "Acts' Greek quotation supports including Gentiles in God's people as Davidic restoration unfolds in the church.",
+        "source_key": "catholic_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "National restoration with future dimension",
+        "explanation": "Some premillennial evangelical readings retain a future national or territorial fulfillment for Israel alongside the Gentile inclusion in Acts.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "zechariah-12-john-19": [
+      {
+        "label": "Pierced one reread in the passion",
+        "explanation": "John's crucifixion account gives Zechariah's mourned figure a Christological referent, distinct from identifying the person addressed in Zechariah's first setting.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Final Israelite recognition",
+        "explanation": "Some futurist readings pair John with Revelation 1:7 and expect a future national turning at Christ's visible return.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "jeremiah-31-hebrews-8": [
+      {
+        "label": "Reformed new-covenant interpretation (Keith Mathison)",
+        "explanation": "Mathison interprets Hebrews 8's quotation of Jeremiah 31:31–34 as the inauguration of the new covenant through Christ and the ending of the old covenant administration.",
+        "source_key": "reformed_jeremiah31",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
+      },
+      {
+        "label": "Future fulfillment for Israel (John F. Walvoord)",
+        "explanation": "Walvoord argues Christians already benefit from the new covenant, while its Israel-and-Judah national promises await future fulfillment. Other Christians contest that distinction.",
+        "source_key": "disp_jeremiah31",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
+      }
+    ],
+    "isaiah-6-matthew-13": [
+      {
+        "label": "Recurring prophetic resistance",
+        "explanation": "Jesus' parables are read as an echo of Isaiah's difficult prophetic mission, with a new setting but a comparable pattern of hearing without understanding.",
+        "source_key": "catholic_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "God's sovereign judgment",
+        "explanation": "Some Reformed accounts emphasize hardening as divine judgment; other Christians emphasize human culpability and warning rather than predestination.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "zechariah-13-matthew-26": [
+      {
+        "label": "The shepherd's scattering as passion typology",
+        "explanation": "Jesus interprets the disciples' flight through Zechariah's shepherd image and subsequent restoration.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Advance forecast of disciples' desertion",
+        "explanation": "Other Christian apologetic readings treat the flight as a specifically predicted event; the Gospel's own citation is the direct evidence for that interpretation.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "matthew-26-scriptures-unspecified": [
+      {
+        "label": "Canonical/typological whole-scripture reading",
+        "explanation": "The broader passion story is interpreted as cohering with many earlier texts without identifying one recoverable sentence as 'the prophecy'.",
+        "source_key": "catholic_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Composite predictive fulfillment",
+        "explanation": "Apologists sometimes assemble Isaiah 53, Zechariah and psalms as detailed forecasts; that collection must be justified text by text.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "psalm-41-john-13": [
+      {
+        "label": "Betrayed righteous sufferer",
+        "explanation": "The lament of a betrayed person becomes a figure for Jesus' betrayal by Judas in John's narrative.",
+        "source_key": "orthodox_scripture",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Foreknowledge of Judas",
+        "explanation": "A direct-prophecy reading treats the line as a prediction of the specific betrayer; the psalm's prior first-person voice remains distinct.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "psalm-16-acts-2": [
+      {
+        "label": "Resurrection reading mediated by Acts",
+        "explanation": "Peter's speech interprets the psalm's hope of deliverance from Sheol and decay in light of Jesus' resurrection.",
+        "source_key": "catholic_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "David prophetically foresaw Jesus' resurrection",
+        "explanation": "A direct-prediction reading emphasizes Acts' contrast between David's death and Jesus' raising; Peter's recorded reasoning is evidence of this Christian claim.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "deuteronomy-18-acts-3": [
+      {
+        "label": "Jesus as new Moses",
+        "explanation": "Christian typology reads the prophetic succession promise as reaching a climactic embodiment in Jesus.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Single predicted Messiah",
+        "explanation": "Some direct-fulfillment approaches treat the promised 'prophet like Moses' as Jesus alone, while the Deuteronomic text's original succession setting remains part of the debate.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "unbroken-bones-john-19": [
+      {
+        "label": "Paschal-lamb typology",
+        "explanation": "The Passover ritual rule becomes a Christological image of Jesus' death as the Christian Passover lamb.",
+        "source_key": "catholic_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Specific unbroken-bone prediction",
+        "explanation": "Other readings present the detail as a discrete prediction that Jesus' legs would not be broken; the earliest rule is an instruction for preparing Passover offerings.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "psalm-2-acts-13": [
+      {
+        "label": "Royal enthronement fulfilled in resurrection",
+        "explanation": "The Davidic coronation formula is applied to Christ's exaltation, although Acts' application of 'raising' remains debated.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Messiah's eternal divine sonship",
+        "explanation": "Some Christian dogmatic readings connect 'begotten' to the eternal relationship of Father and Son; the psalm's original royal enthronement usage must be separately described.",
+        "source_key": "catholic_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "isaiah-53-1-john-12": [
+      {
+        "label": "Suffering-servant message meets unbelief",
+        "explanation": "John uses the servant's lament to frame rejection of Jesus' signs; earlier servant identity and first-audience meaning remain historical questions.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Specific predicted rejection of Jesus",
+        "explanation": "A predictive evangelical reading takes the unbelief itself as foretold and fulfilled by the Gospel narrative.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "isaiah-6-john-12": [
+      {
+        "label": "Christological reading of Isaiah's glory",
+        "explanation": "John identifies Isaiah's vision with the glory seen through Jesus, a theological rereading of the older temple scene.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Sovereign judicial hardening",
+        "explanation": "Some Christians give more weight to predestination in the hardening language; others interpret it as warning of repeated human rejection.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "hosea-romans-9-gentiles": [
+      {
+        "label": "Expanded covenant people in Christ",
+        "explanation": "Paul's application of Israel-restoration language to Gentiles is read as incorporation into a widened people of God.",
+        "source_key": "catholic_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Continued distinction of Israel and church",
+        "explanation": "Some dispensational readings treat Gentile inclusion as real without claiming Hosea's original promises to Israel are entirely exhausted.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "isaiah-59-romans-11-zion": [
+      {
+        "label": "Future hope for Israel in God's mercy",
+        "explanation": "Paul's composite citation is read as including Israel in God's saving purposes; Christian interpretations disagree over national, ecclesial and eschatological scope.",
+        "source_key": "catholic_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Future national deliverance",
+        "explanation": "Dispensational and other premillennial readers commonly expect a distinctive future salvation of Israel tied to Christ's return.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "hebrews-1-5-royal-son": [
+      {
+        "label": "Christ as ultimate Davidic king",
+        "explanation": "Hebrews rereads royal adoption/coronation formulas to proclaim Jesus' unique status above angels.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Eternal Son as fulfillment of royal type",
+        "explanation": "Creedal Christian readings connect the royal texts to Jesus' divine sonship while distinguishing this from their first ancient royal use.",
+        "source_key": "catholic_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "cyrus-isaiah-44-45": [
+      {
+        "label": "Providential use of a foreign king",
+        "explanation": "Christian historical-context readings take Cyrus as the named agent of Persian-era restoration, not automatically a direct forecast of Jesus.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Messianic typology of anointed ruler",
+        "explanation": "Some Christians treat Cyrus as a type of God's later saving work in Christ; other Christian interpreters emphasize precise predictive foreknowledge about Cyrus.",
+        "source_key": "catholic_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "jeremiah-25-seventy-years": [
+      {
+        "label": "Babylonian-era limit interpreted historically",
+        "explanation": "Christian contextual commentators read the seventy years as a rounded period of Babylonian dominance or exile rather than a single unambiguous calendar start.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Exact prophetic clock",
+        "explanation": "Other interpreters seek a precise seventy-year sequence from selected historical dates; several start/end combinations exist and require justification.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "jeremiah-29-seventy-years": [
+      {
+        "label": "Promise to exiles within imperial history",
+        "explanation": "Christians may treat the letter as consolation addressed to the deported community and the time as primarily Babylon's allotted rule.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Precisely completed chronological promise",
+        "explanation": "Alternative harmonizations anchor the period to a specific return, temple event or exile date, but the Hebrew 'for Babylon' and changing boundaries matter.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "ezekiel-26-tyre": [
+      {
+        "label": "Staged historical judgment",
+        "explanation": "Some Christians combine Nebuchadnezzar's siege with later Alexander-era events or read total-destruction formulas as ancient martial hyperbole.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Deferred/ultimate complete fulfillment",
+        "explanation": "Others posit an as-yet-unfulfilled last judgment for Tyre; this does not establish a missing historical event and depends on an explicit theological reading.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "isaiah-13-babylon-medes": [
+      {
+        "label": "Poetic oracle of imperial downfall",
+        "explanation": "Christian historical-context interpreters see Babylon's defeat and subsequent decline expressed in vivid apocalyptic language.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Exact or still-future destruction",
+        "explanation": "Other readers insist on total literal permanent desolation, sometimes relocating it to an end-time Babylon; the textual and historical identities must be argued.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "nahum-nineveh-fall": [
+      {
+        "label": "Historical judgment confirmed by conquest",
+        "explanation": "The 612 BCE fall is treated as the oracle's historical horizon; Christians disagree on its date of composition and what constitutes advance foresight.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Model of final judgment",
+        "explanation": "Liturgical or homiletic readers may extend the downfall of an oppressive empire as a moral image of God's judgment in other ages.",
+        "source_key": "catholic_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "isaiah-17-damascus": [
+      {
+        "label": "Fall of Aram's royal power",
+        "explanation": "A contextual Christian reading focuses on the end of Damascus's independent kingdom, distinguishing loss of state power from permanent disappearance of an inhabited city.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Future or staged city destruction",
+        "explanation": "Some futurists expect a later literal disappearance of the city; the text does not supply a verified modern timetable.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "obadiah-edom": [
+      {
+        "label": "Historical fate of Edom",
+        "explanation": "A contextual Christian reading associates the oracle with ancient Edom's political decline and later Idumaean transformations.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Universal final justice image",
+        "explanation": "Other Christians expand Edom into a recurring pattern of hostile powers ultimately judged; this is symbolic reuse, not a proof no descendants survived.",
+        "source_key": "catholic_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "jeremiah-49-edom": [
+      {
+        "label": "Shared ancient oracle of national judgment",
+        "explanation": "One approach reads the historical conflict with Edom alongside Obadiah and brackets which text borrowed from which.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Typology of final defeat of evil",
+        "explanation": "Other Christian preaching uses Edom as a moral figure of opposition to God's people, rather than a detailed modern ethnic forecast.",
+        "source_key": "catholic_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "haggai-2-temple-glory": [
+      {
+        "label": "Fulfillment through Christ's temple presence",
+        "explanation": "Many Christians relate the latter temple's glory to Jesus' presence or the church as a new temple, beyond Haggai's immediate rebuilding context.",
+        "source_key": "catholic_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Future temple or messianic kingdom",
+        "explanation": "Some premillennial readers expect fuller fulfillment in a future earthly temple/kingdom; the temple identities and dates require independent arguments.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "zechariah-14-day-of-yhwh": [
+      {
+        "label": "Eschatological imagery of God's reign",
+        "explanation": "Liturgical and amillennial readings often treat the mount, living waters and worldwide worship as imagery of God's ultimate reign, not a dated topographic forecast.",
+        "source_key": "catholic_endtimes",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Future literal Jerusalem events",
+        "explanation": "Futurist premillennial readings expect Christ's return to a changed Mount of Olives and future international worship centered on Jerusalem.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "daniel-2-four-kingdoms": [
+      {
+        "label": "Greek-era sequence or Roman culmination",
+        "explanation": "Christian historical-context scholars may identify successive empires ending with Greek rule; many traditional Christian schemes identify the fourth with Rome and Christ's kingdom.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Extended final-world-kingdom sequence",
+        "explanation": "Futurist readers see a later or revived fourth kingdom and future climactic divine intervention; the identification is debated.",
+        "source_key": "christians_fourviews",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "daniel-7-beasts-son-of-man": [
+      {
+        "label": "Antiochene crisis and Christological Son of Man",
+        "explanation": "Christian interpretation may acknowledge the Greek-era horn while identifying the heavenly Son of Man with Jesus in the Gospels.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Future Antichrist and judgment",
+        "explanation": "Futurist readings take the final beast and horn as prefiguring a last world ruler who is defeated at Jesus' return.",
+        "source_key": "christians_fourviews",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "daniel-8-ram-goat-2300": [
+      {
+        "label": "Antiochus and temple rededication",
+        "explanation": "Christian historical-context readers commonly locate the ram/goat vision in Persian-Greek conflict and the desecration of the Second Temple under Antiochus IV.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Seventh-day Adventist heavenly-sanctuary doctrine",
+        "explanation": "Fundamental Belief 24 connects Daniel's 2,300 prophetic days with Christ entering a final phase of heavenly sanctuary ministry in 1844; this is explicitly the denomination's belief.",
+        "source_key": "adventist_1844_specific",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
+      },
+      {
+        "label": "Futurist sanctuary crisis",
+        "explanation": "Some futurists take Antiochus as a precursor and expect a future desecration; chronology and textual warrant are disputed.",
+        "source_key": "christians_fourviews",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "daniel-9-seventy-weeks": [
+      {
+        "label": "Christ-centered seventy weeks (Mitchell L. Chase)",
+        "explanation": "Chase takes the seventieth seven as Jesus' atonement and new covenant, with the judgment on Jerusalem in 70 CE, rather than a remote future seven-year interval.",
+        "source_key": "christological_daniel9_chase",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
+      },
+      {
+        "label": "Future seventieth week (Michael J. Vlach)",
+        "explanation": "Vlach describes a gap after the sixty-nine weeks, a future seven-year period, and distinct future blessings for Israel within dispensational theology.",
+        "source_key": "disp_daniel9_vlach",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
+      },
+      {
+        "label": "Historicist year-day sequence",
+        "explanation": "Historicist approaches often apply symbolic years to the weeks, placing key milestones within past religious history, with divergent starting years.",
+        "source_key": "adventist_history",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "daniel-11-kings-end": [
+      {
+        "label": "Antiochus IV and genre/dating debates",
+        "explanation": "Some Christian historical-critical scholars see the kings of north and south culminating in Antiochus IV, with the last details not matching the known end of his life.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Future Antichrist beyond Antiochus",
+        "explanation": "Some futurist readings see a typological shift from the Seleucid ruler to a final Antichrist; the proposed shift point differs.",
+        "source_key": "christians_fourviews",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "daniel-12-resurrection-days": [
+      {
+        "label": "Resurrection hope in later Jewish and Christian faith",
+        "explanation": "Many Christians read Daniel's awakening of the dead as developing into the general resurrection confessed in Christian creeds.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Future tribulation calendars",
+        "explanation": "Futurist views connect the 1,290/1,335 days to a final crisis while differing about their relationship to Daniel 9 and Revelation.",
+        "source_key": "christians_fourviews",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Historicist chronology",
+        "explanation": "Historicist traditions apply prophetic time reckoning beyond a short ancient episode; proposed historical dates vary and are not independently settled.",
+        "source_key": "adventist_daniel",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "mark-13-2-temple-destruction": [
+      {
+        "label": "Jerusalem AD 70 as historical referent",
+        "explanation": "Preterist and many Christian historical-context readings identify the temple's destruction by Rome as the near-term fulfillment of the reported saying.",
+        "source_key": "christian_apocalypse",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Part of a larger end-time pattern",
+        "explanation": "Futurists commonly see the temple fall as a preview of a final crisis, not necessarily the full scope of Mark 13.",
+        "source_key": "christians_fourviews",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "mark-13-30-this-generation": [
+      {
+        "label": "Contemporary generation (R. C. Sproul)",
+        "explanation": "Sproul interprets 'this generation' as Jesus' contemporaries, discussing Jerusalem's first-century crisis and figurative judgment language while considering alternative readings.",
+        "source_key": "partial_preterist_mark13_sproul",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
+      },
+      {
+        "label": "Future final generation (futurist)",
+        "explanation": "Many futurists understand the generation as those witnessing final signs; others distinguish the near temple crisis from Christ's future return.",
+        "source_key": "christians_fourviews",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Inaugurated/ongoing horizon",
+        "explanation": "Other Christian interpreters combine near fulfillment, apocalyptic imagery and future consummation rather than assigning everything to one calendar moment.",
+        "source_key": "reformed_millennium",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "matthew-10-23-towns-of-israel": [
+      {
+        "label": "Imminent mission crisis",
+        "explanation": "Some Christian historical-context readers understand the 'coming' as vindication, resurrection or a nearer judgment horizon, within the disciples' experience.",
+        "source_key": "christian_apocalypse",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Ultimate Son of Man coming",
+        "explanation": "Other Christian futurist readings place the saying's completion at Christ's return, sometimes positing the mission to Israel continues until then.",
+        "source_key": "christians_fourviews",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "mark-9-1-taste-death": [
+      {
+        "label": "Transfiguration anticipation",
+        "explanation": "Many Christians identify the event some disciples would soon see as the Transfiguration narrated immediately afterward.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Resurrection, Pentecost or Jerusalem judgment",
+        "explanation": "Other Christian readings locate the kingdom's visible coming in resurrection/exaltation, Pentecost or 70 CE; an ultimate Second Coming reading faces the lifetime wording.",
+        "source_key": "christian_apocalypse",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "mark-14-62-son-man-high-priest": [
+      {
+        "label": "Vindication and enthronement",
+        "explanation": "Christians drawing on Daniel 7 read cloud-coming language as the Son of Man's approach to the heavenly throne and vindication through Jesus' exaltation.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Visible future return",
+        "explanation": "Other Christians emphasize the future return and judgment, interpreting the high priest's 'seeing' as public accountability rather than a literal lifespan guarantee.",
+        "source_key": "christians_fourviews",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "one-thess-4-we-alive": [
+      {
+        "label": "Pastoral 'we' and unknown timing",
+        "explanation": "Many Christians take Paul's first-person plural as solidarity with readers who might survive until Christ's return, not an explicit guaranteed prediction of Paul's survival.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Imminence of Christ's return",
+        "explanation": "Others read the passage as evidence the first churches expected Jesus to return in their lifetimes; whether that expectation failed is debated.",
+        "source_key": "christian_apocalypse",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Dispensational rapture distinction",
+        "explanation": "Some futurists distinguish this gathering of believers from a later public return, whereas historic premillennial and amillennial Christians generally do not posit that specific two-stage scheme.",
+        "source_key": "reformed_millennium",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "one-cor-15-not-all-sleep": [
+      {
+        "label": "Resurrection promise not a date forecast",
+        "explanation": "A common theological reading stresses universal transformation and resurrection, allowing Paul to speak as a member of a group without assuring his own survival.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "First-generation expectation",
+        "explanation": "Other historical-context Christian scholars hear genuine short-term expectation in the first-person plural and discuss it alongside later reinterpretations.",
+        "source_key": "christian_apocalypse",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "revelation-1-22-soon": [
+      {
+        "label": "Preterist near fulfillment",
+        "explanation": "A preterist reading takes 'soon' and 'near' as meaningful to the original churches and associates many scenes with the first-century Roman world.",
+        "source_key": "christian_apocalypse",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Futurist final imminence",
+        "explanation": "Futurists interpret the book as chiefly describing future end events and explain 'soon' in terms of divine suddenness, readiness or a rapid final sequence.",
+        "source_key": "christians_fourviews",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Historicist continuous fulfillment",
+        "explanation": "Historicists understand the visions as unfolding through the church age, not all in a single first-century or final week.",
+        "source_key": "adventist_daniel",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Idealist recurring spiritual conflict",
+        "explanation": "An idealist reading sees symbols as recurring struggles that address multiple Christian generations.",
+        "source_key": "christian_apocalypse",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "revelation-13-beast-number": [
+      {
+        "label": "Preterist Roman imperial identification",
+        "explanation": "Many preterists connect the beast with Nero or Roman imperial rule and explain 666/616 through ancient name-number calculation; exact details remain contested.",
+        "source_key": "christian_apocalypse",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Futurist final Antichrist",
+        "explanation": "Many futurists expect a final personal tyrant and coercive economic or worship system, rejecting exclusive identification with Nero.",
+        "source_key": "christians_fourviews",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Historicist institutions over time",
+        "explanation": "Historicism sees beastly oppression developing through successive historical powers or institutions; specific identifications differ widely.",
+        "source_key": "adventist_daniel",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Recurring persecuting powers (D. A. Carson, Rev 13)",
+        "explanation": "Carson understands the beast as a recurring pattern of persecuting political power, including Nero. His sermon does not settle how 666 and 616 were calculated.",
+        "source_key": "revelation13_carson",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
+      }
+    ],
+    "revelation-20-21-millennium-new-jerusalem": [
+      {
+        "label": "Catholic rejection of millenarianism (official doctrine)",
+        "explanation": "Catechism §§675–677 rejects millenarian claims of an earthly messianic kingdom before final judgment. It does not prescribe an exhaustive official commentary on Revelation 20 or establish a particular Orthodox interpretation.",
+        "source_key": "catholic_endtimes",
+        "source_level": "official_doctrine_not_full_verse_exegesis",
+        "attribution": "Official Catholic doctrine established; verse-specific millennium scheme and Orthodox position remain unverified by this source."
+      },
+      {
+        "label": "Amillennialism in Keith Mathison's comparison",
+        "explanation": "Mathison reports the amillennial reading of the thousand years as Christ's present reign during the church age, prior to the final return.",
+        "source_key": "revelation20_mathison",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
+      },
+      {
+        "label": "Historic and dispensational premillennialism (Mathison)",
+        "explanation": "Mathison describes both as expecting a future reign after Christ returns, with a stronger Israel–church distinction in dispensational versions.",
+        "source_key": "revelation20_mathison",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
+      },
+      {
+        "label": "Postmillennialism in Keith Mathison's comparison",
+        "explanation": "Mathison describes a prolonged gospel-influenced period before the final return; the thousand-year span need not be read as an exact literal duration.",
+        "source_key": "revelation20_mathison",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
+      }
+    ],
+    "mark-1-composite-quotation": [
+      {
+        "label": "Scriptural constellation centered on John",
+        "explanation": "Christian interpretation reads the blended Exodus/Malachi/Isaiah messenger and wilderness passages as a unified portrait of John the Baptist preparing Jesus' way.",
+        "source_key": "catholic_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Citation convention and textual history",
+        "explanation": "Other Christian textual readers stress ancient citation practices and the manuscripts naming Isaiah versus 'the prophets', without demanding each line originate in Isaiah.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "john-19-24-garments-psalm22": [
+      {
+        "label": "Passion typology",
+        "explanation": "The division of garments in Psalm 22 is read as a righteous sufferer's lament reflected in Jesus' passion and the Gospel narration.",
+        "source_key": "orthodox_scripture",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Precisely foretold crucifixion detail",
+        "explanation": "Another apologetic Christian approach presents the garment actions as independently predicted particulars; literary dependence between Gospel and psalm remains a separate question.",
+        "source_key": "reformed_return",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ],
+    "acts-8-isaiah53-ethiopian": [
+      {
+        "label": "Christological servant identified with Jesus",
+        "explanation": "Luke narrates Philip interpreting Isaiah's suffering servant through Jesus, a central apostolic and patristic Christian reading.",
+        "source_key": "orthodox_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      },
+      {
+        "label": "Historical servant plus fuller Christian sense",
+        "explanation": "Another Christian interpretive approach distinguishes the servant's earlier Israel/prophet debates from the later christological application rather than assuming the earlier writer was consciously depicting Jesus.",
+        "source_key": "catholic_typology",
+        "source_level": "general_method_or_comparative",
+        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+      }
+    ]
+  }
+}

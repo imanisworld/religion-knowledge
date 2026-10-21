@@ -74,3 +74,34 @@ The original **50-location supplemental seed has been completely mapped**, but a
 4. Keep the 11 partly unconfirmed scholarly citations and 21 discovery leads visible as open limits. Outside specialist review remains optional for this bounded edition; any newly promoted case still requires a verifiable source passage.
 
 **Files:** [records.json](records.json) · [inventory.json](inventory.json) · [index.md](index.md) · [REVIEW.md](REVIEW.md) · [TODO.md](TODO.md).
+
+
+## New interpretive-comparison layer (20 October 2026) — DRAFT, unmerged
+
+A separate public-facing Christian-reception comparison has been prepared for **all 65 already audited cases**, with **141 short interpretive examples** in `christian-interpretations.json`, a dedicated methodological explanation and collapsible comparisons in `prophecy-audit.html`, and matching bounded prose in `index.md`. This new layer was not part of the previously merged 65-case source audit and should not inherit its release approval automatically.
+
+**Source-level caution:** Catholic Catechism and Orthodox Church in America teaching pages substantiate broad interpretive commitments; Reformed ministry guides and four-view surveys summarize approaches; the Seventh-day Adventist Fundamental Beliefs substantiate the **specific** 1844 heavenly-sanctuary doctrine. Most of the 141 examples **have general-method or comparative references, not individual verse-specific church-authority endorsements**. They are illustrations of Christian reception, not established denomination-wide agreement, not new historical-corroboration findings, and not a substitute for original-language review.
+
+**Current:** this new layer is **research/reader change staged for review**, not 141 independently primary-verified interpretations; no alteration to the original historical-evidence verdicts or to the 65-case count. Verify all source URLs, case mappings, generated Search consistency, responsive reader behavior and accessibility before any merge/deployment. Broader site cross-links (Translations, Law & Covenant, The Strongest Case, Study Notes and Illness) remain prospective rather than silently duplicated.
+
+
+## First passage-specific Christian-interpretation verification (20 October 2026)
+
+A focused follow-up of eight contested passages found **14 of the 141 explanatory perspectives** with accessible original Christian teaching or a named author's **actual commentary on that passage**. These 14 now link the passage itself and have source level `passage_specific_primary_statement`. Another **126 retain general approach/comparison sources**, and **one official Catholic millenarianism statement is doctrinally direct but does not settle a full Revelation 20 verse-by-verse exposition**. These labels are about the **source of a Christian interpretation**, never about historical fulfillment being corroborated.
+
+Specifically documented: the Catholic Catechism §497 on Isaiah 7:14; the evangelical GotQuestions author's near/far Isaiah 7 distinction; OCA Holy Friday usage and a named evangelical article on Isaiah 53; Keith Mathison versus John Walvoord on Jeremiah 31/Hebrews 8; official Adventist General Conference belief 24 on 1844; Mitchell L. Chase versus Michael J. Vlach on Daniel 9; R. C. Sproul on Mark 13:30; D. A. Carson's recurring-power reading of Revelation 13; and Keith Mathison's comparisons of three Revelation 20 schools. A Catholic catechism's rejection of millenarianism has **not** been misrepresented as an Orthodox teaching or a complete officially mandated millennium scheme.
+
+All 65 original source-audit historical verdicts and original-language limitations are unchanged. The other 126 Christian reading examples still require direct source-level checks before any stronger denominational claim. **This remains draft PR #250**, safely based on merged #248.
+
+## Second targeted passage-specific review — four verified positions
+
+Four additional named-source readings have been linked in the registry and synchronized to public HTML and research Markdown. This brings the source-scope totals to **18 / 141 passage-specific**, **122 broader comparative/framework**, and **1 doctrine-only**. This establishes interpretation attribution only, not independent historicity or denominational consensus.
+
+| Passage | Upgraded reading | Specific evidence |
+|---|---|---|
+| hosea-11-1 | Israel recapitulated in Jesus (Richard Belcher) | [Source](https://www.thegospelcoalition.org/sermon/interpretation-part-2/) — Richard Belcher directly examines Hosea 11:1 and Matthew 2:15; this named interpreter does not represent official Catholic or Orthodox doctrine. |
+| jeremiah-31-15 | Exile lament typologically reapplied (Themelios author) | [Source](https://www.thegospelcoalition.org/themelios/article/who-is-the-prophet-talking-about-some-reflections-on-the-new-testaments-use-of-the-old/) — Themelios scholarly article directly discusses Jeremiah 31:15 and Matthew 2:17–18 as typological reuse; no Catholic denomination-wide endorsement inferred. |
+| micah-5-2 | Bethlehem birthplace prediction (Ligonier reading) | [Source](https://learn.ligonier.org/devotionals/bethlehem-ephrathah) — Ligonier's Micah 5:2 devotional directly identifies Bethlehem as a predictive messianic birthplace; a representative Reformed ministry reading, not historical verification. |
+| zechariah-9-9 | Triumphal-entry fulfillment (Michael P. V. Barrett) | [Source](https://www.thegospelcoalition.org/commentary/zechariah/) — Named commentator Michael P. V. Barrett directly discusses Zechariah 9:9 and the Gospel triumphal-entry accounts; theological fulfillment reading only. |
+
+The other readings in those same cases retain their earlier broad-source labels. The 65 original historical assessments remain unchanged. PR #250 stays draft.

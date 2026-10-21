@@ -42,3 +42,20 @@
 - [ ] Obtain a scoped consolidation-freeze exception and explicit merge/deploy approval after final integrated CI. **Do not merge PR #202** merely because CI passes.
 
 **Stop condition:** The inventory passes a documented completeness search for the declared scope, and every included distinct attribution has a verifiable source passage or is explicitly marked unresolved. There is no universally agreed single count of 'all prophecies.'
+
+
+## Different Christian interpretations — new staged layer
+
+- [x] Record two or more competing Christian understandings for each of the existing **65** cases, totaling **141** illustrative positions in `christian-interpretations.json`.
+- [x] Distinguish official Catholic/Adventist doctrinal statements, Orthodox catechesis, independent ministry and comparative-school overviews; **do not treat all examples as formally endorsed church interpretations of exact verses**.
+- [x] Place short comparison paragraphs on each public HTML card and keep matching methodological caveats in `index.md`; historical-evidence conclusions unchanged.
+- [x] Add automated 65-card/141-view completeness and source-scope regression checks.
+- [ ] Confirm individual verse-level theological school attributions against actual original denominational commentaries and scholarly pages; **framework-level links are incomplete evidence for case-specific characterization**.
+- [ ] Rebuild/search-sync and check 390px/1440px, accessibility, keyboard-expanded details, source links and reading flow; independently review before merge.
+- [ ] Later add concise contextual links in The Strongest Case, Study Notes, Translations, Law & Covenant and Illness where relevant—without copying 141 long examples into each reader.
+
+
+- [x] First **eight-case passage-specific** source pass: upgrade **14** original church/author positions and explicitly mark **126** broader approach citations plus one Catholic doctrine-only citation.
+- [ ] Source-gate the remaining **122** specific interpretation claims against official church verse commentary or a named author's source passage (do not equate verified viewpoint with historical fulfillment).
+ 
+- [x] Second targeted source pass: four more direct author passages (Hosea 11:1, Jeremiah 31:15, Micah 5:2 and Zechariah 9:9); 18 direct, 122 general, 1 doctrine-only. Keep draft pending review.
