@@ -74,17 +74,18 @@ test('original prophecy data and historical outcome count remain separate from C
   assert.ok(v.cases['revelation-20-21-millennium-new-jerusalem'].length>=4);
 });
 
-test('fourteen original passage-specific attestations stay distinct from broad comparison sources',()=>{
+test('eighteen original passage-specific attestations stay distinct from broad comparison sources',()=>{
   const all=Object.values(v.cases).flat();
   assert.equal(all.length,141);
-  assert.equal(all.filter(x=>x.source_level==='passage_specific_primary_statement').length,14);
+  assert.equal(all.filter(x=>x.source_level==='passage_specific_primary_statement').length,18);
   assert.equal(all.filter(x=>x.source_level==='official_doctrine_not_full_verse_exegesis').length,1);
-  assert.equal(all.filter(x=>x.source_level==='general_method_or_comparative').length,126);
+  assert.equal(all.filter(x=>x.source_level==='general_method_or_comparative').length,122);
   for(const id of ['isaiah-7-14','isaiah-53','jeremiah-31-hebrews-8','daniel-8-ram-goat-2300',
     'daniel-9-seventy-weeks','mark-13-30-this-generation','revelation-13-beast-number',
     'revelation-20-21-millennium-new-jerusalem']){
     assert.ok(v.cases[id].some(x=>x.source_level==='passage_specific_primary_statement'));
   }
+  for (const id of ["hosea-11-1","jeremiah-31-15","micah-5-2","zechariah-9-9"]) assert.ok(v.cases[id].some(x=>x.source_level==='passage_specific_primary_statement'),id);
   const cath=v.cases['revelation-20-21-millennium-new-jerusalem'][0];
   assert.equal(cath.source_level,'official_doctrine_not_full_verse_exegesis');
   assert.match(cath.explanation,/does not prescribe an exhaustive official commentary/);
