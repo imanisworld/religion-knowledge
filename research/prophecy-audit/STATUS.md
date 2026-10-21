@@ -92,3 +92,16 @@ A focused follow-up of eight contested passages found **14 of the 141 explanator
 Specifically documented: the Catholic Catechism §497 on Isaiah 7:14; the evangelical GotQuestions author's near/far Isaiah 7 distinction; OCA Holy Friday usage and a named evangelical article on Isaiah 53; Keith Mathison versus John Walvoord on Jeremiah 31/Hebrews 8; official Adventist General Conference belief 24 on 1844; Mitchell L. Chase versus Michael J. Vlach on Daniel 9; R. C. Sproul on Mark 13:30; D. A. Carson's recurring-power reading of Revelation 13; and Keith Mathison's comparisons of three Revelation 20 schools. A Catholic catechism's rejection of millenarianism has **not** been misrepresented as an Orthodox teaching or a complete officially mandated millennium scheme.
 
 All 65 original source-audit historical verdicts and original-language limitations are unchanged. The other 126 Christian reading examples still require direct source-level checks before any stronger denominational claim. **This remains draft PR #250**, safely based on merged #248.
+
+## Second targeted passage-specific review — four verified positions
+
+Four additional named-source readings have been linked in the registry and synchronized to public HTML and research Markdown. This brings the source-scope totals to **18 / 141 passage-specific**, **122 broader comparative/framework**, and **1 doctrine-only**. This establishes interpretation attribution only, not independent historicity or denominational consensus.
+
+| Passage | Upgraded reading | Specific evidence |
+|---|---|---|
+| hosea-11-1 | Israel recapitulated in Jesus (Richard Belcher) | [Source](https://www.thegospelcoalition.org/sermon/interpretation-part-2/) — Richard Belcher directly examines Hosea 11:1 and Matthew 2:15; this named interpreter does not represent official Catholic or Orthodox doctrine. |
+| jeremiah-31-15 | Exile lament typologically reapplied (Themelios author) | [Source](https://www.thegospelcoalition.org/themelios/article/who-is-the-prophet-talking-about-some-reflections-on-the-new-testaments-use-of-the-old/) — Themelios scholarly article directly discusses Jeremiah 31:15 and Matthew 2:17–18 as typological reuse; no Catholic denomination-wide endorsement inferred. |
+| micah-5-2 | Bethlehem birthplace prediction (Ligonier reading) | [Source](https://learn.ligonier.org/devotionals/bethlehem-ephrathah) — Ligonier's Micah 5:2 devotional directly identifies Bethlehem as a predictive messianic birthplace; a representative Reformed ministry reading, not historical verification. |
+| zechariah-9-9 | Triumphal-entry fulfillment (Michael P. V. Barrett) | [Source](https://www.thegospelcoalition.org/commentary/zechariah/) — Named commentator Michael P. V. Barrett directly discusses Zechariah 9:9 and the Gospel triumphal-entry accounts; theological fulfillment reading only. |
+
+The other readings in those same cases retain their earlier broad-source labels. The 65 original historical assessments remain unchanged. PR #250 stays draft.
