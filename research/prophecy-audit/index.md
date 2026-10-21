@@ -98,6 +98,14 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 | [Psalm 22:18 (Hebrew; 22:19 in some numbering)](#john-19-24-garments-psalm22) | John 19:23–24 (compare Mark 15:24; Matthew 27:35; Luke 23:34) | Poetic lament reused as a passion scene with narrative elaboration | Scriptural quotation and parallelism clear; specific allocation scene lacks independent attestation |
 | [Isaiah 53:7–8 (Hebrew and ancient Greek)](#acts-8-isaiah53-ethiopian) | Acts 8:26–40, especially 8:32–35 | Ancient Greek servant quotation used as a Christian teaching interpretation | Greek quotation and Jesus application explicit; Hebrew/Greek differences and earlier servant identity remain contested |
 
+## How different Christians interpret prophecy
+
+The 65 cases now distinguish different **Christian reception traditions** from the original historical setting and independent event evidence. Church identity and interpretive approach overlap: Catholic, Orthodox, Reformed, evangelical and Seventh-day Adventist are traditions or movements; preterist, futurist, historicist, idealist, premillennial, amillennial and typological describe different interpretive frameworks. There is considerable diversity within Protestantism and disagreement within other Christian churches.
+
+**Evidence rule:** Official church statements can establish general doctrine; an individual teacher's writing documents that teacher's position; comparison texts outline schools. The examples below are **illustrative theological readings**, not official denomination-wide assertions about these exact verses unless a direct church source says so. They neither prove nor disprove miracles.
+
+Source-method examples: [Catholic Catechism §§128–130](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html); [Orthodox Church in America: Prophets](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets); [Adventist General Conference: Fundamental Beliefs](https://gc.adventist.org/beliefs/); [Ligonier: Millennial Maze](https://learn.ligonier.org/articles/millennial-maze); [Probe: Four Views of Revelation](https://probe.org/four-views-of-revelation/). Full [comparison data and source scope](christian-interpretations.json).
+
 ## Passage audits
 
 ### Isaiah 7:10–17 — The young woman and Immanuel {#isaiah-7-14}
@@ -110,6 +118,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Original-context reading strong; historical miracle unverified
 - **Primary and scholarly sources:** [Hebrew Isaiah 7:14](https://biblehub.com/text/isaiah/7-14.htm); [Greek Matthew 1:23](https://biblehub.com/text/matthew/1-23.htm); [TheTorah: Jewish origins of Christmas story](https://www.thetorah.com/article/the-jewish-origins-of-the-christmas-story); [Yale Bible Study: Matthew ancestry and birth](https://yalebiblestudy.org/courses/the-gospel-of-matthew/lessons/ancestry-and-birth-study-guide/).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Christological/typological (Catholic and Orthodox):** Isaiah's sign to Ahaz retains its historical setting; Matthew reads the child/Immanuel motif through Jesus and Mary as a fuller Christ-centered sense. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
+  - **Direct messianic prediction (some evangelicals):** The verse is taken as an inspired prediction of Jesus' virginal conception, with Matthew's Greek citation governing the Christian interpretation. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
+
 ### Hosea 11:1–4 — Out of Egypt I called my son {#hosea-11-1}
 
 - **Original language:** כִּי נַעַר יִשְׂרָאֵל (when Israel was a boy)
@@ -119,6 +131,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** Hosea describes Israel's past Exodus. Matthew's quotation and retelling are explicit but do not independently confirm the family’s travel. The timing of the quotation within Matthew is a real interpretive issue.
 - **Provisional conclusion:** Earlier reference to Israel explicit; later typological use explicit
 - **Primary and scholarly sources:** [Hebrew Hosea 11:1](https://biblehub.com/text/hosea/11-1.htm); [Matthew 2:15](https://biblehub.com/text/matthew/2-15.htm); [TheTorah: Hosea 11 and Israel as a child](https://www.thetorah.com/article/israel-is-a-rebellious-child-yhwh-is-a-parent-but-not-a-person); [Yale Bible Study: Matthew and new Exodus](https://yalebiblestudy.org/courses/the-gospel-of-matthew/lessons/introduction-to-the-course-12/); [Seong-Kwang Kevin Kim (2019), The Use of Hosea 11:1 in Matthew 2:15](https://journal.kci.go.kr/ksots/archive/articleView?artiId=ART002505074).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Recapitulation of Israel (Catholic and Orthodox typology):** Hosea narrates Israel's former Exodus; Matthew presents Jesus as reenacting Israel's history rather than quoting an isolated future-birth forecast. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Prophetic double significance (some evangelicals):** The Exodus statement is read as intentionally capable of a later messianic fulfillment in Jesus; this is a theological claim about Scripture's wider design. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
 
 ### Jeremiah 31:15–17 — Rachel weeping for her children {#jeremiah-31-15}
 
@@ -130,6 +146,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Different historical referents documented; event evidence limited
 - **Primary and scholarly sources:** [Hebrew Jeremiah 31:15](https://biblehub.com/text/jeremiah/31-15.htm); [Matthew 2:17–18](https://www.biblegateway.com/passage/?search=Matthew+2%3A17-18&version=NRSVUE); [TheTorah: Jewish origins of Christmas story](https://www.thetorah.com/article/the-jewish-origins-of-the-christmas-story); [TheTorah: Rachel weeps in Ramah](https://www.thetorah.com/article/rachel-weeps-in-ramah-of-all-the-patriarchs-god-listens-only-to-her).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Lament and typology:** Rachel's grief over exile is treated as a type of the grief Matthew narrates in Bethlehem, even though Jeremiah originally anticipates a return. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
+  - **Predictive messianic pattern:** Some Christian readings treat Jeremiah's lament as a divinely foreseen echo of Herod's killing; Jeremiah itself does not name Herod. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
+
 ### Micah 5:2–5 (English numbering) — A ruler from Bethlehem {#micah-5-2}
 
 - **Original language:** בֵּית־לֶחֶם אֶפְרָתָה (Bethlehem Ephrathah)
@@ -139,6 +159,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** Micah contains a forward-looking Davidic royal oracle. The Bethlehem association may refer to Davidic origins as well as a locality; the two later nativity accounts do not supply independent contemporary corroboration of Jesus' precise birthplace.
 - **Provisional conclusion:** Earlier royal oracle clear; Bethlehem birth details unverified independently
 - **Primary and scholarly sources:** [Hebrew Micah 5:2](https://biblehub.com/text/micah/5-2.htm); [Matthew 2:5–6](https://www.biblegateway.com/passage/?search=Matthew+2%3A5-6&version=NRSVUE); [TheTorah: why Bethlehem](https://www.thetorah.com/article/the-jewish-origins-of-the-christmas-story); [Yale Matthew study guide](https://yalebiblestudy.org/courses/the-gospel-of-matthew/lessons/ancestry-and-birth-study-guide/).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Messianic ruler with historical horizon:** Christian readings identify the ruler with Jesus, while retaining the oracle's original hope for a new Davidic leader in Judah's crisis. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Literal place-of-birth prediction:** A common evangelical argument treats Bethlehem as a specific advance prediction realized by the Gospel birth accounts; the independent birthplace evidence remains separate. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
 
 ### Zechariah 9:9–10 — The king riding a donkey {#zechariah-9-9}
 
@@ -150,6 +174,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Textual reuse explicit; exact event details not independently established
 - **Primary and scholarly sources:** [Hebrew Zechariah 9:9](https://biblehub.com/text/zechariah/9-9.htm); [Matthew 21:4–7](https://www.biblegateway.com/passage/?search=Matthew+21%3A4-7&version=NRSVUE); [Yale on Matthew 21](https://yalebiblestudy.org/courses/the-gospel-of-matthew/lessons/stories-of-the-end-study-guide/); [Tucker S. Ferda (2020), Journal of Theological Studies](https://doi.org/10.1093/jts/flaa088); [Adam Kubiś (2018), Biblical Annals](https://doi.org/10.31743/ba.2018.8.2.04).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Jesus as humble king (liturgical/typological):** The entry into Jerusalem enacts the peaceful king's imagery and is commemorated in Christian Holy Week readings. [Representative context](https://www.oca.org/reflections/misc-authors/how-to-read-the-bible) (*Representative Orthodox typological and liturgical methodology.*)
+  - **Specific prediction fulfilled by entry details:** A predictive reading stresses the donkey and cheering crowd as intentionally forecast particulars; Gospel literary shaping remains a separate question. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
+
 ### Isaiah 52:13–53:12 — The suffering servant {#isaiah-53}
 
 - **Original language:** עַבְדִּי (my servant; Isaiah 52:13)
@@ -159,6 +187,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** New Testament identification of the servant with Jesus is explicit. Even if Jesus' execution is accepted historically, it does not independently prove that the poem originally referred to him or that its theological portrayal of suffering was an advance prediction.
 - **Provisional conclusion:** Servant identity debated; New Testament application documented
 - **Primary and scholarly sources:** [Hebrew Isaiah 52:13](https://biblehub.com/text/isaiah/52-13.htm); [Hebrew Isaiah 49:3](https://biblehub.com/text/isaiah/49-3.htm); [Acts 8:32–35](https://www.biblegateway.com/passage/?search=Acts+8%3A32-35&version=NRSVUE); [Yale: Second Isaiah suffering servant](https://yalebiblestudy.org/courses/second-isaiah/lessons/arm-of-god-study-guide/); [TheTorah: suffering servant interpretive reception](https://www.thetorah.com/article/the-skin-of-the-metzora-and-the-heart-of-the-messiah); [Hebrew Isaiah 49:5, servant commissioned to restore Israel](https://biblehub.com/text/isaiah/49-5.htm).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Christ's passion as fulfillment (Catholic and Orthodox):** The servant's humiliation and vindication are read in light of Jesus' suffering, death, and resurrection, while servant identity in Isaiah remains a question of original context. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Direct individual messianic forecast (some evangelicals):** The servant is understood as Jesus personally and in advance, including suffering for others' sins; the predictive interpretation requires an argument about Isaiah's original referent. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
 
 ### Psalm 22 — My God, why have you forsaken me? {#psalm-22}
 
@@ -170,6 +202,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Ancient reading variation documented; prophetic status is interpretive
 - **Primary and scholarly sources:** [Masoretic Hebrew Psalm 22:17](https://biblehub.com/text/psalms/22-17.htm); [Shon D. Hopkin (2005), BYU Studies](https://scholarsarchive.byu.edu/byusq/vol44/iss3/9/); [Brent A. Strawn (2000), Journal of Biblical Literature](https://doi.org/10.2307/3268408); [NET Bible notes, Psalm 22](https://classic.net.bible.org/passage.php?passage=Psa+22%3A16-17); [Matthew 27:46](https://www.biblegateway.com/passage/?search=Matthew+27%3A46&version=NRSVUE); [John 19:24](https://www.biblegateway.com/passage/?search=John+19%3A24&version=NRSVUE).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Christological lament/typology:** The psalm is an ancient lament prayed through Christ's crucifixion; its first-person suffering can be reread liturgically without proving every line was an isolated prediction. [Representative context](https://www.oca.org/reflections/misc-authors/how-to-read-the-bible) (*Representative Orthodox typological and liturgical methodology.*)
+  - **Detailed passion prophecy:** Other Christians emphasize pierced/hurt imagery, casting lots, and the crucifixion narratives as specific foretold facts; translation variants and quotation must be considered. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
+
 ### Isaiah 40:3–5 — The voice in the wilderness {#isaiah-40-3}
 
 - **Original language:** קֹול קֹורֵא בַּמִּדְבָּר (a voice calls: in the wilderness...)
@@ -179,6 +215,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** Hebrew parallelism and Greek translation structure support distinct construals; the New Testament application is explicit. The earlier text does not name John the Baptist.
 - **Provisional conclusion:** Literary and translation shift documented
 - **Primary and scholarly sources:** [Hebrew Isaiah 40:3](https://biblehub.com/text/isaiah/40-3.htm); [Greek Mark 1:3](https://biblehub.com/text/mark/1-3.htm); [David M. Freidenreich, TheTorah (2026): Hebrew and Greek compared](https://www.thetorah.com/article/a-voice-cries-out-in-the-wilderness-isaiah-translated-and-improved).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **New Exodus preparation:** The Gospels' use of the wilderness voice is viewed as a typological new exodus and John the Baptist's ministry as Christ's herald. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Predicted forerunner:** A direct-fulfillment reading takes Isaiah as intentionally forecasting John the Baptist; the original restoration setting remains integral to the Hebrew text. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
 
 ### Jeremiah 46:13–26 — Babylon's predicted conquest of Egypt {#jeremiah-46-egypt}
 
@@ -190,6 +230,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Predicted full conquest not documented; partial attacks documented; textual layers debated
 - **Primary and scholarly sources:** [Hebrew Jeremiah 46:13](https://biblehub.com/text/jeremiah/46-13.htm); [Dan'el Kahn (2022), TheTorah](https://www.thetorah.com/article/nebuchadnezzar-fails-to-conquer-egypt-so-jeremiahs-prophecy-was-updated).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Historical campaign and conditional/oracular imagery:** Some Christian interpreters connect the oracle to Nebuchadnezzar's military reach while treating totality formulas as prophetic rhetoric rather than comprehensive census data. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Sequential or unfinished fulfillment:** Others expect later stages of judgment or a larger fulfillment beyond the attested Babylonian campaigns; that proposal needs its own evidence rather than being assumed. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
+
 ### Ezekiel 29:8–16; 29:17–21 — Egypt uninhabited for forty years {#ezekiel-29-egypt}
 
 - **Original language:** אַרְבָּעִים שָׁנָה (forty years)
@@ -199,6 +243,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** No independently verified Egyptian history supports forty years of the entire country being uninhabited. Babylonian attacks occurred, but the available record does not establish complete depopulation on the prophesied scale. Interpretive debate remains over the imagery and intended literalness.
 - **Provisional conclusion:** Literal fulfillment unsupported by known independent record
 - **Primary and scholarly sources:** [Hebrew Ezekiel 29:11](https://biblehub.com/text/ezekiel/29-11.htm); [Ezekiel 29:17–21](https://www.biblegateway.com/passage/?search=Ezekiel+29%3A17-21&version=NRSVUE); [Dan'el Kahn (2022), Egyptian and Babylonian evidence](https://www.thetorah.com/article/nebuchadnezzar-fails-to-conquer-egypt-so-jeremiahs-prophecy-was-updated).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Prophetic hyperbole and historical judgment:** Some Christian readings treat the forty-year devastation and loss-of-power phrases as stylized judgment language with a sixth-century historical frame. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Literal yet future or layered judgment:** Others try to preserve the forty-year uninhabited period as literal or deferred; the claimed chronology has no independently established match in the audit. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
 
 ### Jonah 3:4–10; Jeremiah 18:7–10 — Forty days until Nineveh's overthrow {#jonah-3-warning}
 
@@ -211,6 +259,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Primary and scholarly sources:** [Hebrew Jonah 3:4](https://biblehub.com/text/jonah/3-4.htm); [Jonah 3:10](https://www.biblegateway.com/passage/?search=Jonah+3%3A10&version=NRSVUE); [Jeremiah 18:7–10](https://www.biblegateway.com/passage/?search=Jeremiah+18%3A7-10&version=NRSVUE).
 
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Conditional warning:** Jonah's threatened judgment is contingent on Nineveh's repentance; this fits Christian preaching that prophecy can call for changed conduct rather than an unavoidable date. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Christological sign of Jonah:** Christians also read Jonah's story as prefiguring death and resurrection through Matthew 12:40; this is a different New Testament use than the forty-day threat. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
+
 ### No surviving identifiable scriptural quotation — He will be called a Nazarene {#nazorean-matthew-2-23}
 
 - **Original language:** Ναζωραῖος κληθήσεται (Greek Matthew 2:23, 'he will be called a Nazarene'); no corresponding Hebrew prophecy text is known
@@ -220,6 +272,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** Matthew 2:23 is verifiable. The lack of an extant matching oracle prevents word-for-word comparison or independent confirmation that 'Nazarene' was predicted; proposed Hebrew wordplays remain hypotheses.
 - **Provisional conclusion:** Fulfillment claim explicit; original quoted source unidentified
 - **Primary and scholarly sources:** [Matthew 2:23 with NET translation notes](https://classic.net.bible.org/verse.php?book=Mat&chapter=2&verse=23); [Matthew 2:23 Greek text](https://biblehub.com/text/matthew/2-23.htm); [Isaiah 11:1 (netser) comparison](https://biblehub.com/text/isaiah/11-1.htm).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Thematic synthesis:** Some Christian commentators understand Matthew's plural 'prophets' as a summary of lowly or despised messianic origins, not a recoverable quoted verse. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
+  - **Wordplay or Nazirite association:** Alternative Christian proposals link 'Nazarene' to Hebrew wordplay or Nazirite motifs; none is a secure surviving direct source for Matthew's exact line. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
 
 ### Isaiah 8:23–9:1 (Hebrew numbering; English Isaiah 9:1–2) — Great light in Galilee {#isaiah-9-galilee-matthew-4}
 
@@ -231,6 +287,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Earlier northern-restoration imagery and later application documented; supernatural forecast unverified
 - **Primary and scholarly sources:** [Isaiah 9:1–2 and Matthew 4:14–16](https://www.biblegateway.com/passage/?search=Isaiah+9%3A1-2%2CMatthew+4%3A14-16&version=NIV); [Hebrew Isaiah 9:2](https://biblehub.com/text/isaiah/9-2.htm); [Richard Beaton, Isaiah's Christ in Matthew's Gospel (2002), research program](https://assets.cambridge.org/97805218/18889/sample/9780521818889ws.pdf).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Restoration fulfilled in Jesus' ministry:** Galilee's promised light is read as light brought by Jesus' teaching and healing after an earlier northern-Israel crisis. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Messianic geographic prediction:** Some Christians read Galilee as specifically and intentionally forecasting where Jesus would begin his ministry; the original restoration imagery has its own referent. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
+
 ### Isaiah 53:4 — He took our infirmities {#isaiah-53-4-healing}
 
 - **Original language:** חֳלָיֵנוּ הוּא נָשָׂא וּמַכְאֹבֵינוּ סְבָלָם ('our sicknesses he bore, our pains he carried')
@@ -240,6 +300,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** The verbal source and Hebrew–Septuagint difference are independently inspectable. Matthew's literary explanation for healings does not independently establish that the reported miracles occurred, nor prove an original forecast of Jesus.
 - **Provisional conclusion:** Explicit citation and identifiable translation choice; specific theological significance debated
 - **Primary and scholarly sources:** [Isaiah 53:4 / Matthew 8:17 parallel](https://www.biblegateway.com/passage/?search=Matthew+8%3A17%2CIsaiah+53%3A4&version=NIV); [Hebrew Isaiah 53:4](https://biblehub.com/text/isaiah/53-4.htm); [Greek Septuagint comparison](https://intertextual.bible/text/isaiah-53.4/lxx-isaiah-53.4); [Rikk Watts (2015), Journal for the Study of the New Testament](https://doi.org/10.1177/0142064X15595940).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Healing as embodied salvation:** Matthew's healing stories are read as sharing the servant's burden-bearing work, not solely as the later substitutionary death theology. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
+  - **Atonement and healing fulfillment:** Other evangelical/pentecostal readings connect the verse to physical healing purchased in Christ's suffering, a disputed extension beyond Matthew's context. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
 
 ### Isaiah 42:1–4 — The quiet servant bringing justice {#isaiah-42-servant-matthew-12}
 
@@ -251,6 +315,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Text-to-text use direct; earlier servant identity and fulfillment interpretation disputed
 - **Primary and scholarly sources:** [Hebrew Isaiah 42:1–4](https://www.biblegateway.com/passage/?search=Isaiah+42%3A1-4&version=NRSVUE); [Matthew 12:17–21 and Isaiah 42:1–4](https://www.biblegateway.com/passage/?search=Matthew+12%3A17-21%2CIsaiah+42%3A1-4&version=NIV); [Richard Beaton (2000), Matthew's use of Isaiah 42](https://doi.org/10.1177/0142064X0002207502); [Richard Beaton, Isaiah's Christ in Matthew's Gospel (2002)](https://assets.cambridge.org/97805218/18889/sample/9780521818889ws.pdf).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Servant pattern realized in Jesus:** Jesus' quiet justice and care are read as typological or messianic realization of Isaiah's servant, interpreted within the poem's original mission language. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Direct Christ prediction:** Another Christian line treats the entire description as the prophet's advance portrait of Jesus' public conduct and ministry. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
+
 ### Psalm 78:1–8 (especially 78:2) — I will open my mouth in parables {#psalm-78-parables-matthew-13}
 
 - **Original language:** אֶפְתְּחָה בְמָשָׁל פִּי ('I will open my mouth with a parable')
@@ -260,6 +328,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** The older psalm and Matthew's citation are directly comparable; the choice of literary quotation does not independently prove historicity of every speech of Jesus. NET and NABRE textual notes document the rare Matthew 'Isaiah' variant.
 - **Provisional conclusion:** Earlier retrospective instruction and later reuse established; minor NT textual variant noted
 - **Primary and scholarly sources:** [Psalm 78:2 / Matthew 13:35 parallel](https://www.biblegateway.com/passage/?search=Psalm+78%3A2%2CMatthew+13%3A35&version=NABRE); [Hebrew Psalm 78:2](https://biblehub.com/text/psalms/78-2.htm); [NET textual note Matthew 13:35](https://classic.net.bible.org/passage.php?passage=Mat+13%3A35); [Yale Bible Study on Matthew's parables](https://yalebiblestudy.org/courses/the-gospel-of-matthew/lessons/controversies-and-parables-study-guide/).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Scriptural pattern of teaching:** The ancient historical instruction psalm models the kind of wise teaching that Matthew describes as fulfilled in Jesus' parables. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
+  - **Specific prediction about Jesus' teaching:** A direct-forecast account regards 'open my mouth in parables' as foretelling Jesus; the psalm itself speaks retrospectively about Israel's history. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
 
 ### Zechariah 11:12–13 (and debated allusions to Jeremiah 18–19; 32) — Thirty silver pieces attributed to Jeremiah {#zechariah-11-silver-matthew-27}
 
@@ -271,6 +343,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Zechariah source and Jeremiah attribution verifiable; precise cause of misattribution debated
 - **Primary and scholarly sources:** [NRSVUE Zechariah 11:12–13 vs Matthew 27:9–10](https://www.biblegateway.com/passage/?search=Zechariah+11%3A12-13%3B+Matthew+27%3A9-10&version=NRSVUE); [Zechariah 11:12 Hebrew](https://biblehub.com/text/zechariah/11-12.htm); [Maarten J.J. Menken (2002), Biblica 83](https://www.bsw.org/biblica/vol-83-2002/the-old-testament-quotation-in-matthew-27-9-10-textual-form-and-context/238/article-p309.html); [Jeremiah 32:6–9 for comparison](https://www.biblegateway.com/passage/?search=Jeremiah+32%3A6-9&version=NRSVUE).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Figural convergence of prophetic themes:** Christians may understand Matthew as intertwining Zechariah's rejected shepherd and Jeremiah's potter/field themes to interpret betrayal and blood money. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
+  - **Specific thirty-piece forecast:** Others treat the price as a precise prophecy about Judas; Matthew's attribution to Jeremiah and the distinct earlier contexts still need explanation. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
+
 ### Isaiah 61:1–2; 58:6 (Greek textual combination) — Good news, liberation, and the omitted day of vengeance {#isaiah-61-luke-4}
 
 - **Original language:** רוּחַ אֲדֹנָי יְהוִה עָלָי (Spirit of the Lord YHWH is upon me); Luke draws on Greek Isaiah 61 and 58
@@ -280,6 +356,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** The differences between Isaiah's Hebrew, Old Greek, and Luke's quotation are directly visible. The narrated synagogue encounter establishes Luke's literary depiction, not independently verified firsthand testimony about a historical speech.
 - **Provisional conclusion:** Quote and editorial changes directly checkable; historical speech uncorroborated
 - **Primary and scholarly sources:** [Isaiah 61:1–2 in NRSVUE](https://www.biblegateway.com/passage/?search=Isaiah+61%3A1-2&version=NRSVUE); [Luke 4:18–21 in NRSVUE](https://www.biblegateway.com/passage/?search=Luke+4%3A18-21&version=NRSVUE); [Greek and Hebrew comparison (with Timothy Michael Law 2013)](https://intertextual.bible/text/lxx-isaiah-61.1/luke-4.18); [Peer-reviewed analysis, HTS Teologiese Studies (2018)](https://scielo.org.za/scielo.php?pid=S0259-94222018000100058&script=sci_arttext).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Messiah inaugurates restoration:** Jesus' synagogue reading is seen as the beginning of liberation and good news; Luke's shortened selection shapes a present ministry announcement. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Two-advent or deferred vengeance reading:** A popular futurist Christian reading takes the omitted 'day of vengeance' as deferred to Jesus' future return, distinguishing first and second advents. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
 
 ### Joel 2:28–32 (Hebrew 3:1–5) — Afterward becomes in the last days {#joel-2-acts-2}
 
@@ -291,6 +371,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Original/Acts time-language difference confirmed; supernatural fulfillment a faith claim
 - **Primary and scholarly sources:** [NRSVUE Joel 2:28 and Acts 2:17 compared](https://www.biblegateway.com/passage/?search=Joel+2%3A28%2CActs+2%3A17&version=NRSVUE); [Hebrew Joel 2:28](https://biblehub.com/text/joel/2-28.htm); [Acts 2:16–21 context](https://www.biblegateway.com/passage/?search=Acts+2%3A16-21&version=NRSVUE).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Pentecost as inaugurated fulfillment:** Acts announces the Spirit promise has begun among Jesus' followers, while cosmic imagery may be read as prophetic language or a still-future consummation. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
+  - **First installment before a future Day of the Lord:** Futurist readings take the outpouring as partial and the cosmic portents as awaiting a final tribulation and return. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
+
 ### Amos 9:11–12 — Edom possessed or humankind seeking God? {#amos-9-acts-15}
 
 - **Original language:** לְמַעַן יִירְשׁוּ אֶת־שְׁאֵרִית אֱדוֹם (so they may possess the remnant of Edom)
@@ -300,6 +384,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** Hebrew Amos, Old Greek, and Acts 15 can be compared. James D. Nogalski (2015) traces three stages of the text's interpretation. The Acts account itself is not independent proof the earlier author foresaw a specific first-century council.
 - **Provisional conclusion:** Substantial source-language difference documented; exact translation-history mechanism debated
 - **Primary and scholarly sources:** [Amos 9:11–12 Hebrew/English](https://www.biblegateway.com/passage/?search=Amos+9%3A11-12&version=NRSVUE); [Acts 15:16–18 text](https://www.biblegateway.com/passage/?search=Acts+15%3A16-18&version=NRSVUE); [James D. Nogalski (2015), Three Faces of Hope](https://doi.org/10.1177/0034637315578828); [Septuagint/Hebrew details as secondary comparative source](https://historicalchristian.faith/doctrine/doctrines/nt-use-of-ot/arguments/amos-9-11-12.html).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Gentile inclusion through restoration:** Acts' Greek quotation supports including Gentiles in God's people as Davidic restoration unfolds in the church. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
+  - **National restoration with future dimension:** Some premillennial evangelical readings retain a future national or territorial fulfillment for Israel alongside the Gentile inclusion in Acts. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
 
 ### Zechariah 12:10–14 — Look on the one they pierced {#zechariah-12-john-19}
 
@@ -311,6 +399,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Original and later wording documented; intended historical identity and textual route disputed
 - **Primary and scholarly sources:** [Hebrew Zechariah 12:10](https://biblehub.com/text/zechariah/12-10.htm); [John 19:37](https://biblehub.com/text/john/19-37.htm); [Adam Kubiś on Zechariah in John (2012)](https://intertextual.bible/text/zechariah-12.10/john-19.37); [Jewish interpretive perspective](https://jewsforjudaism.org/knowledge/articles/does-john-1937-misquote-zechariah-1210/).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Pierced one reread in the passion:** John's crucifixion account gives Zechariah's mourned figure a Christological referent, distinct from identifying the person addressed in Zechariah's first setting. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Final Israelite recognition:** Some futurist readings pair John with Revelation 1:7 and expect a future national turning at Christ's visible return. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
+
 ### Jeremiah 31:31–34 — A new covenant for Israel and Judah {#jeremiah-31-hebrews-8}
 
 - **Original language:** וְכָרַתִּי ... בְּרִית חֲדָשָׁה ('I will make ... a new covenant')
@@ -320,6 +412,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** The shared wording is observable. The earlier text specifically names Israel and Judah; it does not name Jesus. Religious conclusions about superseding Judaism depend on later interpretation, and there is no independent historical observation that can confirm a divine covenant transfer.
 - **Provisional conclusion:** Quotation documented; theological and supersessionist readings disputed
 - **Primary and scholarly sources:** [Jeremiah 31:31–34 NRSVUE](https://www.biblegateway.com/passage/?search=Jeremiah+31%3A31-34&version=NRSVUE); [Hebrews 8:8–13 NRSVUE](https://www.biblegateway.com/passage/?search=Hebrews+8%3A8-13&version=NRSVUE); [Nicholas J. Moore (2024), Supersessionism and the Cult Attitude of Stephen and Hebrews](https://doi.org/10.1177/00211400241230995); [Ted Goshorn (2016), Emory thesis on non-supersessionist covenant readings](https://etd.library.emory.edu/concern/etds/s1784m67g?locale=en).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **New covenant inaugurated in Christ:** Christians read the promise as active in Christ's teaching, death and community; Catholic theology affirms the Old Testament's enduring value rather than total cancellation. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
+  - **Future national covenant completion:** Some dispensational readings distinguish the church's current participation from a future covenant fulfillment involving ethnic Israel. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
 
 ### Isaiah 6:9–10 — Hearing but not understanding {#isaiah-6-matthew-13}
 
@@ -331,6 +427,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Direct biblical quotations verifiable; original referent distinct from later application
 - **Primary and scholarly sources:** [Isaiah 6:9–10 compared with Matthew 13:14–15](https://www.biblegateway.com/passage/?search=Isaiah+6%3A9-10%2CMatthew+13%3A14-15&version=NIV); [NET Bible notes on Matthew 13:14–15](https://classic.net.bible.org/passage.php/passage.php?passage=Mat+13%3A14%2C15); [International Critical Commentary on Matthew 13](https://biblehub.com/commentaries/icc/matthew/13.htm); [John 12:40 Greek text](https://biblehub.com/text/john/12-40.htm).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Recurring prophetic resistance:** Jesus' parables are read as an echo of Isaiah's difficult prophetic mission, with a new setting but a comparable pattern of hearing without understanding. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
+  - **God's sovereign judgment:** Some Reformed accounts emphasize hardening as divine judgment; other Christians emphasize human culpability and warning rather than predestination. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
+
 ### Zechariah 13:7–9 — Strike the shepherd, and the sheep will scatter {#zechariah-13-matthew-26}
 
 - **Original language:** הַךְ אֶת־הָרֹעֶה וּתְפוּצֶיןָ הַצֹּאן (Hebrew imperative: strike the shepherd and let the sheep be scattered)
@@ -340,6 +440,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** The textual forms, including imperatives and future speech, are directly available. Matthew's narration of flight is not independent verification that the ancient oracle was a prediction about Jesus or that events occurred exactly as portrayed.
 - **Provisional conclusion:** Quotational reuse explicit; original shepherd identity and historical fulfillment disputed
 - **Primary and scholarly sources:** [Hebrew Zechariah 13:7](https://biblehub.com/text/zechariah/13-7.htm); [Matthew 26:31 and 26:56](https://www.biblegateway.com/passage/?search=Matthew+26%3A31%2C56&version=NRSVUE); [Maarten J. J. Menken (2011), Biblica 92, pp. 39–59](https://www.bsw.org/biblica/vol-92-2011/striking-the-shepherd-early-christian-versions-and-interpretations-of-zechariah-13-7/461/article-p58.html); [The Use and Reception of the Prophets in the New Testament (2022)](https://www.mdpi.com/2077-1444/13/4/304).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **The shepherd's scattering as passion typology:** Jesus interprets the disciples' flight through Zechariah's shepherd image and subsequent restoration. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Advance forecast of disciples' desertion:** Other Christian apologetic readings treat the flight as a specifically predicted event; the Gospel's own citation is the direct evidence for that interpretation. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
 
 ### No single earlier scripture identified in Matthew 26:54, 56 — All this to fulfill the scriptures of the prophets {#matthew-26-scriptures-unspecified}
 
@@ -351,6 +455,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Generic scriptural claim documented; exact set of earlier passages unspecified
 - **Primary and scholarly sources:** [Matthew 26:54–56 in parallel translations](https://www.biblegateway.com/passage/?search=Matthew+26%3A54-56&version=ESV%3BKJV%3BNASB%3BNKJV); [Matthew 26:31 and Zechariah 13:7 parallel](https://intertextual.bible/text/zechariah-13.7/matthew-26.31); [ESV cross references for unspecified fulfillment claims](https://www.esv.org/Mt26.54%3BMt26.56%3BMk9.12%3BLk18.31%3BLk24.25-27%3BLk24.46%3BAc17.2-3%3BAc26.22-23%3B1Co15.3%3B1P1.10-11/).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Canonical/typological whole-scripture reading:** The broader passion story is interpreted as cohering with many earlier texts without identifying one recoverable sentence as 'the prophecy'. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
+  - **Composite predictive fulfillment:** Apologists sometimes assemble Isaiah 53, Zechariah and psalms as detailed forecasts; that collection must be justified text by text. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
+
 ### Psalm 41:9 (Hebrew 41:10) — A trusted table companion turns against the speaker {#psalm-41-john-13}
 
 - **Original language:** גַּם־אִישׁ שְׁלוֹמִי ... אוֹכֵל לַחְמִי ... הִגְדִּיל עָלַי עָקֵב ('even the man of my peace ... who eats my bread ... has raised a heel against me')
@@ -360,6 +468,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** We can verify the Hebrew idiom, John’s quotation, and the contextual shift. The reuse is evidence of literary-theological interpretation; it is not an independently dated record that the historical Judas fulfilled a named advance prediction.
 - **Provisional conclusion:** Direct quotation verified; original poem about betrayal; advance-prediction claim unsupported
 - **Primary and scholarly sources:** [Hebrew Psalm 41:9](https://biblehub.com/text/psalms/41-9.htm); [Greek John 13:18](https://biblehub.com/text/john/13-18.htm); [Primary comparison with Craig S. Keener commentary](https://intertextual.bible/text/psalm-41.9/john-13.18); [Psalm 41:9 and John 13:18 translations](https://www.biblegateway.com/passage/?search=Psalm+41%3A9%3BJohn+13%3A18&version=NRSVUE).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Betrayed righteous sufferer:** The lament of a betrayed person becomes a figure for Jesus' betrayal by Judas in John's narrative. [Representative context](https://www.oca.org/reflections/misc-authors/how-to-read-the-bible) (*Representative Orthodox typological and liturgical methodology.*)
+  - **Foreknowledge of Judas:** A direct-prophecy reading treats the line as a prediction of the specific betrayer; the psalm's prior first-person voice remains distinct. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
 
 ### Psalm 16:8–11 — You will not abandon me to Sheol or decay {#psalm-16-acts-2}
 
@@ -371,6 +483,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Greek wording materially informs Acts' argument; supernatural conclusion unverified independently
 - **Primary and scholarly sources:** [Hebrew Psalm 16:10](https://biblehub.com/text/psalms/16-10.htm); [Greek Acts 2:27](https://biblehub.com/text/acts/2-27.htm); [The Use of Psalm 16:8–11 in Acts 2:25–28 (Bible.org study)](https://bible.org/article/use-psalm-168-11-acts-225-28); [Acts 2:25–31 / Psalm 16:8–11 NRSVue](https://www.biblegateway.com/passage/?search=Acts+2%3A25-31%3BPsalm+16%3A8-11&version=NRSVUE); [Brown–Driver–Briggs, Hebrew shachat (pit)](https://biblehub.com/hebrew/7845.htm).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Resurrection reading mediated by Acts:** Peter's speech interprets the psalm's hope of deliverance from Sheol and decay in light of Jesus' resurrection. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
+  - **David prophetically foresaw Jesus' resurrection:** A direct-prediction reading emphasizes Acts' contrast between David's death and Jesus' raising; Peter's recorded reasoning is evidence of this Christian claim. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
+
 ### Deuteronomy 18:15–22 (possible combined wording from Leviticus 23:29 or Numbers 15:30–31) — The prophet like Moses and the changed punishment {#deuteronomy-18-acts-3}
 
 - **Original language:** נָבִיא מִקִּרְבְּךָ מֵאַחֶיךָ כָּמֹנִי ('a prophet from among you, from your kin, like me'); Acts adds ἐξολεθρευθήσεται ἐκ τοῦ λαοῦ ('will be rooted out from the people')
@@ -380,6 +496,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** The difference between Hebrew Deuteronomy and Acts and the added sanction are directly observable. The Acts quotation establishes what its author believed about Jesus; it does not independently confirm that Deuteronomy's author intended Jesus.
 - **Provisional conclusion:** Textual shift and Christian application verified; composite source and original intent debated
 - **Primary and scholarly sources:** [Hebrew Deuteronomy 18:15](https://biblehub.com/text/deuteronomy/18-15.htm); [Greek Acts 3:22–23](https://www.biblegateway.com/passage/?search=Acts+3%3A22-23&version=SBLGNT); [Stephen L. Cook, Oxford Handbook of Deuteronomy (2021)](https://academic.oup.com/edited-volume/34717/chapter-abstract/296452274); [Christoph W. Stenschke, 'The prophet like Moses' (2021)](https://verbumetecclesia.org.za/index.php/ve/article/view/1962/0); [Eric J. Brewer, 'The Prophet like Moses and the Word of the Lord' (NTS 2024; posted 2025)](https://doi.org/10.1017/S0028688524000134).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Jesus as new Moses:** Christian typology reads the prophetic succession promise as reaching a climactic embodiment in Jesus. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Single predicted Messiah:** Some direct-fulfillment approaches treat the promised 'prophet like Moses' as Jesus alone, while the Deuteronomic text's original succession setting remains part of the debate. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
 
 ### Exodus 12:46; Numbers 9:12; compare Psalm 34:20 — The Passover bone rule applied to Jesus {#unbroken-bones-john-19}
 
@@ -391,6 +511,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Ritual-to-fulfillment reuse documented; precise literary source composite/disputed
 - **Primary and scholarly sources:** [Hebrew Exodus 12:46](https://biblehub.com/text/exodus/12-46.htm); [Numbers 9:12 NRSVue](https://www.biblegateway.com/passage/?search=Numbers+9%3A12&version=NRSVUE); [Psalm 34:20 NRSVue](https://www.biblegateway.com/passage/?search=Psalm+34%3A20&version=NRSVUE); [Greek John 19:36](https://biblehub.com/text/john/19-36.htm); [NET notes, John 19:36–37](https://classic.net.bible.org/passage.php?passage=Joh+19%3A36%2C37); [United Bible Societies Handbook, John 19:36](https://tips.translation.bible/tip_verse/john-1936/).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Paschal-lamb typology:** The Passover ritual rule becomes a Christological image of Jesus' death as the Christian Passover lamb. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
+  - **Specific unbroken-bone prediction:** Other readings present the detail as a discrete prediction that Jesus' legs would not be broken; the earliest rule is an instruction for preparing Passover offerings. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
+
 ### Psalm 2:6–7 — Today I have begotten you {#psalm-2-acts-13}
 
 - **Original language:** בְּנִי אַתָּה אֲנִי הַיּוֹם יְלִדְתִּיךָ ('you are my son; today I have begotten you')
@@ -400,6 +524,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** The earlier poem and Acts quotation are verifiable. Modern scholarship links the early Christian reading to resurrection and heavenly enthronement motifs, but the older verse itself does not name Jesus or independently establish that he rose from the dead.
 - **Provisional conclusion:** Royal formula and later reuse verified; precise Acts 13:33 referent disputed
 - **Primary and scholarly sources:** [Hebrew Psalm 2:7](https://biblehub.com/text/psalms/2-7.htm); [Acts 13:32–35 NRSVue](https://www.biblegateway.com/passage/?search=Acts+13%3A32-35&version=NRSVUE); [Lee Hyung-il (2012), role of Psalm 2:6 in Acts 13:33](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001679202); [Hebrews 1:5 NRSVue](https://www.biblegateway.com/passage/?search=Hebrews+1%3A5&version=NRSVUE).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Royal enthronement fulfilled in resurrection:** The Davidic coronation formula is applied to Christ's exaltation, although Acts' application of 'raising' remains debated. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Messiah's eternal divine sonship:** Some Christian dogmatic readings connect 'begotten' to the eternal relationship of Father and Son; the psalm's original royal enthronement usage must be separately described. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
 
 ### Isaiah 53:1 (within Isaiah 52:13–53:12) — Who believed the report? {#isaiah-53-1-john-12}
 
@@ -411,6 +539,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Explicit use and earlier servant context confirmed; independent verification of signs absent
 - **Primary and scholarly sources:** [Hebrew Isaiah 53:1](https://biblehub.com/text/isaiah/53-1.htm); [Greek John 12:38](https://biblehub.com/text/john/12-38.htm); [NET notes on John 12:38–41](https://classic.net.bible.org/passage.php?passage=joh+12%3A38-41); [Yale Bible Study, Isaiah 52–53](https://yalebiblestudy.org/courses/second-isaiah/lessons/arm-of-god-study-guide/).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Suffering-servant message meets unbelief:** John uses the servant's lament to frame rejection of Jesus' signs; earlier servant identity and first-audience meaning remain historical questions. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Specific predicted rejection of Jesus:** A predictive evangelical reading takes the unbelief itself as foretold and fulfilled by the Gospel narrative. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
+
 ### Isaiah 6:1–13, especially 6:9–10 — Isaiah saw whose glory? {#isaiah-6-john-12}
 
 - **Original language:** הַשְׁמֵן לֵב־הָעָם הַזֶּה ... וְעֵינָיו הָשַׁע (Hebrew commands to make this people's heart dull and shut its eyes); John: τετύφλωκεν αὐτῶν τοὺς ὀφθαλμοὺς ('he has blinded their eyes')
@@ -420,6 +552,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** The source-text differences and John's theological claim are direct textual observations. They do not independently establish that Isaiah saw Jesus, nor settle difficult ethical questions about responsibility if God hardens people.
 - **Provisional conclusion:** Original referent and Johannine christological rereading documented; mechanism and ethics debated
 - **Primary and scholarly sources:** [Hebrew Isaiah 6:10](https://biblehub.com/text/isaiah/6-10.htm); [Greek John 12:40–41](https://www.biblegateway.com/passage/?search=John+12%3A39-41&version=SBLGNT); [NET notes on Isaiah's glory and blinding in John](https://classic.net.bible.org/passage.php?passage=joh+12%3A38-41); [Matthew 13:14–15 contrast](https://www.biblegateway.com/passage/?search=Matthew+13%3A14-15&version=NRSVUE).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Christological reading of Isaiah's glory:** John identifies Isaiah's vision with the glory seen through Jesus, a theological rereading of the older temple scene. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Sovereign judicial hardening:** Some Christians give more weight to predestination in the hardening language; others interpret it as warning of repeated human rejection. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
 
 ### Hosea 2:23 and 1:10 (Hebrew 2:25 and 2:1) — Israel's restoration applied to Gentiles {#hosea-romans-9-gentiles}
 
@@ -431,6 +567,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Shift from Israel to Gentile inclusion documented; hermeneutical warrant debated
 - **Primary and scholarly sources:** [Hebrew Hosea 2:23](https://biblehub.com/text/hosea/2-23.htm); [Romans 9:24–26](https://www.biblegateway.com/passage/?search=Romans+9%3A24-26&version=NRSVUE); [Richard B. Hays, Echoes of Scripture in the Letters of Paul (1989), excerpt](https://intertextual.bible/text/hosea-2.23/romans-9.25); [Study of the Hosea to Gentile interpretation (2017)](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002267609).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Expanded covenant people in Christ:** Paul's application of Israel-restoration language to Gentiles is read as incorporation into a widened people of God. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
+  - **Continued distinction of Israel and church:** Some dispensational readings treat Gentile inclusion as real without claiming Hosea's original promises to Israel are entirely exhausted. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
+
 ### Isaiah 59:20–21; Isaiah 27:9 — Does the deliverer come to, for, or from Zion? {#isaiah-59-romans-11-zion}
 
 - **Original language:** Hebrew Isaiah 59:20 לְצִיּוֹן ('to Zion'); old Greek ἕνεκεν Σιών ('for the sake of Zion'); Romans 11:26 ἐκ Σιών ('from Zion')
@@ -440,6 +580,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** The three distinct prepositions and the composite quotation are textually verifiable; their theological significance is debated. This does not establish fulfillment of a miraculous deliverance or clarify, on its own, the meaning of 'all Israel'.
 - **Provisional conclusion:** Textual directional shift certain in surviving witnesses; motive and fulfillment disputed
 - **Primary and scholarly sources:** [Hebrew Isaiah 59:20](https://biblehub.com/text/isaiah/59-20.htm); [Greek Romans 11:26](https://biblehub.com/text/romans/11-26.htm); [J. R. Daniel Kirk, JSNT 33 (2010)](https://doi.org/10.1177/0142064X10376003); [Kyoung Shik Kim, Romans 11:26–27 Ek Sion (2014)](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001883050); [Isaiah 27:9](https://www.biblegateway.com/passage/?search=Isaiah+27%3A9&version=NRSVUE).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Future hope for Israel in God's mercy:** Paul's composite citation is read as including Israel in God's saving purposes; Christian interpretations disagree over national, ecclesial and eschatological scope. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
+  - **Future national deliverance:** Dispensational and other premillennial readers commonly expect a distinctive future salvation of Israel tied to Christ's return. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
 
 ### Psalm 2:7; 2 Samuel 7:12–16 — The adopted royal son and the angel comparison {#hebrews-1-5-royal-son}
 
@@ -451,6 +595,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Pairing and older royal context certain; theological entailments subject to interpretation
 - **Primary and scholarly sources:** [Hebrew Psalm 2:7](https://biblehub.com/text/psalms/2-7.htm); [2 Samuel 7:12–16 NRSVUE](https://www.biblegateway.com/passage/?search=2+Samuel+7%3A12-16&version=NRSVUE); [Hebrews 1:5 NRSVUE](https://www.biblegateway.com/passage/?search=Hebrews+1%3A5&version=NRSVUE); [Sung Kook Jung (2014), Uses of Psalm 2 and 2 Samuel 7 in Hebrews 1:5](https://kiss.kstudy.com/Detail/Ar?key=3359440); [Gert J. Steyn (2003), Psalm 2 in Hebrews](https://journals.co.za/doi/10.10520/EJC83141).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Christ as ultimate Davidic king:** Hebrews rereads royal adoption/coronation formulas to proclaim Jesus' unique status above angels. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Eternal Son as fulfillment of royal type:** Creedal Christian readings connect the royal texts to Jesus' divine sonship while distinguishing this from their first ancient royal use. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
+
 ### Isaiah 44:24–45:7 (especially 44:28; 45:1) — Cyrus named as God's shepherd and anointed {#cyrus-isaiah-44-45}
 
 - **Original language:** לְכוֹרֶשׁ רֹעִי ('of Cyrus: my shepherd'); לִמְשִׁיחוֹ לְכוֹרֶשׁ ('to his anointed, to Cyrus')
@@ -460,6 +608,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** The British Museum and Getty independently date Cyrus's capture of Babylon to 539 BCE. These sources corroborate his historical role, not that an eighth-century manuscript contained his name or that the Judean prophecy was fulfilled by supernatural foreknowledge. The critical exilic dating is itself an evidence-based historical interpretation and should not be asserted as mathematical certainty.
 - **Provisional conclusion:** Cyrus and conquest confirmed; how long before the event this oracle was composed is debated
 - **Primary and scholarly sources:** [Hebrew Isaiah 44:28](https://biblehub.com/text/isaiah/44-28.htm); [Hebrew Isaiah 45:1](https://biblehub.com/text/isaiah/45-1.htm); [British Museum: original Cyrus Cylinder](https://www.britishmuseum.org/collection/object/W_1880-0617-1941); [Getty: Cyrus Cylinder and ancient Persia](https://www.getty.edu/art/exhibitions/cyrus_cylinder/); [Bible Archaeology Review on Cyrus Cylinder and Isaiah](https://www.biblicalarchaeology.org/daily/ancient-cultures/the-cyrus-cylinder/).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Providential use of a foreign king:** Christian historical-context readings take Cyrus as the named agent of Persian-era restoration, not automatically a direct forecast of Jesus. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Messianic typology of anointed ruler:** Some Christians treat Cyrus as a type of God's later saving work in Christ; other Christian interpreters emphasize precise predictive foreknowledge about Cyrus. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
 
 ### Jeremiah 25:8–14 (especially 25:11–12) — Seventy years of service to Babylon {#jeremiah-25-seventy-years}
 
@@ -471,6 +623,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Imperial history documented; the literal seventy-year calculation is contested
 - **Primary and scholarly sources:** [Hebrew Jeremiah 25:11–12](https://biblehub.com/text/jeremiah/25-11.htm); [Ross E. Winkle (1987), Jeremiah's Seventy Years Part II](https://digitalcommons.andrews.edu/auss/vol25/iss3/3/); [Matthew H. Patton, Jeremiah commentary and seventy-year excursus](https://www.thegospelcoalition.org/commentary/jeremiah/); [Jeremiah 25:12 textual/editorial commentary](https://biblehub.com/commentaries/jeremiah/25-12.htm); [2 Chronicles 36:20–21](https://www.biblegateway.com/passage/?search=2+Chronicles+36%3A20-21&version=NRSVUE).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Babylonian-era limit interpreted historically:** Christian contextual commentators read the seventy years as a rounded period of Babylonian dominance or exile rather than a single unambiguous calendar start. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Exact prophetic clock:** Other interpreters seek a precise seventy-year sequence from selected historical dates; several start/end combinations exist and require justification. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
+
 ### Jeremiah 29:1–14 (especially 29:10) — Seventy years *for* Babylon and a promised return {#jeremiah-29-seventy-years}
 
 - **Original language:** לְבָבֶל שִׁבְעִים שָׁנָה ('seventy years for Babylon' in a natural Hebrew rendering; alternatives say 'at/in Babylon')
@@ -480,6 +636,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** Deportations, Persian conquest, and restoration-era return are historically grounded at a broad level. The chronological calculation and whose years are counted are debated. A 2018 peer-reviewed study explores why 586–516 BCE (destruction and rebuilding of the temple) became a later inner-biblical way to account for the number; that choice should not be retrojected into Jeremiah's original letter without qualification.
 - **Provisional conclusion:** Exilic context and later reception documented; precise seventy-year fulfillment disputed
 - **Primary and scholarly sources:** [Hebrew Jeremiah 29:10](https://biblehub.com/text/jeremiah/29-10.htm); [Ross E. Winkle (1987) historical data](https://digitalcommons.andrews.edu/auss/vol25/iss3/3/); [2018 Korean Biblical Studies article (English abstract): seventy years in Jeremiah](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002397285); [Jeremiah 29 textual/historical commentary](https://bible.org/seriespage/jeremiah-29); [Ezra 1:1–4](https://www.biblegateway.com/passage/?search=Ezra+1%3A1-4&version=NRSVUE).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Promise to exiles within imperial history:** Christians may treat the letter as consolation addressed to the deported community and the time as primarily Babylon's allotted rule. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Precisely completed chronological promise:** Alternative harmonizations anchor the period to a specific return, temple event or exile date, but the Hebrew 'for Babylon' and changing boundaries matter. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
 
 ### Ezekiel 26:1–21 and 29:17–21 — Tyre destroyed and never rebuilt? {#ezekiel-26-tyre}
 
@@ -491,6 +651,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Attack and later conquest historically attested; complete literal permanent destruction not established
 - **Primary and scholarly sources:** [Hebrew Ezekiel 26:14](https://biblehub.com/text/ezekiel/26-14.htm); [Ezekiel 29:17–21 (Nebuchadnezzar's labor)](https://www.biblegateway.com/passage/?search=Ezekiel+29%3A17-21&version=NRSVUE); [Protestant Theological University (2024), When prophecy doesn't come true](https://www.pthu.nl/en/bibleblog/2024/10/when-prophecy-doesnt-come-true/); [Kris J. Udd (2005), Prediction and Foreknowledge in Ezekiel's Prophecy against Tyre, Tyndale Bulletin 56.1](https://tyndalebulletin.org/article/29192-prediction-and-foreknowledge-in-ezekiel-s-prophecy-against-tyre.pdf); [Associates for Biblical Research (2009), defensive reading](https://biblearchaeology.org/research-articles/ezekiel-26114-a-proof-text-for-inerrancy-or-fallibility-of-the-old-testament/); [Ancient Tyre history and siege review](https://www.britannica.com/place/Tyre-Lebanon).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Staged historical judgment:** Some Christians combine Nebuchadnezzar's siege with later Alexander-era events or read total-destruction formulas as ancient martial hyperbole. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Deferred/ultimate complete fulfillment:** Others posit an as-yet-unfulfilled last judgment for Tyre; this does not establish a missing historical event and depends on an explicit theological reading. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
+
 ### Isaiah 13:1–22 — The Medes and Babylon's desolation {#isaiah-13-babylon-medes}
 
 - **Original language:** הִנְנִי מֵעִיר עֲלֵיהֶם אֶת־מָדָי ('I am stirring up the Medes against them', Isaiah 13:17)
@@ -500,6 +664,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** The historical Babylonian/Persian takeover is independently documented; some prophecy details resemble broad judgment rhetoric and cannot be matched one-for-one to 539. Critical commentary dates this poem based on its depiction of Babylon as dominant, not simply because a literal prediction would be deemed impossible.
 - **Provisional conclusion:** Babylon's fall documented; identity of attackers and permanent-destruction imagery require qualification
 - **Primary and scholarly sources:** [Hebrew Isaiah 13:17](https://biblehub.com/text/isaiah/13-17.htm); [Cambridge commentary on Isaiah 13 and later composition](https://biblehub.com/commentaries/cambridge/isaiah/13.htm); [British Museum: Cyrus Cylinder](https://www.britishmuseum.org/collection/object/W_1880-0617-1941); [Getty Museum: Cyrus's conquest in 539 BCE](https://www.getty.edu/art/exhibitions/cyrus_cylinder/).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Poetic oracle of imperial downfall:** Christian historical-context interpreters see Babylon's defeat and subsequent decline expressed in vivid apocalyptic language. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Exact or still-future destruction:** Other readers insist on total literal permanent desolation, sometimes relocating it to an end-time Babylon; the textual and historical identities must be argued. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
 
 ### Nahum 1–3 (especially 2:1–13 and 3:8–10) — Nineveh destroyed in 612 BCE {#nahum-nineveh-fall}
 
@@ -511,6 +679,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Historical event strongly corroborated; date of prophecy's composition and precise foresight less secure
 - **Primary and scholarly sources:** [Hebrew Nahum 1:1](https://biblehub.com/text/nahum/1-1.htm); [Nahum 2–3](https://www.biblegateway.com/passage/?search=Nahum+2-3&version=NRSVUE); [British Museum: tablet BM 21901](https://www.britishmuseum.org/collection/object/W_1896-0409-6); [Livius: Fall of Nineveh Chronicle (ABC 3)](https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-3-fall-of-nineveh-chronicle/); [Enter the Bible (Luther Seminary): Nahum summary](https://enterthebible.org/courses/nahum/lessons/summary-of-nahum/).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Historical judgment confirmed by conquest:** The 612 BCE fall is treated as the oracle's historical horizon; Christians disagree on its date of composition and what constitutes advance foresight. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Model of final judgment:** Liturgical or homiletic readers may extend the downfall of an oppressive empire as a moral image of God's judgment in other ages. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
+
 ### Isaiah 17:1–3 — Damascus would cease to be a city {#isaiah-17-damascus}
 
 - **Original language:** מַשָּׂא דַּמָּשֶׂק ('oracle concerning Damascus', Isa 17:1); the text says it will be removed as a city and become a heap of ruins.
@@ -520,6 +692,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** The Assyrian victory and loss of kingship can be independently confirmed from history. UNESCO confirms ongoing habitation, so the passage cannot be used as evidence that Damascus permanently vanished. The composition date relative to 732 BCE is inferred from literary and historical context, not secured by an extant dated pre-conquest manuscript.
 - **Provisional conclusion:** Assyrian defeat and ended kingdom supported; permanent urban disappearance contradicted by history; original scope debated
 - **Primary and scholarly sources:** [Isaiah 17:1 Hebrew](https://biblehub.com/text/isaiah/17-1.htm); [Joseph Blenkinsopp, First Isaiah, 17:1–14 (critical historical context)](https://www.jstor.org/stable/j.ctvgs0919.31); [Cambridge Commentary on Isaiah 17 (732 BCE and textual complications)](https://biblehub.com/commentaries/cambridge/isaiah/17.htm); [UNESCO: Ancient City of Damascus, continued urban settlement](https://whc.unesco.org/en/list/20/); [2 Kings 16:9, narrative of Damascus's conquest](https://www.biblegateway.com/passage/?search=2+Kings+16%3A9&version=NRSVUE).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Fall of Aram's royal power:** A contextual Christian reading focuses on the end of Damascus's independent kingdom, distinguishing loss of state power from permanent disappearance of an inhabited city. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Future or staged city destruction:** Some futurists expect a later literal disappearance of the city; the text does not supply a verified modern timetable. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
 
 ### Obadiah 1–21 — Edom's punishment and no surviving house of Esau {#obadiah-edom}
 
@@ -531,6 +707,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Political/territorial transformations documented; no-survivor literalism and Edomite complicity disputed
 - **Primary and scholarly sources:** [Obadiah 1:18 Hebrew](https://biblehub.com/text/obadiah/1-18.htm); [Elie Assis, Structure, Redaction and Significance in the Prophecy of Obadiah (JSOT 39.2, 2014)](https://doi.org/10.1177/0309089214567376); [Juan Manuel Tebes, Edomite Involvement in Jerusalem's Fall (2011)](https://doi.org/10.1177/0309089211423731); [Tessa Rajak, Idumaea, Oxford Classical Dictionary](https://doi.org/10.1093/acrefore/9780199381135.013.3252); [Yigal Levin, The Religion of Idumea and Its Relationship to Early Judaism (Religions 11, 2020)](https://doi.org/10.3390/rel11100487).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Historical fate of Edom:** A contextual Christian reading associates the oracle with ancient Edom's political decline and later Idumaean transformations. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Universal final justice image:** Other Christians expand Edom into a recurring pattern of hostile powers ultimately judged; this is symbolic reuse, not a proof no descendants survived. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
+
 ### Jeremiah 49:7–22 — Judgment of Edom and its shared oracle with Obadiah {#jeremiah-49-edom}
 
 - **Original language:** כִּי־אֲנִי חָשַׂפְתִּי אֶת־עֵשָׂו ('For I have laid Esau bare', Jer 49:10); the oracle invokes desolation, terror and judgment on Edom.
@@ -540,6 +720,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** Independent archaeological/historical sources support Edomite/Idumaean continuity, migration and cultural transformation rather than verified total extermination. Specific devastation imagery is largely preserved in the prophetic text, and cannot independently confirm its own accuracy.
 - **Provisional conclusion:** Shared wording and Edomite identity history documented; literary priority, chronology and literal devastation uncertain
 - **Primary and scholarly sources:** [Jeremiah 49:7–22 primary passage](https://www.biblegateway.com/passage/?search=Jeremiah+49%3A7-22&version=NRSVUE); [Jeremiah 49:10 Hebrew](https://biblehub.com/text/jeremiah/49-10.htm); [Graham S. Ogden, Prophetic Oracles against Foreign Nations and Psalms of Communal Lament: The Relationship of Psalm 137 to Jeremiah 49:7–22 and Obadiah (JSOT 24, 1982)](https://doi.org/10.1177/030908928200702406); [Cambridge commentary on shared sources, Jeremiah 49:7](https://biblehub.com/commentaries/jeremiah/49-7.htm); [Yigal Levin, Genesis of Idumea (Bar-Ilan University)](https://cris.biu.ac.il/en/publications/the-genesis-of-idumea/).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Shared ancient oracle of national judgment:** One approach reads the historical conflict with Edom alongside Obadiah and brackets which text borrowed from which. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Typology of final defeat of evil:** Other Christian preaching uses Edom as a moral figure of opposition to God's people, rather than a detailed modern ethnic forecast. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
 
 ### Haggai 2:6–9 (with 2:1–5) — Greater glory of the rebuilt temple and the nations' treasure {#haggai-2-temple-glory}
 
@@ -551,6 +735,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** 520 BCE temple-restoration context strong; treasures interpretation supported; universal shaking/glory fulfillment debated
 - **Primary and scholarly sources:** [Haggai 2:6–9 and translator notes (NET Bible)](https://classic.net.bible.org/passage.php?passage=hag+2%3A6-9); [Haggai 2:7 Hebrew](https://biblehub.com/text/haggai/2-7.htm); [Kristin Joachimsen, Yehudite Imaginations of King Darius and His Officials (Religions 13, 2022), temple chronology](https://doi.org/10.3390/rel13030262); [Hebrews 12:26–28 later citation](https://www.biblegateway.com/passage/?search=Hebrews+12%3A26-28&version=NRSVUE); [Bible.org Haggai commentary, grammar and rebuilding context](https://bible.org/seriespage/haggai).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Fulfillment through Christ's temple presence:** Many Christians relate the latter temple's glory to Jesus' presence or the church as a new temple, beyond Haggai's immediate rebuilding context. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
+  - **Future temple or messianic kingdom:** Some premillennial readers expect fuller fulfillment in a future earthly temple/kingdom; the temple identities and dates require independent arguments. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
+
 ### Zechariah 14:1–21 — The Mount of Olives splits and all nations worship in Jerusalem {#zechariah-14-day-of-yhwh}
 
 - **Original language:** וְנִבְקַע הַר הַזֵּיתִים ('the Mount of Olives shall be split', Zech 14:4); the chapter also depicts living waters and yearly festival pilgrimage.
@@ -560,6 +748,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** No independent historical documentation establishes the combined series of mountain splitting, perpetual miraculous light, world worship and uninterrupted seasonal water flows as an already completed event. Conversely, absence of such confirmation does not logically disprove an unbounded future expectation. A research verdict must specify past-fulfillment versus still-future claim.
 - **Provisional conclusion:** Primary imagery and varied later reception documented; complete historical fulfillment not independently verified
 - **Primary and scholarly sources:** [Zechariah 14 original text](https://www.biblegateway.com/passage/?search=Zechariah+14&version=NRSVUE); [Zechariah 14:4 Hebrew](https://biblehub.com/text/zechariah/14-4.htm); [Paul L. Redditt, Zechariah, Oxford Handbook of the Minor Prophets (2021)](https://doi.org/10.1093/oxfordhb/9780190673208.013.31); [TheTorah.com: Sukkot, Future Redemption for Jews and Gentiles](https://www.thetorah.com/article/sukkot-the-festival-of-future-redemption-for-jews-and-gentiles); [Michael Fishbane: How Zechariah Relates to Sukkot](https://www.myjewishlearning.com/article/how-zechariah-relates-to-sukkot/).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Eschatological imagery of God's reign:** Liturgical and amillennial readings often treat the mount, living waters and worldwide worship as imagery of God's ultimate reign, not a dated topographic forecast. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_7.html) (*Official Catholic teaching rejects millenarianism while affirming a future final judgment.*)
+  - **Future literal Jerusalem events:** Futurist premillennial readings expect Christ's return to a changed Mount of Olives and future international worship centered on Jerusalem. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
 
 ### Daniel 2:31–45 (Aramaic) — Statue of four kingdoms and a kingdom that will never end {#daniel-2-four-kingdoms}
 
@@ -571,6 +763,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Four-empire symbolism and later interpretations verifiable; fourth empire, dating and eternal kingdom fulfillment debated
 - **Primary and scholarly sources:** [Daniel 2:31–45, USCCB critical text and notes](https://bible.usccb.org/bible/daniel/2); [Daniel 2:44 Aramaic](https://biblehub.com/text/daniel/2-44.htm); [John J. Collins, Yale Bible Study: Daniel 1–2](https://yalebiblestudy.org/courses/daniel/lessons/daniel-1-2-study-guide/); [Cambridge commentary: four-kingdom models and Rome](https://biblehub.com/commentaries/cambridge/daniel/2.htm); [Traditional Roman-fourth-empire reading (Ligonier)](https://learn.ligonier.org/articles/coming-son-man-unfolding-biblical-eschatology).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Greek-era sequence or Roman culmination:** Christian historical-context scholars may identify successive empires ending with Greek rule; many traditional Christian schemes identify the fourth with Rome and Christ's kingdom. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Extended final-world-kingdom sequence:** Futurist readers see a later or revived fourth kingdom and future climactic divine intervention; the identification is debated. [Representative context](https://probe.org/four-views-of-revelation/) (*Evangelical comparative overview of Revelation interpretation.*)
+
 ### Daniel 7:1–27 (Aramaic) — Four beasts, Antiochus's horn and one like a human being {#daniel-7-beasts-son-of-man}
 
 - **Original language:** Daniel 7:13 Aramaic כְּבַר אֱנָשׁ ('like a son of man', i.e. like a human being); Daniel 7:18 says the 'holy ones' receive the kingdom.
@@ -580,6 +776,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** Seleucid persecution is historically attested; literal celestial enthronement and eternal rule are theological/apocalyptic claims not historically observable. The same passage has significant interpretive differences within academic, Jewish and Christian traditions.
 - **Provisional conclusion:** Antiochene crisis closely fits horn/persecution; heavenly figure identity and future fulfillment contested
 - **Primary and scholarly sources:** [Daniel 7 with historical notes (USCCB)](https://bible.usccb.org/bible/daniel/7); [Daniel 7:13 Aramaic](https://biblehub.com/text/daniel/7-13.htm); [John J. Collins, Yale Bible Study: Daniel 7](https://yalebiblestudy.org/courses/daniel/lessons/daniel-7-study-guide/); [Tim Meadowcroft, 'One Like a Son of Man' (2016)](https://doi.org/10.2307/26373916); [Distinct Christian reading of a Roman fourth kingdom](https://learn.ligonier.org/articles/coming-son-man-unfolding-biblical-eschatology).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Antiochene crisis and Christological Son of Man:** Christian interpretation may acknowledge the Greek-era horn while identifying the heavenly Son of Man with Jesus in the Gospels. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Future Antichrist and judgment:** Futurist readings take the final beast and horn as prefiguring a last world ruler who is defeated at Jesus' return. [Representative context](https://probe.org/four-views-of-revelation/) (*Evangelical comparative overview of Revelation interpretation.*)
 
 ### Daniel 8:1–27 (Hebrew) — Ram, he-goat, Antiochus and 2,300 evenings/mornings {#daniel-8-ram-goat-2300}
 
@@ -591,6 +791,11 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Named empires are explicit, Antiochus reference strong; count, dating and supernatural prediction remain debated
 - **Primary and scholarly sources:** [Daniel 8 and critical notes (USCCB)](https://bible.usccb.org/bible/daniel/8); [Daniel 8:20 Hebrew](https://biblehub.com/text/daniel/8-20.htm); [Daniel 8:14 Hebrew](https://biblehub.com/text/daniel/8-14.htm); [John J. Collins, Yale Bible Study: Daniel 8–9](https://yalebiblestudy.org/courses/daniel/lessons/daniel-8-9-study-guide/); [1 Maccabees 4:52–59 rededication](https://bible.usccb.org/bible/1maccabees/4).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Antiochus and temple rededication:** Christian historical-context readers commonly locate the ram/goat vision in Persian-Greek conflict and the desecration of the Second Temple under Antiochus IV. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Seventh-day Adventist historicism:** Adventist teaching applies a year-day reading to 2,300 days, ending in 1844 with a new phase of Christ's heavenly sanctuary ministry; this is not a scholarly consensus chronology. [Representative context](https://gc.adventist.org/beliefs/) (*Official Seventh-day Adventist historicist reading of Daniel 8:14's 2,300-day period ending in 1844.*)
+  - **Futurist sanctuary crisis:** Some futurists take Antiochus as a precursor and expect a future desecration; chronology and textual warrant are disputed. [Representative context](https://probe.org/four-views-of-revelation/) (*Evangelical comparative overview of Revelation interpretation.*)
+
 ### Daniel 9:1–27 (especially 9:24–27, Hebrew) — Jeremiah's seventy years reinterpreted as seventy weeks of years {#daniel-9-seventy-weeks}
 
 - **Original language:** Daniel 9:24 Hebrew שָׁבֻעִים שִׁבְעִים ('seventy sevens', traditionally 'seventy weeks'); 9:25–26 says מָשִׁיחַ ('an anointed one') without naming Jesus.
@@ -600,6 +805,11 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** Jeremiah's earlier words, the later 490-year interpretation and the documented Antiochene temple crisis can be independently compared. No calculation is self-proving when its start date, selected anointed figure or calendar length are chosen after the fact.
 - **Provisional conclusion:** Reinterpretation of Jeremiah certain; anointed identities and numerical fulfillment are debated
 - **Primary and scholarly sources:** [Daniel 9:24–27 (USCCB text/notes)](https://bible.usccb.org/bible/daniel/9); [Daniel 9:24 Hebrew](https://biblehub.com/text/daniel/9-24.htm); [John J. Collins, Yale Bible Study: Daniel 8–9](https://yalebiblestudy.org/courses/daniel/lessons/daniel-8-9-study-guide/); [Cambridge commentary and traditional chronology variants](https://biblehub.com/commentaries/cambridge/daniel/9.htm); [Jeremiah 29:10 source comparison](https://biblehub.com/text/jeremiah/29-10.htm).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Christ-centered seventy weeks:** Some Catholic, Orthodox and Reformed interpreters read the anointed figure, covenant and desolation through the first advent and Jerusalem's destruction, with differing timelines. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
+  - **Dispensational seventieth-week gap:** A popular dispensational model separates the final seven-year week from the earlier sixty-nine and places it in a future tribulation; the textual gap is disputed. [Representative context](https://learn.ligonier.org/articles/millennial-maze) (*Representative Reformed discussion of major millennial schools, not a uniform Protestant creed.*)
+  - **Historicist year-day sequence:** Historicist approaches often apply symbolic years to the weeks, placing key milestones within past religious history, with divergent starting years. [Representative context](https://adventist.org/identity/history) (*Church self-history of the Daniel 8–9 calculation, the disappointment and subsequent teaching.*)
 
 ### Daniel 11:2–45 (Hebrew) — Kings of north and south; where the forecast changes {#daniel-11-kings-end}
 
@@ -611,6 +821,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Hellenistic event matches strong; final king death setting fails a straightforward Antiochus identification
 - **Primary and scholarly sources:** [Daniel 11 with explicit historical notes (USCCB)](https://bible.usccb.org/bible/daniel/11); [Daniel 11:40 Hebrew](https://biblehub.com/text/daniel/11-40.htm); [Daniel 11:45 Hebrew](https://biblehub.com/text/daniel/11-45.htm); [John J. Collins, Yale Bible Study: Daniel 10–12](https://yalebiblestudy.org/courses/the-books-of-samuel/lessons/daniel-10-12-study-guide/); [Historical context, 1 Maccabees 6](https://bible.usccb.org/bible/1maccabees/6).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Antiochus IV and genre/dating debates:** Some Christian historical-critical scholars see the kings of north and south culminating in Antiochus IV, with the last details not matching the known end of his life. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Future Antichrist beyond Antiochus:** Some futurist readings see a typological shift from the Seleucid ruler to a final Antichrist; the proposed shift point differs. [Representative context](https://probe.org/four-views-of-revelation/) (*Evangelical comparative overview of Revelation interpretation.*)
+
 ### Daniel 12:1–13 (Hebrew) — Resurrection, the sealed end, and 1,290/1,335 days {#daniel-12-resurrection-days}
 
 - **Original language:** Daniel 12:2 Hebrew וְרַבִּים מִיְּשֵׁנֵי אַדְמַת־עָפָר יָקִיצוּ ('many of those sleeping in the dust of the earth shall awaken'); 12:11–12 lists 1,290 and 1,335 days.
@@ -620,6 +834,11 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** The crisis and temple rededication are historically studied, but no independent evidence verifies a first-century BCE mass resurrection or precisely dated world judgment. Whether the figures represent authorial corrections or coexisting symbolic schemas is debated.
 - **Provisional conclusion:** Early resurrection teaching and competing durations verifiable; worldwide end events not corroborated
 - **Primary and scholarly sources:** [Daniel 12 with USCCB notes on 1,290/1,335 days](https://bible.usccb.org/bible/daniel/12); [Daniel 12:2 Hebrew](https://biblehub.com/text/daniel/12-2.htm); [John J. Collins, Yale Bible Study: Daniel 10–12](https://yalebiblestudy.org/courses/the-books-of-samuel/lessons/daniel-10-12-study-guide/); [Daniel historical/composition context, Yale](https://yalebiblestudy.org/courses/daniel/lessons/who-was-daniel-study-guide/); [Daniel 8 and alternate 2,300 count](https://bible.usccb.org/bible/daniel/8).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Resurrection hope in later Jewish and Christian faith:** Many Christians read Daniel's awakening of the dead as developing into the general resurrection confessed in Christian creeds. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Future tribulation calendars:** Futurist views connect the 1,290/1,335 days to a final crisis while differing about their relationship to Daniel 9 and Revelation. [Representative context](https://probe.org/four-views-of-revelation/) (*Evangelical comparative overview of Revelation interpretation.*)
+  - **Historicist chronology:** Historicist traditions apply prophetic time reckoning beyond a short ancient episode; proposed historical dates vary and are not independently settled. [Representative context](https://gc.adventist.org/beliefs/) (*Official Seventh-day Adventist historicist reading of Daniel 8:14's 2,300-day period ending in 1844.*)
 
 ### Mark 13:1–2 (Jesus' reported prediction) — Not one Temple stone upon another {#mark-13-2-temple-destruction}
 
@@ -631,6 +850,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Temple destruction historically confirmed; literal scope and timing of recorded prediction debated
 - **Primary and scholarly sources:** [Mark 13 and critical Temple-destruction notes (USCCB)](https://bible.usccb.org/bible/mark/13); [Mark 13:2 Greek text](https://biblehub.com/text/mark/13-2.htm); [S. G. F. Brandon, 'The Date of the Markan Gospel', New Testament Studies](https://www.cambridge.org/core/journals/new-testament-studies/article/abs/date-of-the-markan-gospel/B34650230D991C2B56A96866131DC994); [The Synoptic Gospels, BYU Religious Studies Center — pre/post 70 dating debate](https://rsc.byu.edu/new-testament-history-culture-society/synoptic-gospels); [Josephus, Jewish War 6.4–6 (primary account)](https://www.gutenberg.org/files/2850/2850-h/2850-h.htm).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Jerusalem AD 70 as historical referent:** Preterist and many Christian historical-context readings identify the temple's destruction by Rome as the near-term fulfillment of the reported saying. [Representative context](https://bible.org/article/revelation-four-views-parallel-commentary) (*Comparative Christian guide to preterist, historicist, futurist and spiritual/idealist approaches; not a denomination-wide survey.*)
+  - **Part of a larger end-time pattern:** Futurists commonly see the temple fall as a preview of a final crisis, not necessarily the full scope of Mark 13. [Representative context](https://probe.org/four-views-of-revelation/) (*Evangelical comparative overview of Revelation interpretation.*)
+
 ### Mark 13:24–32; Matthew 24:29–36 — This generation will not pass until all these things happen {#mark-13-30-this-generation}
 
 - **Original language:** Mark 13:30: ἡ γενεὰ αὕτη οὐ μὴ παρέλθῃ μέχρις οὗ ταῦτα πάντα γένηται ('this generation certainly will not pass away until all these things occur').
@@ -640,6 +863,11 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** Benjamin Edsall (2025) studies generation language across the Gospel tradition and its ambiguities; Scott Charlesworth (2017) finds Matthew's immediate sequence from Jerusalem's fall to cosmic signs difficult to separate; preterist and alternative critiques are active scholarship. No historical evidence establishes a visible celestial coming within the contemporaries' lifespan.
 - **Provisional conclusion:** Original time phrase explicit; 70 CE Temple event secure; all-things scope and promised return debated
 - **Primary and scholarly sources:** [Greek Mark 13:30](https://biblehub.com/text/mark/13-30.htm); [Mark 13:24–32 context](https://bible.usccb.org/bible/mark/13); [Benjamin A. Edsall (2025), 'This Generation' from Mark to Judas, JSNT](https://doi.org/10.1177/0142064X241289867); [Scott Charlesworth (2017), Historicist interpretation of the Olivet Discourse](https://doi.org/10.1177/1030570X17736324); [Mark 13:30 Second Temple context (Adam Winn, 2020)](https://doi.org/10.5325/bullbiblrese.30.4.0540).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Near-first-century judgment (preterist):** Many preterists understand 'this generation' as Jesus' contemporaries and much of the discourse as the events around Jerusalem's fall in 70 CE. [Representative context](https://bible.org/article/revelation-four-views-parallel-commentary) (*Comparative Christian guide to preterist, historicist, futurist and spiritual/idealist approaches; not a denomination-wide survey.*)
+  - **Future final generation (futurist):** Many futurists understand the generation as those witnessing final signs; others distinguish the near temple crisis from Christ's future return. [Representative context](https://probe.org/four-views-of-revelation/) (*Evangelical comparative overview of Revelation interpretation.*)
+  - **Inaugurated/ongoing horizon:** Other Christian interpreters combine near fulfillment, apocalyptic imagery and future consummation rather than assigning everything to one calendar moment. [Representative context](https://learn.ligonier.org/articles/millennial-maze) (*Representative Reformed discussion of major millennial schools, not a uniform Protestant creed.*)
 
 ### Matthew 10:16–23 — Before you finish Israel's towns, the Son of Man will come {#matthew-10-23-towns-of-israel}
 
@@ -651,6 +879,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Temporal syntax and original audience clear; event meant by 'comes' disputed
 - **Primary and scholarly sources:** [Matthew 10:23 Greek text](https://biblehub.com/text/matthew/10-23.htm); [Matthew 10:16–23 text and critical notes](https://bible.usccb.org/bible/matthew/10); [Torsten Löfstedt, 'The Coming of the Son of Man and the Mission to Israel'](https://doi.org/10.58546/se.v90i1.25546); [Matthew 24:14 comparative context](https://biblehub.com/text/matthew/24-14.htm).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Imminent mission crisis:** Some Christian historical-context readers understand the 'coming' as vindication, resurrection or a nearer judgment horizon, within the disciples' experience. [Representative context](https://bible.org/article/revelation-four-views-parallel-commentary) (*Comparative Christian guide to preterist, historicist, futurist and spiritual/idealist approaches; not a denomination-wide survey.*)
+  - **Ultimate Son of Man coming:** Other Christian futurist readings place the saying's completion at Christ's return, sometimes positing the mission to Israel continues until then. [Representative context](https://probe.org/four-views-of-revelation/) (*Evangelical comparative overview of Revelation interpretation.*)
+
 ### Mark 9:1; Matthew 16:28; Luke 9:27 — Some standing here will not taste death before the Kingdom comes {#mark-9-1-taste-death}
 
 - **Original language:** Mark 9:1 Greek: οὐ μὴ γεύσωνται θανάτου ἕως ἂν ἴδωσιν τὴν βασιλείαν τοῦ θεοῦ ἐληλυθυῖαν ἐν δυνάμει ('will certainly not taste death until they see God's kingdom come in power').
@@ -660,6 +892,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** NET translator notes explicitly catalog Transfiguration, resurrection, Spirit and second coming readings. E. J. Davila (New Testament Studies, 2026), writing on Mark 16:1–8, argues that Mark presents Jesus' resurrection as the beginning of the kingdom, which supports a resurrection reading of 9:1, showing that this reading is an argued alternative, not an uncontested definition.
 - **Provisional conclusion:** Lifespan language unambiguous; kingdom-arrival referent and historical verification disputed
 - **Primary and scholarly sources:** [Mark 9:1 Greek text](https://biblehub.com/text/mark/9-1.htm); [NET Bible on Mark 9:1 and four proposed fulfillments](https://classic.net.bible.org/verse.php?book=Mar&chapter=9&verse=1); [E. J. Davila (2026), Does Mark Care That Jesus Was Raised from the Dead?, New Testament Studies](https://www.cambridge.org/core/journals/new-testament-studies/article/does-mark-care-that-jesus-was-raised-from-the-dead-on-resurrecting-the-king-and-the-kingdom-mark-1618/38D02EE65DBAAD30E9ACC4D53509A635); [Matthew 16:28 and Mark 9:1 parallels](https://www.biblegateway.com/passage/?search=Mark+9%3A1%3BMatthew+16%3A28&version=NRSVUE).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Transfiguration anticipation:** Many Christians identify the event some disciples would soon see as the Transfiguration narrated immediately afterward. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Resurrection, Pentecost or Jerusalem judgment:** Other Christian readings locate the kingdom's visible coming in resurrection/exaltation, Pentecost or 70 CE; an ultimate Second Coming reading faces the lifetime wording. [Representative context](https://bible.org/article/revelation-four-views-parallel-commentary) (*Comparative Christian guide to preterist, historicist, futurist and spiritual/idealist approaches; not a denomination-wide survey.*)
 
 ### Mark 14:61–64; Daniel 7:13–14; Psalm 110:1 — You will see the Son of Man at God's right hand and on clouds {#mark-14-62-son-man-high-priest}
 
@@ -671,6 +907,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Combined sources and direct audience established; future versus inaugurated interpretation and fulfillment disputed
 - **Primary and scholarly sources:** [Mark 14:62 Greek](https://biblehub.com/text/mark/14-62.htm); [Daniel 7:13 Aramaic source](https://biblehub.com/text/daniel/7-13.htm); [Psalm 110:1 Hebrew](https://biblehub.com/text/psalms/110-1.htm); [Smith and Vaillancourt, JBL 2022, Enthroned and Coming to Reign](https://doi.org/10.15699/jbl.1413.2022.6); [Matthew 26:64 'from now on' wording](https://biblehub.com/text/matthew/26-64.htm).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Vindication and enthronement:** Christians drawing on Daniel 7 read cloud-coming language as the Son of Man's approach to the heavenly throne and vindication through Jesus' exaltation. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Visible future return:** Other Christians emphasize the future return and judgment, interpreting the high priest's 'seeing' as public accountability rather than a literal lifespan guarantee. [Representative context](https://probe.org/four-views-of-revelation/) (*Evangelical comparative overview of Revelation interpretation.*)
+
 ### 1 Thessalonians 4:13–18 (especially 4:15–17) — We the living who remain until the Lord's coming {#one-thess-4-we-alive}
 
 - **Original language:** 1 Thessalonians 4:15 Greek ἡμεῖς οἱ ζῶντες οἱ περιλειπόμενοι εἰς τὴν παρουσίαν τοῦ κυρίου ('we the living, the remaining, until/for the coming of the Lord').
@@ -680,6 +920,11 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** The first-century letter's grammar and Paul's eventual death are historically grounded; heavenly trumpet, clouds and resurrection are not independently corroborated. Distinguish probable near expectation from an unambiguous personal survival guarantee.
 - **Provisional conclusion:** First-person and resurrection sequence explicit; guaranteed lifetime deadline contested
 - **Primary and scholarly sources:** [1 Thessalonians 4:15 Greek text](https://biblehub.com/text/1_thessalonians/4-15.htm); [1 Thessalonians 4:13–18 NRSVUE](https://www.biblegateway.com/passage/?search=1+Thessalonians+4%3A13-18&version=NRSVUE); [Novum Testamentum (2024), Is There Imminent Expectation in 1 Thess 4:13–18?](https://brill.com/view/journals/nt/66/2/article-p231_5.xml?language=en); [USCCB 1 Thessalonians 4 contextual notes](https://bible.usccb.org/bible/1thessalonians/4).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Pastoral 'we' and unknown timing:** Many Christians take Paul's first-person plural as solidarity with readers who might survive until Christ's return, not an explicit guaranteed prediction of Paul's survival. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
+  - **Imminence of Christ's return:** Others read the passage as evidence the first churches expected Jesus to return in their lifetimes; whether that expectation failed is debated. [Representative context](https://bible.org/article/revelation-four-views-parallel-commentary) (*Comparative Christian guide to preterist, historicist, futurist and spiritual/idealist approaches; not a denomination-wide survey.*)
+  - **Dispensational rapture distinction:** Some futurists distinguish this gathering of believers from a later public return, whereas historic premillennial and amillennial Christians generally do not posit that specific two-stage scheme. [Representative context](https://learn.ligonier.org/articles/millennial-maze) (*Representative Reformed discussion of major millennial schools, not a uniform Protestant creed.*)
 
 ### 1 Corinthians 15:50–58 (especially 15:51–52) — We will not all sleep, but we will all be changed {#one-cor-15-not-all-sleep}
 
@@ -691,6 +936,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Preferred textual form and major variants documented; eschatological timeframe and miraculous event unverified
 - **Primary and scholarly sources:** [1 Corinthians 15:51 Greek interlinear](https://biblehub.com/text/1_corinthians/15-51.htm); [NET Bible 1 Corinthians 15:51 manuscript-note comparison](https://classic.net.bible.org/verse.php?book=1Co&chapter=15&tab=commentaries&theme=wiki&verse=51); [1 Corinthians 15 chapter and notes (USCCB)](https://bible.usccb.org/bible/1corinthians/15); [Scholarly citation of Fee and Metzger on 1 Cor 15:51 variant readings](https://rsc.byu.edu/vol-19-no-2-2018/analysis-joseph-smith-translation-1-corinthians-1540).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Resurrection promise not a date forecast:** A common theological reading stresses universal transformation and resurrection, allowing Paul to speak as a member of a group without assuring his own survival. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **First-generation expectation:** Other historical-context Christian scholars hear genuine short-term expectation in the first-person plural and discuss it alongside later reinterpretations. [Representative context](https://bible.org/article/revelation-four-views-parallel-commentary) (*Comparative Christian guide to preterist, historicist, futurist and spiritual/idealist approaches; not a denomination-wide survey.*)
+
 ### Revelation 1:1–3 and 22:6–12, 20 — What must happen soon: the appointed time is near {#revelation-1-22-soon}
 
 - **Original language:** Greek ἐν τάχει (en tachei, 'soon/quickly', Rev 1:1; 22:6), ἐγγύς (engys, 'near', 1:3; 22:10), and ἔρχομαι ταχύ ('I am coming soon/quickly', 22:7, 12, 20).
@@ -700,6 +949,12 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** The original Greek expressions and named Asian congregations are directly ascertainable. No independently observed end of death, new creation, or universal visible return is documented within that audience's lifespan. Claims that the language refers only to contemporary Roman tribulation, rather than the book's cosmic end, remain interpretive positions that require argument.
 - **Provisional conclusion:** Near-time Greek and original audience explicit; scope and literal fulfillment of complete visions disputed
 - **Primary and scholarly sources:** [Revelation 1 text and critical notes (USCCB)](https://bible.usccb.org/bible/revelation/1); [Revelation 22 epilogue and repeated 'soon' (USCCB)](https://bible.usccb.org/bible/revelation/22); [USCCB critical Introduction to Revelation, authorship and dating](https://bible.usccb.org/bible/revelation/0); [Greek Revelation 1:1](https://biblehub.com/text/revelation/1-1.htm); [Greek Revelation 22:10](https://biblehub.com/text/revelation/22-10.htm).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Preterist near fulfillment:** A preterist reading takes 'soon' and 'near' as meaningful to the original churches and associates many scenes with the first-century Roman world. [Representative context](https://bible.org/article/revelation-four-views-parallel-commentary) (*Comparative Christian guide to preterist, historicist, futurist and spiritual/idealist approaches; not a denomination-wide survey.*)
+  - **Futurist final imminence:** Futurists interpret the book as chiefly describing future end events and explain 'soon' in terms of divine suddenness, readiness or a rapid final sequence. [Representative context](https://probe.org/four-views-of-revelation/) (*Evangelical comparative overview of Revelation interpretation.*)
+  - **Historicist continuous fulfillment:** Historicists understand the visions as unfolding through the church age, not all in a single first-century or final week. [Representative context](https://gc.adventist.org/beliefs/) (*Official Seventh-day Adventist historicist reading of Daniel 8:14's 2,300-day period ending in 1844.*)
+  - **Idealist recurring spiritual conflict:** An idealist reading sees symbols as recurring struggles that address multiple Christian generations. [Representative context](https://bible.org/article/revelation-four-views-parallel-commentary) (*Comparative Christian guide to preterist, historicist, futurist and spiritual/idealist approaches; not a denomination-wide survey.*)
 
 ### Revelation 13:1–18; Daniel 7:2–8; Revelation 17:9–11 — The beast, coercive worship and 666/616 {#revelation-13-beast-number}
 
@@ -711,6 +966,12 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Roman imperial context and 666/616 variants supported; beast identity and any full predictive fulfillment disputed
 - **Primary and scholarly sources:** [Revelation 13 text and historical notes (USCCB)](https://bible.usccb.org/bible/revelation/13); [Greek Revelation 13:18](https://biblehub.com/text/revelation/13-18.htm); [Max Nelson (2025), A Concealed Claudian: The Meaning of 666 in Revelation](https://doi.org/10.1093/jts/flaf015); [USCCB Revelation Introduction, first-century Asia/Rome context](https://bible.usccb.org/bible/revelation/0); [Same Nelson article, Journal of Theological Studies 76.1: discussion of the 616 reading in Papyrus 115](https://academic.oup.com/jts/article/76/1/109/8043235).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Preterist Roman imperial identification:** Many preterists connect the beast with Nero or Roman imperial rule and explain 666/616 through ancient name-number calculation; exact details remain contested. [Representative context](https://bible.org/article/revelation-four-views-parallel-commentary) (*Comparative Christian guide to preterist, historicist, futurist and spiritual/idealist approaches; not a denomination-wide survey.*)
+  - **Futurist final Antichrist:** Many futurists expect a final personal tyrant and coercive economic or worship system, rejecting exclusive identification with Nero. [Representative context](https://probe.org/four-views-of-revelation/) (*Evangelical comparative overview of Revelation interpretation.*)
+  - **Historicist institutions over time:** Historicism sees beastly oppression developing through successive historical powers or institutions; specific identifications differ widely. [Representative context](https://gc.adventist.org/beliefs/) (*Official Seventh-day Adventist historicist reading of Daniel 8:14's 2,300-day period ending in 1844.*)
+  - **Idealist repeating oppressive power:** Idealists see the beast as the recurring idolatrous demand of political empire, even when it has a first-century prototype. [Representative context](https://bible.org/article/revelation-four-views-parallel-commentary) (*Comparative Christian guide to preterist, historicist, futurist and spiritual/idealist approaches; not a denomination-wide survey.*)
+
 ### Revelation 20:1–21:27; Isaiah 65:17–25; Ezekiel 37–48 — Thousand-year reign, final judgment and new Jerusalem {#revelation-20-21-millennium-new-jerusalem}
 
 - **Original language:** Rev 20:2 χίλια ἔτη ('a thousand years'); Rev 21:1 οὐρανὸν καινὸν καὶ γῆν καινήν ('new heaven and new earth'); Rev 21:4 θάνατος οὐκ ἔσται ἔτι ('death will be no more').
@@ -720,6 +981,12 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** Earlier intertexts and competing reception histories can be verified. No independently observable global resurrection, permanent ending of death, destruction of the cosmos or descent of a jewel-built heavenly metropolis has been recorded. A future expectation is logically different from an already verified historical event.
 - **Provisional conclusion:** Apocalyptic intertexts and competing millennium interpretations attested; final world transformation unverified
 - **Primary and scholarly sources:** [Revelation 20 and notes on symbolic millennium (USCCB)](https://bible.usccb.org/bible/revelation/20); [Revelation 21 on new heavens and Jerusalem (USCCB)](https://bible.usccb.org/bible/revelation/21); [Revelation 22 on living waters and tree of life (USCCB)](https://bible.usccb.org/bible/revelation/22); [Isaiah 65:17 and Ezekiel 40–48 intertexts](https://www.biblegateway.com/passage/?search=Isaiah+65%3A17%3BEzekiel+47%3A1-12&version=NRSVUE); [Greek Revelation 20:2](https://biblehub.com/text/revelation/20-2.htm).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Catholic/Orthodox non-literal millennium:** Catholic teaching rejects millenarianism; many Catholic and Orthodox interpreters read the thousand years as symbolic of Christ's present reign and expect future judgment and renewed creation. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_7.html) (*Official Catholic teaching rejects millenarianism while affirming a future final judgment.*)
+  - **Reformed amillennialism:** Amillennial readers identify the millennium with the present church age and the New Jerusalem with the final renewed creation. [Representative context](https://learn.ligonier.org/articles/millennial-maze) (*Representative Reformed discussion of major millennial schools, not a uniform Protestant creed.*)
+  - **Historic or dispensational premillennialism:** Premillennial readers expect Christ to return before a future reign; dispensational versions additionally distinguish Israel and the church in the kingdom promises. [Representative context](https://learn.ligonier.org/articles/millennial-maze) (*Representative Reformed discussion of major millennial schools, not a uniform Protestant creed.*)
+  - **Postmillennialism:** Postmillennial readers expect a prolonged gospel-influenced era before the final return, usually without a literal thousand-year calendar. [Representative context](https://learn.ligonier.org/articles/millennial-maze) (*Representative Reformed discussion of major millennial schools, not a uniform Protestant creed.*)
 
 ### Exodus 23:20; Malachi 3:1; Isaiah 40:3 — Isaiah is named over a three-passage composite quotation {#mark-1-composite-quotation}
 
@@ -731,6 +998,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Three-source composite and early Isaiah attribution supported; original referents distinct from later Christian reading
 - **Primary and scholarly sources:** [Mark 1:2–3 with footnotes and texts of Exodus/Malachi/Isaiah](https://www.biblegateway.com/passage/?search=Mark+1%3A2-3%2CExodus+23%3A20%2CIsaiah+40%3A3%2CMalachi+3%3A1&version=ESV); [NET critical apparatus on Isaiah vs prophets wording](https://classic.net.bible.org/passage.php?passage=Mar+1%3A2-3); [Monograph on OT quotation adaptation in Mark (2023)](https://www.jstor.org/stable/jj.20261345.7); [USCCB translation note on Mark 1:2](https://bible.usccb.org/bible/mark/1).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Scriptural constellation centered on John:** Christian interpretation reads the blended Exodus/Malachi/Isaiah messenger and wilderness passages as a unified portrait of John the Baptist preparing Jesus' way. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
+  - **Citation convention and textual history:** Other Christian textual readers stress ancient citation practices and the manuscripts naming Isaiah versus 'the prophets', without demanding each line originate in Isaiah. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+
 ### Psalm 22:18 (Hebrew; 22:19 in some numbering) — Psalm 22's garment-lot lament becomes two fulfillment actions {#john-19-24-garments-psalm22}
 
 - **Original language:** Psalm 22:18 יְחַלְּקוּ בְגָדַי לָהֶם וְעַל־לְבוּשִׁי יַפִּילוּ גוֹרָל ('they divide my clothes among themselves, and cast lots for my clothing').
@@ -741,6 +1012,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Provisional conclusion:** Scriptural quotation and parallelism clear; specific allocation scene lacks independent attestation
 - **Primary and scholarly sources:** [Psalm 22 original Hebrew garment line](https://biblehub.com/text/psalms/22-18.htm); [USCCB John 19:23–24 and note contrasting John and Synoptics](https://bible.usccb.org/bible/john/19); [Psalm 22 full poem, USCCB numbering 22:19](https://bible.usccb.org/bible/psalms/22); [All Gospels on garment division](https://www.biblegateway.com/passage/?search=Mark+15%3A24%3BJohn+19%3A23-24%3BMatthew+27%3A35%3BLuke+23%3A34&version=NRSVUE).
 
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Passion typology:** The division of garments in Psalm 22 is read as a righteous sufferer's lament reflected in Jesus' passion and the Gospel narration. [Representative context](https://www.oca.org/reflections/misc-authors/how-to-read-the-bible) (*Representative Orthodox typological and liturgical methodology.*)
+  - **Precisely foretold crucifixion detail:** Another apologetic Christian approach presents the garment actions as independently predicted particulars; literary dependence between Gospel and psalm remains a separate question. [Representative context](https://learn.ligonier.org/guides/the-return-of-christ) (*Representative Reformed distinction of first advent, second advent and prophetic fulfillment.*)
+
 ### Isaiah 53:7–8 (Hebrew and ancient Greek) — The Ethiopian official asks who Isaiah's suffering servant is {#acts-8-isaiah53-ethiopian}
 
 - **Original language:** Acts 8:33 quotes Greek ἐν τῇ ταπεινώσει ἡ κρίσις αὐτοῦ ἤρθη ('in his humiliation his justice/judgment was taken away'); Hebrew Isaiah 53:8 reads מֵעֹצֶר וּמִמִּשְׁפָּט לֻקָּח ('by/from oppression and judgment he was taken').
@@ -750,6 +1025,10 @@ An important biblical contrast: [Deuteronomy 18:22](https://www.biblegateway.com
 - **Independent evidence and limitations:** USCCB's critical Acts 8 note identifies the quoted verses and evangelization role, and a direct comparison shows Hebrew/Greek wording differences. The reported angelic instructions, sudden disappearance and precise dialogue are only attested within Acts, not confirmed by independent contemporary records.
 - **Provisional conclusion:** Greek quotation and Jesus application explicit; Hebrew/Greek differences and earlier servant identity remain contested
 - **Primary and scholarly sources:** [Acts 8:26–40 with critical commentary (USCCB)](https://bible.usccb.org/bible/acts/8); [Isaiah 53:7–8 Hebrew and poem context](https://bible.usccb.org/bible/isaiah/53); [Greek Acts 8:33](https://biblehub.com/text/acts/8-33.htm); [Commentary comparing Hebrew Isaiah 53:8 and Acts' LXX wording](https://biblehub.com/commentaries/acts/8-33.htm); [Isaiah 53:8 Hebrew](https://biblehub.com/text/isaiah/53-8.htm).
+
+- **Different Christian readings:** Illustrative Christian perspectives; these do not establish the historical event or denomination-wide consensus:
+  - **Christological servant identified with Jesus:** Luke narrates Philip interpreting Isaiah's suffering servant through Jesus, a central apostolic and patristic Christian reading. [Representative context](https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets) (*Official catechetical overview, not a statement that every Orthodox reader agrees on a particular passage.*)
+  - **Historical servant plus fuller Christian sense:** Another Christian interpretive approach distinguishes the servant's earlier Israel/prophet debates from the later christological application rather than assuming the earlier writer was consciously depicting Jesus. [Representative context](https://www.vatican.va/content/catechism/en/part_one/section_one/chapter_two/article_3/iv_the_canon_of_scripture.html) (*Official general hermeneutical framework, not a verse-by-verse ruling.*)
 
 ## Bounded inventory: ten Matthew fulfillment formulas
 
