@@ -18,7 +18,7 @@
    - **Majority (Burkhardt):** keep the 1889 text, including "directly or indirectly."
    - **Minority (Harbaugh, with Harrington and others):** delete "or indirectly" and add a federal-funds exception ([UMT](https://www.umt.edu/montana-constitution/articles/article-x/x-6.php)).
 3. **Floor substitute (Loendorf):** keep the majority's wording, including "indirectly," but add the federal-funds sentence. It carried **53 Aye, 40 No** (Tr. 2024–2025).
-4. **Campbell amendment:** It would have replaced the final sentence with a broader "nonstate money" clause. It failed **13 Aye, 79 No**, as separately reported by Dougherty (2016), p. 49 n.80, and a 2019 Supreme Court amicus brief, p. 21, both citing **Vol. VI, pp. 2030–31**. The full March 11 primary transcript page images were not independently reopened during the October 20 review. Section 6 as amended was then adopted by voice vote.
+4. **Campbell amendment:** It would have replaced the final sentence with a broader "nonstate money" clause. It failed **13 Aye, 79 No**, as separately reported by Dougherty (2016), p. 49 n.80, and a 2019 Supreme Court amicus brief, p. 21, both citing **Vol. VI, pp. 2030–31**. **Original transcript checked (20 Oct 2026, second review):** the text of Vol. VI in the Montana courts library PDF (https://courts.mt.gov/external/library/mt_cons_convention/vol6.pdf, PDF p. 211) reads, at Tr. 2031: "CLERK HANSON: Mr. Chairman, 13 delegates voting Aye, 79 voting No." The Loendorf substitute's tally ("53 have voted Aye; 40 have voted No") appears at Tr. 2026. Section 6 as amended was then adopted by voice vote.
 5. **Net textual change from 1889:** The prohibition, including "sectarian," "sect," and "indirect," was carried forward. A new subsection (2) exempts "funds from federal sources provided to the state for the express purpose of distribution to non-public education."
 
 ## Convention evidence log
@@ -63,7 +63,7 @@ A narrowly negotiated federal-funds exception answered the parochial-school cons
 
 ## October 20 cross-check limitation
 
-The **13–79** tally has two separately authored documentary citations tracing it to the same specified convention pages: Dougherty's 2016 law-review footnote and the 2019 Supreme Court filing. This corroborates the tally **indirectly**. It does not upgrade the present independent review to *original-transcript verified*. A different 13–79 vote on March 9, recorded as **Kelleher's** failed motion (Vol. VI, p. 1839), must **not** be confused with **Campbell's** March 11 amendment (pp. 2030–31).
+The **13–79** tally has two separately authored documentary citations tracing it to the same specified convention pages: Dougherty's 2016 law-review footnote and the 2019 Supreme Court filing. Those citations corroborated the tally indirectly; the second review then matched it in the original transcript text (Tr. 2031, quoted above), so the 13–79 tally is now *original-transcript verified*. A different 13–79 vote on March 9, recorded as **Kelleher's** failed motion (Vol. VI, p. 1839), must **not** be confused with **Campbell's** March 11 amendment (pp. 2030–31).
 
 ## Remaining limits
 
