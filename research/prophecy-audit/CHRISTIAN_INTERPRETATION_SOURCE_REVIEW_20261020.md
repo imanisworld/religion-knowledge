@@ -23,3 +23,24 @@
 - At the site, keep direct original historical record, later Christian theological reception, and independently corroborated fulfillment separately labeled.
 - [PR #249](https://github.com/imanisworld/religion-knowledge/pull/249) is the pre-#248 source branch. **Do not deploy it or restore its older Gender Over Time files**. PR #250 was ported from the deployed #248 main and leaves `gender-over-time.html` identical to main (blob `6616ced700102c0ceb835e5a7dfee254bd320850`).
 - Complete scholarly/denomination-specific passage checks and obtain documented content review before making PR #250 merge-ready. This note does not approve merging or deployment.
+
+
+## Passage-specific upgrade register — first eight high-disagreement cases
+
+**14 of 141** positions now have a directly relevant original author/church paragraph. **126** remain comparative framework illustrations and **one** has direct Catholic doctrine with a narrower verse-exegesis scope. This is source **attribution** verification, not a declaration that Christianity has one agreed interpretation or that predicted events occurred.
+
+| Case | Verified source | What it really establishes |
+|---|---|---|
+| Isaiah 7:14 — Catholic reading | [Catechism §497](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/artcile_3/paragraph_2_conceived_by_the_power_of_the_holy_spirit_and_born_of_the_virgin_mary.html) | Official Christian fulfillment reading; no Hebrew/first-audience adjudication |
+| Isaiah 7:14 — evangelical two-stage | [GotQuestions, “virgin or young woman?”](https://www.gotquestions.org/virgin-or-young-woman.html) | This ministry's explicit near/far interpretation; no blanket evangelical consensus |
+| Isaiah 53 — OCA liturgy and evangelical essay | [OCA Holy Friday](https://www.oca.org/saints/all-lives/2024/5/3); [Desiring God, Finished](https://www.desiringgod.org/articles/finished) | These particular Christian interpretations connect the servant to Jesus' passion |
+| Jeremiah 31/Hebrews 8 | [Keith Mathison](https://learn.ligonier.org/articles/new-covenant); [John Walvoord](https://bible.org/seriespage/18-new-covenant-israel) | Both named authors explicitly address Hebrews/Jeremiah, differing on Israel's national future |
+| Daniel 8 — Adventist | [Official General Conference belief 24](https://gc.adventist.org/beliefs/) | 1844 sanctuary phase is church doctrine, without independent heavenly-event proof |
+| Daniel 9 | [Mitchell L. Chase](https://www.thegospelcoalition.org/commentary/daniel/); [Michael J. Vlach](https://www.thegospelcoalition.org/essay/dispensational-theology/) | Christian Christ-centered seventieth week contrasted with a dispensational future week |
+| Mark 13:30 | [R. C. Sproul's original sermon](https://learn.ligonier.org/sermons/mark-christ-coming-glory) | Named author's first-century-generation reading; he directly engages objections |
+| Revelation 13 | [D. A. Carson's original sermon](https://www.thegospelcoalition.org/sermon/revelation-13-part-1/) | Recurring beastly political power, without solving 666/616 calculations |
+| Revelation 20 | [Keith Mathison's four-school comparison](https://learn.ligonier.org/articles/millennial-maze) | Named author's accurate descriptions of three further traditions, not universal church pronouncements |
+
+**One bounded official doctrine only:** [Catholic Catechism §§675–677](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_7.html) rejects millenarianism. It does not itself prescribe a complete symbolic exposition of Revelation 20 or establish a specific Orthodox interpretation.
+
+Pending individual-verse author/source checks: all remaining approach examples, including Daniel 8's futurist variant, Mark 13's futurist final generation, Revelation 13's exact gematria, and an actual Orthodox take on the thousand years.
