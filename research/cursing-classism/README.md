@@ -31,6 +31,12 @@
 - **Known potentially different people despite same name:** Thomas Stevens of Great Missenden, *labourer*, in October 1701 versus Thomas Stevens of Wendover, *butcher*, in April 1702. These must not be merged on name alone.
 - **Parent vs child:** John, son of Gabriel White, is a different named defendant from Gabriel White; and the “son of Joan Mayden” is not Joan.
 
+## Extracted-row candidate audit (20 October 2026)
+
+All **32** candidate groups have now been cross-checked against the transcription's name, original page locator, session, locality, role and available qualifying text: [group-by-group audit](duplicate-group-review-20261020.md). Three mixed qualified-name groups are explicitly warned against person-merging (John Porter / John Porter junior, John Mayden / John Mayden junior, Nicholas Grainge senior / junior). Thomas Stevens and Michael Baldwin also have conflicting role/location descriptions. Two Edward Edwards `location` fields contained "first appearance"/"second appearance" rather than geographic places; these spurious values were cleared while preserving that context in `name_detail`. Data integrity and collision guards are tested in `tests/cursing-classism-transcription-integrity.test.mjs`.
+
+**This is an extracted-data review, not a primary manuscript or edited-calendar facsimile verification.** It authorizes no person deduplication, revision of event totals, economic-class inference, or public release. The original-image identity check and the scholarly source-review gate remain open.
+
 ## Field cautions
 
 - `name` is transcribed from issue extraction and may still contain historical variants; `name_detail` is whatever was put in parentheses or offense annotations in that extraction, not a standardized original court field.
