@@ -53,3 +53,7 @@
 - [ ] Confirm individual verse-level theological school attributions against actual original denominational commentaries and scholarly pages; **framework-level links are incomplete evidence for case-specific characterization**.
 - [ ] Rebuild/search-sync and check 390px/1440px, accessibility, keyboard-expanded details, source links and reading flow; independently review before merge.
 - [ ] Later add concise contextual links in The Strongest Case, Study Notes, Translations, Law & Covenant and Illness where relevant—without copying 141 long examples into each reader.
+
+
+- [x] First **eight-case passage-specific** source pass: upgrade **14** original church/author positions and explicitly mark **126** broader approach citations plus one Catholic doctrine-only citation.
+- [ ] Source-gate the remaining **126** specific interpretation claims against official church verse commentary or a named author's source passage (do not equate verified viewpoint with historical fulfillment).
