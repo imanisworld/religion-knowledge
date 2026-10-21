@@ -44,3 +44,16 @@
 **One bounded official doctrine only:** [Catholic Catechism §§675–677](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/article_7.html) rejects millenarianism. It does not itself prescribe a complete symbolic exposition of Revelation 20 or establish a specific Orthodox interpretation.
 
 Pending individual-verse author/source checks: all remaining approach examples, including Daniel 8's futurist variant, Mark 13's futurist final generation, Revelation 13's exact gematria, and an actual Orthodox take on the thousand years.
+
+## Second targeted passage-specific review — four verified positions
+
+Four additional named-source readings have been linked in the registry and synchronized to public HTML and research Markdown. This brings the source-scope totals to **18 / 141 passage-specific**, **122 broader comparative/framework**, and **1 doctrine-only**. This establishes interpretation attribution only, not independent historicity or denominational consensus.
+
+| Passage | Upgraded reading | Specific evidence |
+|---|---|---|
+| hosea-11-1 | Israel recapitulated in Jesus (Richard Belcher) | [Source](https://www.thegospelcoalition.org/sermon/interpretation-part-2/) — Richard Belcher directly examines Hosea 11:1 and Matthew 2:15; this named interpreter does not represent official Catholic or Orthodox doctrine. |
+| jeremiah-31-15 | Exile lament typologically reapplied (Themelios author) | [Source](https://www.thegospelcoalition.org/themelios/article/who-is-the-prophet-talking-about-some-reflections-on-the-new-testaments-use-of-the-old/) — Themelios scholarly article directly discusses Jeremiah 31:15 and Matthew 2:17–18 as typological reuse; no Catholic denomination-wide endorsement inferred. |
+| micah-5-2 | Bethlehem birthplace prediction (Ligonier reading) | [Source](https://learn.ligonier.org/devotionals/bethlehem-ephrathah) — Ligonier's Micah 5:2 devotional directly identifies Bethlehem as a predictive messianic birthplace; a representative Reformed ministry reading, not historical verification. |
+| zechariah-9-9 | Triumphal-entry fulfillment (Michael P. V. Barrett) | [Source](https://www.thegospelcoalition.org/commentary/zechariah/) — Named commentator Michael P. V. Barrett directly discusses Zechariah 9:9 and the Gospel triumphal-entry accounts; theological fulfillment reading only. |
+
+The other readings in those same cases retain their earlier broad-source labels. The 65 original historical assessments remain unchanged. PR #250 stays draft.
