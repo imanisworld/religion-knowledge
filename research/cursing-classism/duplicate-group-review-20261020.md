@@ -1,6 +1,6 @@
 # Candidate repeated-name audit — extracted calendar cross-check
 
-**20 October 2026; secondary-data review only.** Cross-checked all 32 candidate-group member IDs against the 355 transcription rows and compared printed name qualifiers, session, page, locality and occupational detail. **The 1936 edited calendar's original page images and the historical court manuscripts were not re-examined in this review.** The table below is a source-review queue, not a person-identity determination.
+**20 October 2026; secondary-data review only.** Cross-checked all 32 candidate-group member IDs against the 355 transcription rows and compared printed name qualifiers, session, page, locality and occupational detail. **The 1936 edited calendar's original page images and the historical court manuscripts were not re-examined; six high-risk cases have since been checked directly against the Record Society's published HTML calendar.** The table below is a source-review queue, not a person-identity determination.
 
 ## Review dispositions
 
@@ -9,6 +9,19 @@
 - **Two additional conflicts:** Thomas Stevens appears with butcher and labourer descriptions; Michael Baldwin is described with Monks Risborough and Little Kimble. Neither shared name establishes identity.
 - **Same-session multiple mentions:** John Clarke, Isaac Ray and Gabriel White have separate entries in the same court session; avoid deleting either record as an accidental duplicate.
 - **Other cross-session same-name appearances remain indeterminate** without source-page context (residence, age, relatives, offence type, or court's direct repeat-offence reference).
+
+## Targeted check against the published 1936 calendar
+
+The [Buckinghamshire Record Society's complete transcribed Volume II](https://www.bucksrecsoc.org.uk/QS-VOLUMES/QS2.html) was opened directly. The following **six risk cases** were independently rechecked in the society's public transcription (not against the underlying court manuscripts or original facsimile):
+
+- **Printed p. 335:** Nicholas Grainge **senior** and Nicholas Grainge **junior** occur separately in the same swearer list. These two appearance rows must remain distinct.
+- **Printed p. 300:** John Mayden **junior** and John Mayden identified as a **butcher** are separately named; the same passage includes two Edward Edwards mentions, one labeled labourer. Do not collapse either pair on shared name.
+- **Printed pp. 272, 300, 309:** John Porter **junior** is present in an earlier list, whereas p. 300 names John Porter without that qualifier; p. 309 identifies John Porter junior, butcher. Whether unqualified John Porter is the junior remains unproved.
+- **Printed p. 300:** Thomas Stevens is described as a **labourer of Great Missenden**; other occurrences describe a **butcher**. The identity is unresolved.
+- **Printed pp. 282, 300, 309:** Michael Baldwin is associated first with **Monks Risborough** and later with **Little Kimble**, the latter with a labourer description; this is insufficient to identify one person across locations.
+- **Printed p. 300:** both Edward Edwards mentions are in an Aylesbury list; the words 'first/second appearance' were annotations in our extraction, not locations, and were removed from the geographic field.
+
+**Check boundary:** This confirms the distinctions as represented in the **published calendar HTML**. It does not identify different-year defendants as the same people, validate the 1936 editor's accuracy against court manuscripts, or establish the completeness of the underlying prosecutions.
 
 ## Group-by-group extracted-row check
 
