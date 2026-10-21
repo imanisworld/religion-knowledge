@@ -1,4 +1,4 @@
-# Biblical Prophecy Audit — Research and Release Checklist
+# Biblical Prophecy Audit — Post-release Research and Maintenance Checklist
 
 **Updated:** October 20, 2026 · [Status](STATUS.md) · [PR #202](https://github.com/imanisworld/religion-knowledge/pull/202)
 
@@ -35,10 +35,10 @@
 
 ## Integration and bounded-edition release
 
-- [ ] Run case/reader/search consistency tests after each new batch, and check 390px/1440px, light/dark, full-width reading and accessible table row labels.
-- [ ] Reconcile with any future merges to `main` without overwriting Claude's UI or translation evidence.
-- [x] Owner accepted documented limitations and waived outside specialist review **for the bounded 65-case edition only** (STATUS.md). Label public content AI-reviewed and preserve unresolved source citations.
-- [ ] Preserve the separate 21-lead research queue and 54 detailed primary-source checks as future work; do not imply comprehensive coverage.
-- [ ] Obtain a scoped consolidation-freeze exception and explicit merge/deploy approval after final integrated CI. **Do not merge PR #202** merely because CI passes.
+- [x] The bounded 65-case edition passed case/reader/Search validations, received a scoped freeze exception, and was **merged and deployed** through [PR #202](https://github.com/imanisworld/religion-knowledge/pull/202); later navigation/pagination fixes were merged through PRs #230 and #235.
+- [x] Owner accepted documented limitations and waived outside specialist review **for that bounded edition only** (STATUS.md); preserve accuracy about source limits.
+- [x] Keep the separate 21-lead discovery queue and 54 source-check backlog recorded, without implying completeness.
+- [ ] For **new** research changes, rerun case/reader/Search checks, test phone/laptop and light/dark navigation, and reconcile with the then-current `main`. The prior #202 release authorization does not authorize future additions.
+- [ ] Work through the 21 unresearched leads, 54 detailed case-source checks and 11 partly unconfirmed scholarly citations where applicable; do not mark them complete from automated UI tests.
 
 **Stop condition:** The inventory passes a documented completeness search for the declared scope, and every included distinct attribution has a verifiable source passage or is explicitly marked unresolved. There is no universally agreed single count of 'all prophecies.'
