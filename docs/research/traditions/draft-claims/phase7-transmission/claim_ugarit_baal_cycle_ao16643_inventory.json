@@ -1,0 +1,49 @@
+{
+  "related_observation_id": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "scholarly_disagreement": null,
+  "interpretations": [],
+  "status": "draft",
+  "id": "claim_ugarit_baal_cycle_ao16643_inventory",
+  "subject_type": "Tradition",
+  "subject_id": "trad_late_bronze_canaanite_religion",
+  "statement": "A clay cuneiform tablet held by the Louvre (AO 16643 / RS 3.361), excavated at Ras Shamra in 1931, preserves part of the Baal cycle and is cataloged within the Late Bronze Age II horizon, approximately 1400–1200 BCE.",
+  "claim_tier": "OBSERVATION",
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": -1400,
+    "latest": -1200,
+    "precision": "CENTURY"
+  },
+  "region": [
+    "Levant"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY",
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Musée du Louvre, Collections database, AO 16643 / RS 3.361, inscription described as myth (cycle de Ba'al), dated 1400–1200 BCE, https://collections.louvre.fr/en/ark:/53355/cl010141446",
+      "author": "Musée du Louvre",
+      "year": null,
+      "venue": "Louvre Collections",
+      "contemporary_with_event": false,
+      "independent_corroboration": false,
+      "verified_by": "ChatGPT direct museum catalog read",
+      "verified_date": "2026-10-20",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Object inventory lists Ras Shamra acropolis, 1931 discovery, Late Bronze II date 1400–1200 BCE, cuneiform inscription, Baal cycle identification, with KTU 1.1 bibliography. The tablet transcription and scholarly translation were not checked."
+    }
+  ],
+  "does_not_demonstrate": [
+    "The inventory dates an artifact, not the first emergence or the end of Canaanite religion.",
+    "A Ugaritic text cannot be treated as a complete description of all local Canaanite cults.",
+    "The catalog record alone cannot establish transmission into later Israelite texts."
+  ],
+  "adversarial_counter": "The item's broad archaeological date and fragmentary state limit precision; religious generalizations require other texts, sites and historical analysis.",
+  "notes": "Source-based audit: draft awaiting independent reviewer. Suitable as a named primary-artifact locator for the site's documented 1400–1200 BCE Ugaritic textual horizon."
+}

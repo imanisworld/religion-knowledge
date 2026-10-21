@@ -1,0 +1,61 @@
+{
+  "related_observation_id": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "scholarly_disagreement": null,
+  "interpretations": [],
+  "status": "draft",
+  "id": "claim_antonianism_1704_1706_met_essay",
+  "subject_type": "Tradition",
+  "subject_id": "trad_antonianism",
+  "statement": "The Metropolitan Museum of Art's historical account describes the Antonian movement led by Beatriz Kimpa Vita as emerging in 1704 amid Kongo civil conflict, combining an African-localized Catholic vision with calls for political reunification, and records her execution in 1706.",
+  "claim_tier": "OBSERVATION",
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1704,
+    "latest": 1706,
+    "precision": "YEAR"
+  },
+  "region": [
+    "Central Africa"
+  ],
+  "evidence_types": [
+    "LATER_HISTORICAL_ACCOUNT"
+  ],
+  "confidence": "HIGH",
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Alexander Ives Bortolot, 'Women Leaders in African History: Dona Beatriz, Kongo Prophet,' Metropolitan Museum of Art, October 2003, https://www.metmuseum.org/ko/essays/dona-beatriz-kongo-prophet",
+      "author": "Alexander Ives Bortolot",
+      "year": 2003,
+      "venue": "Metropolitan Museum of Art",
+      "contemporary_with_event": false,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT source-specific web review",
+      "verified_date": "2026-10-20",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Direct reading of full curatorial text identifies 1704 possession narrative, political reunification and her execution in 1706. This is a retrospective museum essay drawing in part on Thornton; Capuchin eyewitness accounts were not directly examined."
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "John K. Thornton, The Kongolese Saint Anthony (Cambridge University Press, 1998), publisher's book description, https://www.cambridge.org/core/books/kongolese-saint-anthony/C4CA5BBE5BAB38F5120CF2E510D8BCF7",
+      "author": "John K. Thornton",
+      "year": 1998,
+      "venue": "Cambridge University Press",
+      "contemporary_with_event": false,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT source-specific web review",
+      "verified_date": "2026-10-20",
+      "verification_method": "SEARCH_SNIPPET",
+      "access_note": "Publisher record summary corroborates 1704–1706 movement, peace objective and Kimpa Vita's claims; paywalled chapters and primary Italian Capuchin testimonies were not read."
+    }
+  ],
+  "does_not_demonstrate": [
+    "The curatorial account is not equivalent to first-person testimony by Kimpa Vita.",
+    "Missionary opposition and heresy labeling reflect particular political and religious actors; they do not establish that her community was insincere.",
+    "Execution of its leader in 1706 does not prove that all devotional use of Saint Anthony images ended."
+  ],
+  "adversarial_counter": "The principal documentary record is filtered through missionary opposition, and the specific role of particular political rulers in the trial should be checked against edited eyewitness accounts.",
+  "notes": "The Met's older overview calls the ruler 'Pedro II'; its newer essay attributes the execution order to Pedro IV. Resolution (20 Oct 2026 review): the Met's newer essay and the standard summary of John Thornton's monograph (Wikipedia, 'Kimpa Vita', citing Thornton 1998) both name Pedro IV as the king who had her burned in 1706; the 2003 essay's 'Pedro II' is treated as an error. Thornton's own page has not been checked, so the ruler's name stays out of the claim statement. New Met object records also caution that surviving Saint Anthony pendants cannot always be assigned to this movement with certainty."
+}

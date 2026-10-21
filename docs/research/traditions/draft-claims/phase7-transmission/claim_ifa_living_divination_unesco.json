@@ -1,0 +1,45 @@
+{
+  "id": "claim_ifa_living_divination_unesco",
+  "subject_type": "Tradition",
+  "subject_id": "trad_ifa_orisa",
+  "statement": "UNESCO's Ifa cultural-heritage description identifies a Yoruba divination practice interpreting a system of signs through trained babalawo, practiced in Yoruba communities and parts of the African diaspora; the institution's documentary description is contemporary heritage testimony, not an attestation of when Ifa began.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "West Africa"
+  ],
+  "evidence_types": [
+    "ETHNOGRAPHIC",
+    "ORAL_TRADITION"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "UNESCO Multimedia Archives, 'Ifa of the Yoruba People of Nigeria', descriptive paragraph and 2004 documentary metadata, https://www.unesco.org/archives/multimedia/document-3742",
+      "author": "UNESCO / Ifa Group of Oyo",
+      "year": 2004,
+      "venue": "UNESCO Archives",
+      "contemporary_with_event": false,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT public institutional page review",
+      "verified_date": "2026-10-20",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Full public description and documentary metadata (publisher Ifa Group of Oyo, 2004) were read. Video content not viewed; statements are UNESCO's public account, not direct analysis of Odu Ifa verses."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "A 2004 documentary or 2008 heritage inscription does not date the origins of Ifa practice.",
+    "The institutional synopsis does not verify the content of a particular oral divination verse.",
+    "Yoruba and diaspora communities can differ; the description does not demonstrate a uniform worldwide practice."
+  ],
+  "adversarial_counter": "Specific ritual content and diversity across Yoruba communities would require source-identified practitioner testimony and oral-text recordings.",
+  "status": "draft",
+  "notes": "Institutional-source audit. Scope: named public page and its content only; no tradition founding-year inference. Independent historical / community review required before status change."
+}

@@ -1,0 +1,44 @@
+{
+  "related_observation_id": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "scholarly_disagreement": null,
+  "interpretations": [],
+  "status": "draft",
+  "id": "claim_aksum_constantius_frumentius_ath31",
+  "subject_type": "Tradition",
+  "subject_id": "trad_aksumite_christianity",
+  "statement": "In Athanasius's Apologia ad Constantium §31, the preserved letter of Emperor Constantius addresses Aezanes and Sazanes of Aksum, refers to churches under their rule and orders Bishop Frumentius to be sent to George of Alexandria; this is a textual witness for an organized Aksumite Christian institution and an imperial dispute over its bishop.",
+  "claim_tier": "OBSERVATION",
+  "date_semantics": null,
+  "date": null,
+  "region": [
+    "Horn of Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Athanasius, Apologia ad Constantium §31, English translation in New Advent / Nicene and Post-Nicene Fathers, second series, vol. 4, https://www.newadvent.org/fathers/2813.htm",
+      "author": "Athanasius / trans. in NPNF series",
+      "year": null,
+      "venue": "New Advent online patristic translation",
+      "contemporary_with_event": false,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT source-specific web review",
+      "verified_date": "2026-10-20",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Section 31 was read in English translation; names, churches, Frumentius and George are explicit in the reproduced letter. Greek/Latin text and a critical edition were not checked. The letter itself is not securely dated from this section alone."
+    }
+  ],
+  "does_not_demonstrate": [
+    "The letter does not establish a single undisputed year for Ezana's conversion or the first arrival of Christianity in the region.",
+    "An imperial demand is not evidence that the addressees complied.",
+    "The text itself does not demonstrate the personal beliefs of every inhabitant of Aksum."
+  ],
+  "adversarial_counter": "The surviving passage is transmitted and framed by Athanasius in a polemical dispute about episcopal authority; its wider chronology and reliability need historical-critical treatment.",
+  "notes": "Direct translated primary passage located and read, but not the original language or critical edition. No precision upgrade to the canonical 356–357 date range in this pass."
+}

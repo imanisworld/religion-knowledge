@@ -36,3 +36,6 @@ jobs:
 
       - name: Validate timeline data store
         run: node docs/timeline/scripts/validate-timeline.mjs
+
+      - name: Check new Tradition evidence remains source-bounded
+        run: node --test docs/timeline/tests/traditions-new-evidence-gate.test.mjs

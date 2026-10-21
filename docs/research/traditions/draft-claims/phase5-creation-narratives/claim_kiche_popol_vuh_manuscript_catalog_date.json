@@ -1,0 +1,74 @@
+{
+  "related_observation_id": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "scholarly_disagreement": null,
+  "interpretations": [],
+  "status": "draft",
+  "id": "claim_kiche_popol_vuh_manuscript_catalog_date",
+  "subject_type": "Tradition",
+  "subject_id": "trad_kiche_maya_religion",
+  "statement": "The Newberry Library catalogs the surviving Francisco Ximénez K'iche'/Spanish Popol Vuh manuscript as probably written in 1700–1703; its research guide uses the broader transcription window 1700–1715. These are institutional descriptions of a surviving copy.",
+  "claim_tier": "OBSERVATION",
+  "date_semantics": "SURVIVING_MANUSCRIPT_DATE",
+  "date": {
+    "earliest": 1700,
+    "latest": 1703,
+    "precision": "YEAR"
+  },
+  "region": [
+    "Mesoamerica"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Newberry Library Digital Collections, Arte de las tres lenguas kakchiquel, quiché y tzutuhil [vol. 02], Ayer MS 1515, https://collections.newberry.org/archive/-2KXJ8ZSJPW6AI.html",
+      "author": "Newberry Library",
+      "year": null,
+      "venue": "Newberry Library",
+      "contemporary_with_event": false,
+      "independent_corroboration": false,
+      "verified_by": "ChatGPT direct institutional catalog read",
+      "verified_date": "2026-10-20",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Catalog states 'probably written between 1700 and 1703'; metadata entry concerning the manuscript, not a page-by-page transcription of its content."
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Newberry Library, Popol Vuh research guide, https://www.newberry.org/collection/research-guide/popol-vuh",
+      "author": "Newberry Library",
+      "year": null,
+      "venue": "Newberry Library",
+      "contemporary_with_event": false,
+      "independent_corroboration": false,
+      "verified_by": "ChatGPT direct institutional research guide read",
+      "verified_date": "2026-10-20",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Guide gives broader 1700–1715 window, notes earlier sixteenth-century predecessor as probable, and emphasizes distinct oral/literary transmission. Same holding institution; not independent chronological confirmation."
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Library of Congress, Popol Vuh: Transcription in Quiché Mayan and Translation into Spanish, https://www.loc.gov/item/2021668226/",
+      "author": "Library of Congress",
+      "year": null,
+      "venue": "World Digital Library / Library of Congress",
+      "contemporary_with_event": false,
+      "independent_corroboration": false,
+      "verified_by": "ChatGPT direct catalog read",
+      "verified_date": "2026-10-20",
+      "verification_method": "DIRECT_READ",
+      "access_note": "LOC reproduces partner metadata and gives [1700 to 1703]; not independent manuscript dating."
+    }
+  ],
+  "does_not_demonstrate": [
+    "These dates do not mark the origin of the K'iche' Maya religious tradition.",
+    "The broad and narrow catalog intervals should not be reported as a precise proven moment of copying.",
+    "An early modern manuscript does not date the emergence of the underlying mythic motifs."
+  ],
+  "adversarial_counter": "The Newberry research guide uses the broader interval 1700–1715, so even reputable institutional descriptions differ in precision.",
+  "notes": "Source-based audit: draft awaiting independent review. The existing Tradition entity's 1701–1703 year range is more precise than the catalog entries checked in this pass; reconcile without presenting a founding year."
+}

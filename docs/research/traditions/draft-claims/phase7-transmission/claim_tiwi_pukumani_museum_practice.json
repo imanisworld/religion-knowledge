@@ -1,0 +1,46 @@
+{
+  "id": "claim_tiwi_pukumani_museum_practice",
+  "subject_type": "Tradition",
+  "subject_id": "trad_tiwi_pukumani",
+  "statement": "The Australian Museum's public Pukumani account quotes Tiwi artist Pedro Wonaeamirri and describes commemorative funerary ceremonies centered on carved tutini posts, songs and dance; it also states that contemporary practices can include Christian elements.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Australia"
+  ],
+  "evidence_types": [
+    "ETHNOGRAPHIC",
+    "MATERIAL_CULTURE",
+    "ORAL_TRADITION"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Australian Museum, 'Burial — Pukumani, Tiwi Islands', paragraphs after Pedro Wonaeamirri's statement, updated 6 Dec 2018, https://australian.museum/about/history/exhibitions/death-the-last-taboo/burial-pukumani-tiwi-islands/",
+      "author": "Australian Museum with Tiwi quotation from Pedro Wonaeamirri",
+      "year": 2018,
+      "venue": "Australian Museum",
+      "contemporary_with_event": false,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT public institutional page review",
+      "verified_date": "2026-10-20",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Public page read, including attributed Tiwi testimony, description of ceremonies, tutini posts and acknowledged Christian elements. Does not reproduce sacred restricted instructions."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "Ceremonial accounts do not establish an archaeological date for the origins of Pukumani.",
+    "Christian elements cannot be projected backward unchanged into pre-contact practice.",
+    "A short museum introduction does not exhaust local ceremonial variants or community authority."
+  ],
+  "adversarial_counter": "Museum curation provides a limited external context; source-community custodianship and consent govern further detail.",
+  "status": "draft",
+  "notes": "Institutional-source audit. Scope: named public page and its content only; no tradition founding-year inference. Independent historical / community review required before status change."
+}

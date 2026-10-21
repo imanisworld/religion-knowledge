@@ -1,0 +1,45 @@
+{
+  "id": "claim_shona_matobo_mwari_living_unesco",
+  "subject_type": "Tradition",
+  "subject_id": "trad_shona_religion",
+  "statement": "UNESCO's Matobo Hills inscription describes Mwari worship as a living oracular shrine tradition in that Zimbabwean landscape, associated with sacred sites and current community observance; the document only speculates that the religion may reach the Iron Age.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Southern Africa"
+  ],
+  "evidence_types": [
+    "ETHNOGRAPHIC",
+    "MATERIAL_CULTURE"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "UNESCO World Heritage Centre, 'Matobo Hills' (World Heritage 306rev), sections Brief synthesis and Criterion vi, https://whc.unesco.org/en/list/306/",
+      "author": "UNESCO World Heritage Centre / Zimbabwe heritage authorities",
+      "year": null,
+      "venue": "UNESCO World Heritage",
+      "contemporary_with_event": false,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT public institutional page review",
+      "verified_date": "2026-10-20",
+      "verification_method": "DIRECT_READ",
+      "access_note": "UNESCO text directly read: calls Mwari a practiced oracular tradition, connects it to shrines, and says it *may* date to the Iron Age. Page separates older rock art and archaeology from contemporary shrines."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "UNESCO's conditional 'may date to the Iron Age' is not an established origin date.",
+    "Much older rock art and occupation at Matobo cannot be assigned to current Mwari practice.",
+    "This site-level source does not show continuous Mwari cult worship at Great Zimbabwe specifically."
+  ],
+  "adversarial_counter": "Connecting later Matobo Mwari observance to specific Iron Age or medieval sites needs independent archaeological and textual corroboration.",
+  "status": "draft",
+  "notes": "Institutional-source audit. Scope: named public page and its content only; no tradition founding-year inference. Independent historical / community review required before status change."
+}
