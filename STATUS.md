@@ -4,7 +4,18 @@
 **Authoritative deployment config:** `wrangler.jsonc` (supersedes `wrangler.toml` — see note below)  
 **Last content audit:** 2026-09-26  
 **Last research governance update:** 2026-10-20  
+**Draft Religion & Law release tracker:** [research/religion-law/TODO.md](research/religion-law/TODO.md) (PR #240; not yet canonical)
 **Research edition:** pre-1.0 (versioned releases pending)
+
+---
+
+## Repository handoff — 20 October 2026
+
+**Latest verified baseline:** PR [#248](https://github.com/imanisworld/religion-knowledge/pull/248) merged into `main` at `2a61696f641c648a3642f49e7a04424253a3b0a4` with the Gender Over Time neutral-palette, legibility and evidence-label update. Its [Cloudflare deploy workflow](https://github.com/imanisworld/religion-knowledge/actions/runs/39524339537) was reported successful; a separate independent public HTTP/render check was unavailable. New branches must preserve this deployed design, not restore older Gender reader files.
+
+**Other completed research/integration changes on `main`:** #216 (171-person source-discovery queue, no unsupported status promotions), #222 (18 traditions claims kept in research-only draft data, no public claim-count inflation), #246 (Buckinghamshire swearing-record transcription/identity review, research-only), and #247 (catalog coverage/evidence transparency; replaces closed, unmerged #239 and #243). The separate #212 was **closed without merging**. These merges do not override unresolved source or publication gates.
+
+**Open consolidated release:** [PR #240](https://github.com/imanisworld/religion-knowledge/pull/240) integrates Religion & Law work from still-open drafts #218, #219, #221, #223 and #225. Its last content/CI-validated source-confidence snapshot was `c528356` ([corpus CI](https://github.com/imanisworld/religion-knowledge/actions/runs/39525544214), [governance CI](https://github.com/imanisworld/religion-knowledge/actions/runs/39525544213), both passed). The candidate includes #248 with no changed Gender files. **#240 remains draft, unmerged, unapproved and undeployed.** Document-only changes after that CI snapshot require fresh current-head checks. The next step is explicit owner acceptance of a documented **qualified first-pass** release *or* independent source review, followed by final checks, merge, deploy verification and closure of superseded drafts. See [Religion & Law TODO](research/religion-law/TODO.md).
 
 ---
 
@@ -13,7 +24,7 @@
 - **PR #202 merged:** Biblical Prophecy Audit, 65 AI-reviewed research cases and 70 Search sections. The original 50-locus seed is mapped; 21 additional leads and further original-language/scholarly source checking remain open. See `research/prophecy-audit/STATUS.md`.
 - **PR #213 merged:** Illness Explanations, 13 AI-reviewed claims (4 internally verified and 9 qualified), a nine-section public reader, and 9 Search sections. Canonical claim registry now has **139 unique entries** with the previous 126 unchanged. See `research/illness-explanations/STATUS.md`.
 - **Release checks:** Both corpus and research-governance checks passed on merge commit `cf756397`. [Cloudflare deployment workflow](https://github.com/imanisworld/religion-knowledge/actions/runs/39492093720) succeeded for that commit, serving the `religion-knowledge` worker. A separate unauthenticated HTTP check of the live pages could not be completed from the review environment.
-- **Evidence controls:** The owner accepted source limitations and waived outside specialist review for these bounded editions only. Unchecked original-language passages, unread paywalled studies and the primary Mari tablets remain flagged. PR #212 remains a separate draft; its unverified Cited Persons promotions were not merged. The broader consolidation freeze remains in force.
+- **Evidence controls:** The owner accepted source limitations and waived outside specialist review for these bounded editions only. Unchecked original-language passages, unread paywalled studies and the primary Mari tablets remain flagged. PR #212 was closed **without merging**; its unverified Cited Persons promotions were not incorporated into `main`. The broader consolidation freeze remains in force.
 
 ---
 
@@ -47,15 +58,15 @@ This repository contains both `wrangler.jsonc` and `wrangler.toml`. **`wrangler.
 
 ## Religion & Law Coverage (20 October 2026)
 
-The U.S. research has **50 first-pass state profiles**, including **8 expanded priority states**. Its structured `us-state-starter.json` currently contains **59 state-law records (source-classified) from 16 states (proposed in draft PR #240; source approval outstanding), plus one Texas §21.06 provision-specific causation record held outside the A–E comparison**. The separate `us-state-context.json` has **50 state slots**, of which all **50 have verified first-pass demographic/officeholder context** (**0 remain uncoded**; officeholder data as of 20 October 2026). This is partial research coverage; the record count must not be presented as completed legal coverage of every state.
+**On the unmerged #240 branch only:** 50 first-pass state profiles (8 expanded anchors); **59 classifiable state-law entries from 16 states**, **34 states without normalized classifiable state-law records**, and one Texas §21.06 legal record retained **outside A–E** because its 1973 provision-specific motive is unresolved. Separate demographic/officeholder context covers 50 first-pass state slots but includes unknown and historically sourced affiliations; it is neither proof of current membership nor a legal-causation dataset. On Montana, current legal authorities are distinguishable from a **provisional 1972 mixed-causation interpretation** (transcript OCR/secondary scholarship, without independent original Vol. VI page-image and Vol. II committee inspection). These proposed figures and reader fixes are **not production facts until PR #240 merges**.
 
-The former state-gap-closure research was incorporated into the proposed consolidated Religion & Law stack. This branch is **pending source-gate review and merge**; do not display these proposed counts as canonical until release. It contains five gap-closure research files for Texas, Maine, Montana, cross-state inventories, and a local README. Review/port independently; its conclusions do not alter the canonical 8-state status until accepted.
+The state gap-closure research is consolidated in **draft #240**. Publicly visible reader edits, confidence/coverage labels, Texas and Montana correction records, and the new release checklist all remain **pending source-gate approval and merge**. The tracked gaps are Montana original convention pages and committee records, Texas HB 514 / SB 34 provision-specific intent, dated officeholder sources, court-case/current-law inventories and the remaining 34 states' normalized law rows. The 8 expanded legal profiles are research baselines, not complete state-law encyclopedias. See [module TODO](research/religion-law/TODO.md) and [release-readiness review](research/religion-law/reviews/2026-10-20-release-readiness.md).
 
 ---
 
 ## Cited Persons Follow-up (20 October 2026)
 
-A separate five-entry Perplexity source-discovery batch addressed Archer, Barton, Briggs, MacDonald, and MacIntyre. Bibliographic information was corroborated for some entries, but the needed primary/source-page checks remain outstanding. **All five retain their `UNRESOLVED` markers** and remain within the current 165-person unresolved queue (200 documented / 365 total after the separate six-person Paul-and-the-law batch in draft PR #212). See `docs/research/cited-persons-five-entry-followup-20261020.md`.
+A separate five-entry source-discovery pass addressed Archer, Barton, Briggs, MacDonald and MacIntyre. Bibliography was corroborated for some, but author/source-page passages remain missing. **All five remain `UNRESOLVED`.** The canonical total is **194 documented / 171 unresolved of 365**. Merged #216 records the 171-case research first pass without changing those public counts; closed, unmerged #212 must not be used to add six promotions. See `docs/research/cited-persons-five-entry-followup-20261020.md` and `docs/research/cited-persons-source-readiness-20261020.md`.
 
 ---
 
