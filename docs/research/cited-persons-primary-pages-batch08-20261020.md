@@ -138,7 +138,7 @@
 
 **Evidence and exact textual locator:** Thucydides *History of the Peloponnesian War* **1.22.1** is directly available in original Greek and a Loeb translation on Perseus, asserting both reconstructive judgment about what speakers ought to say and approximation of general sense. The book *Paul and His Social Relations* (2013) contains a chapter excerpt discussing Porter on lexical/grammatical ambiguities, but **the precise quoted Porter original page was not independently accessed**.
 
-**Sources:** https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0003.tlg001.1st1K-eng1:1.22.1/ ; https://www.scribd.com/document/428162878/Porter-Stanley-2013-Paul-and-His-Social-Relations-pdf
+**Sources:** https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0003.tlg001.1st1K-eng1:1.22.1/ ; [unauthorized online copy; link removed]
 
 **Counterevidence / limitation:** Thucydides' original statement does not authorize invention without constraints; nor does it assert verbatim transcripts. Distinguish Porter's linguistic analysis from our own reading or his position on Lukan speeches. Need exact Porter-authored chapter citation and paragraph.
 

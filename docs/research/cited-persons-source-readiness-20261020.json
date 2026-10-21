@@ -6,6 +6,43 @@
     "unresolved": 171,
     "total": 365
   },
+  "status_since_snapshot": {
+    "note": "Added during independent review on 20 October 2026; read affected rows together with current Cited_Persons.md.",
+    "corrected_publicly_in_pr_229": [
+      "Metzger, Bruce",
+      "Moo, Douglas",
+      "Munro, Winsome",
+      "Nix, William",
+      "Pliny the Younger",
+      "Trobisch, David",
+      "Walk, Richard",
+      "Walls, Jerry",
+      "Wason, Peter",
+      "Watson and Rayner",
+      "Wenham, John"
+    ],
+    "reworded_held_unresolved_in_pr_238": [
+      "Sanders, E.P.",
+      "Schreiner, Thomas R.",
+      "Seifrid, Mark A.",
+      "Stuhlmacher, Peter",
+      "Westerholm, Stephen",
+      "Wright, N.T."
+    ],
+    "renamed_on_main": {
+      "Schreiner, Thomas": "Schreiner, Thomas R.",
+      "Seifrid, Mark": "Seifrid, Mark A."
+    },
+    "print_checks_merged_in_pr_238": [
+      "Archer, Gleason L., Jr.",
+      "Barton, John"
+    ],
+    "links_removed": "Links to unauthorized online copies of copyrighted books were removed; citations, editions and page references were kept.",
+    "main_counts": {
+      "documented": 194,
+      "unresolved": 171
+    }
+  },
   "coverage": 171,
   "classification_note": "Provisional programmatic triage from human audit verdict labels; never a source-passed or publishing status",
   "triage_counts": {
@@ -25,7 +62,7 @@
       "verdict_excerpt": "HOLDS, narrowly, pending edition reconciliation. Proposed: “In his discussion of Numbers’ census, Archer rejects the proposal to read *ʾeleph* as ‘clan,’ arguing that the unit sequence and cross-references support 603,550 adult ma",
       "priority_reason": "Printed-edition mismatch",
       "source_links": [
-        "https://www.difa3iat.com/wp-content/uploads/2014/11/Gleason_L_Archer_Encyclopedia_of_Bible_DifficultBookZZ.org_-1.pdf#page=125",
+        "https://archive.org/details/encyclopediaofbi00arch",
         "https://library.puc.edu/heritage/bib-StudpNum.html"
       ],
       "evidence_summary": "| **Archer, Gleason L., Jr.** — current index says his exact dismissal of the *ʾeleph* alternative and defense of Numbers numbers lacked a checked primary passage. | A web-hosted **retypeset** copy of Gleason L. Archer, *Encyclopedia of Bible Difficulties* (Zondervan, 1982), under “Numbers—How trustworthy are statistical numbers…,” **PDF/visible pp. 125–126**, explicitly calls the proposed *ʾeleph* = “clan” reduction “quite untenable” and appeals to Numbers 1:21 plus Exodus 38:25–26 and 12:37. It defends the 603,550 census figure and invokes miraculous desert provision. [Accessible text (not a verified facsimile of the 1982 printed pagination",
@@ -41,11 +78,10 @@
       "verdict_excerpt": "PARTIAL HOLD. Harnack/Marcion criticism has a located author-text passage; retain guarded language until edition check. For Micah 6, no Barton-authored page was inspected. Do not collapse his broader position into “all prophets al",
       "priority_reason": "Separate Harnack/Marcion from unsourced Micah attribution",
       "source_links": [
-        "https://www.scribd.com/document/1002274017/Holy-Writings-Sacred-Text-the-Canon-in-Early-Christianity-Barton-John",
         "https://www.templestudies.org/barton-john-the-prophets-and-the-cult/",
         "https://www.sbl-site.org/wp-content/uploads/2024/11/Olyan_SocialTheory.pdf"
       ],
-      "evidence_summary": "| **Barton, John** — current index holds two specific attributions: Harnack/Marcion and Micah 6. | Online text reproducing John Barton, *Holy Writings, Sacred Text: The Canon in Early Christianity* (1997 UK; Westminster John Knox 1998 US), ch. 2, “Marcion Revisited,” **pp. 37–39**. At p. **37**, Barton says that Harnack's Marcion thesis “has obscured more than it has clarified”; he then argues that Marcion did not provide the Church's ordinary method for identifying canonical texts. [Hosted book text, independently readable, provenance not publisher-verified](https://www.scribd.com/document/1002274017/Holy-Writings-Sacred-Text-the-Canon-in-Ea",
+      "evidence_summary": "| **Barton, John** — current index holds two specific attributions: Harnack/Marcion and Micah 6. | Online text reproducing John Barton, *Holy Writings, Sacred Text: The Canon in Early Christianity* (1997 UK; Westminster John Knox 1998 US), ch. 2, “Marcion Revisited,” **pp. 37–39**. At p. **37**, Barton says that Harnack's Marcion thesis “has obscured more than it has clarified”; he then argues that Marcion did not provide the Church's ordinary method for identifying canonical texts. [Hosted book text, independently readable, provenance not publisher-verified]([unauthorized online copy; link removed]",
       "publication_gate": "NOT CLEARED — source-level human review, publication sync, CI, independent/owner approval"
     },
     {
@@ -288,7 +324,6 @@
       "verdict_excerpt": "- Verdict: CORRECT (date) + QUALIFY (council). The entry's 661 mutilation date is unreliable: scholarly accounts place the final condemnation and mutilation in 662. The Sixth Ecumenical Council (Third of Constantinople, 680–681) f",
       "priority_reason": "Mutilation year and council qualifications",
       "source_links": [
-        "https://www.scribd.com/document/542087033/ALLEN-P-NEIL-B-Eds-Maximus-the-Confessor-and-His-Companions",
         "https://doi.org/10.1093/oxfordhb/9780199673834.013.1",
         "https://doi.org/10.1002/9780470670606.wbecc0873",
         "https://www.vatican.va/content/benedict-xvi/en/audiences/2008/documents/hf_ben-xvi_aud_20080625.html",
@@ -394,11 +429,10 @@
       "verdict_excerpt": "HOLDS as author's reconstructed symbolic argument (A), NOT a demonstrated historical transmission chain. Full reprinted Meeks essay in *In Search of the Early Christians: Selected Essays* (2002), [transcribed hosted text](https://",
       "priority_reason": null,
       "source_links": [
-        "https://dokumen.pub/in-search-of-the-early-christians-selected-essays-9780300130102.html",
         "https://portal.sds.ox.ac.uk/articles/journal_contribution/Meeks_Wayne_A_The_Image_of_the_Androgyne_Some_Uses_of_a_Symbol_in_Earliest_Christianity_Hist_Relig_13_1974/16644001",
         "https://scielo.org.za/scielo.php?pid=S1015-87582014000200006&script=sci_arttext"
       ],
-      "evidence_summary": "| 22 **Wayne A. Meeks** | “Critical scholar; ‘The Image of the Androgyne’ (*History of Religions*, 1974). Traces Galatians 3:28 to Genesis 1:27 androgyne traditions in Jewish and Hellenistic sources.” | **HOLDS as author's reconstructed symbolic argument (A), NOT a demonstrated historical transmission chain.** Full reprinted Meeks essay in *In Search of the Early Christians: Selected Essays* (2002), [transcribed hosted text](https://dokumen.pub/in-search-of-the-early-christians-selected-essays-9780300130102.html), **reprint pp. 11–14, 25–26**: discusses Gal 3:28 as baptismal reunification language, explicitly connects “male and female” to Gen",
+      "evidence_summary": "| 22 **Wayne A. Meeks** | “Critical scholar; ‘The Image of the Androgyne’ (*History of Religions*, 1974). Traces Galatians 3:28 to Genesis 1:27 androgyne traditions in Jewish and Hellenistic sources.” | **HOLDS as author's reconstructed symbolic argument (A), NOT a demonstrated historical transmission chain.** Full reprinted Meeks essay in *In Search of the Early Christians: Selected Essays* (2002), transcribed hosted text (unauthorized online copy; link removed), **reprint pp. 11–14, 25–26**: discusses Gal 3:28 as baptismal reunification language, explicitly connects “male and female” to Gen",
       "publication_gate": "NOT CLEARED — source-level human review, publication sync, CI, independent/owner approval"
     },
     {
@@ -1239,8 +1273,7 @@
       "verdict_excerpt": "Verdict in source note; human classification required",
       "priority_reason": null,
       "source_links": [
-        "https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0003.tlg001.1st1K-eng1:1.22.1/",
-        "https://www.scribd.com/document/428162878/Porter-Stanley-2013-Paul-and-His-Social-Relations-pdf"
+        "https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0003.tlg001.1st1K-eng1:1.22.1/"
       ],
       "evidence_summary": "## 75. Stanley Porter **Current unmodified claim:** ⟨UNRESOLVED⟩ **Porter, Stanley** — Evangelical scholar. Philological argument that Thucydides 1.22.1 claims fidelity to the *general sense* of what was said, not license for invention. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED` **Verdict:** PARTIAL secondary report, his actual author passage still needs checking. **Evidence and exact textual locator:** Thucydides *History of the Peloponnesian War* **1.22.1** is directly availa",
       "publication_gate": "NOT CLEARED — source-level human review, publication sync, CI, independent/owner approval"
@@ -1587,7 +1620,6 @@
       "verdict_excerpt": "Verdict in source note; human classification required",
       "priority_reason": null,
       "source_links": [
-        "https://www.scribd.com/document/127602229/Scanlon-1998-What-We-Owe-to-Each-Other",
         "https://www.jstor.org/stable/j.ctv134vmrn"
       ],
       "evidence_summary": "## 97. Scanlon, T.M. **Current source claim (unmodified):** ⟨UNRESOLVED⟩ **Scanlon, T.M.** — Philosopher; *What We Owe to Each Other* (1998). Contractualism: moral principles are those no one could reasonably reject. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED` **Research verdict:** HOLDS: publisher's edition and readable 1998 author introduction. **Evidence, precise locator, and source-access level:** *What We Owe to Each Other* (Belknap/Harvard University Press, **1998**); intr",
@@ -1670,8 +1702,7 @@
       "verdict_excerpt": "Verdict in source note; human classification required",
       "priority_reason": null,
       "source_links": [
-        "https://openlibrary.org/books/OL3499690M/In_memory_of_her",
-        "https://pdfcoffee.com/elisabeth-fiorenza-in-memory-of-her-a-feminist-theological-reconstruction-of-christian-origins-the-crossroad-publishing-company-1994-pdf-free.html"
+        "https://openlibrary.org/books/OL3499690M/In_memory_of_her"
       ],
       "evidence_summary": "## 102. Schüssler Fiorenza, Elisabeth **Current source claim (unmodified):** ⟨UNRESOLVED⟩ **Schüssler Fiorenza, Elisabeth** — Feminist critical theologian (Harvard); *In Memory of Her* (1983). Reads Galatians 3:28 as evidence of an actual egalitarian social ethos in earliest Christian communities; reads the household codes as later institutional walking-back of that ethos. Her concern is with who has power over interpretation, patriarchy, hierarchy, and whose voices disappear. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 ",
       "publication_gate": "NOT CLEARED — source-level human review, publication sync, CI, independent/owner approval"
@@ -2530,7 +2561,6 @@
       "verdict_excerpt": "Verdict in source note; human classification required",
       "priority_reason": "Weinfeld treaty comparison page/edition missing",
       "source_links": [
-        "https://pdfcoffee.com/moshe-weinfeld-deuteronomy-and-the-deuteronomic-school-oxford-oxford-university-press-1972-pdf-free.html",
         "https://www.persee.fr/doc/ether_0014-2239_1974_num_49_1_2279_t1_0107_0000_2"
       ],
       "evidence_summary": "## 155. Moshe Weinfeld **Exact original claim on main (unchanged):** ⟨UNRESOLVED⟩ **Weinfeld, Moshe** (1925–2009) — Biblical scholar and author of *Deuteronomy and the Deuteronomic School* (1972). The prior entry attributes a detailed comparison with Neo-Assyrian loyalty oaths, the Esarhaddon Succession Treaty, and a resulting Josianic date; those specific correspondences and conclusions require direct pages from Weinfeld or a scholarly treatment before quotation. `UNRESOLVED 12 AUG 2026 — PRIMARY PAGES REQUIRED` **Research verdict:** AUTHOR'S OWN EXPLANATION found; correct 'resulting Josianic date' determinism. **Source passage and access ti",
@@ -2646,7 +2676,6 @@
       "priority_reason": "Wildberger Isaiah 7:14 book passage unread",
       "source_links": [
         "https://books.google.com/books/about/Isaiah_Isaiah_1_12.html?id=iMcpkgAACAAJ",
-        "https://www.scribd.com/document/922928920/Isaiah-1-12-a-Commentary-Continental-Commentaries-Hans-Wildberger-Translated-by-Thomas-H-Trapp-First-Printing-Numerals-Begin-With-1-9",
         "https://www.goarch.org/-/the-word-almah-in-isaiah-7-14"
       ],
       "evidence_summary": "## 162. Hans Wildberger **Original unresolved entry (unaltered on main):** ⟨UNRESOLVED⟩ **Wildberger, Hans** — Critical scholar; *Isaiah 1–12* (Fortress, 1991). Defines *almah* simply as \"a young woman until the birth of her first child\" — no built-in virginity claim. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED` **Audit verdict:** PARTIAL: original edition verified; exact `ʿalmāh` wording presently secondhand. **Directly accessible passage, original record, or source tier:** *Isa",
@@ -2662,8 +2691,7 @@
       "verdict_excerpt": "Verdict in source note; human classification required",
       "priority_reason": "Winter court record argument source missing",
       "source_links": [
-        "https://benbyerly.wordpress.com/bibliographies/acts/",
-        "https://dokumen.pub/reading-acts-theologically-9780567702821-9780567702845-9780567702838.html"
+        "https://benbyerly.wordpress.com/bibliographies/acts/"
       ],
       "evidence_summary": "## 163. Bruce W. Winter **Original unresolved entry (unaltered on main):** ⟨UNRESOLVED⟩ **Winter, Bruce** — Conservative scholar. Argued that Lukan access to official court records for the trial scenes in Acts 24–26 is a live possibility. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED` **Audit verdict:** ARTICLE BIBLIOGRAPHY VERIFIED, court-record thesis quoted in secondary study; author pages held. **Directly accessible passage, original record, or source tier:** Bruce W. Winter, '",
       "publication_gate": "NOT CLEARED — source-level human review, publication sync, CI, independent/owner approval"

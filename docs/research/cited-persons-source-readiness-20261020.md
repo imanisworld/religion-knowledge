@@ -2,6 +2,14 @@
 
 **20 October 2026.** All **171 of the originally unresolved people** have been entered exactly once. This consolidates the fourteen first-pass source audits into a navigable per-person register, but **does not mean 171 claims were source-verified or resolved**. No markers have changed on `main`: **194 documented / 171 unresolved / 365 total**. Draft PR #212's proposed **200/165** remains unpublished.
 
+> **Status since this snapshot (added during independent review, 20 October 2026).** This register reflects main as of its baseline. Later merges changed some entries; read those rows together with current `Cited_Persons.md`:
+>
+> - **Corrected publicly in #229:** Metzger, Moo, Munro, Nix, Pliny the Younger, Trobisch, Walk, Walls, Wason, Watson and Rayner, John Wenham. All remain `UNRESOLVED` with an explicit gap note.
+> - **Reworded but held `UNRESOLVED` in #238 (PR #212 source gate):** Sanders, Schreiner, Seifrid, Stuhlmacher, Westerholm, Wright. Schreiner and Seifrid now appear as "Schreiner, Thomas R." and "Seifrid, Mark A."
+> - **Print checks merged via #238:** Archer (wording matched in the 1982 print edition) and Barton (Marcion wording matched; Micah 6 still unsupported).
+> - **Links removed in review:** links to unauthorized online copies of copyrighted books (Scribd, dokumen.pub, pdfcoffee and a retypeset Archer PDF) were removed; the citations, editions and page references are kept.
+> - Counts on main are unchanged at **194 documented / 171 unresolved**.
+
 The paired [JSON register](./cited-persons-source-readiness-20261020.json) contains each person's original queue position, source-note file, concise verdict, source links, supporting excerpt, priority issue, and release gate. Programmatic labels below are **provisional**, based on verdict wording; **none represents an authorization to promote an attribution**.
 
 ## Provisional evidence/repair queues
