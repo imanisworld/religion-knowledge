@@ -23,7 +23,8 @@ This lists **work still open**, not a request to reopen deployed fixes. Review t
 
 ## Priority 3 — outstanding repository evidence and controls
 
-- [ ] **Cited Persons:** 194 documented / 171 unresolved of 365. First verify original passages for Archer, Barton, Briggs, MacDonald and MacIntyre; **no promotion on bibliography or secondhand paraphrase alone**. [PR #212](https://github.com/imanisworld/religion-knowledge/pull/212) is **closed/unmerged**, not an active merge gate.
+- [x] **Cited Persons first-pass triage complete:** All 171 unresolved entries were inventoried and reviewed at triage level in [merged PR #216](https://github.com/imanisworld/religion-knowledge/pull/216), with 14 batch files and a source-readiness register. **Do not restart the 171-entry triage.**
+- [ ] **Cited Persons passage-verification gate (only where evidence is still missing):** The current canonical markers remain **194 documented / 171 unresolved of 365**. Follow the [existing per-person readiness register](docs/research/cited-persons-source-readiness-20261020.md) to finish exact original-author/page evidence or corrections; do not repeat completed scouting, source discovery, or recorded print checks. The older [PR #212](https://github.com/imanisworld/religion-knowledge/pull/212) is **closed/unmerged**. No promotion merely from a completed triage.
 - [ ] **Prophecy Audit:** Follow the separate [21-lead discovery and original-text checklist](research/prophecy-audit/TODO.md). The 65-case bounded edition is already merged/deployed; new lead research remains source-gated.
 - [ ] **Illness Explanations:** Continue the module's unresolved [original-language, tablet and primary-study checks](research/illness-explanations/STATUS.md); do not restate the AI-reviewed edition as independent external verification.
 - [ ] **Religion & Law:** Verify gaps in the [state coverage/status layer](research/religion-law/README.md) before expanding public conclusions.
