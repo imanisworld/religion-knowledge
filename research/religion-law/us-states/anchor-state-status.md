@@ -1,13 +1,13 @@
 # Anchor-State Status
 
-All eight priority anchor states now have **expanded verified profiles** rather than anchor-only baselines:
+All eight priority anchor states have expanded legal profiles. The scope and source-verification status of individual legal and historical claims remain separate:
 
 - **Maryland** — Articles 36–37, *Torcaso*, Sunday-law history, 1776 Christian-establishment context, current RFRA status, and 2026 worship-access legislation.
 - **Arkansas** — Article 2 religion clauses, 2015 statutory RFRA, failed 2022 constitutional amendment, and the anti-evolution/*Epperson* history.
 - **Louisiana** — Article I, §8, Preservation of Religious Freedom Act, and the unconstitutional Balanced Treatment Act/*Edwards* history.
 - **Connecticut** — current constitutional religion provisions, §52-571b religious-exercise protection, and a documented but mixed-causation history for the 1879 contraception law.
-- **Texas** — Articles I §§4, 6, 6-a, and 7, Chapter 110 state RFRA, and §21.06/*Lawrence* with the 1973 enactment history reviewed (mixed / predominantly secular; closed 2026-10-20).
-- **Montana** — Article II §5, Article X §6, 2021 state RFRA, *Espinoza*, and a separated 1889 Blaine-era versus 1972 readoption causation analysis (1972 convention transcript reviewed 2026-10-20: mixed).
+- **Texas** — Articles I §§4, 6, 6-a, and 7, Chapter 110 state RFRA, and §21.06/*Lawrence* with legal status verified; **specific 1973 enactment motive unresolved** and excluded from A–E.
+- **Montana** — Article II §5, Article X §6, 2021 state RFRA, *Espinoza*, and a separated 1889 Blaine-era versus 1972 readoption causation analysis (**provisional** 1972 historical reading; original page-image and committee-material review pending).
 - **Maine** — Article I §3, *Carson* and the repealed nonsectarian tuition condition, current Sunday-sales statutes, release-time accommodation, and a 1959 enactment-history finding for the motor-vehicle Sunday rule (mixed, industry-driven; closed 2026-10-20).
 - **Massachusetts** — current religion and public-aid constitutional provisions, 1780 establishment and 1833 disestablishment history, and *Goodridge* with no direct religious-causation claim assigned to the inherited pre-*Goodridge* marriage exclusion.
 
@@ -30,6 +30,6 @@ These profiles are materially broader than the original anchors but are **not ex
 - some Sunday/blue-law histories;
 - program-specific education funding/curriculum disputes.
 
-The Texas §21.06, Maine §3203, and Montana 1972 no-aid gaps were closed on 2026-10-20 (see `../gap-closure/`).
+Maine §3203 has a bounded mixed-causation assessment. **Texas §21.06's motive and Montana's 1972 original-primary-page/committee inspection remain open**, as tracked in `../gap-closure/`.
 
 A landmark case or a current statutory text does not by itself establish historical causation. The project continues to keep **current legal effect**, **historical origin**, and **documented causal transmission** as separate fields.
