@@ -88,6 +88,17 @@ jobs:
       - name: Validate app data loading
         run: node scripts/import/validate-app-data.mjs
 
+      - name: Audit timeline source-to-public field coverage
+        run: |
+          node scripts/audit-public-field-visibility.mjs
+          node --test tests/public-field-visibility.test.mjs
+
+      - name: Build catalog and verify source-specific historical dates
+        run: |
+          npm run build:reader-site
+          test -s dist/reader-site/catalog.html
+          node --test tests/public-catalog.test.mjs
+
       - name: Check specialized research page pagination
         run: bash scripts/test-research-page-navigation.sh
 

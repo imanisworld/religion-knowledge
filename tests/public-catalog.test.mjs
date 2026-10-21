@@ -65,3 +65,87 @@ test('religions & traditions list has visible documented periods with evidence-t
   assert.match(html, /href="traditions.html"/);
   assert.doesNotMatch(html, /github\.com/);
 });
+
+
+test('every entity category exposes dating evidence or explicitly reports the missing date', () => {
+  const html = buildPublicCatalog();
+  const groups = ['deities', 'traditions', 'cultures', 'narratives', 'writing_systems'];
+  const slices = new Map(groups.map((id, i) => {
+    const start = html.indexOf('<details id="' + id + '" class="group"');
+    const next = i + 1 < groups.length ? html.indexOf('<details id="' + groups[i + 1] + '" class="group"') : html.indexOf('<details id="people" class="group"');
+    assert.ok(start >= 0 && next > start, 'Category missing or reordered: ' + id);
+    return [id, html.slice(start, next)];
+  }));
+  for (const id of groups) {
+    const block = slices.get(id);
+    const label = id === 'traditions' ? 'Documented period' : 'Date / evidence';
+    assert.ok(block.includes('data-label="' + label + '"'), id + ' must show its dating column');
+    assert.ok(block.includes('<th role="columnheader" scope="col">' + label + '</th>'),
+      id + ' must label dates for desktop readers');
+    assert.match(block, /How to read (these )?dates:/);
+    const rowCount = (block.match(/<tr role="row" data-catalog-row>/g) || []).length;
+    const dateCount = (block.match(new RegExp('data-label="' + label + '"', 'g')) || []).length;
+    assert.ok(rowCount > 0, id + ' must contain records');
+    assert.equal(dateCount, rowCount, id + ' must show a date or explicit gap for every row');
+  }
+
+  assert.match(slices.get('deities'), /1400–1200 BCE/);
+  assert.match(slices.get('deities'), /Dated portrayal in this research|Earliest written evidence recorded/);
+  assert.match(slices.get('deities'), /Date not established/);
+  assert.match(slices.get('cultures'), /1–700 CE/);
+  assert.match(slices.get('cultures'), /No reliable date recorded here/);
+  assert.match(slices.get('narratives'), /700–600 BCE/);
+  assert.match(slices.get('narratives'), /1700–1715 CE/);
+  assert.match(slices.get('writing_systems'), /3350 BCE/);
+  assert.match(slices.get('writing_systems'), /1821 CE/);
+  assert.match(slices.get('writing_systems'), /end date not established/);
+  assert.match(html, /Biographical dates appear only where an entry explicitly records them/);
+});
+
+
+test('catalog exposes supported motifs, script origin classifications, source limitations and meaningful person warnings', () => {
+  const html = buildPublicCatalog();
+  const section = (name, next) => {
+    const i = html.indexOf('<details id="' + name + '" class="group"');
+    const j = html.indexOf('<details id="' + next + '" class="group"', i + 1);
+    assert.ok(i >= 0 && j > i, 'Missing category: ' + name);
+    return html.slice(i, j);
+  };
+  const narratives = section('narratives','writing_systems');
+  const writing = section('writing_systems','people');
+  const traditions = section('traditions','cultures');
+  const people = html.slice(html.indexOf('<details id="people" class="group"'));
+
+  assert.match(narratives, /Narrative themes recorded in this research/);
+  assert.match(narratives, /earth clay human, flood/);
+  assert.match(narratives, /maize plant creation/);
+  assert.match(narratives, /Shared themes alone do not establish borrowing/);
+  assert.match(writing, /Writing system development — research classification/);
+  assert.match(writing, /stimulus diffusion/);
+  assert.match(writing, /Proposed script ancestry \(under review\)/);
+  assert.match(writing, /Aramaic Script \(disputed\)/);
+  assert.match(writing, /needs its own evidence check/);
+  assert.match(traditions, /Linked sources and their limits/);
+  assert.match(traditions, /University of Chicago — Ras Shamra Tablet Inventory/);
+  assert.match(traditions, /not evidence every Canaanite cult was identical/);
+  assert.match(people, /Source or context warning/);
+  assert.doesNotMatch(people, /Background context included/);
+  assert.doesNotMatch(html, /github\.com/);
+});
+
+
+test('catalog clearly identifies five research families held for further verification',()=>{
+  const html=buildPublicCatalog();
+  assert.match(html, /<details class="status" id="research-coverage">/);
+  assert.match(html, /These lists cover 5 of 10 Timeline research categories/);
+  assert.match(html, /51 research records across five categories/);
+  assert.match(html, /Historical gender systems \(21\)/);
+  assert.match(html, /Historical knowledge records \(3\)/);
+  assert.match(html, /Historical political societies \(9\)/);
+  assert.match(html, /Human populations and evolution \(6\)/);
+  assert.match(html, /Historical texts and inscriptions \(12\)/);
+  assert.match(html, /community knowledge boundaries/);
+  assert.match(html, /records differ from these Timeline entries/);
+  assert.match(html, /Related reading pages are not guaranteed to reproduce these records/);
+  assert.doesNotMatch(html, /github\.com/);
+});
