@@ -54,7 +54,7 @@ This is the structural key. The American Law Institute's **Model Penal Code (196
 
 The AMA Journal of Ethics confirms this pattern nationally: "Kansas, Texas, Montana, Kentucky, Missouri, Nevada, and Tennessee decriminalized opposite-sex consensual sodomy, leaving consensual same-sex sodomy as a misdemeanor crime." This was a documented national legislative pattern — states in the 1960s–70s reform wave that adopted a modified MPC often retained same-sex-specific provisions as a political compromise to secure passage of the broader reform package.
 
-The UTEP thesis (Ross 2016) establishes the textual lineage directly: the 1973 §21.06 definition ("any contact between any part of the genitals of one person and the mouth or anus of another person [of the same sex]") is rooted in a **portion** of the 1943 Texas sodomy statute, which was itself gender-neutral. The 1973 act **narrowed** the 1943 provision from a general sodomy offense to a same-sex-specific one — a structural choice made within the professional revision process, not through introduction of new religious pressure.
+The UTEP thesis (Ross 2016) establishes the textual lineage directly: the 1973 §21.06 definition ("any contact between any part of the genitals of one person and the mouth or anus of another person [of the same sex]") is rooted in a **portion** of the 1943 Texas sodomy statute, which was itself gender-neutral. The 1973 act **narrowed** the 1943 provision from a general sodomy offense to a same-sex-specific one — a structural choice made during the professional code-revision process; the reviewed passages do not establish whether religious pressure influenced this particular 1973 decision.
 
 ---
 
@@ -62,7 +62,7 @@ The UTEP thesis (Ross 2016) establishes the textual lineage directly: the 1973 �
 
 ### Direct documentary evidence of religious advocacy into the 1973 proceedings
 
-**None identified.** The LRL records describe the driving negotiation as among the State Bar, TDCAA, and TCDLA. No witness lists, committee testimony records, or floor journal entries attributing §21.06's same-sex specificity to religious-group advocacy have been located in accessible sources. The Senate committee report version of SB 34 is missing from the bill file, which limits what can be confirmed from that side.
+**None identified in the accessible passages reviewed.** The LRL records describe codewide negotiations among the State Bar, TDCAA, and TCDLA. No witness lists, committee testimony records, or floor journal entries attributing §21.06's same-sex specificity to religious-group advocacy have been located in accessible sources. The Senate committee report version of SB 34 is missing from the bill file, which limits what can be confirmed from that side.
 
 ### What is well-documented
 
