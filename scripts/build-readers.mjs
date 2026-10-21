@@ -21,6 +21,21 @@ marked.use({ mangle: false, headerIds: false });
 // Links are [displayText, href].
 
 const RELATED_BY_DOC = {
+  'law-covenant.html': {
+    's2': [
+      [['Study §9.6.3 the ANE treaty debate', 'master-notes.html#s9-6-3']],
+    ],
+    's3-2': [
+      [['Observations §22.9 the law-keeping problem', 'field-guide.html#s22-9']],
+    ],
+    's5': [
+      [['Study §9.5.2 the New Perspective', 'master-notes.html#s9-5-2'],
+       ['Study §9.5.3 the curse of the law', 'master-notes.html#s9-5-3']],
+    ],
+    's6': [
+      [['Study §1.5 selective law-keeping', 'master-notes.html#s1-5']],
+    ],
+  },
   'history.html': {
     's2-4': [
       [['Study §5.4 damnation escalation', 'master-notes.html#s5-4'],
@@ -184,6 +199,7 @@ const DOCSWITCH = [
   { label: 'Translations',       href: 'translations.html' },
   { label: 'Method &amp; Reference', href: 'method-reference.html' },
   { label: 'Glossary',           href: 'glossary.html' },
+  { label: 'Law &amp; Covenant',  href: 'law-covenant.html' },
   { label: 'Cited Persons',      href: 'cited-persons.html' },
   { label: 'Religion &amp; Law', href: 'religion-law.html' },
   { label: 'Personal History',   href: 'personal-belief-history.html' },
@@ -274,6 +290,19 @@ audit sections onward is marked.</p>`,
     masthead: 'Translations',
     meta:     '<span><b>Source</b>ESV + audiobook</span><span><b>Updated</b>August 2026</span><span><b>Companion</b><a href="master-notes.html">Study Notes</a></span>',
     hasAudits: false,
+    hasHowto:  false,
+    chapterMarkers: false,
+  },
+  {
+    md:       'Law_and_Covenant.md',
+    html:     'law-covenant.html',
+    title:    'Law &amp; Covenant',
+    doctitle: 'Law &amp; Covenant',
+    docsub:   'Torah, covenant, and Paul',
+    lens:     'Torah, the Covenants, Second Temple Judaism, and Paul',
+    masthead: 'Law &amp; Covenant',
+    meta:     '<span><b>Source</b>NRSVue</span><span><b>Updated</b>20 October 2026</span><span><b>Companion</b><a href="master-notes.html">Study Notes</a></span>',
+    hasAudits: true,
     hasHowto:  false,
     chapterMarkers: false,
   },
@@ -904,13 +933,23 @@ function buildSitebar() {
 // ── Docswitch HTML ────────────────────────────────────────────────────────────
 
 function buildDocswitch(currentHref) {
-  const docLinks = DOCSWITCH.filter(({ href }) => href !== 'search.html').map(({ label, href }) => {
-    const on = href === currentHref;
-    return `<a${on ? ' class="on" href="#"' : ` href="${href}"`}>${label}</a>`;
-  }).join('');
-  const caret = `<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>`;
-  return `<details class="library"><summary><span>Documents</span>${caret}</summary>` +
-    `<div class="docswitch">${docLinks}</div></details>`;
+  // Native document picker: the 11-document list no longer expands into a
+  // second full-height navigation inside the table of contents.
+  const groups = [
+    ['Reading', ['master-notes.html', 'field-guide.html', 'history.html', 'other-side.html', 'translations.html', 'law-covenant.html']],
+    ['Sources & references', ['sources.html', 'method-reference.html', 'glossary.html', 'cited-persons.html']],
+    ['Other topics', ['religion-law.html', 'personal-belief-history.html']],
+  ];
+  const options = groups.map(([name, hrefs]) =>
+    `<optgroup label="${name}">` + hrefs.map(href => {
+      const document = DOCSWITCH.find(item => item.href === href);
+      return `<option value="${href}"${href === currentHref ? ' selected' : ''}>${document.label}</option>`;
+    }).join('') + '</optgroup>'
+  ).join('');
+  return `<div class="document-picker">
+    <label for="document-switcher">Switch document</label>
+    <select id="document-switcher" aria-label="Switch document">${options}</select>
+  </div>`;
 }
 
 // ── Toolbar HTML ──────────────────────────────────────────────────────────────
@@ -1595,6 +1634,12 @@ hr+*{margin-top:0}
 const JS = `
 const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
 
+/* One compact document selector replaces the tall list of navigation cards. */
+const documentPicker = $('#document-switcher');
+if(documentPicker) documentPicker.addEventListener('change', () => {
+  if(documentPicker.value) location.assign(documentPicker.value);
+});
+
 /* keep wheel/trackpad scrolling inside the navigation rail */
 const rail=$('#rail'), railToc=$('#toc');
 if(rail&&railToc) rail.addEventListener('wheel',e=>{
@@ -1737,7 +1782,7 @@ function buildPage(doc, tocHtml, contentHtml) {
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Atkinson+Hyperlegible+Next:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Atkinson+Hyperlegible+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 ${CSS}
-</style><link rel="stylesheet" href="site-shell.css">${doc.html === 'master-notes.html' || doc.html === 'field-guide.html' ? '<link rel="stylesheet" href="reader-chapters.css">' : ''}<script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script></head><body class="rk-with-sitebar rk-reader-page">
+</style><link rel="stylesheet" href="site-shell.css"><link rel="stylesheet" href="reader-chapters.css"><script>try{var __v="religion-knowledge-theme-default-v2";if(!localStorage.getItem(__v)){localStorage.removeItem("religion-knowledge-theme");localStorage.setItem(__v,"1")}var __t=localStorage.getItem("religion-knowledge-theme");document.documentElement.dataset.theme=__t||"light"}catch(e){document.documentElement.dataset.theme="light"}</script></head><body class="rk-with-sitebar rk-reader-page">
 ${buildSitebar()}
 <button id="menu" aria-label="Toggle navigation"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
 <div id="overlay"></div>
@@ -1767,7 +1812,7 @@ ${contentHtml}
 <button id="top" aria-label="Back to top"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"/></svg></button>
 <script>
 ${JS}
-</script><script src="highlight-referral.js"></script><script src="correction-form.js"></script>${doc.html === 'master-notes.html' || doc.html === 'field-guide.html' ? '<script src="reader-chapters.js"></script>' : ''}
+</script><script src="highlight-referral.js"></script><script src="correction-form.js"></script><script src="reader-chapters.js"></script>
 </body></html>
 `;
 }

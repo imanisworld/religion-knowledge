@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { buildSearchIndex } from './build-search-index.mjs';
 import { buildPublicCatalog } from './build-public-catalog.mjs';
+import { buildTraditionsPage } from './build-traditions-profiles.mjs';
 
 const RESEARCH_READERS = [
   ['master-notes.html', 'Study Notes', 'The full study — audits, corrections, and the reading in progress.'],
@@ -11,8 +12,11 @@ const RESEARCH_READERS = [
   ['other-side.html', 'The Strongest Case', 'The strongest traditional and apologetic cases, stated fairly.'],
   ['translations.html', 'Translations', 'Translation history and the choices behind disputed renderings.'],
   ['translation-evidence.html', 'Translation Evidence', 'What changed in Bible translations, how it changed, why, and what the evidence establishes.'],
+  ['prophecy-audit.html', 'Biblical Prophecy Audit', 'Trace earlier passages, later fulfillment claims, and external historical evidence.'],
+  ['illness-explanations.html', 'Illness Explanations', 'Ancient illness, spirits, divine punishment, medicine, contagion, and evidence limits.'],
   ['method-reference.html', 'Method & Reference', 'Survey method, open audit queue, reading timeline.'],
   ['glossary.html', 'Glossary', 'Terms and definitions used across the study.'],
+  ['law-covenant.html', 'Law & Covenant', 'Torah, the biblical covenants, Second Temple Judaism, and the scholarly debate over Paul and the law.'],
   ['cited-persons.html', 'Cited Persons', 'Who the cited scholars, theologians, historians, and other sources are — including relevant context and flags.'],
   ['religion-law.html', 'Religion & Law', 'U.S. and comparative law research separating legal text, historical influence, current rationale, and enforceability.'],
   ['gender-over-time.html', 'Gender Over Time', 'Sex, gender systems, intersex history, religious roles, reproduction, law, and social classification across cultures and time.'],
@@ -23,11 +27,12 @@ const PERSONAL_PAGES = [
 ];
 const DISCOVERY_PAGES = [
   ['catalog.html', 'Gods, Religions & People', 'Find gods, religions, cultures, stories, and the people cited in this research.'],
+  ['traditions.html', 'Religions & Traditions', 'Explore 27 historical profiles with documented periods, types of evidence, and research limitations.'],
   ['comparisons.html', 'Comparison Tables', 'See timelines and tables comparing history, law, gender, and biblical texts.'],
   ['search.html', 'Search the Library', 'Look up a name, word, place, or question across the research.'],
 ];
 // The catalog is generated from Timeline data at build time; it is not a committed reader file.
-const GENERATED_PAGES = new Set(['catalog.html']);
+const GENERATED_PAGES = new Set(['catalog.html','traditions.html']);
 const READERS = [...RESEARCH_READERS, ...PERSONAL_PAGES, ...DISCOVERY_PAGES]
   .filter(([file]) => !GENERATED_PAGES.has(file));
 
@@ -56,13 +61,34 @@ const MISC_FILES = [
   'site-shell.css',
   'reader-chapters.js',
   'reader-chapters.css',
+  'research-page-nav.js',
+  'research-page-nav.css',
+  'traditions.js',
+  'traditions.css',
 ];
 
-const RESEARCH_DIRS = [
-  'research/religion-law',
-  'research/gender-over-time',
-  'research/translation-evidence',
-  'research/synthesis',
+// Only files needed for public navigation and research source links are deployed.
+// Internal STATUS/REVIEW/TODO/staging records remain in GitHub, outside the site.
+const PUBLIC_RESEARCH_FILES = [
+  ...[
+    'us-constitutional-federal.md', 'formal-law-institutional-practice.md',
+    'comparative-constitutional-systems.md', 'us-state-law.md',
+    'state-context-methodology.md', 'methodology.md', 'source-registry.md',
+  ].map(name => 'research/religion-law/' + name),
+  ...[
+    'records/us-federal-starter.json', 'records/us-state-starter.json',
+    'records/us-md-maryland.json', 'records/policy-influence.json',
+    'records/global-legal-structure.json', 'records/institutional-practice.json',
+    'context/us-state-context.json',
+  ].map(name => 'research/religion-law/' + name),
+  ...fs.readdirSync('research/religion-law/us-states')
+    .filter(name => name.endsWith('.md') &&
+      !['anchor-state-status.md', 'profile-template.md'].includes(name))
+    .map(name => 'research/religion-law/us-states/' + name),
+  'research/gender-over-time/index.md',
+  'research/gender-over-time/records.json',
+  'research/translation-evidence/index.md',
+  'research/synthesis/index.md',
 ];
 
 const CANONICAL_SOURCES = [
@@ -76,25 +102,6 @@ const CANONICAL_SOURCES = [
   'Translations.md',
   'Personal_Belief_History.md',
 ];
-
-function copyDirectory(source, target) {
-  fs.mkdirSync(target, { recursive: true });
-  for (const entry of fs.readdirSync(source, { withFileTypes: true })) {
-    const from = path.join(source, entry.name);
-    const to = path.join(target, entry.name);
-    if (entry.isDirectory()) copyDirectory(from, to);
-    else fs.copyFileSync(from, to);
-  }
-}
-
-function countFiles(dir) {
-  let count = 0;
-  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
-    const item = path.join(dir, entry.name);
-    count += entry.isDirectory() ? countFiles(item) : 1;
-  }
-  return count;
-}
 
 function parseArgs(argv) {
   const args = { output: 'dist/reader-site' };
@@ -123,7 +130,7 @@ function buildIndexHtml() {
     'history.html', 'religion-law.html', 'gender-over-time.html', 'patterns-synthesis.html',
   ]));
   const bibleCards = cardsFor(pick([
-    'translations.html', 'translation-evidence.html', 'master-notes.html', 'field-guide.html', 'other-side.html',
+    'translations.html', 'translation-evidence.html', 'prophecy-audit.html', 'illness-explanations.html', 'master-notes.html', 'field-guide.html', 'other-side.html', 'law-covenant.html',
   ]));
   const referenceCards = cardsFor(pick([
     'sources.html', 'cited-persons.html', 'method-reference.html', 'glossary.html',
@@ -443,14 +450,11 @@ const allFiles = [
   ...DATA_FILES,
   ...generatedFiles,
   ...CANONICAL_SOURCES,
+  ...PUBLIC_RESEARCH_FILES,
 ];
 for (const file of allFiles) {
   if (!fs.existsSync(file)) throw new Error(`Deploy input missing: ${file}`);
 }
-for (const dir of RESEARCH_DIRS) {
-  if (!fs.existsSync(dir)) throw new Error(`Deploy research directory missing: ${dir}`);
-}
-
 fs.rmSync(output, { recursive: true, force: true });
 fs.mkdirSync(output, { recursive: true });
 
@@ -459,15 +463,12 @@ for (const file of allFiles) {
   fs.mkdirSync(path.dirname(target), { recursive: true });
   fs.copyFileSync(file, target);
 }
-for (const dir of RESEARCH_DIRS) {
-  copyDirectory(dir, path.join(output, dir));
-}
-
 // app/index.html now owns the light-first theme bootstrap so local,
 // standalone, and deployed builds all share the same behavior.
 
 fs.writeFileSync(path.join(output, 'index.html'), buildIndexHtml(), 'utf8');
 fs.writeFileSync(path.join(output, 'catalog.html'), buildPublicCatalog(), 'utf8');
+fs.writeFileSync(path.join(output, 'traditions.html'), buildTraditionsPage(), 'utf8');
 
 // Build search index from the reader HTML files already copied to dist
 const searchIndex = buildSearchIndex(output);
@@ -480,8 +481,7 @@ console.log(`READER_SITE_BUILD_SUMMARY=${JSON.stringify({
   app_files: APP_FILES.length,
   data_files: DATA_FILES.length + generatedFiles.length,
   canonical_sources: CANONICAL_SOURCES.length,
-  research_dirs: RESEARCH_DIRS.length,
-  research_files: RESEARCH_DIRS.reduce((total, dir) => total + countFiles(dir), 0),
+  public_research_files: PUBLIC_RESEARCH_FILES.length,
   search_entries: searchIndex.length,
-  total_files: allFiles.length + RESEARCH_DIRS.reduce((total, dir) => total + countFiles(dir), 0) + 3,
+  total_files: allFiles.length + 4,
 })}`);

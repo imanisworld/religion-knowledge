@@ -9,6 +9,7 @@ const DOCUMENTS = [
   ['Translations.md', 'translations.html', 'Translations'],
   ['Method_and_Reference.md', 'method-reference.html', 'Method & Reference'],
   ['Glossary.md', 'glossary.html', 'Glossary'],
+  ['Law_and_Covenant.md', 'law-covenant.html', 'Law & Covenant'],
 ];
 
 // cited-persons.html is hand-maintained; Cited_Persons.md is a working draft
@@ -27,6 +28,7 @@ const SWITCHER_LABELS = [
   'Translations',
   'Method & Reference',
   'Glossary',
+  'Law & Covenant',
   'Cited Persons',
   'Religion & Law',
   'Personal History',
@@ -92,6 +94,36 @@ const idsFor = (file) => {
   return readerIds.get(file);
 };
 
+const SWITCHER_HREFS = [
+  'master-notes.html', 'field-guide.html', 'history.html', 'other-side.html',
+  'translations.html', 'law-covenant.html', 'sources.html', 'method-reference.html',
+  'glossary.html', 'cited-persons.html', 'religion-law.html',
+  'personal-belief-history.html',
+];
+const EXPECTED_PICKER_LABELS = [
+  'Study Notes','Observations','History','The Strongest Case','Translations','Law & Covenant',
+  'Sources','Method & Reference','Glossary','Cited Persons',
+  'Religion & Law','Personal History',
+];
+function validateDocumentPicker(html, htmlFile) {
+  const picker = html.match(/<select\b[^>]*id="document-switcher"[^>]*>([\s\S]*?)<\/select>/)?.[1] || '';
+  const options = [...picker.matchAll(/<option\b([^>]*)>([\s\S]*?)<\/option>/g)];
+  const labels = options.map(match => plain(match[2]));
+  const hrefs = options.map(match => match[1].match(/\bvalue="([^"]+)"/)?.[1] || '');
+  if (JSON.stringify(labels) !== JSON.stringify(EXPECTED_PICKER_LABELS) ||
+      JSON.stringify(hrefs) !== JSON.stringify(SWITCHER_HREFS)) {
+    failures.push(htmlFile + ': incorrect compact document selector labels or destinations');
+  }
+  const selected = options.filter(match => /\bselected\b/.test(match[1]));
+  const selectedHref = selected[0]?.[1].match(/\bvalue="([^"]+)"/)?.[1] || '';
+  if (selected.length !== 1 || selectedHref !== htmlFile) {
+    failures.push(htmlFile + ': document picker must select exactly the current reader');
+  }
+  if ((picker.match(/<optgroup\b/g) || []).length !== 3) {
+    failures.push(htmlFile + ': expected three document groups');
+  }
+}
+
 for (const [markdownFile, htmlFile, expectedTitle] of DOCUMENTS) {
   const markdown = fs.readFileSync(markdownFile, 'utf8');
   const html = fs.readFileSync(htmlFile, 'utf8');
@@ -119,16 +151,8 @@ for (const [markdownFile, htmlFile, expectedTitle] of DOCUMENTS) {
   const actualTitle = plain(html.match(/<title>([\s\S]*?)<\/title>/i)?.[1] || '');
   if (actualTitle !== expectedTitle) failures.push(`${htmlFile}: expected title "${expectedTitle}", found "${actualTitle}"`);
 
-  const switcher = html.match(/<div class="docswitch">([\s\S]*?)<\/div>/)?.[1] || '';
-  const switcherLinks = [...switcher.matchAll(/<a([^>]*)>([\s\S]*?)<\/a>/g)]
-    .filter((match) => !match[1].includes('app-link'));
-  const labels = switcherLinks.map((match) => plain(match[2]));
-  if (JSON.stringify(labels) !== JSON.stringify(SWITCHER_LABELS)) {
-    failures.push(`${htmlFile}: unexpected reader switcher labels: ${JSON.stringify(labels)}`);
-  }
-  if (switcherLinks.filter((match) => /class="[^"]*\bon\b/.test(match[1])).length !== 1) {
-    failures.push(`${htmlFile}: reader switcher must have exactly one active entry`);
-  }
+  validateDocumentPicker(html, htmlFile);
+
 
   for (const href of [...html.matchAll(/href="([^"]+)"/g)].map((match) => match[1])) {
     if (href.includes('+letter+')) continue;
@@ -155,6 +179,7 @@ for (const [htmlFile, expectedTitle] of STANDALONE_READERS) {
   if (duplicateIds.length) failures.push(`${htmlFile}: duplicate ids: ${duplicateIds.join(', ')}`);
 
   const actualTitle = plain(html.match(/<title>([\s\S]*?)<\/title>/i)?.[1] || '');
+  validateDocumentPicker(html, htmlFile);
   if (actualTitle !== expectedTitle) failures.push(`${htmlFile}: expected title "${expectedTitle}", found "${actualTitle}"`);
 
   for (const href of [...html.matchAll(/href="([^"]+)"/g)].map((match) => match[1])) {

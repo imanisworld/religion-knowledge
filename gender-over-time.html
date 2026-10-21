@@ -87,6 +87,7 @@ td:first-child{font-weight:600;width:22%}
 @media(max-width:560px){main{padding:3rem 1rem 4rem}.localnav{margin-left:-1rem;margin-right:-1rem;padding-left:1rem}.layers{grid-template-columns:1fr}h1{font-size:3.1rem}table{display:block;overflow-x:auto}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 </style>
+<link rel="stylesheet" href="research-page-nav.css">
 </head>
 <body class="rk-with-sitebar">
 <header class="rk-sitebar">
@@ -102,7 +103,7 @@ td:first-child{font-weight:600;width:22%}
   </div>
 </header>
 
-<main>
+<main data-research-pager>
   <header class="hero">
     <p class="eyebrow">Cross-cultural research module</p>
     <h1>Gender Over Time</h1>
@@ -580,5 +581,6 @@ document.getElementById('theme').addEventListener('click',()=>{
   try{localStorage.setItem('religion-knowledge-theme',root.dataset.theme)}catch(e){}
 });
 </script>
+<script src="research-page-nav.js"></script>
 </body>
 </html>
