@@ -24,12 +24,21 @@
 | Maryland 2026 clergy terminology bill | [HB 36](https://www.mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0036?ys=2026RS) and [SB 93](https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0093?ys=2026RS) | These concern changes to **terminology** referring to clergy and faith institutions. They are not verified as a proposal to remove the clergy confessional-reporting exception. Neither had an enacted-chapter designation on the reviewed tracking pages. | **Correction committed in #221** and propagated to #223/#225 |
 | Alabama lieutenant governor affiliation | [Official Ainsworth biography](https://ltgov.alabama.gov/about/) | Describes prior work as a youth pastor. Establishes **historical pastoral role**; source does not affirm membership in a faith group as of October 2026. | **Date caution**; historical identity cannot be silently presented as present-day membership |
 
+## Public reader and confidence corrections in consolidated draft #240
+
+- The Montana state profile and normalized law record now separate established current legal status from the **provisional** 1972 history; original Vol. VI page images and Vol. II committee records remain unchecked. Confidence is medium for the overall mixed legal/history row rather than high for every part.
+- Texas §21.06 motive stays **unresolved**, outside A–E despite the statute and *Lawrence* status being established. Public status indexes no longer call the motive issue closed.
+- The public overview distinguishes 50 first-pass states from **59 classifiable law-level records across 16 states** (34 states lacking normalized law rows). Row details now show each record's `scope_note` and confidence.
+- Source-dated officeholder affiliation details distinguish historical positions from current membership, which is not inferred from older biographies.
+
+**These corrections repair public qualification/coverage mismatches; they do not certify the missing original historical passages or approve deployment.**
+
 ## Checks and remaining release conditions
 
 1. **Further primary historical passage review:** Campbell's Montana 13–79 tally has **two independent later citations** to Vol. VI pp. 2030–31 plus a project match against the transcript OCR at p. 2031. **Independent page-image verification and original Vol. II committee material remain pending**; the separate March 9 Kelleher tally must not be substituted. Maine 1959 wording cannot exceed qualified source scope; Texas HB 514 hearing tapes/records are needed before a motive is assigned to §21.06.
 2. **Category-E overclaim corrected:** Texas `US-TX-PENAL-21-06` has been **removed** from the published-comparison A–E dataset and retained as `records/pending-causation/us-tx-penal-21-06.json`. **59** classifiable state-law entries remain across **16** states, plus **1 pending** Texas law. *Lawrence*'s unenforceability holding remains separately documented. Restore a causal classification only on provision-specific evidence.
 3. **Statutory currency and case-law review:** the four inventory tables cover eight anchor states but still lack case-law inventories and comprehensive amendment surveillance. Limited statute spot checks do not certify every cell.
 4. **Officeholder source freshness:** 50 state first-pass entries are populated, but *first-pass* is not synonymous with current personal membership verified for every officeholder. Historical sources, including several older than five years, must stay dated; historic ministry/upbringing is not a current-affiliation source.
-5. **Technical integration:** the previous complete-stack CI check on draft snapshot passed. The subsequent Texas/Maryland corrections need fresh integrated CI; #232 fixes the full-suite test setup, but has not been merged into this research stack. Do not assert that the complete test suite passed on a new stack SHA until it has actually run.
+5. **Technical integration:** #240 had previously passed CI after reconciliation, but the confidence-and-coverage updates must receive new CI checks on their current commit SHA. Do not claim new-commit CI success before those checks conclude.
 
 **Release instruction:** Keep #218, #219, #221, #223 and #225 drafts until owner approval. The unsupported Texas A–E classification is corrected, but this does **not** certify all external passage checks, dated officeholder memberships, or cross-state statutes. The general major-expansion freeze remains in force.
