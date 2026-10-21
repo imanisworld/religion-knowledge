@@ -77,7 +77,7 @@ const PUBLIC_RESEARCH_FILES = [
   ].map(name => 'research/religion-law/' + name),
   ...[
     'records/us-federal-starter.json', 'records/us-state-starter.json',
-    'records/us-md-maryland.json', 'records/policy-influence.json',
+    'records/us-md-maryland.json', 'records/pending-causation/us-tx-penal-21-06.json', 'records/policy-influence.json',
     'records/global-legal-structure.json', 'records/institutional-practice.json',
     'context/us-state-context.json',
   ].map(name => 'research/religion-law/' + name),

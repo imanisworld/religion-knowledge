@@ -1,7 +1,7 @@
 # Maine — Religion & Law Profile
 
-**Research status:** Expanded anchor profile verified; Sunday-law enactment-specific causation remains open  
-**Last verified:** 2026-09-27  
+**Research status:** Expanded anchor profile verified; §3203 enactment history reviewed (gap closed 2026-10-20)  
+**Last verified:** 2026-10-20 (§3203 history); 2026-09-27 (all other sections)  
 **Confidence:** High for current statutes, constitutional text, and *Carson*; medium for historical causation of the motor-vehicle-specific Sunday rule
 
 ## Constitutional provisions
@@ -52,7 +52,10 @@ Maine currently prohibits specified buying, selling, exchanging, dealing, or tra
 
 - **Status:** In force.
 - **Penalty:** Class E crime.
-- **Classification:** Current operational rule = E/B hybrid for this database: a commerce restriction with documented placement in a religious/holy-day statutory lineage, but with specific enactment motive still unresolved.
+- **Enactment:** S.P. 381 / L.D. 1107, “An Act to Prohibit the Selling of Motor Vehicles on Sunday,” 99th Legislature (1959).
+- **Who asked for it:** The Maine Automobile Dealers Association. In the Senate, Sen. Dow said the bill “was sponsored by the Maine Automobile Dealers Association” and that “80 per cent voted to close on Sunday,” and Sen. Hillman said he sponsored it “in behalf of the automobile dealers” ([Senate Legislative Record, May 5, 1959, pp. 1363–1365](https://lldc.mainelegislature.org/Open/LegRec/_99/Senate/LegRec_1959-05-05_SP_p1359-1367.pdf)). Dow, opposing, called it “discriminatory.”
+- **Stated reasons:** In the House, Mr. Good of Sebago said the industry “requested that they be permitted to observe the Lord's Day”; the dealers' questionnaire showed 77% in favor; and Rep. Dumais said it was “impossible to finance a sale on a Sunday” and that Sunday visitors were mostly “curiosity seekers.” The committee vote was 9–1 ([House Legislative Record, May 6, 1959, p. 1420](https://lldc.mainelegislature.org/Open/LegRec/_99/House/LegRec_1959-05-06_HP_p1419-1453.pdf)).
+- **Classification:** **C — Mixed religious influence.** Industry and competitive motives predominate, with explicit Lord's Day framing in the debate and placement in the “Holy Days” subchapter. No separate religious-organization lobbying was found. Structured record: `US-ME-17-3203`. Full analysis: `../gap-closure/maine-sunday-motor-vehicle-rule.md`.
 - **Confidence:** High for current effect; medium for historical-causation classification.
 
 ### Broader Sunday-law chapter
@@ -65,10 +68,10 @@ That statutory architecture supplies direct evidence that Maine's Sunday rules d
 
 Maine's chapter retains multiple repealed Sunday-law provisions alongside the current sections. The surviving framework reflects a legal transition from explicitly “Lord's Day” regulation toward modern commercial and day-of-rest rules.
 
-- **Causation assessment:** **Documented religious historical influence** for the broader Sunday-law lineage; **specific causation unresolved** for the current motor-vehicle-sales restriction.
+- **Causation assessment:** **Documented religious historical influence** for the broader Sunday-law lineage; **mixed causation, industry-driven with explicit Lord's Day framing,** for the 1959 motor-vehicle-sales restriction (see §3203 above).
 - **Confidence:** Medium-high.
 
-This is deliberately narrower than the research handoff's claim that Puritan Sabbatarianism directly caused the current §3203 without an enactment-specific legislative record.
+This is deliberately narrower than the research handoff's claim that Puritan Sabbatarianism directly caused the current §3203 without an enactment-specific legislative record. The 1959 record shows the dealers, not a religious body, supplied the organized pressure.
 
 ## Landmark cases
 
@@ -84,11 +87,12 @@ This is deliberately narrower than the research handoff's claim that Puritan Sab
 - Maine Legislature, 17 M.R.S. §3204, Sunday business/travel/recreation: https://legislature.maine.gov/statutes/17/title17sec3204.html
 - Maine Legislature, 20 M.R.S. §1224-A, release time for religious observance: https://legislature.maine.gov/statutes/20/title20sec1224-A.html
 - Maine Legislature, L.D. 1340 (2015), proposed RFRA, disposition Leave to Withdraw: https://legislature.maine.gov/doc/2529
+- Maine Legislative Record, Senate, May 5, 1959, pp. 1363–1365: https://lldc.mainelegislature.org/Open/LegRec/_99/Senate/LegRec_1959-05-05_SP_p1359-1367.pdf
+- Maine Legislative Record, House, May 6, 1959, p. 1420: https://lldc.mainelegislature.org/Open/LegRec/_99/House/LegRec_1959-05-06_HP_p1419-1453.pdf
 - *Carson v. Makin*, 596 U.S. 767 (2022): https://supreme.justia.com/cases/federal/us/596/20-1088/
 
 ## Remaining gaps
 
-- Original enactment history and lobbying record for the motor-vehicle-specific Sunday restriction.
 - Colonial-to-modern evolution of Maine's Sunday statutes.
 - Religious-property tax exemptions.
 - Healthcare and employment conscience accommodations.

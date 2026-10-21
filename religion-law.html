@@ -129,6 +129,7 @@
   .overview-grid{grid-template-columns:1fr}
   .metric+.metric::before{display:none}
 }
+a{overflow-wrap:anywhere}
 </style>
 <script>
 try{const t=localStorage.getItem('religion-knowledge-theme');if(t==='dark'||t==='light')document.documentElement.dataset.theme=t}catch(e){}
@@ -175,7 +176,6 @@ const ROOT='research/religion-law/';
 const INDEX=ROOT+'us-states/index.md';
 const FEDERAL_RECORDS=ROOT+'records/us-federal-starter.json';
 const STATE_RECORDS=ROOT+'records/us-state-starter.json';
-const MARYLAND_RECORDS=ROOT+'records/us-md-maryland.json';
 const STATE_CONTEXT=ROOT+'context/us-state-context.json';
 const POLICY_DATA=ROOT+'records/policy-influence.json';
 const GLOBAL_DATA=ROOT+'records/global-legal-structure.json';
@@ -227,7 +227,19 @@ const D_FACETS={
   'US-WY-CONST-ARTI-S19':['limits'],
   'US-WY-CONST-ARTVII-S8-S12':['limits'],
   'US-WY-9-29-101-104':['protects'],
-  'md-const-decl-rights-36':['protects']
+  'US-AR-CONST-ART2-S24':['protects','limits'],
+  'US-AR-CONST-ART2-S26':['limits'],
+  'US-AR-16-123-401-RFRA':['protects'],
+  'US-CT-CONST-ART1-S3':['protects'],
+  'US-CT-CONST-ART7':['protects','limits'],
+  'US-CT-GS-52-571B':['protects'],
+  'US-LA-CONST-ARTI-S8':['protects','limits'],
+  'US-LA-RS-13-5231-PRFA':['protects'],
+  'US-MA-CONST-PT1-ART2':['protects'],
+  'US-MA-CONST-ART46-S1':['protects'],
+  'US-MA-CONST-ART46-S2-ART103':['limits'],
+  'US-MA-CONST-ART11-1833':['limits'],
+  'US-MD-DECL-ART36':['protects']
 };
 function dFacetsFor(id){return D_FACETS[id]||[]}
 function relationshipHtml(r){
@@ -305,31 +317,12 @@ function normalizeStructured(list){
       id:r.id,name:r.formal_citation,jurisdiction,subject:r.subject||'',
       classification:code,relationship:(RELATIONSHIPS[code]||{}).label||'Unclassified',dFacets:code==='D'?dFacetsFor(r.id):[],
       legalEffect:r.legal_effect||'',religionConnection:r.religion_connection||'',
-      otherCauses:(r.competing_causes||[]).join('; '),status:r.status||'',
+      otherCauses:(r.competing_causes||[]).join('; '),scopeNote:r.scope_note||'',confidence:r.confidence||'',status:r.status||'',
       evidence:[...(r.evidence_type||[]),r.primary_authority,r.explanatory_authority].filter(Boolean).join(' · '),
       lastVerified:r.last_verified||'',
       route:sub?'#state='+slugifyPlace(sub):'#doc=federal'
     };
   });
-}
-function normalizeMaryland(profile){
-  const constitutional=(profile.constitutional_provisions||[]).map(r=>({
-    id:r.id,name:r.instrument+' — '+r.article,jurisdiction:profile.jurisdiction_name,
-    subject:'constitutional provision',classification:r.category||'',
-    relationship:(RELATIONSHIPS[r.category]||{}).label||'Unclassified',dFacets:r.category==='D'?dFacetsFor(r.id):[],
-    legalEffect:r.current_text||'',religionConnection:r.category_note||'',
-    otherCauses:'',status:r.enforceability||'',evidence:r.source||'',
-    lastVerified:profile.last_verified||'',route:'#state=maryland'
-  }));
-  const historical=(profile.historical_provisions||[]).map(r=>({
-    id:r.id,name:r.name+(r.year?' ('+r.year+')':''),jurisdiction:profile.jurisdiction_name,
-    subject:'historical provision',classification:r.category||'',
-    relationship:(RELATIONSHIPS[r.category]||{}).label||'Unclassified',dFacets:r.category==='D'?dFacetsFor(r.id):[],
-    legalEffect:r.description||'',religionConnection:r.category_note||'',
-    otherCauses:'',status:r.enforceability||'historical',evidence:r.source||'',
-    lastVerified:profile.last_verified||'',route:'#state=maryland'
-  }));
-  return constitutional.concat(historical);
 }
 function drawNav(filter=''){
   const q=filter.trim().toLowerCase();
@@ -398,7 +391,9 @@ function recordRow(r){
   const effect=r.legalEffect.length>220?r.legalEffect.slice(0,217)+'…':r.legalEffect;
   const details=[
     r.religionConnection?'<div><b>Religion connection</b>'+esc(r.religionConnection)+'</div>':'',
-    r.otherCauses?'<div><b>Other causes</b>'+esc(r.otherCauses)+'</div>':'',
+    r.otherCauses?'<div><b>Competing explanations</b>'+esc(r.otherCauses)+'</div>':'',
+    r.scopeNote?'<div class="wide"><b>Scope &amp; evidence limits</b>'+esc(r.scopeNote)+'</div>':'',
+    r.confidence?'<div><b>Record confidence (including history)</b>'+esc(r.confidence)+'</div>':'',
     r.evidence?'<div class="wide"><b>Evidence / authority</b>'+esc(r.evidence)+'</div>':'',
     r.lastVerified?'<div><b>Last verified</b>'+esc(r.lastVerified)+'</div>':'',
     '<div><b>Current status</b>'+esc(statusLabel(r.status))+'</div>',
@@ -452,10 +447,11 @@ function sourceLinks(sources){
 function renderOverview(){
   const verified=states.filter(s=>s.verified).length;
   const rc=relationshipCounts();
+  const statesWithLawRecords=new Set(records.filter(r=>r.route?.startsWith('#state=')).map(r=>r.route)).size;
   return '<h1 class="overview-title">Research overview</h1>'+
-    '<div class="statusline"><span class="pill">'+verified+' first-pass state baselines verified</span><span class="pill">'+states.length+' states scaffolded</span><span class="pill">'+records.length+' structured law records</span></div>'+
+    '<div class="statusline"><span class="pill">'+verified+' first-pass state baselines</span><span class="pill">'+statesWithLawRecords+' states with classified law records</span><span class="pill">'+(states.length-statesWithLawRecords)+' states without normalized law records</span></div>'+
     '<nav class="overview-nav" aria-label="Overview sections"><a href="#compare-laws">Compare laws</a><a href="#practice-overview">Formal law vs practice</a><a href="#policy-overview">U.S. policy</a><a href="#global-overview">Global structure</a></nav>'+
-    '<p class="note"><strong>Important:</strong> “first-pass baseline verified” does not mean a complete state survey. It means the cited baseline entries have primary legal authority and a verification date. Historical-causation claims remain separate and require their own evidence.</p>'+
+    '<p class="note"><strong>Evidence limits:</strong> First-pass state baselines are selective; only '+statesWithLawRecords+' of '+states.length+' states have classified law rows. Montana’s 1972 historical interpretation is provisional (original page and committee inspection pending), while Texas §21.06 remains outside A–E until provision-specific motive evidence is available. Open a row’s “Details” to see scope qualifications.</p>'+
     '<div class="overview-grid">'+
       '<section class="overview-card"><h2>Included here</h2><p><strong>Current law:</strong> statutes, constitutional provisions, and controlling doctrines that explicitly concern religion or religious exercise.</p><p><strong>Historical law:</strong> repealed or superseded rules when they matter to the religion-and-law record.</p><div class="overview-stats"><span class="overview-stat"><b>'+rc.A+'</b> explicitly religious</span><span class="overview-stat"><b>'+rc.B+'</b> historical origin</span></div></section>'+
       '<section class="overview-card"><h2>Also mapped</h2><p><strong>Mixed influence:</strong> religion materially shaped a rule alongside other causes.</p><p><strong>Religion / government boundary:</strong> protections for private religious exercise are separated from limits on government religious power. Some rules do both.</p><div class="overview-stats"><span class="overview-stat"><b>'+rc.C+'</b> mixed influence</span><span class="overview-stat"><b>'+rc.DP+'</b> protects exercise</span><span class="overview-stat"><b>'+rc.DL+'</b> limits government religious power</span></div></section>'+
@@ -625,7 +621,7 @@ function renderStateContext(ctx){
       (pop.summary_note?'<p class="context-summary">'+esc(pop.summary_note)+'</p>':'')
     : '<div class="context-empty">Detailed state percentages have not yet been coded into this repository. The state-level Pew source is linked below.</div>';
   const powerHtml=holders.length
-    ? '<div class="power-wrap"><table class="power-table responsive-table"><thead><tr><th>Power position</th><th>Current holder</th><th>Publicly documented religion</th><th>Evidence</th></tr></thead><tbody>'+
+    ? '<div class="power-wrap"><table class="power-table responsive-table"><thead><tr><th>Power position</th><th>Holder (at review date)</th><th>Documented religion or historical association</th><th>Evidence</th></tr></thead><tbody>'+
       holders.map(h=>{
         const links=[
           h.office_source?'<a href="'+esc(h.office_source)+'" target="_blank" rel="noopener">Office ↗</a>':'',
@@ -638,7 +634,7 @@ function renderStateContext(ctx){
     : '<div class="context-empty">The standard power-position review has not yet been completed for this state. Unknown affiliations will remain unknown rather than being inferred.</div>';
   return '<section class="context-layer" id="religious-landscape-power">'+
     '<h2>Religious landscape &amp; institutional power</h2>'+
-    '<p class="context-intro">State religious-composition estimates and publicly documented affiliations for selected officeholders. This layer is contextual and separate from the A–E law classifications.</p>'+
+    '<p class="context-intro">State survey estimates and time-bounded public sources for selected officeholders. Some biographies confirm a former religious role but do not prove present membership. Unknown present affiliations remain unknown. This layer is separate from A–E law classifications.</p>'+
     '<p class="context-warning"><strong>Do not read this as causation:</strong> a state’s religious population or an officeholder’s religion does not establish why a law exists.</p>'+
     '<div class="context-meta">'+meta+'</div>'+
     '<h3>Population religious composition</h3>'+shareHtml+contextSourceLink(pop.source_url,pop.source_name||'Population source')+
@@ -657,7 +653,7 @@ function renderComparison(){
   $('#content').innerHTML=
     renderOverview()+
     '<section class="section-block" id="compare-laws"><div class="db-head"><div><h2>Compare laws</h2><p>Start with the relationship between religion and the rule, then check what the rule does and whether it still operates today.</p></div></div>'+
-    '<p class="note"><strong>Coverage note:</strong> This table currently shows records already normalized into structured data. State profiles contain additional verified baseline research that is still being converted into law-level records.</p>'+
+    '<p class="note"><strong>Coverage note:</strong> Only 16 of 50 states currently have normalized classified state-law records; 34 states have first-pass state profiles without classified rows. Texas §21.06 is deliberately withheld from A–E until its 1973 provision-specific motive is supported. Open each row’s Details to see qualifications.</p>'+
     renderFilters()+
     '<div class="table-wrap"><table class="compare-table responsive-table law-table"><thead><tr><th>Law / rule</th><th>Place</th><th>Religion relationship</th><th>What it does / did</th><th>Current status</th></tr></thead><tbody id="comparisonBody"></tbody></table></div>'+
     '<nav class="rk-topic-pager rk-table-pager" id="law-row-pager" aria-label="Law table pages"><button type="button" data-previous>Previous</button><button type="button" data-next>Next</button><span class="rk-pager-status" data-status></span></nav></section>'+
@@ -708,13 +704,13 @@ async function route(){
 }
 async function init(){
   try{
-    const data=await Promise.all([getText(INDEX),getJson(FEDERAL_RECORDS),getJson(STATE_RECORDS),getJson(MARYLAND_RECORDS),getJson(STATE_CONTEXT),getJson(POLICY_DATA),getJson(GLOBAL_DATA),getJson(PRACTICE_DATA)]);
+    const data=await Promise.all([getText(INDEX),getJson(FEDERAL_RECORDS),getJson(STATE_RECORDS),getJson(STATE_CONTEXT),getJson(POLICY_DATA),getJson(GLOBAL_DATA),getJson(PRACTICE_DATA)]);
     states=parseIndex(data[0]);
-    records=normalizeStructured(data[1]).concat(normalizeStructured(data[2]),normalizeMaryland(data[3]));
-    stateContexts=Object.fromEntries((data[4]||[]).map(x=>[x.slug,x]));
-    policyRows=data[5]||[];
-    globalRows=data[6]||[];
-    practiceRows=data[7]||[];
+    records=normalizeStructured(data[1]).concat(normalizeStructured(data[2]));
+    stateContexts=Object.fromEntries((data[3]||[]).map(x=>[x.slug,x]));
+    policyRows=data[4]||[];
+    globalRows=data[5]||[];
+    practiceRows=data[6]||[];
     const verified=states.filter(s=>s.verified).length;
     const contextCoded=Object.values(stateContexts).filter(x=>x.coverage_status==='verified_first_pass').length;
     $('#metrics').innerHTML='<span class="metric"><b>'+states.length+'</b> states scaffolded</span><span class="metric"><b>'+verified+'</b> first-pass baselines verified</span><span class="metric"><b>'+records.length+'</b> structured comparison records</span><span class="metric"><b>'+contextCoded+'</b> state context profile coded</span>';
