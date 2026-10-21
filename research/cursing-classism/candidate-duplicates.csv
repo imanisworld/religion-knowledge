@@ -1,0 +1,33 @@
+﻿name,appearances,ids,sessions,locations,status
+Thomas Stevens,3,BK014;BK189;BK262,Easter 1700; Michaelmas 1701 — 9 October 1701; Easter 1702 — 16 April 1702,,CONFLICTING ROLES: one labourer and two butcher occurrences; same-person identity unestablished
+Thomas Rowell,2,BK020;BK249,Michaelmas 1700; Epiphany 1701/02 — 15 January 1702,,candidate only; no automatic identity merger
+John Clarke,4,BK023;BK041;BK089;BK139,Michaelmas 1700; Midsummer 1702; Midsummer 1701 — 17 July 1701,,candidate only; no automatic identity merger
+Charles Deane,3,BK028;BK057;BK112,Michaelmas 1700; Epiphany 1700/01; Easter 1701 — 1 May 1701,,candidate only; no automatic identity merger
+Thomas Eaton,3,BK030;BK056;BK247,Michaelmas 1700; Epiphany 1700/01; Epiphany 1701/02 — 15 January 1702,,candidate only; no automatic identity merger
+Isaac Ray,2,BK031;BK043,Michaelmas 1700,,candidate only; no automatic identity merger
+Gabriel White,3,BK032;BK044;BK171,Michaelmas 1700; Michaelmas 1701 — 9 October 1701,Aylesbury,candidate only; no automatic identity merger
+Henry Stevens,3,BK033;BK052;BK125,Michaelmas 1700; Epiphany 1700/01; Easter 1701 — 1 May 1701,Amersham,candidate only; no automatic identity merger
+Humphrey Peters,2,BK036;BK223,Michaelmas 1700; Epiphany 1701/02 — 15 January 1702,Chesham,candidate only; no automatic identity merger
+John Porter junior,3,BK048;BK213;BK222,Epiphany 1700/01; Michaelmas 1701 — 9 October 1701; Epiphany 1701/02 — 15 January 1702,Chesham,QUALIFIER COLLISION: BK213 omits junior; do not equate named persons without the original source
+Thomas Benning,2,BK053;BK225,Epiphany 1700/01; Epiphany 1701/02 — 15 January 1702,Chesham,candidate only; no automatic identity merger
+John Mayden,3,BK063;BK170;BK173,Epiphany 1700/01; Michaelmas 1701 — 9 October 1701,Aylesbury,QUALIFIER COLLISION: BK170 is junior and BK063/BK173 omit qualifier; do not merge on shared name stem
+Robert Mayden,2,BK064;BK174,Epiphany 1700/01; Michaelmas 1701 — 9 October 1701,Aylesbury,candidate only; no automatic identity merger
+Nicholas Grainge senior,2,BK069;BK070,Midsummer 1702,,DISTINCT QUALIFIERS: BK069 senior and BK070 junior; must not be merged as one person
+Richard Foster,2,BK072;BK193,Midsummer 1702; Michaelmas 1701 — 9 October 1701,Aston Clinton,candidate only; no automatic identity merger
+William Todd,2,BK080;BK136,Midsummer 1702; Midsummer 1701 — 17 July 1701,,candidate only; no automatic identity merger
+John Bone,3,BK083;BK169;BK235,Midsummer 1702; Michaelmas 1701 — 9 October 1701; Epiphany 1701/02 — 15 January 1702,Aylesbury,candidate only; no automatic identity merger
+Thomas Dawney,3,BK085;BK141;BK176,Midsummer 1702; Midsummer 1701 — 17 July 1701; Michaelmas 1701 — 9 October 1701,Aylesbury,candidate only; no automatic identity merger
+William Welch,2,BK086;BK254,Midsummer 1702; Easter 1702 — 16 April 1702,Aylesbury,candidate only; no automatic identity merger
+John Kempster,2,BK100;BK230,Midsummer 1702; Epiphany 1701/02 — 15 January 1702,,candidate only; no automatic identity merger
+Thomas Brackley,2,BK117;BK151,Easter 1701 — 1 May 1701; Midsummer 1701 — 17 July 1701,,candidate only; no automatic identity merger
+Michael Baldwin,3,BK120;BK208;BK218,Easter 1701 — 1 May 1701; Michaelmas 1701 — 9 October 1701; Epiphany 1701/02 — 15 January 1702,Little Kimble,DIFFERENT LOCALITY LABELS: Monks Risborough versus Little Kimble; identity unestablished
+John Row,2,BK126;BK197,Easter 1701 — 1 May 1701; Michaelmas 1701 — 9 October 1701,Wing; Aston Clinton,candidate only; no automatic identity merger
+Henry Munday,2,BK133;BK236,Midsummer 1701 — 17 July 1701; Epiphany 1701/02 — 15 January 1702,Aylesbury,candidate only; no automatic identity merger
+John Rance,2,BK145;BK172,Midsummer 1701 — 17 July 1701; Michaelmas 1701 — 9 October 1701,Aylesbury,candidate only; no automatic identity merger
+Edward Edwards,2,BK168;BK178,Michaelmas 1701 — 9 October 1701,first appearance; second appearance,candidate only; no automatic identity merger
+John Botley,2,BK239;BK263,Epiphany 1701/02 — 15 January 1702; Easter 1702 — 16 April 1702,Grendon Underwood,candidate only; no automatic identity merger
+John Jessett of Aylesbury,2,BK289;BK336,Epiphany 1702/03; Midsummer 1703,Aylesbury,candidate only; no automatic identity merger
+Thomas Sheppard of Wendover,2,BK295;BK301,Epiphany 1702/03; Easter 1703,Wendover,candidate only; no automatic identity merger
+Richard Clarke junior of Great Kimble,2,BK304;BK314,Easter 1703; Midsummer 1703,Great Kimble,candidate only; no automatic identity merger
+Thomas Dunstan of Hawridge,2,BK328;BK343,Midsummer 1703; Michaelmas 1703,Hawridge,candidate only; no automatic identity merger
+Francis Woodcock of Aylesbury,2,BK333;BK349,Midsummer 1703; Epiphany 1703/04,Aylesbury,candidate only; no automatic identity merger
