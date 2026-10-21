@@ -208,14 +208,14 @@
       "Ratification risk: fear that changing the clause would endanger the whole 1972 Constitution",
       "Federal-funds access for nonpublic-school children (answered by subsection (2))"
     ],
-    "scope_note": "The constitutional text remains, but Espinoza limits application that excludes otherwise eligible religious schools from the scholarship program at issue solely because of religious status.",
+    "scope_note": "The constitutional text and Espinoza status are established. The 1972 historical interpretation is provisional: floor passages and Loendorf's 53–40/Campbell's 13–79 vote tallies were matched in transcript OCR and later scholarship, but original Vol. VI page images and Vol. II committee records have not been independently checked. Legal-text confidence is higher than historical-causation confidence.",
     "status": "in_force_limited",
     "primary_authority": "Montana Constitution art. X, § 6, official Legislature publication",
-    "explanatory_authority": "Espinoza v. Montana Department of Revenue, 591 U.S. 464 (2020); Montana Constitutional Convention Verbatim Transcript Vol. VI pp. 2007–2032 (Mar. 11, 1972) — https://courts.mt.gov/external/library/mt_cons_convention/vol6.pdf",
+    "explanatory_authority": "Espinoza v. Montana Department of Revenue, 591 U.S. 464 (2020); Montana Constitutional Convention Verbatim Transcript Vol. VI pp. 2007–2032, OCR matched but original page images not independently checked — https://courts.mt.gov/external/library/mt_cons_convention/vol6.pdf; Dougherty, 77 Mont. L. Rev. 41, 49 n.80 (2016).",
     "last_verified": "2026-10-20",
     "review_priority": "medium",
-    "confidence": "high",
-    "notes": "Current-function classification D is unchanged. Historical layers: the 1889 predecessor has a documented Blaine-era anti-Catholic context (B for the inherited wording); the 1972 readoption is mixed, led by public-school, separationist, continuity, and ratification-risk reasons, with a negotiated federal-funds exception (Loendorf substitute, 53–40). See research/religion-law/gap-closure/montana-1972-no-aid-convention.md (2026-10-20)."
+    "confidence": "medium",
+    "notes": "D classification describes operative legal effect, not a proven motive for 1972. The 1889 Blaine-era context is distinct from a provisional mixed reading of the 1972 readoption: public-school, separation, continuity, ratification and federal-funds factors appear in reviewed passages. Relative causal weight remains uncertain pending original page/committee review; see research/religion-law/gap-closure/montana-1972-no-aid-convention.md."
   },
   {
     "id": "US-UT-CONST-ARTI-S4",
