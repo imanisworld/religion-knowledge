@@ -1,8 +1,8 @@
 # Montana — Religion & Law Profile
 
-**Research status:** Expanded anchor profile verified; 1972 no-aid convention history reviewed (2026-10-20); accommodation gaps remain  
-**Last verified:** 2026-09-27  
-**Confidence:** High for constitutional text, state RFRA, and *Espinoza*; medium-high for historical-causation framing of the no-aid provision
+**Research status:** Expanded profile; legal texts and *Espinoza* checked, **1972 convention historical-causation assessment provisional** (original transcript OCR/secondary corroboration; independent original Vol. VI page images and Vol. II committee reports pending).  
+**Last checked:** 2026-10-20 for 1972 history; 2026-09-27 for other legal topics  
+**Confidence:** High for identified legal texts and judicial holdings; **medium/provisional** for the 1972 historical reconstruction and lower for relative motives.
 
 ## Constitutional provisions
 
@@ -52,17 +52,19 @@ The 2021 Montana RFRA is the principal general accommodation statute identified 
 
 The current 1972 no-aid clause has a predecessor in Montana's 1889 constitution. The *Espinoza* opinions discuss the national Blaine Amendment movement and the anti-Catholic prejudice surrounding many nineteenth-century “sectarian” funding restrictions. Justice Alito's concurrence expressly linked Montana's original no-aid provision to that prejudice.
 
+**1972 source limitation:** Floor excerpts and votes were matched to convention transcript OCR and corroborated in independent later scholarship. The source reviewer has **not independently inspected the original Vol. VI page images or Vol. II committee reports**. The following quotes and conclusions about motives therefore remain provisional.
+
 The project keeps two historical layers separate:
 
 - **1889 predecessor:** documented connection to the Blaine-era anti-Catholic/nativist political environment.
 - **1972 readoption:** Montana's constitutional convention retained and adapted the no-aid rule in a later setting; the 1972 text should not simply be treated as if its delegates had the identical motive as nineteenth-century actors.
 
-- **1972 convention record (Committee of the Whole, March 11, 1972):**
+- **1972 convention record (Committee of the Whole, March 11, 1972; provisional):**
   - **The split:** The Education and Public Lands Committee divided. The majority (Burkhardt) kept the 1889 text, citing "unequivocal support… for a strong public school system," education as a state function, and fear that any change "might endanger passage of the entire Constitution." The minority (Harbaugh) sought to drop "indirectly" and to protect federal funds for nonpublic schools.
-  - **The outcome:** Delegate Loendorf's substitute kept "indirectly" and added the federal-funds exception now in subsection (2). It carried 53–40, a broader "nonstate money" amendment failed 13–79, and the section passed by voice vote ([Verbatim Transcript, Vol. VI, pp. 2007–2032](https://courts.mt.gov/external/library/mt_cons_convention/vol6.pdf)).
+  - **The outcome:** Loendorf's substitute retained "indirectly" and added a federal-funds exception (53–40). Campbell's *separate* broader "nonstate money" amendment failed 13–79; the section passed by voice vote. These votes were OCR-matched and corroborated by later scholarship, but independent inspection of the [original Vol. VI pp. 2007–2032](https://courts.mt.gov/external/library/mt_cons_convention/vol6.pdf) page images remains pending. Campbell's March 11 vote is distinct from Kelleher's March 9 13–79 vote.
   - **The bigotry charge:** Catholic delegate Schiltz called the clause "a badge of bigotry." United Methodist delegate Harper answered that separation of church and state is "an evidence of an evolution in history that has proved to be very wise." Delegates' self-identified religion did not predict their votes.
-- **Causation assessment:** **Documented religious historical influence** for the 1889 lineage, with anti-Catholic/nativist religious conflict as an important causal factor. **Mixed** for the 1972 readoption: public-school protection, separationist principle, continuity, and ratification risk led. No delegate defended the clause on anti-Catholic grounds, but the inherited "sectarian" wording was kept. *Espinoza*'s concurrence and dissents read this same record in opposite directions; they are retrospective, not 1972 evidence. Full analysis: `../gap-closure/montana-1972-no-aid-convention.md`.
-- **Confidence:** High for Blaine-era lineage and for the 1972 debate account; medium for relative causal weight in the 1972 readoption.
+- **Causation assessment:** The 1889 predecessor belongs to a documented Blaine-era anti-Catholic/nativist political context. The **provisional 1972 reading is mixed**: reviewed passages discuss public-school protection, separationism, continuity, federal-funds access, and ratification risk. No delegate in the excerpts reviewed defended the clause on explicit anti-Catholic grounds; the absence of such language in these excerpts does not prove the motives of all delegates or committee members. The inherited "sectarian" wording was kept. *Espinoza* judges later interpreted this history differently. Full analysis: `../gap-closure/montana-1972-no-aid-convention.md`.
+- **Confidence:** High for current law; **medium/provisional** for the 1972 reconstruction and lower for causal weighting until original page images and committee material have been inspected.
 
 ## Landmark cases
 
