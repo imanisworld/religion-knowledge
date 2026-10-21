@@ -1,6 +1,6 @@
 # U.S. 50-State Religion & Law Research Index
 
-This directory now has a verified first-pass baseline for all 50 states. It remains a research scaffold rather than a completed or exhaustive legal database.
+This directory has a selective first-pass legal-text baseline for all 50 states. **Only 16 states have normalized classifiable state-law records (59 total); 34 states have no such records yet.** The baselines do not certify exhaustive law coverage or historical motives.
 
 | State | Status |
 |---|---|
@@ -29,7 +29,7 @@ This directory now has a verified first-pass baseline for all 50 states. It rema
 | [Minnesota](minnesota.md) | First-pass baseline verified; expansion pending |
 | [Mississippi](mississippi.md) | First-pass baseline verified; expansion pending |
 | [Missouri](missouri.md) | First-pass baseline verified; expansion pending |
-| [Montana](montana.md) | Expanded anchor profile verified; 1972 no-aid convention history closed |
+| [Montana](montana.md) | Expanded anchor profile verified; 1972 convention reading provisional; original transcript pages and committee reports pending |
 | [Nebraska](nebraska.md) | First-pass baseline verified; expansion pending |
 | [Nevada](nevada.md) | First-pass baseline verified; expansion pending |
 | [New Hampshire](new-hampshire.md) | First-pass baseline verified; expansion pending |
@@ -46,7 +46,7 @@ This directory now has a verified first-pass baseline for all 50 states. It rema
 | [South Carolina](south-carolina.md) | First-pass baseline verified; expansion pending |
 | [South Dakota](south-dakota.md) | First-pass baseline verified; expansion pending |
 | [Tennessee](tennessee.md) | First-pass baseline verified; expansion pending |
-| [Texas](texas.md) | Expanded anchor profile verified; 1973 §21.06 enactment history closed |
+| [Texas](texas.md) | Expanded anchor profile verified; 1973 §21.06-specific motive unresolved; outside A–E classification |
 | [Utah](utah.md) | First-pass baseline verified; expansion pending |
 | [Vermont](vermont.md) | First-pass baseline verified; expansion pending |
 | [Virginia](virginia.md) | First-pass baseline verified; expansion pending |
