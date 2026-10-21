@@ -50,4 +50,15 @@ test('provisional Montana historical evidence and state-law coverage remain visi
   assert.match(reader, /r\.scope_note/);
   assert.match(reader, /states without normalized law records/);
   assert.match(reader, /Texas §21\.06 is deliberately withheld/);
+  const search = JSON.parse(file('search-index.json'));
+  const mtSearch = search.find(row => row.url === 'religion-law.html#state=montana');
+  assert.ok(mtSearch);
+  assert.match(mtSearch.text, /1972 convention historical-causation assessment provisional/);
+  assert.doesNotMatch(mtSearch.text, /medium-high for historical-causation framing/);
+  const stateContext = JSON.parse(file('research/religion-law/context/us-state-context.json'));
+  const alabama = stateContext.find(row => row.state === 'Alabama');
+  assert.ok(alabama);
+  const lieutenantGovernor = alabama.power.officeholders.find(row => row.office === 'Lieutenant Governor');
+  assert.match(lieutenantGovernor.source_note, /previous Christian youth-pastor role/);
+  assert.match(alabama.power.summary, /not a verification of current church membership/);
 });
