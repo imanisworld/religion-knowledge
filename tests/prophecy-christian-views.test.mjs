@@ -24,8 +24,10 @@ test('all 65 prophecy cases include bounded, contrasting Christian understanding
     assert.ok(end>start,'Missing case close '+id);
     const block=html.slice(start,end);
     assert.match(block,/<summary>Different Christian readings \(\d+\)<\/summary>/);
-    assert.ok(block.includes('historical')||block.includes('interpretation')||block.includes('context'),
-      'No historical context caution '+id);
+    assert.ok(block.includes('<dt>Earlier situation</dt>') &&
+      block.includes('<dt>Historical evidence &amp; limits</dt>') &&
+      block.includes('<dt>Current assessment</dt>'),
+      'Original-context and historical-evidence fields must remain separate: '+id);
     assert.ok(md.includes('{#'+id+'}'),'Missing research heading '+id);
     for(const view of views){
       assert.ok(view.label.length>8&&view.explanation.length>35);
