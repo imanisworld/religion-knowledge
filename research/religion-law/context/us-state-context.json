@@ -102,7 +102,7 @@
       "coverage_status": "verified_first_pass",
       "tracked_positions": 6,
       "documented_affiliations": 5,
-      "summary": "Five of six tracked Alabama power positions have publicly documented Christian affiliations in the sources reviewed. Because 5 of 6 are documented Christian, a majority of the tracked set is documented Christian; the House speaker remains unknown rather than inferred.",
+      "summary": "Five of six tracked Alabama power positions have a documented Christian identity, membership statement, or historical religious association in the reviewed sources. For Lieutenant Governor Will Ainsworth, the evidence is a previous youth-pastor role, not a verification of current church membership. The House speaker's affiliation remains unknown. These sources do not establish present membership for every officeholder.",
       "officeholders": [
         {
           "office": "Governor",
@@ -122,7 +122,7 @@
           "affiliation_detail": "Official lieutenant-governor biography states he previously worked as a youth pastor at Grace Fellowship Church.",
           "office_source": "https://ltgov.alabama.gov/about/",
           "affiliation_source": "https://ltgov.alabama.gov/about/",
-          "source_note": "Broad Christian affiliation is supported by the official pastoral biography; no denomination is assigned from that source."
+          "source_note": "The official biography documents a previous Christian youth-pastor role only; it does not verify present church membership or denomination as of the context review date."
         },
         {
           "office": "Attorney General",
