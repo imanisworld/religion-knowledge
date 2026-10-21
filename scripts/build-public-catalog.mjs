@@ -261,6 +261,33 @@ export function buildPublicCatalog() {
   const claims = claimCounts();
   const writingNames = new Map(entities('writing_systems').map(row => [row.id, row.name]));
   const groups = TYPES.map(g=>entityTable(g,claims,writingNames)).join('\n');
+  const notListed = [
+    ['gender_systems', 'Historical gender systems',
+      'A separate Gender Over Time study exists, but its records differ from these Timeline entries.',
+      'gender-over-time.html', 'Read the separate gender study'],
+    ['knowledge_states', 'Historical knowledge records',
+      'Not publicly indexed while source access, community knowledge boundaries, and research classifications are reviewed.',
+      null, null],
+    ['polities', 'Historical political societies',
+      'These records are being reviewed before publication as individual historical profiles.',
+      'history.html', 'Explore the broader historical research'],
+    ['populations', 'Human populations and evolution',
+      'Taxonomy, genetic claims, and time ranges need source-specific qualification before an individual index is published.',
+      'history.html', 'Explore the broader historical research'],
+    ['texts', 'Historical texts and inscriptions',
+      'Evidence records are distinct from writing systems; manuscript and decipherment claims require their own review.',
+      'sources.html', 'Explore source methods']
+  ];
+  const heldTotal = notListed.reduce((n,[dir])=>n+entities(dir).length,0);
+  const coverageNotice = '<details class="status" id="research-coverage"><summary>What does this catalog include?</summary>' +
+    '<p>These lists cover ' + TYPES.length + ' of 10 Timeline research categories. Another ' +
+    heldTotal + ' research records across five categories are not individually listed here. ' +
+    'They require separate source and publication review.</p><ul>' +
+    notListed.map(([dir,title,note,url,link])=>'<li><strong>' + esc(title) + ' (' +
+      entities(dir).length + ')</strong>: ' + esc(note) +
+      (url ? ' <a href="' + esc(url) + '">' + esc(link) + '</a>' : '') +
+      '</li>').join('') + '</ul><p>Related reading pages are not guaranteed to reproduce these records. ' +
+    'No unverified dates or restricted knowledge have been added to this catalog.</p></details>';
   const nav = TYPES.map(g=>'<a href="#'+g.dir+'">'+esc(g.title)+'</a>').join('')+
     '<a href="#people">People cited</a>';
   return '<!doctype html><html lang="en" data-theme="light"><head><meta charset="utf-8">'+
@@ -322,6 +349,7 @@ export function buildPublicCatalog() {
     '<p class="lede">Browse short research overviews by category. Open notes directly under an entry, or use the <a href="comparisons.html">comparison tables directory</a> to read longer side-by-side studies.</p>'+
     '<p class="lede"><strong>This research is still being checked.</strong> Some findings need independent review before they can be treated as established.</p>'+
     '<details class="status"><summary>What do the evidence labels mean?</summary><p><strong>Published:</strong> added to the public research. <strong>Checked in research:</strong> a source check was recorded, but independent review may still be pending. <strong>Still to review:</strong> more checking is needed. These lists cover only the material we have researched so far. Similar gods or stories may have developed separately.</p><p>Open “Read research notes” on any entry to see the available context and the status of linked claims without leaving the site.</p></details>'+
+    coverageNotice +
     '<nav class="jump" aria-label="Jump to a collection">'+nav+'</nav>'+
     '<div class="controls"><label for="filter">Find a name, place, or topic</label><input id="filter" type="search" autocomplete="off" placeholder="For example: Baal, Maya, or West Africa"><p class="result-count" id="matchCount" aria-live="polite"></p><p class="scroll-note">On a phone, each entry is shown in a readable row. Open research notes for more detail.</p></div>'+
     groups+peopleTable()+
