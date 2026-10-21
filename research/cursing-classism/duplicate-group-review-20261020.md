@@ -12,7 +12,7 @@
 
 ## Targeted check against the published 1936 calendar
 
-The [Buckinghamshire Record Society's complete transcribed Volume II](https://www.bucksrecsoc.org.uk/QS-VOLUMES/QS2.html) was opened directly. The following **six risk cases** were independently rechecked in the society's public transcription (not against the underlying court manuscripts or original facsimile):
+The [Buckinghamshire Record Society's complete transcribed Volume II](https://www.bucksrecsoc.org.uk/QS-VOLUMES/QS2.html) was opened directly. All **32** candidate group names were searched against the Society's published transcription; the searches establish presence of names, **not** row-by-row accuracy or personal identity. The following **six risk cases** were additionally checked for the source's qualifying language (not against the underlying court manuscripts or original facsimile):
 
 - **Printed p. 335:** Nicholas Grainge **senior** and Nicholas Grainge **junior** occur separately in the same swearer list. These two appearance rows must remain distinct.
 - **Printed p. 300:** John Mayden **junior** and John Mayden identified as a **butcher** are separately named; the same passage includes two Edward Edwards mentions, one labeled labourer. Do not collapse either pair on shared name.
