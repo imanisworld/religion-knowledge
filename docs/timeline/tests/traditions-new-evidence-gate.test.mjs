@@ -24,9 +24,9 @@ const claims = [
   ['phase7-transmission/claim_shona_matobo_mwari_living_unesco.json', 'trad_shona_religion']
 ];
 
-const readClaim = file => JSON.parse(readFileSync(path.join('docs/timeline/data/claims', file), 'utf8'));
+const readClaim = file => JSON.parse(readFileSync(path.join('docs/research/traditions/draft-claims', file), 'utf8'));
 
-test('sixteen tradition profiles have eighteen narrowly scoped draft claims, not published assumptions', () => {
+test('sixteen traditions have eighteen separately staged draft claims, not public catalog assumptions', () => {
   const subjects = new Set();
   for (const [file, subject] of claims) {
     const record = readClaim(file);
