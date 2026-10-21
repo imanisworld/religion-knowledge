@@ -8,12 +8,28 @@
 
 ---
 
+## Latest verified checkpoint — 20 October 2026 (US Eastern)
+
+The following are distinct statuses: **merged to `main`**, **deployed**, **automated-test passed**, **human visual-reviewed**, and **research approved for public publication**. One status does not imply another.
+
+| Workstream | Verified state | Remaining gate |
+| --- | --- | --- |
+| **Gender Over Time readability** | [PR #248](https://github.com/imanisworld/religion-knowledge/pull/248) **merged** at `2a61696f`; [Cloudflare deployment run 39524339537](https://github.com/imanisworld/religion-knowledge/actions/runs/39524339537) **succeeded** for that exact commit. The neutral light/dark palettes, larger case text and textual evidence labels are on `main`. | A separate unauthenticated live-page visual inspection was unavailable. Preserve this exact styling in future branches and deployments; do not use the pre-#248 colors. |
+| **Gender browser visual QA** | [Draft PR #251](https://github.com/imanisworld/religion-knowledge/pull/251) **open and unmerged**. Its [browser QA run 39525306997](https://github.com/imanisworld/religion-knowledge/actions/runs/39525306997) passed Chromium DOM/layout checks at **1280×800 / 390×844** in both light/dark modes and uploaded screenshot artifacts; corpus and research-governance checks also passed for the PR head. | **Human review of the four screenshots** for typography, case-card spacing, label readability and overflow, followed by review/merge of #251 if acceptable. No claim of completed human visual QA. |
+| **Cursing / cussing / classism historical dataset** | [PR #246](https://github.com/imanisworld/religion-knowledge/pull/246) **merged** to `main` as **internal research/control files only** (CSV, identity-review notes, tests). Its Buckinghamshire dataset has **355 recorded name appearances** from **34 indexed pages**, **350 index-weighted references**, **52 explicit fines totaling 172 nominal shillings**, and **32 candidate repeated-name groups**. | Original manuscript/facsimile verification, row-level error review, actual person linkage, and scholarly review; **355 is not 355 unique defendants or convictions**, nor an observed class-specific prosecution rate. |
+| **Cursing / cussing / classism wider research** | [Issue #234](https://github.com/imanisworld/religion-knowledge/issues/234) remains **open**, with **14 recorded research passes** covering biblical/textual categories, legal rank tiers, named paid fines, stocks and Bridewell news reports, parish redistribution and historical wage comparisons. | A sourced synthesis with distinct documented/inference/unresolved labels; additional original-text checks and authorization under the consolidation freeze before creating a public module. **No public reader, Search module or app-data promotion.** |
+| **Cited Persons source gate** | Current canonical count for this checkpoint: **194 documented / 171 unresolved of 365**, as recorded in the status test and corpus; [PR #212](https://github.com/imanisworld/religion-knowledge/pull/212) is **closed, unmerged**. | Require actual source passages before upgrading cases; begin with Archer, Barton, Briggs, MacDonald and MacIntyre. The prior `200/165` follow-up snapshot is not the current canonical count. |
+
+**To-do source:** [Repository TODO](TODO.md); specific historical follow-up: [Cursing & Classism TODO](research/cursing-classism/TODO.md). Other module-owned queues (for example the [Prophecy Audit TODO](research/prophecy-audit/TODO.md)) remain separate. **General consolidation freeze remains in force** except explicitly authorized bounded releases. This status update does not itself authorize a new public research chapter or an unrelated deployment.
+
+---
+
 ## Prophecies and Illness — bounded research releases (20 October 2026)
 
 - **PR #202 merged:** Biblical Prophecy Audit, 65 AI-reviewed research cases and 70 Search sections. The original 50-locus seed is mapped; 21 additional leads and further original-language/scholarly source checking remain open. See `research/prophecy-audit/STATUS.md`.
 - **PR #213 merged:** Illness Explanations, 13 AI-reviewed claims (4 internally verified and 9 qualified), a nine-section public reader, and 9 Search sections. Canonical claim registry now has **139 unique entries** with the previous 126 unchanged. See `research/illness-explanations/STATUS.md`.
 - **Release checks:** Both corpus and research-governance checks passed on merge commit `cf756397`. [Cloudflare deployment workflow](https://github.com/imanisworld/religion-knowledge/actions/runs/39492093720) succeeded for that commit, serving the `religion-knowledge` worker. A separate unauthenticated HTTP check of the live pages could not be completed from the review environment.
-- **Evidence controls:** The owner accepted source limitations and waived outside specialist review for these bounded editions only. Unchecked original-language passages, unread paywalled studies and the primary Mari tablets remain flagged. PR #212 remains a separate draft; its unverified Cited Persons promotions were not merged. The broader consolidation freeze remains in force.
+- **Evidence controls:** The owner accepted source limitations and waived outside specialist review for these bounded editions only. Unchecked original-language passages, unread paywalled studies and the primary Mari tablets remain flagged. PR #212 was closed without merge; its unverified Cited Persons promotions are not canonical. The broader consolidation freeze remains in force.
 
 ---
 
@@ -55,7 +71,7 @@ The old research branch `research/state-gap-closure-20260927` is **not merged in
 
 ## Cited Persons Follow-up (20 October 2026)
 
-A separate five-entry Perplexity source-discovery batch addressed Archer, Barton, Briggs, MacDonald, and MacIntyre. Bibliographic information was corroborated for some entries, but the needed primary/source-page checks remain outstanding. **All five retain their `UNRESOLVED` markers** and remain within the current 165-person unresolved queue (200 documented / 365 total after the separate six-person Paul-and-the-law batch in draft PR #212). See `docs/research/cited-persons-five-entry-followup-20261020.md`.
+A separate five-entry source-discovery batch addressed Archer, Barton, Briggs, MacDonald, and MacIntyre. Bibliographic information was corroborated for some entries, but the needed source-page checks remain outstanding. **All five remain `UNRESOLVED`.** The current canonical snapshot is **194 documented / 171 unresolved of 365**. An earlier follow-up note referenced a proposed **200/165** state associated with [PR #212](https://github.com/imanisworld/religion-knowledge/pull/212), which is **closed without merge**; do not use that proposal as a completed source upgrade. See `docs/research/cited-persons-five-entry-followup-20261020.md`.
 
 ---
 
