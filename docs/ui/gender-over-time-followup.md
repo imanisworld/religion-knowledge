@@ -1,34 +1,25 @@
-# Gender Over Time — owner-requested UI design follow-up
+# Gender Over Time — implemented UI and visual feedback record
 
-**Status:** OPEN — requested, not implemented or deployed  
-**Recorded:** 20 October 2026 (US Eastern)  
-**Affected page:** `gender-over-time.html` / [Gender Over Time](https://religion-knowledge.imanicru-f22.workers.dev/gender-over-time#cases)  
-**Canonical branch baseline:** current `main` (rebase at implementation time)
+**Status:** IMPLEMENTED / DEPLOYED; **visual acceptance and QA screenshot review remain open**  
+**Reconciled:** 20 October 2026 (US Eastern)  
+**Public page:** [Gender Over Time](https://religion-knowledge.imanicru-f22.workers.dev/gender-over-time#cases)
 
-## Owner feedback and non-negotiable distinction
+## Corrected implementation history
 
-After the neutral readability release [PR #248](https://github.com/imanisworld/religion-knowledge/pull/248), the owner reported that **it was difficult to tell what changed** and explicitly requested **a further UI update**. Do not close this as completed because a palette change deployed, nor because automated checks pass.
+The owner reported that the new UI was difficult to distinguish and later clarified that they believed the UI work had already been done. That is supported by three separate merged changes. This document corrects the premature assumption in PR #254 that another full redesign was necessary.
 
-- **Done:** #248 — neutral light/dark palette, larger copy, textual evidence labels; merged and deployed. Preserve this baseline and avoid restoring the old pink/low-contrast appearance.
-- **QA-only:** [draft PR #251](https://github.com/imanisworld/religion-knowledge/pull/251) — automated Chromium/contrast/overflow tests and screenshot artifacts, still pending human review. It introduces **no new visual design** and cannot fulfill the new request.
-- **Open:** An **obviously different, easier-to-use** visual layout and interaction treatment on Gender Over Time, consistent with the site-wide interest in readable laptop-sized pages and preventing endless-scrolling content walls.
+| PR | What actually changed | Outcome |
+| --- | --- | --- |
+| [#210](https://github.com/imanisworld/religion-knowledge/pull/210) | Accessible shared reading typography and consistent responsive tables, including Gender Over Time. | **Merged**, 20 Oct 2026. |
+| [#235](https://github.com/imanisworld/religion-knowledge/pull/235) | Bounded section and case navigation across specialty research pages, including Gender Over Time; hash/deep links and browser navigation preserved. | **Merged**, 20 Oct 2026. |
+| [#248](https://github.com/imanisworld/religion-knowledge/pull/248) | Page-scoped neutral high-contrast light/dark palettes, larger case/metadata/citation text, legible evidence labels. | **Merged and deployed**, matching [Cloudflare success run](https://github.com/imanisworld/religion-knowledge/actions/runs/39524339537), 20 Oct 2026. |
+| [#251](https://github.com/imanisworld/religion-knowledge/pull/251) | Automated browser layout/contrast checks for 1280×800 and 390×844, both themes, with screenshots. **No visual design changes.** | **Draft, unmerged**. [All automated checks passed](https://github.com/imanisworld/religion-knowledge/actions/runs/39525306997). Human screenshot review pending. |
 
-## Implementation outline (design proposal, not approved screenshots)
+## Remaining review
 
-1. **First-screen clarity:** Make the title, page purpose, current section and next action apparent at 1280×800 without requiring an initial long scroll. Retain meaningful content; avoid shrinking essential text.
-2. **Visibly stronger hierarchy:** Distinguish case titles, dates/locations, evidence state, concise findings and expandable citations. Use spacing, typographic scale and structured sections, not bright badge colors.
-3. **Manageable content length:** Keep one-at-a-time / bounded section-and-case navigation (already available) and ensure no unexpected full-page endless-scroll behavior after navigating or toggling theme.
-4. **Usable case cards:** Readable body copy (at least 16 CSS px), clear evidence text, comfortable line length and padding, and actionable source details. More compact density on laptops without cramming.
-5. **Consistent light/dark themes:** Retain #248 accessible neutral color tokens. Ensure theme persists appropriately and contrast remains high.
-6. **Mobile layout and overflow:** Verify 390×844 viewport, stacked content, navigable local tabs, and table overflow contained inside its own scroller (no whole-page horizontal movement).
-7. **Site consistency:** Inspect navigation between research pages so styles and scroll behavior do not unexpectedly revert when users click around.
+- [ ] Inspect the **actual implemented design** at laptop and phone sizes in both themes; review the four #251 screenshot artifacts for readability, spacing, evidence-label clarity, table overflow, and bounded pager behavior.
+- [ ] Compare the implementation with the owner's perception that the difference was not visible. Determine whether a cache, the wrong page/section, or an actual outstanding design issue explains that perception. Do not assert a cause without evidence.
+- [ ] Merge #251 if human visual check passes and the branch is reconciled with current `main`.
+- [ ] If visual inspection reveals a specific unresolved usability issue, file a *narrowly scoped* UI implementation task based on that finding and confirm the result with the owner. **A second general redesign is not pre-authorized or assumed necessary.**
 
-## Acceptance gates before closing
-
-- [ ] New design implementation PR from current `main`, with **before/after screenshots** showing meaningful structural improvement.
-- [ ] Render and review **1280×800 and 390×844** in both light and dark; check theme persistence, cards, evidence labels, tables, keyboard focus, and horizontal overflow.
-- [ ] Human visual assessment of updated screenshots; obtain owner feedback and make corrections rather than treating technical CI as proof of satisfaction.
-- [ ] All usual research-governance/corpus CI green, no changes to historical claims, and release verified for exact merged commit if published.
-- [ ] Update [STATUS.md](../../STATUS.md) and [TODO.md](../../TODO.md) to mark this separate request done **only after** the redesigned UI is actually delivered.
-
-**Scope guard:** No alteration to the historical evidence, citations, source registers, prophecy/illness research, or the cursing/classism queue. The general research consolidation freeze does not prevent presentation and accessibility improvements.
+**Non-negotiables:** Preserve the #248 neutral high-contrast palette, the #235 paged navigation, #210 typography/responsive tables, all published evidence labels and scholarly text. This is a UX/release review record, not permission to change historical claims or unrelated modules. Respect the consolidation freeze for research additions.

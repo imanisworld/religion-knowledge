@@ -4,24 +4,19 @@
 
 This lists **work still open**, not a request to reopen deployed fixes. Review the current `main` before each branch; respect the general research consolidation freeze and the narrow, separately authorized releases. GitHub workflow success does **not** substitute for manual visual review or historical source verification.
 
-## Priority 1 — make the Gender Over Time UI visibly better (owner-requested; OPEN)
+## Priority 1 — close remaining *review* of implemented Gender Over Time UI
 
-The owner says that after [deployed PR #248](https://github.com/imanisworld/religion-knowledge/pull/248), **the difference is difficult to see and a further UI update is wanted**. Treat this as an **outstanding design/UX request**, not a completed UI release. See the [design follow-up brief](docs/ui/gender-over-time-followup.md).
+**Already implemented, not a fresh build queue:** [PR #210](https://github.com/imanisworld/religion-knowledge/pull/210) improved fonts/table readability across the website; [PR #235](https://github.com/imanisworld/religion-knowledge/pull/235) added section-by-section and case-by-case pagination for Gender Over Time and related research pages; [PR #248](https://github.com/imanisworld/religion-knowledge/pull/248) delivered accessible, neutral light/dark colors, larger case text and clear evidence labels and was deployed. The owner thought the UI work was already done, which these merges confirm. The status incorrectly duplicated this work as an unimplemented redesign in PR #254.
 
-- [ ] Prepare a **clearly distinguishable** revised page layout (not another minor color adjustment). Improve first-screen orientation, scannable content hierarchy, case-card spacing, evidence-label comprehension and readable density at laptop size.
-- [ ] Maintain bounded section/case navigation instead of an unbounded vertical wall of content; ensure readers can navigate and return without losing position or theme.
-- [ ] Build from **current `main`**, preserving #248's neutral high-contrast palettes and existing accessible text labels; leave verified historical claims, citations and dataset contents untouched.
-- [ ] Compare **actual rendered before/after views** at 1280×800 and 390×844 in **light and dark**. Check horizontal overflow, case readability, table behavior, navigation, and consistency as users click between sections/pages.
-- [ ] Get explicit visual feedback on the **new design**, resolve any issues, and only then mark this additional request done. The QA-only PR #251 cannot close this task.
+- [x] Implement shared accessible typography, mobile tables and readable table style: **merged #210**.
+- [x] Replace endless scrolling on specialist research pages with bounded section/case navigation and preserve deep links: **merged #235**.
+- [x] Implement neutral, high-contrast Gender Over Time readability improvements: **merged/deployed #248**, [deployment run 39524339537](https://github.com/imanisworld/religion-knowledge/actions/runs/39524339537).
+- [x] Build separate automated laptop/phone, light/dark UI checks and generate four screenshots: [draft QA PR #251](https://github.com/imanisworld/religion-knowledge/pull/251), [passing test run](https://github.com/imanisworld/religion-knowledge/actions/runs/39525306997). Creating tests is completed; **PR #251 itself is still unmerged**.
+- [ ] **Review actual screenshots / live page** to understand the owner's feedback that the differences were hard to recognize; check both modes and viewport sizes, text labels, cards, navigation and overflow. This is visual acceptance, not an instruction to redo the design.
+- [ ] Review/merge **QA-only PR #251** after manual screenshot verification and current-main reconciliation; preserve the released #248 layout and its current palette.
+- [ ] **Only if an actual problem remains after comparing the implemented page**, scope a specific follow-up UI change and seek owner feedback on the result. Do not invent or automatically reopen a general redesign task.
 
-### Existing deployed refinement and its separate QA
-
-- [x] Merge the neutral, readable light/dark design and visible evidence labels: [PR #248](https://github.com/imanisworld/religion-knowledge/pull/248), merge commit `2a61696f`.
-- [x] Confirm the matching successful Cloudflare run: [39524339537](https://github.com/imanisworld/religion-knowledge/actions/runs/39524339537).
-- [x] Add automated Chromium rendering/overflow/font/contrast checks at **1280×800** and **390×844**, both themes: [draft PR #251](https://github.com/imanisworld/religion-knowledge/pull/251), [successful Actions run](https://github.com/imanisworld/religion-knowledge/actions/runs/39525306997). Screenshot artifacts exist.
-- [ ] **Manually review the four screenshot artifacts** for case spacing, label readability, typography, clipping and navigation at both widths/themes. Record result on PR #251; fix real failures on that branch.
-- [ ] Review and merge PR #251 only after manual screenshot gate and current-main reconciliation. Until then it remains **draft/unmerged**. Keep the already-deployed #248 palette intact.
-- [ ] Independently check the public page in a real laptop/phone browser if available. **Deployment is confirmed, not personally viewed in this environment.**
+[UI implementation and feedback record](docs/ui/gender-over-time-followup.md).
 
 ## Priority 2 — source-gated Cursing / Cussing / Classism research
 
@@ -40,4 +35,4 @@ The owner says that after [deployed PR #248](https://github.com/imanisworld/reli
 - [ ] **Religion & Law:** Verify gaps in the [state coverage/status layer](research/religion-law/README.md) before expanding public conclusions.
 - [ ] **Operational hygiene:** Resolve legacy `wrangler.toml` deprecation safely, decide how to display commit/date identifiers on public pages, and prepare a versioned release only after documented quality gates. See [STATUS.md](STATUS.md).
 
-**Not queued to redo:** PR #248's successful deployment and palette fix; the completed Cited Persons **triage** from PR #216; earlier completed prophecy/illness merges; cursing research dataset already merged to `main`. **The subsequent owner-requested UI redesign remains open.**
+**Not queued to redo:** Completed website UI changes in PRs **#210, #235 and #248**, completed Cited Persons triage in #216, earlier prophecy/illness merges, and the cursing/classism dataset merged to `main`. A **visual review/feedback check** remains for the existing UI; another design implementation is not automatically assumed.

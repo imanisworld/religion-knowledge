@@ -67,7 +67,7 @@ Open `master-notes.html` first. The research readers share the Documents switche
 
 ## Current status
 
-- **Current checkpoint / remaining work:** [STATUS.md](STATUS.md) and [TODO.md](TODO.md) distinguish the already-deployed Gender Over Time readability fix from the **still-open owner-requested visual redesign** ([follow-up brief](docs/ui/gender-over-time-followup.md)), and track source-gated research work.
+- **Current checkpoint / remaining work:** [STATUS.md](STATUS.md) and [TODO.md](TODO.md) record completed site UI improvements (#210 typography/tables, #235 bounded navigation, #248 deployed Gender colors/labels). The outstanding item is **visual review of what was implemented**, not an automatically required second redesign ([UI review record](docs/ui/gender-over-time-followup.md)); source-gated research remains tracked separately.
 - **Consolidation freeze:** the whole-document reader generator is now committed and CI-gated, but 171 Cited Persons entries remain unresolved. Keep major expansion paused while those source gaps and the remaining control-layer work are addressed.
 - Audit: Study Notes queue closed — 11 of 11 complete (§11.2). Observations queue in progress — see Method & Reference §4.
 - Reading: Old Testament complete; New Testament through Acts; Pauline epistles in progress (Acts → Galatians → Romans → Corinthians).
