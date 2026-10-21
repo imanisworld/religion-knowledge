@@ -1,6 +1,6 @@
 # Religion & Law — State Gap Closure Queue
 
-**Branch baseline:** current `main` at `99de1e4e73933babd6a16b42947de51f0603db0b`  
+**Original research baseline:** historic `main` at `99de1e4e73933babd6a16b42947de51f0603db0b`  
 **Research baseline:** PR #176 / `3c06d4fe29547851b76f800709060c304ece0036`  
 **Created:** 2026-09-27
 
@@ -14,9 +14,9 @@ Do **not** reopen already-verified RFRA/current-status findings unless new prima
 
 | Priority | Gap | Status | Promotion gate |
 |---:|---|---|---|
-| 1 | Texas Penal Code §21.06 — 1973 enactment history | 🟢 Verified | Closed; promoted to `us-states/texas.md` and record `US-TX-PENAL-21-06` (2026-10-20) |
+| 1 | Texas Penal Code §21.06 — 1973 enactment history | 🟡 Unresolved motive | Legal text and *Lawrence* status verified; causal record withheld from A–E in `records/pending-causation/`; §21.06-specific HB 514/SB 34 passage needed. |
 | 2 | Maine Sunday motor-vehicle sales rule | 🟢 Verified | Closed; promoted to `us-states/maine.md` and record `US-ME-17-3203` (2026-10-20) |
-| 3 | Montana 1972 no-aid readoption | Closed 2026-10-20; promoted to `us-states/montana.md` | Convention transcript/delegate evidence sufficient to describe 1972 motives without importing 1889 motives |
+| 3 | Montana 1972 no-aid readoption | 🟡 Provisional historical reading | OCR-matched floor text and later scholarship; independent original Vol. VI page-image inspection and Vol. II committee records pending. |
 | 4 | Cross-state statutory inventories | Anchor-state pass complete 2026-10-20 (8 states × 4 tables); 42 states not started | Primary-current-law verification for each row before state-profile promotion |
 
 ## Status key
