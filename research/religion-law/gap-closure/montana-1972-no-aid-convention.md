@@ -1,6 +1,6 @@
 # Montana 1972 No-Aid Clause — Convention History
 
-**Status:** Closed (2026-10-20). Verdict: **Mixed. Secular and institutional reasons led, with active religious politics on both sides. The 1972 record does not show anti-Catholic animus driving the readoption, but it also did not remove the inherited "sectarian" wording.**
+**Status:** Source-audited provisional verdict (20 October 2026); independent transcript-page and committee-report checks still pending. Verdict: **Mixed. Secular and institutional reasons led, with active religious politics on both sides. The 1972 record does not show anti-Catholic animus driving the readoption, but it also did not remove the inherited "sectarian" wording.**
 **Target profile:** `../us-states/montana.md`
 **Provision:** Montana Constitution art. X, §6 (Committee of the Whole debate, March 11, 1972)
 
@@ -59,7 +59,7 @@
 
 A narrowly negotiated federal-funds exception answered the parochial-school constituency. The clause's 1889 Blaine-era origin is a separate layer: it remains **B (historical religious origin)** for the inherited wording. It is not evidence that the 1972 delegates shared the 1889 motive.
 
-**Confidence:** Medium-high for the account of the debate (primary transcript); medium for relative causal weight, because committee-hearing testimony and Vol. II report text were not read directly.
+**Confidence:** Medium-high for the debate account as matched in transcript OCR and independently summarized by the University of Montana; medium for the relative causal weight. Original transcript-page images, committee-hearing testimony and Vol. II reports were not independently read in this review.
 
 ## October 20 cross-check limitation
 
