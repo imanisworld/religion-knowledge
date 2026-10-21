@@ -1,0 +1,43 @@
+name: Gender Over Time browser QA
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'gender-over-time.html'
+      - 'site-shell.css'
+      - 'research-page-nav.css'
+      - 'research-page-nav.js'
+      - 'scripts/test-gender-reading-browser.sh'
+      - '.github/workflows/validate-gender-ui.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'gender-over-time.html'
+      - 'site-shell.css'
+      - 'research-page-nav.css'
+      - 'research-page-nav.js'
+      - 'scripts/test-gender-reading-browser.sh'
+      - '.github/workflows/validate-gender-ui.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  visual:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Test desktop and phone in light and dark
+        run: bash scripts/test-gender-reading-browser.sh
+      - name: Preserve screenshots for human review
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gender-visual-screenshots
+          path: gender-visual-screenshots/*.png
+          if-no-files-found: ignore
+          retention-days: 7
