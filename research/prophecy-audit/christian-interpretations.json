@@ -113,6 +113,26 @@
       "label": "Keith Mathison, The Millennial Maze on Revelation 20",
       "url": "https://learn.ligonier.org/articles/millennial-maze",
       "scope": "Named author directly describes amillennial, premillennial (historic/dispensational), postmillennial views; not universal church doctrine."
+    },
+    "belcher_hosea": {
+      "label": "Richard Belcher, Foundations of Biblical Interpretation, Part 2",
+      "url": "https://www.thegospelcoalition.org/sermon/interpretation-part-2/",
+      "scope": "Richard Belcher directly examines Hosea 11:1 and Matthew 2:15; this named interpreter does not represent official Catholic or Orthodox doctrine."
+    },
+    "themelios_jer31": {
+      "label": "Themelios, Who Is the Prophet Talking About?",
+      "url": "https://www.thegospelcoalition.org/themelios/article/who-is-the-prophet-talking-about-some-reflections-on-the-new-testaments-use-of-the-old/",
+      "scope": "Themelios scholarly article directly discusses Jeremiah 31:15 and Matthew 2:17–18 as typological reuse; no Catholic denomination-wide endorsement inferred."
+    },
+    "ligonier_micah52": {
+      "label": "Ligonier, Bethlehem Ephrathah (Micah 5:2)",
+      "url": "https://learn.ligonier.org/devotionals/bethlehem-ephrathah",
+      "scope": "Ligonier's Micah 5:2 devotional directly identifies Bethlehem as a predictive messianic birthplace; a representative Reformed ministry reading, not historical verification."
+    },
+    "barrett_zech99": {
+      "label": "Michael P. V. Barrett, Zechariah commentary (9:9)",
+      "url": "https://www.thegospelcoalition.org/commentary/zechariah/",
+      "scope": "Named commentator Michael P. V. Barrett directly discusses Zechariah 9:9 and the Gospel triumphal-entry accounts; theological fulfillment reading only."
     }
   },
   "case_count": 65,
@@ -202,11 +222,11 @@
     ],
     "hosea-11-1": [
       {
-        "label": "Recapitulation of Israel (Catholic and Orthodox typology)",
-        "explanation": "Hosea narrates Israel's former Exodus; Matthew presents Jesus as reenacting Israel's history rather than quoting an isolated future-birth forecast.",
-        "source_key": "orthodox_typology",
-        "source_level": "general_method_or_comparative",
-        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+        "label": "Israel recapitulated in Jesus (Richard Belcher)",
+        "explanation": "Richard Belcher reads Hosea 11:1 as Israel's past Exodus and Matthew 2:15 as Jesus reenacting Israel's story; this is a representative Christian typological reading, not a prediction originally addressed to Jesus.",
+        "source_key": "belcher_hosea",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
       },
       {
         "label": "Prophetic double significance (some evangelicals)",
@@ -218,11 +238,11 @@
     ],
     "jeremiah-31-15": [
       {
-        "label": "Lament and typology",
-        "explanation": "Rachel's grief over exile is treated as a type of the grief Matthew narrates in Bethlehem, even though Jeremiah originally anticipates a return.",
-        "source_key": "catholic_typology",
-        "source_level": "general_method_or_comparative",
-        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+        "label": "Exile lament typologically reapplied (Themelios author)",
+        "explanation": "This scholarly Christian discussion treats Jeremiah 31:15's exile-era lament and Matthew 2:17–18's Bethlehem narrative as typological correspondence rather than straightforward prediction of Herod.",
+        "source_key": "themelios_jer31",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
       },
       {
         "label": "Predictive messianic pattern",
@@ -241,11 +261,11 @@
         "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
       },
       {
-        "label": "Literal place-of-birth prediction",
-        "explanation": "A common evangelical argument treats Bethlehem as a specific advance prediction realized by the Gospel birth accounts; the independent birthplace evidence remains separate.",
-        "source_key": "reformed_return",
-        "source_level": "general_method_or_comparative",
-        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+        "label": "Bethlehem birthplace prediction (Ligonier reading)",
+        "explanation": "Ligonier's Micah 5:2 study explicitly identifies Bethlehem as a predicted birthplace of Jesus, links it to Matthew 2:6, and discusses the earlier Davidic restoration context. Independent birthplace evidence remains a separate issue.",
+        "source_key": "ligonier_micah52",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
       }
     ],
     "zechariah-9-9": [
@@ -257,11 +277,11 @@
         "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
       },
       {
-        "label": "Specific prediction fulfilled by entry details",
-        "explanation": "A predictive reading stresses the donkey and cheering crowd as intentionally forecast particulars; Gospel literary shaping remains a separate question.",
-        "source_key": "reformed_return",
-        "source_level": "general_method_or_comparative",
-        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+        "label": "Triumphal-entry fulfillment (Michael P. V. Barrett)",
+        "explanation": "Michael P. V. Barrett explicitly interprets Zechariah 9:9 as foretelling the ideal Davidic king and identifies its New Testament fulfillment as Jesus' entry in Matthew 21 and John 12. Narrative independence remains unverified.",
+        "source_key": "barrett_zech99",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
       }
     ],
     "isaiah-53": [
