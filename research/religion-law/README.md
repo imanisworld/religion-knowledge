@@ -41,6 +41,8 @@ A law's text, its historical cause, and its current enforceability are separate 
 
 This module is published on `main`. Individual state and comparative records remain research-scoped according to their recorded verification status; publication does not mean the database is complete.
 
+**Next release (source-gated):** [Draft PR #240](https://github.com/imanisworld/religion-knowledge/pull/240) combines five unmerged Law research batches with the then-current site; both workflows passed on its last tested head, but the branch has since fallen behind `main` and is presently reported unmergeable. Its **proposed** snapshot is 59 classified state-law records from 16 states, 50/50 coded state-context profiles, plus a **separate Texas §21.06 record with provision-specific religious/secular enactment motive unresolved and no A–E classification**. The proposed two new Law registry IDs are excluded from `main`'s current 148 claims. **Do not display these draft figures as canonical** or merge solely on green CI; latest-main conflict resolution, renewed integrated CI, legal historical passage checks and the release gate all remain pending.
+
 The comparison table only includes law-level records whose classification and status are supported by the verified source profile. Items whose religion-causation classification is still pending remain in the state profile but are not forced into A–E for display.
 
 State religious demographics and officeholder affiliations are maintained as a separate context layer. They may be compared with legal records, but they are not evidence that religion caused a law; causation still requires the methodology's independent historical evidence.

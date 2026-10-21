@@ -23,7 +23,7 @@
 | Independent outside audit | **Not performed — waived by the owner (20 Oct 2026, reconfirmed)** | See §3b |
 | Final corpus and research-governance CI | **PASS — GitHub Actions** | Both workflows passed on the integrated PR commit `2990e760` and main merge `cf756397`; release reader is registered in Library and Search |
 
-**Counting policy:** `main` now contains **139 distinct claim records**, including 13 `IL-*` entries; the original 126 were preserved unchanged. Draft PR #212 is still unmerged and its nine proposed registry additions are not counted here. Review statuses reflect the accessible source checks and qualifications, not independent scholarly verification.
+**Counting policy (current checkpoint):** The Illness merge raised the registry from **126 to 139** entries, including 13 unique `IL-*` records and no changes to the original 126. **Current `main` contains 148 distinct registry records** after subsequent separate updates; none of those nine additional entries is an illness-source upgrade. [PR #212](https://github.com/imanisworld/religion-knowledge/pull/212) is **closed without merge**. Draft Law PR #240 proposes two additional IDs, which are not yet canonical. Review statuses reflect accessible source checks, not outside specialist verification.
 
 ## 2. Corrections made after first pass
 
@@ -43,7 +43,7 @@
 | Priority | Work | Why blocked |
 |---|---|---|
 | 1 | **Preserve accepted research limitations** | Outside specialist review waived for this bounded edition; mark Hebrew/Greek/Akkadian, paywalled chapter, and Mari tablet checks as unfinished, not verified |
-| 2 | **Safeguard later PR #212 registry reconciliation** | #213 was merged first; #212 remains draft and must preserve the 13 `IL-*` records if it eventually qualifies for merging (§3a) |
+| 2 | **Preserve registry on future integrations** | #212 was closed without merge. Maintain all current 148 unique claim IDs and the 13 `IL-*` entries; reconcile new draft Law additions from PR #240 without overwriting current entries (§3a) |
 | 3 | **Reader, Search and navigation consistency** | Registered on main; preserve merged #202 Prophecy and Religions & Traditions navigation and responsive presentation in subsequent builds |
 | 4 | **Scoped freeze exception** | Completed for #202 and #213 only; the general research consolidation freeze stays active for other expansions |
 | 5 | **Production HTTP spot check** | Merge, validation and Cloudflare workflow succeeded; an unauthenticated direct GET of live pages could not be independently completed from the review environment |
@@ -54,13 +54,13 @@ Verified on 20 October 2026 against `main` at `ab55625` and PR #212 at `6b096b1`
 
 - `main` has **126** registry entries. PR #212 adds **9** (`CP-ARCHER-001`, `CP-BARTON-001`, `CP-BARTON-002`, `CP-BRIGGS-001`, `CP-SCHREIN-001`, `LC-NPPNAME-001`, `LC-SANDERS-001`, `LC-SUPERSESS-001`, `LC-TRIPART-001`). This branch adds **13** (`IL-*`). **No IDs overlap**, and neither branch alters any existing entry.
 - Both branches append after the same final entry, so whichever merges second gets a **certain textual conflict in `docs/research/claim-registry.json`**. It is the only conflicting file: root `STATUS.md` merges automatically, and PR #212 merges cleanly into `main` by itself.
-- **Current status:** #213 merged first with 13 `IL-*` IDs. PR #212 remains a draft because its six proposed Cited Persons promotions lack required primary-source verification; if #212 is eventually reconsidered, preserve those 13 new main records and withhold any unsupported upgrades.
+- **Current status:** #213 merged first with 13 `IL-*` IDs. PR #212 was later **closed without merge**; the six proposed Cited Persons promotions were not accepted as evidence-verified upgrades. Subsequent separate changes increased the canonical registry to **148**, and any new research PR (including draft #240) must preserve the existing IDs.
 
 **Resolution procedure (for whichever PR merges second):**
 
 1. Merge current `main` into the branch. Do not rebase a shared branch.
 2. In `claim-registry.json`, keep every entry already on `main` exactly as it is, then append this branch's entries after them. Never accept a whole-file "ours" or "theirs" version; either one silently drops the other PR's claims.
-3. Check that the entry count equals `main`'s count plus this branch's additions (**126 + 9 + 13 = 148** if nothing else lands), with unique IDs.
+3. Check that the entry count equals **the then-current** `main` count plus only verified distinct additions, with unique IDs. The old **126 + 9 + 13 = 148** calculation was a historical 20 October merge simulation, and is **not** a forecast for later PRs.
 4. Run `node scripts/validate-claim-registry.mjs`, then let both CI workflows run on the merged head.
 
 This procedure was rehearsed in a scratch worktree: the result was 148 entries, a pure append with no changes to existing lines, and "All checks passed."
@@ -77,7 +77,7 @@ This procedure was rehearsed in a scratch worktree: the result was 148 entries, 
 
 ## 4. Next safe action
 
-The illness reader is merged into `main` with Library/Search/navigation registration and all 139 unique claim IDs preserved. Both main CI workflows and the Cloudflare deployment workflow completed successfully on commit `cf756397`. Direct live-site HTTP retrieval remains unconfirmed by the review tool. The narrow freeze exception and outside-review waiver are documented; the edition continues to identify its evidence limitations.
+The illness reader is merged into `main` with Library/Search/navigation registration; its **13 `IL-*` IDs** are preserved in the current **148-record** registry. At initial release the total was 139. Both main CI workflows and the Cloudflare deployment workflow completed successfully on original release commit `cf756397`. Direct live-site HTTP retrieval remains unconfirmed by the review tool. The narrow freeze exception and outside-review waiver are documented; the edition continues to identify its evidence limitations.
 
 ## 5. Connected existing project work
 
