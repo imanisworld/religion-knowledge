@@ -53,6 +53,66 @@
       "label": "Ligonier (Reformed): The Return of Christ",
       "url": "https://learn.ligonier.org/guides/the-return-of-christ",
       "scope": "Representative Reformed distinction of first advent, second advent and prophetic fulfillment."
+    },
+    "catholic_isaiah_714": {
+      "label": "Catholic Catechism §497 on Isaiah 7:14 and Matthew 1:23",
+      "url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/artcile_3/paragraph_2_conceived_by_the_power_of_the_holy_spirit_and_born_of_the_virgin_mary.html",
+      "scope": "Official Catholic interpretation of Isaiah 7:14 as fulfilled in Jesus; does not establish the original Ahaz-era referent or historical event."
+    },
+    "evangelical_isaiah_dual": {
+      "label": "GotQuestions, Isaiah 7:14's double-fulfillment interpretation",
+      "url": "https://www.gotquestions.org/virgin-or-young-woman.html",
+      "scope": "Evangelical ministry's explicit near-Ahaz and farther-Jesus interpretation; not an evangelical consensus or philological proof."
+    },
+    "orthodox_isaiah53_holyfriday": {
+      "label": "OCA Great and Holy Friday: Isaiah 53 applied to Jesus",
+      "url": "https://www.oca.org/saints/all-lives/2024/5/3",
+      "scope": "Original OCA liturgical account links Isaiah 52:14–53:12 to the cross; not evidence of the servant's original referent."
+    },
+    "evangelical_isaiah53": {
+      "label": "Desiring God: Isaiah 53:11 and Jesus' death",
+      "url": "https://www.desiringgod.org/articles/finished",
+      "scope": "A directly accessible evangelical devotional argument identifying the servant with Jesus; not proof of historical prediction."
+    },
+    "reformed_jeremiah31": {
+      "label": "Keith Mathison at Ligonier, Hebrews and the New Covenant",
+      "url": "https://learn.ligonier.org/articles/new-covenant",
+      "scope": "Named Reformed author analyzes Jeremiah 31 and Hebrews 8 specifically; not a binding position for every Reformed church."
+    },
+    "disp_jeremiah31": {
+      "label": "John F. Walvoord, The New Covenant with Israel",
+      "url": "https://bible.org/seriespage/18-new-covenant-israel",
+      "scope": "Original dispensational author argues present Christian benefits and a still-future fulfillment for Israel; theological exegesis."
+    },
+    "adventist_1844_specific": {
+      "label": "Seventh-day Adventist General Conference, Fundamental Belief 24",
+      "url": "https://gc.adventist.org/beliefs/",
+      "scope": "Official doctrine directly connects Daniel 8's 2,300 prophetic days with 1844 heavenly sanctuary ministry; not independent corroboration."
+    },
+    "christological_daniel9_chase": {
+      "label": "Mitchell L. Chase, Daniel 9:24–27 author commentary",
+      "url": "https://www.thegospelcoalition.org/commentary/daniel/",
+      "scope": "Original author treats Daniel's last seven as Christ's work and Jerusalem 70 CE, not a future seven-year gap."
+    },
+    "disp_daniel9_vlach": {
+      "label": "Michael J. Vlach, Dispensational Theology on Daniel 9",
+      "url": "https://www.thegospelcoalition.org/essay/dispensational-theology/",
+      "scope": "Author directly describes a future seventieth week and distinct future Israel; a specific theological model."
+    },
+    "partial_preterist_mark13_sproul": {
+      "label": "R. C. Sproul sermon Christ Coming in Glory, Mark 13:24–37",
+      "url": "https://learn.ligonier.org/sermons/mark-christ-coming-glory",
+      "scope": "Original sermon treats 'this generation' as Jesus' contemporaries and weighs first-century judgment imagery versus future return."
+    },
+    "revelation13_carson": {
+      "label": "D. A. Carson sermon on Revelation 13:1–10",
+      "url": "https://www.thegospelcoalition.org/sermon/revelation-13-part-1/",
+      "scope": "Original sermon interprets recurring political opposition using Antiochus/Nero; does not explain the 666/616 numerical variants."
+    },
+    "revelation20_mathison": {
+      "label": "Keith Mathison, The Millennial Maze on Revelation 20",
+      "url": "https://learn.ligonier.org/articles/millennial-maze",
+      "scope": "Named author directly describes amillennial, premillennial (historic/dispensational), postmillennial views; not universal church doctrine."
     }
   },
   "case_count": 65,
@@ -126,18 +186,18 @@
   "cases": {
     "isaiah-7-14": [
       {
-        "label": "Christological/typological (Catholic and Orthodox)",
-        "explanation": "Isaiah's sign to Ahaz retains its historical setting; Matthew reads the child/Immanuel motif through Jesus and Mary as a fuller Christ-centered sense.",
-        "source_key": "catholic_typology",
-        "source_level": "general_method_or_comparative",
-        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+        "label": "Catholic fulfillment of Isaiah 7:14 (Catechism §497)",
+        "explanation": "Catholic teaching explicitly interprets Isaiah 7:14 and Matthew 1:23 as fulfilled in Jesus' virginal conception. The Ahaz-era context and the historical occurrence require separate evidence.",
+        "source_key": "catholic_isaiah_714",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
       },
       {
-        "label": "Direct messianic prediction (some evangelicals)",
-        "explanation": "The verse is taken as an inspired prediction of Jesus' virginal conception, with Matthew's Greek citation governing the Christian interpretation.",
-        "source_key": "reformed_return",
-        "source_level": "general_method_or_comparative",
-        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+        "label": "Near-and-far fulfillment (GotQuestions evangelical reading)",
+        "explanation": "The ministry interprets Isaiah 7:14 as first addressing King Ahaz's immediate crisis and then receiving a farther messianic application to Jesus in Matthew. This remains a theological construction.",
+        "source_key": "evangelical_isaiah_dual",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
       }
     ],
     "hosea-11-1": [
@@ -206,18 +266,18 @@
     ],
     "isaiah-53": [
       {
-        "label": "Christ's passion as fulfillment (Catholic and Orthodox)",
-        "explanation": "The servant's humiliation and vindication are read in light of Jesus' suffering, death, and resurrection, while servant identity in Isaiah remains a question of original context.",
-        "source_key": "orthodox_typology",
-        "source_level": "general_method_or_comparative",
-        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+        "label": "Orthodox Holy Friday suffering-servant interpretation",
+        "explanation": "The Orthodox Church in America's Holy Friday liturgical reading applies Isaiah 52:14–53:12 directly to Jesus' suffering and death, apart from the original Hebrew servant-identity question.",
+        "source_key": "orthodox_isaiah53_holyfriday",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
       },
       {
-        "label": "Direct individual messianic forecast (some evangelicals)",
-        "explanation": "The servant is understood as Jesus personally and in advance, including suffering for others' sins; the predictive interpretation requires an argument about Isaiah's original referent.",
-        "source_key": "reformed_return",
-        "source_level": "general_method_or_comparative",
-        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+        "label": "Evangelical atonement reading (Desiring God)",
+        "explanation": "An evangelical devotional article interprets Isaiah 53:11 as Jesus bearing others' wrongdoing at the cross; it makes an explicit theological claim about the passage, not independent historical verification.",
+        "source_key": "evangelical_isaiah53",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
       }
     ],
     "psalm-22": [
@@ -462,18 +522,18 @@
     ],
     "jeremiah-31-hebrews-8": [
       {
-        "label": "New covenant inaugurated in Christ",
-        "explanation": "Christians read the promise as active in Christ's teaching, death and community; Catholic theology affirms the Old Testament's enduring value rather than total cancellation.",
-        "source_key": "catholic_typology",
-        "source_level": "general_method_or_comparative",
-        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+        "label": "Reformed new-covenant interpretation (Keith Mathison)",
+        "explanation": "Mathison interprets Hebrews 8's quotation of Jeremiah 31:31–34 as the inauguration of the new covenant through Christ and the ending of the old covenant administration.",
+        "source_key": "reformed_jeremiah31",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
       },
       {
-        "label": "Future national covenant completion",
-        "explanation": "Some dispensational readings distinguish the church's current participation from a future covenant fulfillment involving ethnic Israel.",
-        "source_key": "reformed_return",
-        "source_level": "general_method_or_comparative",
-        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+        "label": "Future fulfillment for Israel (John F. Walvoord)",
+        "explanation": "Walvoord argues Christians already benefit from the new covenant, while its Israel-and-Judah national promises await future fulfillment. Other Christians contest that distinction.",
+        "source_key": "disp_jeremiah31",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
       }
     ],
     "isaiah-6-matthew-13": [
@@ -901,11 +961,11 @@
         "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
       },
       {
-        "label": "Seventh-day Adventist historicism",
-        "explanation": "Adventist teaching applies a year-day reading to 2,300 days, ending in 1844 with a new phase of Christ's heavenly sanctuary ministry; this is not a scholarly consensus chronology.",
-        "source_key": "adventist_daniel",
-        "source_level": "general_method_or_comparative",
-        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+        "label": "Seventh-day Adventist heavenly-sanctuary doctrine",
+        "explanation": "Fundamental Belief 24 connects Daniel's 2,300 prophetic days with Christ entering a final phase of heavenly sanctuary ministry in 1844; this is explicitly the denomination's belief.",
+        "source_key": "adventist_1844_specific",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
       },
       {
         "label": "Futurist sanctuary crisis",
@@ -917,18 +977,18 @@
     ],
     "daniel-9-seventy-weeks": [
       {
-        "label": "Christ-centered seventy weeks",
-        "explanation": "Some Catholic, Orthodox and Reformed interpreters read the anointed figure, covenant and desolation through the first advent and Jerusalem's destruction, with differing timelines.",
-        "source_key": "catholic_typology",
-        "source_level": "general_method_or_comparative",
-        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+        "label": "Christ-centered seventy weeks (Mitchell L. Chase)",
+        "explanation": "Chase takes the seventieth seven as Jesus' atonement and new covenant, with the judgment on Jerusalem in 70 CE, rather than a remote future seven-year interval.",
+        "source_key": "christological_daniel9_chase",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
       },
       {
-        "label": "Dispensational seventieth-week gap",
-        "explanation": "A popular dispensational model separates the final seven-year week from the earlier sixty-nine and places it in a future tribulation; the textual gap is disputed.",
-        "source_key": "reformed_millennium",
-        "source_level": "general_method_or_comparative",
-        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+        "label": "Future seventieth week (Michael J. Vlach)",
+        "explanation": "Vlach describes a gap after the sixty-nine weeks, a future seven-year period, and distinct future blessings for Israel within dispensational theology.",
+        "source_key": "disp_daniel9_vlach",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
       },
       {
         "label": "Historicist year-day sequence",
@@ -995,11 +1055,11 @@
     ],
     "mark-13-30-this-generation": [
       {
-        "label": "Near-first-century judgment (preterist)",
-        "explanation": "Many preterists understand 'this generation' as Jesus' contemporaries and much of the discourse as the events around Jerusalem's fall in 70 CE.",
-        "source_key": "christian_apocalypse",
-        "source_level": "general_method_or_comparative",
-        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+        "label": "Contemporary generation (R. C. Sproul)",
+        "explanation": "Sproul interprets 'this generation' as Jesus' contemporaries, discussing Jerusalem's first-century crisis and figurative judgment language while considering alternative readings.",
+        "source_key": "partial_preterist_mark13_sproul",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
       },
       {
         "label": "Future final generation (futurist)",
@@ -1156,41 +1216,41 @@
         "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
       },
       {
-        "label": "Idealist repeating oppressive power",
-        "explanation": "Idealists see the beast as the recurring idolatrous demand of political empire, even when it has a first-century prototype.",
-        "source_key": "christian_apocalypse",
-        "source_level": "general_method_or_comparative",
-        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+        "label": "Recurring persecuting powers (D. A. Carson, Rev 13)",
+        "explanation": "Carson understands the beast as a recurring pattern of persecuting political power, including Nero. His sermon does not settle how 666 and 616 were calculated.",
+        "source_key": "revelation13_carson",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
       }
     ],
     "revelation-20-21-millennium-new-jerusalem": [
       {
-        "label": "Catholic/Orthodox non-literal millennium",
-        "explanation": "Catholic teaching rejects millenarianism; many Catholic and Orthodox interpreters read the thousand years as symbolic of Christ's present reign and expect future judgment and renewed creation.",
+        "label": "Catholic rejection of millenarianism (official doctrine)",
+        "explanation": "Catechism §§675–677 rejects millenarian claims of an earthly messianic kingdom before final judgment. It does not prescribe an exhaustive official commentary on Revelation 20 or establish a particular Orthodox interpretation.",
         "source_key": "catholic_endtimes",
-        "source_level": "general_method_or_comparative",
-        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+        "source_level": "official_doctrine_not_full_verse_exegesis",
+        "attribution": "Official Catholic doctrine established; verse-specific millennium scheme and Orthodox position remain unverified by this source."
       },
       {
-        "label": "Reformed amillennialism",
-        "explanation": "Amillennial readers identify the millennium with the present church age and the New Jerusalem with the final renewed creation.",
-        "source_key": "reformed_millennium",
-        "source_level": "general_method_or_comparative",
-        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+        "label": "Amillennialism in Keith Mathison's comparison",
+        "explanation": "Mathison reports the amillennial reading of the thousand years as Christ's present reign during the church age, prior to the final return.",
+        "source_key": "revelation20_mathison",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
       },
       {
-        "label": "Historic or dispensational premillennialism",
-        "explanation": "Premillennial readers expect Christ to return before a future reign; dispensational versions additionally distinguish Israel and the church in the kingdom promises.",
-        "source_key": "reformed_millennium",
-        "source_level": "general_method_or_comparative",
-        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+        "label": "Historic and dispensational premillennialism (Mathison)",
+        "explanation": "Mathison describes both as expecting a future reign after Christ returns, with a stronger Israel–church distinction in dispensational versions.",
+        "source_key": "revelation20_mathison",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
       },
       {
-        "label": "Postmillennialism",
-        "explanation": "Postmillennial readers expect a prolonged gospel-influenced era before the final return, usually without a literal thousand-year calendar.",
-        "source_key": "reformed_millennium",
-        "source_level": "general_method_or_comparative",
-        "attribution": "illustrative Christian reading; NOT a verified denomination-wide position for this exact verse"
+        "label": "Postmillennialism in Keith Mathison's comparison",
+        "explanation": "Mathison describes a prolonged gospel-influenced period before the final return; the thousand-year span need not be read as an exact literal duration.",
+        "source_key": "revelation20_mathison",
+        "source_level": "passage_specific_primary_statement",
+        "attribution": "This original author or official institution states this particular reading; its historical or supernatural claims remain unproven by that fact."
       }
     ],
     "mark-1-composite-quotation": [
