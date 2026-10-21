@@ -26,3 +26,28 @@ test('unresolved Texas §21.06 motive stays outside classified A–E comparisons
   assert.ok(match, 'Texas search result exists');
   assert.match(match.text, /(?:motive|causation) unresolved/);
 });
+
+test('provisional Montana historical evidence and state-law coverage remain visible', () => {
+  const file = p => readFileSync(p, 'utf8');
+  const montana = file('research/religion-law/us-states/montana.md');
+  const index = file('research/religion-law/us-states/index.md');
+  const gap = file('research/religion-law/gap-closure/README.md');
+  const anchor = file('research/religion-law/us-states/anchor-state-status.md');
+  const reader = file('religion-law.html');
+  const records = JSON.parse(file('research/religion-law/records/us-state-starter.json'));
+  const mt = records.find(r => r.id === 'US-MT-CONST-ARTX-S6');
+  assert.ok(mt);
+  assert.equal(mt.confidence, 'medium');
+  assert.match(mt.scope_note, /original Vol\. VI page images/);
+  assert.match(mt.scope_note, /Vol\. II committee records/);
+  assert.match(montana, /1972 convention historical-causation assessment provisional/);
+  assert.match(index, /34 states have no such records yet/);
+  assert.match(index, /1973 §21\.06-specific motive unresolved/);
+  assert.match(anchor, /Texas §21\.06's motive and Montana's 1972/);
+  assert.match(gap, /Unresolved motive/);
+  assert.match(gap, /Provisional historical reading/);
+  assert.match(reader, /Scope &amp; evidence limits/);
+  assert.match(reader, /r\.scope_note/);
+  assert.match(reader, /states without normalized law records/);
+  assert.match(reader, /Texas §21\.06 is deliberately withheld/);
+});
