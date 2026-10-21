@@ -132,3 +132,20 @@ test('catalog exposes supported motifs, script origin classifications, source li
   assert.doesNotMatch(people, /Background context included/);
   assert.doesNotMatch(html, /github\.com/);
 });
+
+
+test('catalog clearly identifies five research families held for further verification',()=>{
+  const html=buildPublicCatalog();
+  assert.match(html, /<details class="status" id="research-coverage">/);
+  assert.match(html, /These lists cover 5 of 10 Timeline research categories/);
+  assert.match(html, /51 research records across five categories/);
+  assert.match(html, /Historical gender systems \(21\)/);
+  assert.match(html, /Historical knowledge records \(3\)/);
+  assert.match(html, /Historical political societies \(9\)/);
+  assert.match(html, /Human populations and evolution \(6\)/);
+  assert.match(html, /Historical texts and inscriptions \(12\)/);
+  assert.match(html, /community knowledge boundaries/);
+  assert.match(html, /records differ from these Timeline entries/);
+  assert.match(html, /Related reading pages are not guaranteed to reproduce these records/);
+  assert.doesNotMatch(html, /github\.com/);
+});
