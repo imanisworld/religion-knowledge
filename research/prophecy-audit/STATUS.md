@@ -74,3 +74,12 @@ The original **50-location supplemental seed has been completely mapped**, but a
 4. Keep the 11 partly unconfirmed scholarly citations and 21 discovery leads visible as open limits. Outside specialist review remains optional for this bounded edition; any newly promoted case still requires a verifiable source passage.
 
 **Files:** [records.json](records.json) · [inventory.json](inventory.json) · [index.md](index.md) · [REVIEW.md](REVIEW.md) · [TODO.md](TODO.md).
+
+
+## New interpretive-comparison layer (20 October 2026) — DRAFT, unmerged
+
+A separate public-facing Christian-reception comparison has been prepared for **all 65 already audited cases**, with **141 short interpretive examples** in `christian-interpretations.json`, a dedicated methodological explanation and collapsible comparisons in `prophecy-audit.html`, and matching bounded prose in `index.md`. This new layer was not part of the previously merged 65-case source audit and should not inherit its release approval automatically.
+
+**Source-level caution:** Catholic Catechism and Orthodox Church in America teaching pages substantiate broad interpretive commitments; Reformed ministry guides and four-view surveys summarize approaches; the Seventh-day Adventist Fundamental Beliefs substantiate the **specific** 1844 heavenly-sanctuary doctrine. Most of the 141 examples **have general-method or comparative references, not individual verse-specific church-authority endorsements**. They are illustrations of Christian reception, not established denomination-wide agreement, not new historical-corroboration findings, and not a substitute for original-language review.
+
+**Current:** this new layer is **research/reader change staged for review**, not 141 independently primary-verified interpretations; no alteration to the original historical-evidence verdicts or to the 65-case count. Verify all source URLs, case mappings, generated Search consistency, responsive reader behavior and accessibility before any merge/deployment. Broader site cross-links (Translations, Law & Covenant, The Strongest Case, Study Notes and Illness) remain prospective rather than silently duplicated.
