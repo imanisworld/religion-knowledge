@@ -1,0 +1,45 @@
+{
+  "id": "claim_anangu_tjukurpa_law_public_boundary",
+  "subject_type": "Tradition",
+  "subject_id": "trad_anangu_tjukurpa",
+  "statement": "The Uluṟu–Kata Tjuṯa National Park's public Aṉangu cultural guidance describes Tjukurpa as ongoing law, spirituality and responsibility toward land and kin; it explicitly distinguishes openly shareable stories from restricted knowledge and says stories are transmitted to the appropriate people.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Australia"
+  ],
+  "evidence_types": [
+    "ETHNOGRAPHIC",
+    "ORAL_TRADITION"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Parks Australia / Uluṟu–Kata Tjuṯa National Park, 'Tjukurpa', sections 'Tjukurpa law and spirituality' and 'Kinship and passing down of Tjukurpa', https://uluru.gov.au/discover/culture/tjukurpa/",
+      "author": "Aṉangu traditional owner knowledge via Parks Australia",
+      "year": null,
+      "venue": "Parks Australia",
+      "contemporary_with_event": false,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT public institutional page review",
+      "verified_date": "2026-10-20",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Full public park cultural page read including stated non-disclosure of secret/sacred material. Only publicly approved general teaching summarized."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "Ancient regional occupation dates do not establish the age of any specific Tjukurpa account.",
+    "Public descriptions do not authorize disclosure of restricted or initiatory content.",
+    "Tjukurpa is a living system of responsibilities; a Western category like 'myth' alone is insufficient."
+  ],
+  "adversarial_counter": "Even official public educational wording is a limited framing of a living Aṉangu knowledge system; further content needs community authorization.",
+  "status": "draft",
+  "notes": "Institutional-source audit. Scope: named public page and its content only; no tradition founding-year inference. Independent historical / community review required before status change."
+}

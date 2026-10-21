@@ -1,0 +1,45 @@
+{
+  "id": "claim_ifa_osun_grove_unesco_continuity",
+  "subject_type": "Tradition",
+  "subject_id": "trad_ifa_orisa",
+  "statement": "UNESCO documents Osun-Osogbo Sacred Grove as an active Yoruba religious site with Osun shrines, continuing festivals and modern twentieth-century sculptural revivals, demonstrating documented ritual continuity alongside historical change at this particular place.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "West Africa"
+  ],
+  "evidence_types": [
+    "MATERIAL_CULTURE",
+    "ETHNOGRAPHIC"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "UNESCO World Heritage Centre, 'Osun-Osogbo Sacred Grove' (World Heritage 1118), Brief synthesis and Criterion vi, https://whc.unesco.org/en/list/1118/",
+      "author": "UNESCO World Heritage Centre / Nigerian heritage authorities",
+      "year": null,
+      "venue": "UNESCO World Heritage",
+      "contemporary_with_event": false,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT public institutional page review",
+      "verified_date": "2026-10-20",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Public UNESCO heritage account directly read. It describes active worship, annual festival and modern artists' interventions, with explicit distinction from earlier abandoned sacred groves."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "UNESCO inscription in 2005 does not establish a founding date for Òrìṣà worship or Ifa.",
+    "Practice at Osogbo is a particular locality and is not a representative inventory of every Yoruba religious tradition.",
+    "New twentieth-century sculpture should not be misdated to precolonial ages."
+  ],
+  "adversarial_counter": "Ongoing ritual use and artist-led restoration coexist; they require differentiated chronology rather than a static claim of unchanged authenticity.",
+  "status": "draft",
+  "notes": "Institutional-source audit. Scope: named public page and its content only; no tradition founding-year inference. Independent historical / community review required before status change."
+}

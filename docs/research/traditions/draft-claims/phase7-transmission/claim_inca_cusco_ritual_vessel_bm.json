@@ -1,0 +1,44 @@
+{
+  "id": "claim_inca_cusco_ritual_vessel_bm",
+  "subject_type": "Tradition",
+  "subject_id": "trad_inca_state_religion",
+  "statement": "A British Museum indexed object record describes a large carved cocha vessel, accession Am1991,Q.4, as late fifteenth-century Inca, likely associated with the Coricancha precinct; the museum proposes possible liquid-offering use but states the original context as probable rather than proven.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "South America"
+  ],
+  "evidence_types": [
+    "MATERIAL_CULTURE"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "British Museum, vessel/cocha, Am1991,Q.4, object catalog and curatorial comment, https://www.britishmuseum.org/collection/object/E_Am1991-Q-4",
+      "author": "British Museum curatorial inventory",
+      "year": null,
+      "venue": "British Museum Collections",
+      "contemporary_with_event": false,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT public institutional page review",
+      "verified_date": "2026-10-20",
+      "verification_method": "SEARCH_SNIPPET",
+      "access_note": "Indexed full object description accessible in search output; opening the museum URL returned HTTP 403. Provenance is described as unknown; the Coricancha placement and function are explicitly proposed, not demonstrated."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "A proposed association with Coricancha does not establish actual placement or original ritual use.",
+    "Late fifteenth-century dating applies to the museum's object interpretation, not the creation of the wider Inca religious system.",
+    "No unsupported links to specific sacrifice rites, temple inventory or universal state practice are inferred."
+  ],
+  "adversarial_counter": "Missing acquisition/provenance history and proposed rather than documented temple context limit object-based generalization.",
+  "status": "draft",
+  "notes": "Institutional-source audit. Scope: named public page and its content only; no tradition founding-year inference. Independent historical / community review required before status change."
+}

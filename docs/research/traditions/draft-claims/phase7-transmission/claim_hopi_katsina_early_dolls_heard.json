@@ -1,0 +1,45 @@
+{
+  "id": "claim_hopi_katsina_early_dolls_heard",
+  "subject_type": "Tradition",
+  "subject_id": "trad_hopi_religion",
+  "statement": "The Heard Museum's indexed collections description dates some Hopi katsina doll examples to the late nineteenth century and describes publicly shared ceremonial gifting of figures representing Katsinam; these dated museum objects document a collecting horizon, not the origin of Katsina practice.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "MATERIAL_CULTURE",
+    "ETHNOGRAPHIC"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Heard Museum, 'Hopi Katsina Dolls', collections page https://heard.org/collection/katsina-dolls/",
+      "author": "Heard Museum",
+      "year": null,
+      "venue": "Heard Museum Collections",
+      "contemporary_with_event": false,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT public institutional page review",
+      "verified_date": "2026-10-20",
+      "verification_method": "SEARCH_SNIPPET",
+      "access_note": "Museum collection index displayed late-1800s examples, gifting context and materials. Direct page retrieval failed, so museum statement has not been inspected in its full display context."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "Earliest surviving museum dolls cannot date the development of Hopi katsina practice.",
+    "Published information about gifts does not authorize documenting private or restricted ceremonies.",
+    "Objects collected or made for sale differ from those prepared for community gifting."
+  ],
+  "adversarial_counter": "The searchable museum summary may condense variation among Hopi villages, makers and ritual contexts.",
+  "status": "draft",
+  "notes": "Institutional-source audit. Scope: named public page and its content only; no tradition founding-year inference. Independent historical / community review required before status change."
+}

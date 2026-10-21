@@ -1,0 +1,49 @@
+{
+  "id": "claim_mexica_templo_mayor_1390_offerings_inah",
+  "subject_type": "Tradition",
+  "subject_id": "trad_mexica_religion",
+  "statement": "Mexico's National Institute of Anthropology and History (INAH) describes archaeological offerings at Tenochtitlan's Templo Mayor and funerary urns assigned to Stage II around 1390 CE, in a complex whose paired shrines honored Huitzilopochtli and Tlaloc.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1390,
+    "latest": 1390,
+    "precision": "YEAR"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Mesoamerica"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY",
+    "MATERIAL_CULTURE"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "INAH, Museo del Templo Mayor, English exhibition text 'The Templo Mayor Museum', passages on the paired shrines and Stage II burial urns (1390 CE), https://lugares.inah.gob.mx/en/node/5284",
+      "author": "Instituto Nacional de Antropología e Historia",
+      "year": null,
+      "venue": "INAH / Museo del Templo Mayor",
+      "contemporary_with_event": false,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT public institutional page review",
+      "verified_date": "2026-10-20",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Official museum page directly read. Stage II date attributed to museum's archaeological interpretation; object inventory details outside displayed text not inspected."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "1390 CE dates this identified building phase, not the origin of Mexica or broader Mesoamerican religion.",
+    "A paired state shrine does not imply that every community practiced identically.",
+    "Ritual offerings alone do not reconstruct the full content of lost spoken prayers or beliefs."
+  ],
+  "adversarial_counter": "Archaeological interpretation of temple phases is distinct from evidence about state ideology and particular rituals.",
+  "status": "draft",
+  "notes": "Institutional-source audit. Scope: named public page and its content only; no tradition founding-year inference. Independent historical / community review required before status change."
+}

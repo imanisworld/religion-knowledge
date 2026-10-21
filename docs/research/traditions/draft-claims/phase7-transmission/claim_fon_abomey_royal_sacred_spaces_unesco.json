@@ -1,0 +1,45 @@
+{
+  "id": "claim_fon_abomey_royal_sacred_spaces_unesco",
+  "subject_type": "Tradition",
+  "subject_id": "trad_fon_vodun",
+  "statement": "UNESCO's Royal Palaces of Abomey designation describes seventeenth-to-nineteenth-century Aja-Fon royal compounds with respected sacred spaces, royal-spirit huts, ancestral tombs and periodic traditional ceremonies; this is evidence for a specific royal ritual landscape, not a founding date for Fon Vodun.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "West Africa"
+  ],
+  "evidence_types": [
+    "MATERIAL_CULTURE",
+    "ETHNOGRAPHIC"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "UNESCO World Heritage Centre, 'Royal Palaces of Abomey' (World Heritage 323), sections on authenticity and integrity, https://whc.unesco.org/en/list/323",
+      "author": "UNESCO World Heritage Centre / Benin heritage authorities",
+      "year": null,
+      "venue": "UNESCO World Heritage",
+      "contemporary_with_event": false,
+      "independent_corroboration": null,
+      "verified_by": "ChatGPT public institutional page review",
+      "verified_date": "2026-10-20",
+      "verification_method": "DIRECT_READ",
+      "access_note": "Full site description read, including 1625–1900 royal timeline, sacred royal sites, ceremonies and traditional family stewardship. No inference that all Fon Vodun rites or deities were represented there."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "Royal palaces dating from 1625 does not date the first appearance of Vodun.",
+    "Palace-specific rites must not be generalized to every Aja-Fon community.",
+    "Heritage protection and modern rituals do not establish an unchanged historical practice."
+  ],
+  "adversarial_counter": "Royal state ceremony reflects one politically situated part of a wider dynamic set of Fon religious traditions.",
+  "status": "draft",
+  "notes": "Institutional-source audit. Scope: named public page and its content only; no tradition founding-year inference. Independent historical / community review required before status change."
+}
