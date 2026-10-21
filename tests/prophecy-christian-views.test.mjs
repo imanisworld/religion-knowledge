@@ -33,7 +33,7 @@ test('all 65 prophecy cases include bounded, contrasting Christian understanding
       assert.ok(ref?.url?.startsWith('https://'),id+' unlinked framework source');
       assert.ok(ref.scope.length>30,id+' missing source-level caution');
       assert.equal(view.source_level,'general_method_or_comparative');
-      assert.ok(block.includes(view.label.replace(/&/g,'&amp;')),'Missing public reading: '+id+' '+view.label);
+      assert.ok(block.includes(view.label.replace(/&/g,'&amp;').replace(/'/g,'&#39;')),'Missing public reading: '+id+' '+view.label);
     }
   }
 });
