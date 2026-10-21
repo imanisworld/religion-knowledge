@@ -56,4 +56,6 @@
 
 
 - [x] First **eight-case passage-specific** source pass: upgrade **14** original church/author positions and explicitly mark **126** broader approach citations plus one Catholic doctrine-only citation.
-- [ ] Source-gate the remaining **126** specific interpretation claims against official church verse commentary or a named author's source passage (do not equate verified viewpoint with historical fulfillment).
+- [ ] Source-gate the remaining **122** specific interpretation claims against official church verse commentary or a named author's source passage (do not equate verified viewpoint with historical fulfillment).
+ 
+- [x] Second targeted source pass: four more direct author passages (Hosea 11:1, Jeremiah 31:15, Micah 5:2 and Zechariah 9:9); 18 direct, 122 general, 1 doctrine-only. Keep draft pending review.
